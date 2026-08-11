@@ -31,22 +31,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Окаймлённый красный шёлк",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Выцветший красный шёлк",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Прочие человеческие фракции",
   "filename_icon": "UI_MonsterIcon_Eremite_MuscleMan_Gloves",
   "description": "Член неорганизованной группы наёмников из золотых песков. Работает на кого угодно, лишь бы платили хорошо.\\nМастер боевых искусств, сражающийся с помощью уникального кинжала. Он присоединился к Пустынникам в поисках более сильных врагов. В отличие от других наёмников, сражается не ради награды, а чтобы совершенствовать технику боя.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

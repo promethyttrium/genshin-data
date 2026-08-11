@@ -1,0 +1,40 @@
+{
+  "_id": 25130201,
+  "id": "winged_soarer_knight",
+  "monsterId": 25130302,
+  "name": "大空の羽騎士",
+  "specialNames": [
+    "大空の羽騎士"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種の魔獣",
+  "filename_icon": "UI_MonsterIcon_Human_Girl_Vila_Blade",
+  "description": "双翼を持ち、空中を飛行できる風の精。\\n風の精の一族は、ツァーリ・ベールイが凍土全体の統一を始めた時には、すでにその後ろに従っていたフェイの氏族だと言われている。空を短い間飛ぶ能力により、機動力がかなり高い。斥候として敵群を偵察したり、長距離の奇襲を行ったりすることなど造作もない。\\nツァーリ・ベールイの時代に結成された親衛「冬契軍」は、そのメンバーの大半が風の精であった。",
+  "bgm": 1,
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.2,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 4.57189,
+      "attack": 40.552467,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

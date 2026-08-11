@@ -1,0 +1,21 @@
+{
+  "_id": 330002,
+  "id": "shattered_moon_sublimation",
+  "name": "Shattered Moon - Sublimation",
+  "description": "A glorious, illusory polearm glimmering with the power of \"Death\" that emerged from the depths of the Ley Lines. It can change its appearance based on the Elemental Type of its wielder. Legend has it that this polearm once held the name \"Barnstokkr\" when it was wielded by a transcendent sinner in an ancient land.",
+  "rarity": 5,
+  "type": {
+    "id": "Polearm",
+    "name": "Polearm"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Radiant Metamorphosis: Transcendence - Sublimation",
+    "priority": 1
+  },
+  "item_id": 341302,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphSpinifer_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphSpinifer_Great"
+}

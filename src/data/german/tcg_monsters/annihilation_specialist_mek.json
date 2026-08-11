@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Kein Elementartyp",
+    "weapon": "Andere Waffen",
     "faction": [
-      null
+      "Monster"
     ]
   },
   "skills": [
     {
       "id": "light_strike",
       "name": "Flinke Attacke",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -30,8 +34,10 @@
     {
       "id": "piercing_blow",
       "name": "Durchstich",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. ?.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1108,
@@ -44,8 +50,10 @@
     {
       "id": "slash_kick",
       "name": "Hiebe und Tritt",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 4 Pkt. ?.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1108,

@@ -1,0 +1,58 @@
+{
+  "_id": 4712,
+  "id": "domain_of_forgery_chain_track_ii",
+  "name": "Подземелье воли: Гусеничная цепь II",
+  "entranceId": 2106,
+  "entranceName": "Шрамы одержимости",
+  "description": "Когда-то здесь скрывались мятежники, снедаемые несбыточными надеждами и мечтавшие вернуть прошлое. Их мечты сгорели в кровавом пламени, оставив после себя лишь мёртвую белизну.\nОдолейте засевших здесь злодеев, тогда в награду вам достанутся материалы для усиления снаряжения.",
+  "regionId": 8,
+  "regionName": "Снежная",
+  "recommendedLevel": 36,
+  "unlockRank": 21,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "Анемо",
+    "Крио"
+  ],
+  "daysOfWeek": [
+    "Вторник",
+    "Пятница",
+    "Воскресенье"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Опыт приключений",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Мора",
+      "count": "1550"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Опыт дружбы",
+      "count": "15"
+    },
+    {
+      "_id": 114090,
+      "id": "intoxication_of_the_cellared_spiritual_nectar",
+      "name": "Хмель выдержанного духовного нектара"
+    },
+    {
+      "_id": 114089,
+      "id": "measured_pour_of_the_cellared_spiritual_nectar",
+      "name": "Порция выдержанного духовного нектара"
+    }
+  ],
+  "monsterList": []
+}

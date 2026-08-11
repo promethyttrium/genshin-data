@@ -32,7 +32,6 @@
   "categoryText": "Autômatos",
   "filename_icon": "UI_MonsterIcon_Gargoyle",
   "description": "Uma assustadora máquina de combate com aspecto de dragão.\\nDizem que é uma máquina de guerra deixada para trás por uma nação agora destruída. Ele imita a aparência dos seres conhecidos como Dragartos, com algumas melhorias funcionais. Essas máquinas têm uma capacidade ainda maior de \"absorver\", ou talvez a palavra certa seja \"contrariar\", poderes elementais do que os Dragartos.\\nA julgar por suas habilidades, a civilização que criou essa temível arma de guerra deve ter sido extremamente ambiciosa.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

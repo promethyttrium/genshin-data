@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Mandoble",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 5053,
@@ -29,8 +31,10 @@
     {
       "id": "shuumatsuban_ninja_blade",
       "name": "Sable ninja de Los Ocelos",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "yoohoo_art_fuuin_dash",
       "name": "Técnica “¡Yujuuu!”: Colisión de viento",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y este personaje <span style=\"color:#FFFFFFFF\">prepara la habilidad</span> <span style=\"color:#FFFFFFFF\">Tornadopatada</span>.<br/>Si dicha habilidad causa una reacción de Torbellino, <span style=\"color:#FFFFFFFF\">Tornadopatada</span> pasa a infligir daño del elemento con el que reaccionó Torbellino.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#80FFD7FF\">Daño Anemo</span> y este personaje <span style=\"color:#FFFFFFFF\">prepara la habilidad</span> <span style=\"color:#FFFFFFFF\">Tornadopatada</span>.<br/>Si dicha habilidad causa una reacción de Torbellino, <span style=\"color:#FFFFFFFF\">Tornadopatada</span> pasa a infligir daño del elemento con el que reaccionó Torbellino.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "yoohoo_art_mujina_flurry",
       "name": "Técnica “¡Yujuuu!”: Frenesí tejón",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? e invoca un <span style=\"color:#FFFFFFFF\">tejón daruma</span>.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#80FFD7FF\">Daño Anemo</span> e invoca un <span style=\"color:#FFFFFFFF\">tejón daruma</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1105,

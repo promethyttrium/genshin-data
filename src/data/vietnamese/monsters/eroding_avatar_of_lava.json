@@ -25,19 +25,19 @@
       "_id": 112112,
       "id": "ignited_seeing_eye",
       "name": "Con Mắt Rực Cháy",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112111,
       "id": "ignited_seed_of_life",
       "name": "Hạt Giống Sinh Mệnh Rực Cháy",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112110,
       "id": "ignited_stone",
       "name": "Hòn Đá Rực Cháy",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Lava_Solid",
   "description": "Ma vật kỳ lạ cần liên tục hấp thụ nhiệt để duy trì trạng thái hoạt động.\\nNền văn minh cổ xưa đã dùng hoa văn ánh vàng để điều khiển dòng chảy Phlogiston theo nhiều cách, khiến tạo vật khổng lồ và thành phố nguy nga có thể được vận hành trong trí tuệ sinh ra từ hoa văn vàng. Nghe nói ngoài những máy móc có kết cấu cố định, ma vật mang tên Hóa Thân Dung Nham thật ra cũng là sinh mệnh khiếm khuyết được tạo nên bằng cách này. Chẳng qua sau khi ngọn lửa của núi thánh tắt lịm, thì chúng đa phần đều bị mất đi mục đích và phương hướng.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

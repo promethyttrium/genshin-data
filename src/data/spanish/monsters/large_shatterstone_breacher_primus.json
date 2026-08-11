@@ -13,7 +13,6 @@
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_01",
   "description": "Una extraña criatura que mora principalmente en el cuerpo de Elynas.\\nSegún la sabiduría de las melusinas, los Protofisuradores no son criaturas peligrosas. Al contrario, las consideran incluso adorables.\\nAl parecer, la percepción visual de las melusinas dista bastante de la de los humanos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

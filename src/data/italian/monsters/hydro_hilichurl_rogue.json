@@ -13,7 +13,6 @@
   "categoryText": "Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hilistray_Water",
   "description": "Hilichurl erranti non affiliati a nessuna tribù specifica. Si scorgono spesso mentre vagano in mezzo alla natura come in un esilio involontario.\\nA volte capita che aiutino altri Hilichurl o le loro tribù per varie ragioni, per poi separarsi. Sembrano possedere un livello d'intelligenza superiore rispetto agli Hilichurl ordinari.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

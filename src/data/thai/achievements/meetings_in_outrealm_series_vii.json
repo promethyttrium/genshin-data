@@ -1,0 +1,80 @@
+{
+  "_id": 72,
+  "id": "meetings_in_outrealm_series_vii",
+  "name": "พบกันในต่างโลก - ชุดที่ 7",
+  "order": 37,
+  "achievements": [
+    {
+      "id": 86079,
+      "name": "การจมดิ่งของการดำรงอยู่",
+      "desc": "เอาชนะ Frostnight Herra ร่วมกับผู้เล่นคนอื่น",
+      "reward": 10,
+      "hidden": false,
+      "order": 9076
+    },
+    {
+      "id": 86080,
+      "name": "ยี่สิบหก เจาะได้แล้ว!",
+      "desc": "เอาชนะจักรกลตรวจการณ์หนักพิเศษ - ป้อมเคลื่อนที่ ร่วมกับผู้เล่นคนอื่น",
+      "reward": 10,
+      "hidden": false,
+      "order": 9077
+    },
+    {
+      "id": 86081,
+      "name": "ไม่ต้องพูด!",
+      "desc": "เอาชนะ Lord of the Hidden Depths: Whisperer of Nightmares ร่วมกับผู้เล่นคนอื่น",
+      "reward": 10,
+      "hidden": false,
+      "order": 9078
+    },
+    {
+      "id": 86082,
+      "name": "กำจัดวิญญาณชั่วร้าย",
+      "desc": "เอาชนะ The Doctor ร่วมกับผู้เล่นคนอื่น",
+      "reward": 10,
+      "hidden": false,
+      "order": 9079
+    },
+    {
+      "id": 86083,
+      "name": "เธอปกป้องอะไรไว้บ้าง",
+      "desc": "เอาชนะตุ๊กแกจันทราเรืองแสงร่วมกับผู้เล่นคนอื่น",
+      "reward": 10,
+      "hidden": false,
+      "order": 9080
+    },
+    {
+      "id": 86084,
+      "name": "\"หากฉันลับดาบอันเจิดจรัส...\"",
+      "desc": "เอาชนะ Watcher: Fallen Vigil ร่วมกับผู้เล่นคนอื่น",
+      "reward": 10,
+      "hidden": false,
+      "order": 9081
+    },
+    {
+      "id": 86085,
+      "name": "กำเนิดไร้แสง",
+      "desc": "เอาชนะ Dottore ร่วมกับผู้เล่นคนอื่น",
+      "reward": 10,
+      "hidden": false,
+      "order": 9082
+    },
+    {
+      "id": 86086,
+      "name": "อมตะดับสูญ",
+      "desc": "เอาชนะ Immortal Construct ร่วมกับผู้เล่นคนอื่น",
+      "reward": 10,
+      "hidden": false,
+      "order": 9083
+    },
+    {
+      "id": 86087,
+      "name": "สรรพสิ่งดับสิ้น",
+      "desc": "เอาชนะ Chimeric Winged Lion ร่วมกับผู้เล่นคนอื่น",
+      "reward": 10,
+      "hidden": false,
+      "order": 9084
+    }
+  ]
+}

@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 3,
+    "element": "Electro",
+    "weapon": "Outras Armas",
     "faction": [
-      null
+      "Fatui"
     ]
   },
   "skills": [
     {
       "id": "rapid_hammer_strike",
       "name": "Ataque Rápido de Martelo",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -36,8 +40,10 @@
     {
       "id": "raging_charge",
       "name": "Investida Feroz",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#FFACFFFF\">Dano Electro</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,8 +56,10 @@
     {
       "id": "thunderblast_hammer",
       "name": "Martelo da Explosão do Trovão",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, este personagem é afetado por <span style=\"color:#FFFFFFFF\">Armadura Elemental - Electro</span>.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#FFACFFFF\">Dano Electro</span>, este personagem é afetado por <span style=\"color:#FFFFFFFF\">Armadura Elemental - Electro</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -71,7 +79,9 @@
       "id": "combat_resupply",
       "name": "Reabastecimento de Combate",
       "desc": "(Passiva) No começo da batalha, este personagem recebe 2 pontos de Carga.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Passiva"
+      ],
       "points": []
     }
   ]

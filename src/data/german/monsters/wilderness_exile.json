@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Der Abgrund",
   "filename_icon": "UI_MonsterIcon_WildHunt",
   "description": "Ein Ghul, der die eisige Wildnis heimsucht. Wo er auftaucht, wird das Land in pechschwarzen Nebel getaucht und man sagt, dass sein Auftauchen von herannahendem Unheil verkünde.\\nAll jene, die ihr Dasein unter dem Mond fristen, brechen auf, mit dem Ziel, ihre Wünsche und Träume zu verwirklichen, doch nicht alle Wünsche sind dazu bestimmt, in Erfüllung zu gehen. Seelen, die keine Ruhe finden, da der Groll über die Trennung von geliebten Menschen oder unerfüllte Wünsche sie zerfrisst, können vom Abgrund korrumpiert werden und sich in diese Ghule verwandeln. Sie sind dann auf ewig dazu verdammt, in den dichten Nebeln der Wilden Jagd zu verharren.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

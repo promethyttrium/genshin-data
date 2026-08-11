@@ -1,0 +1,20 @@
+{
+  "_id": 332066,
+  "id": "feasting_in_a_shared_toast",
+  "shareId": 619,
+  "name": "Um Brinde a Todos",
+  "title": "Um Brinde a Todos",
+  "desc": "Sempre o último, como esperado! Sente-se, estamos esperando por você há eras!",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 0,
+    "card_type": "Carta de Evento",
+    "energy": []
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Quando o próximo Turno começa:</span> Ambos os lados sacam 2 cartas e ganham 2 Dados Elementais."
+    }
+  ]
+}

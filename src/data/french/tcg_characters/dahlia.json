@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Épée à une main",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "source": "Récompense pour avoir invité Dahlia à une partie amicale dans La Queue de Chat et remporté la victoire"
   },
@@ -18,8 +20,10 @@
     {
       "id": "favonius_bladework_ritual",
       "name": "Escrime de Favonius - Rituel",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -38,8 +42,10 @@
     {
       "id": "immersive_ordinance",
       "name": "Ordonnance immersive",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et crée un <span style=\"color:#FFFFFFFF\">mystère bruineux</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#80C0FFFF\">DGT Hydro</span> et crée un <span style=\"color:#FFFFFFFF\">mystère bruineux</span>.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -52,8 +58,10 @@
     {
       "id": "radiant_psalter",
       "name": "Psautier radieux",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et crée 2 pts de <span style=\"color:#FFFFFFFF\">undefined</span> et 2 cumuls de <span style=\"color:#FFFFFFFF\">faveur favonienne</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#80C0FFFF\">DGT Hydro</span> et crée 2 pts de <span style=\"color:#FFFFFFFF\">undefined</span> et 2 cumuls de <span style=\"color:#FFFFFFFF\">faveur favonienne</span>.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1102,

@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Character Card",
     "energy": 3,
+    "element": "Cryo",
+    "weapon": "Bow",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3214,
@@ -29,8 +31,10 @@
     {
       "id": "liutian_archery",
       "name": "Liutian Archery",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "trail_of_the_qilin",
       "name": "Trail of the Qilin",
-      "desc": "Deals ? ?, creates 1 <span style=\"color:#FFFFFFFF\">Ice Lotus</span>.",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#99FFFFFF\">Cryo DMG</span>, creates 1 <span style=\"color:#FFFFFFFF\">Ice Lotus</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "frostflake_arrow",
       "name": "Frostflake Arrow",
-      "desc": "Deals ? ?, deals 2 <span style=\"color:#FFFFFFFF\">Piercing DMG</span> to all opposing characters on standby.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#99FFFFFF\">Cryo DMG</span>, deals 2 <span style=\"color:#FFFFFFFF\">Piercing DMG</span> to all opposing characters on standby.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -77,8 +85,10 @@
     {
       "id": "celestial_shower",
       "name": "Celestial Shower",
-      "desc": "Deals ? ?, deals 1 <span style=\"color:#FFFFFFFF\">Piercing DMG</span> to all opposing characters on standby, summons 1 <span style=\"color:#FFFFFFFF\">Sacred Cryo Pearl</span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#99FFFFFF\">Cryo DMG</span>, deals 1 <span style=\"color:#FFFFFFFF\">Piercing DMG</span> to all opposing characters on standby, summons 1 <span style=\"color:#FFFFFFFF\">Sacred Cryo Pearl</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1101,

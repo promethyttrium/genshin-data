@@ -1,52 +1,18 @@
 {
   "_id": 23073101,
   "id": "oprichniki_grenadier",
-  "monsterId": 23073102,
+  "monsterId": 23073104,
   "name": "Oprichniki Grenadier",
   "specialNames": [
     "Support Trooper"
   ],
-  "investigation": {
-    "investigationId": 84,
-    "name": "Fatui Oprichnik",
-    "categoryType": "Common",
-    "categoryText": "Easy",
-    "description": "A soldier encased within a Fatui war machine.\\nUnlike their Skirmisher cousins, soldiers of the Oprichniki are formally recruited and rigorously trained. They are deployed either to the Fatui's most critical strongholds or thrown into the deadliest frontline battles."
-  },
-  "filename_investigationIcon": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
-  "rewardPreviewId": 16027,
-  "rewardPreview": [
-    {
-      "_id": 202,
-      "id": "mora",
-      "name": "Mora"
-    },
-    {
-      "_id": 112127,
-      "id": "frostetched_warrant",
-      "name": "Frost-Etched Warrant",
-      "count": 0.084
-    },
-    {
-      "_id": 112126,
-      "id": "immaculate_warrant",
-      "name": "Immaculate Warrant",
-      "count": 0.3362
-    },
-    {
-      "_id": 112125,
-      "id": "tattered_warrant",
-      "name": "Tattered Warrant",
-      "count": 1.2606
-    }
-  ],
+  "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_Female",
   "description": "A soldier of the Fatui Oprichniki, equipped with a man-portable grenade launcher that can perform close-range bombardment.\\nThough the Oprichniki has large-scale, fully-functional fire support attachments, the commanding staff still advocates for large numbers of grenadiers to be maintained. After all, no big gun can compare in surety at the very front lines of combat to a grenade launcher you can direct at will.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

@@ -13,7 +13,6 @@
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Magbeast_Rhino",
   "description": "Une bête qui a évolué de manière unique grâce à une longue immersion dans l'ancienne énergie lunaire.\\nLa légende raconte que dans un passé lointain, lorsque ces terres lointaines étaient encore plongées dans l'obscurité totale, seule la charge des rhinocéros géants pouvait restituer l'énergie donnant vie à toute chose... C'était tout ce qu'on leur demandait en échange des bénédictions du clair de lune.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

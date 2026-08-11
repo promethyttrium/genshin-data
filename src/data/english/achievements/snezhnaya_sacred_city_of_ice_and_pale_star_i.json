@@ -1,0 +1,182 @@
+{
+  "_id": 69,
+  "id": "snezhnaya_sacred_city_of_ice_and_pale_star_i",
+  "name": "Snezhnaya: Sacred city of ice and pale star (I)",
+  "order": 72,
+  "achievements": [
+    {
+      "id": 80504,
+      "name": "Continental Explorer: Snow Blanketed Nation (I)",
+      "desc": "Light up the maps of Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak in the Snezhnaya region.",
+      "reward": 5,
+      "hidden": false,
+      "order": 463
+    },
+    {
+      "id": 80505,
+      "name": "Across the Icebound Snowscape (I)",
+      "desc": "Unlock all Teleport Waypoints in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak in the Snezhnaya region.",
+      "reward": 5,
+      "hidden": false,
+      "order": 464
+    },
+    {
+      "id": 80506,
+      "name": "Sanctuary Pilgrim: Snow Blanketed Nation (I)",
+      "desc": "Unlock all Shrines of Depths in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak in the Snezhnaya region.",
+      "reward": 10,
+      "hidden": false,
+      "order": 465
+    },
+    {
+      "id": 80507,
+      "name": "Pale and Lucent as Ice",
+      "desc": "Upgrade the Statues of The Seven in Snezhnaya to their maximum level.",
+      "reward": 20,
+      "hidden": false,
+      "order": 466
+    },
+    {
+      "id": 80508,
+      "name": "Bounty of the Shadow Realm: Snow Blanketed Nation (I)",
+      "desc": "Unlock all Shadow Realm treasure vaults in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak in the Snezhnaya region.",
+      "reward": 10,
+      "hidden": false,
+      "order": 467
+    },
+    {
+      "id": 80509,
+      "name": "The Tundra Will Guide You Home (I)",
+      "desc": "Follow 3 Seelies in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak to their Seelie Courts.",
+      "reward": 5,
+      "hidden": false,
+      "order": 468
+    },
+    {
+      "id": 80510,
+      "name": "The Tundra Will Guide You Home (I)",
+      "desc": "Follow 5 Seelies in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak to their Seelie Courts.",
+      "reward": 10,
+      "hidden": false,
+      "order": 469,
+      "preStage": 80509
+    },
+    {
+      "id": 80511,
+      "name": "The Tundra Will Guide You Home (I)",
+      "desc": "Follow 10 Seelies in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak to their Seelie Courts.",
+      "reward": 20,
+      "hidden": false,
+      "order": 470,
+      "preStage": 80510
+    },
+    {
+      "id": 80512,
+      "name": "Glacial Treasure Hunter (I)",
+      "desc": "Open 65 chests in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.",
+      "reward": 5,
+      "hidden": false,
+      "order": 471
+    },
+    {
+      "id": 80513,
+      "name": "Glacial Treasure Hunter (I)",
+      "desc": "Open 130 chests in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.",
+      "reward": 10,
+      "hidden": false,
+      "order": 472,
+      "preStage": 80512
+    },
+    {
+      "id": 80514,
+      "name": "Glacial Treasure Hunter (I)",
+      "desc": "Open 260 chests in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.",
+      "reward": 20,
+      "hidden": false,
+      "order": 473,
+      "preStage": 80513
+    },
+    {
+      "id": 80515,
+      "name": "Chillwinter Adventurer (I)",
+      "desc": "Complete 6 Open World Time Trial Challenges in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.",
+      "reward": 5,
+      "hidden": false,
+      "order": 474
+    },
+    {
+      "id": 80516,
+      "name": "Chillwinter Adventurer (I)",
+      "desc": "Complete 12 Open World Time Trial Challenges in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.",
+      "reward": 10,
+      "hidden": false,
+      "order": 475,
+      "preStage": 80515
+    },
+    {
+      "id": 80517,
+      "name": "Chillwinter Adventurer (I)",
+      "desc": "Complete 24 Open World Time Trial Challenges in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.",
+      "reward": 20,
+      "hidden": false,
+      "order": 476,
+      "preStage": 80516
+    },
+    {
+      "id": 80518,
+      "name": "Ladder of Love",
+      "desc": "Complete \"Hesperides of Love and Hate.\"",
+      "reward": 10,
+      "hidden": false,
+      "order": 477
+    },
+    {
+      "id": 80519,
+      "name": "Gather for Everlasting Happiness",
+      "desc": "Complete \"In the Dwelling of Life.\"",
+      "reward": 10,
+      "hidden": false,
+      "order": 478
+    },
+    {
+      "id": 80520,
+      "name": "A Thousand Affections Caught in a Sigh",
+      "desc": "Stop the \"Primordial Human\" from turning the world into a courtyard untouched by love or sorrow.",
+      "reward": 10,
+      "hidden": false,
+      "order": 479
+    },
+    {
+      "id": 80521,
+      "name": "Birth of the Singer in the Shell",
+      "desc": "Reach maximum Construction Level at the \"Meeting Point: Tidesong Cavern.\"",
+      "reward": 5,
+      "hidden": false,
+      "order": 480
+    },
+    {
+      "id": 80522,
+      "name": "Hunt for Your Worth in the Waking World",
+      "desc": "Reach maximum Construction Level at the \"Meeting Point: Huntsman's Cabin.\"",
+      "reward": 5,
+      "hidden": false,
+      "order": 481
+    },
+    {
+      "id": 80523,
+      "name": "Glorification of the Chosen One",
+      "desc": "Reach maximum Construction Level at the \"Meeting Point: The Korolevskiy Theater.\"",
+      "reward": 5,
+      "hidden": false,
+      "order": 482
+    },
+    {
+      "id": 80529,
+      "name": "Open Your Eyelids Lulled by Night",
+      "desc": "Complete the restoration of Rankova Zorya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 488
+    }
+  ]
+}

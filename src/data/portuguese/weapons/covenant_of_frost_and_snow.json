@@ -1,0 +1,323 @@
+{
+  "_id": 15436,
+  "id": "covenant_of_frost_and_snow",
+  "name": "Pacto do Gelo e Neve",
+  "description": "Um arco longo feito para preservar a ordem. Seu brilho frio emana perfeitamente o ideal da justiça e igualdade absolutas.",
+  "rarity": 4,
+  "type": {
+    "id": "Bow",
+    "name": "Arco"
+  },
+  "domain": "Domínio da Forja: Cicatrizes da Obsessão Maldita",
+  "passive": "O Equilíbrio da Lei",
+  "bonus": "Nos 12s após o portador lançar a Habilidade Elemental, aumenta a Proficiência Elemental em <span>120/150/180/210/240</span>.",
+  "specialProp": "DEF%",
+  "stats": {
+    "primary": "ATQ Básico",
+    "secondary": "DEF%",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 42,
+        "secondary": 11.3
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 109,
+        "secondary": 19.9
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 135,
+        "secondary": 19.9
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 205,
+        "secondary": 29
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 231,
+        "secondary": 29
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 266,
+        "secondary": 33.5
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 292,
+        "secondary": 33.5
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 327,
+        "secondary": 38.1
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 353,
+        "secondary": 38.1
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 388,
+        "secondary": 42.6
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 414,
+        "secondary": 42.6
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 449,
+        "secondary": 47.2
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 475,
+        "secondary": 47.2
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 510,
+        "secondary": 51.7
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114085,
+          "id": "rise_of_the_pale_star_army",
+          "name": "Ascensão do Exército da Estrela Azul",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "Raiz da Vida Seca",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Núcleo Quimérico",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114086,
+          "id": "muster_of_the_pale_star_army",
+          "name": "Reunião do Exército da Estrela Azul",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "Raiz da Vida Seca",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Núcleo Quimérico",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114086,
+          "id": "muster_of_the_pale_star_army",
+          "name": "Reunião do Exército da Estrela Azul",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "Nódulo da Vida Crescido",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Núcleo Quimérico Simbiótico",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114087,
+          "id": "clarion_of_the_pale_star_army",
+          "name": "Clarim do Exército da Estrela Azul",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "Nódulo da Vida Crescido",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Núcleo Quimérico Simbiótico",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114087,
+          "id": "clarion_of_the_pale_star_army",
+          "name": "Clarim do Exército da Estrela Azul",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "Núcleo da Vida Enrolado",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nexo Quimérico Primordial",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114088,
+          "id": "triumph_of_the_pale_star_army",
+          "name": "Triunfo do Exército da Estrela Azul",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "Núcleo da Vida Enrolado",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nexo Quimérico Primordial",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "O Equilíbrio da Lei",
+    "template": "Nos 12s após o portador lançar a Habilidade Elemental, aumenta a Proficiência Elemental em <span style=\"color:#99FFFFFF\">{0}</span>.",
+    "params": [
+      [
+        "120"
+      ],
+      [
+        "150"
+      ],
+      [
+        "180"
+      ],
+      [
+        "210"
+      ],
+      [
+        "240"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "Nos 12s após o portador lançar a Habilidade Elemental, aumenta a Proficiência Elemental em <span>120</span>."
+    },
+    {
+      "refinement": 2,
+      "desc": "Nos 12s após o portador lançar a Habilidade Elemental, aumenta a Proficiência Elemental em <span>150</span>."
+    },
+    {
+      "refinement": 3,
+      "desc": "Nos 12s após o portador lançar a Habilidade Elemental, aumenta a Proficiência Elemental em <span>180</span>."
+    },
+    {
+      "refinement": 4,
+      "desc": "Nos 12s após o portador lançar a Habilidade Elemental, aumenta a Proficiência Elemental em <span>210</span>."
+    },
+    {
+      "refinement": 5,
+      "desc": "Nos 12s após o portador lançar a Habilidade Elemental, aumenta a Proficiência Elemental em <span>240</span>."
+    }
+  ]
+}

@@ -25,19 +25,19 @@
       "_id": 112142,
       "id": "jeweled_flaming_hilt",
       "name": "Jeweled Flaming Hilt",
-      "count": 0.2626
+      "count": 0.262
     },
     {
       "_id": 112141,
       "id": "fractured_flaming_hilt",
       "name": "Fractured Flaming Hilt",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112140,
       "id": "faded_flaming_hilt",
       "name": "Faded Flaming Hilt",
-      "count": 3.9394
+      "count": 3.939
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Automatons",
   "filename_icon": "UI_MonsterIcon_Watcher_Normal_01",
   "description": "A shadow construct born from the overflow of the mighty primordial being, it is a guardian who watches over the Pillar Hall of the heavens.\\nThough entrusted with \"eyes\" as a guardian of the Pillar Hall of Space, these entities can do nothing but extol the \"Ideal Forms\" of the noumenal world. With no way to behold the complexities of the phenomenal world, they are thus not counted among the kindred of angels. Whether this inherent contradiction is a product of their creator's rational design, or if the master they serve ultimately failed to grasp the intent of that primordial being, is a truth that remains beyond our reach.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

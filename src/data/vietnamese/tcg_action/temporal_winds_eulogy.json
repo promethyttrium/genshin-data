@@ -1,0 +1,32 @@
+{
+  "_id": 215032,
+  "id": "temporal_winds_eulogy",
+  "shareId": 617,
+  "name": "Như Gió Ca Tụng",
+  "title": "Venti - Như Gió Ca Tụng",
+  "desc": "\"Do đó, về mặt nguyên lý, 'điều chưa được tiết lộ' chỉ có hai loại, một là tương lai của những người không được định vị bởi tinh tượng, hai là tương lai của những người chủ động can thiệp vào việc bói toán vì một mục đích nào đó. Vế sau thực sự rất đáng ghét, hy vọng ma nữ nhỏ trong câu chuyện sẽ không trở thành người như vậy.\"",
+  "in_play_description": "Sau khi phe ta triệu hồi <span style=\"color:#FFFFFFFF\">Mắt Bão</span>, trong hiệp này, <span style=\"color:#FFFFFFFF\">Sát Thương Vật Lý</span> từ 2 lần <span style=\"color:#FFFFFFFF\">Tấn Công Thường</span> tiếp theo của nhân vật áp dụng sẽ chuyển thành <span style=\"color:#80FFD7FF\">Sát Thương Nguyên Tố Phong</span>, đồng thời giảm tiêu hao 2 <span style=\"color:#FFFFFFFF\">Nguyên Tố Không Màu</span>.",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "Nguyên Tố Phong",
+    "card_type": "Thẻ Trang Bị",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "Nguyên Tố Phong",
+        "count": 3
+      }
+    ],
+    "tags": [
+      "Thiên Phú",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Hành Động Nhanh</span>: Trang bị cho <span style=\"color:#FFFFFFFF\">Venti</span> phe ta.<br/>Triệu hồi <span style=\"color:#FFFFFFFF\">Mắt Bão</span>.<br/>Sau khi phe ta triệu hồi <span style=\"color:#FFFFFFFF\">Mắt Bão</span>, trong hiệp này, <span style=\"color:#FFFFFFFF\">Sát Thương Vật Lý</span> từ 2 lần <span style=\"color:#FFFFFFFF\">Tấn Công Thường</span> tiếp theo của nhân vật áp dụng sẽ chuyển thành <span style=\"color:#80FFD7FF\">Sát Thương Nguyên Tố Phong</span>, đồng thời giảm tiêu hao 2 <span style=\"color:#FFFFFFFF\">Nguyên Tố Không Màu</span>.<br/>(Bộ bài có Venti mới có thể thêm)"
+    }
+  ]
+}

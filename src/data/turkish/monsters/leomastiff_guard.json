@@ -1,0 +1,133 @@
+{
+  "_id": 25132601,
+  "id": "leomastiff_guard",
+  "monsterId": 25132601,
+  "name": "Leomastif Muhafızı",
+  "specialNames": [
+    "Leomastif Muhafızı"
+  ],
+  "investigation": {
+    "investigationId": 101,
+    "name": "Volkodlak Zalimi",
+    "categoryType": "Elite",
+    "categoryText": "Seçkin Düşmanlar",
+    "description": "Snezhnaya Feyleri arasındaki en kalabalık ırk, genel olarak \"Volkodlak\" adıyla bilinen çeşitli yaratıklardan oluşur.\\nBelki de sırf bir insanı gerçekten neyin... İnsan yaptığının cevabını bulmak için var edilmişlerdir."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "rewardPreviewId": 15543,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 112154,
+      "id": "accreted_growth",
+      "name": "Büyümüş Kitle",
+      "count": 0.131
+    },
+    {
+      "_id": 112153,
+      "id": "accreted_mass",
+      "name": "Öbeklenmiş Kitle",
+      "count": 0.525
+    },
+    {
+      "_id": 112152,
+      "id": "accreted_fragment",
+      "name": "Ufak Kitle",
+      "count": 1.97
+    },
+    {
+      "_id": 112148,
+      "id": "ethereal_crystalscale_stone",
+      "name": "Ruhani Kristal Pul Taşı",
+      "count": 0.035
+    },
+    {
+      "_id": 112147,
+      "id": "ethereal_crystal",
+      "name": "Ruhani Kristal",
+      "count": 0.14
+    },
+    {
+      "_id": 112146,
+      "id": "ethereal_glimmershard",
+      "name": "Ruhani Işıltı Parçası",
+      "count": 0.525
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Vahşi Savaşçı",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Eğitmen",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "Sürgün",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Vahşi Savaşçı",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Eğitmen",
+      "rarity": 3
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "Sürgün",
+      "rarity": 3
+    },
+    {
+      "_id": 400062,
+      "id": "traveling_doctor",
+      "name": "Gezgin Doktor",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Efsanevi Canavarlar",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Sheepdog",
+  "description": "Genellikle tembel görünen, köpek klanına mensup bir Volkodlak.\\nVolkodlak klanları arasında köpek klanları her zaman iyi bir itibara sahip olmuştur. Sadık, dost canlısı ve genellikle uysal mizaçlıdırlar. Ancak itaat ettiği kişi veya iyi tanıdığı dostları tehlikeye atıldığında vahşileşir, düşman olarak gördükleri herkese saldırırlar.\\nUzun zaman önceki bir savaşta klanlarının, kendi krallarını savunmak için Majesteleri Çar'a karşı kıran kırana savaştığı ve bu sayede Majestelerinin lütfunu kazandığı anlatılır.",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 35.3184,
+      "attack": 22.608,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

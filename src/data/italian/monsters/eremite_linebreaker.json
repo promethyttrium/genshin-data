@@ -31,22 +31,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Seta rossa ritagliata",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Seta rossa sbiadita",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Altre fazioni umane",
   "filename_icon": "UI_MonsterIcon_Eremite_MuscleMan_Gloves",
   "description": "Un membro di un corpo mercenario scarsamente organizzato proveniente dalle sabbiose e dorate distese del deserto. È disposto a lavorare per chiunque sia in grado di pagarlo adeguatamente.\\nQuesto guerriero brandisce un coltello a spinta unico nel suo genere, e si è unito agli Eremiti in cerca di avversari potenti da affrontare. Piuttosto che dalla paga, questo guerriero è attratto dalla possibilità di ottenere una potenza marziale superiore.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

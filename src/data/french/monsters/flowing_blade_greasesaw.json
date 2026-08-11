@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Sifflet en métal de guerrier",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Sifflet en bois de sentinelle",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humains",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Mosasaurus",
   "description": "Un guerrier des sources et un gardien tribal qui patrouille dans les eaux et les rivages.\\nCes guerriers mènent toujours la charge, et les épées dans leurs mains sont comme des dents qui scient à travers les os. Les membres tribaux qui pratiquent l'épée le font dans l'eau, perfectionnant leur habileté et leur force contre la résistance de l'eau elle-même. Les meilleurs d'entre eux peuvent fendre un poisson nageant en deux.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

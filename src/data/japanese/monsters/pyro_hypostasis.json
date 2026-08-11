@@ -13,7 +13,6 @@
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Effigy_Fire",
   "description": "高純度の炎元素生命体、コードネーム「アイン」。\\n学者の研究によると、無相元素は当地の元素脈絡の異常と密接に関係しているという。しかし無相元素が元素脈絡に影響したのか、それとも異常な元素エネルギーが無相元素を創造したのか、真相は分かっていない。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "จักรกลอัตโนมัติ",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
   "description": "กลไกเครื่องลานที่ออกแบบและผลิตขึ้น เพื่อถ่ายทอดและขยายสัญญาณ\\nพลังงานที่ขับเคลื่อนกลไกเครื่องลาน เกิดขึ้นจากปฏิกิริยาทำลายล้างที่ควบคุมได้ของพลังสสารกับพลังวิญญาณในแกนพลังงาน ดังนั้นการปล่อยพลังงานมากเกินไป จะทำให้สมดุลเดิมถูกทำลาย",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

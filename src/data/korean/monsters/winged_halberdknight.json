@@ -1,0 +1,40 @@
+{
+  "_id": 25130101,
+  "id": "winged_halberdknight",
+  "monsterId": 25130102,
+  "name": "바람 요정 미늘창 기사",
+  "specialNames": [
+    "바람 요정 미늘창 기사"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "돌연변이 마수",
+  "filename_icon": "UI_MonsterIcon_Human_Girl_Vila_Glaive",
+  "description": "두 날개로 공중을 누비는 바람 요정.\\n기록에 따르면 여왕이 즉위한 뒤 100년 동안 바람 요정 일족은 수많은 격변을 겪었다. 특히 요정 귀족 세력을 견제하려는 여왕의 정책에 불만을 품은 일부 요정들이 소규모 반란을 일으키기도 했다.\\n반란은 신속히 진압되었지만, 반란 세력이 바람 요정 귀족의 후예였다는 사실이 밝혀지면서 바람 요정 일족은 한동안 심각한 분열을 겪었다",
+  "bgm": 1,
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.2,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 5.486268,
+      "attack": 49.564125,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

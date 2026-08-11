@@ -27,13 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "自律装置",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Recon",
   "description": "水中探査を目的として設計·製造されたクロックワーク·マシナリー。\\nクロックワーク·マシナリーの設計上、動力学ではどうにもできない場合、運動学が重要な研究対象となる。特定の目的を持った機械を設計する上で、生体工学は時に手っ取り早い解決策を教えてくれる。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

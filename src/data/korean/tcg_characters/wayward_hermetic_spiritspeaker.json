@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "캐릭터 카드",
     "energy": 2,
+    "element": "얼음 원소",
+    "weapon": "기타 무기",
     "faction": [
-      null
+      "마물"
     ],
     "source": "캣테일 술집의 왕자님을 통해 술집 도전 진행 및 친선 대전 난이도의 수수께끼 영력 수행자에게 승리 후 획득"
   },
@@ -18,8 +20,10 @@
     {
       "id": "spiritspeaking_frost_star",
       "name": "영력 교감·차가운 별",
-      "desc": "?를 ?pt 준다.",
-      "skillTag": [],
+      "desc": "<span style=\"color:#99FFFFFF\">얼음 원소 피해</span>를 1pt 준다.",
+      "skillTag": [
+        "일반 공격"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -38,8 +42,10 @@
     {
       "id": "radiance_in_flux",
       "name": "변화무쌍한 색채",
-      "desc": "?를 ?pt 주고, <span style=\"color:#FFFFFFFF\">색채</span> 1장을 카드 더미의 3번째 자리에 넣는다. 또한 3개의 랜덤 <span style=\"color:#FFFFFFFF\">색채</span> 강화 효과 중 1개를 <span style=\"color:#FFFFFFFF\">선정</span>한다.",
-      "skillTag": [],
+      "desc": "<span style=\"color:#99FFFFFF\">얼음 원소 피해</span>를 1pt 주고, <span style=\"color:#FFFFFFFF\">색채</span> 1장을 카드 더미의 3번째 자리에 넣는다. 만약 이번 대결의 앞 4회 동안 해당 스킬을 사용하면 3개의 랜덤 <span style=\"color:#FFFFFFFF\">색채</span> 강화 효과 중 1개를 <span style=\"color:#FFFFFFFF\">선정</span>한다.",
+      "skillTag": [
+        "원소전투 스킬"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -52,8 +58,10 @@
     {
       "id": "chilling_illustration",
       "name": "혹한의 그림",
-      "desc": "?를 ?pt 주고, <span style=\"color:#FFFFFFFF\">색채</span> 1장을 핸드 카드에 추가한다.",
-      "skillTag": [],
+      "desc": "<span style=\"color:#99FFFFFF\">얼음 원소 피해</span>를 4pt 주고, <span style=\"color:#FFFFFFFF\">색채</span> 1장을 핸드 카드에 추가한다.",
+      "skillTag": [
+        "원소폭발"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -73,7 +81,9 @@
       "id": "iridescent_silhouette",
       "name": "화려한 그림자",
       "desc": "[패시브] 전투 시작 시, <span style=\"color:#FFFFFFFF\">색채</span>를 3장 생성해 카드 더미에 골고루 넣는다.",
-      "skillTag": [],
+      "skillTag": [
+        "패시브 스킬"
+      ],
       "points": []
     }
   ]

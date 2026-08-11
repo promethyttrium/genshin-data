@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Fungus_Un_Delta_Grass",
   "description": "Sinh vật bào tử có trí tuệ nhất định. Có khả năng thích nghi hoàn cảnh cực tốt.\\nTừng có học giả phát biểu rằng chúng là một loại Bóng Ma - Thảo. Sau khi bị phản bác, anh ta đã sửa lại nói rằng đây là một cách \"tu từ\" mang chất thơ.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

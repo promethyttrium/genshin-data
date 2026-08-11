@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Vực Sâu",
   "filename_icon": "UI_MonsterIcon_Hound_Kanis_Electric",
   "description": "Ma thú có khả năng xâm thực rìa thế giới. \"Gold\" đặt tên cho chúng là \"Alfisol\".\\nTừng có một thời kỳ, lúc ma thú khổng lồ xuất hiện, thường sẽ có chó săn xuất hiện trước, xóa tan rìa của thế giới để mở đường.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

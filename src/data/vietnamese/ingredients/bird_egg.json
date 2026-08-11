@@ -185,6 +185,21 @@
       "name": "Bánh Torte Sồi Hè"
     },
     {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Okroshka Xứ Tuyết"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
+    },
+    {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "Hoa Tuyết Cầu Trên Tuyết Nguyên"
+    },
+    {
       "_id": 3902,
       "id": "delights_of_wondrous_wanderings",
       "name": "Hộp Hành Trình Kỳ Diệu"
@@ -237,6 +252,5 @@
   ],
   "source": [
     "Thu Thập Bên Ngoài"
-  ],
-  "rarity": 0
+  ]
 }

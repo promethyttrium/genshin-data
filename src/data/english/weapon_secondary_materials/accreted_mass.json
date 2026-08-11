@@ -1,0 +1,24 @@
+{
+  "_id": 112153,
+  "id": "accreted_mass",
+  "name": "Accreted Mass",
+  "description": "An accretion that has clung to an internal organ or bone for a long time. Once removed, such accretions are regarded as symbols of power and carefully preserved by the creature's descendants.",
+  "source": [
+    "Dropped by Lv. 40+ Volkodlak Brutes",
+    "Stardust Exchange",
+    "Placeholder - Craftable Amount: {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112152,
+        "id": "accreted_fragment",
+        "name": "Accreted Fragment",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_id": 70800033,
+  "id": "central_railway_hub",
+  "name": "Snodo ferroviario centrale",
+  "areaName": "Terra del Geleterno",
+  "areaId": 80200,
+  "description": "Se la nazione di Snezhnaya fosse immaginata come un titano di ferro freddo e acciaio, le sue vaste ferrovie ne sarebbero le vene, e la Stazione centrale di Snezhnograd fungerebbe senza dubbio da cuore instancabile del titano.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 633,
+  "filename_image": "UI_Codex_Scenery_ZDZhiDongBaoCheZhan"
+}

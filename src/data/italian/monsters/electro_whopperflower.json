@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Mimik_Electric",
   "description": "Dei mostri vegetali mimetici energetici che usano il potere di Electro per attaccare le loro prede.\\nQuando sono completamente carichi dell'energia di Electro, possono rilasciare una forte corrente elettrica dalle loro corone. Pertanto, alcuni ricercatori hanno studiato delle possibili applicazioni in altri settori...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

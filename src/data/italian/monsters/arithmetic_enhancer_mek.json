@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automi",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
   "description": "Un Mekautoma ideato per trasmettere e potenziare segnali.\\nL'energia che alimenta questo Mekautoma è generata da una reazione di annichilazione controllata tra Ousia e Pneuma nel nucleo cinetico. Di conseguenza, sovraccaricarlo con troppa energia ne mina l'equilibrio originale.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Octopus_Larva_02",
   "description": "Hewan air yang berburu dengan menembakkan bom air.\\nMenembakkan bom air tentunya bukanlah kemampuan yang jarang dijumpai pada spesies Fontemer Aberrant. Namun bagi penyelam ceroboh yang biasanya adalah turis, aliran air bertekanan tinggi ini dapat menyebabkan luka yang serius. Ketebalan alat pelindung selam dirancang untuk dua alasan: satu, tahan terhadap tekanan di dalam air; dua, tahan terhadap serangan spesies Fontemer Aberrant.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 13.49,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

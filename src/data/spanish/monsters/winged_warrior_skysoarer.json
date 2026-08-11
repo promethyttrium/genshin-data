@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Human_Female_NoWeapon_Flamingo",
   "description": "Una centinela tribal de los acantilados que patrulla los picos montañosos más escarpados.\\nEstas Guerreras Tribales confían más en sus puños que en cualquier arma. Son conocidas por su gran gracilidad.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

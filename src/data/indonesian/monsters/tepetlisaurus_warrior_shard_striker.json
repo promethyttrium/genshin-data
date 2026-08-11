@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Drillhead",
   "description": "Seorang petarung tangguh dari lembah yang keberaniannya telah diakui hingga pantas mengenakan Mahkota Saurian.\\nKekuatan serangannya bahkan setara dengan bebatuan yang jatuh dari atas gunung. Bahkan di antara para penduduk suku Putra-Putri Gema yang hidup bersama dengan bebatuan dan kristal, Saurian-Crowned Warrior jauh lebih paham tentang kekuatan bebatuan dibanding siapa pun. Konon mereka bahkan bisa menilai kemurnian dan kualitas dari sebuah bijih mineral hanya dengan melihat bagian luarnya yang masih kasar.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

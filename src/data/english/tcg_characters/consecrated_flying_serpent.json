@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Other Weapons",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Consecrated Beast"
     ],
     "talent_card": {
       "_id": 5697,
@@ -28,8 +30,10 @@
     {
       "id": "whirling_tail",
       "name": "Whirling Tail",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -48,8 +52,10 @@
     {
       "id": "swirling_squall",
       "name": "Swirling Squall",
-      "desc": "Deal ? ? and draw 1 card.",
-      "skillTag": [],
+      "desc": "Deal 3 <span style=\"color:#80FFD7FF\">Anemo DMG</span> and draw 1 card.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -62,8 +68,10 @@
     {
       "id": "scattershot_vortex",
       "name": "Scattershot Vortex",
-      "desc": "Deals ? ?. <span style=\"color:#FFFFFFFF\">Discard</span> all <span style=\"color:#FFFFFFFF\">Bonecruncher's Energy Block</span> cards in your Hand. Double the DMG dealt once for every 2 cards you <span style=\"color:#FFFFFFFF\">Discard</span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#80FFD7FF\">Anemo DMG</span>. <span style=\"color:#FFFFFFFF\">Discard</span> all <span style=\"color:#FFFFFFFF\">Bonecruncher's Energy Block</span> cards in your Hand. Double the DMG dealt once for every 2 cards you <span style=\"color:#FFFFFFFF\">Discard</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -83,7 +91,9 @@
       "id": "immortal_remnants_anemo",
       "name": "Immortal Remnants: Anemo",
       "desc": "(Passive) When battle begins, create 6 <span style=\"color:#FFFFFFFF\">Bonecruncher's Energy Block</span> and place them evenly into your deck.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

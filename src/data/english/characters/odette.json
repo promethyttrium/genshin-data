@@ -1,0 +1,1393 @@
+{
+  "_id": 10000150,
+  "id": "odette",
+  "name": "Odette",
+  "title": "Swirling Snow",
+  "description": "A famed Snezhnayan ballerina who blossoms against the frozen landscape with a beauty as sharp as frost.",
+  "weapon_type": {
+    "id": "sword",
+    "name": "Sword"
+  },
+  "element": {
+    "id": "cryo",
+    "name": "Cryo"
+  },
+  "gender": {
+    "id": "female",
+    "name": "Female"
+  },
+  "release": 1786395600,
+  "substat": "CRIT DMG",
+  "affiliation": "Korolevskiy Troupe",
+  "region": {
+    "id": "snezhnaya_star",
+    "name": "SNEZHNAYA_STAR"
+  },
+  "rarity": 5,
+  "birthday": [
+    20,
+    2
+  ],
+  "constellation": "Cygnus Olor",
+  "domain": "Domain of Mastery: Contemplation",
+  "cv": {
+    "english": "Alexis Tipton",
+    "chinese": "潘丹妮",
+    "japanese": "上坂堇",
+    "korean": "Choi Hyun-ji"
+  },
+  "skills": [
+    {
+      "_id": 11501,
+      "id": "snow_swan_variation",
+      "name": "Snow Swan Variation",
+      "description": "<span style=\"color:#FFD780FF\">Normal Attack</span><br/>Unleashes a sword attack of up to 5 consecutive strikes.<br/><br/><span style=\"color:#FFD780FF\">Charged Attack</span><br/>Consumes a certain amount of Stamina to unleash a dazzling slash on opponents in front of her.<br/><br/><span style=\"color:#FFD780FF\">Plunging Attack</span><br/>Attacks opponents in her path while plunging from mid-air, then deals AoE DMG upon landing.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "1-Hit DMG",
+          "values": [
+            "51.9%",
+            "56.1%",
+            "60.3%",
+            "66.3%",
+            "70.5%",
+            "75.4%",
+            "82%",
+            "88.6%",
+            "95.3%",
+            "102.5%",
+            "109.7%",
+            "117%",
+            "124.2%",
+            "131.5%",
+            "138.7%"
+          ]
+        },
+        {
+          "label": "2-Hit DMG",
+          "values": [
+            "51.5%",
+            "55.7%",
+            "59.9%",
+            "65.9%",
+            "70.1%",
+            "74.9%",
+            "81.5%",
+            "88%",
+            "94.6%",
+            "101.8%",
+            "109%",
+            "116.2%",
+            "123.4%",
+            "130.6%",
+            "137.8%"
+          ]
+        },
+        {
+          "label": "3-Hit DMG",
+          "values": [
+            "32.6% + 38.3%",
+            "35.3% + 41.4%",
+            "37.9% + 44.5%",
+            "41.7% + 49%",
+            "44.4% + 52.1%",
+            "47.4% + 55.6%",
+            "51.6% + 60.5%",
+            "55.7% + 65.4%",
+            "59.9% + 70.3%",
+            "64.5% + 75.7%",
+            "69% + 81%",
+            "73.6% + 86.3%",
+            "78.1% + 91.7%",
+            "82.7% + 97%",
+            "87.2% + 102.4%"
+          ]
+        },
+        {
+          "label": "4-Hit DMG",
+          "values": [
+            "74.6%",
+            "80.6%",
+            "86.7%",
+            "95.4%",
+            "101.5%",
+            "108.4%",
+            "117.9%",
+            "127.5%",
+            "137%",
+            "147.4%",
+            "157.8%",
+            "168.2%",
+            "178.6%",
+            "189%",
+            "199.4%"
+          ]
+        },
+        {
+          "label": "5-Hit DMG",
+          "values": [
+            "90.2%",
+            "97.6%",
+            "104.9%",
+            "115.4%",
+            "122.7%",
+            "131.1%",
+            "142.7%",
+            "154.2%",
+            "165.7%",
+            "178.3%",
+            "190.9%",
+            "203.5%",
+            "216.1%",
+            "228.7%",
+            "241.3%"
+          ]
+        },
+        {
+          "label": "Charged Attack DMG",
+          "values": [
+            "107.4%",
+            "116.2%",
+            "124.9%",
+            "137.4%",
+            "146.1%",
+            "156.1%",
+            "169.9%",
+            "183.6%",
+            "197.3%",
+            "212.3%",
+            "227.3%",
+            "242.3%",
+            "257.3%",
+            "272.3%",
+            "287.3%"
+          ]
+        },
+        {
+          "label": "Charged Attack Stamina Cost",
+          "values": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "label": "Plunge DMG",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "Low/High Plunge DMG",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11502,
+      "id": "adagio_phantom_night_dancers",
+      "name": "Adagio: Phantom Night Dancers",
+      "description": "With slow, graceful dance steps, Odette deals <span style=\"color:#99FFFFFF\">AoE Cryo DMG</span> to the opponent, and also summons her <b><span style=\"color:#FFD780FF\">Solo Dance Double</span></b> to the field.<br/>If a <span style=\"color:#FFD780FF\">Dance Double</span> summoned by Odette is already on the field, this will re-summon the Dance Double and reset its duration.<br/><br/><span style=\"color:#FFD780FF\">Solo Dance Double</span><br/>Alternates between the <span style=\"color:#FFD780FF\">Plume</span> and <span style=\"color:#FFD780FF\">Wing</span> dance moves, periodically attacking nearby opponents and dealing to them <span style=\"color:#99FFFFFF\">AoE Cryo DMG</span>.<br/>Additionally, for 6s after unleashing the Elemental Skill <span style=\"color:#FFD780FF\">Adagio: Phantom Night Dancers</span>, Odette's Elemental Skill <span style=\"color:#FFD780FF\">Adagio: Phantom Night Dancers</span> will become the special Elemental Skill <b><span style=\"color:#FFD780FF\">Adagio: Coda at Dawn's Tolling</span></b> instead, where a dance duet deals <span style=\"color:#99FFFFFF\">AoE Cryo DMG</span> to nearby opponents over time. Then, when the duet ends, she deals another instance of <span style=\"color:#99FFFFFF\">AoE Cryo DMG</span> that is considered Stellar-Conduct or Stellar Swirl DMG.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Skill DMG",
+          "values": [
+            "108.1%",
+            "116.2%",
+            "124.3%",
+            "135.1%",
+            "143.2%",
+            "151.3%",
+            "162.1%",
+            "172.9%",
+            "183.7%",
+            "194.5%",
+            "205.4%",
+            "216.2%",
+            "229.7%",
+            "243.2%",
+            "256.7%"
+          ]
+        },
+        {
+          "label": "Coda at Dawn's Tolling DoT",
+          "values": [
+            "95.8%",
+            "103%",
+            "110.2%",
+            "119.8%",
+            "127%",
+            "134.2%",
+            "143.8%",
+            "153.3%",
+            "162.9%",
+            "172.5%",
+            "182.1%",
+            "191.7%",
+            "203.7%",
+            "215.6%",
+            "227.6%"
+          ]
+        },
+        {
+          "label": "Coda at Dawn's Tolling Stellar-Conduct/Stellar Swirl DMG",
+          "values": [
+            "305.8% / 458.6%",
+            "328.7% / 493%",
+            "351.6% / 527.4%",
+            "382.2% / 573.3%",
+            "405.1% / 607.7%",
+            "428.1% / 642.1%",
+            "458.6% / 688%",
+            "489.2% / 733.8%",
+            "519.8% / 779.7%",
+            "550.4% / 825.6%",
+            "580.9% / 871.4%",
+            "611.5% / 917.3%",
+            "649.7% / 974.6%",
+            "688% / 1031.9%",
+            "726.2% / 1089.3%"
+          ]
+        },
+        {
+          "label": "\"Plume\" Dance Move DMG",
+          "values": [
+            "43%",
+            "46.3%",
+            "49.5%",
+            "53.8%",
+            "57%",
+            "60.3%",
+            "64.6%",
+            "68.9%",
+            "73.2%",
+            "77.5%",
+            "81.8%",
+            "86.1%",
+            "91.5%",
+            "96.8%",
+            "102.2%"
+          ]
+        },
+        {
+          "label": "\"Plume\" Dance Move Stellar-Conduct/Stellar Swirl DMG",
+          "values": [
+            "27% / 40.5%",
+            "29.1% / 43.6%",
+            "31.1% / 46.6%",
+            "33.8% / 50.7%",
+            "35.8% / 53.7%",
+            "37.8% / 56.7%",
+            "40.5% / 60.8%",
+            "43.2% / 64.8%",
+            "45.9% / 68.9%",
+            "48.6% / 73%",
+            "51.3% / 77%",
+            "54% / 81.1%",
+            "57.4% / 86.1%",
+            "60.8% / 91.2%",
+            "64.2% / 96.3%"
+          ]
+        },
+        {
+          "label": "\"Wing\" Dance Move DMG",
+          "values": [
+            "51.5%",
+            "55.3%",
+            "59.2%",
+            "64.3%",
+            "68.2%",
+            "72%",
+            "77.2%",
+            "82.3%",
+            "87.5%",
+            "92.6%",
+            "97.8%",
+            "102.9%",
+            "109.4%",
+            "115.8%",
+            "122.2%"
+          ]
+        },
+        {
+          "label": "\"Wing\" Dance Move Stellar-Conduct/Stellar Swirl DMG",
+          "values": [
+            "32.3% / 48.5%",
+            "34.7% / 52.1%",
+            "37.2% / 55.7%",
+            "40.4% / 60.6%",
+            "42.8% / 64.2%",
+            "45.2% / 67.8%",
+            "48.5% / 72.7%",
+            "51.7% / 77.5%",
+            "54.9% / 82.4%",
+            "58.2% / 87.2%",
+            "61.4% / 92.1%",
+            "64.6% / 96.9%",
+            "68.7% / 103%",
+            "72.7% / 109%",
+            "76.7% / 115.1%"
+          ]
+        },
+        {
+          "label": "Coda at Dawn's Tolling CD",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Solo Dance Double Duration",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "CD",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11505,
+      "id": "presto_bluebird_finale",
+      "name": "Presto: Bluebird Finale",
+      "description": "With quick, lively dance steps, Odette deals multiple instances of <span style=\"color:#99FFFFFF\">AoE Cryo DMG</span>, and summons her <color=#FFD780FF><b>Solo Dance Double</color></b>. She also gains <span style=\"color:#FFD780FF\">Snow Swan's Dream</span>, which increases the Stellar Glimmer reaction DMG Odette deals.<br/>Additionally, for 6s after unleashing the Elemental Burst <span style=\"color:#FFD780FF\">Presto: Bluebird Finale</span>, Odette's Elemental Skill <span style=\"color:#FFD780FF\">Adagio: Phantom Night Dancers</span> will be replaced with the special Elemental Skill <b><span style=\"color:#FFD780FF\">Adagio: Coda at Dawn's Tolling</span></b> instead.<br/><br/>If there is a Solo Dance Double summoned by Odette on the field, it will be summoned to her side with its duration refreshed.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Slash DMG",
+          "values": [
+            "110.2% ×3",
+            "118.4% ×3",
+            "126.7% ×3",
+            "137.7% ×3",
+            "146% ×3",
+            "154.2% ×3",
+            "165.3% ×3",
+            "176.3% ×3",
+            "187.3% ×3",
+            "198.3% ×3",
+            "209.3% ×3",
+            "220.4% ×3",
+            "234.1% ×3",
+            "247.9% ×3",
+            "261.7% ×3"
+          ]
+        },
+        {
+          "label": "Final Slash DMG",
+          "values": [
+            "170.3%",
+            "183%",
+            "195.8%",
+            "212.8%",
+            "225.6%",
+            "238.4%",
+            "255.4%",
+            "272.4%",
+            "289.5%",
+            "306.5%",
+            "323.5%",
+            "340.5%",
+            "361.8%",
+            "383.1%",
+            "404.4%"
+          ]
+        },
+        {
+          "label": "Snow Swan's Dream Stellar Glimmer Reaction DMG Bonus",
+          "values": [
+            "14%",
+            "18%",
+            "22%",
+            "26%",
+            "30%",
+            "34%",
+            "38%",
+            "42%",
+            "46%",
+            "50%",
+            "54%",
+            "58%",
+            "62%",
+            "66%",
+            "70%"
+          ]
+        },
+        {
+          "label": "Snow Swan's Dream Duration",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "Solo Dance Double Duration",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "CD",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Energy Cost",
+          "values": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "spring_rite_of_the_chosen_one",
+      "name": "Spring Rite of the Chosen One",
+      "description": "When Odette summons her <b><span style=\"color:#FFD780FF\">Solo Dance Double</span></b>, she also obtains 4 stacks of <b><span style=\"color:#FFD780FF\">Marvelous Splendor</span></b>.",
+      "level": 1
+    },
+    {
+      "id": "pathetique_of_pateticheskaya",
+      "name": "Pathetique of Pateticheskaya",
+      "description": "For every 100 ATK Odette has over 1,000, her Stellar Glimmer DMG is additionally increased by 1.5% of the original DMG. She can deal up to 30% more additional DMG in this way.",
+      "level": 4
+    },
+    {
+      "id": "stellar_jubilee_dance_of_aurore",
+      "name": "Stellar Jubilee: Dance of Aurore",
+      "description": "Odette will enter the <span style=\"color:#FFD780FF\">Radiance: Stellar-Conduct</span> state when she is inside a <b><span style=\"color:#FFD780FF\">Polestar Field</span></b>, or the <span style=\"color:#FFD780FF\">Radiance: Stellar Swirl</span> state for 8s after a nearby party member triggers a Stellar Swirl reaction.<br/>When a party member triggers a Superconduct or Cryo Swirl reaction, it becomes a Stellar-Conduct or Stellar Swirl reaction instead, and the Base DMG of said reaction is also increased by 0.7% for every 100 points of Odette's ATK. A maximum increase of 14% can be obtained in this way.",
+      "level": 0
+    },
+    {
+      "id": "echo_of_winter_daydreams",
+      "name": "Echo of Winter Daydreams",
+      "description": "Shows the locations of <span style=\"color:#FFD780FF\">Snezhnaya's Local Specialties</span> on the mini-map.<br/>Practicing dance in one's spare time might even trigger other effects...",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1501,
+      "id": "on_this_danceless_morn_she_gazes_at_her_reflection",
+      "name": "\"On This Danceless Morn, She Gazes at Her Reflection\"",
+      "description": "After unleashing the special Elemental Skill <b><span style=\"color:#FFD780FF\">Adagio: Coda at Dawn's Tolling</span></b>, at the dance duet's end Odette will deal an additional instance of <span style=\"color:#99FFFFFF\">Cryo AoE DMG</span> to nearby opponents that is considered:<br/><span style=\"color:#FFD780FF\">Radiance: Stellar-Conduct</span> or when not in a Radiance state: Stellar-Conduct reaction DMG at 300% of Odette's ATK;<br/><span style=\"color:#FFD780FF\">Radiance: Stellar Swirl</span>: Stellar Swirl reaction DMG at 450% of Odette's ATK.<br/><br/>Additionally, the Ascension Talent \"Spring Rite of the Chosen One\" is also enhanced: now, when the <b><span style=\"color:#FFD780FF\">Solo Dance Double</span></b> is summoned, Odette also gains 2 stacks of <b><span style=\"color:#FFD780FF\">Marvelous Splendor</span></b>. When Odette is off-field, the rate at which <span style=\"color:#FFD780FF\">Marvelous Splendor</span> is removed is sped up to 2 stacks per second.",
+      "level": 1
+    },
+    {
+      "_id": 1502,
+      "id": "i_must_see_the_snow_swans_unseen_dream_for_myself_she_thought",
+      "name": "\"I Must See the Snow Swan's Unseen Dream for Myself, She Thought\"",
+      "description": "The Ascension Talent \"Spring Rite of the Chosen One\" is enhanced as follows: every stack of <b><span style=\"color:#FFD780FF\">Marvelous Splendor</span></b> active also increases the character's ATK by 7%.<br/>Additionally, if Odette is in the <b><span style=\"color:#FFD780FF\">Radiance: Stellar Glimmer</span></b> state when there is a <b><span style=\"color:#FFD780FF\">Solo Dance Double</span></b> on the field, opponents near the <span style=\"color:#FFD780FF\">Dance Double</span> will also have their corresponding Elemental RES lowered by 20%.<br/>·<span style=\"color:#FFD780FF\">Radiance: Stellar-Conduct</span>: <span style=\"color:#99FFFFFF\">Cryo</span> and <span style=\"color:#FFACFFFF\">Electro</span>.<br/>·<span style=\"color:#FFD780FF\">Radiance: Stellar Swirl</span>: <span style=\"color:#99FFFFFF\">Cryo</span> and <span style=\"color:#80FFD7FF\">Anemo</span>.",
+      "level": 2
+    },
+    {
+      "_id": 1503,
+      "id": "ill_chase_the_shouting_wind_along_climbing_alone_as_i_go",
+      "name": "\"I'll Chase the Shouting Wind Along, Climbing Alone As I Go\"",
+      "description": "Increases the Level of <color=#FFD780FF><b>Adagio: Phantom Night Dancers</b></color> by 3.<br/>Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "_id": 1504,
+      "id": "up_up_the_long_delirious_burning_blue",
+      "name": "\"Up, Up the Long, Delirious, Burning Blue\"",
+      "description": "The Elemental Burst <span style=\"color:#FFD780FF\">Presto: Bluebird Finale</span> is enhanced as follows: when Odette obtains <span style=\"color:#FFD780FF\">Snow Swan's Dream</span>, Stellar Glimmer reaction DMG dealt by other nearby party members is increased by 50% of <span style=\"color:#FFD780FF\">Snow Swan Dream</span>'s effects.<br/><br/>Additionally, when a party member deals Stellar Glimmer reaction DMG to an opponent, Odette will also join in with a coordinated attack, dealing an instance of <span style=\"color:#99FFFFFF\">AoE Cryo DMG</span>. This effect, which can trigger once every 3.5s, will be considered:<br/>·<span style=\"color:#FFD780FF\">Radiance: Stellar-Conduct</span> or when not in a Radiance state: Stellar-Conduct reaction DMG at 66% of Odette's ATK.<br/>·<span style=\"color:#FFD780FF\">Radiance: Stellar Swirl</span>: Stellar Swirl reaction DMG at 99% of Odette's ATK.",
+      "level": 4
+    },
+    {
+      "_id": 1505,
+      "id": "oh_i_have_slipped_the_surly_bonds_of_earth",
+      "name": "\"Oh! I Have Slipped the Surly Bonds of Earth\"",
+      "description": "Increases the Level of <color=#FFD780FF><b>Presto: Bluebird Finale</b> </color> by 3.<br/>Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "_id": 1506,
+      "id": "put_out_my_hand_and_touched_the_face_of_the_divine",
+      "name": "\"Put Out My Hand, and Touched the Face of the Divine\"",
+      "description": "The Ascension Talent \"Spring Rite of the Chosen One\" is enhanced as follows: When Odette grants <b><span style=\"color:#FFD780FF\">Marvelous Splendor</span></b> to all nearby party members, her own Marvelous Splendor stacks will no longer decrease.<br/>Additionally, characters affected by <span style=\"color:#FFD780FF\">Marvelous Splendor</span> have their Stellar Glimmer reaction DMG dealt to opponents <b><span style=\"color:#FFD780FF\">elevated</span></b> by 25%, and Stellar Glimmer reaction DMG dealt by Odette is elevated by an additional 20%.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "-",
+            "1011"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "-",
+            "26"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "-",
+            "61"
+          ]
+        },
+        {
+          "label": "CRIT DMG",
+          "values": [
+            "-",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "2621",
+            "3488"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "68",
+            "90"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "159",
+            "211"
+          ]
+        },
+        {
+          "label": "CRIT DMG",
+          "values": [
+            "50.0%",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "5219",
+            "5834"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "135",
+            "151"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "316",
+            "354"
+          ]
+        },
+        {
+          "label": "CRIT DMG",
+          "values": [
+            "50.0%",
+            "59.6%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104161,
+        "id": "shivada_jade_sliver",
+        "name": "Shivada Jade Sliver",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostfairy Flower",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Ethereal Glimmershard",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "6712",
+            "7533"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "173",
+            "194"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "407",
+            "457"
+          ]
+        },
+        {
+          "label": "CRIT DMG",
+          "values": [
+            "59.6%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "Shivada Jade Fragment",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Unscorched Blossom Branch",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostfairy Flower",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Ethereal Glimmershard",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "8421",
+            "9036"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "217",
+            "233"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "511",
+            "548"
+          ]
+        },
+        {
+          "label": "CRIT DMG",
+          "values": [
+            "69.2%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "Shivada Jade Fragment",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Unscorched Blossom Branch",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostfairy Flower",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Ethereal Crystal",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "9932",
+            "10547"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "256",
+            "272"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "602",
+            "639"
+          ]
+        },
+        {
+          "label": "CRIT DMG",
+          "values": [
+            "69.2%",
+            "78.8%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "Shivada Jade Chunk",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Unscorched Blossom Branch",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostfairy Flower",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Ethereal Crystal",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "11453",
+            "12068"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "295",
+            "311"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "694",
+            "732"
+          ]
+        },
+        {
+          "label": "CRIT DMG",
+          "values": [
+            "78.8%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "Shivada Jade Chunk",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Unscorched Blossom Branch",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostfairy Flower",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "Ethereal Crystalscale Stone",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "12981",
+            "12981"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "335",
+            "335"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "787",
+            "787"
+          ]
+        },
+        {
+          "label": "CRIT DMG",
+          "values": [
+            "88.4%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104164,
+        "id": "shivada_jade_gemstone",
+        "name": "Shivada Jade Gemstone",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Unscorched Blossom Branch",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostfairy Flower",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "Ethereal Crystalscale Stone",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104365,
+          "id": "teachings_of_charity",
+          "name": "Teachings of Charity",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "Ethereal Glimmershard",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guide to Charity",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Ethereal Crystal",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guide to Charity",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Ethereal Crystal",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guide to Charity",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Ethereal Crystal",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guide to Charity",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Ethereal Crystal",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Philosophies of Charity",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Ethereal Crystalscale Stone",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Twisted Withered Branch",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Philosophies of Charity",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Ethereal Crystalscale Stone",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Twisted Withered Branch",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Philosophies of Charity",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Ethereal Crystalscale Stone",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Twisted Withered Branch",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Philosophies of Charity",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Ethereal Crystalscale Stone",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Twisted Withered Branch",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Crown of Insight",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 215000,
+      "name": "Snow Swan's Dance",
+      "description": "Odette's outfit. A ballet outfit of exceptional make, inspired by the snow swans, that has served as the diligent ballerina's faithful companion across countless long nights. The gems that adorn it glisten with a quiet elegance beneath the stage lights, just like the shimmering dancer herself.",
+      "isDefault": true,
+      "characterName": "Odette",
+      "characterId": 10000150,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Odette_Circle"
+    }
+  ]
+}

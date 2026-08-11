@@ -10,12 +10,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_Fungus_Amanita_Unu_Svarita_Ice",
   "description": "胞子でできた擬態生物。とても高い環境適応能力を持っている。\\n外見だけでなく、生活習慣まで鳥類を模倣している。飛行するとき、美しい氷の花を撒き散らすが、その晶核も実は胞子でできている。\\nキノコンたちの間ではリーダーのような立場にあり、それに見合うだけの高い知性を持っている。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

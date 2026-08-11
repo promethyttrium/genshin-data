@@ -1,0 +1,72 @@
+{
+  "_id": 26310201,
+  "id": "chimeric_burrowbeast",
+  "monsterId": 26310201,
+  "name": "Bête-fouisse chimérique",
+  "specialNames": [
+    "Bête-fouisse chimérique"
+  ],
+  "investigation": {
+    "investigationId": 100,
+    "name": "Bête chimérique mystique",
+    "categoryType": "Common",
+    "categoryText": "Normal",
+    "description": "L'une des nombreuses créations issues de la bio-alchimie qui prospérait autrefois à travers Snezhnaya avant d'être interdite.\\nAlors que la grande majorité de ces monstres ont été consumés lors de la guerre contre la horde de monstres ténébreux, les quelques-uns qui ont survécu jusqu'à ce jour constituent de rarissimes exceptions."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Chimera_BeetleLion",
+  "rewardPreviewId": 16029,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 112151,
+      "id": "prime_chimeric_nexus",
+      "name": "Cœur chimérique",
+      "count": 0.084
+    },
+    {
+      "_id": 112150,
+      "id": "symbiotic_chimeric_nucleus",
+      "name": "Noyau chimérique",
+      "count": 0.336
+    },
+    {
+      "_id": 112149,
+      "id": "chimeric_core",
+      "name": "Graine chimérique",
+      "count": 1.26
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bêtes mystiques",
+  "filename_icon": "UI_MonsterIcon_Chimera_OwlPangolin",
+  "description": "Une bête chimérique mystique, produit d'une bio-alchimie jadis répandue sur les terres gelées.\\nSi un monstre fouisseur se déplaçant sous terre et dans la neige était doté d'une vision lui permettant de voir dans l'obscurité, pourrait-il devenir un prédateur encore plus redoutable ?\\nL'expérience s'est avérée étonnamment concluante. Ces créatures fouisseuses se déplacent sous terre la nuit, creusant des pièges dans l'obscurité ou se cachant dans l'ombre pour chasser.\\nSelon un article paru dans Vestnik, un ouvrier habitant Svetloledovka aurait aperçu une créature fouisseuse géante presque aussi grande que deux personnes... Mais il ne s'agit probablement que d'une rumeur...",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.2
+    },
+    "base": {
+      "hp": 27.168,
+      "attack": 30.144,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

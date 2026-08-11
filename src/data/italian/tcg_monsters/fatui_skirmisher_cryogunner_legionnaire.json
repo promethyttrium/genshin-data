@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 3,
+    "element": "Cryo",
+    "weapon": "Altre armi",
     "faction": [
-      null
+      "Fatui"
     ]
   },
   "skills": [
     {
       "id": "closerange_charge",
       "name": "Carica ravvicinata",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -36,8 +40,10 @@
     {
       "id": "freezing_spray",
       "name": "Spray congelante",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#99FFFFFF\">DAN da Cryo</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,8 +56,10 @@
     {
       "id": "frost_cannon",
       "name": "Cannongelo",
-      "desc": "Infligge ? ?, questo personaggio ottiene <span style=\"color:#FFFFFFFF\">Equipaggiamento elementale di Cryo</span>.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#99FFFFFF\">DAN da Cryo</span>, questo personaggio ottiene <span style=\"color:#FFFFFFFF\">Equipaggiamento elementale di Cryo</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -71,7 +79,9 @@
       "id": "combat_resupply",
       "name": "Fornitura bellica",
       "desc": "(Passiva) All'inizio del duello questo personaggio ottiene 2 punti Energia.",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

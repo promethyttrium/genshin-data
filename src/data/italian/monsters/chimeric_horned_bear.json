@@ -1,0 +1,39 @@
+{
+  "_id": 26310401,
+  "id": "chimeric_horned_bear",
+  "monsterId": 26310402,
+  "name": "Orso cornuto chimerico",
+  "specialNames": [
+    "Orso cornuto chimerico"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestie mistiche",
+  "filename_icon": "UI_MonsterIcon_Chimera_BearDeer",
+  "description": "Un prodotto della bioalchimia, un mostro artificiale dotato di una costituzione insolita.\\nUna creatura formatasi senza seguire il progetto del suo creatore, ma attraverso l'assemblaggio spontaneo di segmenti vitali. È giunta così a possedere alcuni tratti prodigiosi, tra cui la capacità di manipolare liberamente il potere elementale.\\nAnche se la vita viene scomposta fino a non lasciare quasi nulla a parte dei segmenti, è possibile che una volontà o una forza esterna li spinga a crescere seguendo un disegno misterioso?\\nProbabilmente, più nessuno ormai conosce la risposta a questa domanda.",
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 27.431341,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

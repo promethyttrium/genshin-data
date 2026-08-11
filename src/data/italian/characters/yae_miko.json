@@ -465,7 +465,7 @@
       "_id": 586,
       "id": "forbidden_art_daisesshou",
       "name": "Arte proibita: Daisesshou",
-      "description": "Gli attacchi di un <span style=\"color:#FFD780FF\">Sakura Sesshou</span> ignorano un 60% della DIF degli avversari.",
+      "description": "Gli attacchi dei <span style=\"color:#FFD780FF\">Sakura Sesshou</span> ignorano un 60% della DIF degli avversari.",
       "level": 6
     }
   ],

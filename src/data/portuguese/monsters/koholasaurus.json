@@ -8,13 +8,12 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Mosasaurus_Normal",
   "description": "Um Sauriano com nadadeiras grossas e fortes, e uma cauda longa que pode nadar em água e Flogisto Líquido.\\nSegundo as lendas, dragões mais antigos eram ainda mais capazes de se adaptar aos seus ambientes, e quando o maior dragão da era boiava na superfície, dava para ser confundido com uma ilha. Dizem que os Koholassauros de hoje são os descendentes daquele grande dragão do mar, e em suas largas costas, as formas colossais daquelas antigas feras marinhas ainda podem ser vistas.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {

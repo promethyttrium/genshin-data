@@ -1,0 +1,26 @@
+{
+  "_id": 101281,
+  "id": "rimecurrant",
+  "name": "Lý Gai Băng Giá",
+  "description": "Quả mọng với hương vị phong phú, mọc ra từ những cành cây đóng băng.",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Kem Lý Gai Băng Giá"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Shashlik Snezhnaya"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Viên Kem Ngọt Ngào"
+    }
+  ],
+  "source": [
+    "Đề xuất: Thu thập ở Snezhnaya"
+  ]
+}

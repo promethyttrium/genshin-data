@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Carta de personaje",
     "energy": 3,
+    "element": "Hydro",
+    "weapon": "Arco",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 4761,
@@ -29,8 +31,10 @@
     {
       "id": "stealthy_bowshot",
       "name": "Flecha subrepticia",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "lingering_lifeline",
       "name": "Atadura salvavidas",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y este personaje obtiene cargas de <span style=\"color:#FFFFFFFF\">irrupción</span> +2.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#80C0FFFF\">Daño Hydro</span> y este personaje obtiene cargas de <span style=\"color:#FFFFFFFF\">irrupción</span> +2.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "depthclarion_dice",
       "name": "Dado clarividente",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y crea un <span style=\"color:#FFFFFFFF\">dado intrincado</span>.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#80C0FFFF\">Daño Hydro</span> y crea un <span style=\"color:#FFFFFFFF\">dado intrincado</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -84,7 +92,9 @@
       "id": "breakthrough",
       "name": "Irrupción",
       "desc": "Pasiva: cuando comienza el duelo, este personaje obtiene el estado de <span style=\"color:#FFFFFFFF\">irrupción</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
       "points": []
     }
   ]

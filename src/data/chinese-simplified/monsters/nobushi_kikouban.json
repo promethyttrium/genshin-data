@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人类势力",
   "filename_icon": "UI_MonsterIcon_Samurai_Ronin_03",
   "description": "落草为寇的流浪武人，虽然常被称为「野伏」，但并不隶属于某个统一的团体。\\n除了作为武者必修的剑术之外，还会熟练地使用手弩偷袭对手，只要能够取胜便会不择手段。抛弃了武家之名的人，也常常会抛弃武家的自矜。\\n为了生计与财富，有时候甚至会与盗宝团、愚人众沆瀣一气。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

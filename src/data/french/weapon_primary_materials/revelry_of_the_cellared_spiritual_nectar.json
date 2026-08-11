@@ -1,0 +1,29 @@
+{
+  "_id": 114092,
+  "id": "revelry_of_the_cellared_spiritual_nectar",
+  "name": "Rêverie de nectar spirituel en cave",
+  "description": "Le grand-duc des domovoy régnait sur les mines de cristal et le développement des terres gelées. À ses yeux, creuser une oasis dans les étendues polaires n'était qu'un jeu d'enfant, et importer du seigle de meilleure qualité ne représentait pas une difficulté majeure.<br/>Même parmi les nombreux nobles nivéoles qui avaient subsisté à Snezhnaya jusqu'à ce jour, aucun ne pouvait rivaliser avec le prestige de son rang.<br/>Pourtant, la flamme de l'ambition brûlait toujours plus fort, le rongeant de l'intérieur, tandis que la cupidité ancestrale des nivéoles, enflée d'année en année, demeurait sans limite.",
+  "source": [
+    "Emplacement réservé - Quantité synthétisable : {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114091,
+        "id": "exhilaration_of_the_cellared_spiritual_nectar",
+        "name": "Ivresse de nectar spirituel en cave",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Donjon de la maîtrise : Cicatrice d'une obsession maudite",
+  "days": [
+    "Mardi",
+    "Vendredi",
+    "Dimanche"
+  ]
+}

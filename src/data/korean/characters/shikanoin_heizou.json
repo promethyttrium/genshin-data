@@ -429,7 +429,7 @@
     {
       "id": "paradoxical_practice",
       "name": "반론의 고찰",
-      "description": "시카노인 헤이조가 필드에서 확산 반응을 일으키면 <span style=\"color:#FFD780FF\">쇄심권</span>의 「변격」 효과를 1스택 획득한다. 해당 효과는 0.1초마다 최대 1회 발동된다",
+      "description": "시카노인 헤이조가 필드에서 확산, 별 확산 반응을 일으키면 <span style=\"color:#FFD780FF\">쇄심권</span>의 「변격」 효과를 1스택 획득한다. 해당 효과는 0.1초마다 최대 1회 발동된다",
       "level": 1
     },
     {

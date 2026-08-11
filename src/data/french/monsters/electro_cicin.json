@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Cicin_Thunder_01",
   "description": "Une petite bestiole qui peut manipuler l'élément Électro.\\nElle fait partie d'un ensemble de créatures qui s'apparentent aux lucioles. Bien qu'elle soit faible, cette créature peut vous blesser sévèrement dans certaines circonstances.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

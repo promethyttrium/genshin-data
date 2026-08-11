@@ -190,7 +190,7 @@
       "_id": 11322,
       "id": "ringadingding_hexhunter_chime",
       "name": "叮铃铃·猎魔之音",
-      "description": "怀揣着打败「邪恶」魔女、拯救「德斯卡戴」的决心，解放风的力量吧！布伦妮使用「狩灾誓锤」敲击「诱巫饵铃」，造成<span style=\"color:#80FFD7FF\">风元素伤害</span>。<br/>若布伦妮通过该次攻击对敌人触发了扩散反应，则在接下来6秒内，<span style=\"color:#FFD780FF\">叮铃铃·猎魔之音</span>将被替换为<span style=\"color:#FFD780FF\">咚锵锵·裁魔之惩</span>。<br/><br/><span style=\"color:#FFD780FF\">咚锵锵·裁魔之惩</span><br/>将先前参与扩散反应的元素类型缠绕于锤，并使<b><span style=\"color:#FFD780FF\">「狩灾誓锤」</span></b>发生元素转化，点按施放时，布伦妮跃起并将「狩灾誓锤」向前踢出，对面前的敌人造成对应的元素类型伤害。",
+      "description": "怀揣着打败「邪恶」魔女、拯救「德斯卡戴」的决心，解放风的力量吧！布伦妮使用「狩灾誓锤」敲击「诱巫饵铃」，造成<span style=\"color:#80FFD7FF\">风元素伤害</span>。<br/>若布伦妮通过该次攻击对敌人触发了扩散或星扩散反应，则在接下来6秒内，<span style=\"color:#FFD780FF\">叮铃铃·猎魔之音</span>将被替换为<span style=\"color:#FFD780FF\">咚锵锵·裁魔之惩</span>。<br/><br/><span style=\"color:#FFD780FF\">咚锵锵·裁魔之惩</span><br/>将先前参与扩散或星扩散反应的元素类型缠绕于锤，并使<b><span style=\"color:#FFD780FF\">「狩灾誓锤」</span></b>发生元素转化，点按施放时，布伦妮跃起并将「狩灾誓锤」向前踢出，对面前的敌人造成对应的元素类型伤害。",
       "info": "",
       "attributes": [
         {
@@ -369,7 +369,7 @@
     {
       "id": "verdict_and_punishment",
       "name": "裁断追惩",
-      "description": "元素爆发<color=#FFD780FF><b>铃鸣·狩魔之刻</b></color>中，处于「寻猎」模式下的「诱巫饵铃」对敌人造成伤害后，若该次伤害对敌人触发了扩散反应，则还会在敌人面前召唤出一柄依据本次扩散反应进行元素转化的<b><span style=\"color:#FFD780FF\">「狩灾誓锤」</span></b>向其砸下，造成布伦妮攻击力150%的对应类型的元素伤害，该伤害视为元素爆发伤害。",
+      "description": "元素爆发<color=#FFD780FF><b>铃鸣·狩魔之刻</b></color>中，处于「寻猎」模式下的「诱巫饵铃」对敌人造成伤害后，若该次伤害对敌人触发了扩散或星扩散反应，则还会在敌人面前召唤出一柄依据本次扩散或星扩散反应进行元素转化的<b><span style=\"color:#FFD780FF\">「狩灾誓锤」</span></b>向其砸下，造成布伦妮攻击力150%的对应类型的元素伤害，该伤害视为元素爆发伤害。",
       "level": 1
     },
     {

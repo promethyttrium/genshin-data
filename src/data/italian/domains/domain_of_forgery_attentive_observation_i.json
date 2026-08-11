@@ -19,6 +19,11 @@
     "Pyro",
     "Anemo"
   ],
+  "daysOfWeek": [
+    "Martedì",
+    "Venerdì",
+    "Domenica"
+  ],
   "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
   "domainText": "Weapon Ascension Materials",
   "rewardPreview": [

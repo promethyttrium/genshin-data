@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Lança",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3845,
@@ -29,8 +31,10 @@
     {
       "id": "dawnstar_piercer",
       "name": "Perfuradora do Amanhecer",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "spring_spirit_summoning",
       "name": "Invocação Espiritual",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, gera <span style=\"color:#FFFFFFFF\">Pena Gelada</span>.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de <span style=\"color:#99FFFFFF\">Dano Cryo</span>, gera <span style=\"color:#FFFFFFFF\">Pena Gelada</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "divine_maidens_deliverance",
       "name": "Encantamento da Donzela Divina",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, invoca <span style=\"color:#FFFFFFFF\">Talismã de Espírito</span>.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#99FFFFFF\">Dano Cryo</span>, invoca <span style=\"color:#FFFFFFFF\">Talismã de Espírito</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1101,

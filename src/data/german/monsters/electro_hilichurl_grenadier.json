@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl-Stämme",
   "filename_icon": "UI_MonsterIcon_Hili_Electric_Range",
   "description": "Die naturverbundenen, umherziehenden Bewohner der Wildnis von Teyvat.\\nFür die Hilichurle, die ein Leben im Verborgenen führen, scheint der Elektro-Schleim nicht so vielseitige Einsatzmöglichkeiten wie der Pyro-Schleim und der Anemo-Schleim zu haben. Vielleicht gibt es auch einen Tag, an dem sie den Fluss zwischen Elektro-Schleim und mutiertem Elektro-Schleim erkennen und dann eine plötzliche Entwicklung vollziehen?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

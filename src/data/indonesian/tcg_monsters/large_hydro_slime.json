@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Senjata Lain",
     "faction": [
-      null
+      "Monster"
     ]
   },
   "skills": [
     {
       "id": "ram",
       "name": "Ram",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#80C0FFFF\">Hydro DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -36,8 +40,10 @@
     {
       "id": "bubble_spray",
       "name": "Bubble Spray",
-      "desc": "Mengakibatkan ? poin ?.<br/>Karakter target menerima <span style=\"color:#FFFFFFFF\">Gurgling Bubble</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#80C0FFFF\">Hydro DMG</span>.<br/>Karakter target menerima <span style=\"color:#FFFFFFFF\">Gurgling Bubble</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -50,8 +56,10 @@
     {
       "id": "jumping_slam",
       "name": "Jumping Slam",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 5 poin <span style=\"color:#80C0FFFF\">Hydro DMG</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -71,7 +79,9 @@
       "id": "elemental_sedimentation_hydro",
       "name": "Elemental Sedimentation: Hydro",
       "desc": "[Pasif] Saat pertandingan dimulai, Karakter ini memperoleh <span style=\"color:#FFFFFFFF\">Elemental Lifeform: Hydro</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

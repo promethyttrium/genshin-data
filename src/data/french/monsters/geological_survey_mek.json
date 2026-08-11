@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automates",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Probe",
   "description": "Un Méka horlogoïde conçu pour détecter les ressources souterraines et certains minéraux.\\nComme le type de métal souhaité peut être défini à l'avance, cet appareil s'est avéré très populaire parmi les Pilleurs de trésors et les aventuriers.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

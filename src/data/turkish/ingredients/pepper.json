@@ -15,6 +15,11 @@
       "name": "Izgara Kaplan Balığı"
     },
     {
+      "_id": 1701,
+      "id": "podvorye_smoked_sausage",
+      "name": "Tütsülenmiş Podvorye Sosisi"
+    },
+    {
       "_id": 2006,
       "id": "fried_radish_balls",
       "name": "Kızarmış Turp Köftesi"
@@ -67,6 +72,5 @@
   ],
   "source": [
     "Gıda pazarlarında satılır."
-  ],
-  "rarity": 0
+  ]
 }

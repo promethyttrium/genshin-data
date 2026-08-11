@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_HermitCrab_Mature",
   "description": "Kepiting yang hidup di balik siput dan cangkangnya.\\nArmored Crab akan terus mencari cangkang yang cocok dengan dirinya selama masih bertumbuh. Dahulu kala, ada buku dongeng terlaris yang menggambarkan perjalanan pasang surut Armored Crab saat mencari tempat tinggalnya sendiri. Cerita itu sangat digemari anak-anak, tetapi kesan setelahnya membuktikan, seperti banyak cerita dongeng lainnya, bahwa cerita itu juga memberikan perasaan yang mendalam kepada orang dewasa.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

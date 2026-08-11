@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Savaşçının Metal Düdüğü",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Nöbetçinin Ahşap Düdüğü",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Flamingo",
   "description": "Sarp uçurumların tepelerinden gelen ve yiğitliğiyle tanınan, bundan dolayı Sürüngen Tacına layık görülen güçlü bir savaşçı.\\nAteş Ulusu Natlan'da dahi Çiçek Tüyü Klanından olanların ateş kullanma konusunda özel bir yaklaşımları vardır. Ağır çekiç kuşanan bu kabile savaşçıları için alevler şiddetli çarpışmalardan doğan, yoğun bir tutkudan gelen şeylerdir. Savaştıklarında çatışma genelde bir anda sonlanır ve her daim galip gelen onlar olur.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

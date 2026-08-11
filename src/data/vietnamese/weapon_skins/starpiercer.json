@@ -1,0 +1,21 @@
+{
+  "_id": 350001,
+  "id": "starpiercer",
+  "name": "Quán Tinh",
+  "description": "Ảo ảnh vũ khí rực rỡ xuất hiện nơi sâu thẳm trong Địa Mạch, có thể biến đổi tùy theo loại nguyên tố của người cầm. Nghe nói nó từng mang cái tên \"Gusisnautar\" và được nắm giữ bởi tội nhân cực ác của vương đô cổ xưa.",
+  "rarity": 4,
+  "type": {
+    "id": "Bow",
+    "name": "Cung"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "Huyễn Hình Rạng Rỡ: Siêu Việt",
+    "priority": 1
+  },
+  "item_id": 341501,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Bow_MorphChrod_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Bow_MorphChrod"
+}

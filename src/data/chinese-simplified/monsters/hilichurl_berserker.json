@@ -8,14 +8,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "丘丘部族",
   "filename_icon": "UI_MonsterIcon_Hili_Fire_Range",
   "description": "提瓦特荒野中游荡的原始住民。\\n为了击退来犯的冒险者，会挥舞着熊熊燃烧的棒槌，一往无前地奋勇冲锋。草原或森林中发生野火的话，通常而言，并不是因为某名特别的「骑士」，而是因为这种丘丘人的犯行。",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

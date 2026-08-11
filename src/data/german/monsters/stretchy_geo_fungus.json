@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Beta_Rock",
   "description": "Sporengeschöpf mit einer gewissen Intelligenz. Hat eine starke Fähigkeit zur Anpassung an die Umwelt.\\nDas angereicherte Geo-Element hat eine harte Schale auf ihrer Kappe gebildet. Es wird angenommen, dass ihr Körperbau kompakter als der ihrer Artgenossen ist, um den schweren Kopf zu schwingen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

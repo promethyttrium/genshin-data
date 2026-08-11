@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Fungus_Un_Gamma_Water",
   "description": "Sinh vật bào tử có trí lực nhất định, có khả năng thích ứng mạnh mẽ với môi trường xung quanh.\\nNghe nói rất khó ăn, nhưng do loại sinh vật này chứa nguồn nước phong phú nên có thể dùng để làm nguồn cung ứng nước...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

@@ -25,19 +25,19 @@
       "_id": 112019,
       "id": "deathly_statuette",
       "name": "幽邃刻像",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112018,
       "id": "dark_statuette",
       "name": "夤夜刻像",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112017,
       "id": "gloomy_statuette",
       "name": "晦暗刻像",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "深渊",
   "filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Lance_Water",
   "description": "漆黑的士兵。曾经是地下古国的骄傲军人，如今已经不再具备身为「人」的智性了。\\n为了歼敌、为了守护而陷阵的意志似乎仍然刻在这幅空壳当中，就算已经没有人能告诉它们敌在何方，要守护的又是什么。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

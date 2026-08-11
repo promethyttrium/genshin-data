@@ -79,6 +79,11 @@
       "name": "Gioia davanti al focolare"
     },
     {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Okroska del regno innevato"
+    },
+    {
       "_id": 4101,
       "id": "jade_parcels",
       "name": "Ravioli di giada"
@@ -111,6 +116,5 @@
   ],
   "source": [
     "Lavorato"
-  ],
-  "rarity": 0
+  ]
 }

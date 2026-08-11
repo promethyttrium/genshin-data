@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_HermitCrab_Larva_02",
   "description": "A crab that makes its home in borrowed shells.\\nIt seems not to have any of the aggressiveness possessed by many wild animals. Perhaps it is because animals who attack for purposes other than obtaining food possess some degree of territoriality, yet the territory of the Armored Crab is naught but the small home upon its back.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 5.34,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

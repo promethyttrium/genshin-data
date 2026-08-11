@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 3,
+    "element": "Hydro",
+    "weapon": "Outras Armas",
     "faction": [
-      null
+      "Monstro"
     ],
     "talent_card": {
       "_id": 3235,
@@ -27,8 +29,10 @@
     {
       "id": "surge",
       "name": "Ataque de Ondas",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#80C0FFFF\">Dano Hydro</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -48,7 +52,9 @@
       "id": "oceanid_mimic_summoning",
       "name": "Ilusão Aquática",
       "desc": "Invoca 1 tipo aleatório de <span style=\"color:#FFFFFFFF\">Invocação Aquática</span> (Com prioridade para tipos diferentes dos pré-existentes).",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -62,7 +68,9 @@
       "id": "the_myriad_wilds",
       "name": "Espectros da Selva",
       "desc": "Invoca 2 tipos aleatórios de <span style=\"color:#FFFFFFFF\">Invocação Aquática</span>. (Com prioridade para tipos diferentes dos pré-existentes).",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -75,8 +83,10 @@
     {
       "id": "tide_and_torrent",
       "name": "Correnteza Avassaladora",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?; para cada invocação sua, o Dano deste ataque aumenta em 1.",
-      "skillTag": [],
+      "desc": "Causa 5 pontos de <span style=\"color:#80C0FFFF\">Dano Hydro</span>; para cada invocação sua, o Dano deste ataque aumenta em 1.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1102,

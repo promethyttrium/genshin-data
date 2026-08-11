@@ -1,0 +1,58 @@
+{
+  "_id": 4700,
+  "id": "domain_of_mastery_shared_vision_ii",
+  "name": "숙달 비경: 공관 II",
+  "entranceId": 2074,
+  "entranceName": "몰락한 성소",
+  "description": "한때 요정이 세운 성소는 간악한 무리가 차지했다.\n이곳을 배회하는 적을 처치하면 특성 강화의 계시를 얻을 수 있을지도 모른다",
+  "regionId": 8,
+  "regionName": "스네즈나야",
+  "recommendedLevel": 54,
+  "unlockRank": 28,
+  "disorder": [
+    "· When a character triggers Superconduct or Stellar-Conduct reactions, or deals Stellar-Conduct DMG, a shockwave will be unleashed at the target enemy's location, dealing Electro DMG."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_03",
+  "recommendedElements": [
+    "얼음 원소",
+    "번개 원소"
+  ],
+  "daysOfWeek": [
+    "수요일",
+    "토요일",
+    "일요일"
+  ],
+  "domainType": "UI_ABYSSUS_AVATAR_PROUD",
+  "domainText": "Talent Level-Up Material",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "모험 경력",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "모라",
+      "count": "1800"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "호감도 경험치",
+      "count": "15"
+    },
+    {
+      "_id": 104372,
+      "id": "guide_to_glory",
+      "name": "「영광」의 인도"
+    },
+    {
+      "_id": 104371,
+      "id": "teachings_of_glory",
+      "name": "「영광」의 가르침"
+    }
+  ],
+  "monsterList": []
+}

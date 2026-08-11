@@ -13,8 +13,6 @@
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Wayob_Drillhead",
   "description": "The Children of Echoes believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\\nThe people of Natlan believe that the Wayob dwell in the kingdom of the Lord of the Night, and have no fixed form, instead attaching themselves to anything in order to provide guidance to lost tribespeople. Wayob manifestations are particularly special, and the figure revealed through the totems often has an important purpose.\\nThe Children of Echoes believe that their Wayob has the power to shape mountains and valleys, and can control the echoes created when rock meets stone.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 4,
   "stats": {
     "resistance": {

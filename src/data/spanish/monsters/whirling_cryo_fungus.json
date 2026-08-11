@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Fungus_Trois_Alpha_Ice",
   "description": "Un organismo fúngico con cierta inteligencia. Tiene una gran capacidad de adaptación al entorno.\\nSe ha comprobado que introducir los Hongos en hielo no sirve para mejorar su sabor, pero sí parecen adquirir cierta capacidad para combatir el calor.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

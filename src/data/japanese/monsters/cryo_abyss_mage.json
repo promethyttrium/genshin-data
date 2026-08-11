@@ -37,12 +37,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "アビス",
   "filename_icon": "UI_MonsterIcon_Abyss_Ice_01",
   "description": "極寒の氷元素を使用して戦うアビスの魔物。\\n大気中の水蒸気を氷に凝縮出来るなど、強力な力を持つにもかかわらず、本体はかなり貧弱。身を守るバリアが破られると、やられ放題になってしまう。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

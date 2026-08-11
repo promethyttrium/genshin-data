@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Alpha_Fire",
   "description": "Споры с зачатками интеллекта. Прекрасно умеют приспосабливаться к окружающей среде.\\nЭто существо только выглядит взрывоопасным, на самом деле оно чрезвычайно нежное, если не подходить слишком близко...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

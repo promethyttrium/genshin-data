@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Human_Female_NoWeapon_Drillhead",
   "description": "Una guerrera de los cañones, así como una centinela tribal que patrulla por las montañas y ríos en los que abundan las piedras preciosas.\\nEsta Guerrera Tribal lleva un bate con el que puede hacer añicos incluso a la más dura de las piedras. Cuando no está combatiendo, suele destrozar rocas con su arma en busca de gemas y minerales flogísticos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

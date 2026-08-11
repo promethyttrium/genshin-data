@@ -1,0 +1,24 @@
+{
+  "_id": 112154,
+  "id": "accreted_growth",
+  "name": "Büyümüş Kitle",
+  "description": "Bir organ ya da kemikle tamamen bütünleşmiş bir kitle. Öyle ki Volkodlakların güç dolaşım düğümlerinde yeni büyüyen bir kemik ya da organ bile denebilir buna. Yalnızca kuvvetini devamlı artıran uzun ömürlü Volkodlakların bedenlerinde böyle büyümeler meydana gelebilir.",
+  "source": [
+    "Sv. 60 ve üzeri Volkodlak Zalimlerinden düşer.",
+    "Yıldız Tozu Takası: Takas sonrası üretilir.",
+    "Yer Tutucu - Üretilebilir Miktar: {0}"
+  ],
+  "rarity": 4,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 112153,
+        "id": "accreted_mass",
+        "name": "Öbeklenmiş Kitle",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

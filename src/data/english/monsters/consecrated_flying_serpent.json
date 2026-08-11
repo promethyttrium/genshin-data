@@ -25,19 +25,19 @@
       "_id": 112076,
       "id": "marked_shell",
       "name": "Marked Shell",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112075,
       "id": "sturdy_shell",
       "name": "Sturdy Shell",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112074,
       "id": "desiccated_shell",
       "name": "Desiccated Shell",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Chrysopelea_Sacred_Wind",
   "description": "A reptile that has mutated after feeding from greater lifeforms.\\nThough now imbued with the power of elemental manipulation, the Consecrated Beasts themselves still cannot fully digest the pieces of flesh they devoured from the immortal carcasses that they ate. Instead, the pieces slowly fused with the beasts themselves, weaving a bony shell over their body, one that shares a similar composition to a certain type of smelting material from Inazuma.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

@@ -1,0 +1,33 @@
+{
+  "_id": 215161,
+  "id": "backstreet_guile",
+  "shareId": 612,
+  "name": "Ruse des ruelles",
+  "title": "Jahoda - Ruse des ruelles",
+  "desc": "« Qui trouve garde ! »",
+  "in_play_description": "Lorsque <span style=\"color:#FFFFFFFF\">Jahoda</span> devient le personnage actif : Copie aléatoirement 2 cartes de la main de l'adversaire s'il a plus ou autant de cartes en main que vous. (1 fois par manche)",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "Anémo",
+    "card_type": "Carte d'équipement",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "Anémo",
+        "count": 3
+      }
+    ],
+    "source": "Récompense pour avoir invité Jahoda à une partie dans La Queue de Chat et terminé les objectifs de défi correspondants",
+    "tags": [
+      "Aptitude",
+      "Action de combat"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Action de combat</span> : Lorsque votre personnage actif est <span style=\"color:#FFFFFFFF\">Jahoda</span>, équipe cette carte.<br/>Une fois Jahoda équipée de cette carte, utilise immédiatement <span style=\"color:#FFD780FF\">Stratégie astucieuse : Partage de butin</span> une fois.<br/>Lorsque <span style=\"color:#FFFFFFFF\">Jahoda</span> devient le personnage actif : Copie aléatoirement 2 cartes de la main de l'adversaire s'il a plus ou autant de cartes en main que vous. (1 fois par manche)<br/>(Votre deck doit contenir Jahoda pour pouvoir y ajouter cette carte)"
+    }
+  ]
+}

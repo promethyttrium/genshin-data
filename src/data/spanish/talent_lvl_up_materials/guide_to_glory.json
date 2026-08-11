@@ -1,0 +1,30 @@
+{
+  "_id": 104372,
+  "id": "guide_to_glory",
+  "name": "Guía de la gloria",
+  "description": "Material de mejora de talento.\\nLa gloria es la fe de la Nación del Hielo.\\nEs una llama que titila en la larga noche. Quienes caminan por las llanuras nevadas observan en todo momento hacia dónde se dirige la gloria, convencidos de que la ventisca amainará y el amanecer llegará, y de que están caminando por el sendero correcto.",
+  "source": [
+    "Cantidad sintetizable: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104371,
+        "id": "teachings_of_glory",
+        "name": "Enseñanzas de la gloria",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio de la maestría: Contemplación conjunta IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Miércoles",
+    "Sábado",
+    "Domingo"
+  ]
+}

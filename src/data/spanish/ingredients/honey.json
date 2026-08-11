@@ -1,0 +1,21 @@
+{
+  "_id": 110017,
+  "id": "honey",
+  "name": "Miel",
+  "description": "Un líquido de color ámbar con una dulzura clásica, disponible en tiendas todo el año. Puede usarse para endulzar bebidas, elaborar salsas o marinar carnes.",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Helado de grosella escarchada"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
+    }
+  ],
+  "source": [
+    "Comprado en tiendas de Snezhnaya"
+  ]
+}

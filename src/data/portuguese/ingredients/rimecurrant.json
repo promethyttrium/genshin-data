@@ -1,0 +1,26 @@
+{
+  "_id": 101281,
+  "id": "rimecurrant",
+  "name": "Groselha de Gelo",
+  "description": "Uma fruta silvestre com um sabor intenso que nasce em galhos cobertos por geada.",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Sorvete de Groselha de Gelo"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Shashliks de Snezhnaya"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Sorvetes Sortidos"
+    }
+  ],
+  "source": [
+    "Recomendação: Coletável em Snezhnaya"
+  ]
+}

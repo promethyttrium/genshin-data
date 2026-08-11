@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Canavar Makinaları",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_LengthShifter",
   "description": "Yıkım tepkimesinden ürettiği enerjiyi ateşleyebilen bir mekanizma. Aslında, Fontaine Araştırma Enstitüsü kurulmadan önce Doğa Felsefesi Enstitüsü tarafından yürütülen bir araştırma sırasında ortaya çıkan bir test cihazıdır.\\nBir gözcü ve savunma cihazı olarak hatırı sayılır ticari başarı elde etmiş olmasına rağmen çoğu mühendis onu gerçek bir Kurmalı Meka olarak görmez.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 6,
   "stats": {

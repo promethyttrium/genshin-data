@@ -1,0 +1,90 @@
+{
+  "_id": 1317,
+  "id": "durin",
+  "shareId": 608,
+  "name": "Дурин",
+  "title": "«Вечное пламя» Дурин",
+  "desc": "Рождённый из чернил, он парит среди звёзд.",
+  "attributes": {
+    "hp": 10,
+    "card_type": "Карты персонажей",
+    "energy": 2,
+    "element": "Пиро",
+    "weapon": "Одноручное",
+    "faction": [
+      "Мондштадт"
+    ],
+    "source": "Награда за приглашение Дурина в «Кошкин хвост» и победу в Дружеской дуэли"
+  },
+  "skills": [
+    {
+      "id": "radiant_wingslash",
+      "name": "Пламенный удар крыльев",
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Пиро",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Неопределённый элемент",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "binary_form_convergence_and_division",
+      "name": "Дуализм: Слияние и разделение",
+      "desc": "Наносит <span style=\"color:#FF9999FF\">Пиро урон</span>, 3 ед. У персонажа возникает <span style=\"color:#FFFFFFFF\">Трансмутация сущности</span>.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Пиро",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "principle_of_purity_as_the_light_shifts",
+      "name": "Принцип чистоты: Когда меняется свет",
+      "desc": "Наносит <span style=\"color:#FF9999FF\">Пиро урон</span>, 1 ед., создаёт <span style=\"color:#FFFFFFFF\">Утверждение чистоты</span>.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Пиро",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Энергия",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "light_manifest_of_the_divine_calculus",
+      "name": "Светлое явление божественного расчёта",
+      "desc": "(Пассивный навык) <span style=\"color:#FFFFFFFF\">После использования обычной атаки:</span> взрыв стихии переключается на <span style=\"color:#FFFFFFFF\">Принцип тьмы: Когда тлеют звёзды</span>.<br/><span style=\"color:#FFFFFFFF\">После использования элементального навыка:</span> взрыв стихии переключается на <span style=\"color:#FFFFFFFF\">Принцип чистоты: Когда меняется свет</span>.",
+      "skillTag": [
+        "Пассивный навык"
+      ],
+      "points": []
+    }
+  ]
+}

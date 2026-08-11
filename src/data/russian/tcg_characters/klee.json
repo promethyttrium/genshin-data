@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Карты персонажей",
     "energy": 3,
+    "element": "Пиро",
+    "weapon": "Катализатор",
     "faction": [
-      null
+      "Мондштадт"
     ],
     "talent_card": {
       "_id": 3458,
@@ -29,8 +31,10 @@
     {
       "id": "kaboom",
       "name": "Бабах!",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FF9999FF\">Пиро урон</span>, 1 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,8 +53,10 @@
     {
       "id": "jumpy_dumpty",
       "name": "Прыг-скок бомба",
-      "desc": "Наносит ?, ? ед. Персонажу достаётся <span style=\"color:#FFFFFFFF\">Взрывная искра</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FF9999FF\">Пиро урон</span>, 3 ед. Персонажу достаётся <span style=\"color:#FFFFFFFF\">Взрывная искра</span>.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "sparks_n_splash",
       "name": "Грохот и искры",
-      "desc": "Наносит ?, ? ед. Создаёт <span style=\"color:#FFFFFFFF\">Грохот и искры</span> в области противника.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FF9999FF\">Пиро урон</span>, 3 ед. Создаёт <span style=\"color:#FFFFFFFF\">Грохот и искры</span> в области противника.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1103,

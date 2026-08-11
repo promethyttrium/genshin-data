@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Прочие человеческие фракции",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Drillhead",
   "description": "Храбрый воин каньона и племенной страж, патрулирующий кристальные горы и реки.\\nКрепко держа массивный боевой молот обеими руками, эти воины первыми прорывают оборону врага. В племени, любящем самоцветы и украшения, молот - первый инструмент, который берут в руки дети.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

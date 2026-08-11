@@ -25,19 +25,19 @@
       "_id": 112100,
       "id": "stillsmoldering_hilt",
       "name": "Still-Smoldering Hilt",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112099,
       "id": "splintered_hilt",
       "name": "Splintered Hilt",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112098,
       "id": "ruined_hilt",
       "name": "Ruined Hilt",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Golem_Legion",
   "description": "A moving statue shaped like a warrior who will swing their sword at all who dare trespass upon the area under their guardianship. It is unclear if it is a soul or magic that powers them.\\nThey say that legions of golems once conquered the nations that called the high sea home, and this might have been amongst their number. The great towers and palaces that now sleep beneath the waves once bore witness to the fate of those who stand in the path of the wheel of fate.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

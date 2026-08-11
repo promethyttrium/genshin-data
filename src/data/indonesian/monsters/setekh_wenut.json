@@ -36,7 +36,7 @@
       "_id": 113044,
       "id": "pseudostamens",
       "name": "Pseudo-Stamens",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104154,
@@ -119,7 +119,6 @@
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Sandworm",
   "description": "Predator tanpa mata dari kedalaman padang pasir yang menggunakan suara dan getaran untuk mencari mangsanya.\\nLegenda mengatakan bahwa di masa lalu sebelum konsep waktu telah ada, tanah yang mereka kuasai dipenuhi oleh rerumputan harum dan pohon-pohon yang raksasa. Mereka serta keturunannya melalui tanah basah seperti ikan yang berenang di dalam air.\\nSetelah ribuan tahun berlalu, anugerah yang diberikan oleh langit membuat tanah berubah menjadi pasir dan menyebabkan banyak makhluk ini menjadi punah. Cabang dari spesies mereka masih tetap mampu bertahan hidup dengan melakukan adaptasi ke kehidupan yang lebih mengarah ke tanah, dan dikenal sebagai \"Wenut\".\\nBeberapa penduduk padang pasir masih percaya dengan keliru bahwa Wenut adalah titik akhir dari siklus hidup Quicksand Eel, mungkin karena adanya kesamaan yang sekilas antara perilaku kedua spesies ini.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

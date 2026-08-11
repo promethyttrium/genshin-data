@@ -1,0 +1,40 @@
+{
+  "_id": 25135101,
+  "id": "glacial_warden",
+  "monsterId": 25135106,
+  "name": "Guardiano glaciale",
+  "specialNames": [
+    "Guardiano glaciale"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestie mistiche",
+  "filename_icon": "UI_MonsterIcon_Snegurochka_Male",
+  "description": "Uno Snegovik nato dall'amore tra la neve e il ghiaccio.\\nGli Snegovik di sesso maschile sono cavalieri nati e la maggior parte possiede l'insita capacità di forgiare liberamente armi dal ghiaccio e dalla neve.\\nLeggenda narra che durante la campagna dello Tsar Belyi contro la marea oscura, uno Snegovik che serviva come sua guardia scatenò un potere che non apparteneva alla sua stirpe, trasformandosi in un gigante imponente.\\nSebbene il suo destino rimanga ignoto, colui che ha violato un simile tabù non è di certo andato incontro a una fine felice.",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 81.504,
+      "attack": 75.36,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

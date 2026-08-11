@@ -25,19 +25,19 @@
       "_id": 112076,
       "id": "marked_shell",
       "name": "Меченая оболочка",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112075,
       "id": "sturdy_shell",
       "name": "Прочная оболочка",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112074,
       "id": "desiccated_shell",
       "name": "Опустошённая оболочка",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Chrysopelea_Sacred_Wind",
   "description": "Рептилия, изменившаяся после поглощения останков могущественных существ.\\nХотя священные хищники и получили способность управлять элементами, но они неспособны до конца переварить поглощённую плоть бессмертных. Сила этих останков срастается с хищниками, образуя на их теле своего рода панцирь из вещества, похожего на плавкий материал Инадзумы.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "สัตว์อสูรลึกลับ",
   "filename_icon": "UI_MonsterIcon_JellyFish_Larva_02",
   "description": "สัตว์น้ำที่ล่าโดยการยิงระเบิดน้ำ\\nแม้ว่ามันจะดูเหมือนหมวก แต่ส่วนปากที่ใช้ในการกินอาหารนั้นอยู่ที่ส่วนล่างของ \"หมวก\" เพราะงั้นจึงเป็นสิ่งที่ไม่ฉลาดเลย ที่จะสวมมันไว้บนศีรษะ ในอดีตเคยมีคนยืนยันแล้วว่า: \"เมื่อมองย้อนกลับไป นั่นเป็นพฤติกรรมที่ไม่ฉลาดเลยจริง ๆ\"",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 65.15,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

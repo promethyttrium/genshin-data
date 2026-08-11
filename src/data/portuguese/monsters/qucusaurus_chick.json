@@ -25,29 +25,27 @@
       "_id": 112103,
       "id": "tyrants_fang",
       "name": "Presa Tirana",
-      "count": 0.0616
+      "count": 0.062
     },
     {
       "_id": 112102,
       "id": "seasoned_fang",
       "name": "Presa Veterana",
-      "count": 0.2465
+      "count": 0.246
     },
     {
       "_id": 112101,
       "id": "juvenile_fang",
       "name": "Presa Juvenil",
-      "count": 0.9244
+      "count": 0.924
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Flamingo_Small",
   "description": "Um jovem Qucussauro com um corpo leve e ágil.\\nSeu pescoço e asas ainda precisam se desenvolver totalmente, e ele ainda tem um longo caminho até poder manusear o Flogisto Gasoso com verdadeiro domínio. Há histórias de Qucussauros mais velhos empurrando filhotes de penhascos para encorajá-los a voar. Enquanto a verdade de tais contos é incerta, contanto que ele continue praticando dia e noite, não pode haver dúvidas de que o pequenino de penas felpudas crescerá e se tornará forte e resiliente com o tempo.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

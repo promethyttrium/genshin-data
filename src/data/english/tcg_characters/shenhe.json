@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Polearm",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3845,
@@ -29,8 +31,10 @@
     {
       "id": "dawnstar_piercer",
       "name": "Dawnstar Piercer",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "spring_spirit_summoning",
       "name": "Spring Spirit Summoning",
-      "desc": "Deals ? ?, creates 1 <span style=\"color:#FFFFFFFF\">Icy Quill</span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#99FFFFFF\">Cryo DMG</span>, creates 1 <span style=\"color:#FFFFFFFF\">Icy Quill</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "divine_maidens_deliverance",
       "name": "Divine Maiden's Deliverance",
-      "desc": "Deals ? ?, summons 1 <span style=\"color:#FFFFFFFF\">Talisman Spirit</span>.",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#99FFFFFF\">Cryo DMG</span>, summons 1 <span style=\"color:#FFFFFFFF\">Talisman Spirit</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1101,

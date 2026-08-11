@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 3,
+    "element": "Toprak",
+    "weapon": "Diğer Silahlar",
     "faction": [
-      null
+      "Canavar"
     ]
   },
   "skills": [
     {
       "id": "corrosive_claws",
       "name": "Aşındıran Pençeler",
-      "desc": "? ? verir ve rakibin alanında 1 <span style=\"color:#FFFFFFFF\">Aşınma</span> oluşturur.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#FFE699FF\">Toprak Hasarı</span> verir ve rakibin alanında 1 <span style=\"color:#FFFFFFFF\">Aşınma</span> oluşturur.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -36,8 +40,10 @@
     {
       "id": "crystal_cracker",
       "name": "Kristal Kıran",
-      "desc": "? ? verir ve rakibin alanında 1 <span style=\"color:#FFFFFFFF\">Aşınma</span> oluşturur.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#FFE699FF\">Toprak Hasarı</span> verir ve rakibin alanında 1 <span style=\"color:#FFFFFFFF\">Aşınma</span> oluşturur.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -50,8 +56,10 @@
     {
       "id": "pursuers_mark",
       "name": "Avcının İşareti",
-      "desc": "? ? verir ve rakibin alanında 1 <span style=\"color:#FFFFFFFF\">Aşınma</span> oluşturur.",
-      "skillTag": [],
+      "desc": "6 <span style=\"color:#FFE699FF\">Toprak Hasarı</span> verir ve rakibin alanında 1 <span style=\"color:#FFFFFFFF\">Aşınma</span> oluşturur.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -71,7 +79,9 @@
       "id": "elemental_devourer",
       "name": "Element Yutan",
       "desc": "(Pasif) Savaş başladığında bu karakter <span style=\"color:#FFFFFFFF\">Element Yutan</span> etkisi kazanır.",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

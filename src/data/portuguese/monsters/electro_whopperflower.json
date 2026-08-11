@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Mimik_Electric",
   "description": "Plantas monstruosas miméticas energéticas que usam Electro para atacar suas presas.\\nQuando totalmente carregadas com energia elétrica, eles podem liberar uma forte corrente elétrica de suas coroas. Como tal, alguns pesquisadores têm tentado aplicá-los em outras áreas...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

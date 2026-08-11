@@ -14,14 +14,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Хиличурлы",
   "filename_icon": "UI_MonsterIcon_Shaman_Wind_01",
   "description": "Умудрённый опытом бормочущий хиличурл, восхваляющий мощь Анемо.\\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Их умение управлять потоками ветра проистекает из тёмных забытых воспоминаний.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

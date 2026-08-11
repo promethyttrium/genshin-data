@@ -1,0 +1,20 @@
+{
+  "_id": 332066,
+  "id": "feasting_in_a_shared_toast",
+  "shareId": 619,
+  "name": "Karşılıklı Kalkan Kadehler",
+  "title": "Karşılıklı Kalkan Kadehler",
+  "desc": "Her zamanki gibi yine en son sen geldin! Geç otur hadi, saatlerdir seni bekliyoruz!",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 0,
+    "card_type": "Etki Kartı",
+    "energy": []
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Bir sonraki Tur başladığında</span> her iki taraf da 2 kart çeker ve rastgele 2 Element Zarı kazanır."
+    }
+  ]
+}

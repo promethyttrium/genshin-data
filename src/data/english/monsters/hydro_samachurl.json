@@ -13,12 +13,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurls",
   "filename_icon": "UI_MonsterIcon_Shaman_Water_01",
   "description": "A wizened, mumbling hilichurl, one that chants of the power of Hydro.\\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. What sort of life would lead to such simple creatures being able to summon water and rains?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

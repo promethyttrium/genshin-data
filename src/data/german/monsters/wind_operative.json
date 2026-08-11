@@ -64,19 +64,19 @@
       "_id": 112094,
       "id": "operatives_constancy",
       "name": "Beständigkeit der Dienerin",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112093,
       "id": "operatives_standard_pocket_watch",
       "name": "Standardtaschenuhr der Dienerin",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112092,
       "id": "old_operatives_pocket_watch",
       "name": "Alte Taschenuhr der Dienerin",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -127,7 +127,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Escadron_Wind",
   "description": "Eine Elite-Agentin der Fatui.\\nDie Dienerinnen besitzen unter den Fatui keinen offiziellen Rang. Je nach Auftrag und Mission können sie dann entweder mit den Soldaten gemeinsam, allein oder zusammen mit den an verschiedenen Orten platzierten „Einheiten“ Spionage-, Anti-Überwachungs-, Begleit- und Vernichtungsaufgaben übernehmen. Für diese spezielleren Missionen müssen die Dienerinnen oft eine Vielzahl von Fähigkeiten beherrschen und nicht selten sogar besondere Talente entwickeln.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

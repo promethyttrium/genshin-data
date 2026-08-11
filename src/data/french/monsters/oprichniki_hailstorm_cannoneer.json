@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Male_Fat_CannonShield",
   "description": "Un officier d'élite de l'Opritchniki Fatui. Il utilise un canon lourd qui peut prendre la forme d'un imposant bouclier afin d'anéantir les formations ennemies et défendre ses camarades.\\nDes batailles sans merci ont teinté le bouclier d'un blanc glacial, tandis que des traces de sang ont noirci ses angles. Les officiers de l'Oprichniki sont conscients que les belles paroles ne pourront jamais ramener les soldats tombés au combat. Seul un bombardement digne d'une tempête de grêle peut ébranler ce vieux monde corrompu.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

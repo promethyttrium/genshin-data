@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Delta_Electric",
   "description": "Un organismo fatto di spore e dotato di una certa intelligenza. Possiede un'estrema capacità di adattamento.\\nSi distingue da tutti gli altri Miconoidi per i viticci luminosi che spuntano dal suo cappello. Nelle situazioni di pericolo, si difende rilasciando delle piccole sfere elettriche.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

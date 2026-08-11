@@ -1,0 +1,41 @@
+{
+  "_id": 26310501,
+  "id": "chimeric_winged_lion",
+  "monsterId": 26310507,
+  "name": "Chimärischer Flügellöwe",
+  "specialNames": [
+    "Chimärischer Flügellöwe"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystische Bestien",
+  "filename_icon": "UI_MonsterIcon_Chimera_Manticore",
+  "description": "Ein Produkt der Bio-Alchemie, eines der ausrangierten, künstlich erschaffenen chimärischen Monster.\\nUm einen großen Wunsch zu verwirklichen, erschuf ein Alchimist mit einer Technik, die heute längst in Vergessenheit geraten ist, zahlreiche Urkörper, die als „Prototypen“ bezeichnet wurden.\\nVon all diesen wuchs nur ein einziger erfolgreich zu dem perfekten Werk heran, das der ursprüngliche Plan einst vorsah. Die anderen, die der Perfektion zwar nahekamen, aber letztlich scheiterten, wurden achtlos zu diversen zweiköpfigen Abnormitäten verarbeitet.\\nObwohl sie als Fehlschläge gelten, ist die Kraft dieser besonderen zweiköpfigen Bestien dennoch gewaltig. Unter all den chimärischen Monstern gibt es keines, das sich mit ihnen messen könnte.",
+  "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.5,
+      "cryo": 0.1,
+      "electro": 0.5
+    },
+    "base": {
+      "hp": 350.27457,
+      "attack": 95.456,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_id": 214012,
+  "id": "phantasmal_nocturne",
+  "shareId": 616,
+  "name": "Phantasmal Nocturne",
+  "title": "Fischl: Phantasmal Nocturne",
+  "desc": "\"Still, while every question is unexpected, some are definitely more unexpected than others. For instance, one little witch might be asked to use the primordial light to create her own material world. Meanwhile, another might be told to grant a 'soul' to a being that only exists in the imagination.\"",
+  "in_play_description": "While the <span style=\"color:#FFFFFFFF\">Oz</span> is on the field, your <span style=\"color:#FFACFFFF\">Electro-Related Reactions</span> deals +1 DMG. (3 times per Round)",
+  "attributes": {
+    "cost": 2,
+    "cost_type": "Electro",
+    "card_type": "Equipment Card",
+    "energy": [
+      {
+        "_id": 1104,
+        "id": "electro",
+        "type": "Electro",
+        "count": 2
+      }
+    ],
+    "tags": [
+      "Talent",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Fast Action</span>: Equip this to your <span style=\"color:#FFFFFFFF\">Fischl</span>.<br/>Summon <span style=\"color:#FFFFFFFF\">Oz</span>.<br/>While <span style=\"color:#FFFFFFFF\">Oz</span> is on the field, your <span style=\"color:#FFACFFFF\">Electro-Related Reactions</span> deals +1 DMG. (3 times per Round)<br/>(You must have Fischl in your deck to add this card to your deck.)"
+    }
+  ]
+}

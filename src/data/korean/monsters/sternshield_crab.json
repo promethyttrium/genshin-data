@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "돌연변이 마수",
   "filename_icon": "UI_MonsterIcon_HermitCrab_Mature",
   "description": "소라 껍데기에 사는 꽃게.\\n성장기에 있는 중갑 게는 끊임없이 자기 크기에 맞는 껍데기를 찾아 다닌다. 자기 집을 찾으러 다니는 중갑 게의 험난한 여정을 그린 베스트 셀러 동화책도 있었다. 비록 그 내용은 유치했지만, 다른 동화들과 마찬가지로 오히려 어른들에게 감동적이었다는 호평을 받았다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

@@ -1,0 +1,40 @@
+{
+  "_id": 25133701,
+  "id": "voywolf_hunter",
+  "monsterId": 25133702,
+  "name": "Thợ Săn Sói Hú",
+  "specialNames": [
+    "Thợ Săn Sói Hú"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Ma Thú Đột Biến",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Greyhound",
+  "description": "Volkodlak vô cùng mạnh mẽ nhờ kế thừa nhiều sức mạnh vĩ đại từ huyết mạch.\\nTrước đây tộc này từng một thời hưng thịnh đến mức có thể lập thành một đội quân độc lập dưới trướng Vua Thú. Nhưng sau khi Bạch Sa Hoàng với tư cách là chủ nhân của Vương Triều Sao Nhạt thống nhất toàn bộ vùng đất băng giá, dòng tộc vốn không chịu nhiều tổn thất trong chiến tranh ấy lại không được tín nhiệm, dần dần suy tàn, và đã rời khỏi trung tâm quyền lực của Snezhnaya vào thời kỳ Nữ Hoàng Băng Giá lên ngôi. Ngày nay, phần lớn Volkodlak tộc sói sinh sống rải rác trên cánh đồng tuyết và trong núi rừng.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 18.287561,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -13,7 +13,6 @@
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Magbeast_Argali",
   "description": "Una bestia que ha terminado evolucionando de una forma única debido a la irradiación continuada del antiguo poder de la luna.\\nUn extraño relámpago cayó una vez sobre la tierra bendecida por la luz de la luna, por lo que incluso los que antaño fueron débiles carneros comunes ahora han obtenido el poder de controlar el rayo. Dicen que hay quienes han sido testigos de escenas verdaderamente extrañas: carneros en la cima de precipicios donde convergen las tormentas, atrayendo los relámpagos para atemperar sus cuerpos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

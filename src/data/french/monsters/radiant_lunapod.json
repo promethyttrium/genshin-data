@@ -13,7 +13,6 @@
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Magbeast_Squid",
   "description": "Une bête qui a évolué de manière unique grâce à une longue immersion dans l'ancienne énergie lunaire.\\nSelon la légende, lorsque les vagues de la calamité déferlèrent sur la région, même les animaux qui peuplaient les mers ne furent pas épargnés. Ceux qui ne pouvaient accepter la lumière de la lune en eux se dispersèrent comme de l'écume, tant les grands serpents de mer qui pouvaient provoquer des tsunamis que les monstres à un œil qui complotaient jadis de tout dévorer.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

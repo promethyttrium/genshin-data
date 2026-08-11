@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Mature",
   "description": "The adult form of a male Bubbly Seahorse. It is extremely aggressive.\\nSome people even claim to have encountered the king among the seahorses. It is said that they are proud beings with four long limbs.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

@@ -8,13 +8,12 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "异种魔兽",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Mosasaurus_Normal",
   "description": "具有粗壮的鳍肢与长尾，能够在水域与液态燃素中游动的龙。\\n传说中，更为远古的龙拥有更加强的环境适应度，那时海中最为巨大的龙漂浮在水面上时，甚至会让人误以为是一座浮起的岛屿。据说现在的鳍游龙就是那种巨大海龙的后裔，从其宽阔的背部，似乎也能窥得远古海兽的庞然形态。",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {

@@ -1,0 +1,39 @@
+{
+  "_id": 212032,
+  "id": "genesis_of_starsigns",
+  "shareId": 614,
+  "name": "Burçların Doğuşu",
+  "title": "Mona: Burçların Doğuşu",
+  "desc": "Eğer hikayedeki falcı gelecekte gerçekten de yanına bir çırak alacak olursa, onu herhalde böyle tuhaf ve saçma sapan yollarla sınamaz... Değil mi? Yok yok, yapmaz.",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Mona</span> bir Normal Saldırı kullandığında 1 adet daha az <span style=\"color:#FFFFFFFF\">Nötr Element</span> harcanır. Normal Saldırıdan sonra, tetikleyeceğin bir sonraki Buharlaşma Tepkimesi fazladan 2 Hasar verir.",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Su",
+    "card_type": "Ekipman Kartı",
+    "energy": [
+      {
+        "_id": 1102,
+        "id": "hydro",
+        "type": "Su",
+        "count": 1
+      },
+      {
+        "_id": 1109,
+        "id": "unaligned_element",
+        "type": "Nötr Element",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Yetenek",
+      "Savaş Hamlesi",
+      "Cadılık"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Savaş Hamlesi</span>: Aktif karakterin <span style=\"color:#FFFFFFFF\">Mona</span> olduğunda bu kartı kuşan.<br/>Mona bu kartı kuşandıktan sonra tetikleyeceğin bir sonraki Buharlaşma Tepkimesi fazladan 2 Hasar verir ve hemen bir defa <span style=\"color:#FFD780FF\">Kader Dalgası</span> kullanılır.<br/><span style=\"color:#FFFFFFFF\">Mona</span> bir Normal Saldırı kullandığında 1 adet daha az <span style=\"color:#FFFFFFFF\">Nötr Element</span> harcanır. Normal Saldırıdan sonra, tetikleyeceğin bir sonraki Buharlaşma Tepkimesi fazladan 2 Hasar verir.<br/>(Bu kartı destene eklemek için destende Mona olmalıdır.)"
+    }
+  ]
+}

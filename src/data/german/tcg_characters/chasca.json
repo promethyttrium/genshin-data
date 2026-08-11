@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Bogen",
     "faction": [
-      null
+      "Natlan"
     ],
     "talent_card": {
       "_id": 7825,
@@ -29,8 +31,10 @@
     {
       "id": "phantom_feather_flurry",
       "name": "Phantomfederschwarm",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "spirit_reins_shadow_hunt",
       "name": "Auf der Jagd nach dem Schatten",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1]; zieht 1 Karte.<br/>Verleiht dieser Figur <span style=\"color:#FFFFFFFF\">Seelenflinte – Zeremonienstab</span>. Die Figur tritt in <span style=\"color:#FFFFFFFF\">Nachtseelensegen</span> ein und erhält 2 <span style=\"color:#FFFFFFFF\">Nachtseelenpunkte</span>. (Diese Fähigkeit kann nicht verwendet werden, nachdem die Figur in <span style=\"color:#FFFFFFFF\">Nachtseelensegen</span> eingetreten ist.) (Figuren, die mit <span style=\"color:#FFFFFFFF\">Seelenflinte – Zeremonienstab</span> ausgerüstet sind, können folgende Spezialtechnik anwenden: <span style=\"color:#FFFFFFFF\">Mehrfaches Zielen</span>.)<br/><span style=\"color:#FFFFFFFF\">Bei den nächsten 2 Figurenwechseln deiner Seite:</span> Zieht 1 Karte.",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#80FFD7FF\">Anemo-SCH</span>; zieht 1 Karte.<br/>Verleiht dieser Figur <span style=\"color:#FFFFFFFF\">Seelenflinte – Zeremonienstab</span>. Die Figur tritt in <span style=\"color:#FFFFFFFF\">Nachtseelensegen</span> ein und erhält 2 <span style=\"color:#FFFFFFFF\">Nachtseelenpunkte</span>. (Diese Fähigkeit kann nicht verwendet werden, nachdem die Figur in <span style=\"color:#FFFFFFFF\">Nachtseelensegen</span> eingetreten ist.) (Figuren, die mit <span style=\"color:#FFFFFFFF\">Seelenflinte – Zeremonienstab</span> ausgerüstet sind, können folgende Spezialtechnik anwenden: <span style=\"color:#FFFFFFFF\">Mehrfaches Zielen</span>.)<br/><span style=\"color:#FFFFFFFF\">Bei den nächsten 2 Figurenwechseln deiner Seite:</span> Zieht 1 Karte.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "soul_reapers_fatal_round",
       "name": "Der letzte Tanz des Sensenmanns",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], fügt allen inaktiven Figuren deines Gegners 1 Pkt. durchdringenden SCH zu und zieht selbst 3 Karten.",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#80FFD7FF\">Anemo-SCH</span>, fügt allen inaktiven Figuren deines Gegners 1 Pkt. durchdringenden SCH zu und zieht selbst 3 Karten.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -84,7 +92,9 @@
       "id": "shadowhunt_shell",
       "name": "Schattenjagd-Projektil",
       "desc": "Legt zu Beginn eines Duells <span style=\"color:#FFFFFFFF\">Schattenjagd-Projektil</span> ×6 zufällig unter die Karten in deinem Stapel.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

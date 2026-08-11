@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_HermitCrab_Mature",
   "description": "Un granchio che usa le conchiglie come dimora.\\nMentre crescono, i Granchi corazzati sono alla costante ricerca di gusci adatti al proprio corpo. C'è stato un romanzo molto popolare a Fontaine per un periodo, narrava la storia di un Granchio corazzato in cerca di un guscio adatto. Pur essendo la storia piena di elementi fantastici, l'accoglienza del libro ha dimostrato, come molte fiabe, di aver commosso in modo particolare gli adulti.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

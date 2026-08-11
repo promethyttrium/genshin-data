@@ -68,6 +68,11 @@
       "name": "Barrinha de Frutogrão"
     },
     {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "Pão de Centeio Glupov"
+    },
+    {
       "_id": 3004,
       "id": "sticky_honey_roast",
       "name": "Carne Frita com Cenoura e Mel"
@@ -282,6 +287,5 @@
   ],
   "source": [
     "Processado"
-  ],
-  "rarity": 0
+  ]
 }

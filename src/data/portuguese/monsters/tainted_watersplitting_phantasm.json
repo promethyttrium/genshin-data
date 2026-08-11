@@ -25,19 +25,19 @@
       "_id": 112088,
       "id": "newborn_tainted_hydro_phantasm",
       "name": "Fantasma Hydro Corrompido Recém-nascido",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112087,
       "id": "scoop_of_tainted_water",
       "name": "Colherada de Água Impura",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112086,
       "id": "drop_of_tainted_water",
       "name": "Gota de Água Impura",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Vida Elemental",
   "filename_icon": "UI_MonsterIcon_Necalevia_Normal",
   "description": "Uma estranha forma de vida elemental que surgiu nas áreas aquáticas quando as Oceanids desapareceram de Fontaine. Esse tipo de criatura começou a ser avistado após a catástrofe ocorrida. Seu nome é uma clara referência à óbvia ausência da beleza característica das Oceanids.\\nEmbora o veneno que tingiu as águas de Fontaine já tenha se dissolvido e diluído, a menos que haja um espaço de água pura em algum lugar da nação, as Oceanids não voltarão a mergulhar nas águas de Fontaine.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

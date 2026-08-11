@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Suku Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hili_Electric_Range",
   "description": "Penduduk primitif yang mengembara di alam liar Teyvat.\\nPara pemanah ini menggunakan busur panah yang sederhana, dan kepala panahnya dibuat dari ukiran Electro Crystal yang dapat memberikan kejutan listrik saat terjadinya benturan. Mereka mengatakan bahwa Hilichurl pemanah dengan keterampilan yang luar biasa bisa menembakkan lima buah panah sekaligus — suatu prestasi yang sangat mengesankan.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

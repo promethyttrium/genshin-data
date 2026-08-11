@@ -64,19 +64,19 @@
       "_id": 112094,
       "id": "operatives_constancy",
       "name": "従者の時々刻々",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112093,
       "id": "operatives_standard_pocket_watch",
       "name": "従者の制式懐中時計",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112092,
       "id": "old_operatives_pocket_watch",
       "name": "古びた従者の懐中時計",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -127,7 +127,6 @@
   "categoryText": "ファデュイ",
   "filename_icon": "UI_MonsterIcon_Fatuus_Escadron_Ice",
   "description": "ファデュイ所属の精鋭特別部隊。\\n幼少期に選抜された者が長年に渡る教育と訓練によりふるいにかけられ、残った者が「従者」となる。ファデュイの中で最も優秀な兵士であり、優れた腕前と揺るがない忠誠心を持つ。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

@@ -25,19 +25,19 @@
       "_id": 112019,
       "id": "deathly_statuette",
       "name": "그윽한 조각상",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112018,
       "id": "dark_statuette",
       "name": "흑야의 조각상",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112017,
       "id": "gloomy_statuette",
       "name": "어두운 조각상",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "심연",
   "filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Lance_Water",
   "description": "칠흑의 병사. 한때 지하 고대 왕국의 자랑스러운 군인이었지만, 지금은 「사람」의 지성을 잃었다.\\n어느 누구도 적이 있는 곳과 지켜야 할 것을 알려주지 않아도, 왕국을 지키기 위해 용감히 싸우던 의지는 여전히 빈 갑주 속에 새겨져 있는 것 같다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

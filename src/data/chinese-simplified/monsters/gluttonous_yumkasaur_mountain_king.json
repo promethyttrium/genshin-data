@@ -1,7 +1,7 @@
 {
   "_id": 26220301,
   "id": "gluttonous_yumkasaur_mountain_king",
-  "monsterId": 26220303,
+  "monsterId": 84622032,
   "name": "贪食匿叶龙山王",
   "specialNames": [
     "巨硕山中之王"
@@ -15,7 +15,7 @@
   "description": "自古老的年代存活至今，经历了无数战场的强大匿叶龙。\\n曾经与众英杰们携手面对漆黑潮水的「山王」，在「悬木人」部族的成员心中具备极重的分量。有部族人认为，它有着现在这样的体态，是与绒翼龙的「暴君」一般，拥有着特殊的体质…但也许只是因为它活得太长，而吃得也实在太多了的缘故。",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 7,
-  "budget": 1,
+  "budget": 2,
   "stats": {
     "resistance": {
       "physical": 0.1,

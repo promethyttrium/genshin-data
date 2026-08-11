@@ -1,0 +1,21 @@
+{
+  "_id": 110017,
+  "id": "honey",
+  "name": "Miele",
+  "description": "Un liquido ricco, dal colore ambrato e dalla classica dolcezza, ampiamente disponibile nei negozi nel corso dell'anno. Può essere usato per addolcire bevande, creare salse o marinare vari tipi di carne.",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Gelato al ribes artico"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
+    }
+  ],
+  "source": [
+    "Acquistabile negli empori di Snezhnaya"
+  ]
+}

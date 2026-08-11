@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Cicin_Ice_01",
   "description": "Little creatures that can ever so slightly manipulate Cryo.\\nThey and other such creatures are known collectively as Cicins. They are individually very weak, but it is precisely because they are weak that they have evolved unique methods of movement that allow them to avoid predators.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

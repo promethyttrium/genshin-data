@@ -1,0 +1,39 @@
+{
+  "_id": 26310401,
+  "id": "chimeric_horned_bear",
+  "monsterId": 26310402,
+  "name": "Ours cornu chimérique",
+  "specialNames": [
+    "Ours cornu chimérique"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bêtes mystiques",
+  "filename_icon": "UI_MonsterIcon_Chimera_BearDeer",
+  "description": "Une bête chimérique, produit de la bio-alchimie, à la formation exceptionnellement inhabituelle.\\nCe monstre n'est pas né des plans de son créateur, mais de l'assemblage spontané de fragments de vie. De ce fait, il a obtenu des propriétés extraordinaires, notamment la capacité de manier librement les pouvoirs élémentaires.\\nMême réduit à l'état de fragments, une volonté ou une force pourrait-elle encore les guider vers une croissance conforme à un plan mystérieux ?\\nNul ne connaît la réponse à cette question...",
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 27.431341,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01",
   "description": "Um soldado em uma máquina de guerra Fatui.\\nArmado com um equipamento que pode controlar os elementos até certo ponto, suas armas são capazes de disparar raios congelantes.\\nAinda que isso possa conferir poder elemental inalcançável para humanos comuns, esse poder pode custar um preço alto.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

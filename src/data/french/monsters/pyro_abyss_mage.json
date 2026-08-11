@@ -37,12 +37,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Ordre de l'Abîme",
   "filename_icon": "UI_MonsterIcon_Abyss_Fire_01",
   "description": "Créature de l'Abîme, combattant avec l'élément Pyro.\\nLes Mages de l'Abîme sont en mesure de communiquer avec les Brutocollinus pour une raison que nul ne connaît et peuvent les manipuler psychologiquement. On raconte qu'ils puisent leur magie d'une langue oubliée depuis fort longtemps.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

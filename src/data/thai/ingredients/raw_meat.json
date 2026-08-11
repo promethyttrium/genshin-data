@@ -103,6 +103,11 @@
       "name": "Berries and Fried Meat"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borscht"
+    },
+    {
       "_id": 3004,
       "id": "sticky_honey_roast",
       "name": "Sticky Honey Roast"
@@ -248,6 +253,16 @@
       "name": "Birch-Steamed Pork Ribs"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Snezhnaya Shashliks"
+    },
+    {
       "_id": 4001,
       "id": "moon_pie",
       "name": "Moon Pie"
@@ -307,6 +322,5 @@
   ],
   "source": [
     "ดรอปจากสัตว์ทั่วไป"
-  ],
-  "rarity": 0
+  ]
 }

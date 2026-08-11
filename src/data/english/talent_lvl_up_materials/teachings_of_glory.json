@@ -1,0 +1,18 @@
+{
+  "_id": 104371,
+  "id": "teachings_of_glory",
+  "name": "Teachings of Glory",
+  "description": "Talent Level-Up Material.\\nGlory is the sacred faith of the frozen realm.\\nIt is a spark buried deep beneath the frozen soil; if one can but trace its true form, they shall grant themselves the courage to stand against the biting cold.",
+  "source": [
+    "Exchanged in the Gift Shop"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Domain of Mastery: Shared Vision IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Wednesday",
+    "Saturday",
+    "Sunday"
+  ]
+}

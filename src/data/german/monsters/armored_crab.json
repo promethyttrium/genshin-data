@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_HermitCrab_Larva_02",
   "description": "Eine Krabbe, die in Schneckenhäusern und anderen Gehäusen lebt.\\nSie besitzt nahezu keinerlei Aggressivität, wie sie für Wildtiere typisch ist, da diese Aggressivität abgesehen vom Nahrungstrieb zumeist auf das Territorialverhalten eines Tiers zurückgeht, während das Revier der Panzerkrabbe ihr kleines Zuhause ist, das sie stets auf dem Rücken mit sich herumträgt.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 5.34,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

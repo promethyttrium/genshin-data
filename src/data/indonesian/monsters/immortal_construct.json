@@ -1,0 +1,158 @@
+{
+  "_id": 25140101,
+  "id": "immortal_construct",
+  "monsterId": 25140101,
+  "name": "Immortal Construct",
+  "specialNames": [
+    "Sisa Tubuh Flamefeather Abadi"
+  ],
+  "investigation": {
+    "investigationId": 97,
+    "name": "Immortal Construct",
+    "categoryType": "Boss",
+    "categoryText": "Boss",
+    "description": "Hasil sampingan yang diciptakan demi terwujudnya suatu rencana pribadi yang tersembunyi.\\nTubuh yang semula berfungsi sebagai wadah kini telah kehilangan kegunaannya, sehingga makhluk ini hanya bisa berkeliaran sebagai binatang buas yang rusak dan tak berakal."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Zharptitsa_02",
+  "rewardPreviewId": 15213,
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Adventure EXP",
+      "count": 200
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Companionship EXP"
+    },
+    {
+      "_id": 113090,
+      "id": "unscorched_blossom_branch",
+      "name": "Unscorched Blossom Branch",
+      "count": 2.556
+    },
+    {
+      "_id": 104114,
+      "id": "agnidus_agate_gemstone",
+      "name": "Agnidus Agate Gemstone"
+    },
+    {
+      "_id": 104113,
+      "id": "agnidus_agate_chunk",
+      "name": "Agnidus Agate Chunk"
+    },
+    {
+      "_id": 104112,
+      "id": "agnidus_agate_fragment",
+      "name": "Agnidus Agate Fragment"
+    },
+    {
+      "_id": 104111,
+      "id": "agnidus_agate_sliver",
+      "name": "Agnidus Agate Sliver"
+    },
+    {
+      "_id": 400089,
+      "id": "gladiators_finale",
+      "name": "Gladiator's Finale",
+      "rarity": 5
+    },
+    {
+      "_id": 400099,
+      "id": "wanderers_troupe",
+      "name": "Wanderer's Troupe",
+      "rarity": 5
+    },
+    {
+      "_id": 400088,
+      "id": "gladiators_finale",
+      "name": "Gladiator's Finale",
+      "rarity": 4
+    },
+    {
+      "_id": 400098,
+      "id": "wanderers_troupe",
+      "name": "Wanderer's Troupe",
+      "rarity": 4
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Instructor",
+      "rarity": 4
+    },
+    {
+      "_id": 400128,
+      "id": "prayers_for_illumination",
+      "name": "Prayers for Illumination",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Instructor",
+      "rarity": 3
+    },
+    {
+      "_id": 400127,
+      "id": "prayers_for_illumination",
+      "name": "Prayers for Illumination",
+      "rarity": 3
+    },
+    {
+      "_id": 400047,
+      "id": "adventurer",
+      "name": "Adventurer",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Makhluk Mistis",
+  "filename_icon": "UI_MonsterIcon_Zharptitsa_02",
+  "description": "Hasil sampingan dari proses penciptaan individu bernama Firebird oleh alkemis bernama Koshchei.\\nIni mungkin merupakan kebiasaan alkemis suram ini, begitu salah satu eksperimen dalam satu kelompok berhasil, yang lainnya akan dibuang atau diperlakukan seenaknya.\\nMakhluk turunan yang seharusnya menyerap kekuatan tertentu demi menjadi wujud sempurna ini kini hanya bisa berkeliaran tanpa henti di antara lembah pegunungan sebagai makhluk buas yang cacat dan tanpa kecerdasan.",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.5,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 421.104,
+      "attack": 100.48,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

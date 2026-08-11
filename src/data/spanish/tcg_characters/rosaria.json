@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Lanza",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 7225,
@@ -29,8 +31,10 @@
     {
       "id": "spear_of_the_church",
       "name": "Lanza eclesiástica",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "ravaging_confession",
       "name": "Confesión impronunciable",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y otorga 1 carga de <span style=\"color:#FFFFFFFF\">undefined</span>. Al activarse, se obtiene el efecto de <span style=\"color:#FFFFFFFF\">undefined</span>.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#99FFFFFF\">Daño Cryo</span> y otorga 1 carga de <span style=\"color:#FFFFFFFF\">undefined</span>. Al activarse, se obtiene el efecto de <span style=\"color:#FFFFFFFF\">undefined</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "rites_of_termination",
       "name": "Extremaunción",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?, otorga 2 cargas de <span style=\"color:#FFFFFFFF\">undefined</span> e invoca una <span style=\"color:#FFFFFFFF\">lanza gélida</span>.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#99FFFFFF\">Daño Cryo</span>, otorga 2 cargas de <span style=\"color:#FFFFFFFF\">undefined</span> e invoca una <span style=\"color:#FFFFFFFF\">lanza gélida</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1101,

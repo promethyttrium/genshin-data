@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "自律装置",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_LengthShifter",
   "description": "対消滅で生じるエネルギーを発射できる装置。厳密には、フォンテーヌ科学院が設立される前に、自然哲学学院の関連研究で生まれた試験装置である。\\nそのため、警戒·防御設備としてかなりの商業的成功を収めたにも拘わらず、ほとんどのエンジニアはこれを厳密な意味でのクロックワーク·マシナリーと見なしていない。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 6,
   "stats": {

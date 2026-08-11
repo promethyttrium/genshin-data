@@ -1,0 +1,32 @@
+{
+  "_id": 215032,
+  "id": "temporal_winds_eulogy",
+  "shareId": 617,
+  "name": "Temporal Wind's Eulogy",
+  "title": "Venti: Temporal Wind's Eulogy",
+  "desc": "\"Oleh karena itu, apa yang disebut 'Yang Tak Terungkap' hanya dapat berarti dua hal: masa depan yang tidak ditambatkan oleh bintang-bintang, atau masa depan si peramal memang sengaja dikaburkan. Yang kedua sungguh menyebalkan, aku harap penyihir kecil dalam cerita itu tidak pernah menjadi orang seperti itu.\"",
+  "in_play_description": "Setelah kamu memanggil <span style=\"color:#FFFFFFFF\">Stormeye</span>, <span style=\"color:#FFFFFFFF\">Physical DMG</span> yang diakibatkan oleh 2 kali <span style=\"color:#FFFFFFFF\">Normal Attack</span> berikutnya dari Karakter yang terpengaruh selama Ronde ini akan berubah menjadi <span style=\"color:#80FFD7FF\">Anemo DMG</span> dan menghabiskan 2 <span style=\"color:#FFFFFFFF\">Elemen Tidak Selaras</span> lebih sedikit.",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "Anemo",
+    "card_type": "Kartu Equipment",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "Anemo",
+        "count": 3
+      }
+    ],
+    "tags": [
+      "Talenta",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Aksi Cepat</span>: Kenakan ini pada <span style=\"color:#FFFFFFFF\">Venti</span> milikmu.<br/>Memanggil <span style=\"color:#FFFFFFFF\">Stormeye</span>.<br/>Setelah kamu memanggil <span style=\"color:#FFFFFFFF\">Stormeye</span>, <span style=\"color:#FFFFFFFF\">Physical DMG</span> yang diakibatkan oleh 2 kali <span style=\"color:#FFFFFFFF\">Normal Attack</span> berikutnya dari Karakter yang terpengaruh selama Ronde ini akan berubah menjadi <span style=\"color:#80FFD7FF\">Anemo DMG</span> dan menghabiskan 2 <span style=\"color:#FFFFFFFF\">Elemen Tidak Selaras</span> lebih sedikit.<br/>(Kamu harus punya Venti di dalam Dek-mu untuk menambahkan kartu ini ke dalam Dek)"
+    }
+  ]
+}

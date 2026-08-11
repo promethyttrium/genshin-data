@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Human_Female_Sword_Shamansaurus",
   "description": "Pejuang suku Penguasa Angin Malam, yang berpatroli di ngarai berkabut.\\nSampai tingkat tertentu, mereka dapat memanfaatkan kekuatan grafiti yang ada di tubuh untuk memanipulasi senjatanya menggunakan kekuatan tekad.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

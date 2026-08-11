@@ -37,12 +37,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Abyss",
   "filename_icon": "UI_MonsterIcon_Abyss_Ice_01",
   "description": "มอนสเตอร์ Abyss ผู้ควบคุมธาตุน้ำแข็งที่เย็นจัดในการต่อสู้\\nแม้จะเป็นเพียงเศษเสี้ยวของพลังที่มหาศาล แต่ก็ยังสามารถกลั่นไอน้ำในชั้นบรรยากาศให้กลายเป็นเสาน้ำแข็งได้ แต่ตัวของมันเองนั้นกลับบอบบางและอ่อนแอ ทันทีที่เกราะป้องกันตัวถูกทำลายลง ไม่ว่าใครก็สามารถจัดการมันได้ทั้งนั้น",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

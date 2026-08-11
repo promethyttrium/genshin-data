@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Savaşçının Metal Düdüğü",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Nöbetçinin Ahşap Düdüğü",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Hookwalker",
   "description": "Gök Kubbeden gelen ve yiğitliğiyle tanınan, bundan dolayı Sürüngen Tacına layık görülen güçlü bir savaşçı.\\nSaldırı menzilini artırmak için kanca kullanır. Gök Kubbenin Evlatları için kancalar günlük yaşamlarının ayrılmaz birer parçasıdır. Ancak sadece en vahşi savaşçılar kancaları testere kılıçlarıyla birleştirerek hem son derece ölümcül hem de kontrol edilmesi zor bir silah ortaya çıkarabilir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

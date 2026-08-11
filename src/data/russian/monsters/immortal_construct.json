@@ -1,0 +1,158 @@
+{
+  "_id": 25140101,
+  "id": "immortal_construct",
+  "monsterId": 25140101,
+  "name": "Бессмертный конструкт",
+  "specialNames": [
+    "Искалеченное тело вечного пламенного пера"
+  ],
+  "investigation": {
+    "investigationId": 97,
+    "name": "Бессмертный конструкт",
+    "categoryType": "Boss",
+    "categoryText": "Боссы",
+    "description": "Побочный продукт, созданный ради осуществления некоего эгоистичного замысла.\\nТело, служившее вместилищем, утратило своё предназначение и теперь может лишь бесцельно скитаться как ущербный и лишённый разума зверь."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Zharptitsa_02",
+  "rewardPreviewId": 15213,
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Опыт приключений",
+      "count": 200
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Мора"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Опыт дружбы"
+    },
+    {
+      "_id": 113090,
+      "id": "unscorched_blossom_branch",
+      "name": "Неопалённая цветущая ветвь",
+      "count": 2.556
+    },
+    {
+      "_id": 104114,
+      "id": "agnidus_agate_gemstone",
+      "name": "Драгоценный агат Агнидус"
+    },
+    {
+      "_id": 104113,
+      "id": "agnidus_agate_chunk",
+      "name": "Кусок агата Агнидус"
+    },
+    {
+      "_id": 104112,
+      "id": "agnidus_agate_fragment",
+      "name": "Фрагмент агата Агнидус"
+    },
+    {
+      "_id": 104111,
+      "id": "agnidus_agate_sliver",
+      "name": "Осколок агата Агнидус"
+    },
+    {
+      "_id": 400089,
+      "id": "gladiators_finale",
+      "name": "Конец гладиатора",
+      "rarity": 5
+    },
+    {
+      "_id": 400099,
+      "id": "wanderers_troupe",
+      "name": "Странствующий ансамбль",
+      "rarity": 5
+    },
+    {
+      "_id": 400088,
+      "id": "gladiators_finale",
+      "name": "Конец гладиатора",
+      "rarity": 4
+    },
+    {
+      "_id": 400098,
+      "id": "wanderers_troupe",
+      "name": "Странствующий ансамбль",
+      "rarity": 4
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Берсерк",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Инструктор",
+      "rarity": 4
+    },
+    {
+      "_id": 400128,
+      "id": "prayers_for_illumination",
+      "name": "Шаман огня",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Берсерк",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Инструктор",
+      "rarity": 3
+    },
+    {
+      "_id": 400127,
+      "id": "prayers_for_illumination",
+      "name": "Шаман огня",
+      "rarity": 3
+    },
+    {
+      "_id": 400047,
+      "id": "adventurer",
+      "name": "Искатель приключений",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Мистические звери",
+  "filename_icon": "UI_MonsterIcon_Zharptitsa_02",
+  "description": "Побочный продукт, созданный алхимиком по имени Кощей в ходе работы над существом, известным как жар-птица.\\nУ этого мрачного алхимика была привычка: стоило одному экспериментальному образцу оказаться успешным, как все остальные немедленно оказывались выброшенными или уничтожались.\\nИ это производное создание, которому суждено было слиться с некой силой и обрести завершённую форму, теперь обречено бесконечно скитаться по горным ущельям как ущербный и лишённый разума зверь.",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.5,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 421.104,
+      "attack": 100.48,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

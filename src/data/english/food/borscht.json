@@ -1,0 +1,54 @@
+{
+  "_id": 2703,
+  "id": "borscht",
+  "name": "Borscht",
+  "description": "A vibrant red soup dish. Once the broth is ready, various ingredients are added in batches and slow-simmered until their flavors meld. A spoonful of sour cream is often added just before serving. With every sip, a steady warmth spreads through the body, enough to keep the bitter cold at bay.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Red Beet",
+      "amount": 2
+    },
+    {
+      "_id": 100080,
+      "id": "potato",
+      "name": "Potato",
+      "amount": 1
+    },
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Raw Meat",
+      "amount": 1
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Adventurer's Dish",
+  "results": {
+    "suspicious": {
+      "_id": 108997,
+      "name": "Suspicious Borscht",
+      "description": "A vibrant red soup dish. Everything about this dish feels half-hearted, looking as if someone simply dumped the leftover ingredients from a previous meal into the pot. Finishing it does make you feel somewhat warmer than before, but it is like a single match being struck, bringing nothing more than a fleeting moment of warmth.",
+      "effect": "Slightly decreases the rate of Sheer Cold accumulation for all party members for 900s. In Co-Op Mode, this effect only applies to your own character(s)."
+    },
+    "normal": {
+      "_id": 108998,
+      "name": "Borscht",
+      "description": "A vibrant red soup dish. Once the broth is ready, various ingredients are added in batches and slow-simmered until their flavors meld. A spoonful of sour cream is often added just before serving. With every sip, a steady warmth spreads through the body, enough to keep the bitter cold at bay.",
+      "effect": "Somewhat decreases the rate of Sheer Cold accumulation for all party members for 900s. In Co-Op Mode, this effect only applies to your own character(s)."
+    },
+    "delicious": {
+      "_id": 108999,
+      "name": "Delicious Borscht",
+      "description": "A vibrant red soup. The moment the hot broth slides down your throat, a soothing warmth takes hold, as if someone has lit a fire inside your chest. The heat quietly spreads until even the tips of your ears are warm. When trekking through a raging blizzard, this bowl of soup is worth far more than wrapping yourself in an extra coat!",
+      "effect": "Decreases the rate of Sheer Cold accumulation for all party members for 900s. In Co-Op Mode, this effect only applies to your own character(s)."
+    }
+  }
+}

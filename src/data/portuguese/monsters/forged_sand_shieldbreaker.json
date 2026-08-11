@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Drillhead",
   "description": "Um bravo guerreiro do cânion e guardião tribal que patrulha as montanhas e rios de cristal.\\nGuerreiros tribais que empunham martelos de guerra gigantescos com as duas mãos, eles são a vanguarda que primeiramente rompe as defesas inimigas. Para os Filhos dos Ecos, que apreciam gemas e todos os tipos de ornamentos, martelos são frequentemente a primeira ferramente tocada pelos guerreiros da tribo enquanto ainda são crianças.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

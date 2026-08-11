@@ -1,0 +1,39 @@
+{
+  "_id": 26310101,
+  "id": "chimeric_armored_beast",
+  "monsterId": 26310102,
+  "name": "Chimeric Armored Beast",
+  "specialNames": [
+    "Chimeric Armored Beast"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Makhluk Mistis",
+  "filename_icon": "UI_MonsterIcon_Chimera_BeetleLion",
+  "description": "Makhluk hasil bio-alkimia yang pernah populer di tundra beku, merupakan seekor monster buatan yang menyimpang.\\nJika seekor binatang buas berkaki empat memiliki cangkang dan tanduk pendobrak seperti Onikabuto, barangkali ia bisa menjadi pasukan kejutan yang mampu menembus barisan musuh.\\nSeharusnya monster buatan yang hanya memenuhi satu fungsi seperti ini jarang benar-benar bisa bertahan di alam liar, dan kebanyakan akan mati setelah kehilangan fungsi penggunaannya karena melanggar hukum alam, namun jelas Armored Beast tidak termasuk dalam golongan itu.\\nKini, di tundra beku Snezhnaya, sering kali dapat terlihat gerombolan Armored Beast yang sedang berburu bersama.",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 7.315024,
+      "attack": 58.575787,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

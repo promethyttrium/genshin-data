@@ -1,0 +1,30 @@
+{
+  "_id": 104369,
+  "id": "guide_to_fortitude",
+  "name": "Hướng Dẫn Của \"Kiên Nhẫn\"",
+  "description": "Nguyên liệu bồi dưỡng Thiên Phú.\\n\"Kiên nhẫn\" là phẩm chất của vương quốc băng giá.\\nKiên nhẫn mang đến ý chí sinh trưởng. Dù cho giá rét tàn phá, những hạt giống yếu ớt vẫn có thể nương nhờ ý chí này mà phá đất vươn lên, đâm chồi non trên vùng đất phủ đầy gió tuyết.",
+  "source": [
+    "Số lượng có thể ghép - chiếm chỗ: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104368,
+        "id": "teachings_of_fortitude",
+        "name": "Bài Giảng Của \"Kiên Nhẫn\"",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Bí Cảnh Tinh Thông: Ẩn Tu IV",
+  "domainId": "domain_of_mastery_hermitage_iv",
+  "days": [
+    "Thứ 3",
+    "Thứ 6",
+    "Chủ Nhật"
+  ]
+}

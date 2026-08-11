@@ -8,17 +8,21 @@
     "hp": 8,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Outras Armas",
     "faction": [
-      null,
-      null
+      "Monstro",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "plata_plama",
       "name": "Plata Plama",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -37,8 +41,10 @@
     {
       "id": "da_plama",
       "name": "Da Plama",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de ?.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -51,8 +57,10 @@
     {
       "id": "aba_movo",
       "name": "Aba Movo",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 5 pontos de ?.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -72,7 +80,9 @@
       "id": "hoarfrost_greatshield",
       "name": "Escudo Gélido",
       "desc": "(Passivo) No começo do combate, é afetado por <span style=\"color:#FFFFFFFF\">Escudo Gélido</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Passiva"
+      ],
       "points": []
     }
   ]

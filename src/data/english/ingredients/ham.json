@@ -79,6 +79,11 @@
       "name": "Fireside Merriment"
     },
     {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Snowrealm Okroshkas"
+    },
+    {
       "_id": 4101,
       "id": "jade_parcels",
       "name": "Jade Parcels"
@@ -111,6 +116,5 @@
   ],
   "source": [
     "Processed"
-  ],
-  "rarity": 0
+  ]
 }

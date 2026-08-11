@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_WildHunt",
   "description": "Um Carniçal que perambula as terras geladas na escuridão nevoenta. Sua aparição é o presságio de calamidades piores que ainda está por vir.\\nTodos que residem sob a luz partem para jornadas com seus próprios objetivos, mas nem todos esses desejos serão realizados. Os espíritos que não podem descansar por causa do rancor, despedidas de entes queridos, ou desejos não realizados, se forem corrompidos pelo Abismo, podem se transformar nesses Carniçais, perdidos para sempre na névoa grossa da Caçada Feroz.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

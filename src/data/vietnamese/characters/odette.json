@@ -1,0 +1,1393 @@
+{
+  "_id": 10000150,
+  "id": "odette",
+  "name": "Odette",
+  "title": "Vòng Xoay Tuyết Trắng",
+  "description": "Vũ công ba lê nổi tiếng của Snezhnaya, đóa hoa giá lạnh nở rộ trong băng tuyết.",
+  "weapon_type": {
+    "id": "sword",
+    "name": "Kiếm Đơn"
+  },
+  "element": {
+    "id": "cryo",
+    "name": "Băng"
+  },
+  "gender": {
+    "id": "female",
+    "name": "nữ"
+  },
+  "release": 1786395600,
+  "substat": "ST Bạo Kích",
+  "affiliation": "Đoàn Kịch Korolevskiy",
+  "region": {
+    "id": "snezhnaya_star",
+    "name": "SNEZHNAYA_STAR"
+  },
+  "rarity": 5,
+  "birthday": [
+    20,
+    2
+  ],
+  "constellation": "Cung Tuyết Hộc",
+  "domain": "Bí Cảnh Tinh Thông: Mặc Tưởng",
+  "cv": {
+    "english": "Alexis Tipton",
+    "chinese": "潘丹妮",
+    "japanese": "上坂すみれ",
+    "korean": "Choi Hyun-ji"
+  },
+  "skills": [
+    {
+      "_id": 11501,
+      "id": "snow_swan_variation",
+      "name": "Biến Tấu Thiên Nga Tuyết",
+      "description": "<span style=\"color:#FFD780FF\">Tấn Công Thường</span><br/>Thực hiện tối đa 5 lần đánh kiếm liên tiếp.<br/><br/><span style=\"color:#FFD780FF\">Trọng Kích</span><br/>Tiêu hao thể lực nhất định, vung nhát chém rực rỡ về phía trước.<br/><br/><span style=\"color:#FFD780FF\">Tấn Công Khi Đáp</span><br/>Đáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Sát thương lần 1",
+          "values": [
+            "51.9%",
+            "56.1%",
+            "60.3%",
+            "66.3%",
+            "70.5%",
+            "75.4%",
+            "82%",
+            "88.6%",
+            "95.3%",
+            "102.5%",
+            "109.7%",
+            "117%",
+            "124.2%",
+            "131.5%",
+            "138.7%"
+          ]
+        },
+        {
+          "label": "Sát thương lần 2",
+          "values": [
+            "51.5%",
+            "55.7%",
+            "59.9%",
+            "65.9%",
+            "70.1%",
+            "74.9%",
+            "81.5%",
+            "88%",
+            "94.6%",
+            "101.8%",
+            "109%",
+            "116.2%",
+            "123.4%",
+            "130.6%",
+            "137.8%"
+          ]
+        },
+        {
+          "label": "Sát thương lần 3",
+          "values": [
+            "32.6% + 38.3%",
+            "35.3% + 41.4%",
+            "37.9% + 44.5%",
+            "41.7% + 49%",
+            "44.4% + 52.1%",
+            "47.4% + 55.6%",
+            "51.6% + 60.5%",
+            "55.7% + 65.4%",
+            "59.9% + 70.3%",
+            "64.5% + 75.7%",
+            "69% + 81%",
+            "73.6% + 86.3%",
+            "78.1% + 91.7%",
+            "82.7% + 97%",
+            "87.2% + 102.4%"
+          ]
+        },
+        {
+          "label": "Sát thương lần 4",
+          "values": [
+            "74.6%",
+            "80.6%",
+            "86.7%",
+            "95.4%",
+            "101.5%",
+            "108.4%",
+            "117.9%",
+            "127.5%",
+            "137%",
+            "147.4%",
+            "157.8%",
+            "168.2%",
+            "178.6%",
+            "189%",
+            "199.4%"
+          ]
+        },
+        {
+          "label": "Sát thương lần 5",
+          "values": [
+            "90.2%",
+            "97.6%",
+            "104.9%",
+            "115.4%",
+            "122.7%",
+            "131.1%",
+            "142.7%",
+            "154.2%",
+            "165.7%",
+            "178.3%",
+            "190.9%",
+            "203.5%",
+            "216.1%",
+            "228.7%",
+            "241.3%"
+          ]
+        },
+        {
+          "label": "Sát thương Trọng Kích",
+          "values": [
+            "107.4%",
+            "116.2%",
+            "124.9%",
+            "137.4%",
+            "146.1%",
+            "156.1%",
+            "169.9%",
+            "183.6%",
+            "197.3%",
+            "212.3%",
+            "227.3%",
+            "242.3%",
+            "257.3%",
+            "272.3%",
+            "287.3%"
+          ]
+        },
+        {
+          "label": "Thể lực Trọng Kích tiêu hao",
+          "values": [
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm"
+          ]
+        },
+        {
+          "label": "Sát thương khi đáp",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "Sát thương khi đáp từ độ cao thấp/cao",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11502,
+      "id": "adagio_phantom_night_dancers",
+      "name": "Nhịp Chậm - Điệu Múa Đêm Huyền Ảo",
+      "description": "Trình diễn bước nhảy nhẹ nhàng, gây <span style=\"color:#99FFFFFF\">Sát Thương Phạm Vi Nguyên Tố Băng</span>, đồng thời triệu hồi <b><span style=\"color:#FFD780FF\">Bóng Hình Độc Diễn</span></b> của bản thân.<br/>Nếu trên sân tồn tại <span style=\"color:#FFD780FF\">Bóng Hình Độc Diễn</span> do bản thân Odette triệu hồi, sẽ tiến hành triệu hồi lại và làm mới thời gian duy trì.<br/><br/><span style=\"color:#FFD780FF\">Bóng Hình Độc Diễn</span><br/>Trình diễn luân phiên hai vũ điệu <span style=\"color:#FFD780FF\">Phất Lông</span> và <span style=\"color:#FFD780FF\">Xoay Cánh</span>, dùng tư thế múa thanh lịch uyển chuyển để tấn công kẻ địch xung quanh theo chu kỳ, gây <span style=\"color:#99FFFFFF\">Sát Thương Phạm Vi Nguyên Tố Băng</span>.<br/>Ngoài ra, trong 6s sau khi thi triển Kỹ Năng Nguyên Tố <span style=\"color:#FFD780FF\">Nhịp Chậm - Điệu Múa Đêm Huyền Ảo</span>, Kỹ Năng Nguyên Tố <span style=\"color:#FFD780FF\">Nhịp Chậm - Điệu Múa Đêm Huyền Ảo</span> của Odette sẽ được thay thế bằng Kỹ Năng Nguyên Tố đặc biệt <b><span style=\"color:#FFD780FF\">Nhịp Chậm - Đoạn Kết Ánh Bình Minh</span></b><b></b>, dùng điệu múa chung để liên tiếp gây <span style=\"color:#99FFFFFF\">Sát Thương Phạm Vi Nguyên Tố Băng</span> lên kẻ địch xung quanh, đồng thời khi điệu múa chung kết thúc, sẽ gây một lần <span style=\"color:#99FFFFFF\">Sát Thương Phạm Vi Nguyên Tố Băng</span> được xem là sát thương phản ứng Tinh-Siêu Dẫn hoặc Tinh-Khuếch Tán.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Sát thương kỹ năng",
+          "values": [
+            "108.1%",
+            "116.2%",
+            "124.3%",
+            "135.1%",
+            "143.2%",
+            "151.3%",
+            "162.1%",
+            "172.9%",
+            "183.7%",
+            "194.5%",
+            "205.4%",
+            "216.2%",
+            "229.7%",
+            "243.2%",
+            "256.7%"
+          ]
+        },
+        {
+          "label": "Sát thương liên tiếp Đoạn Kết Ánh Bình Minh",
+          "values": [
+            "95.8%",
+            "103%",
+            "110.2%",
+            "119.8%",
+            "127%",
+            "134.2%",
+            "143.8%",
+            "153.3%",
+            "162.9%",
+            "172.5%",
+            "182.1%",
+            "191.7%",
+            "203.7%",
+            "215.6%",
+            "227.6%"
+          ]
+        },
+        {
+          "label": "Sát thương Tinh-Siêu Dẫn/Tinh-Khuếch Tán Đoạn Kết Ánh Bình Minh",
+          "values": [
+            "305.8% / 458.6%",
+            "328.7% / 493%",
+            "351.6% / 527.4%",
+            "382.2% / 573.3%",
+            "405.1% / 607.7%",
+            "428.1% / 642.1%",
+            "458.6% / 688%",
+            "489.2% / 733.8%",
+            "519.8% / 779.7%",
+            "550.4% / 825.6%",
+            "580.9% / 871.4%",
+            "611.5% / 917.3%",
+            "649.7% / 974.6%",
+            "688% / 1031.9%",
+            "726.2% / 1089.3%"
+          ]
+        },
+        {
+          "label": "Sát thương vũ điệu Phất Lông",
+          "values": [
+            "43%",
+            "46.3%",
+            "49.5%",
+            "53.8%",
+            "57%",
+            "60.3%",
+            "64.6%",
+            "68.9%",
+            "73.2%",
+            "77.5%",
+            "81.8%",
+            "86.1%",
+            "91.5%",
+            "96.8%",
+            "102.2%"
+          ]
+        },
+        {
+          "label": "Sát thương Tinh-Siêu Dẫn/Tinh-Khuếch Tán vũ điệu Phất Lông",
+          "values": [
+            "27% / 40.5%",
+            "29.1% / 43.6%",
+            "31.1% / 46.6%",
+            "33.8% / 50.7%",
+            "35.8% / 53.7%",
+            "37.8% / 56.7%",
+            "40.5% / 60.8%",
+            "43.2% / 64.8%",
+            "45.9% / 68.9%",
+            "48.6% / 73%",
+            "51.3% / 77%",
+            "54% / 81.1%",
+            "57.4% / 86.1%",
+            "60.8% / 91.2%",
+            "64.2% / 96.3%"
+          ]
+        },
+        {
+          "label": "Sát thương vũ điệu Xoay Cánh",
+          "values": [
+            "51.5%",
+            "55.3%",
+            "59.2%",
+            "64.3%",
+            "68.2%",
+            "72%",
+            "77.2%",
+            "82.3%",
+            "87.5%",
+            "92.6%",
+            "97.8%",
+            "102.9%",
+            "109.4%",
+            "115.8%",
+            "122.2%"
+          ]
+        },
+        {
+          "label": "Sát thương Tinh-Siêu Dẫn/Tinh-Khuếch Tán vũ điệu Xoay Cánh",
+          "values": [
+            "32.3% / 48.5%",
+            "34.7% / 52.1%",
+            "37.2% / 55.7%",
+            "40.4% / 60.6%",
+            "42.8% / 64.2%",
+            "45.2% / 67.8%",
+            "48.5% / 72.7%",
+            "51.7% / 77.5%",
+            "54.9% / 82.4%",
+            "58.2% / 87.2%",
+            "61.4% / 92.1%",
+            "64.6% / 96.9%",
+            "68.7% / 103%",
+            "72.7% / 109%",
+            "76.7% / 115.1%"
+          ]
+        },
+        {
+          "label": "CD Đoạn Kết Ánh Bình Minh",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Bóng Hình Độc Diễn duy trì",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "CD kỹ năng",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11505,
+      "id": "presto_bluebird_finale",
+      "name": "Nhịp Nhanh - Mộng Ước Cánh Chim Xanh",
+      "description": "Trình diễn bước nhảy nhanh và dồn dập, gây nhiều lần <span style=\"color:#99FFFFFF\">Sát Thương Phạm Vi Nguyên Tố Băng</span>, triệu hồi <b><span style=\"color:#FFD780FF\">Bóng Hình Độc Diễn</span></b> của bản thân và nhận <span style=\"color:#FFD780FF\">Giấc Mơ Thiên Nga Tuyết</span>: Tăng sát thương phản ứng Tinh Tú Lấp Lánh do Odette gây ra.<br/>Ngoài ra, trong 6s sau khi thi triển Kỹ Năng Nộ <span style=\"color:#FFD780FF\">Nhịp Nhanh - Mộng Ước Cánh Chim Xanh</span>, Kỹ Năng Nguyên Tố <span style=\"color:#FFD780FF\">Nhịp Chậm - Điệu Múa Đêm Huyền Ảo</span> của Odette sẽ được thay thế bằng Kỹ Năng Nguyên Tố đặc biệt <b><span style=\"color:#FFD780FF\">Nhịp Chậm - Đoạn Kết Ánh Bình Minh</span></b><b></b>.<br/><br/>Nếu trong trận tồn tại Bóng Hình Độc Diễn do bản thân Odette triệu hồi, thì sẽ triệu hồi nó đến bên cạnh và đặt lại thời gian duy trì.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Sát thương đòn chém",
+          "values": [
+            "110.2%x3",
+            "118.4%x3",
+            "126.7%x3",
+            "137.7%x3",
+            "146%x3",
+            "154.2%x3",
+            "165.3%x3",
+            "176.3%x3",
+            "187.3%x3",
+            "198.3%x3",
+            "209.3%x3",
+            "220.4%x3",
+            "234.1%x3",
+            "247.9%x3",
+            "261.7%x3"
+          ]
+        },
+        {
+          "label": "Sát thương đòn chém cuối",
+          "values": [
+            "170.3%",
+            "183%",
+            "195.8%",
+            "212.8%",
+            "225.6%",
+            "238.4%",
+            "255.4%",
+            "272.4%",
+            "289.5%",
+            "306.5%",
+            "323.5%",
+            "340.5%",
+            "361.8%",
+            "383.1%",
+            "404.4%"
+          ]
+        },
+        {
+          "label": "Giấc Mơ Thiên Nga Tuyết tăng sát thương phản ứng Tinh Tú Lấp Lánh",
+          "values": [
+            "14%",
+            "18%",
+            "22%",
+            "26%",
+            "30%",
+            "34%",
+            "38%",
+            "42%",
+            "46%",
+            "50%",
+            "54%",
+            "58%",
+            "62%",
+            "66%",
+            "70%"
+          ]
+        },
+        {
+          "label": "Giấc Mơ Thiên Nga Tuyết duy trì",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "Bóng Hình Độc Diễn duy trì",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "CD",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Năng Lượng Nguyên Tố",
+          "values": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "spring_rite_of_the_chosen_one",
+      "name": "Lễ Xuân Của Người Được Chọn",
+      "description": "Khi Odette triệu hồi <b><span style=\"color:#FFD780FF\">Bóng Hình Độc Diễn</span></b>, sẽ còn nhận được 4 tầng <b><span style=\"color:#FFD780FF\">Lộng Lẫy</span></b>.",
+      "level": 1
+    },
+    {
+      "id": "pathetique_of_pateticheskaya",
+      "name": "Bi Ca Của Kẻ Chân Thành",
+      "description": "Dựa trên phần Tấn Công vượt quá 1000 điểm của Odette, cứ mỗi 100 điểm Tấn Công sẽ khiến sát thương phản ứng Tinh Tú Lấp Lánh do Odette gây ra tăng thêm 1.5% mức gốc, tối đa tăng thêm 30% sát thương gốc theo cách này.",
+      "level": 4
+    },
+    {
+      "id": "stellar_jubilee_dance_of_aurore",
+      "name": "Chúc Phúc Tinh Tú - Vũ Điệu Bình Minh Bạc",
+      "description": "Khi ở trong <b><span style=\"color:#FFD780FF\">Vùng Trục Sao</span></b>/Trong 8s sau khi nhân vật trong đội kích hoạt phản ứng Tinh-Khuếch Tán ở gần, Odette sẽ phân biệt tiến vào trạng thái <span style=\"color:#FFD780FF\">Tỏa Sáng: Tinh-Siêu Dẫn</span>/<span style=\"color:#FFD780FF\">Tỏa Sáng: Tinh-Khuếch Tán</span>.<br/>Khi nhân vật trong đội kích hoạt phản ứng Siêu Dẫn/Khuếch Tán Nguyên Tố Băng, sẽ chuyển thành phản ứng Tinh-Siêu Dẫn/Tinh-Khuếch Tán, đồng thời tăng sát thương cơ bản của các phản ứng kể trên do nhân vật trong đội gây ra dựa trên Tấn Công của Odette: Mỗi 100 điểm Tấn Công sẽ tăng 0.7% sát thương cơ bản của các phản ứng kể trên, tối đa tăng 14% sát thương theo cách này.",
+      "level": 0
+    },
+    {
+      "id": "echo_of_winter_daydreams",
+      "name": "Giấc Mộng Mùa Đông Trong Tiếng Vọng",
+      "description": "Hiển thị <span style=\"color:#FFD780FF\">đặc sản khu vực Snezhnaya</span> trên bản đồ nhỏ.<br/>Luyện tập vũ đạo trong lúc rảnh rỗi, biết đâu sẽ còn kích hoạt thêm hiệu quả khác...",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1501,
+      "id": "on_this_danceless_morn_she_gazes_at_her_reflection",
+      "name": "\"Sớm Mai Chưa Từng Nhảy Múa, Nàng Ngắm Nhìn Bóng Đổ\"",
+      "description": "Sau khi thi triển Kỹ Năng Nguyên Tố đặc biệt <b><span style=\"color:#FFD780FF\">Nhịp Chậm - Đoạn Kết Ánh Bình Minh</span></b>, khi kết thúc điệu múa chung, Odette sẽ còn gây thêm một lần <span style=\"color:#99FFFFFF\">Sát Thương Phạm Vi Nguyên Tố Băng</span> lên kẻ địch ở gần, sát thương này được xem là:<br/>·<span style=\"color:#FFD780FF\">Tỏa Sáng: Tinh-Siêu Dẫn</span> hoặc không trong trạng thái Tỏa Sáng: Sát thương phản ứng Tinh-Siêu Dẫn tương đương 300% Tấn Công của Odette.<br/>·<span style=\"color:#FFD780FF\">Tỏa Sáng: Tinh-Khuếch Tán</span>: Sát thương phản ứng Tinh-Khuếch Tán tương đương 450% Tấn Công của Odette.<br/><br/>Ngoài ra, Thiên Phú Đột Phá \"Lễ Xuân Của Người Được Chọn\" sẽ được cường hóa: Khi triệu hồi <b><span style=\"color:#FFD780FF\">Bóng Hình Độc Diễn</span></b>, Odette sẽ nhận thêm 2 tầng <b><span style=\"color:#FFD780FF\">Lộng Lẫy</span></b>, đồng thời khi Odette dự bị trong đội, tốc độ xóa <span style=\"color:#FFD780FF\">Lộng Lẫy</span> tăng lên thành 2 tầng mỗi giây.",
+      "level": 1
+    },
+    {
+      "_id": 1502,
+      "id": "i_must_see_the_snow_swans_unseen_dream_for_myself_she_thought",
+      "name": "\"Nàng Muốn Thấy Giấc Mơ Thiên Nga Tuyết Chưa Từng Thấy\"",
+      "description": "Thiên Phú Đột Phá \"Lễ Xuân Của Người Được Chọn\" được cường hóa: Mỗi tầng <b><span style=\"color:#FFD780FF\">Lộng Lẫy</span></b> sẽ còn tăng 7% Tấn Công của nhân vật.<br/>Ngoài ra, khi <b><span style=\"color:#FFD780FF\">Bóng Hình Độc Diễn</span></b> trong trận, nếu Odette đang trong trạng thái <b><span style=\"color:#FFD780FF\">Tỏa Sáng: Tinh Tú Lấp Lánh</span></b>, kẻ địch ở gần <span style=\"color:#FFD780FF\">Bóng Hình Độc Diễn</span> sẽ còn giảm 20% Kháng Nguyên Tố tương ứng:<br/>·<span style=\"color:#FFD780FF\">Tỏa Sáng: Tinh-Siêu Dẫn</span>: Nguyên Tố <span style=\"color:#99FFFFFF\">Băng</span> và <span style=\"color:#FFACFFFF\">Lôi</span>.<br/>·<span style=\"color:#FFD780FF\">Tỏa Sáng: Tinh-Khuếch Tán</span>: Nguyên Tố <span style=\"color:#99FFFFFF\">Băng</span> và <span style=\"color:#80FFD7FF\">Phong</span>.",
+      "level": 2
+    },
+    {
+      "_id": 1503,
+      "id": "ill_chase_the_shouting_wind_along_climbing_alone_as_i_go",
+      "name": "\"Phải Đuổi Theo Cơn Gió Gào Thét, Một Mình Bay Lên\"",
+      "description": "Cấp kỹ năng <color=#FFD780FF><b>Nhịp Chậm - Điệu Múa Đêm Huyền Ảo</b></color> +3.<br/>Tăng tối đa đến cấp 15.",
+      "level": 3
+    },
+    {
+      "_id": 1504,
+      "id": "up_up_the_long_delirious_burning_blue",
+      "name": "\"Bay Lên, Rơi Xuống Bầu Trời Xanh Mơ Hồ Và Rực Cháy\"",
+      "description": "Kỹ Năng Nộ <span style=\"color:#FFD780FF\">Nhịp Nhanh - Mộng Ước Cánh Chim Xanh</span> được cường hóa: Khi Odette nhận <span style=\"color:#FFD780FF\">Giấc Mơ Thiên Nga Tuyết</span>, sẽ còn khiến nhân vật khác trong đội ở gần tăng sát thương phản ứng Tinh Tú Lấp Lánh gây ra, mức tăng tương đương 50% hiệu quả <span style=\"color:#FFD780FF\">Giấc Mơ Thiên Nga Tuyết</span>.<br/><br/>Ngoài ra, khi nhân vật trong đội gây sát thương phản ứng Tinh Tú Lấp Lánh lên kẻ địch, Odette sẽ còn thực hiện một lần tấn công phối hợp lên kẻ địch, gây một lần <span style=\"color:#99FFFFFF\">Sát Thương Phạm Vi Nguyên Tố Băng</span>, mỗi 3.5s tối đa kích hoạt một lần, sát thương này được xem là:<br/>·<span style=\"color:#FFD780FF\">Tỏa Sáng: Tinh-Siêu Dẫn</span> hoặc không trong trạng thái Tỏa Sáng: Sát thương phản ứng Tinh-Siêu Dẫn tương đương 66% Tấn Công của Odette.<br/>·<span style=\"color:#FFD780FF\">Tỏa Sáng: Tinh-Khuếch Tán</span>: Sát thương phản ứng Tinh-Khuếch Tán tương đương 99% Tấn Công của Odette.",
+      "level": 4
+    },
+    {
+      "_id": 1505,
+      "id": "oh_i_have_slipped_the_surly_bonds_of_earth",
+      "name": "\"Xem Kìa, Ta Đã Tạm Biệt Nỗi Đau Của Bụi Và Đất\"",
+      "description": "Cấp kỹ năng <color=#FFD780FF><b>Nhịp Nhanh - Mộng Ước Cánh Chim Xanh</b></color> +3.<br/>Tăng tối đa đến cấp 15.",
+      "level": 5
+    },
+    {
+      "_id": 1506,
+      "id": "put_out_my_hand_and_touched_the_face_of_the_divine",
+      "name": "\"Vươn Tay, Chạm Vào Gương Mặt Vĩnh Hằng Của Vòm Trời\"",
+      "description": "Thiên Phú Đột Phá \"Lễ Xuân Của Người Được Chọn\" được cường hóa: Khi Odette áp dụng <b><span style=\"color:#FFD780FF\">Lộng Lẫy</span></b> cho tất cả nhân vật trong đội ở gần, Lộng Lẫy của bản thân sẽ không giảm đi nữa.<br/>Ngoài ra, với nhân vật đang áp dụng <span style=\"color:#FFD780FF\">Lộng Lẫy</span>, sát thương phản ứng Tinh Tú Lấp Lánh gây ra cho kẻ địch sẽ <b><span style=\"color:#FFD780FF\">Thăng Tiến</span></b> 25%, đồng thời sát thương phản ứng Tinh Tú Lấp Lánh Odette gây ra cho kẻ địch sẽ Thăng Tiến thêm 20%.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Đột Phá",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "HP Căn Bản",
+          "values": [
+            "-",
+            "1011"
+          ]
+        },
+        {
+          "label": "Tấn Công Căn Bản",
+          "values": [
+            "-",
+            "26"
+          ]
+        },
+        {
+          "label": "P.Ngự Căn Bản",
+          "values": [
+            "-",
+            "61"
+          ]
+        },
+        {
+          "label": "ST Bạo Kích",
+          "values": [
+            "-",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Đột Phá",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "HP Căn Bản",
+          "values": [
+            "2621",
+            "3488"
+          ]
+        },
+        {
+          "label": "Tấn Công Căn Bản",
+          "values": [
+            "68",
+            "90"
+          ]
+        },
+        {
+          "label": "P.Ngự Căn Bản",
+          "values": [
+            "159",
+            "211"
+          ]
+        },
+        {
+          "label": "ST Bạo Kích",
+          "values": [
+            "50.0%",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Đột Phá",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "HP Căn Bản",
+          "values": [
+            "5219",
+            "5834"
+          ]
+        },
+        {
+          "label": "Tấn Công Căn Bản",
+          "values": [
+            "135",
+            "151"
+          ]
+        },
+        {
+          "label": "P.Ngự Căn Bản",
+          "values": [
+            "316",
+            "354"
+          ]
+        },
+        {
+          "label": "ST Bạo Kích",
+          "values": [
+            "50.0%",
+            "59.6%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104161,
+        "id": "shivada_jade_sliver",
+        "name": "Mảnh Ngọc Băng Vụn",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Hoa Sương Tiên",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Vụn Huyền Ảo",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Đột Phá",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "HP Căn Bản",
+          "values": [
+            "6712",
+            "7533"
+          ]
+        },
+        {
+          "label": "Tấn Công Căn Bản",
+          "values": [
+            "173",
+            "194"
+          ]
+        },
+        {
+          "label": "P.Ngự Căn Bản",
+          "values": [
+            "407",
+            "457"
+          ]
+        },
+        {
+          "label": "ST Bạo Kích",
+          "values": [
+            "59.6%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "Mảnh Ngọc Băng Vỡ",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Cành Hoa Bất Diệt Trong Lửa",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Hoa Sương Tiên",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Vụn Huyền Ảo",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Đột Phá",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "HP Căn Bản",
+          "values": [
+            "8421",
+            "9036"
+          ]
+        },
+        {
+          "label": "Tấn Công Căn Bản",
+          "values": [
+            "217",
+            "233"
+          ]
+        },
+        {
+          "label": "P.Ngự Căn Bản",
+          "values": [
+            "511",
+            "548"
+          ]
+        },
+        {
+          "label": "ST Bạo Kích",
+          "values": [
+            "69.2%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "Mảnh Ngọc Băng Vỡ",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Cành Hoa Bất Diệt Trong Lửa",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Hoa Sương Tiên",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Mảnh Huyền Ảo",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Đột Phá",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "HP Căn Bản",
+          "values": [
+            "9932",
+            "10547"
+          ]
+        },
+        {
+          "label": "Tấn Công Căn Bản",
+          "values": [
+            "256",
+            "272"
+          ]
+        },
+        {
+          "label": "P.Ngự Căn Bản",
+          "values": [
+            "602",
+            "639"
+          ]
+        },
+        {
+          "label": "ST Bạo Kích",
+          "values": [
+            "69.2%",
+            "78.8%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "Miếng Ngọc Băng",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Cành Hoa Bất Diệt Trong Lửa",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Hoa Sương Tiên",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Mảnh Huyền Ảo",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Đột Phá",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "HP Căn Bản",
+          "values": [
+            "11453",
+            "12068"
+          ]
+        },
+        {
+          "label": "Tấn Công Căn Bản",
+          "values": [
+            "295",
+            "311"
+          ]
+        },
+        {
+          "label": "P.Ngự Căn Bản",
+          "values": [
+            "694",
+            "732"
+          ]
+        },
+        {
+          "label": "ST Bạo Kích",
+          "values": [
+            "78.8%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "Miếng Ngọc Băng",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Cành Hoa Bất Diệt Trong Lửa",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Hoa Sương Tiên",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "Pha Lê Huyền Ảo",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Đột Phá",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "HP Căn Bản",
+          "values": [
+            "12981",
+            "12981"
+          ]
+        },
+        {
+          "label": "Tấn Công Căn Bản",
+          "values": [
+            "335",
+            "335"
+          ]
+        },
+        {
+          "label": "P.Ngự Căn Bản",
+          "values": [
+            "787",
+            "787"
+          ]
+        },
+        {
+          "label": "ST Bạo Kích",
+          "values": [
+            "88.4%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104164,
+        "id": "shivada_jade_gemstone",
+        "name": "Ngọc Băng",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Cành Hoa Bất Diệt Trong Lửa",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Hoa Sương Tiên",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "Pha Lê Huyền Ảo",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104365,
+          "id": "teachings_of_charity",
+          "name": "Bài Giảng Của \"Yêu Thương\"",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "Vụn Huyền Ảo",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Hướng Dẫn Của \"Yêu Thương\"",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Mảnh Huyền Ảo",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Hướng Dẫn Của \"Yêu Thương\"",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Mảnh Huyền Ảo",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Hướng Dẫn Của \"Yêu Thương\"",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Mảnh Huyền Ảo",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Hướng Dẫn Của \"Yêu Thương\"",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Mảnh Huyền Ảo",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Triết Học Của \"Yêu Thương\"",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Pha Lê Huyền Ảo",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Cành Khô Vặn Xoắn",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Triết Học Của \"Yêu Thương\"",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Pha Lê Huyền Ảo",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Cành Khô Vặn Xoắn",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Triết Học Của \"Yêu Thương\"",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Pha Lê Huyền Ảo",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Cành Khô Vặn Xoắn",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Triết Học Của \"Yêu Thương\"",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Pha Lê Huyền Ảo",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Cành Khô Vặn Xoắn",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Vương Miện Trí Thức",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 215000,
+      "name": "Vũ Điệu Thiên Nga Tuyết",
+      "description": "Phong cách của Odette. Trang phục ba lê được chế tác tinh xảo, lấy cảm hứng từ hình ảnh thiên nga tuyết, đồng hành cùng vũ công ba lê chăm chỉ qua vô số đêm dài. Những viên ngọc tô điểm luôn phản chiếu vẻ rạng rỡ thanh tao dưới ánh đèn sân khấu, giống như chính vẻ đẹp thanh thoát của người vũ công.",
+      "isDefault": true,
+      "characterName": "Odette",
+      "characterId": 10000150,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Odette_Circle"
+    }
+  ]
+}

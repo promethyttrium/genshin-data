@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Карты персонажей",
     "energy": 3,
+    "element": "Гидро",
+    "weapon": "Катализатор",
     "faction": [
-      null
+      "Мондштадт"
     ],
     "talent_card": {
       "_id": 3206,
@@ -29,8 +31,10 @@
     {
       "id": "ripple_of_fate",
       "name": "Круги на воде",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80C0FFFF\">Гидро урон</span>, 1 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "mirror_reflection_of_doom",
       "name": "Отражение фатума",
-      "desc": "Наносит ?, ? ед., призывает помощника: <span style=\"color:#FFFFFFFF\">Фантом</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80C0FFFF\">Гидро урон</span>, 1 ед., призывает помощника: <span style=\"color:#FFFFFFFF\">Фантом</span>.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "stellaris_phantasm",
       "name": "Звёздный фантазм",
-      "desc": "Наносит ?, ? ед., создаёт <span style=\"color:#FFFFFFFF\">Теневой пузырь</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80C0FFFF\">Гидро урон</span>, 4 ед., создаёт <span style=\"color:#FFFFFFFF\">Теневой пузырь</span>.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -84,7 +92,9 @@
       "id": "illusory_torrent",
       "name": "Иллюзорный поток",
       "desc": "(Пассивный навык) <span style=\"color:#FFFFFFFF\">Когда этот персонаж является активным, ваша смена персонажа:</span> считается как <span style=\"color:#FFFFFFFF\">Быстрое действие</span>, а не как <span style=\"color:#FFFFFFFF\">Боевое действие</span>. Только 1 раз за раунд.",
-      "skillTag": [],
+      "skillTag": [
+        "Пассивный навык"
+      ],
       "points": []
     }
   ]

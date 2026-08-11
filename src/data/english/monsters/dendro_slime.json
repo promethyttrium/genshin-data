@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Elemental Lifeforms",
   "filename_icon": "UI_MonsterIcon_Slime_Grass_02",
   "description": "A slime that has undergone ecological changes due to abundant Dendro in its environment.\\nIt has also taken on the weaknesses of the Dendro element, and will burn intensely the moment it meets a bright flame.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

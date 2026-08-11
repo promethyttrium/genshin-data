@@ -1,0 +1,24 @@
+{
+  "_id": 112151,
+  "id": "prime_chimeric_nexus",
+  "name": "Primordiale Chimäre",
+  "description": "Der komplexeste Kern, den ein chimärisches Monster in sich tragen kann – eine künstlich entworfene und doch perfekte Saat des Lebens. Wer sie erschaffen hat, hat vielleicht bereits verstanden, wie das Leben selbst geformt wird.",
+  "source": [
+    "Beute von abnormen, hybriden Monstrositäten ab Stufe 60",
+    "Mit Sternenstaub kaufen: Herstellbar nach Erhalt",
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Symbiontischer chimärischer Nukleus",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

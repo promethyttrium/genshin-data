@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "自律機關",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Probe",
   "description": "以探測地下資源及特定礦物為目的，設計製造的發條機關。\\n因為能夠設定搜尋的金屬類型，所以也很受盜寶團與冒險家的歡迎。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

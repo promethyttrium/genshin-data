@@ -1,0 +1,24 @@
+{
+  "_id": 112151,
+  "id": "prime_chimeric_nexus",
+  "name": "Thể Lai Ghép Nguyên Thủy",
+  "description": "Đây là lõi phức tạp nhất mà cơ thể ma thú tổng hợp có thể chịu đựng được, cũng là hạt giống sinh mệnh được thiết kế nhân tạo nhưng lại vô cùng hoàn mỹ. Có lẽ người tạo ra nó đã thấu hiểu được cách mà sự sống hình thành.",
+  "source": [
+    "Dị Chủng Ma Thú Tổng Hợp cấp 60 trở lên rơi",
+    "Đổi Tinh Trần: Ghép sau khi đổi",
+    "Số lượng có thể ghép - chiếm chỗ: {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Tế Bào Lai Ghép",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

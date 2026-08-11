@@ -38,7 +38,7 @@
       "_id": 113011,
       "id": "everflame_seed",
       "name": "Fluxfeuersamen",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -133,7 +133,6 @@
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Regisvine_Fire",
   "description": "Lange Ranken, die die alten Flammen des Flusses der Elemente aufgenommen haben.\\nWie ein ewig brennendes Feuer sind auch diese Pflanzenwesen unersättlich.\\nDichter und Sänger, ja, sogar einige Gelehrte meinen, dass in den Elementen Gefühl und Hoffnung stecken. Wenn dem so ist, welche Gefühle und Hoffnungen erfüllen wohl den Fluxfeuerbaum und seine ewigen Flammen, die tanzen und hüpfen, als wollten sie sich vom Boden, aus dem sie stammen, lösen?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

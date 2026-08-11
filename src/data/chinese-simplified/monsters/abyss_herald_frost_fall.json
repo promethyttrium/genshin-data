@@ -22,7 +22,6 @@
   "categoryText": "深渊",
   "filename_icon": "UI_MonsterIcon_Invoker_Herald_Ice",
   "description": "以冰霜的锋刃进行战斗的魔物，隶属于「深渊教团」。\\n既然有散播与礼赞深邃福音的圣徒，那就有将歪曲的颂词导正，将不协音去除的使者。\\n常有人说穿透身体的钢刀如同冰一般寒冷，但这种漆黑的冰霜据说连灵魂都能冻结。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

@@ -8,17 +8,21 @@
     "hp": 8,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Geo",
+    "weapon": "Otras armas",
     "faction": [
-      null,
-      null
+      "Monstruo",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "plata_plama",
       "name": "Plata Plama",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -37,8 +41,10 @@
     {
       "id": "da_plama",
       "name": "Da Plama",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de ?.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -51,8 +57,10 @@
     {
       "id": "aba_movo",
       "name": "Aba Movo",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 5 pts. de ?.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -72,7 +80,9 @@
       "id": "craggy_greatshield",
       "name": "Gran escudo rocoso",
       "desc": "Pasiva: cuando comienza el duelo, este personaje obtiene un <span style=\"color:#FFFFFFFF\">gran escudo rocoso</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
       "points": []
     }
   ]

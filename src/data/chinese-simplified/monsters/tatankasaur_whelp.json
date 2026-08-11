@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "异种魔兽",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Bisonsaurus_Small",
   "description": "年幼的突角龙，因无法完全掌控身躯的力量而有些笨拙。\\n第二对副角并未生长完全，背部与腹部的力量也没有到能够摧毁挡路岩石的程度。但只要能够茁壮成长，总有能够在沃土平原之上自由驰骋的时刻吧。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

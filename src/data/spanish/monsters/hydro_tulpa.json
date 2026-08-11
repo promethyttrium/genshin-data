@@ -13,7 +13,6 @@
   "categoryText": "Seres elementales",
   "filename_icon": "UI_MonsterIcon_Narcissusborn_Normal_01",
   "description": "Un monstruo con forma humana formado a partir de agua.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

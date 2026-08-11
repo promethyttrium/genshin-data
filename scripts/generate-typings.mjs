@@ -32,6 +32,7 @@ const getPluralToSingular = (word) => {
     weapons: 'weapon',
     weapon_primary_materials: 'weapon_primary_material',
     weapon_secondary_materials: 'weapon_secondary_material',
+    weapon_skins: 'weapon_skin',
     monsters: 'monster',
   };
   return rules[word] || word;

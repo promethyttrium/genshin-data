@@ -1,0 +1,26 @@
+{
+  "_id": 101281,
+  "id": "rimecurrant",
+  "name": "Ribes artico",
+  "description": "Una bacca dal sapore intenso che spunta da rami ghiacciati e ricoperti di brina.",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Gelato al ribes artico"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Saslyk alla snezhnayana"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Palline dolci"
+    }
+  ],
+  "source": [
+    "Consiglio: si trova a Snezhnaya"
+  ]
+}

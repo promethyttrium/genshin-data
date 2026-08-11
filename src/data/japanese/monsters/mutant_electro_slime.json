@@ -8,14 +8,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Slime_Electric_03_Positive",
   "description": "大自然に散布する雷元素から生まれた魔物。\\n雷スライムの変異から生まれた、黄色いスライム。体内の充溢した雷元素により、断続的に周囲へ放電したり、周囲の雷スライムへ電弧を放射したりする。だが、紫色の雷スライムの間ではこのような現象は存在しない。それ故に、雷スライムは二極を持つと思われる。\\nこれらの性質は、偉大な科学の発端になるかもしれない…",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

@@ -28,7 +28,6 @@
   "categoryText": "Automaton",
   "filename_icon": "UI_MonsterIcon_Apparatus_Enigma_BionicDrone",
   "description": "Untuk mencapai tujuan yang berbeda-beda, mesin-mesin ini memiliki bentuk yang variatif dan unik.\\nMenurut legenda, mesin ini dulunya adalah mesin perang peninggalan sebuah bangsa yang telah hancur. Dibandingkan dengan Ruin Guard biasa, bentuk mesin ini memiliki manfaat lebih besar di bidang pembelajaran biomimesis. Desain penyebaran dari mesin ini sepertinya terinspirasi dari koloni lebah madu, yang bisa berubah bentuk dan menyerang dari berbagai arah.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

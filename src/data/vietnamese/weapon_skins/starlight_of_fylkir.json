@@ -1,0 +1,21 @@
+{
+  "_id": 330003,
+  "id": "starlight_of_fylkir",
+  "name": "Ánh Sao Của Fylkir",
+  "description": "Ảo ảnh vũ khí rực rỡ xuất hiện nơi sâu thẳm trong Địa Mạch, có thể biến đổi tùy theo loại nguyên tố của người cầm. Nghe nói, vào thời xa xưa mà nay đã chẳng còn ai có thể nhớ đến, sứ giả của trời cao đã ban trường thương này cho vị chủ tế của Sal Vindagnyr, cho phép người ấy dẫn dắt thành bang xanh tươi và trù phú này.",
+  "rarity": 4,
+  "type": {
+    "id": "Polearm",
+    "name": "Vũ Khí Cán Dài"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "Huyễn Hình Rạng Rỡ: Vĩnh Hằng",
+    "priority": 2
+  },
+  "item_id": 341303,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphFylkir_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphFylkir"
+}

@@ -45,7 +45,6 @@
   "description": "Hilichurl kekar yang menggunakan perisai batu.\\nBagi seekor Hilichurl, dua hal yang paling penting adalah makan banyak daging dan bertarung karena keduanya membuat mereka semakin kuat.\\nSemua Hilichurl muda bermimpi untuk bisa menjadi Mitachurl yang besar dan kuat, agar mereka bisa makan lebih banyak daging, bertarung lebih banyak, dan memakai perisai batu yang (hampir) tak bisa dihancurkan.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 2,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.3,

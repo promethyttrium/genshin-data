@@ -1,0 +1,21 @@
+{
+  "_id": 101280,
+  "id": "snowball_flower",
+  "name": "Flor bolanívea",
+  "description": "Una adorable flor de inflorescencia casi esférica. Cuando la nieve cae sobre sus pétalos, parece una bola de nieve.",
+  "recipes": [
+    {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Okroshka de las nieves"
+    },
+    {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "Campohelado de flores bolaníveas"
+    }
+  ],
+  "source": [
+    "Recolectar en Snezhnaya"
+  ]
+}

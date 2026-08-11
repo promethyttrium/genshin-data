@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 3,
+    "element": "Pyro",
+    "weapon": "Altre armi",
     "faction": [
-      null
+      "Fatui"
     ]
   },
   "skills": [
     {
       "id": "singleshot_bullet",
       "name": "Proiettile singolo",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 1 <span style=\"color:#FF9999FF\">DAN da Pyro</span>.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -36,8 +40,10 @@
     {
       "id": "burning_barrage",
       "name": "Raffica ustionante",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#FF9999FF\">DAN da Pyro</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,8 +56,10 @@
     {
       "id": "flaming_cannon",
       "name": "Cannonfiamma",
-      "desc": "Infligge ? ?, questo personaggio ottiene <span style=\"color:#FFFFFFFF\">Equipaggiamento elementale di Pyro</span>.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#FF9999FF\">DAN da Pyro</span>, questo personaggio ottiene <span style=\"color:#FFFFFFFF\">Equipaggiamento elementale di Pyro</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -71,7 +79,9 @@
       "id": "combat_resupply",
       "name": "Fornitura bellica",
       "desc": "(Passiva) All'inizio del duello questo personaggio ottiene 2 punti Energia.",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

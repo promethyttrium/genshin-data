@@ -25,19 +25,19 @@
       "_id": 112076,
       "id": "marked_shell",
       "name": "İşaretli Kabuk",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112075,
       "id": "sturdy_shell",
       "name": "Sağlam Kabuk",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112074,
       "id": "desiccated_shell",
       "name": "Kuru Kabuk",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Chrysopelea_Sacred_Wind",
   "description": "Büyük yaşam formlarından beslenerek mutasyona uğramış olan bir sürüngen.\\nElement kullanımı gücüyle dolu olmasına rağmen, Kutsanmış Canavarlar halen vücutlarındaki ölümsüz leş parçalarını tam olarak sindiremiyor. Bu parçalar yavaş yavaş canavarların içine nüfuz etti ve vücutlarının üzerine Inazuma'daki bir tür eritme malzemesiyle benzer yapıya sahip olan kemiksi bir kabuk ördü.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

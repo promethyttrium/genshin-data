@@ -1,0 +1,24 @@
+{
+  "_id": 112147,
+  "id": "ethereal_crystal",
+  "name": "幻造裂晶",
+  "description": "生長在妖精身軀表面的晶片的碎塊，雖然已經空空如也，但是也能夠感受到其中曾蘊含的獨特力量。",
+  "source": [
+    "40級以上肌生晶石的妖精掉落",
+    "星塵兌換",
+    "可合成數量：{0}"
+  ],
+  "rarity": 2,
+  "craft": {
+    "cost": 25,
+    "items": [
+      {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "幻造螢屑",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

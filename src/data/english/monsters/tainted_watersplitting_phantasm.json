@@ -25,19 +25,19 @@
       "_id": 112088,
       "id": "newborn_tainted_hydro_phantasm",
       "name": "Newborn Tainted Hydro Phantasm",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112087,
       "id": "scoop_of_tainted_water",
       "name": "Scoop of Tainted Water",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112086,
       "id": "drop_of_tainted_water",
       "name": "Drop of Tainted Water",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Elemental Lifeforms",
   "filename_icon": "UI_MonsterIcon_Necalevia_Normal",
   "description": "Today, with the Oceanids extirpated from Fontaine, strange elemental life forms have appeared in the waters.\\nThe elemental spirits that appeared after the calamity lack the elegance and beauty of the Oceanids, and thus have been called \"tainted.\" Though the toxins dissolved in the water have long since been diluted and cleansed, unless there are still containers of pure water somewhere, Fontaine's waters will never again naturally birth Oceanids.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

@@ -13,7 +13,6 @@
   "categoryText": "원소 생명체",
   "filename_icon": "UI_MonsterIcon_Narcissusborn_Normal_01",
   "description": "응집된 물로 구성된 어느 정도 인간 형태를 띤 마물",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

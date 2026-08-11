@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "Corazón espectral",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "Caparazón espectral",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Seres elementales",
   "filename_icon": "UI_MonsterIcon_Sylph_Rock_01",
   "description": "Un monstruo nacido de una alta condensación del elemento Geo y capaz de flotar en el aire.\\nCuando los Espectros cierran sus alas, imitan la forma de cierto fruto. Por ello, en algunas leyendas antiguas, son considerados frutos de árboles gigantes con misteriosas propiedades medicinales.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

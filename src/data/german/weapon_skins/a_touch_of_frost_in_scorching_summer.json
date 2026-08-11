@@ -1,0 +1,16 @@
+{
+  "_id": 380003,
+  "id": "a_touch_of_frost_in_scorching_summer",
+  "name": "Leichter Frost im glühenden Sommer!",
+  "description": "Ein kleines Geschenk der Jack Frosts für gute Freunde! Es sieht sehr lecker aus. Fast so, als hätte es den Geschmack von Beerenkonfitüre. Stell dir vor, du beißt hinein, erfrischende Kühle und herrliche Süße würden gewiss gemeinsam auf der Zunge tanzen. Aber eigentlich kann man es nicht essen ... obwohl es doch wirklich so wunderbar lecker aussieht.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Einhänder"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341803,
+  "icon_path": "UI_EquipIcon_Sword_Icecream",
+  "image_path": "UI_Gacha_EquipIcon_Sword_Icecream"
+}

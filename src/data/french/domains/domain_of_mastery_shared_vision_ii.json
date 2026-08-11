@@ -1,0 +1,58 @@
+{
+  "_id": 4700,
+  "id": "domain_of_mastery_shared_vision_ii",
+  "name": "Donjon de la maîtrise : Vision partagée II",
+  "entranceId": 2074,
+  "entranceName": "Relique de la grâce déchue",
+  "description": "Un sanctuaire jadis érigé par les anciens nivéoles, aujourd'hui ravagé par de petits brigands.\nSi vous pouvez détruire les ennemis qui errent dans cet endroit, vous pourrez acquérir des connaissances et des éclaircissements sur les moyens d'améliorer vos talents.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 54,
+  "unlockRank": 28,
+  "disorder": [
+    "· When a character triggers Superconduct or Stellar-Conduct reactions, or deals Stellar-Conduct DMG, a shockwave will be unleashed at the target enemy's location, dealing Electro DMG."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_03",
+  "recommendedElements": [
+    "Cryo",
+    "Électro"
+  ],
+  "daysOfWeek": [
+    "Mercredi",
+    "Samedi",
+    "Dimanche"
+  ],
+  "domainType": "UI_ABYSSUS_AVATAR_PROUD",
+  "domainText": "Talent Level-Up Material",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP d'aventure",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "1800"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP d'affinité",
+      "count": "15"
+    },
+    {
+      "_id": 104372,
+      "id": "guide_to_glory",
+      "name": "Guide de la Gloire"
+    },
+    {
+      "_id": 104371,
+      "id": "teachings_of_glory",
+      "name": "Enseignement de la Gloire"
+    }
+  ],
+  "monsterList": []
+}

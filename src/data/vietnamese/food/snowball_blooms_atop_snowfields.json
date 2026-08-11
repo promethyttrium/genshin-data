@@ -1,0 +1,65 @@
+{
+  "_id": 3706,
+  "id": "snowball_blooms_atop_snowfields",
+  "name": "Hoa Tuyết Cầu Trên Tuyết Nguyên",
+  "description": "Món salad xếp lớp kinh điển. Các nguyên liệu được sơ chế riêng rồi xếp chồng thành từng lớp, giữa mỗi lớp được ngăn cách bởi sốt Smetana tẩm gia vị. Sau khi hoàn thành, thường sẽ cần để yên một khoảng thời gian để hương vị hòa quyện trọn vẹn. Thành phẩm trông giống như những khóm Hoa Tuyết Cầu nở rộ trên cánh đồng tuyết, do đó mới có tên gọi này.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 101280,
+      "id": "snowball_flower",
+      "name": "Hoa Tuyết Cầu",
+      "amount": 3
+    },
+    {
+      "_id": 100084,
+      "id": "fish",
+      "name": "Thịt Cá",
+      "amount": 2
+    },
+    {
+      "_id": 110009,
+      "id": "cheese",
+      "name": "Phô Mai",
+      "amount": 1
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Trứng Chim",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Món Dạng Tấn Công",
+  "results": {
+    "suspicious": {
+      "_id": 132013,
+      "name": "Hoa Tuyết Cầu Trên Tuyết Nguyên Kỳ Lạ",
+      "description": "Món salad xếp lớp kinh điển. Do để quá lâu nên hình dáng của nó trở nên xiêu vẹo. Tệ hơn nữa là các nguyên liệu dường như đã trải qua một cuộc di cư hỗn loạn, khiến ranh giới giữa các lớp trở nên hết sức mờ nhạt... Tuy không đến nỗi không thể ăn được, nhưng đã hoàn toàn mất đi kết cấu vốn có của món salad.",
+      "effect": "Tấn công cả đội tăng 160 điểm, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    },
+    "normal": {
+      "_id": 132014,
+      "name": "Hoa Tuyết Cầu Trên Tuyết Nguyên",
+      "description": "Món salad xếp lớp kinh điển. Các nguyên liệu được sơ chế riêng rồi xếp chồng thành từng lớp, giữa mỗi lớp được ngăn cách bởi sốt Smetana tẩm gia vị. Sau khi hoàn thành, thường sẽ cần để yên một khoảng thời gian để hương vị hòa quyện trọn vẹn. Thành phẩm trông giống như những khóm Hoa Tuyết Cầu nở rộ trên cánh đồng tuyết, do đó mới có tên gọi này.",
+      "effect": "Tấn công cả đội tăng 194 điểm, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    },
+    "delicious": {
+      "_id": 132015,
+      "name": "Hoa Tuyết Cầu Trên Tuyết Nguyên Ngon",
+      "description": "Món salad xếp lớp kinh điển. Những bông Hoa Tuyết Cầu ở phần rìa tựa như đang nở rộ nơi tận cùng của cánh đồng tuyết, còn lòng đỏ trứng vàng ươm lại như mặt trời lúc hoàng hôn, nhuộm kín cả đường chân trời. Mải đắm chìm trong tác phẩm nghệ thuật đẹp mắt ấy, mãi cho đến khi chiếc thìa chạm vào đáy đĩa trống không và khẽ phát ra tiếng mới chợt bừng tỉnh... A, hóa ra đã ăn hết rồi sao?",
+      "effect": "Tấn công cả đội tăng 228 điểm, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    },
+    "special": {
+      "_id": 132017,
+      "id": "lakeside_snow_swan",
+      "name": "\"Thiên Nga Tuyết Bên Hồ\"",
+      "description": "Món ăn độc quyền của Odette. Phần salad nhỏ lặng lẽ chiếm lấy vị trí chính giữa của chiếc đĩa, giống như ánh đèn sân khấu đang chiếu rọi xuống trung tâm. Tạo hình của từng lớp cũng chuẩn xác như chính những bước nhảy của cô ấy. Lượng nguyên liệu cũng đã được cô ấy tính toán tỉ mỉ, cho dù có ăn hết sạch thì cũng tuyệt đối không ảnh hưởng đến cân nặng ngày hôm sau... Cho nên cứ yên tâm mà thưởng thức nào!",
+      "effect": "Tấn công cả đội tăng 274 điểm, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+      "character": {
+        "id": "odette",
+        "name": "Odette"
+      }
+    }
+  }
+}

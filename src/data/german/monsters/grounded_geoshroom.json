@@ -33,13 +33,13 @@
       "_id": 112063,
       "id": "dormant_fungal_nucleus",
       "name": "Schlafendes Sklerotium",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112062,
       "id": "inactivated_fungal_nucleus",
       "name": "Inaktives Sklerotium",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112061,
@@ -57,16 +57,15 @@
       "_id": 112059,
       "id": "fungal_spores",
       "name": "Sporen der Pilzbestie",
-      "count": 0.2101
+      "count": 0.21
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Fungus_Amanita_Du_Udatta_Rock",
   "description": "Nachahmendes Wesen, das aus Sporen besteht, hat eine starke Fähigkeit zur Anpassung an die Umwelt.\\nDurch den Einfluss der Geo-Kraft, ist ein Teil der es bildenden Sporen schon komplett verhornt. Wenn man bedenkt, dass die Pilzbestien sich ursprünglich aus Sporen entwickelt haben, kann man nun vielleicht sagen, dass sich auf dieser Basis eines Tages eine völlig neue Lebensform entwickeln kann.\\nSeine Dominanz unter den Pilzbestien zeigt, dass es eine höhere Intelligenz besitzt.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

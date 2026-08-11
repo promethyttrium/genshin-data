@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Arco",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3851,
@@ -29,8 +31,10 @@
     {
       "id": "divine_marksmanship",
       "name": "Precisione divina",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "skyward_sonnet",
       "name": "Sonetto celeste",
-      "desc": "Infligge ? ?, genera 1 <span style=\"color:#FFFFFFFF\">Zona di burrasca</span>.",
-      "skillTag": [],
+      "desc": "Infligge 2 <span style=\"color:#80FFD7FF\">DAN da Anemo</span>, genera 1 <span style=\"color:#FFFFFFFF\">Zona di burrasca</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "winds_grand_ode",
       "name": "Ode all'Archon di Anemo",
-      "desc": "Infligge ? ?, invoca 1 <span style=\"color:#FFFFFFFF\">In mezzo alla tempesta</span>.",
-      "skillTag": [],
+      "desc": "Infligge 2 <span style=\"color:#80FFD7FF\">DAN da Anemo</span>, invoca 1 <span style=\"color:#FFFFFFFF\">In mezzo alla tempesta</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1105,

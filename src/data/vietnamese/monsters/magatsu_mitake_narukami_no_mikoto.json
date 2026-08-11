@@ -177,7 +177,6 @@
   "categoryText": "Kẻ Thù Mạnh Đáng Nhớ",
   "filename_icon": "UI_MonsterIcon_Shougun_Mitakenarukami",
   "description": "Con rối đại diện cho quyền năng của Raiden Shogun, khi đối phó với kẻ địch uy hiếp đến sự \"vĩnh hằng\" đã lộ ra hình hài này.\\nLà người hỗ trợ cho Raiden thực hiện \"vĩnh hằng\", cô ấy chưa từng hoài nghi, cũng chưa từng sợ hãi, luôn dốc hết sức mình, tâm vô tạp niệm.\\nCô ấy đã từng nghe nói vào thời kỳ của Makoto và Ei, Ei đã từng gánh vác trách nhiệm tương tự cô ấy, trải qua nhiều đau khổ và mất mát.\\nKhi hai chiếc bóng lồng ghép thành một, cô ấy lại thấy được trong ý chí vốn dĩ vĩnh hằng của \"cô\" lại lưu giữ vô số dấu vết. Nếu như số mệnh đã an bài đây là một sự luân hồi, vậy thì hãy như hẹn ước ban đầu, cứ tuyên chiến thôi.\\n\\n<i>\"Thân này, tượng trưng cho uy nghiêm vô thượng, được ban cho quyền năng thống lĩnh một quốc gia, tích tụ mọi thứ của Raiden Shogun.\"</i>\\n<i>\"Đương nhiên cũng kế thừa những nỗi đau mất mát triền miên của Ei trước đây, và cả... quyết tâm muốn đạt đến vĩnh hằng.\"</i>\\n<i>\"Quyết tâm, dũng khí, ái mộ, hận thù... đều sẽ biến chất trong dòng chảy của thời gian.\"</i>\\n<i>\"Chỉ có \"phép tắc\" là vĩnh hằng bất biến.\"</i>",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

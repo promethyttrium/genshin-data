@@ -13,7 +13,6 @@
   "categoryText": "Element Yaşam Formları",
   "filename_icon": "UI_MonsterIcon_Effigy_Grass",
   "description": "Kod adı Zayin olan yüksek saflıktaki bir Doğa oluşumu.\\nBazı araştırmacıların kanılarına göre Element Hipostazlarının \"öğrenme\" yetisi bulunduğu için saldırılarını \"taklit\" ederek yaparlarmış. Bununla birlikte bilgiyi barındırma ile gelen değişiklik oluşturma becerisi, bilgi kirliliği riskini de beraberinde getirir. Bu yaratık öğrenip değiştiği için oluşumunun amacı her ne kadar akademik olarak anlaşılamaz olsa da değişip çarpıtılabilir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

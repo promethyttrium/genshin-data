@@ -1,0 +1,32 @@
+{
+  "_id": 215032,
+  "id": "temporal_winds_eulogy",
+  "shareId": 617,
+  "name": "風を讃えて",
+  "title": "ウェンティ・風を讃えて",
+  "desc": "「ゆえに、原理上『未知』の事柄は二種類しかありえん。一つは、星象に定められぬ者の未来。もう一つは、何らかの目的で占いを妨害する者の未来だ。後者は実に忌々しい…物語の小さな魔女が、そのような輩にならんことを願うばかりだ。」",
+  "in_play_description": "味方が<span style=\"color:#FFFFFFFF\">暴風の目</span>を召喚した後、このラウンド中、装備キャラの次の2回の<span style=\"color:#FFFFFFFF\">「通常攻撃」</span>が与える<span style=\"color:#FFFFFFFF\">物理ダメージ</span>は<span style=\"color:#80FFD7FF\">風元素ダメージ</span>になり、さらに必要な<span style=\"color:#FFFFFFFF\">無色元素</span>-2。",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "風元素",
+    "card_type": "装備カード",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "風元素",
+        "count": 3
+      }
+    ],
+    "tags": [
+      "天賦",
+      "魔導"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">クイックアクション</span>：味方の<span style=\"color:#FFFFFFFF\">ウェンティ</span>に装備できる。<br/><span style=\"color:#FFFFFFFF\">暴風の目</span>を召喚する。<br/>味方が<span style=\"color:#FFFFFFFF\">暴風の目</span>を召喚した後、このラウンド中、装備キャラの次の2回の<span style=\"color:#FFFFFFFF\">「通常攻撃」</span>が与える<span style=\"color:#FFFFFFFF\">物理ダメージ</span>は<span style=\"color:#80FFD7FF\">風元素ダメージ</span>になり、さらに必要な<span style=\"color:#FFFFFFFF\">無色元素</span>-2。<br/>（このカードはデッキにウェンティが含まれている場合のみ、デッキに追加できる）"
+    }
+  ]
+}

@@ -13,8 +13,6 @@
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_VolcanoWeasel",
   "description": "Un'antica variante della donnola di montagna, adattatasi a un ambiente saturo di Flogisto isolato dal mondo esterno.\\nConsumando creature ricche di Flogisto, questa specie accumula potere all'interno del guscio che trasporta. Avendo trascorso la sua lunga esistenza tra le rovine della Montagna Sacra, la sua affinità con il Flogisto sembra averla resa sensibile ai Meccanismi sorgente presenti nell'area, creando così una speciale relazione simbiotica tra di essi.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

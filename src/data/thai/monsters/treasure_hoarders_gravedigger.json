@@ -59,22 +59,21 @@
       "_id": 112036,
       "id": "silver_raven_insignia",
       "name": "Silver Raven Insignia",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112035,
       "id": "treasure_hoarder_insignia",
       "name": "Treasure Hoarders Insignia",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "กองกำลังของมนุษย์อื่น ๆ",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_02",
   "description": "กลุ่มกองโจรที่กระจายอยู่ไปทั่วทั้งดินแดน รวมไปถึงส่วนลึกของดันเจี้ยนที่ไม่มีใครรู้จักด้วย\\n<i>\"คนต่างพูดว่าพวกเราเหมือนยืนอยู่บนบ่าของยักษ์ ซึ่งหมายถึงการขุดเอาสมบัติที่สั่งสมมาจากบรรพบุรุษ แล้วเอามันมา เพื่อที่จะได้... อ่า นำมันคืนสู่เศรษฐกิจหมุนเวียนไงล่ะ! สิ่งที่เราทำมันยอดไปเลยว่ามั้ย!\"</i>\\n—— Gravedigger หรือ \"นักขุดหลุมศพ\" ของกองโจรล่าสมบัติคนหนึ่งพูดในขณะที่กำลังขุดสมบัติในโบราณสถาน",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

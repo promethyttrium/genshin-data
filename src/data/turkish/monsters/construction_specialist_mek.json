@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Mekanik Düz Dişli",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Kavrama Dişlisi",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Canavar Makinaları",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Excavator",
   "description": "Arkeolojik kazılar ve yapı inşaatı için kullanıldığında sonsuz faydası olan bir Kurmalı Meka tipi. İsmini Clementine Hattı inşaatı sırasında Callas'ın işe aldığı bir mühendisten alır.\\nCallas'ın arkasındaki finansal destek sayesinde bu mühendis, Poisson Tünelini kazan efsanevi dev inşaat makinası \"Altın Gemi\"yi yapmıştı. İş bittiğinde bu tip Kurmalı Mekalar benzer yapıda fakat daha küçük ölçekte yeniden tasarlandı.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 2,
   "stats": {

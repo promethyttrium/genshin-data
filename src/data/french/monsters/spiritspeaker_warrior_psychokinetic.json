@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humains",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Shamansaurus",
   "description": "Un guerrier du vent nocturne et un garde tribal qui patrouille dans les canyons brumeux.\\nOn raconte que leur peinture corporelle est un art ayant évolué de la gravure phlogistique, et que de longues années de pratique sont nécessaires pour maîtriser pleinement la puissance qu'elle contient.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "สัตว์อสูรลึกลับ",
   "filename_icon": "UI_MonsterIcon_HermitCrab_Larva_02",
   "description": "ปูที่อาศัยอยู่ในหอยสังข์และเปลือกหอย\\nแทบไม่มีความก้าวร้าวที่พบได้ในสัตว์ป่าทั่วไปเลย เนื่องจากความก้าวร้าวที่ไม่ได้มาจากความหิวนั้น มักมาจากสัญชาตญาณการหวงอาณาเขต และอาณาเขตของ Armored Crab ก็คือบ้านหลังเล็ก ๆ ที่แบกอยู่บนหลังของมันนั่นเอง",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 5.34,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

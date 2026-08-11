@@ -13,7 +13,6 @@
   "categoryText": "Seres elementales",
   "filename_icon": "UI_MonsterIcon_Effigy_Ice",
   "description": "Nombre en clave: Dálet. Un ser Cryo de gran pureza.\\nSegún las investigaciones, existen ínfimas diferencias entre la composición física de los Hipóstasis y los demás seres elementales. Sin embargo, tal vez estas diferencias sean la razón de su alto nivel de homeostasis y sus movimientos cuasi-mecánicos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

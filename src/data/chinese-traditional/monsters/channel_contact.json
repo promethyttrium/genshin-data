@@ -1,0 +1,41 @@
+{
+  "_id": 25132801,
+  "id": "channel_contact",
+  "monsterId": 25132803,
+  "name": "管道聯絡人",
+  "specialNames": [
+    "管道聯絡人"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種魔獸",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Beaver",
+  "description": "將手砲偽裝成樹幹的狡猾獸怪。\\n因為擅長偽裝手頭上的武器和貨物，所以經常被委託運送貨物或者傳遞情報之類的工作。\\n手中的手砲想必也是利用閒暇之餘製作的吧。有的時候也會用手砲發射偽裝成煙花的信號彈。\\n不要被外表欺騙，實則是相當精明和狡猾的妖精。",
+  "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 12.801292,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -23,6 +23,11 @@
       "name": "생선 호밀빵"
     },
     {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "글루포프 호밀빵"
+    },
+    {
       "_id": 3607,
       "id": "lakkaberry_pie",
       "name": "백령과 파이"
@@ -35,6 +40,5 @@
   ],
   "source": [
     "요리 가공 획득"
-  ],
-  "rarity": 0
+  ]
 }

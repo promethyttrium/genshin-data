@@ -64,19 +64,19 @@
       "_id": 112094,
       "id": "operatives_constancy",
       "name": "Constância do Servo",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112093,
       "id": "operatives_standard_pocket_watch",
       "name": "Relógio de Bolso Padrão do Servo",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112092,
       "id": "old_operatives_pocket_watch",
       "name": "Relógio de Bolso do Velho Servo",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -127,7 +127,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Escadron_Ice",
   "description": "Um agente de elite entre os Fatui.\\nSelecionados enquanto crianças, eles podem se tornar um \"Oficial\" após muitos anos de treino e ensino, após incontáveis rodadas terem joeirado o campo. Eles são os soldados mais excepcionais entre os Fatui, com habilidade extraordinária e lealdade incondicional.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

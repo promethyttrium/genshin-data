@@ -1,0 +1,24 @@
+{
+  "_id": 112156,
+  "id": "sprout_node_of_life",
+  "name": "Sprout Node of Life",
+  "description": "A branch bearing a fair number of crystals. It feels heavy in the hand, and traces of vitality can still be felt within it even after it has broken away from the Leshy's body.",
+  "source": [
+    "Dropped by Lv. 40+ Wildwood Leshies",
+    "Stardust Exchange",
+    "Placeholder - Craftable Amount: {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112155,
+        "id": "hollow_root_of_life",
+        "name": "Hollow Root of Life",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

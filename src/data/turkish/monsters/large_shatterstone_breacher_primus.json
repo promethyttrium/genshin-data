@@ -13,7 +13,6 @@
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_01",
   "description": "Genelde Elynas yakınlarında ortaya çıkan tuhaf bir yaşam formu.\\nMelusinalara göre Patojenler zararsız varlıklardır, hatta çoğu onların çok güzel olduklarını bile düşünür.\\nMelusinaların görsel algılaması insanlarınkinden çok farklıdır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

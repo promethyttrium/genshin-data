@@ -25,19 +25,19 @@
       "_id": 112043,
       "id": "fossilized_bone_shard",
       "name": "石化した骨片",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112042,
       "id": "sturdy_bone_shard",
       "name": "丈夫な骨片",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112041,
       "id": "fragile_bone_shard",
       "name": "脆い骨片",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_Drake_Deepsea_Water",
   "description": "海淵で生きるヴィシャップ。\\nかつて彼らは、深海を支配する種族であった——更に遠い昔には、龍がこの世界を支配していた。しかし、古の七王は天からの力に敗れ、次々に朽ちていった。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

@@ -1,0 +1,32 @@
+{
+  "_id": 215032,
+  "id": "temporal_winds_eulogy",
+  "shareId": 617,
+  "name": "시간과 바람",
+  "title": "벤티·시간과 바람",
+  "desc": "「이론상 『밝혀지지 않은 일』은 두 가지로 나뉘는데, 하나는 별자리에 고정되지 않은 사람의 미래고, 다른 하나는 어떤 목적으로 점술을 의도적으로 방해하는 사람의 미래야. 후자는 진짜 짜증 나니까, 이야기 속 꼬마 마녀가 절대 그런 사람이 되지 않았으면 좋겠어」",
+  "in_play_description": "아군이 <span style=\"color:#FFFFFFFF\">폭풍의 눈</span> 소환 시, 이번 턴에 부착 캐릭터의 다음 2회 <span style=\"color:#FFFFFFFF\">「일반 공격」</span>이 가하는 <span style=\"color:#FFFFFFFF\">물리 피해</span>가 <span style=\"color:#80FFD7FF\">바람 원소 피해</span>로 전환되며, <span style=\"color:#FFFFFFFF\">무색 원소</span> 소모 개수-2",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "바람 원소",
+    "card_type": "장비 카드",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "바람 원소",
+        "count": 3
+      }
+    ],
+    "tags": [
+      "특성",
+      "마도"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">빠른 행동</span>: 아군 <span style=\"color:#FFFFFFFF\">벤티</span>에게 장착한다.<br/><span style=\"color:#FFFFFFFF\">폭풍의 눈</span>을 소환한다.<br/>아군이 <span style=\"color:#FFFFFFFF\">폭풍의 눈</span> 소환 시, 이번 턴에 부착 캐릭터의 다음 2회 <span style=\"color:#FFFFFFFF\">「일반 공격」</span>으로 주는 <span style=\"color:#FFFFFFFF\">물리 피해</span>가 <span style=\"color:#80FFD7FF\">바람 원소 피해</span>로 전환되며, <span style=\"color:#FFFFFFFF\">무색 원소</span> 소모 개수-2.<br/>(카드 덱에 벤티가 있어야만 카드 덱에 추가 가능)"
+    }
+  ]
+}

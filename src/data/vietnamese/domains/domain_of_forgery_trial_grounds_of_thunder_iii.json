@@ -16,6 +16,11 @@
   "recommendedElements": [
     "Băng"
   ],
+  "daysOfWeek": [
+    "Thứ 4",
+    "Thứ 7",
+    "Chủ Nhật"
+  ],
   "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
   "domainText": "Weapon Ascension Materials",
   "rewardPreview": [

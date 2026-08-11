@@ -9,9 +9,11 @@
     "hp": 6,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Altre armi",
     "faction": [
-      null,
-      null
+      "Mostro",
+      "Calamità cosmica"
     ],
     "talent_card": {
       "_id": 5695,
@@ -28,8 +30,10 @@
     {
       "id": "shattering_waves",
       "name": "Onde frantumanti",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -48,8 +52,10 @@
     {
       "id": "starfall_shower",
       "name": "Pioggia di stelle",
-      "desc": "Infligge $[D__KEY__DAMAGE_2] ?. Questo personaggio infligge DAN +1 per ogni 3 PS max aggiuntivi dati da <span style=\"color:#FFFFFFFF\">Appetito insaziabile</span> (massimo +3). Dopodiché, <span style=\"color:#FFFFFFFF\">rimuovi</span> la carta con il <span style=\"color:#FFFFFFFF\">costo attuale di dadi elementali</span> più alto nella tua mano.",
-      "skillTag": [],
+      "desc": "Infligge 1 <span style=\"color:#80C0FFFF\">DAN da Hydro</span>. Questo personaggio infligge DAN +1 per ogni 3 PS max aggiuntivi dati da <span style=\"color:#FFFFFFFF\">Appetito insaziabile</span> (massimo +3). Dopodiché, <span style=\"color:#FFFFFFFF\">rimuovi</span> la carta con il <span style=\"color:#FFFFFFFF\">costo attuale di dadi elementali</span> più alto nella tua mano.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -62,8 +68,10 @@
     {
       "id": "ravaging_devourer",
       "name": "Inghiottimento devastante",
-      "desc": "Infligge ? ?, infligge 1 <span style=\"color:#FFFFFFFF\">DAN da perforazione</span> a tutti i personaggi avversari inattivi. Invoca 1 <span style=\"color:#FFFFFFFF\">Ombra oscura</span>.",
-      "skillTag": [],
+      "desc": "Infligge 1 <span style=\"color:#80C0FFFF\">DAN da Hydro</span>, infligge 1 <span style=\"color:#FFFFFFFF\">DAN da perforazione</span> a tutti i personaggi avversari inattivi. Invoca 1 <span style=\"color:#FFFFFFFF\">Ombra oscura</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -83,7 +91,9 @@
       "id": "insatiable_appetite",
       "name": "Appetito insaziabile",
       "desc": "(Passiva) All'inizio del duello, crea 1 <span style=\"color:#FFFFFFFF\">Dominio del Divoratore degli Abissi</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

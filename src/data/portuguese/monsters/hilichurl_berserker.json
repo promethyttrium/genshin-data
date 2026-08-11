@@ -8,14 +8,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hili_Fire_Range",
   "description": "Os habitantes primitivos que vagam pelas regiões selvagens de Teyvat.\\nEstes Hilichurls empunham bastões flamejantes e atacam com descuido para perseguir os aventureiros intrusos. A maioria dos incêndios nas pradarias ou florestas não são na verdade causados por um certo Cavaleiro em especial, mas sim devido às ações desses Hilichurls.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

@@ -1,0 +1,40 @@
+{
+  "_id": 25133601,
+  "id": "fanged_zealot",
+  "monsterId": 25133602,
+  "name": "Bestia Colmillofrenética",
+  "specialNames": [
+    "Bestia Colmillofrenética"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestias exóticas",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Mammoth",
+  "description": "Un volkodlak que se ha vuelto extremadamente poderoso al heredar una gran parte del poder de su linaje.\\nEntre los numerosos volkodlak que hay, aquellos con forma de elefante o mamut son los de linaje más noble. En el pasado, su clan contaba con grandes generales militares, y muchos de ellos llegaron a ser escoltas personales del rey de los volkodlak.\\nSin embargo, cuanto más poderosa es un hada a nivel individual y más longeva es su esperanza de vida, más difícil le resulta juntarse en un grupo. Es por eso que, en comparación con otros volkodlak, los de esta clase son mucho más escasos en la Snezhnaya del presente.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 231.00076,
+      "attack": 112.64574,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

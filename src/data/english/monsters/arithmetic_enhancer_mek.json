@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automatons",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
   "description": "A clockwork meka designed to transmit and enhance signals.\\nThe power that drives this clockwork meka is generated from a controlled annihilation reaction between ousia and pneuma in the kinetic core. As a result, overloading it with excessive energy will cause its original equilibrium to be disrupted.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

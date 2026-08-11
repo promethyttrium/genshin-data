@@ -25,19 +25,19 @@
       "_id": 112100,
       "id": "stillsmoldering_hilt",
       "name": "꺼지지 않은 검자루",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112099,
       "id": "splintered_hilt",
       "name": "부러진 검자루",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112098,
       "id": "ruined_hilt",
       "name": "파손된 검자루",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "돌연변이 마수",
   "filename_icon": "UI_MonsterIcon_Golem_Legion",
   "description": "움직이는 전사 모양의 조각상. 자신이 수호하는 땅의 모든 침입자를 향해 칼날을 겨눈다. 그 원동력은 영혼인지 마법인지 알 수가 없다.\\n전설에 따르면 골렘으로 이루어진 군단이 높은 바다의 여러 왕국을 정복했다고 하는데, 어쩌면 이 조각상은 그 군단의 일원이었을지도 모른다. 바닷속으로 가라앉은 고탑과 궁전은 운명의 수레바퀴를 막으려 한 자의 최후를 목도했다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

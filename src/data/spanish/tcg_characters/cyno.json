@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Electro",
+    "weapon": "Lanza",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3224,
@@ -29,8 +31,10 @@
     {
       "id": "invokers_spear",
       "name": "Lanza de la invocación",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -49,8 +53,10 @@
     {
       "id": "secret_rite_chasmic_soulfarer",
       "name": "Rito secreto: Guía de las almas abismales",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.<br/>Nivel de la posesión de <span style=\"color:#FFFFFFFF\">abrecaminos del juramento</span> +1.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#FFACFFFF\">Daño Electro</span>.<br/>Nivel de la posesión de <span style=\"color:#FFFFFFFF\">abrecaminos del juramento</span> +1.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "sacred_rite_wolfs_swiftness",
       "name": "Rito sagrado: Celeridad lupina",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.<br/>Nivel de la posesión de <span style=\"color:#FFFFFFFF\">abrecaminos del juramento</span> +2.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts. de <span style=\"color:#FFACFFFF\">Daño Electro</span>.<br/>Nivel de la posesión de <span style=\"color:#FFFFFFFF\">abrecaminos del juramento</span> +2.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -84,7 +92,9 @@
       "id": "lawful_enforcer",
       "name": "Castigo de la ley",
       "desc": "Pasiva: cuando comienza el combate, este personaje obtiene el efecto de <span style=\"color:#FFFFFFFF\">Abrecaminos del juramento</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
       "points": []
     }
   ]

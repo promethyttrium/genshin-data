@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Polearm",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3845,
@@ -29,8 +31,10 @@
     {
       "id": "dawnstar_piercer",
       "name": "Dawnstar Piercer",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "spring_spirit_summoning",
       "name": "Spring Spirit Summoning",
-      "desc": "Mengakibatkan ? poin ? dan memperoleh status <span style=\"color:#FFFFFFFF\">Icy Quill</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#99FFFFFF\">Cryo DMG</span> dan memperoleh status <span style=\"color:#FFFFFFFF\">Icy Quill</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "divine_maidens_deliverance",
       "name": "Divine Maiden's Deliverance",
-      "desc": "Mengakibatkan ? poin ? dan memanggil <span style=\"color:#FFFFFFFF\">Talisman Spirit</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#99FFFFFF\">Cryo DMG</span> dan memanggil <span style=\"color:#FFFFFFFF\">Talisman Spirit</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1101,

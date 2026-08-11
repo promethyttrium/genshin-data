@@ -108,6 +108,11 @@
       "name": "Bollo de centeno relleno"
     },
     {
+      "_id": 2701,
+      "id": "stroganina",
+      "name": "Stroganina"
+    },
+    {
       "_id": 3012,
       "id": "sunshine_sprat",
       "name": "Pescado salteado con mantequilla"
@@ -198,6 +203,11 @@
       "name": "Oda mágmica"
     },
     {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "Campohelado de flores bolaníveas"
+    },
+    {
       "_id": 4105,
       "id": "eighttreasure_duck",
       "name": "Pato ochotesoros"
@@ -215,6 +225,5 @@
   ],
   "source": [
     "Recolectado al atrapar peces"
-  ],
-  "rarity": 0
+  ]
 }

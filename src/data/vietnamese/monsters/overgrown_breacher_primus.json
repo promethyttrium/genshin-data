@@ -13,7 +13,6 @@
   "categoryText": "Vực Sâu",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_02",
   "description": "Sinh mệnh kỳ lạ chủ yếu xuất hiện trong Elynas.\\nTại Fontaine, lần đầu tiên phát hiện được Nguyên Thể Khe Nứt chính là không lâu sau khi xảy ra tai họa. Lúc đó đã cùng lúc lưu lại ghi chép rằng Nguyên Thể Khe Nứt đã tấn công con người và bảo vệ con người.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

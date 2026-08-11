@@ -25,19 +25,19 @@
       "_id": 112019,
       "id": "deathly_statuette",
       "name": "Deathly Statuette",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112018,
       "id": "dark_statuette",
       "name": "Dark Statuette",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112017,
       "id": "gloomy_statuette",
       "name": "Gloomy Statuette",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Abyss",
   "filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Lance_Water",
   "description": "ทหารแห่งความมืดมิด ครั้งหนึ่งเคยเป็นทหารภาคภูมิใจของอาณาจักรโบราณใต้ดิน ตอนนี้ไม่หลงเหลือสติปัญญาพอที่จะเป็น \"มนุษย์\" ได้อีกต่อไป\\nความตั้งใจที่จะต่อสู้เพื่อทำลายล้างศัตรู และปกป้องดูเหมือนจะถูกฝังลึกไว้ในเปลือกที่ว่างเปล่านี้ ถึงแม้ว่าจะไม่มีใครสามารถบอกพวกเขาได้ว่าศัตรูอยู่ที่ไหน หรือสิ่งที่ต้องปกป้องคืออะไรก็ตาม",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

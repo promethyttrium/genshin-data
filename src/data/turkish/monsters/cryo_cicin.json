@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Cicin_Ice_01",
   "description": "Buzu çok az kullanabilen küçük yaratıklar.\\nOnlar ve bu tür diğer yaratıklar Cicinler olarak bilinmektedir. Tek başlarına güçsüz varlıklardır ama güçsüz olmaları, yırtıcılardan kaçmalarını sağlayan benzersiz hareket kabiliyetlerini geliştirecek şekilde evrim geçirmelerinden kaynaklanır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

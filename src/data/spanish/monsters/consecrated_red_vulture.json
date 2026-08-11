@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Vulture_Sacred_Fire",
   "description": "Un ave carroñera que ha mutado por devorar los restos de poderosos seres.\\nEntre los despojos que devoran las Bestias Sacróseas suele haber algunas que albergan una fuerza de voluntad imposible de silenciar para siempre. Es esta fuerza de voluntad y esta fuerza las que alimentan su sed insaciable de luchar contra los caídos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

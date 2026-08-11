@@ -1,0 +1,130 @@
+{
+  "_id": 70,
+  "id": "land_of_surging_shadows",
+  "name": "Terre des ombres déferlantes",
+  "order": 73,
+  "achievements": [
+    {
+      "id": 86059,
+      "name": "Restaurateur de la toundra",
+      "desc": "Nettoyez 1 grand Royaume de pénombre à Snezhnaya.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9056
+    },
+    {
+      "id": 86062,
+      "name": "À bientôt dans la pénombre",
+      "desc": "Terminez un défi de la Frontière de la survie.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9059
+    },
+    {
+      "id": 86063,
+      "name": "Vétéran des Royaumes de pénombre",
+      "desc": "Améliorez l'analyse de pénombre jusqu'au Niv. max.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9060
+    },
+    {
+      "id": 86066,
+      "name": "Pro de la survie",
+      "desc": "Obtenez 9 médailles de frontière.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9063
+    },
+    {
+      "id": 86067,
+      "name": "Armurier de la toundra (1)",
+      "desc": "Installez 1 composant sur une arme à feu.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9064
+    },
+    {
+      "id": 86068,
+      "name": "Armurier de la toundra (2)",
+      "desc": "Installez 2 composants sur une arme à feu.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9065,
+      "preStage": 86067
+    },
+    {
+      "id": 86069,
+      "name": "Armurier de la toundra (3)",
+      "desc": "Installez 4 composants sur une arme à feu.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9066,
+      "preStage": 86068
+    },
+    {
+      "id": 86071,
+      "name": "Tachanka",
+      "desc": "Installez 4 composants sur l'Argent givré de Shatanaya, sur la Roue solaire de Balsag et sur le Tonnerre d'Ashamez.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9068
+    },
+    {
+      "id": 86072,
+      "name": "C'est le plein mid...",
+      "desc": "Touchez les points faibles ennemis 5 fois de suite en 30 s.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9069
+    },
+    {
+      "id": 86073,
+      "name": "Dis bonjour à mes petits amis !",
+      "desc": "Déclenchez 5 réactions élémentaires avec le lance-grenades en 30 s.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9070
+    },
+    {
+      "id": 86074,
+      "name": "Viser en glissant relève du pur fantasme",
+      "desc": "Éliminez un total de 20 ennemis en glissant.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9071
+    },
+    {
+      "id": 86075,
+      "name": "Car la lance de lumière sacrée nous lie",
+      "desc": "Obtenez le fusil d'assaut : Argent givré de Shatanaya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9072
+    },
+    {
+      "id": 86076,
+      "name": "L'art martial de l'envoi de grenades !",
+      "desc": "Obtenez le lance-grenades : Roue solaire de Balsag.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9073
+    },
+    {
+      "id": 86077,
+      "name": "Avertissement : catastrophe foudroyante créée...",
+      "desc": "Obtenez le fusil d'assaut : Tonnerre d'Ashamez.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9074
+    },
+    {
+      "id": 86078,
+      "name": "500 grammes d'amour",
+      "desc": "Obtenez un cristal fragmentaire.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9075
+    }
+  ]
+}

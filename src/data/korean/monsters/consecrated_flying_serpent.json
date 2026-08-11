@@ -25,19 +25,19 @@
       "_id": 112076,
       "id": "marked_shell",
       "name": "문양이 새겨진 갑골",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112075,
       "id": "sturdy_shell",
       "name": "견고한 갑골",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112074,
       "id": "desiccated_shell",
       "name": "부서진 갑골",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "돌연변이 마수",
   "filename_icon": "UI_MonsterIcon_Chrysopelea_Sacred_Wind",
   "description": "위대한 존재를 삼켜 기이하게 뒤틀린 파충류.\\n원소를 다루는 능력을 얻었지만 성해 짐승은 체내 불멸의 유해를 스스로 소화하지 못한다. 그 힘은 동물의 육체와 융합되었고, 그로 인해 돋아난 골질 갑각의 성분은 이나즈마에서 주로 나는 제련 재료와 비슷하다고 한다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

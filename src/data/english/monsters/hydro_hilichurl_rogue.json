@@ -13,7 +13,6 @@
   "categoryText": "Hilichurls",
   "filename_icon": "UI_MonsterIcon_Hilistray_Water",
   "description": "Hilichurl wanderers unaffiliated with any specific tribe. They can often be found roving the wilds as if in voluntary exile.\\nThey may also lend their aid to other hilichurls or hilichurl tribes for various reasons and go their separate ways afterward. They seem to possess a higher level of intelligence than commonplace hilichurls.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

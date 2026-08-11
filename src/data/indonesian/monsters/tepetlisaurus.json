@@ -8,13 +8,12 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Drillhead_Normal",
   "description": "Saurian yang memiliki tanduk seperti mata bor dan cakar tajam untuk menembus bebatuan dan Phlogiston padat.\\nBerdasarkan legenda, leluhur Tepetlisaurus adalah seekor naga yang berukuran sebesar gunung dan berumur sangat panjang. Selagi ia tidur, akan terbentuk pegunungan di bagian punggungnya. Dan saat ia terbangun, ia akan menggoyangkan debu dan batu yang menumpuk hingga menyisakan batu permata dan giok yang berkilauan. Konon benda berbentuk bor raksasa yang ada di suku Putra-Putri Gema merupakan peninggalan dari tanduk milik naga raksasa leluhur ini.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {

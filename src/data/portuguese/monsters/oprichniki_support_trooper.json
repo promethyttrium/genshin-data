@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan",
   "description": "Um soldado dos Oprichniki Fatui, equipado com um escudo pesado, ele luta na linha de frente para proteger seus camaradas.\\nMuitos acreditam que na longa guerra entre Snezhnaya e a Calamidade Tenebrosa, somente aqueles que resistem firmemente e persistem além dos outros podem sair vitoriosos. E o que mantém os Oprichniki de pé é, sem dúvida, o escudo da tropa. Desde que esse escudo não caia, sempre há esperança da vitória.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

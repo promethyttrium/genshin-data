@@ -481,9 +481,31 @@
     "Dilimbabbar Saldırı Dizilimi",
     "Dilimbabbar Savunma Dizilimi",
     "Lanetli Yenidoğan",
+    "???",
+    "Ayaklı Kaya Şahini",
     "Lanetli Yenidoğan",
     "Yıldızlara Bakan Öncü",
-    "Oluşumun Işıltısı"
+    "Oluşumun Işıltısı",
+    "Ölümsüz Yapı",
+    "Zhara",
+    "Vasiliy \"Oedipus\" Izmaylov",
+    "Kendini Hapsettiği Buzdan Geri Dönen",
+    "Gusarov",
+    "Ezeli İnsan",
+    "Aksinya",
+    "Pavlina",
+    "Keşiften Geri Dönen",
+    "Kaotik Kara Kruvazörü",
+    "Nastya",
+    "Furiosa",
+    "Yükselen Klenova",
+    "Boynu Bükük Kovaliskaya",
+    "Tsvetaev",
+    "Bragin",
+    "Churin",
+    "Bir Zamanlar Sonsuzluğa Sadakat Yemini Edenler",
+    "Gizlenen Oyuk Canavarı",
+    "Çevik Hamle"
   ],
   "investigation": {
     "investigationId": 44,
@@ -510,22 +532,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "İşlemeli Kırmızı İpek",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Soluk Kırmızı Saten",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Eremite_MuscleMan_Simitar",
   "description": "Altın çölün kumlarından doğmuş, pek düzenli olmayan paralı asker grubunun bir üyesi. Ödeme iyi olduğu sürece kim için olursa olsun çalışır.\\nBu savaşçı büyük bir şimşir kullanır. Bu tür savaşçılar, yeteneklerini artık kaybolmuş medeniyetleri henüz hayattayken almış olmakla övünürler. Çeşitli yörelerde bu teknikler savaş dışında bir performans sanatı olarak da kullanılır.\\nBu kılıç sanatının eskiden at sırtında yapıldığı rivayet edilir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

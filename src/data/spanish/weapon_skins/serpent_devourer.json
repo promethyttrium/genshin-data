@@ -1,0 +1,21 @@
+{
+  "_id": 310001,
+  "id": "serpent_devourer",
+  "name": "Devoraserpientes",
+  "description": "Un espléndido miraje de espada ligera procedente de las profundidades de las líneas ley. Puede cambiar según el tipo elemental de su portador. Dicen que el nombre de esta espada ligera era “Logseims” cuando aún pertenecía a la pecadora dorada de un antiguo reino.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Espada ligera"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "Ilusión resplandeciente: Trascendencia",
+    "priority": 1
+  },
+  "item_id": 341101,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphVinces_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphVinces"
+}

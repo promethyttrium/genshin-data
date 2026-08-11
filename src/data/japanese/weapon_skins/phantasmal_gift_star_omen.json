@@ -1,0 +1,16 @@
+{
+  "_id": 380001,
+  "id": "phantasmal_gift_star_omen",
+  "name": "幻のギフト・スターオーメン",
+  "description": "「原理的に言えば、この世のあらゆる事象は『像』と呼ぶことができる。したがって、水晶玉に映る『像』も、ある意味では物質的実在の延長と言える。とにかく、たとえアリスとニコが認めなくとも、水占の正統性は確かなものだよ！」",
+  "rarity": 4,
+  "type": {
+    "id": "Catalyst",
+    "name": "法器"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341801,
+  "icon_path": "UI_EquipIcon_Catalyst_Kristall",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_Kristall"
+}

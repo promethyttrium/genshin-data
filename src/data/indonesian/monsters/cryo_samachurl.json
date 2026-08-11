@@ -15,14 +15,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Suku Hilichurl",
   "filename_icon": "UI_MonsterIcon_Shaman_Ice_01",
   "description": "Hilichurl yang keriput dan sering komat-kamit, pemanggil Cryo.\\nHilichurl yang sangat berbakat menguasai elemen ini sering kali akan mencapai puncak kesaktiannya kala memasuki usia senja. Para penyihir ini hafal akan nyanyian dingin dan bahkan terampil dalam seni menggunakannya untuk menjebak musuh mereka.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01",
   "description": "Un Tirailleur robuste armé d'un marteau de guerre au pouvoir Électro.\\nLes soldats Fatui ont accès à d'innombrables ressources : salaires élevés, armes, ravitaillements.\\nMais en contrepartie, ils doivent passer le plus clair de leur temps loin de chez eux et de leur famille, et remettre leur vie entre les mains d'inconnus.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

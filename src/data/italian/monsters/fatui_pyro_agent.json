@@ -44,7 +44,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Fire_01",
   "description": "Un agente segreto dei Fatui.\\nIl dovere di un Agente dei Fatui è saldare i debiti, non solo quelli di natura monetaria o di beni in natura.\\nSi assicurano anche che i pagamenti dei debiti vengano riscossi tramite la \"legge dell'occhio per occhio\". Se c'è una cosa per cui i Fatui non sono famosi è la clemenza: chiunque osi opporsi a loro, dovrà subirne l'ira.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

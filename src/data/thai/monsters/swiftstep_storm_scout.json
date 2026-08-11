@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Warrior's Metal Whistle",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Sentry's Wooden Whistle",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "กองกำลังของมนุษย์อื่น ๆ",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Hookwalker",
   "description": "ผู้กล้าจากพงศ์พิดานพฤกษา และผู้พิทักษ์ชนเผ่าที่ลาดตระเวนอยู่ระหว่างป่าและหุบเขา\\nว่ากันว่าเมื่อชนเผ่าที่ใช้ดาบต้องฝึกฝนทักษะการต่อสู้ของพวกเขา พวกเขาจะต้องยืนใต้ต้นไม้ และต้องฟันใบไม้ที่ร่วงหล่นลงมาในหนึ่งวันทั้งหมด แต่ความจริงนั้นการโจมตีของเหล่าผู้ส่งสารมักจะเกิดขึ้นอย่างเงียบเชียบอยู่แล้ว เช่นเดียวกับใบไม้ที่ร่วงหล่นลงมาอย่างไร้เสียง",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

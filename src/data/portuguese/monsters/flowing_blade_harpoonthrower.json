@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Apito de Metal do Guerreiro",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Apito de Madeira do Sentinela",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Human_Fat_NoWeapon_Mosasaurus",
   "description": "Um guerreiro das fontes termais e guardião tribal que patrulha águas e costas.\\nSubestime as incríveis habilidades que esses corajosos guerreiros que empunham tridentes ganharam em caças e pesca por sua própria conta e risco. Dizem que no passado, pessoas da tribo usavam essas habilidades para caçar feras marinhas enormes com nadadeiras e escamas tão duras quanto aço.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

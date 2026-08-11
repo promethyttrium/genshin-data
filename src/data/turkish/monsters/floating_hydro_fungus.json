@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Fungus_Un_Gamma_Water",
   "description": "Bir miktar zekaya sahip olan bir spor organizması. Çok uyumlu bir canlıdır.\\nTadının çok kötü olduğu söylenir. Öte yandan bu mantar türünün içinde bolca su bulunduğu için acil su kaynağı olarak kullanılabilir...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

@@ -13,7 +13,6 @@
   "categoryText": "Der Abgrund",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_02",
   "description": "Eine seltsame Kreatur, die hauptsächlich in Elynas vorkommt.\\nOusia und Pneuma-Energie scheinen eine hochgradig stimulierende Wirkung auf den Rissprimus zu haben. Deshalb kann der Rissprimus mit diesem relativ unaggressiven und nicht invasiven Mittel vertrieben werden.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

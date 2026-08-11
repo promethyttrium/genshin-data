@@ -1,0 +1,40 @@
+{
+  "_id": 25137001,
+  "id": "rugged_elder_leshy",
+  "monsterId": 25137006,
+  "name": "苍遒的木灵长",
+  "specialNames": [
+    "幼嫩的分节树"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "异种魔兽",
+  "filename_icon": "UI_MonsterIcon_Leshy_Mature_01",
+  "description": "生长在林野之中的树妖。\\n只有残缺灵智亦无法开口的树妖，看上去就如同黄金国的工匠们早期实验的结果。但是恰恰相反，根据记载，他们在几乎已经完全掌握了生命的权能后，才造出了这一种族的妖精。\\n或许其中包含着现在的妖精与人无法参透的真意吧。",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.3,
+      "hydro": 0.1,
+      "geo": 0.3,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 21.945072,
+      "attack": 94.62242,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "キャラカード",
     "energy": 2,
+    "element": "氷元素",
+    "weapon": "他の武器",
     "faction": [
-      null
+      "魔物"
     ],
     "source": "キャッツテールのリトルプリンスのところで酒場挑戦を行い、「迷える霊覚の修験者」に挑戦して友好対戦に勝利することで獲得"
   },
@@ -18,8 +20,10 @@
     {
       "id": "spiritspeaking_frost_star",
       "name": "霊覚・寒星",
-      "desc": "?を?与える。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#99FFFFFF\">氷元素ダメージ</span>を1与える。",
+      "skillTag": [
+        "通常攻撃"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -38,8 +42,10 @@
     {
       "id": "radiance_in_flux",
       "name": "千変万化の色彩",
-      "desc": "?を?与え、<span style=\"color:#FFFFFFFF\">色彩</span>1枚を山札の3枚目の位置に加え、ランダムな<span style=\"color:#FFFFFFFF\">色彩</span>の強化効果3つの中から1つを<span style=\"color:#FFFFFFFF\">選択</span>する。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#99FFFFFF\">氷元素ダメージ</span>を1与え、<span style=\"color:#FFFFFFFF\">色彩</span>1枚を山札の3枚目の位置に加える。この対局において、このスキルを使用する最初の4回では、ランダムな<span style=\"color:#FFFFFFFF\">色彩</span>の強化効果3つの中から1つを<span style=\"color:#FFFFFFFF\">選択</span>する。",
+      "skillTag": [
+        "元素スキル"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -52,8 +58,10 @@
     {
       "id": "chilling_illustration",
       "name": "極寒の絵巻",
-      "desc": "?を?与え、<span style=\"color:#FFFFFFFF\">色彩</span>を1枚手札に加える。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#99FFFFFF\">氷元素ダメージ</span>を4与え、<span style=\"color:#FFFFFFFF\">色彩</span>を1枚手札に加える。",
+      "skillTag": [
+        "元素爆発"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -73,7 +81,9 @@
       "id": "iridescent_silhouette",
       "name": "絢爛の影",
       "desc": "【固有】戦闘開始時、<span style=\"color:#FFFFFFFF\">色彩</span>を3枚生成し、均等に山札に配置する。",
-      "skillTag": [],
+      "skillTag": [
+        "固有スキル"
+      ],
       "points": []
     }
   ]

@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Engrenage à coupe droite",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Engrenage de maillage",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automates",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Bradamante",
   "description": "Bien que l'Institut de recherche d'ingénierie cinétique de Fontaine soit la principale organisation impliquée dans la recherche et la conception de machines horlogoïdes, il existe également de nombreux ingénieurs et ateliers indépendants qui ne sont pas affiliés à l'Institut.\\nLa toute première machine de ce type a été conçue par un ingénieur indépendant en mémoire de son amante et mécène. Au final, elle a été acquise par la Maison Gardiennage pour servir d'outil de maintien de la sécurité municipale... Ou, aux yeux de certains, d'arme de violence publique...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 3,
   "stats": {

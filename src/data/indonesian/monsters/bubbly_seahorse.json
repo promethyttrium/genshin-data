@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Larva_03",
   "description": "Hewan air yang berburu dengan menembakkan bom air.\\nDi kalangan kecil pecinta Fontemer Aberrant, Bubbly Seahorse punya cukup banyak penggemar. Tentu saja, penggemar Fontemer Aberrant sama dengan penggemar mekanisme roda gigi, dan segmentasi yang timbul di antara kelompok yang satu terhadap kelompok yang satunya lagi sangatlah agresif.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 5.34,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

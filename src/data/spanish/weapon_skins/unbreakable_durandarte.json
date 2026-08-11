@@ -1,0 +1,16 @@
+{
+  "_id": 390001,
+  "id": "unbreakable_durandarte",
+  "name": "Durandal, la Indestructible",
+  "description": "Un miraje de espada que se manifestó desde las profundidades de las líneas ley. Dicen que el nombre de esta espada era “Durandal” cuando aún pertenecía a un caballero blanco puro.\\nEn una lengua antigua, su nombre significa “hoja que jamás será dañada”. Al igual que la espada que portaba, el camino en el que el caballero creía nunca se torció, sin importar cuán profundamente se tiñera de negro el acero que una vez fue de un color blanco puro.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Mandoble"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341901,
+  "icon_path": "UI_EquipIcon_Claymore_VarkaTunkeldegen",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_VarkaTunkeldegen"
+}

@@ -1,0 +1,333 @@
+{
+  "_id": 11520,
+  "id": "whitelake_frostfeather",
+  "name": "Plume hivernale du lac blanc",
+  "description": "Une légère épée longue comme les plumes d'un cygne des neiges, et qui demeure en tout temps pure et immaculée.",
+  "rarity": 5,
+  "type": {
+    "id": "Sword",
+    "name": "Épée à une main"
+  },
+  "domain": "Donjon de la maîtrise : Cicatrice d'une obsession maudite",
+  "passive": "Final du cygne des neiges",
+  "bonus": "Lorsque le personnage équipé de l'arme touche un ennemi avec une compétence élémentaire, il obtient l'effet Lamentation lacustre : augmente l'ATQ de <span>8 %/10 %/12 %/14 %/16 %</span> pendant 8 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,1 s, la durée de chaque cumul étant calculée de façon indépendante. Avec 3 cumuls, les DGT CRIT des réactions astrales déclenchées par le personnage équipé de l'arme augmentent de <span>50 %/65 %/80 %/95 %/110 %</span> et il récupère <span>4/4,5/5/5,5/6</span> pts d'énergie élémentaire lorsqu'il déclenche une réaction astrale ou inflige des DGT avec une réaction astrale, cette récupération d'énergie élémentaire pouvant être déclenchée une fois toutes les 3,5 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+  "specialProp": "Taux CRIT",
+  "stats": {
+    "primary": "ATQ de base",
+    "secondary": "Taux CRIT",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 48,
+        "secondary": 4.8
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 133,
+        "secondary": 8.5
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 164,
+        "secondary": 8.5
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 261,
+        "secondary": 12.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 292,
+        "secondary": 12.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 341,
+        "secondary": 14.3
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 373,
+        "secondary": 14.3
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 423,
+        "secondary": 16.2
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 455,
+        "secondary": 16.2
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 506,
+        "secondary": 18.2
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 537,
+        "secondary": 18.2
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 590,
+        "secondary": 20.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 621,
+        "secondary": 20.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 674,
+        "secondary": 22.1
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 10000,
+      "materials": [
+        {
+          "_id": 114089,
+          "id": "measured_pour_of_the_cellared_spiritual_nectar",
+          "name": "Versement mesuré de nectar spirituel en cave",
+          "amount": 5,
+          "rarity": 2
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "Racine creuse de vie",
+          "amount": 5,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Graine chimérique",
+          "amount": 3,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114090,
+          "id": "intoxication_of_the_cellared_spiritual_nectar",
+          "name": "Ébriété de nectar spirituel en cave",
+          "amount": 5,
+          "rarity": 3
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "Racine creuse de vie",
+          "amount": 18,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Graine chimérique",
+          "amount": 12,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114090,
+          "id": "intoxication_of_the_cellared_spiritual_nectar",
+          "name": "Ébriété de nectar spirituel en cave",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "Bourgeon de vie",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Noyau chimérique",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114091,
+          "id": "exhilaration_of_the_cellared_spiritual_nectar",
+          "name": "Ivresse de nectar spirituel en cave",
+          "amount": 5,
+          "rarity": 4
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "Bourgeon de vie",
+          "amount": 18,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Noyau chimérique",
+          "amount": 14,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 55000,
+      "materials": [
+        {
+          "_id": 114091,
+          "id": "exhilaration_of_the_cellared_spiritual_nectar",
+          "name": "Ivresse de nectar spirituel en cave",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "Noyau de vie",
+          "amount": 14,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Cœur chimérique",
+          "amount": 9,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 65000,
+      "materials": [
+        {
+          "_id": 114092,
+          "id": "revelry_of_the_cellared_spiritual_nectar",
+          "name": "Rêverie de nectar spirituel en cave",
+          "amount": 6,
+          "rarity": 5
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "Noyau de vie",
+          "amount": 27,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Cœur chimérique",
+          "amount": 18,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "Final du cygne des neiges",
+    "template": "Lorsque le personnage équipé de l'arme touche un ennemi avec une compétence élémentaire, il obtient l'effet Lamentation lacustre : augmente l'ATQ de <span style=\"color:#99FFFFFF\">{0}</span> pendant 8 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,1 s, la durée de chaque cumul étant calculée de façon indépendante. Avec 3 cumuls, les DGT CRIT des réactions astrales déclenchées par le personnage équipé de l'arme augmentent de <span style=\"color:#99FFFFFF\">{1}</span> et il récupère <span style=\"color:#99FFFFFF\">{2}</span> pts d'énergie élémentaire lorsqu'il déclenche une réaction astrale ou inflige des DGT avec une réaction astrale, cette récupération d'énergie élémentaire pouvant être déclenchée une fois toutes les 3,5 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+    "params": [
+      [
+        "8 %",
+        "50 %",
+        "4"
+      ],
+      [
+        "10 %",
+        "65 %",
+        "4,5"
+      ],
+      [
+        "12 %",
+        "80 %",
+        "5"
+      ],
+      [
+        "14 %",
+        "95 %",
+        "5,5"
+      ],
+      [
+        "16 %",
+        "110 %",
+        "6"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "Lorsque le personnage équipé de l'arme touche un ennemi avec une compétence élémentaire, il obtient l'effet Lamentation lacustre : augmente l'ATQ de <span>8 %</span> pendant 8 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,1 s, la durée de chaque cumul étant calculée de façon indépendante. Avec 3 cumuls, les DGT CRIT des réactions astrales déclenchées par le personnage équipé de l'arme augmentent de <span>50 %</span> et il récupère <span>4</span> pts d'énergie élémentaire lorsqu'il déclenche une réaction astrale ou inflige des DGT avec une réaction astrale, cette récupération d'énergie élémentaire pouvant être déclenchée une fois toutes les 3,5 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
+    },
+    {
+      "refinement": 2,
+      "desc": "Lorsque le personnage équipé de l'arme touche un ennemi avec une compétence élémentaire, il obtient l'effet Lamentation lacustre : augmente l'ATQ de <span>10 %</span> pendant 8 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,1 s, la durée de chaque cumul étant calculée de façon indépendante. Avec 3 cumuls, les DGT CRIT des réactions astrales déclenchées par le personnage équipé de l'arme augmentent de <span>65 %</span> et il récupère <span>4,5</span> pts d'énergie élémentaire lorsqu'il déclenche une réaction astrale ou inflige des DGT avec une réaction astrale, cette récupération d'énergie élémentaire pouvant être déclenchée une fois toutes les 3,5 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
+    },
+    {
+      "refinement": 3,
+      "desc": "Lorsque le personnage équipé de l'arme touche un ennemi avec une compétence élémentaire, il obtient l'effet Lamentation lacustre : augmente l'ATQ de <span>12 %</span> pendant 8 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,1 s, la durée de chaque cumul étant calculée de façon indépendante. Avec 3 cumuls, les DGT CRIT des réactions astrales déclenchées par le personnage équipé de l'arme augmentent de <span>80 %</span> et il récupère <span>5</span> pts d'énergie élémentaire lorsqu'il déclenche une réaction astrale ou inflige des DGT avec une réaction astrale, cette récupération d'énergie élémentaire pouvant être déclenchée une fois toutes les 3,5 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
+    },
+    {
+      "refinement": 4,
+      "desc": "Lorsque le personnage équipé de l'arme touche un ennemi avec une compétence élémentaire, il obtient l'effet Lamentation lacustre : augmente l'ATQ de <span>14 %</span> pendant 8 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,1 s, la durée de chaque cumul étant calculée de façon indépendante. Avec 3 cumuls, les DGT CRIT des réactions astrales déclenchées par le personnage équipé de l'arme augmentent de <span>95 %</span> et il récupère <span>5,5</span> pts d'énergie élémentaire lorsqu'il déclenche une réaction astrale ou inflige des DGT avec une réaction astrale, cette récupération d'énergie élémentaire pouvant être déclenchée une fois toutes les 3,5 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
+    },
+    {
+      "refinement": 5,
+      "desc": "Lorsque le personnage équipé de l'arme touche un ennemi avec une compétence élémentaire, il obtient l'effet Lamentation lacustre : augmente l'ATQ de <span>16 %</span> pendant 8 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,1 s, la durée de chaque cumul étant calculée de façon indépendante. Avec 3 cumuls, les DGT CRIT des réactions astrales déclenchées par le personnage équipé de l'arme augmentent de <span>110 %</span> et il récupère <span>6</span> pts d'énergie élémentaire lorsqu'il déclenche une réaction astrale ou inflige des DGT avec une réaction astrale, cette récupération d'énergie élémentaire pouvant être déclenchée une fois toutes les 3,5 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "_id": 320003,
+  "id": "silver_radiance_of_gradlon",
+  "name": "Silver Radiance of Gradlon",
+  "description": "Wujud senjata bercahaya yang muncul dari kedalaman Ley Line ini mampu berubah bentuk sesuai jenis elemen pemiliknya. Konon, pada zaman kuno yang kini sudah tak bisa lagi dikenang, utusan langit pernah menghadiahkan pedang panjang ini kepada Penghulu Utama Ys, mengizinkannya memimpin pelabuhan yang subur dengan air dan rerumputan.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Claymore"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "Radiant Metamorphosis: Eternity",
+    "priority": 2
+  },
+  "item_id": 341203,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Claymore_MorphGradlon_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_MorphGradlon"
+}

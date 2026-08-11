@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Catalyst",
     "faction": [
-      null
+      "Natlan"
     ],
     "talent_card": {
       "_id": 8981,
@@ -29,8 +31,10 @@
     {
       "id": "rite_of_dispelling_winds",
       "name": "Rite of Dispelling Winds",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#80FFD7FF\">Anemo DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,22 +53,26 @@
     {
       "id": "airborne_disease_prevention",
       "name": "Airborne Disease Prevention",
-      "desc": "Mengakibatkan ? poin ?, diri sendiri memasuki <span style=\"color:#FFFFFFFF\">Nightsoul's Blessing</span>, mendapatkan 2 <span style=\"color:#FFFFFFFF\">\"poin Nightsoul\"</span>, dan terpengaruh <span style=\"color:#FFFFFFFF\">Cacucu</span>. (Setelah Karakter memasuki <span style=\"color:#FFFFFFFF\">Nightsoul's Blessing</span>, Skill ini tidak dapat digunakan)<br/>(Karakter yang terpengaruh <span style=\"color:#FFFFFFFF\">Cacucu</span> bisa menggunakan Teknik: <span style=\"color:#FFFFFFFF\">Supporting Fire</span>)",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#80FFD7FF\">Anemo DMG</span>, diri sendiri memasuki <span style=\"color:#FFFFFFFF\">Nightsoul's Blessing</span>, mendapatkan 2 <span style=\"color:#FFFFFFFF\">\"poin Nightsoul\"</span>, dan terpengaruh <span style=\"color:#FFFFFFFF\">Cacucu</span>. (Setelah Karakter memasuki <span style=\"color:#FFFFFFFF\">Nightsoul's Blessing</span>, Skill ini tidak dapat digunakan)<br/>(Karakter yang terpengaruh <span style=\"color:#FFFFFFFF\">Cacucu</span> bisa menggunakan Teknik: <span style=\"color:#FFFFFFFF\">Supporting Fire</span>)",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1105,
           "id": "anemo",
           "type": "Anemo",
-          "count": 2
+          "count": 3
         }
       ]
     },
     {
       "id": "compound_sedation_field",
       "name": "Compound Sedation Field",
-      "desc": "Mengakibatkan ? poin ? dan memulihkan 2 poin HP Karakter yang menerima DMG terbanyak. Jika Skill ini memicu <span style=\"color:#80FFD7FF\">Reaksi Terkait Anemo</span>, maka Karakter aktif lawan akan terpengaruh <span style=\"color:#FFFFFFFF\">Sedation Mark</span> sesuai dengan elemen yang bersangkutan.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#80FFD7FF\">Anemo DMG</span> dan memulihkan 2 poin HP Karakter yang menerima DMG terbanyak. Jika Skill ini memicu <span style=\"color:#80FFD7FF\">Reaksi Terkait Anemo</span>, maka Karakter aktif lawan akan terpengaruh <span style=\"color:#FFFFFFFF\">Sedation Mark</span> sesuai dengan elemen yang bersangkutan.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1105,

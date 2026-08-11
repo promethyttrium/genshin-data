@@ -1,0 +1,29 @@
+{
+  "_id": 114091,
+  "id": "exhilaration_of_the_cellared_spiritual_nectar",
+  "name": "Ivresse de nectar spirituel en cave",
+  "description": "La légende raconte qu'il y a fort longtemps, d'innombrables tonneaux de vin fin furent déversés dans un lac gelé.<br/>Certains disent que ce vin était destiné à constituer des provisions de guerre, qui durent être détruites suite à un incident. D'autres prétendent qu'un certain grand-duc domovoy avait perdu un pari contre le seigneur des diableautins.<br/>Ce n'est que lorsque des flammes azurées infernales et inextinguibles se répandirent sur le lac, et que les ennemis en contrebas se tordirent dans des vagues suffocantes, qu'ils comprirent...<br/>Entre les mains de ceux qui connaissent bien les lois de l'univers, l'eau elle-même pouvait brûler, et même le nectar le plus doux pouvait se révéler plus mortel que le poison.",
+  "source": [
+    "Emplacement réservé - Quantité synthétisable : {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114090,
+        "id": "intoxication_of_the_cellared_spiritual_nectar",
+        "name": "Ébriété de nectar spirituel en cave",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Donjon de la maîtrise : Cicatrice d'une obsession maudite",
+  "days": [
+    "Mardi",
+    "Vendredi",
+    "Dimanche"
+  ]
+}

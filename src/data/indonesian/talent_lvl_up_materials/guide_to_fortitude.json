@@ -1,0 +1,30 @@
+{
+  "_id": 104369,
+  "id": "guide_to_fortitude",
+  "name": "Guide to Fortitude",
+  "description": "Material Penguatan Talenta.\\n\"Ketabahan\" adalah kepribadian bangsa es.\\nKetabahan membawa kehendak untuk tumbuh. Meski badai dingin melanda, benih yang lemah sekalipun mampu menembus tanah dengan kehendak ini, menumbuhkan tunas baru di atas bumi yang tertutup salju dan angin.",
+  "source": [
+    "Placeholder - Jumlah yang Bisa Di-Craft: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104368,
+        "id": "teachings_of_fortitude",
+        "name": "Teachings of Fortitude",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domain of Mastery: Pengasingan IV",
+  "domainId": "domain_of_mastery_hermitage_iv",
+  "days": [
+    "Selasa",
+    "Jumat",
+    "Minggu"
+  ]
+}

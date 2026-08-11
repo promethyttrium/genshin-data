@@ -1,0 +1,29 @@
+{
+  "_id": 114092,
+  "id": "revelry_of_the_cellared_spiritual_nectar",
+  "name": "Phóng Khoáng Của Tinh Chất Ủ Hầm",
+  "description": "Đối với đại công tước của các Domovoy nắm quyền khai thác Kristall và khai khẩn vùng đất đóng băng, việc mở ra một ốc đảo ở vùng địa cực âu cũng chỉ là chuyện nhỏ. Và chuyện mang giống Lúa Mạch Đen chất lượng tốt hơn từ nơi khác về trồng cũng không phải chuyện khó khăn gì.<br/>Trong số vô vàn quý tộc fae còn tồn tại ở Snezhnaya cho đến ngày nay, địa vị mà người này sở hữu cũng hiển hách đến mức không gì sánh kịp.<br/>Thế nhưng, ngọn lửa dã tâm ngày càng bùng cháy cứ thế chảy dọc xuống theo cuống họng, lòng tham của fae cổ xưa cũng lớn dần theo năm tháng mà không có điểm dừng.",
+  "source": [
+    "Số lượng có thể ghép - chiếm chỗ: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114091,
+        "id": "exhilaration_of_the_cellared_spiritual_nectar",
+        "name": "Sảng Khoái Của Tinh Chất Ủ Hầm",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Bí Cảnh Luyện Võ: Vết Sẹo Vọng Tưởng",
+  "days": [
+    "Thứ 3",
+    "Thứ 6",
+    "Chủ Nhật"
+  ]
+}

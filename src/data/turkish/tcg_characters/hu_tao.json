@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Karakter Kartı",
     "energy": 3,
+    "element": "Ateş",
+    "weapon": "Mızrak",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3848,
@@ -29,8 +31,10 @@
     {
       "id": "secret_spear_of_wangsheng",
       "name": "Wangsheng'in Gizli Mızrağı",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,7 +54,9 @@
       "id": "guide_to_afterlife",
       "name": "Öbür Dünya Rehberi",
       "desc": "Bu karakter <span style=\"color:#FFFFFFFF\">Ölüm Kelebeğinin Dansı</span> kazanır.",
-      "skillTag": [],
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "spirit_soother",
       "name": "Ruh Terbiyecisi",
-      "desc": "? ? verir ve kendine 2 Can yeniler. Bu karakterin Canı 6'dan fazla değilse verilen Hasar ve yenilenen Can 1 artar.",
-      "skillTag": [],
+      "desc": "4 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir ve kendine 2 Can yeniler. Bu karakterin Canı 6'dan fazla değilse verilen Hasar ve yenilenen Can 1 artar.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1103,

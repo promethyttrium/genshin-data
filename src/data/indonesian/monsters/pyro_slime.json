@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Makhluk Elemental",
   "filename_icon": "UI_MonsterIcon_Slime_Fire_02",
   "description": "Monster kecil yang tercipta dari sedimentasi Pyro yang tersebar di alam liar.\\nKecerdasannya sangat mendasar, tetapi tampaknya punya kegunaan yang luas — yah, setidaknya bagi para Hilichurl.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Slime_Water_02",
   "description": "逸散在自然之中的水元素沉積形成的小小魔物。\\n傳說中，有的人會將水史萊姆當作應急用水，在去往水源難尋的乾旱地帶、深邃的秘境之前儲備好水史萊姆。但因為濃厚的水元素，直飲史萊姆其實對人體有害。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01",
   "description": "Skirmisher yang bertubuh kekar dan dipersenjatai dengan palu berelemen Electro.\\nSebagai seorang prajurit Fatui, mereka memiliki akses ke sumber daya yang luar biasa: gaji, persenjataan, dan persediaan yang mencukupi.\\nTapi di saat yang sama, mereka juga harus jauh dari keluarga dan menyerahkan hidupnya kepada rekan-rekan yang tidak pernah mereka kenal sebelumnya.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

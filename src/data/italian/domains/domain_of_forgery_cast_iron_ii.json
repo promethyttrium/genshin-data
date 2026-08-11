@@ -1,0 +1,58 @@
+{
+  "_id": 4708,
+  "id": "domain_of_forgery_cast_iron_ii",
+  "name": "Dominio della forgiatura: Ghisa II",
+  "entranceId": 2106,
+  "entranceName": "Cicatrici di un'ossessione maledetta",
+  "description": "Un tempo fungeva da rifugio segreto per i ribelli che sognavano di tornare al vecchio ordine. Le loro illusioni sono morte con il fuoco cremisi, lasciando solo un infinito cumulo di cenere.\nSconfiggi gli avversari che si aggirano in questo luogo per ottenere oggetti con cui potenziare il tuo equipaggiamento.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 36,
+  "unlockRank": 21,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "Anemo",
+    "Cryo"
+  ],
+  "daysOfWeek": [
+    "Lunedì",
+    "Giovedì",
+    "Domenica"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "ESP avventura",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "1550"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "ESP affinità",
+      "count": "15"
+    },
+    {
+      "_id": 114086,
+      "id": "muster_of_the_pale_star_army",
+      "name": "Adunata dell'esercito della Candida Stella"
+    },
+    {
+      "_id": 114085,
+      "id": "rise_of_the_pale_star_army",
+      "name": "Ascesa dell'esercito della Candida Stella"
+    }
+  ],
+  "monsterList": []
+}

@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Larva_03",
   "description": "透過發射水彈來狩獵的水生動物。\\n在（為數不多的）原海異種動物愛好者當中，泡泡海馬有著相當多的愛好者。當然，原海異種愛好者和發條機關愛好者一樣，當中的細分群體對其他群體有很強的攻擊性。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 5.34,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

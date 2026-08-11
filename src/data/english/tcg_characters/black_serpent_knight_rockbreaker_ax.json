@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Geo",
+    "weapon": "Other Weapons",
     "faction": [
-      null
+      "Monster"
     ],
     "talent_card": {
       "_id": 9077,
@@ -27,8 +29,10 @@
     {
       "id": "supreme_strike",
       "name": "Supreme Strike",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -47,8 +51,10 @@
     {
       "id": "axe_and_aegis",
       "name": "Axe and Aegis",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 3 <span style=\"color:#FFE699FF\">Geo DMG</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -62,7 +68,9 @@
       "id": "stone_stance",
       "name": "Stone Stance",
       "desc": "Perform <span style=\"color:#FFFFFFFF\"><span style=\"color:#FFE699FF\">Geo Application</span></span> on self and prepares the Skill <span style=\"color:#FFFFFFFF\">Greataxe Strike</span>, then prepares the Skill <span style=\"color:#FFFFFFFF\">Master's Strike</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -82,7 +90,9 @@
       "id": "attacking_momentum",
       "name": "Attacking Momentum",
       "desc": "(Passive) If the opponent has <span style=\"color:#FFFFFFFF\">Damage Negation</span> or <span style=\"color:#FFFFFFFF\">Shield</span> Status on their side of the field, or they have <span style=\"color:#FFFFFFFF\">Damage Negation</span> or <span style=\"color:#FFFFFFFF\">Shield</span> Combat Status, attach 1 stack of <span style=\"color:#FFFFFFFF\">Might of Stone</span> to self after your character uses a Skill.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

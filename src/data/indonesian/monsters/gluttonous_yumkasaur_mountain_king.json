@@ -1,7 +1,7 @@
 {
   "_id": 26220301,
   "id": "gluttonous_yumkasaur_mountain_king",
-  "monsterId": 26220303,
+  "monsterId": 84622032,
   "name": "Gluttonous Yumkasaurus Mountain King",
   "specialNames": [
     "Penguasa Gunung"
@@ -15,7 +15,7 @@
   "description": "Yumkasaurus tangguh yang telah bertahan hidup selama berabad-abad dan telah melewati banyak pertempuran.\\nSang \"Raja Gunung\" yang pernah bertarung melawan Black Tide bersama para pahlawan dalam sejarah ini memiliki tempat khusus di hati suku Tirai Daun. Beberapa anggota suku percaya bahwa bentuk Yumkasaurus menjadi seperti sekarang ini karena mereka memiliki fisiologi yang spesial, seperti Qucusaurus \"Tyrant\". Pada faktanya, ini hanya karena mereka dapat hidup hingga lama sekali dan mereka makan hingga banyak sekali.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 7,
-  "budget": 1,
+  "budget": 2,
   "stats": {
     "resistance": {
       "physical": 0.1,

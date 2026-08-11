@@ -157,7 +157,6 @@
   "categoryText": "Nemici importanti",
   "filename_icon": "UI_MonsterIcon_Nihil",
   "description": "La Fantesca, la quarta dei Messaggeri dei Fatui.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

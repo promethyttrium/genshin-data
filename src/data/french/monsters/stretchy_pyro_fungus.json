@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Alpha_Fire",
   "description": "Une spore dotée d'un certain degré d'intelligence qui possède une excellente capacité d'adaptation à son environnement.\\nBien qu'à première vue, elle semble sur le point d'exploser, cette créature est extrêmement douce. Elle ne représente aucun danger à condition de garder une distance de sécurité...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

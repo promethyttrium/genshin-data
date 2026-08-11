@@ -1,7 +1,7 @@
 {
   "_id": 20080201,
   "id": "tangled_vines_frostnight_scion",
-  "monsterId": 20080202,
+  "monsterId": 84008022,
   "name": "Sucesor Nochescarcha - Enredadera",
   "specialNames": [
     "Enredadera"
@@ -13,9 +13,8 @@
   "categoryText": "Seres elementales",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Grass",
   "description": "Un hermoso y grácil ser elemental que posee una gran afinidad con los elementos. Evolucionó hasta tener este aspecto tras exponerse a altas concentraciones del elemento Dendro durante muchos años.\\nTiene una increíble resonancia con la vegetación de las arboledas. Se dice que una Cantalunas del pasado hizo un pacto con los bosques gracias a la ayuda de estos seres, con lo cual pudo entablar una relación amistosa con las demás criaturas de esta tierra.\\nSegún las letanías del Lejano Norte que han sobrevivido hasta hoy en día, se trata de una criatura nacida de las bendiciones de la Luna Escarchada, un símbolo de la pureza de la fuente primigenia y del fulgor original. Tal vez esa sea la razón por la que rechazan a todo ser que se les acerca demasiado: porque no pueden soportar que su pureza se manche con los siete colores de la luz celeste.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

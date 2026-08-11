@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 3,
+    "element": "Pyro",
+    "weapon": "Claymore",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 9076,
@@ -29,8 +31,10 @@
     {
       "id": "stellar_rend",
       "name": "Stellar Rend",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,8 +53,10 @@
     {
       "id": "bestial_ascent",
       "name": "Bestial Ascent",
-      "desc": "Mengakibatkan ? poin ?, memberikan <span style=\"color:#FFFFFFFF\">Wushou Arts</span> kepada diri sendiri, dan mengganti Karaktermu ke Karakter selanjutnya.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#FF9999FF\">Pyro DMG</span>, memberikan <span style=\"color:#FFFFFFFF\">Wushou Arts</span> kepada diri sendiri, dan mengganti Karaktermu ke Karakter selanjutnya.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "suannis_gilded_dance",
       "name": "Suanni's Gilded Dance",
-      "desc": "Mengakibatkan ? poin ? dan memberikan <span style=\"color:#FFFFFFFF\">Suanni: Man Chai</span> kepada diri sendiri.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#FF9999FF\">Pyro DMG</span> dan memberikan <span style=\"color:#FFFFFFFF\">Suanni: Man Chai</span> kepada diri sendiri.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1103,

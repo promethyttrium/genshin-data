@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Character Card",
     "energy": 3,
+    "element": "Electro",
+    "weapon": "Claymore",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3459,
@@ -29,8 +31,10 @@
     {
       "id": "oceanborne",
       "name": "Oceanborne",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,7 +54,9 @@
       "id": "tidecaller",
       "name": "Tidecaller",
       "desc": "This character gains a <span style=\"color:#FFFFFFFF\">Tidecaller: Surf Embrace</span>. <span style=\"color:#FFFFFFFF\">Prepare Skill</span>: <span style=\"color:#FFFFFFFF\">Wavestrider</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "stormbreaker",
       "name": "Stormbreaker",
-      "desc": "Deals ? ?, creates 1 <span style=\"color:#FFFFFFFF\">Thunderbeast's Targe</span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#FFACFFFF\">Electro DMG</span>, creates 1 <span style=\"color:#FFFFFFFF\">Thunderbeast's Targe</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1104,

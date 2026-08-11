@@ -1,0 +1,18 @@
+{
+  "_id": 104371,
+  "id": "teachings_of_glory",
+  "name": "Lehren des „Ruhms“",
+  "description": "Material zur Verbesserung von Talenten.\\n„Ruhm“ ist der Glaube des Reiches des Eises.\\nRuhm ist ein Funke, der tief unter dem Permafrost begraben liegt. Wer seine Gestalt nachzuzeichnen vermag, erlangt auch den Mut, der bitteren Kälte zu trotzen.",
+  "source": [
+    "Bei Geschenkhändler einzutauschen"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Sphäre des Verständnisses: Gemeinsame Betrachtung IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Mittwoch",
+    "Samstag",
+    "Sonntag"
+  ]
+}

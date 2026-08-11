@@ -23,6 +23,11 @@
       "name": "Meat-Filled Rye Bun"
     },
     {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "Glupov Rye Bread"
+    },
+    {
       "_id": 3607,
       "id": "lakkaberry_pie",
       "name": "Lakkaberry Pie"
@@ -35,6 +40,5 @@
   ],
   "source": [
     "Processed"
-  ],
-  "rarity": 0
+  ]
 }

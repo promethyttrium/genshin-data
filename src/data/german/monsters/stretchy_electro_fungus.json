@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Delta_Electric",
   "description": "Sporengeschöpf mit einer gewissen Intelligenz. Hat eine starke Fähigkeit zur Anpassung an die Umwelt.\\nAnders als andere Pilzbestien wächst dieser Spezies abgesehen vom Hut noch ein leuchtender Fühler. Wenn sie in Gefahr gerät, gibt sie kleine Blitzkugeln ab, um sich zu verteidigen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

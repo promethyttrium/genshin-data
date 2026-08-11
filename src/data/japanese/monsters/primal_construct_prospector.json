@@ -13,7 +13,6 @@
   "categoryText": "自律装置",
   "filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
   "description": "失われた砂漠の古代遺跡を守りし者。君王の清き夢を邪魔する者を、罰することの出来る力を持っている。\\n夢の楽園を作るため、砂海の主はかつて、禁忌の知識を探求した。この謎の機械はまさにその知識の産物。\\n今、「楽園」はとうに消え去り、機械に刻まれたマントラだけが、世界に忘れ去られた夢と約束を記録している。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

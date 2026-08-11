@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Прочие человеческие фракции",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Launcher_Hookwalker",
   "description": "Могучая воительница каньона, получившая признание за свою храбрость, была награждена заврианской короной.\\nЭта воительница использует крюк-кошку для увеличения дальности атаки. Соединив сложные механизмы, они могут стрелять из ручной пушки, используя крюк-кошку. Для коронованных заврианами воинов Потомков Крон совершенствование навыков и мышления важнее тренировки духа и воли.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

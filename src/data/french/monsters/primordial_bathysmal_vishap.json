@@ -25,19 +25,19 @@
       "_id": 112043,
       "id": "fossilized_bone_shard",
       "name": "Fragment d'os fossilisé",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112042,
       "id": "sturdy_bone_shard",
       "name": "Fragment d'os solide",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112041,
       "id": "fragile_bone_shard",
       "name": "Fragment d'os fragile",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Drake_Deepsea_Water",
   "description": "Un Élémentosaure qui habite dans les profondeurs océaniques.\\nIls étaient autrefois la race dominante des profondeurs. À une époque encore plus lointaine, les dragons étaient les seigneurs du monde. Mais leurs sept souverains ont été vaincus par une puissance céleste et se sont éteints les uns après les autres.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

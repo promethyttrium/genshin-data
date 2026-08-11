@@ -1,0 +1,18 @@
+{
+  "_id": 200909,
+  "id": "scepter_of_the_snow_angler_king",
+  "name": "Scepter of the Snow Angler King",
+  "description": "Saat sedang memancing, kalau kamu bisa mempertahankan tegangan benang di Zona Ketegangan Ideal, maka tongkat pancing ini bisa mempersingkat waktu ikan memberontak dan meningkatkan efisiensi memancingmu. Efek ini hanya berlaku di Snezhnaya.<br/><br/>Tongkat pancing berbahan Prime Ice Construct yang dibuat oleh pengrajin tak dikenal ini dijuluki sebagai \"Tongkat Raja Pemancing Bangsa Salju\", dan kini dititipkan di Fishing Association Snezhnaya. konon, hanya pemancing dengan keahlian paling tinggi yang telah sepenuhnya ditempa oleh badai salju yang berhak menggunakan tongkat pancing ini ....",
+  "rarity": 4,
+  "processing": [
+    {
+      "_id": 100017,
+      "id": "wheat",
+      "name": "Wheat",
+      "amount": 1
+    }
+  ],
+  "source": [
+    "Tukar di Fishing Association Snezhnaya"
+  ]
+}

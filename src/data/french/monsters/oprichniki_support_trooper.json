@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan",
   "description": "Un membre de la force d'élite Opritchniki des Fatui, équipé d'un bouclier lourd et chargé d'assurer la protection de ses frères d'armes en première ligne.\\nDans cette guerre interminable qui oppose Snezhnaya à la calamité noirâtre, c'est le camp qui fera preuve de la détermination la plus solide qui l'emportera et sortira victorieux. La volonté robuste qui caractérise les soldats de l'Oprichniki est sans aucun doute le véritable bouclier qui protège les troupes. Tant que ces derniers restent debout, la victoire est toujours à portée de main.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

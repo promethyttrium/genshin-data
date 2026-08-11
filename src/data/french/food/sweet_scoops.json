@@ -1,0 +1,54 @@
+{
+  "_id": 4906,
+  "id": "sweet_scoops",
+  "name": "Coupes sucrées",
+  "description": "Un assortiment de boules de glace. Quatre parfums différents sont servis dans des bols en papier séparés et emballés ensemble dans une seule boîte. Les dégustateurs se divisent généralement en deux catégories : ceux qui choisissent le parfum qui leur fait envie sur le moment et ceux qui finissent chaque bol dans le même ordre. Quoi qu'il en soit, il ne reste jamais rien au fond de la boîte à la fin.",
+  "rarity": 4,
+  "ingredients": [
+    {
+      "_id": 101265,
+      "id": "midsommar_berry",
+      "name": "Baie du solstice",
+      "amount": 3
+    },
+    {
+      "_id": 101264,
+      "id": "lakkaberry",
+      "name": "Lakkabaie",
+      "amount": 3
+    },
+    {
+      "_id": 101281,
+      "id": "rimecurrant",
+      "name": "Givroseille",
+      "amount": 3
+    },
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Betterave rouge",
+      "amount": 3
+    }
+  ],
+  "dish_type": "Attaque",
+  "results": {
+    "suspicious": {
+      "_id": 132018,
+      "name": "Coupes sucrées (suspectes)",
+      "description": "Un assortiment de boules de glace. La surface cratérisée ressemble à des boules de papier froissé qui peinent à conserver leur forme. Une fois en bouche, une couche granuleuse de glace solide masque complètement la saveur, ne laissant aucune place à la moindre subtilité gustative. À cet instant précis, votre seul désir est de fermer les yeux et de vous demander pourquoi vous avez osé relever le défi...",
+      "effect": "Augmente l'ATQ de tous les personnages de l'équipe de 224 pts et leur taux CRIT de 6 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur."
+    },
+    "normal": {
+      "_id": 132019,
+      "name": "Coupes sucrées",
+      "description": "Un assortiment de boules de glace. Quatre parfums différents sont servis dans des bols en papier séparés et emballés ensemble dans une seule boîte. Les dégustateurs se divisent généralement en deux catégories : ceux qui choisissent le parfum qui leur fait envie sur le moment et ceux qui finissent chaque bol dans le même ordre. Quoi qu'il en soit, il ne reste jamais rien au fond de la boîte à la fin.",
+      "effect": "Augmente l'ATQ de tous les personnages de l'équipe de 272 pts et leur taux CRIT de 8 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur."
+    },
+    "delicious": {
+      "_id": 132020,
+      "name": "Coupes sucrées (délicieuses)",
+      "description": "Un assortiment de boules de glace. Onctueuse et riche, chaque cuillerée fond délicatement en bouche, laissant place à une douceur vive et rafraîchissante qui enveloppe les sens d'une douce caresse. Même longtemps après avoir terminé, on a du mal à poser sa coupe, on ferme les yeux pour savourer la longue saveur de pur bonheur...",
+      "effect": "Augmente l'ATQ de tous les personnages de l'équipe de 320 pts et leur taux CRIT de 10 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur."
+    }
+  }
+}

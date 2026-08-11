@@ -1,0 +1,1393 @@
+{
+  "_id": 10000150,
+  "id": "odette",
+  "name": "Odette",
+  "title": "วายุร่ายหิมะระบำ",
+  "description": "นักเต้นบัลเลต์ชื่อดังแห่ง Snezhnaya ดอกไม้อันเหน็บหนาวที่เบ่งบานท่ามกลางน้ำแข็งและหิมะ",
+  "weapon_type": {
+    "id": "sword",
+    "name": "ดาบ"
+  },
+  "element": {
+    "id": "cryo",
+    "name": "น้ำแข็ง"
+  },
+  "gender": {
+    "id": "female",
+    "name": "ผู้หญิง"
+  },
+  "release": 1786395600,
+  "substat": "ความแรงคริ",
+  "affiliation": "คณะละคร Korolevskiy",
+  "region": {
+    "id": "snezhnaya_star",
+    "name": "SNEZHNAYA_STAR"
+  },
+  "rarity": 5,
+  "birthday": [
+    20,
+    2
+  ],
+  "constellation": "Cygnus Olor",
+  "domain": "ดันเจี้ยนแห่งการพัฒนา: ทำสมาธิ",
+  "cv": {
+    "english": "Alexis Tipton",
+    "chinese": "潘丹妮",
+    "japanese": "上坂すみれ",
+    "korean": "Choi Hyun-ji"
+  },
+  "skills": [
+    {
+      "_id": 11501,
+      "id": "snow_swan_variation",
+      "name": "Snow Swan Variation",
+      "description": "<span style=\"color:#FFD780FF\">โจมตีปกติ</span><br/>โจมตีด้วยดาบต่อเนื่องมากสุด 5 ครั้ง<br/><br/><span style=\"color:#FFD780FF\">ชาร์จโจมตี</span><br/>ใช้พลังกายส่วนหนึ่ง เพื่อปลดปล่อยการฟาดฟันอันน่าทึ่งไปข้างหน้า<br/><br/><span style=\"color:#FFD780FF\">โจมตีพุ่งลงจากอากาศ</span><br/>กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "info": "",
+      "attributes": [
+        {
+          "label": "ความเสียหายขั้น 1",
+          "values": [
+            "51.9%",
+            "56.1%",
+            "60.3%",
+            "66.3%",
+            "70.5%",
+            "75.4%",
+            "82%",
+            "88.6%",
+            "95.3%",
+            "102.5%",
+            "109.7%",
+            "117%",
+            "124.2%",
+            "131.5%",
+            "138.7%"
+          ]
+        },
+        {
+          "label": "ความเสียหายขั้น 2",
+          "values": [
+            "51.5%",
+            "55.7%",
+            "59.9%",
+            "65.9%",
+            "70.1%",
+            "74.9%",
+            "81.5%",
+            "88%",
+            "94.6%",
+            "101.8%",
+            "109%",
+            "116.2%",
+            "123.4%",
+            "130.6%",
+            "137.8%"
+          ]
+        },
+        {
+          "label": "ความเสียหายขั้น 3",
+          "values": [
+            "32.6% + 38.3%",
+            "35.3% + 41.4%",
+            "37.9% + 44.5%",
+            "41.7% + 49%",
+            "44.4% + 52.1%",
+            "47.4% + 55.6%",
+            "51.6% + 60.5%",
+            "55.7% + 65.4%",
+            "59.9% + 70.3%",
+            "64.5% + 75.7%",
+            "69% + 81%",
+            "73.6% + 86.3%",
+            "78.1% + 91.7%",
+            "82.7% + 97%",
+            "87.2% + 102.4%"
+          ]
+        },
+        {
+          "label": "ความเสียหายขั้น 4",
+          "values": [
+            "74.6%",
+            "80.6%",
+            "86.7%",
+            "95.4%",
+            "101.5%",
+            "108.4%",
+            "117.9%",
+            "127.5%",
+            "137%",
+            "147.4%",
+            "157.8%",
+            "168.2%",
+            "178.6%",
+            "189%",
+            "199.4%"
+          ]
+        },
+        {
+          "label": "ความเสียหายขั้น 5",
+          "values": [
+            "90.2%",
+            "97.6%",
+            "104.9%",
+            "115.4%",
+            "122.7%",
+            "131.1%",
+            "142.7%",
+            "154.2%",
+            "165.7%",
+            "178.3%",
+            "190.9%",
+            "203.5%",
+            "216.1%",
+            "228.7%",
+            "241.3%"
+          ]
+        },
+        {
+          "label": "ความเสียหายชาร์จโจมตี",
+          "values": [
+            "107.4%",
+            "116.2%",
+            "124.9%",
+            "137.4%",
+            "146.1%",
+            "156.1%",
+            "169.9%",
+            "183.6%",
+            "197.3%",
+            "212.3%",
+            "227.3%",
+            "242.3%",
+            "257.3%",
+            "272.3%",
+            "287.3%"
+          ]
+        },
+        {
+          "label": "ชาร์จโจมตีใช้พลังกาย",
+          "values": [
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย"
+          ]
+        },
+        {
+          "label": "ความเสียหายพุ่งลง",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11502,
+      "id": "adagio_phantom_night_dancers",
+      "name": "Adagio: Phantom Night Dancers",
+      "description": "แสดงท่วงท่าการเต้นรำอันนุ่มนวล สร้าง<span style=\"color:#99FFFFFF\">ความเสียหายน้ำแข็งวงกว้าง</span> และอัญเชิญ<b><span style=\"color:#FFD780FF\">เงาระบำเดี่ยว</span></b>ของตนออกมา<br/>หากบนสนามมี<span style=\"color:#FFD780FF\">เงาระบำเดี่ยว</span> ที่ Odette อัญเชิญออกมาด้วยตนเองอยู่ จะทำการอัญเชิญใหม่ และรีเซ็ตระยะเวลาต่อเนื่อง<br/><br/><span style=\"color:#FFD780FF\">เงาระบำเดี่ยว</span><br/>แสดงท่วงท่าการเต้นรำ<span style=\"color:#FFD780FF\">สะบัดขนนก</span> และ<span style=\"color:#FFD780FF\">ปีกหมุนวน</span>สลับกันไปมา เพื่อทำการโจมตีศัตรูที่อยู่ใกล้เคียงเป็นระยะ ด้วยท่วงท่าที่สง่างามและพลิ้วไหว สร้าง<span style=\"color:#99FFFFFF\">ความเสียหายน้ำแข็งวงกว้าง</span><br/>นอกจากนี้ ภายใน 6 วินาทีหลังจากปล่อยสกิลธาตุ <span style=\"color:#FFD780FF\">Adagio: Phantom Night Dancers</span> สกิลธาตุ <span style=\"color:#FFD780FF\">Adagio: Phantom Night Dancers</span> ของ Odette จะถูกเปลี่ยนเป็นสกิลธาตุพิเศษ <b><span style=\"color:#FFD780FF\">Adagio: Coda at Dawn's Tolling</span></b><b></b> เพื่อร่วมเต้นรำและสร้าง<span style=\"color:#99FFFFFF\">ความเสียหายน้ำแข็งวงกว้าง</span>อย่างต่อเนื่องแก่ศัตรูที่อยู่ใกล้เคียง และเมื่อการร่วมเต้นรำสิ้นสุดลง จะสร้าง<span style=\"color:#99FFFFFF\">ความเสียหายน้ำแข็งวงกว้าง</span> ซึ่งถือเป็นความเสียหายของปฏิกิริยานำไฟฟ้าดารา หรือกระจายดารา 1 ครั้ง",
+      "info": "",
+      "attributes": [
+        {
+          "label": "ความเสียหายสกิล",
+          "values": [
+            "108.1%",
+            "116.2%",
+            "124.3%",
+            "135.1%",
+            "143.2%",
+            "151.3%",
+            "162.1%",
+            "172.9%",
+            "183.7%",
+            "194.5%",
+            "205.4%",
+            "216.2%",
+            "229.7%",
+            "243.2%",
+            "256.7%"
+          ]
+        },
+        {
+          "label": "ความเสียหายต่อเนื่องของ Coda at Dawn's Tolling",
+          "values": [
+            "95.8%",
+            "103%",
+            "110.2%",
+            "119.8%",
+            "127%",
+            "134.2%",
+            "143.8%",
+            "153.3%",
+            "162.9%",
+            "172.5%",
+            "182.1%",
+            "191.7%",
+            "203.7%",
+            "215.6%",
+            "227.6%"
+          ]
+        },
+        {
+          "label": "ความเสียหายนำไฟฟ้าดารา/กระจายดารา ของ Coda at Dawn's Tolling",
+          "values": [
+            "305.8% / 458.6%",
+            "328.7% / 493%",
+            "351.6% / 527.4%",
+            "382.2% / 573.3%",
+            "405.1% / 607.7%",
+            "428.1% / 642.1%",
+            "458.6% / 688%",
+            "489.2% / 733.8%",
+            "519.8% / 779.7%",
+            "550.4% / 825.6%",
+            "580.9% / 871.4%",
+            "611.5% / 917.3%",
+            "649.7% / 974.6%",
+            "688% / 1031.9%",
+            "726.2% / 1089.3%"
+          ]
+        },
+        {
+          "label": "ความเสียหายท่าสะบัดขนนก",
+          "values": [
+            "43%",
+            "46.3%",
+            "49.5%",
+            "53.8%",
+            "57%",
+            "60.3%",
+            "64.6%",
+            "68.9%",
+            "73.2%",
+            "77.5%",
+            "81.8%",
+            "86.1%",
+            "91.5%",
+            "96.8%",
+            "102.2%"
+          ]
+        },
+        {
+          "label": "ความเสียหายนำไฟฟ้าดารา/กระจายดารา ของท่าสะบัดขนนก",
+          "values": [
+            "27% / 40.5%",
+            "29.1% / 43.6%",
+            "31.1% / 46.6%",
+            "33.8% / 50.7%",
+            "35.8% / 53.7%",
+            "37.8% / 56.7%",
+            "40.5% / 60.8%",
+            "43.2% / 64.8%",
+            "45.9% / 68.9%",
+            "48.6% / 73%",
+            "51.3% / 77%",
+            "54% / 81.1%",
+            "57.4% / 86.1%",
+            "60.8% / 91.2%",
+            "64.2% / 96.3%"
+          ]
+        },
+        {
+          "label": "ความเสียหายท่าปีกหมุนวน",
+          "values": [
+            "51.5%",
+            "55.3%",
+            "59.2%",
+            "64.3%",
+            "68.2%",
+            "72%",
+            "77.2%",
+            "82.3%",
+            "87.5%",
+            "92.6%",
+            "97.8%",
+            "102.9%",
+            "109.4%",
+            "115.8%",
+            "122.2%"
+          ]
+        },
+        {
+          "label": "ความเสียหายนำไฟฟ้าดารา/กระจายดารา ของท่าปีกหมุนวน",
+          "values": [
+            "32.3% / 48.5%",
+            "34.7% / 52.1%",
+            "37.2% / 55.7%",
+            "40.4% / 60.6%",
+            "42.8% / 64.2%",
+            "45.2% / 67.8%",
+            "48.5% / 72.7%",
+            "51.7% / 77.5%",
+            "54.9% / 82.4%",
+            "58.2% / 87.2%",
+            "61.4% / 92.1%",
+            "64.6% / 96.9%",
+            "68.7% / 103%",
+            "72.7% / 109%",
+            "76.7% / 115.1%"
+          ]
+        },
+        {
+          "label": "คูลดาวน์ Coda at Dawn's Tolling",
+          "values": [
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ"
+          ]
+        },
+        {
+          "label": "ระยะเวลาของเงาระบำเดี่ยว",
+          "values": [
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ"
+          ]
+        },
+        {
+          "label": "คูลดาวน์",
+          "values": [
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11505,
+      "id": "presto_bluebird_finale",
+      "name": "Presto: Bluebird Finale",
+      "description": "ร่ายรำด้วยท่วงท่าอันรวดเร็ว สร้าง<span style=\"color:#99FFFFFF\">ความเสียหายน้ำแข็งวงกว้าง</span>หลายครั้ง อัญเชิญ<b><span style=\"color:#FFD780FF\">เงาระบำเดี่ยว</span></b>ของตนเองออกมา และได้รับ <span style=\"color:#FFD780FF\">Snow Swan's Dream</span>: เพิ่มความเสียหายปฏิกิริยาประกายดาวที่ Odette สร้างขึ้น<br/>นอกจากนี้ ภายใน 6 วินาทีหลังจากปล่อยท่าไม้ตาย <span style=\"color:#FFD780FF\">Presto: Bluebird Finale</span> สกิลธาตุของ Odette <span style=\"color:#FFD780FF\">Adagio: Phantom Night Dancers</span> จะถูกเปลี่ยนเป็นสกิลธาตุพิเศษ <b><span style=\"color:#FFD780FF\">Adagio: Coda at Dawn's Tolling</span></b><b></b><br/><br/>หากในสนามมีเงาระบำเดี่ยวที่ Odette อัญเชิญออกมา มันจะถูกเรียกมาอยู่ข้างกาย และรีเซ็ตช่วงเวลาต่อเนื่องของมัน",
+      "info": "",
+      "attributes": [
+        {
+          "label": "ความเสียหายจากการฟัน",
+          "values": [
+            "110.2%×3",
+            "118.4%×3",
+            "126.7%×3",
+            "137.7%×3",
+            "146%×3",
+            "154.2%×3",
+            "165.3%×3",
+            "176.3%×3",
+            "187.3%×3",
+            "198.3%×3",
+            "209.3%×3",
+            "220.4%×3",
+            "234.1%×3",
+            "247.9%×3",
+            "261.7%×3"
+          ]
+        },
+        {
+          "label": "ความเสียหายการฟันครั้งสุดท้าย",
+          "values": [
+            "170.3%",
+            "183%",
+            "195.8%",
+            "212.8%",
+            "225.6%",
+            "238.4%",
+            "255.4%",
+            "272.4%",
+            "289.5%",
+            "306.5%",
+            "323.5%",
+            "340.5%",
+            "361.8%",
+            "383.1%",
+            "404.4%"
+          ]
+        },
+        {
+          "label": "เพิ่มความเสียหายปฏิกิริยาประกายดาว ของ Snow Swan's Dream",
+          "values": [
+            "14%",
+            "18%",
+            "22%",
+            "26%",
+            "30%",
+            "34%",
+            "38%",
+            "42%",
+            "46%",
+            "50%",
+            "54%",
+            "58%",
+            "62%",
+            "66%",
+            "70%"
+          ]
+        },
+        {
+          "label": "ระยะเวลาของ Snow Swan's Dream",
+          "values": [
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ"
+          ]
+        },
+        {
+          "label": "ระยะเวลาของเงาระบำเดี่ยว",
+          "values": [
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ"
+          ]
+        },
+        {
+          "label": "คูลดาวน์",
+          "values": [
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ"
+          ]
+        },
+        {
+          "label": "พลังงานธาตุ",
+          "values": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "spring_rite_of_the_chosen_one",
+      "name": "Spring Rite of the Chosen One",
+      "description": "เมื่อ Odette อัญเชิญ<b><span style=\"color:#FFD780FF\">เงาระบำเดี่ยว</span></b> จะได้รับ <b><span style=\"color:#FFD780FF\">Marvelous Splendor</span></b> 4 ชั้น",
+      "level": 1
+    },
+    {
+      "id": "pathetique_of_pateticheskaya",
+      "name": "Pathetique of Pateticheskaya",
+      "description": "สำหรับพลังโจมตีของ Odette ทุก 100 หน่วยที่เกินจาก 1,000 หน่วย จะทำให้ Odette สร้างความเสียหายปฏิกิริยาประกายดาวเพิ่มขึ้นอีก 1.5% ของความเสียหายเดิม โดยสามารถสร้างความเสียหายด้วยวิธีนี้ได้มากสุด 30% ของความเสียหายเดิม",
+      "level": 4
+    },
+    {
+      "id": "stellar_jubilee_dance_of_aurore",
+      "name": "Stellar Jubilee: Dance of Aurore",
+      "description": "เมื่ออยู่ใน<b><span style=\"color:#FFD780FF\">เขตแดนดาราฉาย</span></b> / ภายใน 8 วินาทีหลังจากตัวละครในทีมทำให้เกิดปฏิกิริยากระจายดาราในบริเวณใกล้เคียง Odette จะเข้าสู่สถานะ <span style=\"color:#FFD780FF\">เจิดจรัส: นำไฟฟ้าดารา</span> / <span style=\"color:#FFD780FF\">เจิดจรัส: กระจายดารา</span> ตามลำดับ<br/>เมื่อตัวละครในทีมทำให้เกิดปฏิกิริยานำไฟฟ้า / กระจายธาตุน้ำแข็ง จะเปลี่ยนเป็นการทำให้เกิดปฏิกิริยานำไฟฟ้าดารา / กระจายดาราแทน และเพิ่มความเสียหายพื้นฐานของปฏิกิริยาดังกล่าว ที่สร้างโดยตัวละครในทีม ตามพลังโจมตีของ Odette: พลังโจมตีทุก 100 หน่วย จะเพิ่มความเสียหายพื้นฐานของปฏิกิริยาดังกล่าว 0.7% โดยสามารถเพิ่มความเสียหายด้วยวิธีนี้ได้สูงสุด 14%",
+      "level": 0
+    },
+    {
+      "id": "echo_of_winter_daydreams",
+      "name": "Echo of Winter Daydreams",
+      "description": "แสดงตำแหน่ง<span style=\"color:#FFD780FF\">ของพิเศษเฉพาะในพื้นที่ Snezhnaya</span> บนมินิแมป<br/>การซ้อมเต้นรำในเวลาว่าง ยังอาจทำให้เกิดเอฟเฟกต์อื่น ๆ อีกด้วย...",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1501,
+      "id": "on_this_danceless_morn_she_gazes_at_her_reflection",
+      "name": "\"On This Danceless Morn, She Gazes at Her Reflection\"",
+      "description": "หลังจากใช้สกิลธาตุพิเศษ <b><span style=\"color:#FFD780FF\">Adagio: Coda at Dawn's Tolling</span></b> เมื่อการเต้นรำร่วมสิ้นสุดลง Odette จะสร้าง<span style=\"color:#99FFFFFF\">ความเสียหายน้ำแข็งวงกว้าง</span>แก่ศัตรูที่อยู่ใกล้เคียงเพิ่มอีก 1 ครั้ง โดยความเสียหายนี้ถือเป็น:<br/>·<span style=\"color:#FFD780FF\">เจิดจรัส: นำไฟฟ้าดารา</span> หรือไม่อยู่ในสถานะเจิดจรัส: ความเสียหายนำไฟฟ้าดารา เท่ากับ 300% ของพลังโจมตีของ Odette;<br/>·<span style=\"color:#FFD780FF\">เจิดจรัส: กระจายดารา</span>: ความเสียหายกระจายดารา เท่ากับ 450% ของพลังโจมตีของ Odette<br/><br/>นอกจากนี้ พรสวรรค์เพิ่มเติม \"Spring Rite of the Chosen One\" จะได้รับการเสริมพลัง: เมื่ออัญเชิญ <b><span style=\"color:#FFD780FF\">เงาระบำเดี่ยว</span></b> Odette จะได้รับ <b><span style=\"color:#FFD780FF\">Marvelous Splendor</span></b> เพิ่มเติมอีก 2 ชั้น และเมื่อ Odette อยู่นอกสนาม ความเร็วในการลบล้าง <span style=\"color:#FFD780FF\">Marvelous Splendor</span> จะเพิ่มขึ้นเป็น 2 ชั้นต่อวินาที",
+      "level": 1
+    },
+    {
+      "_id": 1502,
+      "id": "i_must_see_the_snow_swans_unseen_dream_for_myself_she_thought",
+      "name": "\"I Must See the Snow Swan's Unseen Dream for Myself, She Thought\"",
+      "description": "พรสวรรค์เพิ่มเติม \"Spring Rite of the Chosen One\" ได้รับการเสริมพลัง: <b><span style=\"color:#FFD780FF\">Marvelous Splendor</span></b> แต่ละชั้นจะทำให้พลังโจมตี ของตัวละครเพิ่มขึ้น 7%<br/>นอกจากนี้ เมื่อ <b><span style=\"color:#FFD780FF\">เงาระบำเดี่ยว</span></b> อยู่ในสนาม หาก Odette อยู่ในสถานะ <b><span style=\"color:#FFD780FF\">เจิดจรัส: ประกายดาว</span></b> ความต้านทานธาตุที่เกี่ยวข้อง ของศัตรูที่อยู่ใกล้กับ<span style=\"color:#FFD780FF\">เงาระบำเดี่ยว</span> จะลดลง 20%:<br/>·<span style=\"color:#FFD780FF\">เจิดจรัส: นำไฟฟ้าดารา</span>: <span style=\"color:#99FFFFFF\">ธาตุน้ำแข็ง</span> และ <span style=\"color:#FFACFFFF\">ธาตุไฟฟ้า</span>;<br/>·<span style=\"color:#FFD780FF\">เจิดจรัส: กระจายดารา</span>: <span style=\"color:#99FFFFFF\">ธาตุน้ำแข็ง</span> และ <span style=\"color:#80FFD7FF\">ธาตุลม</span>",
+      "level": 2
+    },
+    {
+      "_id": 1503,
+      "id": "ill_chase_the_shouting_wind_along_climbing_alone_as_i_go",
+      "name": "\"I'll Chase the Shouting Wind Along, Climbing Alone As I Go\"",
+      "description": "เพิ่มเลเวลสกิลของสกิลธาตุ <color=#FFD780FF><b>Adagio: Phantom Night Dancers</b> </color> ขึ้น 3 ระดับ<br/>เพิ่มได้สูงสุดถึงระดับ 15",
+      "level": 3
+    },
+    {
+      "_id": 1504,
+      "id": "up_up_the_long_delirious_burning_blue",
+      "name": "\"Up, Up the Long, Delirious, Burning Blue\"",
+      "description": "ท่าไม้ตาย <span style=\"color:#FFD780FF\">Presto: Bluebird Finale</span> ได้รับการเสริมพลัง: เมื่อ Odette ได้รับ <span style=\"color:#FFD780FF\">Snow Swan's Dream</span> จะทำให้ความเสียหายปฏิกิริยาประกายดาว ที่เกิดจากตัวละครอื่นในทีมที่อยู่ใกล้เคียงเพิ่มขึ้น โดยค่าที่เพิ่มขึ้นเท่ากับ 50% ของเอฟเฟกต์ <span style=\"color:#FFD780FF\">Snow Swan's Dream</span><br/><br/>นอกจากนี้ เมื่อตัวละครในทีมสร้างความเสียหายปฏิกิริยาประกายดาวแก่ศัตรู Odette จะทำการโจมตีประสานใส่ศัตรูหนึ่งครั้ง สร้าง<span style=\"color:#99FFFFFF\">ความเสียหายน้ำแข็งวงกว้าง</span> หนึ่งครั้ง โดยทุก 3.5 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ซึ่งความเสียหายดังกล่าวจะถือเป็น:<br/>·<span style=\"color:#FFD780FF\">เจิดจรัส: นำไฟฟ้าดารา</span> หรือไม่อยู่ในสถานะเจิดจรัส: ความเสียหายนำไฟฟ้าดารา เท่ากับ 66% ของพลังโจมตีของ Odette;<br/>·<span style=\"color:#FFD780FF\">เจิดจรัส: กระจายดารา</span>: ความเสียหายกระจายดารา เท่ากับ 99% ของพลังโจมตีของ Odette",
+      "level": 4
+    },
+    {
+      "_id": 1505,
+      "id": "oh_i_have_slipped_the_surly_bonds_of_earth",
+      "name": "\"Oh! I Have Slipped the Surly Bonds of Earth\"",
+      "description": "เพิ่มเลเวลสกิลของท่าไม้ตาย <color=#FFD780FF><b>Presto: Bluebird Finale</b></color> ขึ้น 3 ระดับ<br/>เพิ่มได้สูงสุดถึงระดับ 15",
+      "level": 5
+    },
+    {
+      "_id": 1506,
+      "id": "put_out_my_hand_and_touched_the_face_of_the_divine",
+      "name": "\"Put Out My Hand, and Touched the Face of the Divine\"",
+      "description": "พรสวรรค์เพิ่มเติม \"Spring Rite of the Chosen One\" ได้รับการเสริมพลัง: เมื่อ Odette มอบ <b><span style=\"color:#FFD780FF\">Marvelous Splendor</span></b> ให้แก่ตัวละครทั้งหมดในทีมที่อยู่ใกล้เคียง Marvelous Splendor ของตนเองจะไม่ลดลงอีก<br/>นอกจากนี้ ตัวละครที่ได้รับผลของ <span style=\"color:#FFD780FF\">Marvelous Splendor</span> ความเสียหายปฏิกิริยาประกายดาวที่สร้างต่อศัตรูจะได้รับการ<b><span style=\"color:#FFD780FF\">ยกระดับ</span></b> 25% และความเสียหายปฏิกิริยาประกายดาวที่ Odette สร้างต่อศัตรู จะได้รับการยกระดับเพิ่มเติมอีก 20%",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "เลื่อนขั้น",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "พลังชีวิตพื้นฐาน",
+          "values": [
+            "-",
+            "1011"
+          ]
+        },
+        {
+          "label": "พลังโจมตีพื้นฐาน",
+          "values": [
+            "-",
+            "26"
+          ]
+        },
+        {
+          "label": "ป้องกันพื้นฐาน",
+          "values": [
+            "-",
+            "61"
+          ]
+        },
+        {
+          "label": "ความแรงคริ",
+          "values": [
+            "-",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "เลื่อนขั้น",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "พลังชีวิตพื้นฐาน",
+          "values": [
+            "2621",
+            "3488"
+          ]
+        },
+        {
+          "label": "พลังโจมตีพื้นฐาน",
+          "values": [
+            "68",
+            "90"
+          ]
+        },
+        {
+          "label": "ป้องกันพื้นฐาน",
+          "values": [
+            "159",
+            "211"
+          ]
+        },
+        {
+          "label": "ความแรงคริ",
+          "values": [
+            "50.0%",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "เลื่อนขั้น",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "พลังชีวิตพื้นฐาน",
+          "values": [
+            "5219",
+            "5834"
+          ]
+        },
+        {
+          "label": "พลังโจมตีพื้นฐาน",
+          "values": [
+            "135",
+            "151"
+          ]
+        },
+        {
+          "label": "ป้องกันพื้นฐาน",
+          "values": [
+            "316",
+            "354"
+          ]
+        },
+        {
+          "label": "ความแรงคริ",
+          "values": [
+            "50.0%",
+            "59.6%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104161,
+        "id": "shivada_jade_sliver",
+        "name": "Shivada Jade Sliver",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostfairy Flower",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Ethereal Glimmershard",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "เลื่อนขั้น",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "พลังชีวิตพื้นฐาน",
+          "values": [
+            "6712",
+            "7533"
+          ]
+        },
+        {
+          "label": "พลังโจมตีพื้นฐาน",
+          "values": [
+            "173",
+            "194"
+          ]
+        },
+        {
+          "label": "ป้องกันพื้นฐาน",
+          "values": [
+            "407",
+            "457"
+          ]
+        },
+        {
+          "label": "ความแรงคริ",
+          "values": [
+            "59.6%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "Shivada Jade Fragment",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Unscorched Blossom Branch",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostfairy Flower",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Ethereal Glimmershard",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "เลื่อนขั้น",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "พลังชีวิตพื้นฐาน",
+          "values": [
+            "8421",
+            "9036"
+          ]
+        },
+        {
+          "label": "พลังโจมตีพื้นฐาน",
+          "values": [
+            "217",
+            "233"
+          ]
+        },
+        {
+          "label": "ป้องกันพื้นฐาน",
+          "values": [
+            "511",
+            "548"
+          ]
+        },
+        {
+          "label": "ความแรงคริ",
+          "values": [
+            "69.2%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "Shivada Jade Fragment",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Unscorched Blossom Branch",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostfairy Flower",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Ethereal Crystal",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "เลื่อนขั้น",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "พลังชีวิตพื้นฐาน",
+          "values": [
+            "9932",
+            "10547"
+          ]
+        },
+        {
+          "label": "พลังโจมตีพื้นฐาน",
+          "values": [
+            "256",
+            "272"
+          ]
+        },
+        {
+          "label": "ป้องกันพื้นฐาน",
+          "values": [
+            "602",
+            "639"
+          ]
+        },
+        {
+          "label": "ความแรงคริ",
+          "values": [
+            "69.2%",
+            "78.8%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "Shivada Jade Chunk",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Unscorched Blossom Branch",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostfairy Flower",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Ethereal Crystal",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "เลื่อนขั้น",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "พลังชีวิตพื้นฐาน",
+          "values": [
+            "11453",
+            "12068"
+          ]
+        },
+        {
+          "label": "พลังโจมตีพื้นฐาน",
+          "values": [
+            "295",
+            "311"
+          ]
+        },
+        {
+          "label": "ป้องกันพื้นฐาน",
+          "values": [
+            "694",
+            "732"
+          ]
+        },
+        {
+          "label": "ความแรงคริ",
+          "values": [
+            "78.8%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "Shivada Jade Chunk",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Unscorched Blossom Branch",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostfairy Flower",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "Ethereal Crystalscale Stone",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "เลื่อนขั้น",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "พลังชีวิตพื้นฐาน",
+          "values": [
+            "12981",
+            "12981"
+          ]
+        },
+        {
+          "label": "พลังโจมตีพื้นฐาน",
+          "values": [
+            "335",
+            "335"
+          ]
+        },
+        {
+          "label": "ป้องกันพื้นฐาน",
+          "values": [
+            "787",
+            "787"
+          ]
+        },
+        {
+          "label": "ความแรงคริ",
+          "values": [
+            "88.4%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104164,
+        "id": "shivada_jade_gemstone",
+        "name": "Shivada Jade Gemstone",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Unscorched Blossom Branch",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostfairy Flower",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "Ethereal Crystalscale Stone",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104365,
+          "id": "teachings_of_charity",
+          "name": "Teachings of Charity",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "Ethereal Glimmershard",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guide to Charity",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Ethereal Crystal",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guide to Charity",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Ethereal Crystal",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guide to Charity",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Ethereal Crystal",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guide to Charity",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Ethereal Crystal",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Philosophies of Charity",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Ethereal Crystalscale Stone",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Twisted Withered Branch",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Philosophies of Charity",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Ethereal Crystalscale Stone",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Twisted Withered Branch",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Philosophies of Charity",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Ethereal Crystalscale Stone",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Twisted Withered Branch",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Philosophies of Charity",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Ethereal Crystalscale Stone",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Twisted Withered Branch",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Crown of Insight",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 215000,
+      "name": "ระบำหงส์หิมะ",
+      "description": "คอสตูมของ Odette ชุดบัลเลต์ตัดเย็บสุดประณีตที่ได้รับแรงบันดาลใจจากหงส์หิมะ มันคอยอยู่เคียงข้างนักบัลเลต์ผู้ขยันขันแข็งให้ผ่านค่ำคืนอันยาวนานนับไม่ถ้วน อัญมณีบนชุดมักจะสะท้อนประกายแสงอันเรียบหรู และสง่างามเมื่อต้องกับแสงไฟบนเวที เฉกเช่นเดียวกับตัวนักเต้นผู้บริสุทธิ์ผุดผ่อง",
+      "isDefault": true,
+      "characterName": "Odette",
+      "characterId": 10000150,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Odette_Circle"
+    }
+  ]
+}

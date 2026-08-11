@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 3,
+    "element": "Toprak",
+    "weapon": "Çift Elli Kılıç",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3711,
@@ -29,8 +31,10 @@
     {
       "id": "fight_club_legend",
       "name": "Dövüş Kulübü Efsanesi",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -49,8 +53,10 @@
     {
       "id": "masatsu_zetsugi_akaushi_burst",
       "name": "Masatsu Zetsugi: Akaushi Patlaması!",
-      "desc": "? ? verir. <span style=\"color:#FFFFFFFF\">Ushi</span> çağırır. Bu karakter <span style=\"color:#FFFFFFFF\">Doğaüstü Güç</span> kazanır.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#FFE699FF\">Toprak Hasarı</span> verir. <span style=\"color:#FFFFFFFF\">Ushi</span> çağırır. Bu karakter <span style=\"color:#FFFFFFFF\">Doğaüstü Güç</span> kazanır.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -63,8 +69,10 @@
     {
       "id": "royal_descent_behold_itto_the_evil",
       "name": "Belalı Oni Kral: Itto, Dünyaya Karşı!",
-      "desc": "? ? verir ve bu karakter <span style=\"color:#FFFFFFFF\">Kızgın Oni Kralı</span> kazanır.",
-      "skillTag": [],
+      "desc": "4 <span style=\"color:#FFE699FF\">Toprak Hasarı</span> verir ve bu karakter <span style=\"color:#FFFFFFFF\">Kızgın Oni Kralı</span> kazanır.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1106,

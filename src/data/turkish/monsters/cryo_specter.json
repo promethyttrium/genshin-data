@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Element Yaşam Formları",
   "filename_icon": "UI_MonsterIcon_Sylph_Ice_01",
   "description": "Havada süzülebilen, yüksek yoğunluktaki Buz elementlerinden oluşan bir canavar.\\nBir zamanlar bu varlıkları inceleyen bir simyager bunların, elementleri kullanmak için Önseziye ihtiyaç duymayan bir tür Bodurlop veya Gezgin olduğunu iddia etti. Bu simyager, öğretmeninden kınama cezası aldı.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

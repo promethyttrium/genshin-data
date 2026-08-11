@@ -1,0 +1,40 @@
+{
+  "_id": 25133601,
+  "id": "fanged_zealot",
+  "monsterId": 25133602,
+  "name": "Forcené à crocs",
+  "specialNames": [
+    "Forcené à crocs"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bêtes mystiques",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Mammoth",
+  "description": "Un volkodlak devenu extrêmement puissant après avoir hérité d'une plus grande part du pouvoir immense de sa lignée.\\nParmi les nombreuses espèces de volkodlak, celles qui ressemblent à des éléphants ou des mammouths géants possèdent certaines des lignées les plus nobles. Leur clan a jadis donné naissance à de nombreux chefs de guerre redoutables, dont plusieurs ont même servi comme proches serviteurs du seigneur des bêtes.\\nCependant, plus le pouvoir d'un nivéole est grand et plus sa vie est longue, plus il lui est difficile de former un clan. Comparé aux autres volkodlak, ce type est aujourd'hui beaucoup plus rare à Snezhnaya.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 231.00076,
+      "attack": 112.64574,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

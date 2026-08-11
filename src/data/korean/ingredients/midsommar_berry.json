@@ -48,10 +48,14 @@
       "_id": 3612,
       "id": "birchsteamed_pork_ribs",
       "name": "자작나무 갈비"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "아이스크림 볼 세트"
     }
   ],
   "source": [
     "야외 채집"
-  ],
-  "rarity": 0
+  ]
 }

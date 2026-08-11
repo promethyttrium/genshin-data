@@ -17,6 +17,11 @@
     "草元素",
     "雷元素"
   ],
+  "daysOfWeek": [
+    "月曜",
+    "木曜",
+    "日曜"
+  ],
   "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
   "domainText": "Weapon Ascension Materials",
   "rewardPreview": [

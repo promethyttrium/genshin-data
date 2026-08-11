@@ -1,0 +1,40 @@
+{
+  "_id": 25131201,
+  "id": "volkodlak_basher",
+  "monsterId": 25131306,
+  "name": "Volkodlak Kẻ Gõ Đập",
+  "specialNames": [
+    "Kẻ Gõ Đập"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Ma Thú Đột Biến",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Strong_Sword",
+  "description": "Trong vô số các Volkodlak ở Snezhnaya, đây là loài tương đối cường tráng.\\nSở hữu sức mạnh của dã thú và thân hình giống người, chúng có bản năng hoang dã bẩm sinh trong việc vận dụng sức mạnh của bản thân. Nếu một người chưa qua huấn luyện dùng vũ khí đối đầu với loài Volkodlak này, kẻ giành chiến thắng chắc chắn sẽ là vế sau.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 7.315024,
+      "attack": 49.564125,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

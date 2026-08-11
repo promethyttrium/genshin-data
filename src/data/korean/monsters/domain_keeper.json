@@ -25,19 +25,19 @@
       "_id": 112142,
       "id": "jeweled_flaming_hilt",
       "name": "화려한 화염검",
-      "count": 0.2626
+      "count": 0.262
     },
     {
       "_id": 112141,
       "id": "fractured_flaming_hilt",
       "name": "파손된 화염검",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112140,
       "id": "faded_flaming_hilt",
       "name": "빛바랜 화염검",
-      "count": 3.9394
+      "count": 3.939
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "자동 장치",
   "filename_icon": "UI_MonsterIcon_Watcher_Normal_01",
   "description": "원초의 전능자로부터 흘러나온 그림자의 피조물이자, 공간의 신전을 지키는 수호자.\\n공간의 신전 경비병으로서 「눈」을 받았으나, 영원한 「이데아」만을 찬송하고 번잡한 현상 세계는 보지 못해 천사의 동족으로는 여겨지지 않는다. 이러한 모순된 설계가 창조주의 이성적인 의도인지, 아니면 이들이 섬기는 창조주가 끝내 원초 전능자의 뜻을 이해하지 못한 결과인지는 알 길이 없다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

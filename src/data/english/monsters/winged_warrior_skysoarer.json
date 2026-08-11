@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Other Human Factions",
   "filename_icon": "UI_MonsterIcon_Human_Female_NoWeapon_Flamingo",
   "description": "A warrior from the clifftops, and a tribal guardian that patrols the steep mountain ridges.\\nThese tribal warriors trust their own two hands more than any weapon. Above all else, they are renowned for their lithe and agile bearing.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

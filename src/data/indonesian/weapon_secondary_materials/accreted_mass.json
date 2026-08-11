@@ -1,0 +1,24 @@
+{
+  "_id": 112153,
+  "id": "accreted_mass",
+  "name": "Accreted Mass",
+  "description": "Suatu akresi yang telah menempel pada organ dalam atau tulang untuk waktu yang lama. Setelah dihilangkan, akresi tersebut dianggap sebagai simbol kekuatan dan dijaga dengan cermat oleh keturunan makhluk tersebut.",
+  "source": [
+    "Dijatuhkan oleh Volkodlak Brute Lv. 40",
+    "Penukaran Stardust",
+    "Placeholder - Jumlah yang Bisa Di-Craft: {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112152,
+        "id": "accreted_fragment",
+        "name": "Accreted Fragment",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

@@ -155,6 +155,11 @@
       "name": "Montagnes, mers et cieux"
     },
     {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Chachlyks snezhnayiens"
+    },
+    {
       "_id": 4002,
       "id": "golden_fried_chicken",
       "name": "Nuggets de poulet"
@@ -204,6 +209,5 @@
   ],
   "source": [
     "Butin d'animal"
-  ],
-  "rarity": 0
+  ]
 }

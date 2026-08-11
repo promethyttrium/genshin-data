@@ -1,0 +1,21 @@
+{
+  "_id": 330002,
+  "id": "shattered_moon_sublimation",
+  "name": "Shattered Moon - Sublimation",
+  "description": "Tombak ilusi yang muncul dari kedalaman Ley Line dan memiliki kekuatan \"Kematian\". Tombak ini dapat berubah-ubah sesuai dengan jenis elemen pemiliknya. Konon menurut legenda, senjata ini dimiliki oleh seorang pendosa yang melampaui manusia bernama \"Barnstokkr\" dari sebuah bangsa kuno.",
+  "rarity": 5,
+  "type": {
+    "id": "Polearm",
+    "name": "Polearm"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Radiant Metamorphosis: Transcendence - Sublimation",
+    "priority": 1
+  },
+  "item_id": 341302,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphSpinifer_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphSpinifer_Great"
+}

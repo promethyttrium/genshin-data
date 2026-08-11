@@ -1,0 +1,24 @@
+{
+  "_id": 112148,
+  "id": "ethereal_crystalscale_stone",
+  "name": "Écaille éthérée",
+  "description": "Ce genre d'écailles cristallines poussait autrefois sur le corps d'un nivéole. On dit que les nivéoles possédant une plus grande quantité de ces écailles détiennent un pouvoir bien plus grand. Pourtant, nul ne peut affirmer si cette magie provient véritablement de leur être, simplement canalisée vers l'extérieur par les morceaux de cristal, ou si ces morceaux sont les réceptacles mêmes de leur pouvoir.",
+  "source": [
+    "Butin de Nivéole de chair cristalline (Niv.60+)",
+    "Échange Astrions : synthèse après échange",
+    "Emplacement réservé - Quantité synthétisable : {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Cristal éthéré",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

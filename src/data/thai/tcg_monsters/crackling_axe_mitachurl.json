@@ -8,17 +8,21 @@
     "hp": 8,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ธาตุไฟฟ้า",
+    "weapon": "อาวุธอื่น ๆ",
     "faction": [
-      null,
-      null
+      "มอนสเตอร์",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "du_plama",
       "name": "Du Plama",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง? 2 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -37,8 +41,10 @@
     {
       "id": "upa",
       "name": "Upa",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง? 3 หน่วย",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -51,8 +57,10 @@
     {
       "id": "oto_tiga",
       "name": "Oto Tiga",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง? 5 หน่วย",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -72,7 +80,9 @@
       "id": "ripple_electro_edge",
       "name": "Ripple Electro Edge",
       "desc": "[ติดตัว] เมื่อเริ่มการต่อสู้ ในตอนแรกเริ่มจะได้รับสถานะ <span style=\"color:#FFFFFFFF\">Ripple Electro Edge</span>",
-      "skillTag": [],
+      "skillTag": [
+        "สกิลติดตัว"
+      ],
       "points": []
     }
   ]

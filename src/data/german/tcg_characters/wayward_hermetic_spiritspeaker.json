@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Kryo",
+    "weapon": "Andere Waffen",
     "faction": [
-      null
+      "Monster"
     ],
     "source": "Nach einem gewonnenen „Duell – Nett“ mit „Wandernder eremitischen Seelensprecherin“ in der Tavernen-Herausforderung bei „Prinz“ in der Taverne Zum Katzenschwanz zu erhalten."
   },
@@ -18,8 +20,10 @@
     {
       "id": "spiritspeaking_frost_star",
       "name": "Seelensprecher – Kalter Stern",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -38,8 +42,10 @@
     {
       "id": "radiance_in_flux",
       "name": "Strahlkraft im Wandel",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], platziert 1 <span style=\"color:#FFFFFFFF\">Strahlende Farben</span> als dritte Karte von oben in deinem Deck und <span style=\"color:#FFFFFFFF\">wählt</span> 1 von 3 zufälligen Verstärkungseffekten von <span style=\"color:#FFFFFFFF\">Strahlende Farben</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>, platziert 1 <span style=\"color:#FFFFFFFF\">Strahlende Farben</span> als dritte Karte von oben in deinem Deck. <span style=\"color:#FFFFFFFF\">Wählt</span>, wenn die ersten 4-mal in diesem Spiel diese Fähigkeit angewendet wird, 1 von 3 zufälligen Verstärkungseffekten von <span style=\"color:#FFFFFFFF\">Strahlende Farben</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -52,8 +58,10 @@
     {
       "id": "chilling_illustration",
       "name": "Bild mit Gänsehautgarantie",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1] und fügt 1 <span style=\"color:#FFFFFFFF\">Strahlende Farben</span> deiner Hand hinzu.",
-      "skillTag": [],
+      "desc": "Verursacht 4 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span> und fügt 1 <span style=\"color:#FFFFFFFF\">Strahlende Farben</span> deiner Hand hinzu.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -73,7 +81,9 @@
       "id": "iridescent_silhouette",
       "name": "Schillernde Silhouette",
       "desc": "Passiv – Erschafft zu Beginn des Kampfes 3 <span style=\"color:#FFFFFFFF\">Strahlende Farben</span> und verteilt sie gleichmäßig in deinen Stapel.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

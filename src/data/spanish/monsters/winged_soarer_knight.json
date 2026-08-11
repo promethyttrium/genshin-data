@@ -1,0 +1,40 @@
+{
+  "_id": 25130201,
+  "id": "winged_soarer_knight",
+  "monsterId": 25130302,
+  "name": "Danzarín Alado",
+  "specialNames": [
+    "Danzarín Alado"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestias exóticas",
+  "filename_icon": "UI_MonsterIcon_Human_Girl_Vila_Blade",
+  "description": "Unos vila alados capaces de volar por el cielo.\\nSe dice que los vila son una raza de hadas que siguió al Zar Belyi desde que este comenzó la unificación de las tierras heladas. Su capacidad de volar brevemente en el aire les otorga una movilidad bastante rápida, y pueden llevar a cabo sin dificultad tareas de exploración y reconocimiento de enemigos, o incursiones de larga distancia.\\nLa Druzhna, la guardia personal fundada durante la era del Zar Belyi, estaba compuesta en su mayoría por vila.",
+  "bgm": 1,
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.2,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 4.57189,
+      "attack": 40.552467,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "_id": 26310301,
+  "id": "chimeric_winged_elephant",
+  "monsterId": 26310302,
+  "name": "Elefante Quimérico Alado",
+  "specialNames": [
+    "Elefante Quimérico Alado"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestias exóticas",
+  "filename_icon": "UI_MonsterIcon_Chimera_ElephantBird",
+  "description": "Un Monstruo Quimérico Aberrante, producto de la bioalquimia que tanto prosperó en el pasado en las tierras heladas.\\nUn elefante alado de patas cortas probablemente pueda migrar sin verse afectado por las condiciones geográficas, así como alcanzar frutos en lugares elevados.\\nEl creador de este monstruo quimérico le dio vida con ese propósito en mente. Más adelante, durante la guerra contra la marea de bestias oscuras, los Elefantes Quiméricos Alados trabajaron junto a los vila en labores de inteligencia para garantizar que las órdenes militares del Zar Belyi llegaran sin problema en sus campañas.",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.2,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 5.486268,
+      "attack": 54.069954,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

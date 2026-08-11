@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Kryo",
+    "weapon": "Stangenwaffe",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "source": "Nach einem gewonnenen „Duell – Nett“ mit Mika in der Taverne Zum Katzenschwanz zu erhalten."
   },
@@ -18,8 +20,10 @@
     {
       "id": "spear_of_favonius_arrows_passage",
       "name": "Favonius-Speerkunst – Erbe der Bolzen",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -38,8 +42,10 @@
     {
       "id": "starfrost_swirl",
       "name": "Sternenfrost-Strudel",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 1 <span style=\"color:#FFFFFFFF\">Seelenböe</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Seelenböe</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -53,7 +59,9 @@
       "id": "skyfeather_song",
       "name": "Der Federn Wunsch",
       "desc": "Stellt allen deinen Figuren 1 Pkt. LP wieder her, erschafft 1 <span style=\"color:#FFFFFFFF\">Falkenfeder-Erlebnis</span> und 1 <span style=\"color:#FFFFFFFF\">Falkenfeder-Lobpreisung</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -73,7 +81,9 @@
       "id": "suppressive_barrage",
       "name": "Unterdrückendes Sperrfeuer",
       "desc": "Passiv – <span style=\"color:#FFFFFFFF\">Nach Anwenden einer Fähigkeit durch die Figur:</span> Der nächste <span style=\"color:#FFFFFFFF\">phys. SCH</span> durch deine Seite +1 (2-mal pro Runde).",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

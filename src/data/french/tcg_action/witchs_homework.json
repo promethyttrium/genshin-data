@@ -1,0 +1,28 @@
+{
+  "_id": 332065,
+  "id": "witchs_homework",
+  "shareId": 618,
+  "name": "Devoir de la sorcière",
+  "title": "Devoir de la sorcière",
+  "desc": "« Au lieu de débarquer de nulle part pour voler à la rescousse de Mondstadt, il est plus logique de préparer le terrain progressivement. »",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Élément identique",
+    "card_type": "Carte d'événement",
+    "energy": [
+      {
+        "_id": 1108,
+        "id": "matching_element",
+        "type": "Élément identique",
+        "count": 1
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "Pioche 1 carte d'aptitude. Si votre deck contient initialement un minimum de 3 cartes d'aptitude : Accorde aléatoirement une <span style=\"color:#FFFFFFFF\">réduction de coût</span> à 1 carte d'aptitude ayant le <span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">coût actuel de dés élémentaires</span></span> le plus élevé dans votre main."
+    }
+  ]
+}

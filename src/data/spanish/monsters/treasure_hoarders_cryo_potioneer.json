@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Ice_01",
   "description": "Un miembro de un grupo poco organizado que ha llegado a todos los rincones del continente, incluso a dominios desconocidos.\\nLos Maestros de Pociones Cryo son bastante populares entre los Ladrones de Tesoros porque las pócimas que preparan pueden reducir la temperatura rápidamente. Así se pueden preparar bebidas frías hasta cuando no hay flores heladas por los alrededores.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Прочие человеческие фракции",
   "filename_icon": "UI_MonsterIcon_Samurai_Kairagi_01",
   "description": "Самураи, вступившие на путь бандитизма.\\nОни мастерски владеют боевыми искусствами, но не находят им применения. От отчаяния они встали на путь зла. Чтобы наделить свои клинки силой молнии, они используют особые талисманы, изготовленные по якобы утраченной технике Камуны.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 6,
   "stats": {

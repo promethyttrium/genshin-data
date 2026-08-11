@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "Gespensterherz",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "Geisterhülle",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Elementare Lebensformen",
   "filename_icon": "UI_MonsterIcon_Sylph_Rock_01",
   "description": "Ein Monster, das aus einer hohen Geo-Konzentration entstanden ist und in der Luft schweben kann.\\nGeo-Gespenster ahmen die Früchte bestimmter Pflanzen nach, wenn ihre Flügel geschlossen sind. Als solche werden sie von einigen alten Erzählungen für die Frucht eines riesigen Baumes im Himmel gehalten und haben angeblich daher einen geheimnisvollen medizinischen Wert.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

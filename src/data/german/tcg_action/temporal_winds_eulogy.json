@@ -1,0 +1,32 @@
+{
+  "_id": 215032,
+  "id": "temporal_winds_eulogy",
+  "shareId": 617,
+  "name": "Ode an die Winde der Zeit",
+  "title": "Venti – Ode an die Winde der Zeit",
+  "desc": "„Daher kann dieses sogenannte ‚Unbekannte‘ nur zwei Dinge bedeuten: eine Zukunft, die nicht durch die Sterne bestimmt ist, oder eine, die von Menschen mit anderen Zielen bewusst verschleiert wird. Letzteres ist wirklich unerfreulich, und ich hoffe doch sehr, dass die kleine Hexe in der Geschichte niemals zu so jemandem wird.“",
+  "in_play_description": "Nach dem Erschaffen von <span style=\"color:#FFFFFFFF\">Zentrum des Sturms</span> durch dich: Der <span style=\"color:#FFFFFFFF\">phys. SCH</span> durch die nächsten 2 <span style=\"color:#FFFFFFFF\">Standardangriffe</span> durch die hiermit ausgerüstete Figur in dieser Runde wird nun <span style=\"color:#80FFD7FF\">Anemo-SCH</span>. Hierfür werden außerdem 2 <span style=\"color:#FFFFFFFF\">Würfel (beliebig)</span> weniger verbraucht.",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "Anemo",
+    "card_type": "Ausrüstungskarte",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "Anemo",
+        "count": 3
+      }
+    ],
+    "tags": [
+      "Talent",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Schnellaktion</span>: Rüste damit deinen <span style=\"color:#FFFFFFFF\">Venti</span> aus.<br/> Erschafft <span style=\"color:#FFFFFFFF\">Zentrum des Sturms</span>.<br/>Nach dem Erschaffen von <span style=\"color:#FFFFFFFF\">Zentrum des Sturms</span> durch dich: Der <span style=\"color:#FFFFFFFF\">phys. SCH</span> durch die nächsten 2 <span style=\"color:#FFFFFFFF\">Standardangriffe</span> durch die hiermit ausgerüstete Figur in dieser Runde wird nun <span style=\"color:#80FFD7FF\">Anemo-SCH</span>. Hierfür werden außerdem 2 <span style=\"color:#FFFFFFFF\">Würfel (beliebig)</span> weniger verbraucht.<br/>(Diese Karte kann nur einem Deck hinzugefügt werden, das Venti enthält.)"
+    }
+  ]
+}

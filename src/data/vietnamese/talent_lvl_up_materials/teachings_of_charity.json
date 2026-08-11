@@ -1,0 +1,18 @@
+{
+  "_id": 104365,
+  "id": "teachings_of_charity",
+  "name": "Bài Giảng Của \"Yêu Thương\"",
+  "description": "Nguyên liệu bồi dưỡng Thiên Phú.\\n\"Yêu thương\" là sự cứu rỗi của vương quốc băng giá.\\nYêu thương là sự quý trọng và che chở lẫn nhau giữa những con người phàm tục. Trên vùng đất rộng lớn này, con người dựa vào đó để chống lại sự lạnh lẽo của sương tuyết, xoa dịu những vết sẹo hằn sâu trong ký ức.",
+  "source": [
+    "Đổi Cửa Hàng Túi Quà"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Bí Cảnh Tinh Thông: Mặc Tưởng IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Thứ 2",
+    "Thứ 5",
+    "Chủ Nhật"
+  ]
+}

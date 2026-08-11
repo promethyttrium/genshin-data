@@ -1,0 +1,54 @@
+{
+  "_id": 4906,
+  "id": "sweet_scoops",
+  "name": "Viên Kem Ngọt Ngào",
+  "description": "Viên kem thập cẩm. Bốn viên kem với bốn hương vị khác nhau được múc riêng vào từng cốc giấy, rồi đặt chung vào trong một hộp đựng. Người thưởng thức thường chia làm hai kiểu, muốn ăn vị nào thì xúc vị đó, hoặc ăn lần lượt từng vị một... Điểm chung là cuối cùng đáy hộp đều sẽ trống không.",
+  "rarity": 4,
+  "ingredients": [
+    {
+      "_id": 101265,
+      "id": "midsommar_berry",
+      "name": "Quả Sồi Hè",
+      "amount": 3
+    },
+    {
+      "_id": 101264,
+      "id": "lakkaberry",
+      "name": "Quả Lakka",
+      "amount": 3
+    },
+    {
+      "_id": 101281,
+      "id": "rimecurrant",
+      "name": "Lý Gai Băng Giá",
+      "amount": 3
+    },
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Củ Dền Đỏ",
+      "amount": 3
+    }
+  ],
+  "dish_type": "Món Dạng Tấn Công",
+  "results": {
+    "suspicious": {
+      "_id": 132018,
+      "name": "Viên Kem Ngọt Ngào Kỳ Lạ",
+      "description": "Viên kem thập cẩm. Bề mặt viên kem lồi lõm, giống như tờ giấy bị vò nát rồi cố vuốt lại hình dáng ban đầu. Khi đưa vào miệng, cảm giác của vụn băng lấn át hết mọi hương vị, hoàn toàn không nếm được các tầng vị vốn có... Lúc này đây chỉ muốn nhắm mắt lại và tự hỏi tại sao bản thân lại chọn thử thách món này...",
+      "effect": "Tấn công cả đội tăng 224 điểm, tỷ lệ bạo kích cả đội tăng 6%, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    },
+    "normal": {
+      "_id": 132019,
+      "name": "Viên Kem Ngọt Ngào",
+      "description": "Viên kem thập cẩm. Bốn viên kem với bốn hương vị khác nhau được múc riêng vào từng cốc giấy, rồi đặt chung vào trong một hộp đựng. Người thưởng thức thường chia làm hai kiểu, muốn ăn vị nào thì xúc vị đó, hoặc ăn lần lượt từng vị một... Điểm chung là cuối cùng đáy hộp đều sẽ trống không.",
+      "effect": "Tấn công cả đội tăng 272 điểm, tỷ lệ bạo kích cả đội tăng 8%, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    },
+    "delicious": {
+      "_id": 132020,
+      "name": "Viên Kem Ngọt Ngào Ngon",
+      "description": "Viên kem thập cẩm. Lớp kem mềm mịn từ từ tan chảy trên đầu lưỡi, cảm giác mát lạnh cùng hương vị ngọt ngào chậm rãi lan tỏa. Ngay cả khi hộp đã trống không cũng chẳng nỡ buông tay, nhắm mắt lại dường như vẫn còn cảm nhận được dư vị hạnh phúc...",
+      "effect": "Tấn công cả đội tăng 320 điểm, tỷ lệ bạo kích cả đội tăng 10%, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    }
+  }
+}

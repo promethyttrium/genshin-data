@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Staff_Rock_01",
   "description": "Skirmisher ที่สามารถสร้างเกราะขึ้นมาจากธาตุหินเพื่อปกป้องสหายร่วมรบได้\\nแตกต่างจาก Mage และ Agent ที่เป็นพวกหัวกะทิ ลำพังกำลังรบและอุปกรณ์ของ Skirmisher นั้นค่อนข้างจะอ่อนแอ\\nเพื่อที่จะทำภารกิจให้สำเร็จและลดความสูญเสียในหมู่สมาชิกและทรัพยากรแล้ว Skirmisher จึงมักจะใช้กลยุทธ์การต่อสู้แบบเป็นทีมเป็นหลัก",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

@@ -1,0 +1,63 @@
+{
+  "_id": 4702,
+  "id": "domain_of_mastery_shared_vision_iv",
+  "name": "Domínio da Proficiência: Visão Compartilhada IV",
+  "entranceId": 2074,
+  "entranceName": "Relíquias do Tormento",
+  "description": "Um santuário erguido no passado pelos feéricos antigos, agora maculado por bandidos patéticos.\nSe você conseguir derrotar os inimigos que vagam dentro deste local, você pode acabar obtendo conhecimento e esclarecimento sobre as maneiras pelas quais seus talentos podem ser aprimorados.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 88,
+  "unlockRank": 45,
+  "disorder": [
+    "· When a character triggers Superconduct or Stellar-Conduct reactions, or deals Stellar-Conduct DMG, a shockwave will be unleashed at the target enemy's location, dealing Electro DMG."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_03",
+  "recommendedElements": [
+    "Cryo",
+    "Electro"
+  ],
+  "daysOfWeek": [
+    "Quarta-feira",
+    "Sábado",
+    "Domingo"
+  ],
+  "domainType": "UI_ABYSSUS_AVATAR_PROUD",
+  "domainText": "Talent Level-Up Material",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP de Aventura",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "2375"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP de Amizade",
+      "count": "20"
+    },
+    {
+      "_id": 104373,
+      "id": "philosophies_of_glory",
+      "name": "Filosofia da Glória"
+    },
+    {
+      "_id": 104372,
+      "id": "guide_to_glory",
+      "name": "Guia da Glória"
+    },
+    {
+      "_id": 104371,
+      "id": "teachings_of_glory",
+      "name": "Ensinamentos da Glória"
+    }
+  ],
+  "monsterList": []
+}

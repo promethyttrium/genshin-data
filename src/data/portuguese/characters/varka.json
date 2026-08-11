@@ -595,7 +595,7 @@
     {
       "id": "winds_vanguard",
       "name": "Vanguarda do Vento",
-      "description": "Quando um membro próximo da equipe desencadeia Redemoinho, Varka obterá 1 acúmulo de <span style=\"color:#FFD780FF\">Juramento da Presa Cerúlea</span>, aumentando o Dano de seu Ataque Normal, Ataque Carregado, Ataque Carregado especial <span style=\"color:#FFD780FF\">Devoração Cerúlea</span> e de sua Habilidade Elemental especial <b><span style=\"color:#FFD780FF\">Ascensão dos Quatro Ventos</span></b> em 7.5% por 8s. Esse efeito pode ser acumulado até 4 vezes, e cada personagem pode fazer Varka obter 1 acúmulo de <span style=\"color:#FFD780FF\">Juramento da Presa Cerúlea</span> por segundo.",
+      "description": "Quando um membro próximo da equipe desencadeia Redemoinho ou Redemoinho Estelar, Varka obterá 1 acúmulo de <span style=\"color:#FFD780FF\">Juramento da Presa Cerúlea</span>, aumentando o Dano de seu Ataque Normal, Ataque Carregado, Ataque Carregado especial <span style=\"color:#FFD780FF\">Devoração Cerúlea</span> e de sua Habilidade Elemental especial <b><span style=\"color:#FFD780FF\">Ascensão dos Quatro Ventos</span></b> em 7.5% por 8s. Esse efeito pode ser acumulado até 4 vezes, e cada personagem pode fazer Varka obter 1 acúmulo de <span style=\"color:#FFD780FF\">Juramento da Presa Cerúlea</span> por segundo.",
       "level": 4
     },
     {
@@ -631,7 +631,7 @@
       "_id": 1284,
       "id": "for_none_may_take_from_us_our_freedom_of_song",
       "name": "\"Que ninguém tome a liberdade de nossa canção.\"",
-      "description": "Quando Varka desencadear Redemoinho, faz com que todos os membros próximos da equipe obtenham 20% de <span style=\"color:#80FFD7FF\">bônus de Dano Anemo</span> e o bônus de Dano Elemental correspondente participante da reação por 10s.",
+      "description": "Quando Varka desencadear Redemoinho ou Redemoinho Estelar, faz com que todos os membros próximos da equipe obtenham 20% de <span style=\"color:#80FFD7FF\">bônus de Dano Anemo</span> e o bônus de Dano Elemental correspondente participante da reação por 10s.",
       "level": 4
     },
     {

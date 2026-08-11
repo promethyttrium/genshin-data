@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Drillhead",
   "description": "Dũng sĩ đến từ hẻm núi, người bảo vệ bộ tộc tuần tra ở khu vực non nước khoáng thạch.\\nChiến sĩ bộ tộc hai tay vung búa khổng lồ, tiên phong dẫn đầu đánh phá phòng ngự của kẻ địch. Ở nơi yêu thích đá quý và đồ trang trí thủ công như Con Của Tiếng Vang, thì búa luôn là công cụ mà các chiến sĩ thường xuyên tiếp xúc ngay từ khi còn nhỏ.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

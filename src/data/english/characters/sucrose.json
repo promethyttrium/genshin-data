@@ -369,7 +369,7 @@
     {
       "id": "catalyst_conversion",
       "name": "Catalyst Conversion",
-      "description": "When Sucrose triggers a Swirl reaction, all characters in the party with the matching element (excluding Sucrose) have their Elemental Mastery increased by 50 for 8s.",
+      "description": "When Sucrose triggers a Swirl or Stellar Swirl reaction, all characters in the party with the matching element (excluding Sucrose) have their Elemental Mastery increased by 50 for 8s.",
       "level": 1
     },
     {

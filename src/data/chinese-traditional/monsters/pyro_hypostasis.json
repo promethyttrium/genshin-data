@@ -13,7 +13,6 @@
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Effigy_Fire",
   "description": "代號為「亞因」的高級火元素生命。\\n根據學者的研究，無相元素與當地元素脈絡的異常有著密切的關聯。但究竟是無相元素的存在影響了元素脈絡，還是異變的元素能量創生了無相元素，就不得而知了。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

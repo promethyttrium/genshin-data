@@ -31,22 +31,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Trimmed Red Silk",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Faded Red Satin",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Eremite_MuscleMan_Gloves",
   "description": "Seorang prajurit bayaran yang berasal dari gurun pasir berwarna emas. Rela bekerja untuk siapa saja yang bisa memberinya imbalan.\\nSeorang ahli bela diri yang mengenakan senjata katar khusus dan bergabung dengan Eremite untuk mencari lawan yang tangguh. Mereka bertarung bukan untuk mendapatkan uang, melainkan untuk mencapai tingkat bela diri yang lebih tinggi lagi.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

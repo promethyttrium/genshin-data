@@ -1,0 +1,80 @@
+{
+  "_id": 4703,
+  "id": "domain_of_blessing_ice_erosion_i",
+  "name": "Yadigar Zindanı: Buz Aşınması I",
+  "entranceId": 2075,
+  "entranceName": "Ters Buzul",
+  "description": "Sonsuz kış fırtınalarıyla kasıp kavrulan çorak bir dağ. Kadim ve ıssız soğuğunda ne canavarlar ne de haydutlar uzun süre hayatta kalabilir.\nEğer burada barınan alçakları yenebilirsen değerli yadigarlar elde edebilirsin.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 59,
+  "unlockRank": 30,
+  "disorder": [
+    "After a character triggers a Cryo-related reaction, all party members' Elemental Mastery is increased by 250 for 10s."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_01",
+  "recommendedElements": [
+    "Buz",
+    "Elektrik",
+    "Rüzgar"
+  ],
+  "domainType": "UI_ABYSSUS_RELIC",
+  "domainText": "Artifacts",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Macera TP",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "1850"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Yoldaşlık TP",
+      "count": "15"
+    },
+    {
+      "_id": 400420,
+      "id": "scarlet_proof",
+      "name": "Scarlet Proof",
+      "rarity": 4
+    },
+    {
+      "_id": 400430,
+      "id": "heart_of_the_furnace",
+      "name": "Heart of the Furnace",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 4
+    },
+    {
+      "_id": 400008,
+      "id": "brave_heart",
+      "name": "Brave Heart",
+      "rarity": 4
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 3
+    },
+    {
+      "_id": 400007,
+      "id": "brave_heart",
+      "name": "Brave Heart",
+      "rarity": 3
+    }
+  ],
+  "monsterList": []
+}

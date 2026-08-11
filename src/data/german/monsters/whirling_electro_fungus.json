@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Fungus_Trois_Epsilon_Electric",
   "description": "Sporengeschöpf mit einer gewissen Intelligenz. Hat eine starke Fähigkeit zur Anpassung an die Umwelt.\\nStudien haben gezeigt, dass sich die Richtung der elektrischen Ströme im Inneren dieser Pilzbestien mit der Zeit regelmäßig ändert. Wenn es gut entwickelt würde, könnte es eine breitere Anwendung haben ...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

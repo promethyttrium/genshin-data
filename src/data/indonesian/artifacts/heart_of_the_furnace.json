@@ -1,0 +1,39 @@
+{
+  "_id": 215048,
+  "id": "heart_of_the_furnace",
+  "name": "Heart of the Furnace",
+  "min_rarity": 4,
+  "max_rarity": 5,
+  "two_pc": "ATK +18%.",
+  "four_pc": "Saat Karakter yang mengenakan memicu reaksi Stellar Glimmer atau mengakibatkan DMG reaksi Stellar Glimmer, maka ATK +12% dan DMG reaksi Stellar Glimmer yang diakibatkan Karakter party di sekitar +50% selama 12 detik. Efek di atas juga dapat terpicu saat Karakter yang mengenakan ada di dalam party namun tidak berada dalam medan pertempuran. Bonus DMG dari Set Artefak dengan nama yang sama tidak dapat ditumpuk.",
+  "goblet": {
+    "_id": 48412,
+    "id": "foundrymans_magnanimity",
+    "name": "Foundryman's Magnanimity",
+    "description": "Ia tahu bahwa persahabatan tidaklah seperti nyala api tungku yang dapat terus menyala selama bahan bakarnya masih ada."
+  },
+  "plume": {
+    "_id": 48422,
+    "id": "foundrymans_observation",
+    "name": "Foundryman's Observation",
+    "description": "Ia tahu bahwa perubahan dunia tidak seperti nyala api tungku yang dapat dipahami melalui pengamatan."
+  },
+  "circlet": {
+    "_id": 48432,
+    "id": "foundrymans_legacy",
+    "name": "Foundryman's Legacy",
+    "description": "Ia tahu bahwa tekad untuk mengejar sebuah impian tidaklah seperti nyala api tungku yang bisa diteruskan bak obor ke tangan penerusnya."
+  },
+  "flower": {
+    "_id": 48442,
+    "id": "foundrymans_conjecture",
+    "name": "Foundryman's Conjecture",
+    "description": "Ia tahu bahwa kehangatan hati manusia tidak seperti suhu perapian yang bisa diukur dan dipahami perubahannya."
+  },
+  "sands": {
+    "_id": 48452,
+    "id": "foundrymans_calculus",
+    "name": "Foundryman's Calculus",
+    "description": "Ia tahu bahwa cara kerja kekuasaan tidaklah seperti nyala api tungku yang bisa dikendalikan alirannya melalui sebuah tombol."
+  }
+}

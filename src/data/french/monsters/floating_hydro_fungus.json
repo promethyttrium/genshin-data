@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Fungus_Un_Gamma_Water",
   "description": "Une spore dotée d'un certain degré d'intelligence qui possède une excellente capacité d'adaptation à son environnement.\\nIl paraît qu'elle a très mauvais goût. Malgré cela, ces organismes issus de la moisissure peuvent servir de source d'eau d'urgence du fait de leur forte teneur en eau.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

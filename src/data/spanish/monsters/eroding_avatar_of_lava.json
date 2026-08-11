@@ -25,19 +25,19 @@
       "_id": 112112,
       "id": "ignited_seeing_eye",
       "name": "Ojo vigía ignífero",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112111,
       "id": "ignited_seed_of_life",
       "name": "Semilla vital ignífera",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112110,
       "id": "ignited_stone",
       "name": "Roca ignífera",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Lava_Solid",
   "description": "Un particular monstruo que necesita absorber calor constantemente para moverse.\\nCierta civilización de la antigüedad usaba distintos tipos de patrones dorados iridiscentes para hacer que el flogisto fluyera, con lo que conseguían que creaciones gigantescas y ciudades magníficas funcionaran gracias a la sabiduría de dichos patrones. Dicen que, además de las máquinas de estructura fija, los monstruos conocidos como “Surcamagmas” son, en realidad, formas de vida dañadas que se crearon del mismo modo. Sin embargo, la mayoría de ellos perdieron su rumbo y propósito cuando las llamas de la Montaña Sagrada se extinguieron.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

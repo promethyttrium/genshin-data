@@ -1,0 +1,32 @@
+{
+  "_id": 215032,
+  "id": "temporal_winds_eulogy",
+  "shareId": 617,
+  "name": "Zaman Rüzgarına Methiye",
+  "title": "Venti: Zaman Rüzgarına Methiye",
+  "desc": "\"Bu nedenle 'Görünmez Olan' yalnızca iki anlama gelebilir: Yıldızlara bağlı olmayan bir gelecek veya kötü niyetli kişiler tarafından kasıtlı olarak gizlenmiş bir gelecek. İkincisi gerçekten sinir bozucu. Umarım hikayedeki küçük cadı asla böyle biri olmaz.\"",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Fırtına Gözü</span> çağırdıktan sonra, bu kartın ekli olduğu karakterin mevcut Turdaki sonraki iki <span style=\"color:#FFFFFFFF\">Normal Saldırısı</span> için <span style=\"color:#FFFFFFFF\">Fiziksel Hasar</span>, <span style=\"color:#80FFD7FF\">Rüzgar Hasarı</span>na dönüşür ve bu saldırıların maliyeti 2 <span style=\"color:#FFFFFFFF\">Nötr Element</span> azalır.",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "Rüzgar",
+    "card_type": "Ekipman Kartı",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "Rüzgar",
+        "count": 3
+      }
+    ],
+    "tags": [
+      "Yetenek",
+      "Cadılık"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Hızlı Hamle</span>: Bunu <span style=\"color:#FFFFFFFF\">Venti</span> karakterine kuşandır.<br/><span style=\"color:#FFFFFFFF\">Fırtına Gözü</span> çağırırsın.<br/><span style=\"color:#FFFFFFFF\">Fırtına Gözü</span> çağırdıktan sonra, bu kartın ekli olduğu karakterin mevcut Turdaki sonraki iki <span style=\"color:#FFFFFFFF\">Normal Saldırısı</span> için <span style=\"color:#FFFFFFFF\">Fiziksel Hasar</span>, <span style=\"color:#80FFD7FF\">Rüzgar Hasarı</span>na dönüşür ve bu saldırıların maliyeti 2 <span style=\"color:#FFFFFFFF\">Nötr Element</span> azalır.<br/>(Bu kartı destene eklemek için destende Venti olmalıdır.)"
+    }
+  ]
+}

@@ -45,7 +45,6 @@
   "description": "Un Hilichurl muscoloso che usa una roccia come scudo.\\nCombattere e mangiare carne sono le due cose più importanti per gli Hilichurl, perché sono i fattori che li fanno diventare più forti.\\nTutti i giovani Hilichurl sognano di crescere e diventare un grande e forte Mitachurl, perché così potranno mangiare più carne, combattere più battaglie e maneggiare (più o meno) scudi di pietra giganteschi e impenetrabili.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 2,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.3,

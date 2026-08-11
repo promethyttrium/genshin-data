@@ -13,7 +13,6 @@
   "categoryText": "Abisso",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_02",
   "description": "Una strana forma di vita che si trova principalmente a Elynas.\\nI Primoplasti della Faglia ricevono un potente shock quando s'imbattono nelle energie di Ousia o Pneuma. Un'ottima strategia per allontanarli in modo poco aggressivo e poco invasivo.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

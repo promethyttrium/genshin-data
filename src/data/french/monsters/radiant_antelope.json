@@ -13,7 +13,6 @@
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Magbeast_Argali",
   "description": "Une bête qui a évolué de manière unique grâce à une longue immersion dans l'ancienne énergie lunaire.\\nD'étranges éclairs se sont abattus sur les terres bénies par le clair de lune, et des antilopes jadis ordinaires ont obtenu le pouvoir de manier la foudre. Certains affirment avoir été témoins d'un spectacle pour le moins étrange : des antilopes dressées au sommet des falaises, à la lisière d'une tempête, cherchant à attirer les éclairs pour en imprégner tout leur corps.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

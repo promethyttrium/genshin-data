@@ -1,0 +1,30 @@
+{
+  "_id": 104369,
+  "id": "guide_to_fortitude",
+  "name": "「坚忍」的指引",
+  "description": "天赋培养素材。\\n「坚忍」是冰之国土的品格。\\n坚忍带来生长的意志。即便寒潮摧折，羸弱的种子仍能借这意志破土而出，在风雪覆盖的大地上生出新芽。",
+  "source": [
+    "占位-可合成数量:{0}"
+  ],
+  "location": "至冬",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104368,
+        "id": "teachings_of_fortitude",
+        "name": "「坚忍」的教导",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "精通秘境：隐修 IV",
+  "domainId": "domain_of_mastery_hermitage_iv",
+  "days": [
+    "周二",
+    "周五",
+    "周日"
+  ]
+}

@@ -23,6 +23,11 @@
       "name": "Panino di segale ripieno di carne"
     },
     {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "Pagnotta di segale alla Glupov"
+    },
+    {
       "_id": 3607,
       "id": "lakkaberry_pie",
       "name": "Torta Baccalakka"
@@ -35,6 +40,5 @@
   ],
   "source": [
     "Lavorato"
-  ],
-  "rarity": 0
+  ]
 }

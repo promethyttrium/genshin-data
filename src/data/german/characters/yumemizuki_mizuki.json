@@ -190,7 +190,7 @@
       "_id": 11092,
       "id": "aisa_utamakura_pilgrimage",
       "name": "Wallfahrt nach Aisa Utamakura",
-      "description": "Webt die Erinnerungen an einen schönen Traum, geht in Zustand <span style=\"color:#FFD780FF\">Träumerisches Treiben</span>, in dem sie über dem Boden schwebt, über und fügt Gegnern in der Umgebung einmal <span style=\"color:#80FFD7FF\">Anemo-Flächenschaden</span> zu.<br/><br/><span style=\"color:#FFD780FF\">Träumerisches Treiben</span><br/>· Yumemizuki Mizuki bewegt sich, wenn sie im Zustand Träumerisches Treiben ist, fortlaufend nach vorn und fügt Gegnern in der Nähe in gewissen zeitlichen Abständen <span style=\"color:#80FFD7FF\">Anemo-Flächenschaden</span> zu.<br/>· Während dieser Zeit kann Yumemizuki Mizuki die Richtung, in die sie schwebt, steuern. Erhöht währenddessen die Reichweite zum Aufsammeln von <span style=\"color:#FFD780FF\">Snacks nach Yumemi-Art</span> der Spezialfähigkeit <span style=\"color:#FFD780FF\">Anraku-Therapie in den geheimen Quellen</span>.<br/>· Erhöht den von Truppenmitgliedern in der Nähe beim Auslösen der Reaktion Verwirbelung verursachten Schaden basierend auf Yumemizuki Mizukis Elementarkunde.<br/>· Beim Auswechseln von Yumemizuki Mizuki oder erneuten Anwenden der Fähigkeit endet der Zustand Träumerisches Treiben.",
+      "description": "Webt die Erinnerungen an einen schönen Traum, geht in Zustand <span style=\"color:#FFD780FF\">Träumerisches Treiben</span>, in dem sie über dem Boden schwebt, über und fügt Gegnern in der Umgebung einmal <span style=\"color:#80FFD7FF\">Anemo-Flächenschaden</span> zu.<br/><br/><span style=\"color:#FFD780FF\">Träumerisches Treiben</span><br/>· Yumemizuki Mizuki bewegt sich, wenn sie im Zustand Träumerisches Treiben ist, fortlaufend nach vorn und fügt Gegnern in der Nähe in gewissen zeitlichen Abständen <span style=\"color:#80FFD7FF\">Anemo-Flächenschaden</span> zu.<br/>· Während dieser Zeit kann Yumemizuki Mizuki die Richtung, in die sie schwebt, steuern. Erhöht währenddessen die Reichweite zum Aufsammeln von <span style=\"color:#FFD780FF\">Snacks nach Yumemi-Art</span> der Spezialfähigkeit <span style=\"color:#FFD780FF\">Anraku-Therapie in den geheimen Quellen</span>.<br/>· Erhöht den von Truppenmitgliedern in der Nähe beim Auslösen der Reaktion Verwirbelung und Stellar-Verwirbelung verursachten Schaden basierend auf Yumemizuki Mizukis Elementarkunde.<br/>· Beim Auswechseln von Yumemizuki Mizuki oder erneuten Anwenden der Fähigkeit endet der Zustand Träumerisches Treiben.",
       "info": "„Wir treffen uns in tiefster Nacht, wenn froher Klang in uns erwacht.“",
       "attributes": [
         {
@@ -254,43 +254,63 @@
           ]
         },
         {
-          "label": "Verwirbelung-SCH-Bonus pro Punkt Elementarkunde",
+          "label": "Verwirbelung-SCH-Bonus pro 100 Punkte Elementarkunde",
           "values": [
-            "0.18%",
-            "0.21%",
-            "0.24%",
-            "0.27%",
-            "0.3%",
-            "0.33%",
-            "0.36%",
-            "0.39%",
-            "0.42%",
-            "0.45%",
-            "0.48%",
-            "0.51%",
-            "0.54%",
-            "0.57%",
-            "0.6%"
+            "18%",
+            "21%",
+            "24%",
+            "27%",
+            "30%",
+            "33%",
+            "36%",
+            "39%",
+            "42%",
+            "45%",
+            "48%",
+            "51%",
+            "54%",
+            "57%",
+            "60%"
+          ]
+        },
+        {
+          "label": "Stellar-Verwirbelung-SCH-Bonus pro 100 Punkt Elementarkunde",
+          "values": [
+            "1.8%",
+            "2.1%",
+            "2.4%",
+            "2.7%",
+            "3%",
+            "3.3%",
+            "3.6%",
+            "3.9%",
+            "4.2%",
+            "4.5%",
+            "4.8%",
+            "5.1%",
+            "5.4%",
+            "5.7%",
+            "6%"
           ]
         },
         {
           "label": "Abklingzeit",
           "values": [
-            "15s",
-            "15s",
-            "15s",
-            "15s",
-            "15s",
-            "15s",
-            "15s",
-            "15s",
-            "15s",
-            "15s",
-            "15s",
-            "15s",
-            "15s",
-            "15s",
-            "15s"
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
           ]
         }
       ]
@@ -429,7 +449,7 @@
     {
       "id": "bright_moons_restless_voice",
       "name": "Ruhelose Stimme des hellen Mondes",
-      "description": "Verlängert, wenn Yumemizuki Mizuki im Zustand Träumerisches Treiben die Reaktion Verwirbelung auslöst, die Wirkungsdauer dieses Zustands um 2,5 s. 0,3 s Abklingzeit, 2-mal auslösbar während einer Wirkungsdauer des Zustands Träumerisches Treiben.",
+      "description": "Verlängert, wenn Yumemizuki Mizuki im Zustand Träumerisches Treiben die Reaktion Verwirbelung oder Stellar-Verwirbelung auslöst, die Wirkungsdauer dieses Zustands um 2,5 s. 0,3 s Abklingzeit, 2-mal auslösbar während einer Wirkungsdauer des Zustands Träumerisches Treiben.",
       "level": 1
     },
     {
@@ -450,7 +470,7 @@
       "_id": 1091,
       "id": "in_mistlike_waters",
       "name": "Fernen Wassern gleicher Nebel in der Nacht",
-      "description": "Yumemizuki Mizuki fügt im Zustand Träumerisches Treiben alle 3,5 s Gegnern in der Nähe den 3 s haltenden Effekt „Dreiundzwanzig Nächte des Wartens“ zu. Entfernt diesen Effekt von Gegnern, sobald diese von einer Reaktion Verwirbelung erfasst werden, die durch Anemo-Schaden entsteht, und erhöht den diesen Gegnern durch diese Reaktion zugefügten Schaden einmalig um 1.100 % von Yumemizuki Mizukis Elementarkunde.",
+      "description": "Yumemizuki Mizuki fügt im Zustand Träumerisches Treiben alle 3,5 s Gegnern in der Nähe den 3 s haltenden Effekt „Dreiundzwanzig Nächte des Wartens“ zu. Entfernt diesen Effekt von Gegnern, sobald diese von einer Reaktion Verwirbelung oder Stellar-Verwirbelung erfasst werden, die durch Anemo-Schaden entsteht, und erhöht den diesen Gegnern durch diese Reaktion Verwirbelung oder Stellar-Verwirbelung zugefügten Schaden einmalig um jeweils 1.100 %/550 % von Yumemizuki Mizukis Elementarkunde.",
       "level": 1
     },
     {
@@ -485,7 +505,7 @@
       "_id": 1096,
       "id": "the_heart_lingers_long",
       "name": "Sehnsucht tief in meinem Herzen",
-      "description": "Wenn Yumemizuki Mizuki im Zustand Träumerisches Treiben ist, können beim Verursachen der Reaktion Verwirbelung durch Truppenmitglieder in der Nähe Kritische Treffer des entsprechenden Schadens ausgelöst werden, wobei die KT auf 30 % und der KSCH auf 100 % festgelegt sind.",
+      "description": "Wenn Yumemizuki Mizuki im Zustand Träumerisches Treiben ist, können beim Verursachen der Reaktion Verwirbelung durch Truppenmitglieder in der Nähe Kritische Treffer des entsprechenden Schadens ausgelöst werden, wobei die KT auf 30 % und der Kritische Schaden auf 100 % festgelegt sind. Erhöht zudem die KT des Stellar-Verwirbelung-Schadens dieser Figuren um 10 % und den Kritische Schaden um 20 %.",
       "level": 6
     }
   ],

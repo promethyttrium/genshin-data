@@ -155,6 +155,11 @@
       "name": "Berg, Meer und Himmel"
     },
     {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Schaschlik"
+    },
+    {
       "_id": 4002,
       "id": "golden_fried_chicken",
       "name": "Golden frittierte Hühnerhappen"
@@ -204,6 +209,5 @@
   ],
   "source": [
     "Beute von Tieren"
-  ],
-  "rarity": 0
+  ]
 }

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 3,
+    "element": "Nguyên Tố Hỏa",
+    "weapon": "Cung",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3228,
@@ -29,8 +31,10 @@
     {
       "id": "firework_flareup",
       "name": "Khói Lửa Chiến Đấu",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,7 +54,9 @@
       "id": "niwabi_firedance",
       "name": "Điệu Nhảy Niwabi Cháy Bỏng",
       "desc": "Nhân vật này nhận <span style=\"color:#FFFFFFFF\">Niwabi Enshou</span>. (Kỹ năng này không sản sinh Năng Lượng)",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "ryuukin_saxifrage",
       "name": "Cỏ Ryuukin",
-      "desc": "Gây ? điểm ?, tạo ra <span style=\"color:#FFFFFFFF\">Lưu Kim Hoả Quang</span>.",
-      "skillTag": [],
+      "desc": "Gây 3 điểm <span style=\"color:#FF9999FF\">Sát Thương Nguyên Tố Hỏa</span>, tạo ra <span style=\"color:#FFFFFFFF\">Lưu Kim Hoả Quang</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1103,

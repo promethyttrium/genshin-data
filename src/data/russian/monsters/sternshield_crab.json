@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_HermitCrab_Mature",
   "description": "Краб, поселяющийся в раковинах моллюсков и улиток.\\nНа этапе развития бронекраб постоянно ищет подходящий ему по размеру панцирь. В одной популярной детской книжке описывалось, что приходится пережить бронекрабу, чтобы найти себе дом. История вызывала у детей восторг, но оказалось, что, как и многие другие сказки, эта история произвела гораздо более глубокое впечатление на взрослых.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

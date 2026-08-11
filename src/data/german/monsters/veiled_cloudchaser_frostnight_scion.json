@@ -1,7 +1,7 @@
 {
   "_id": 20080601,
   "id": "veiled_cloudchaser_frostnight_scion",
-  "monsterId": 20080602,
+  "monsterId": 84008062,
   "name": "Verschleierter Wolkenjäger – Nachkomme der Frostnacht",
   "specialNames": [
     "Verschleierter Wolkenjäger"
@@ -13,9 +13,8 @@
   "categoryText": "Elementare Lebensformen",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Wind",
   "description": "Ein elegantes Elementarwesen, das eine immense elementare Affinität besitzt. Über die langen Jahre war es hohen Konzentrationen der Anemo-Kraft ausgesetzt, was zu seiner heutigen Form führte.\\nDer fließende Wind hat ihm ein zusätzliches Paar Flügel verliehen. Da es so gut wie nie Fußspuren auf dem Boden hinterlässt, ist es auch als sogenannter Windbegleiter bekannt.\\nIn den noch existierenden Gebeten des hohen Nordens wurden sie aus dem Segen des Frostmonds geboren und symbolisieren die reine Quelle und das erste Strahlen. Vielleicht ist das der Grund, warum sie die Befleckung ihrer blassen Reinheit mit den sieben Farben des himmlischen Lichts als unerträglich empfinden und deshalb alles Leben, das sich ihnen nähert, zurückweisen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

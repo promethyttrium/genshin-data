@@ -1,0 +1,21 @@
+{
+  "_id": 350003,
+  "id": "yayu",
+  "name": "Yayu",
+  "description": "Eine schimmernde, illusorische Waffe aus den Tiefen des Flusses der Elemente. Sie kann sich je nach Elementartyp ihres Trägers wandeln. Es heißt, dass in einer längst vergessenen, uralten Ära ein Gesandter des hohen Himmels diesen Langbogen dem Hohepriester von Lang-Gan verlieh, um ihm zu erlauben, die neugeborene Zivilisation anzuführen.",
+  "rarity": 4,
+  "type": {
+    "id": "Bow",
+    "name": "Bogen"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "Strahlendes Trugbild – Ewigkeit",
+    "priority": 2
+  },
+  "item_id": 341503,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Bow_MorphYayu_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Bow_MorphYayu"
+}

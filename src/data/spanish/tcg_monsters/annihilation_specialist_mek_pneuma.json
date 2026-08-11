@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Electro",
+    "weapon": "Otras armas",
     "faction": [
-      null
+      "Monstruo"
     ]
   },
   "skills": [
     {
       "id": "piercing_blow",
       "name": "Asalto directo",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -36,8 +40,10 @@
     {
       "id": "lightning_raid",
       "name": "Embestida estruendosa",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#FFACFFFF\">Daño Electro</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,8 +56,10 @@
     {
       "id": "leaping_thunder",
       "name": "Salto estrepitoso",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 5 pts. de <span style=\"color:#FFACFFFF\">Daño Electro</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -71,14 +79,18 @@
       "id": "support_unit_pneuma",
       "name": "Unidad de apoyo: pneuma",
       "desc": "Pasiva: al comenzar el duelo, crea un <span style=\"color:#FFFFFFFF\">Mecacentinela Zonal - Pneuma</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
       "points": []
     },
     {
       "id": "arkhe_pneuma",
       "name": "Energía pneuma",
       "desc": "<span style=\"color:#FFFFFFFF\">Tras recibir daño cargado de arjé: ousía</span>, este personaje entra en <span style=\"color:#FFFFFFFF\">estado desactivado</span> y <span style=\"color:#FFFFFFFF\">no puede usar habilidades</span> hasta el fin de la ronda actual.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
       "points": []
     }
   ]

@@ -44,7 +44,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Fire_01",
   "description": "Ein den Fatui unterstellter Agent.\\nDie Schulden, die er eintreiben soll, sind nicht auf Geld allein beschränkt.\\n„Auge um Auge, Zahn um Zahn“, er rechnet mit allem und jedem ab. Wer seine Schulden bei den Fatui nicht bezahlt, wird bei ihm die zehnfache Strafe zahlen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

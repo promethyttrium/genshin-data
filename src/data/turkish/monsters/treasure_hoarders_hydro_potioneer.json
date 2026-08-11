@@ -59,22 +59,21 @@
       "_id": 112036,
       "id": "silver_raven_insignia",
       "name": "Gümüş Kuzgun Nişanı",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112035,
       "id": "treasure_hoarder_insignia",
       "name": "Hazine Avcısı Nişanı",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Water_01",
   "description": "Kıtanın her yanına, kimsenin bilmediği zindanların derinliklerine bile ayak basmış bağımsız suç örgütünün bir üyesi.\\nBazı Hazine Avcısı İksircilerinin bir zamanlar köylerde, kasabalarda ve şehirlerde amaçsızca dolaşarak seyyar tezgahlarda sihirli içkilerini, kutsal sularını ve buna benzer şeyleri satan şarlatanlar oldukları söylenir. Bu her derde deva ürünler savaş sırasında dalavereyle satıldıkları zamanlardan çok daha iyi iş yapıyor.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

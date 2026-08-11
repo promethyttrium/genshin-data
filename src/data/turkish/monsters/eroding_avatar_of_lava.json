@@ -25,19 +25,19 @@
       "_id": 112112,
       "id": "ignited_seeing_eye",
       "name": "Alevli Göz",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112111,
       "id": "ignited_seed_of_life",
       "name": "Alevli Yaşam Tohumu",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112110,
       "id": "ignited_stone",
       "name": "Alevli Taş",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Lava_Solid",
   "description": "Aktif durumda kalabilmek için sürekli olarak ısı soğurması gereken tuhaf bir canavar.\\nKadim medeniyetler, Filojistonun akışını yönlendirmek için birbirinden farklı pek çok altın tasarım kullanmışlar ve devasa yapılar ile büyülü şehirler, altın desenli bilgelik altında yaşam bulmuş. Sabit bir yapısı olan makinaların yanı sıra Lav Avatarları olarak bilinen yaratıkların da aslında aynı şekilde yaratılmış ve ciddi hasar almış olan yaşam formları oldukları söyleniyor. Ne yazık ki kutsal dağın alevleri söndürüldükten sonra çoğu amacını ve yönünü kaybetmiş.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

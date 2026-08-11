@@ -1,0 +1,11 @@
+{
+  "_id": 112149,
+  "id": "chimeric_core",
+  "name": "Graine chimérique",
+  "description": "Il s'agit du noyau le plus fondamental qui se développe au sein d'un monstre artificiel. Pourtant, aussi simple soit-il, il contient le plan primordial de la croissance de toutes les créations humaines.",
+  "source": [
+    "Butin de Bête chimérique mystique",
+    "Échange Astrions"
+  ],
+  "rarity": 1
+}

@@ -44,7 +44,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Fire_01",
   "description": "Gizli Fatui tetikçisi.\\nBir Fatui tetikçisinin görevi borçları kapamaktır ancak bu borçlar yalnızca mali veya mallara dair borçlar değildir.\\nFatui tetikçileri, \"kısasa kısas\" şeklinde bir misilleme söz konusu olunca da ilgili kişilere gereken cezayı vermekten geri kalmaz. Fatui, müsamaha göstermesiyle nam salmıştır ancak onlara karşı gelmeye kalkışanlar, Fatui'nin gazabını iliklerine kadar hissedecektir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

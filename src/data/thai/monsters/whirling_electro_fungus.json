@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "สัตว์อสูรลึกลับ",
   "filename_icon": "UI_MonsterIcon_Fungus_Trois_Epsilon_Electric",
   "description": "สิ่งมีชีวิตสปอร์ที่มีสติปัญญา มีความสามารถในการปรับตัวสูง\\nจากการศึกษาพบว่า ทิศทางกระแสน้ำภายใน Fungus ชนิดนี้จะเปลี่ยนแปลงเป็นระยะ ๆ เมื่อเวลาผ่านไป ซึ่งหากพัฒนาแล้วอาจมีขอบเขตการใช้งานที่กว้างขวางยิ่งขึ้น...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

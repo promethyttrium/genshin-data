@@ -13,7 +13,6 @@
   "categoryText": "The Abyss",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_01",
   "description": "A strange life form that mostly appears in Elynas.\\nThe nature of a Breacher Primus defies known categories: they are not animals, plants, Shroom-Kin, nor Elementals. The debate among scholars of Sumeru never formally reached a consensus on just what it is, until it was finally banned as a research topic. The reason is that based on the current system of knowledge, this problem is like \"the definitions prescribed by language and the true nature of things,\" and it is impossible to have a meaningful, final answer.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

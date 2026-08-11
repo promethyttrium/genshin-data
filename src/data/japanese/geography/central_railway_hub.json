@@ -1,0 +1,12 @@
+{
+  "_id": 70800033,
+  "id": "central_railway_hub",
+  "name": "鉄道が集まる中枢",
+  "areaName": "永結の凍土",
+  "areaId": 80200,
+  "description": "スネージナヤを鋼鉄の体を持つ巨人に例えるとすれば、鉄道はその血管であり、スネージナヤ・グラードに位置するセントラルステーションは、間違いなく絶えず鼓動する巨人の心臓である。",
+  "regionName": "スネージナヤ",
+  "regionId": 8,
+  "sortOrder": 633,
+  "filename_image": "UI_Codex_Scenery_ZDZhiDongBaoCheZhan"
+}

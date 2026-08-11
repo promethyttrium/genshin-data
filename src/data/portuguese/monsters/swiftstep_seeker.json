@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Human_Female_Sword_Hookwalker",
   "description": "Uma guerreira das Copas e guardiã tribal que patrulha os vales da floresta e riachos da montanha.\\nDiferentemente dos guerreiros de outras tribos, esses guerreiros que estão sempre se balançando pelas montanhas com seus ganchos estão sempre considerando como usar ataques inesperados para derrotar seus oponentes.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 12,
   "stats": {

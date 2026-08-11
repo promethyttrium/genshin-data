@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "돌연변이 마수",
   "filename_icon": "UI_MonsterIcon_Mimik_Fire",
   "description": "식물 형태로 위장한 장난기 많고 영리한 마물. 불 원소로 사냥감을 공격한다.\\n티바트 세계엔 원소가 깃들어 있는 식물이 존재하는데, 지능을 얻은 이러한 식물들은 「양분」을 훨씬 많이 요구한다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

@@ -17,6 +17,11 @@
     "Geo",
     "Cryo"
   ],
+  "daysOfWeek": [
+    "Wednesday",
+    "Saturday",
+    "Sunday"
+  ],
   "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
   "domainText": "Weapon Ascension Materials",
   "rewardPreview": [

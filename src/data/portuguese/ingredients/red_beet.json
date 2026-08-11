@@ -1,0 +1,26 @@
+{
+  "_id": 101278,
+  "id": "red_beet",
+  "name": "Beterraba Vermelha",
+  "description": "Uma erva dura, capaz de prosperar até mesmo no solo congelado. Para sobreviver ao ambiente implacável, desenvolveu uma raiz grossa e suculenta.",
+  "recipes": [
+    {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borscht"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Shashliks de Snezhnaya"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Sorvetes Sortidos"
+    }
+  ],
+  "source": [
+    "Recomendação: Coletável em Snezhnaya"
+  ]
+}

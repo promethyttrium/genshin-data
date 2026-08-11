@@ -155,6 +155,11 @@
       "name": "Montanhas, Oceano e Céu"
     },
     {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Shashliks de Snezhnaya"
+    },
+    {
       "_id": 4002,
       "id": "golden_fried_chicken",
       "name": "Galinha Dourada Frita"
@@ -204,6 +209,5 @@
   ],
   "source": [
     "Dropado pelos animais"
-  ],
-  "rarity": 0
+  ]
 }

@@ -1,0 +1,30 @@
+{
+  "_id": 104369,
+  "id": "guide_to_fortitude",
+  "name": "Guida alla fermezza",
+  "description": "Materiale per l'aumento di livello dei talenti.\\nLa fermezza è il tratto distintivo del regno glaciale.\\nEssa risveglia la volontà di crescere. Sebbene spezzato dal freddo pungente, un fragile seme può ancora sfruttare tale volontà per farsi strada tra la terra ghiacciata, dando vita a nuovi germogli in un paesaggio avvolto da vento e neve.",
+  "source": [
+    "Segnaposto - Quantità realizzabile: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104368,
+        "id": "teachings_of_fortitude",
+        "name": "Insegnamenti della fermezza",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio della maestria: Eremo IV",
+  "domainId": "domain_of_mastery_hermitage_iv",
+  "days": [
+    "Martedì",
+    "Venerdì",
+    "Domenica"
+  ]
+}

@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "Coração Espectral",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "Casca Espectral",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Vida Elemental",
   "filename_icon": "UI_MonsterIcon_Sylph_Water_01",
   "description": "Um monstro que nasce de uma alta concentração de Hydro que consegue flutuar no ar.\\nNas noites de luar, os Espectros Hydro emitem um brilho fantasmagórico enquanto flutuam à beira do rio. Suas formas furtivas são muitas vezes confundidas pelos transeuntes como espíritos errantes, o que os transformou em pilares de vários contos folclóricos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

@@ -1,0 +1,40 @@
+{
+  "_id": 25138001,
+  "id": "juvenile_tree_segment",
+  "monsterId": 25138003,
+  "name": "若枝の木霊",
+  "specialNames": [
+    "宿老の樹霊"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種の魔獣",
+  "filename_icon": "UI_MonsterIcon_Leshy_Normal_01",
+  "description": "林野に生息する木の精。\\nスネージナヤの数あるフェイの中でも、木の精は極めて特殊な一種であり、都市部に姿を現すことはほとんどない。数あるフェイの中で、木の精はおそらく最も長寿であり、長生きするその他の種族であっても、木の精の一生を見届けた者はめったにいない。だが、大半の人々には木の精の個体を見分けることすらできないだろう。",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.2,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

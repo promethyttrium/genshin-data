@@ -1,0 +1,12 @@
+{
+  "_id": 70800033,
+  "id": "central_railway_hub",
+  "name": "Centro neurálgico ferroviario",
+  "areaName": "Tierras Hieloeternas",
+  "areaId": 80200,
+  "description": "Si comparamos Snezhnaya con un gigante de acero, las vías ferroviarias serían sus vasos sanguíneos y la Estación Central de Snezhnogrado sería, sin lugar a dudas, el corazón de dicho gigante que late sin cesar.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 633,
+  "filename_image": "UI_Codex_Scenery_ZDZhiDongBaoCheZhan"
+}

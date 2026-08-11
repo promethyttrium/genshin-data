@@ -1,0 +1,39 @@
+{
+  "_id": 26310401,
+  "id": "chimeric_horned_bear",
+  "monsterId": 26310402,
+  "name": "Chimeric Horned Bear",
+  "specialNames": [
+    "Chimeric Horned Bear"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Makhluk Mistis",
+  "filename_icon": "UI_MonsterIcon_Chimera_BearDeer",
+  "description": "Makhluk hasil bio-alkimia, monster buatan dengan bentuk yang sangat istimewa.\\nBukan terbentuk sesuai rancangan buatan manusia, melainkan terbentuk melalui kombinasi potongan-potongan kehidupan secara mandiri, sehingga bahkan memiliki kemampuan luar biasa dalam menggunakan kekuatan elemen secara bebas.\\nBahkan ketika kehidupan telah hancur hingga hampir hanya tersisa potongan-potongannya, adakah suatu kehendak dan kekuatan agung yang membuat mereka bertumbuh sesuai rencana misterius tertentu?\\nJawaban atas pertanyaan ini mungkin kini sudah tidak diketahui siapa pun.",
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 27.431341,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

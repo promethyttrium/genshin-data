@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Other Human Factions",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Bisonsaurus",
   "description": "A powerful warrior from a land of plenty, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\\nAmong the Collective of Plenty, even those warriors who have painstakingly trained to use long-range weapons are known to be skilled in hand-to-hand combat. Perhaps, to them, ranged weapons are better for bludgeoning than firing projectiles.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

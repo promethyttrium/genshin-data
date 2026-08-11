@@ -1,0 +1,21 @@
+{
+  "_id": 340003,
+  "id": "dawnstar_of_shahar",
+  "name": "撒哈律爾的曙星",
+  "description": "自地脈至深之處顯現的輝耀兵刃幻形，能依據持有者的元素類型變化自身。據說在如今早已無法追憶的古老時代，最初的御使曾將她的聖印賜予亥珀波瑞亞的主祭，允其引領黃金的大城。",
+  "rarity": 4,
+  "type": {
+    "id": "Catalyst",
+    "name": "法器"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "輝耀幻形·永恆",
+    "priority": 2
+  },
+  "item_id": 341403,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphShahar_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphShahar"
+}

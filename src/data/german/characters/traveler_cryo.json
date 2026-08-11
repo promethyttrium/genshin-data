@@ -1,0 +1,1307 @@
+{
+  "_id": 10000007,
+  "id": "traveler_cryo",
+  "name": "Reisende (Kryo)",
+  "description": "Eine Reisende weit entfernt von der Heimat auf der Suche nach den Sieben, um ihren Bruder wiederzufinden.",
+  "weapon_type": {
+    "id": "sword",
+    "name": "Einhänder"
+  },
+  "element": {
+    "id": "cryo",
+    "name": "Kryo"
+  },
+  "gender": {
+    "id": "malefemale",
+    "name": "Männlich/Weiblich"
+  },
+  "release": 1786561200,
+  "substat": "ANG%",
+  "affiliation": "——",
+  "region": {
+    "id": "mainactor",
+    "name": "MAINACTOR"
+  },
+  "rarity": 5,
+  "birthday": [
+    null,
+    null
+  ],
+  "constellation": "Viatrix",
+  "domain": "Sphäre des Verständnisses: Eremitage",
+  "cv": {
+    "english": "Sarah Miller-Crews und andere",
+    "chinese": "宴宁&多多poi",
+    "japanese": "悠木碧&古賀葵",
+    "korean": "Lee Sae-ah & Kim Ka-ryoung"
+  },
+  "skills": [
+    {
+      "_id": 100554,
+      "id": "foreign_frostglint",
+      "name": "Frostschimmer aus der Ferne",
+      "description": "<span style=\"color:#FFD780FF\">Standardangriff</span><br/>Führt bis zu 5 Schwerthiebe hintereinander aus.<br/><br/><span style=\"color:#FFD780FF\">Heftiger Schlag</span><br/>Verbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.<br/><br/><span style=\"color:#FFD780FF\">Angriff aus dem Fall</span><br/>Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "SCH Phase 1",
+          "values": [
+            "44.5%",
+            "48.1%",
+            "51.7%",
+            "56.9%",
+            "60.5%",
+            "64.6%",
+            "70.3%",
+            "76%",
+            "81.7%",
+            "87.9%",
+            "94.1%",
+            "100.3%",
+            "106.5%",
+            "112.7%",
+            "118.9%"
+          ]
+        },
+        {
+          "label": "SCH Phase 2",
+          "values": [
+            "43.4%",
+            "47%",
+            "50.5%",
+            "55.5%",
+            "59.1%",
+            "63.1%",
+            "68.7%",
+            "74.2%",
+            "79.8%",
+            "85.9%",
+            "91.9%",
+            "98%",
+            "104%",
+            "110.1%",
+            "116.1%"
+          ]
+        },
+        {
+          "label": "SCH Phase 3",
+          "values": [
+            "53%",
+            "57.3%",
+            "61.6%",
+            "67.8%",
+            "72.1%",
+            "77%",
+            "83.8%",
+            "90.6%",
+            "97.3%",
+            "104.7%",
+            "112.1%",
+            "119.5%",
+            "126.9%",
+            "134.3%",
+            "141.7%"
+          ]
+        },
+        {
+          "label": "SCH Phase 4",
+          "values": [
+            "58.3%",
+            "63.1%",
+            "67.8%",
+            "74.6%",
+            "79.3%",
+            "84.8%",
+            "92.2%",
+            "99.7%",
+            "107.1%",
+            "115.3%",
+            "123.4%",
+            "131.5%",
+            "139.7%",
+            "147.8%",
+            "155.9%"
+          ]
+        },
+        {
+          "label": "SCH Phase 5",
+          "values": [
+            "70.8%",
+            "76.5%",
+            "82.3%",
+            "90.5%",
+            "96.3%",
+            "102.9%",
+            "111.9%",
+            "121%",
+            "130%",
+            "139.9%",
+            "149.8%",
+            "159.7%",
+            "169.5%",
+            "179.4%",
+            "189.3%"
+          ]
+        },
+        {
+          "label": "SCH heftiger Schläge",
+          "values": [
+            "55.9% + 72.2%",
+            "60.5% + 78.1%",
+            "65% + 84%",
+            "71.5% + 92.4%",
+            "76% + 98.3%",
+            "81.3% + 105%",
+            "88.4% + 114.2%",
+            "95.5% + 123.5%",
+            "102.7% + 132.7%",
+            "110.5% + 142.8%",
+            "118.3% + 152.9%",
+            "126.1% + 163%",
+            "133.9% + 173%",
+            "141.7% + 183.1%",
+            "149.5% + 193.2%"
+          ]
+        },
+        {
+          "label": "Ausdauerverbrauch heftiger Schläge",
+          "values": [
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte"
+          ]
+        },
+        {
+          "label": "SCH beim Fallen",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "SCH beim Fallen aus niedriger/großer Höhe",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 10128,
+      "id": "frostbound_javelin",
+      "name": "Frostspeer",
+      "description": "Formt mithilfe von Kryo-Kraft einen Speer, schleudert diesen auf Gegner und fügt diesen mehrfach <span style=\"color:#99FFFFFF\">Kryo-Schaden</span> zu.<br/>Beim Anwenden verbraucht der Reisende alle Stapelungen <b><span style=\"color:#FFD780FF\">Kälteglanz</span></b>, um den durch diese Spezialfähigkeit verursachten Schaden zu erhöhen. Erhöht bei 8 verbrauchten Stapelungen <span style=\"color:#FFD780FF\">Kälteglanz</span> zudem die Anzahl der Schadenstreffer des Speers.<br/><br/><b><span style=\"color:#FFD780FF\">Leuchten – Stellarfunkeln</span></b>: Durch die diesmalige Spezialfähigkeit verursachter Schaden wird als <span style=\"color:#99FFFFFF\">Kryo-Schaden</span> der entsprechenden Stellarfunkeln-Reaktion gewertet.",
+      "info": "Du hast mit Paimon zusammen die Schärfe des Eises gespürt.",
+      "attributes": [
+        {
+          "label": "Speer-SCH Phase 1",
+          "values": [
+            "55.1%",
+            "59.3%",
+            "63.4%",
+            "68.9%",
+            "73%",
+            "77.2%",
+            "82.7%",
+            "88.2%",
+            "93.7%",
+            "99.2%",
+            "104.7%",
+            "110.3%",
+            "117.2%",
+            "124%",
+            "130.9%"
+          ]
+        },
+        {
+          "label": "SCH-Bonus von Kälteglanz",
+          "values": [
+            "2.8%",
+            "3%",
+            "3.2%",
+            "3.4%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%",
+            "4.7%",
+            "5%",
+            "5.2%",
+            "5.5%",
+            "5.9%",
+            "6.2%",
+            "6.5%"
+          ]
+        },
+        {
+          "label": "SCH durch Stellar-Supraleiter-Speer Phase 1",
+          "values": [
+            "36.8%",
+            "39.5%",
+            "42.3%",
+            "45.9%",
+            "48.7%",
+            "51.5%",
+            "55.1%",
+            "58.8%",
+            "62.5%",
+            "66.2%",
+            "69.8%",
+            "73.5%",
+            "78.1%",
+            "82.7%",
+            "87.3%"
+          ]
+        },
+        {
+          "label": "SCH-Bonus von Stellar-Supraleiter-Kälteglanz",
+          "values": [
+            "1.8%",
+            "2%",
+            "2.1%",
+            "2.3%",
+            "2.4%",
+            "2.6%",
+            "2.8%",
+            "2.9%",
+            "3.1%",
+            "3.3%",
+            "3.5%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%"
+          ]
+        },
+        {
+          "label": "SCH durch Stellar-Verwirbelungs-Speer Phase 1",
+          "values": [
+            "55.1%",
+            "59.3%",
+            "63.4%",
+            "68.9%",
+            "73%",
+            "77.2%",
+            "82.7%",
+            "88.2%",
+            "93.7%",
+            "99.2%",
+            "104.7%",
+            "110.3%",
+            "117.2%",
+            "124%",
+            "130.9%"
+          ]
+        },
+        {
+          "label": "SCH-Bonus für Stellar-Verwirbelungs-Kälteglanz",
+          "values": [
+            "2.8%",
+            "3%",
+            "3.2%",
+            "3.4%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%",
+            "4.7%",
+            "5%",
+            "5.2%",
+            "5.5%",
+            "5.9%",
+            "6.2%",
+            "6.5%"
+          ]
+        },
+        {
+          "label": "Angriffszahl",
+          "values": [
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3"
+          ]
+        },
+        {
+          "label": "Zusätzliche Angriffszahl bei vollem Kälteglanz",
+          "values": [
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2"
+          ]
+        },
+        {
+          "label": "Abklingzeit",
+          "values": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "label": "Elementarenergie",
+          "values": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 10127,
+      "id": "ice_fog_piercer",
+      "name": "Eisnebelklinge",
+      "description": "Schwingt die Waffe nach vorn, sticht zu und setzt starken Eisnebel frei, der Gegnern vor ihr <span style=\"color:#99FFFFFF\">Kryo-Schaden</span> zufügt sowie an ihrer Seite einen frostdurchbohrenden Stern beschwört.<br/><br/><span style=\"color:#FFD780FF\">Frostdurchbohrender Stern</span><br/>· Folgt der eigenen Figur in der Truppe und schießt in regelmäßigen Abständen Kryo-Kristalle auf Gegner in der Nähe, die diesen <span style=\"color:#99FFFFFF\">Kryo-Schaden</span> zufügen.<br/><span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>: Der frostdurchbohrende Stern schießt Kryo-Kristalle nicht mehr in regelmäßigen Abständen, sondern feuert, wenn der Reisende einen Gegner mit einem Standardangriff, heftigen Schlag oder Angriff aus dem Fall trifft, als ein abgestimmter Angriff einen Kryo-Kristall ab, 0,2 s Abklingzeit.<br/>· Sammelt für den Reisenden, wenn ein Gegner von einem Kryo-Kristall getroffen wird, eine Stapelung <b><span style=\"color:#FFD780FF\">Kälteglanz</span></b> an. Dieser Effekt ist bis zu 8-fach stapelbar.<br/>· Entfernt, wenn er sich nicht im Kampf befindet, den <span style=\"color:#FFD780FF\">Kälteglanz</span> nach 30 s.",
+      "info": "Du hast mit Paimon zusammen beobachtet, wie sich Raureif bildet.",
+      "attributes": [
+        {
+          "label": "Fähigkeits-SCH",
+          "values": [
+            "91.7%",
+            "98.6%",
+            "105.4%",
+            "114.6%",
+            "121.5%",
+            "128.4%",
+            "137.5%",
+            "146.7%",
+            "155.9%",
+            "165%",
+            "174.2%",
+            "183.4%",
+            "194.8%",
+            "206.3%",
+            "217.7%"
+          ]
+        },
+        {
+          "label": "Kryo-Kristall-SCH",
+          "values": [
+            "21.4%",
+            "23%",
+            "24.6%",
+            "26.7%",
+            "28.3%",
+            "29.9%",
+            "32.1%",
+            "34.2%",
+            "36.4%",
+            "38.5%",
+            "40.6%",
+            "42.8%",
+            "45.5%",
+            "48.1%",
+            "50.8%"
+          ]
+        },
+        {
+          "label": "SCH durch Frostdurchbohrender Stern",
+          "values": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "label": "Abklingzeit",
+          "values": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "everkeen_frost",
+      "name": "Selbstschärfender Frost",
+      "description": "<span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>: Wandelt während der Wirkungsdauer von <span style=\"color:#FFD780FF\">Frostdurchbohrender Stern</span> den durch Standardangriffe, heftige Schläge und Angriffe aus dem Fall des Reisenden verursachten Schaden in <span style=\"color:#99FFFFFF\">Kryo-Schaden</span> um, der nicht durch andere Elemente überdeckt werden kann. Erhöht zudem den verursachten Schaden um 80 % des ANG des Reisenden.",
+      "level": 1
+    },
+    {
+      "id": "lucent_ice",
+      "name": "Klares Eis",
+      "description": "Erhöht die Elementarkunde des Reisenden um 8 % seines ANG. Auf diese Weise kann die Elementarkunde des Reisenden um maximal 160 Punkte erhöht werden.",
+      "level": 4
+    },
+    {
+      "id": "stellar_jubilee_illusory_frostmirror",
+      "name": "Sternensegnung – Wandelnder Eisspiegel",
+      "description": "Versetzt den Reisenden, wenn er sich im <b><span style=\"color:#FFD780FF\">Sternglanzfeld</span></b> befindet oder ein Truppenmitglied in der Nähe die Reaktion Stellar-Verwirbelung auslöst, innerhalb von 8 s in den Zustand <span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>/<span style=\"color:#FFD780FF\">Leuchten – Stellar-Verwirbelung</span>.<br/>Wandelt, wenn ein Truppenmitglied die Reaktion Supraleiter/Kryo-Verwirbelung auslöst, diese stattdessen in die Reaktion Stellar-Supraleiter/Stellar-Verwirbelung um und erhöht den Basis-Schaden der oben genannten Reaktionen von Truppenmitgliedern basierend auf dem ANG des Reisenden: Erhöht den Basis-SCH der oben genannten Reaktionen pro 100 Punkte um 0,35 %. Auf diese Weise kann der Schaden um bis zu 7 % erhöht werden.",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 81,
+      "id": "somber_freeze",
+      "name": "Düsterer Frost",
+      "description": "Stellt dem Reisenden, wenn er Schaden durch eine Stellarfunkeln-Reaktion verursacht, 5 Punkte Elementarenergie wieder her, 0,5 s Abklingzeit.",
+      "level": 1
+    },
+    {
+      "_id": 82,
+      "id": "frostfall_reverberation",
+      "name": "Frostfall-Nachhall",
+      "description": "Erhöht, wenn ein durch die Elementarfähigkeit <color=#FFD780FF><b>Eisnebelklinge</b></color> abgefeuerter <span style=\"color:#FFD780FF\">Kryo-Kristall</span> einen Gegner trifft, die Elementarkunde der aktuellen Figur 5 s lang um 60 Punkte.<br/>Erhöht, wenn die von oben genanntem Effekt beeinflusste Figur eine Stellarreaktion ausgelöst oder mit einer Stellarfunkeln-Reaktion Schaden verursacht hat, innerhalb der Wirkungsdauer die Elementarkunde stattdessen um 120 Punkte.",
+      "level": 2
+    },
+    {
+      "_id": 83,
+      "id": "glacial_shard",
+      "name": "Durchschneidendes Eis",
+      "description": "Erhöht die Stufe der Spezialfähigkeit <color=#FFD780FF><b>Frostspeer</b></color> um 3.<br/>Höchststufe 15.",
+      "level": 3
+    },
+    {
+      "_id": 84,
+      "id": "enduring_ice",
+      "name": "Unbeugsames Eis",
+      "description": "Verlängert die Dauer des durch die Elementarfähigkeit <color=#FFD780FF><b>Eisnebelklinge</b></color> generierten <span style=\"color:#FFD780FF\">Frostdurchbohrender Stern</span> um 25 %.",
+      "level": 4
+    },
+    {
+      "_id": 85,
+      "id": "bittercold_fog",
+      "name": "Eiskalter Nebel",
+      "description": "Erhöht die Stufe der Elementarfähigkeit <color=#FFD780FF><b>Eisnebelklinge</b></color> um 3.<br/>Höchststufe 15.",
+      "level": 5
+    },
+    {
+      "_id": 86,
+      "id": "brumal_grimfrost",
+      "name": "Unerbittlicher Frost",
+      "description": "Erhöht beim Anwenden der Spezialfähigkeit <color=#FFD780FF><b>Frostspeer</b></color> für jede Stapelung <b><span style=\"color:#FFD780FF\">Kälteglanz</span></b> den von anderen Truppenmitgliedern durch eine Stellarfunkeln-Reaktion verursachten Schaden 15 s lang um 5 %, maximal um 40 %.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "-",
+            "912"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "-",
+            "18"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "-",
+            "57"
+          ]
+        },
+        {
+          "label": "ANG%",
+          "values": [
+            "-",
+            "0.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "2342",
+            "3024"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "46",
+            "59"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "147",
+            "190"
+          ]
+        },
+        {
+          "label": "ANG%",
+          "values": [
+            "0.0%",
+            "0.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "4529",
+            "5013"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "88",
+            "98"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "284",
+            "315"
+          ]
+        },
+        {
+          "label": "ANG%",
+          "values": [
+            "0.0%",
+            "6.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104101,
+        "id": "brilliant_diamond_sliver",
+        "name": "Brillantsplitter",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Windmühlenaster",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112005,
+        "id": "damaged_mask",
+        "name": "Zerbrochene Maske",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "5766",
+            "6411"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "113",
+            "125"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "362",
+            "402"
+          ]
+        },
+        {
+          "label": "ANG%",
+          "values": [
+            "6.0%",
+            "12.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104102,
+        "id": "brilliant_diamond_fragment",
+        "name": "Brillantbruchstück",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Windmühlenaster",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112005,
+        "id": "damaged_mask",
+        "name": "Zerbrochene Maske",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "7164",
+            "7648"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "140",
+            "149"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "450",
+            "480"
+          ]
+        },
+        {
+          "label": "ANG%",
+          "values": [
+            "12.0%",
+            "12.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104102,
+        "id": "brilliant_diamond_fragment",
+        "name": "Brillantbruchstück",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Windmühlenaster",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112006,
+        "id": "stained_mask",
+        "name": "Verdreckte Maske",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "8401",
+            "8885"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "164",
+            "174"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "527",
+            "558"
+          ]
+        },
+        {
+          "label": "ANG%",
+          "values": [
+            "12.0%",
+            "18.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104103,
+        "id": "brilliant_diamond_chunk",
+        "name": "Brillantbrocken",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Windmühlenaster",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112006,
+        "id": "stained_mask",
+        "name": "Verdreckte Maske",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "9638",
+            "10122"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "188",
+            "198"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "605",
+            "635"
+          ]
+        },
+        {
+          "label": "ANG%",
+          "values": [
+            "18.0%",
+            "24.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104103,
+        "id": "brilliant_diamond_chunk",
+        "name": "Brillantbrocken",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Windmühlenaster",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112007,
+        "id": "ominous_mask",
+        "name": "Unheilvolle Maske",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "10875",
+            "10875"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "212",
+            "212"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "683",
+            "683"
+          ]
+        },
+        {
+          "label": "ANG%",
+          "values": [
+            "24.0%",
+            "24.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104104,
+        "id": "brilliant_diamond_gemstone",
+        "name": "Brillant",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Windmühlenaster",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112007,
+        "id": "ominous_mask",
+        "name": "Unheilvolle Maske",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104365,
+          "id": "teachings_of_charity",
+          "name": "Lehren der „Güte“",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Chimärischer Kern",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Anleitung zur „Beharrlichkeit“",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiontischer chimärischer Nukleus",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104372,
+          "id": "guide_to_glory",
+          "name": "Anleitung zum „Ruhm“",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiontischer chimärischer Nukleus",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Anleitung zur „Güte“",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiontischer chimärischer Nukleus",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Anleitung zur „Beharrlichkeit“",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiontischer chimärischer Nukleus",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104373,
+          "id": "philosophies_of_glory",
+          "name": "Philosophie des „Ruhms“",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Primordiale Chimäre",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Aufstiegsprobe – Dame",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Philosophie der „Güte“",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Primordiale Chimäre",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Aufstiegsprobe – Dame",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophie der „Beharrlichkeit“",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Primordiale Chimäre",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Aufstiegsprobe – Dame",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104373,
+          "id": "philosophies_of_glory",
+          "name": "Philosophie des „Ruhms“",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Primordiale Chimäre",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Aufstiegsprobe – Dame",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Krone der Weisheit",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 200701,
+      "name": "Wiederherstellung von Himmel und Erde",
+      "description": "Die Kleidung {F#der Reisenden}{M#des Reisenden}. Die Kleidung, die die beiden „Sterne“ auf ihren Reisen durch unzählige Welten begleitet hat. Sie hat bereits unzählige Welten gesehen, versteht aber immer noch nicht, was der wahre Zweck des Universums ist. Doch wer nachdenkt, wird stets diese „letzte Antwort“ finden.",
+      "isDefault": false,
+      "characterName": "Lumine",
+      "characterId": 10000007,
+      "source": [
+        "Beim Abschluss des Archontenauftrags „Der wahre Mond“ zu erhalten"
+      ],
+      "filename_card": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Card",
+      "filename_icon": "UI_AvatarIcon_PlayerGirlCostumeCWXR",
+      "filename_iconCircle": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Circle",
+      "filename_splash": "UI_Costume_PlayerGirlCostumeCWXR",
+      "filename_sideIcon": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR"
+    },
+    {
+      "id": 200700,
+      "name": "Aufgehender Stern",
+      "description": "Die Kleidung {F#der Reisenden}{M#des Reisenden}. Ein praktisches Set an Kleidung, das sie auf ihrer langen Reise begleitet.",
+      "isDefault": true,
+      "characterName": "Lumine",
+      "characterId": 10000007,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_PlayerGirl_Circle"
+    }
+  ]
+}

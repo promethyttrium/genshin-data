@@ -1,0 +1,24 @@
+{
+  "_id": 112151,
+  "id": "prime_chimeric_nexus",
+  "name": "Cœur chimérique",
+  "description": "Noyau le plus complexe qu'un monstre artificiel puisse abriter, c'est un véritable germe de vie artificiellement façonné et pourtant parfait. Celui qui a donné vie à cette création a assurément percé les secrets mêmes de la formation de la vie.",
+  "source": [
+    "Butin de Bête chimérique mystique (Niv.60+)",
+    "Échange Astrions : synthèse après échange",
+    "Emplacement réservé - Quantité synthétisable : {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Noyau chimérique",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

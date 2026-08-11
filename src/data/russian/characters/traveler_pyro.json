@@ -23,8 +23,8 @@
   },
   "rarity": 5,
   "birthday": [
-    0,
-    0
+    null,
+    null
   ],
   "constellation": "Звёздный Путник",
   "domain": "Огненные руины",

@@ -1,0 +1,40 @@
+{
+  "_id": 25131001,
+  "id": "volkodlak_lobber",
+  "monsterId": 25131105,
+  "name": "Volkodlak Fırlatıcı",
+  "specialNames": [
+    "Fırlatıcı"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Efsanevi Canavarlar",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "description": "Snezhnaya boyunca görülen Volkodlaklar arasında daha iri ve güçlü bir tür.\\nCanavarların kuvvetine ve insanların beden yapısına sahip bu yaratıkların güçlü üst gövdeleri, daha büyük bir güç ve isabetle fırlatma yapabilmelerini sağlar. Volkodlaklar Saf Buz şekillendirme veya element gücü kullanma konusunda usta olmayabilir. Ancak Fey türlerinden pek azı onların fiziksel kuvvetiyle boy ölçüşebilir.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

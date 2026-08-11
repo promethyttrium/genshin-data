@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Abyss",
   "filename_icon": "UI_MonsterIcon_Hound_Kanis_Rock",
   "description": "สัตว์ร้ายแห่งสายเลือดอสูร ที่สามารถกัดกร่อนเขตแดนของโลกได้ \"Gold\" เรียกพวกมันว่า \"Alfisol\"\\nพวกมันมาจากส่วนลึกของขุมนรกและสามารถกลืนกินพลังของธาตุได้ โชคดีที่ตอนนี้อสูรพวกนี้ค่อนข้างหายากแล้ว",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

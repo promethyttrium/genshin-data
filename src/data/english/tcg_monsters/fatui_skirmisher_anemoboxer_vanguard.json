@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Other Weapons",
     "faction": [
-      null
+      "Fatui"
     ]
   },
   "skills": [
     {
       "id": "hurricane_jab",
       "name": "Hurricane Jab",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -37,7 +41,9 @@
       "id": "gathering_the_winds",
       "name": "Gathering the Winds",
       "desc": "This character gains a <span style=\"color:#FFFFFFFF\">Stormwind Barrier</span>. <span style=\"color:#FFFFFFFF\">Prepare Skill</span>: <span style=\"color:#FFFFFFFF\">Avenging Squall</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -50,8 +56,10 @@
     {
       "id": "galeforce_agitation",
       "name": "Galeforce Agitation",
-      "desc": "Deals ? ?. All of your other Fatui characters gain 1 <span style=\"color:#FFFFFFFF\">Energy</span>.",
-      "skillTag": [],
+      "desc": "Deals 3 <span style=\"color:#80FFD7FF\">Anemo DMG</span>. All of your other Fatui characters gain 1 <span style=\"color:#FFFFFFFF\">Energy</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1105,

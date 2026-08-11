@@ -1,0 +1,40 @@
+{
+  "_id": 25137001,
+  "id": "rugged_elder_leshy",
+  "monsterId": 25137006,
+  "name": "Mộc Linh Trưởng Cổ Thụ",
+  "specialNames": [
+    "Cây Phân Đoạn Non Nớt"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Ma Thú Đột Biến",
+  "filename_icon": "UI_MonsterIcon_Leshy_Mature_01",
+  "description": "Leshy sinh trưởng trong rừng rậm.\\nLeshy mang linh trí khiếm khuyết cũng như không thể cất lời, thoạt nhìn giống như kết quả từ các thí nghiệm thời kỳ đầu của những người thợ trong vương quốc hoàng kim. Nhưng hoàn toàn ngược lại, theo ghi chép, sau khi đã gần như hoàn toàn nắm vững quyền năng sinh mệnh, họ mới tạo ra chủng tộc fae này.\\nCó lẽ trong đó ẩn chứa chân ý mà fae và con người ngày nay không thể nào thấu hiểu được.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.3,
+      "hydro": 0.1,
+      "geo": 0.3,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 21.945072,
+      "attack": 94.62242,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

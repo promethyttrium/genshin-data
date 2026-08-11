@@ -481,9 +481,31 @@
     "Matriz Ofensiva Dilimbabbar",
     "Matriz de Defesa Dilimbabbar",
     "Nascido Maldito",
+    "???",
+    "Falcão de Pedra Veloz",
     "Nascido Maldito",
     "Pioneiro que Contempla as Estrelas Distantes",
-    "Brilho Remanescente da Criação"
+    "Brilho Remanescente da Criação",
+    "Criação Derivada Imortal",
+    "Zhara",
+    "Vasily \"Édipo\" Izmaylov",
+    "Retornado Aprisionado ao Gelo",
+    "Gusarov",
+    "Humano Primordial",
+    "Aksinya",
+    "Pavlina",
+    "Retornante da Expedição",
+    "Cruzador Terrestre Caótico",
+    "Nastya",
+    "Furiosa",
+    "Klenova, a Ascendida",
+    "Kovaliskaya, a Baixa",
+    "Tsvetaev",
+    "Bragin",
+    "Churin",
+    "Aquele que Jurou Lealdade Eterna",
+    "Besta Arremessadora Hibernadora",
+    "Ágil na Estocada"
   ],
   "investigation": {
     "investigationId": 44,
@@ -510,22 +532,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Seda Vermelha Bordada",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Cetim Vermelho Desbotado",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Eremite_MuscleMan_Simitar",
   "description": "Membro de um grupo desorganizado de mercenários do deserto dourado. Trabalha para qualquer um, contanto que o pagamento seja bom.\\nEste guerreiro do deserto branda uma grande espada curva em batalha. As habilidades que tais lutadores possuem foram passadas desde os dias quando sua civilização perdida ainda existia, e não são técnicas exclusivas de batalha, mas também servem bem como artes performáticas em várias terras.\\nÉ dito que esta arte de espada já foi praticada ao cavalgar cavalos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

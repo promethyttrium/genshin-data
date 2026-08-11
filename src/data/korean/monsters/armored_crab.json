@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "돌연변이 마수",
   "filename_icon": "UI_MonsterIcon_HermitCrab_Larva_02",
   "description": "소라 껍데기에 사는 꽃게.\\n야생 동물이 흔히 가지고 있는 공격성이 거의 없다. 식욕 외의 공격성은 일반적으로 영역 본능에서 발생하는데, 중갑 게의 영역은 뒤에 달린 자그마한 집이기 때문이다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 5.34,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

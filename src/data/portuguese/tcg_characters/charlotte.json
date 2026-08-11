@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Catalisador",
     "faction": [
-      null
+      "Fontaine"
     ],
     "talent_card": {
       "_id": 5162,
@@ -29,8 +31,10 @@
     {
       "id": "coolcolor_capture",
       "name": "Foto de Cores Frias",
-      "desc": "Causa ? ?.",
-      "skillTag": [],
+      "desc": "Causa 1 <span style=\"color:#99FFFFFF\">Dano Cryo</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "framing_freezing_point_composition",
       "name": "Enquadramento: Composição do Ponto de Congelamento",
-      "desc": "Causa ? ?. O alvo recebe <span style=\"color:#FFFFFFFF\">Silhueta Instantânea</span>.",
-      "skillTag": [],
+      "desc": "Causa 1 <span style=\"color:#99FFFFFF\">Dano Cryo</span>. O alvo recebe <span style=\"color:#FFFFFFFF\">Silhueta Instantânea</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "still_photo_comprehensive_confirmation",
       "name": "Determinado: Confirmação Geral",
-      "desc": "Causa ? ?, cura todos os seus personagens em 1 de Vida, invoca <span style=\"color:#FFFFFFFF\">Área de Flash</span>.",
-      "skillTag": [],
+      "desc": "Causa 1 <span style=\"color:#99FFFFFF\">Dano Cryo</span>, cura todos os seus personagens em 1 de Vida, invoca <span style=\"color:#FFFFFFFF\">Área de Flash</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1101,

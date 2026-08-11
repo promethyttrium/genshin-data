@@ -1,14 +1,15 @@
 {
   "_id": 10000007,
   "id": "traveler_pyro",
-  "name": "여행자 (undefined)",
+  "name": "여행자 (불)",
   "description": "다른 세계에서 건너온 여행자. 신에 의해 가족을 빼앗긴 뒤 일곱 신을 찾는 여정에 오른다",
   "weapon_type": {
     "id": "sword",
     "name": "한손검"
   },
   "element": {
-    "id": ""
+    "id": "pyro",
+    "name": "불"
   },
   "gender": {
     "id": "malefemale",
@@ -23,8 +24,8 @@
   },
   "rarity": 5,
   "birthday": [
-    0,
-    0
+    null,
+    null
   ],
   "constellation": "나그네자리",
   "domain": "불을 품은 폐허",

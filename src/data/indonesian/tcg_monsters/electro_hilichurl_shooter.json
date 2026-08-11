@@ -8,17 +8,21 @@
     "hp": 3,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Electro",
+    "weapon": "Senjata Lain",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "thunder_arrow",
       "name": "Thunder Arrow",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#FFACFFFF\">Electro DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -37,8 +41,10 @@
     {
       "id": "multishot",
       "name": "Multishot",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 4 poin <span style=\"color:#FFACFFFF\">Electro DMG</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -58,7 +64,9 @@
       "id": "hide",
       "name": "Hide",
       "desc": "[Pasif] Setelah Karakter ini menyerang, Karakter Aktifmu akan berganti ke Karakter berikutnya.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

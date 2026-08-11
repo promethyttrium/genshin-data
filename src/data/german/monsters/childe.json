@@ -197,7 +197,6 @@
   "categoryText": "Einprägsame Gegner",
   "filename_icon": "UI_MonsterIcon_Tartaglia",
   "description": "Der „Graf“ Tartaglia ist der letzte unter den Elf der Fatui.\\nEr zieht seine Kraft aus der mächtigen Illusion, die er beherrscht, und wendet eine Kampfkunst an, die er im Land der Dunkelheit erlernte.\\nEr ist ein reiner Krieger, angetrieben von unstillbarer Kampfeslust.\\nJeder blutige Konflikt, jeder Kampf auf Leben und Tod bereitet ihm Vergnügen.\\nDer junge Graf ist im gesamten Land für sein Kampfgeschick bekannt.\\nDoch derlei Lob bedeutet ihm nicht viel.\\nSchließlich ...\\n<i>„Sei stets das Auge des Sturms.</i>\\n<i>Dann wird das Krachen von Stahl auf Stahl dich stets begleiten.</i>\\n<i>Die tiefschwarze Erinnerung, in die finsterste Dunkelheit zu treten,</i>\\n<i>soll letztendlich zur Stärke werden, mit der du diese Welt umstürzt.“</i>",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

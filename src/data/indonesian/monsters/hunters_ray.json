@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_MantaRay_Larva_02",
   "description": "Ikan pari yang dapat menembakkan pedang air.\\nTerdapat makhluk misterius Xenochromatic di antara Fontemer Aberrant. Dikatakan bahwa tubuh berwarna lain semacam ini sebenarnya bukanlah makhluk hidup, melainkan jiwa yang tidak pernah lahir di lautan dan tidak pernah menelan umpan. Mereka akan memberikan berkah pada siapa saja yang teridentifikasi oleh Fontemer atau yang menguasai Fontemer. Orang yang melakukan lebih banyak penelitian dan berpengalaman dalam filsafat alam tentunya tidak akan setuju dengan pernyataan yang tidak berdasar ini.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 65.15,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

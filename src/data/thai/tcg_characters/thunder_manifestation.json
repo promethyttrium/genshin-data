@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ธาตุไฟฟ้า",
+    "weapon": "อาวุธอื่น ๆ",
     "faction": [
-      null
+      "มอนสเตอร์"
     ],
     "talent_card": {
       "_id": 4770,
@@ -27,8 +29,10 @@
     {
       "id": "thunderous_wingslash",
       "name": "Thunderous Wingslash",
-      "desc": "สร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#FFACFFFF\">ความเสียหายไฟฟ้า</span> 1 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -47,8 +51,10 @@
     {
       "id": "strifeful_lightning",
       "name": "Strifeful Lightning",
-      "desc": "สร้าง? ? หน่วย ให้กับตัวละครของศัตรูที่มีสถานะ <span style=\"color:#FFFFFFFF\">Lightning Rod </span> (หากศัตรูไม่มีตัวละครที่ตรงตามเงื่อนไข จะเปลี่ยนเป็นการสร้างความเสียหายแก่ตัวละครที่เข้าต่อสู้)",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#FFACFFFF\">ความเสียหายไฟฟ้า</span> 3 หน่วย ให้กับตัวละครของศัตรูที่มีสถานะ <span style=\"color:#FFFFFFFF\">Lightning Rod </span> (หากศัตรูไม่มีตัวละครที่ตรงตามเงื่อนไข จะเปลี่ยนเป็นการสร้างความเสียหายแก่ตัวละครที่เข้าต่อสู้)",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -61,8 +67,10 @@
     {
       "id": "thundering_shackles",
       "name": "Thundering Shackles",
-      "desc": "สร้าง? ? หน่วย และเรียก <span style=\"color:#FFFFFFFF\">Thundering Shackles</span>",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#FFACFFFF\">ความเสียหายไฟฟ้า</span> 2 หน่วย และเรียก <span style=\"color:#FFFFFFFF\">Thundering Shackles</span>",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -82,7 +90,9 @@
       "id": "lightning_probe",
       "name": "Lightning Probe",
       "desc": "[ติดตัว] เมื่อการต่อสู้เริ่มขึ้น จะสร้าง <span style=\"color:#FFFFFFFF\">Lightning Strike Probe</span> ในสนามของศัตรู",
-      "skillTag": [],
+      "skillTag": [
+        "สกิลติดตัว"
+      ],
       "points": []
     }
   ]

@@ -1,0 +1,16 @@
+{
+  "_id": 390001,
+  "id": "unbreakable_durandarte",
+  "name": "Invaincu : Durandal",
+  "description": "Une épée glorieuse et illusoire, surgie des profondeurs des lignes énergétiques. On dit qu'elle était autrefois brandie par le chevalier blanc sous le nom de Durandal.\\nCe nom signifie « la lame qui n'est jamais détruite » dans les langues anciennes. Tout comme l'épée qu'il portait, la détermination du chevalier n'a jamais faibli, même si son acier jadis si pur s'est assombri depuis.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Épée à deux mains"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341901,
+  "icon_path": "UI_EquipIcon_Claymore_VarkaTunkeldegen",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_VarkaTunkeldegen"
+}

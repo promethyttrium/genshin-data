@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "深渊",
   "filename_icon": "UI_MonsterIcon_Hound_Kanis_Rock",
   "description": "能够侵蚀世界边界的魔血之兽。「黄金」将其命名为「淋溶」。\\n有伴随渊薮的渗透，吞噬元素的习性。值得庆幸的是这些魔兽如今数量并不多。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

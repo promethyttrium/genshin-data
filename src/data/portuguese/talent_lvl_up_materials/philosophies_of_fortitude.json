@@ -1,0 +1,30 @@
+{
+  "_id": 104370,
+  "id": "philosophies_of_fortitude",
+  "name": "Filosofia da Tenacidade",
+  "description": "Material de Elevação de Talento.\\nTenacidade é a característica definitiva do reino congelado.\\nEla fomenta a prosperidade em si. As pessoas aqui nunca se curvaram ao frio, assim como uma semente frágil escolhe florescer desafiadoramente em meio a nevascas. Essa civilização testemunhou séculos de invernos terríveis, mas permanece tão vibrante quanto a Flor Imortal Gélida que desabrocha estação após estação.",
+  "source": [
+    "Quantidade a ser fabricada: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104369,
+        "id": "guide_to_fortitude",
+        "name": "Guia da Tenacidade",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domínio da Proficiência: Eremitério IV",
+  "domainId": "domain_of_mastery_hermitage_iv",
+  "days": [
+    "Terça-feira",
+    "Sexta-feira",
+    "Domingo"
+  ]
+}

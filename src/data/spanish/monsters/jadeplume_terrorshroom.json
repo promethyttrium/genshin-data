@@ -37,7 +37,7 @@
       "_id": 113036,
       "id": "majestic_hooked_beak",
       "name": "Picogancho fúngico",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104134,
@@ -120,7 +120,6 @@
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Fungus_Raptor",
   "description": "Una gran criatura fúngica que ha ido evolucionando a lo largo de los años hasta adoptar su particular forma actual.\\nSu inteligencia ha superado incluso a la de los animales salvajes. Este tipo de criaturas selecciona y caza racionalmente a sus presas para alimentarse. Su cola está decorada con un hermoso plumaje esmeralda muy parecido al de la antigua criatura que veneran en la Escuela de Elementalismo. Según las reglas de la mimética, ambas criaturas debieron caminar juntas por este mundo en algún momento.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

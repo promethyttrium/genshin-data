@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Warrior's Metal Whistle",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Sentry's Wooden Whistle",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Hookwalker",
   "description": "Seorang petarung tangguh dari suku Tirai Daun yang keberaniannya telah diakui hingga pantas mengenakan Mahkota Saurian.\\nSeorang petarung yang bisa memanfaatkan tali kait untuk memperluas jangkauan serangannya. Tali kait adalah alat yang tak bisa terpisahkan dari kehidupan sehari-hari suku Tirai Daun. Tapi hanya pejuang paling liar yang bisa menggabungkan tali kait dengan pedang gergaji sehingga menjadi senjata mematikan yang sulit dikuasai.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

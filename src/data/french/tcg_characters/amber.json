@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Arc",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3847,
@@ -29,8 +31,10 @@
     {
       "id": "sharpshooter",
       "name": "Archerie revisitée",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,7 +54,9 @@
       "id": "explosive_puppet",
       "name": "Poupée explosive",
       "desc": "Invoque un <span style=\"color:#FFFFFFFF\">Baron Lapinou</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "fiery_rain",
       "name": "Pluie de flèches",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et inflige <span style=\"color:#FFFFFFFF\">2 pts de <span style=\"color:#FFFFFFFF\">DGT de perforation</span></span> à tous les personnages adverses en attente.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#FF9999FF\">DGT Pyro</span> et inflige <span style=\"color:#FFFFFFFF\">2 pts de <span style=\"color:#FFFFFFFF\">DGT de perforation</span></span> à tous les personnages adverses en attente.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1103,

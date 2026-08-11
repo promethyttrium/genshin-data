@@ -25,19 +25,19 @@
       "_id": 112100,
       "id": "stillsmoldering_hilt",
       "name": "Cán Kiếm Chưa Tắt",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112099,
       "id": "splintered_hilt",
       "name": "Cán Kiếm Nứt Vỡ",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112098,
       "id": "ruined_hilt",
       "name": "Cán Kiếm Nát Vụn",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Golem_Legion",
   "description": "Bức tượng chuyển động với tư thế chiến sĩ, sẵn sàng chĩa lưỡi kiếm về phía bất cứ ai liều lĩnh xâm nhập lãnh địa mà nó bảo vệ. Chẳng rõ là linh hồn hay phép thuật mới là thứ thôi thúc nó chiến đấu.\\nTương truyền rằng đoàn quân Ma Tượng đã từng chinh phục các quốc gia trên biển cao, biết đâu nó cũng là một thành viên trong đó. Những tòa tháp cao và cung điện chìm sâu dưới biển đã chứng kiến kết cục của những kẻ dám chống lại vòng xoay của bánh xe vận mệnh.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

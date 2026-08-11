@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "キャラカード",
     "energy": 2,
+    "element": "草元素",
+    "weapon": "片手剣",
     "faction": [
-      null
+      "稲妻"
     ],
     "talent_card": {
       "_id": 5164,
@@ -29,8 +31,10 @@
     {
       "id": "boxcutter",
       "name": "段板紙·切り裂き術",
-      "desc": "?を?与える。",
-      "skillTag": [],
+      "desc": "?を2与える。",
+      "skillTag": [
+        "通常攻撃"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -50,7 +54,9 @@
       "id": "meowteor_kick",
       "name": "にゃんにゃん町飛脚",
       "desc": "<span style=\"color:#FFFFFFFF\">ネコ箱急便</span>を1層、<span style=\"color:#FFFFFFFF\">安全運送シールド</span>を2層生成する。",
-      "skillTag": [],
+      "skillTag": [
+        "元素スキル"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "secret_art_surprise_dispatch",
       "name": "秘法·サプライズ特別配送",
-      "desc": "?を?与え、相手のフィールドに<span style=\"color:#FFFFFFFF\">ニャルダモン</span>を生成する。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#7EC236FF\">草元素ダメージ</span>を4与え、相手のフィールドに<span style=\"color:#FFFFFFFF\">ニャルダモン</span>を生成する。",
+      "skillTag": [
+        "元素爆発"
+      ],
       "points": [
         {
           "_id": 1107,

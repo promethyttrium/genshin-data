@@ -25,19 +25,19 @@
       "_id": 112019,
       "id": "deathly_statuette",
       "name": "Escultura das Profundezas",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112018,
       "id": "dark_statuette",
       "name": "Escultura do Alvorecer",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112017,
       "id": "gloomy_statuette",
       "name": "Escultura Sombria",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Chargebow_Ice",
   "description": "Soldado sombrio. No passado, foi um orgulhoso soldado de uma antiga nação subterrânea, agora não é nada além de uma casca vazia que tem apenas as memórias da batalha.\\nTudo irá se decompor com o tempo, e isso é tudo que sobrou dos Cavaleiros da Serpente Negra em meio à marcha impiedosa de seus pecados, das maldições e do próprio tempo.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

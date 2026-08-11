@@ -15,6 +15,11 @@
       "name": "烤吃虎魚"
     },
     {
+      "_id": 1701,
+      "id": "podvorye_smoked_sausage",
+      "name": "老庭院燻腸"
+    },
+    {
       "_id": 2006,
       "id": "fried_radish_balls",
       "name": "炸蘿蔔丸子"
@@ -67,6 +72,5 @@
   ],
   "source": [
     "雜貨店購買"
-  ],
-  "rarity": 0
+  ]
 }

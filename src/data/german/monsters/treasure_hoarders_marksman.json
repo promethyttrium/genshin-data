@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Hunter_01",
   "description": "Ein Mitglied der kriminellen Gruppierung ohne Hauptquartier, die überall auf dem Kontinent ihre Spuren hinterlässt, selbst in unerkundeten Sphären.\\nMan nennt sie leicht spöttisch „Scharfschützen“, da sie keine Bögen verwenden, sondern Armbrüste, deren Beherrschung jedoch viel Übung erfordert. Doch selbst Hilichurle wissen, wie man eine Armbrust betätigt. Einfach das lange Ende auf den Gegner richten, den Abzug drücken und zack – das war’s.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

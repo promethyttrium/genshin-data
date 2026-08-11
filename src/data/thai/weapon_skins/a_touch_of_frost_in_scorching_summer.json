@@ -1,0 +1,16 @@
+{
+  "_id": 380003,
+  "id": "a_touch_of_frost_in_scorching_summer",
+  "name": "เกล็ดน้ำแข็งยามร้อนระอุ!",
+  "description": "ของขวัญเล็ก ๆ ที่เหล่าแจ็คฟรอสต์มอบให้เพื่อนรัก! แม้จะดูน่าอร่อยและเหมือนรสแยมเบอร์รี เมื่อกัดลงไป ความเย็นสดชื่นและความหวานละมุนจะเต้นระบำอยู่บนปลายลิ้น แต่จริง ๆ แล้วมันกินไม่ได้... แม้จะดูน่าอร่อยก็ตาม",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "ดาบ"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341803,
+  "icon_path": "UI_EquipIcon_Sword_Icecream",
+  "image_path": "UI_Gacha_EquipIcon_Sword_Icecream"
+}

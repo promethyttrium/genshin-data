@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Epsilon_Wind",
   "description": "Un organismo fúngico con cierta inteligencia. Tiene una gran capacidad de adaptación al entorno.\\nAbsorbe los nutrientes a través de su columna. Su copa con forma de paraguas se mueve en la dirección del viento.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

@@ -59,22 +59,21 @@
       "_id": 112036,
       "id": "silver_raven_insignia",
       "name": "Silver Raven Insignia",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112035,
       "id": "treasure_hoarder_insignia",
       "name": "Treasure Hoarder Insignia",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Water_01",
   "description": "Seorang anggota organisasi kriminal tersebar yang menancapkan jejaknya di seluruh daratan dan bahkan jauh ke dalam domain yang tidak diketahui.\\nAda yang mengatakan bahwa beberapa Treasure Hoarder Potioneer dulunya adalah penipu yang akan berkeliaran di desa dan kota besar, menjajakan campuran ramuan khusus mereka, air suci, dan sejenisnya. Tampaknya ramuan-ramuan ini lebih berguna di dalam pertempuran daripada harus dijual dengan tipu daya.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

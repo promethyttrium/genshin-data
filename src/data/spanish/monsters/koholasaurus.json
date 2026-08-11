@@ -8,13 +8,12 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Mosasaurus_Normal",
   "description": "Un saurio con unas aletas muy toscas y una larga cola, capaz de moverse por el agua y el flogisto líquido.\\nCuenta la leyenda que los dragones de la antigüedad tenían una mayor capacidad de adaptación al entorno, de manera que, al flotar en la superficie del agua, los dragones marinos más grandes se podían confundir con islas enteras. Los Koholasaurio de ahora serían los descendientes de aquellos gigantescos dragones marinos. De hecho, a partir de sus amplias espaldas, nos podemos hacer una idea de lo colosales que debieron de ser aquellas bestias marinas de la antigüedad.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {

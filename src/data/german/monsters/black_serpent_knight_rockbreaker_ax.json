@@ -22,7 +22,6 @@
   "categoryText": "Der Abgrund",
   "filename_icon": "UI_MonsterIcon_Darkwraith_Fat_Rock",
   "description": "Ein Kämpfer der Garde, der bei Hofe eine wichtige Rolle spielte, wendet die Schwertkampftechnik „Suche nach der Wahrheit“ an, um Feinde des Königshauses zu bekämpfen.\\nObwohl es sich bei „Suche nach der Wahrheit“ eigentlich um eine Schwertkampftechnik handelt, können ihre Lektionen auf eine Vielzahl von Waffen angewendet werden. In der dunkelsten Stunde des Königreichs bleibt denen, welche die Last dessen Schutzes auf ihren Schultern tragen, manchmal keine Wahl.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

@@ -481,9 +481,31 @@
     "Dilimbabbar Attack Array",
     "Dilimbabbar Defense Array",
     "The Blighted Newborn",
+    "???",
+    "Grounded Stonehawk",
     "The Blighted Newborn",
     "The Pioneer That Gazes at the Stars",
-    "Creation's Afterglow"
+    "Creation's Afterglow",
+    "Immortal Construct",
+    "Zhara",
+    "Vasiliy \"Oedipus\" Izmaylov",
+    "Returner Who Bound Themselves in Ice",
+    "Gusarov",
+    "Primordial Human",
+    "Aksinya",
+    "Pavlina",
+    "Expedition Returner",
+    "Chaotic Landcruiser",
+    "Nastya",
+    "Furiosa",
+    "Klenova the Ascended",
+    "Kovaliskaya the Lowly",
+    "Tsvetaev",
+    "Bragin",
+    "Churin",
+    "They Who Once Swore Loyalty to Eternity",
+    "Lurking Burrowbeast",
+    "Swift in Thrust"
   ],
   "investigation": {
     "investigationId": 44,
@@ -510,22 +532,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Trimmed Red Silk",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Faded Red Satin",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Other Human Factions",
   "filename_icon": "UI_MonsterIcon_Eremite_MuscleMan_Simitar",
   "description": "A member of a loosely-organized mercenary corps from the golden desert sands. Will work for anyone as long as the pay is good.\\nThis desert warrior wields a large curved blade in battle. The skills such fighters boast of have been passed down since the days when their now-lost civilization was still extant, and are not only techniques to be used in battle, but also serve well as a performing art popular in various lands.\\nIt is said that this sword art was once practiced from horseback.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Slime_Grass_02",
   "description": "豊富な草元素により、生態上の変化を遂げたスライム。\\n火と接触すると、激しく燃えてしまうと言う、草元素の弱点も受け継いだ。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

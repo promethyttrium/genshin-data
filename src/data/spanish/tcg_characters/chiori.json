@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Geo",
+    "weapon": "Espada ligera",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 7064,
@@ -29,8 +31,10 @@
     {
       "id": "weaving_blade",
       "name": "Técnica tejecorazones",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -50,7 +54,9 @@
       "id": "fluttering_hasode",
       "name": "Caricia de mangas",
       "desc": "<span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Selecciona</span></span> 1 de las 3 <span style=\"color:#FFFFFFFF\">robomuñecas de Chiori</span> para invocarla.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -63,8 +69,10 @@
     {
       "id": "hiyoku_twin_blades",
       "name": "Filos gemelos: Desenvaine alígero",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 5 pts. de <span style=\"color:#FFE699FF\">Daño Geo</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1106,

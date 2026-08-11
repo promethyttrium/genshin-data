@@ -14,14 +14,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl-Stämme",
   "filename_icon": "UI_MonsterIcon_Shaman_Wind_01",
   "description": "Ein runzliger, murmelnder Hilichurl, der die Botschaft der Anemo-Energie verbreitet.\\nHilichurle, deren Gabe darin liegt, die Elemente zu steuern, erreichen ihren Zenit oft erst in den letzten Lebensjahren. Die Fähigkeit, die Winde zu befehligen, stammt von dunklen, vergessenen Erinnerungen.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

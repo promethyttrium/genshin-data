@@ -16,6 +16,11 @@
   "recommendedElements": [
     "Pyro"
   ],
+  "daysOfWeek": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ],
   "domainType": "UI_ABYSSUS_AVATAR_PROUD",
   "domainText": "Talent Level-Up Material",
   "rewardPreview": [

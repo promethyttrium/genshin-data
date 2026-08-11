@@ -13,7 +13,6 @@
   "categoryText": "Makhluk Elemental",
   "filename_icon": "UI_MonsterIcon_Narcissusborn_Normal_01",
   "description": "Monster berbentuk manusia yang terbentuk dari gabungan tetesan air.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

@@ -595,7 +595,7 @@
     {
       "id": "winds_vanguard",
       "name": "Ngọn Cờ Gió Dẫn Đầu",
-      "description": "Khi nhân vật trong đội ở gần kích hoạt phản ứng Khuếch Tán, Varka sẽ nhận được một tầng <span style=\"color:#FFD780FF\">Lời Thề Nanh Xanh</span>, khiến Tấn Công Thường, Trọng Kích, Trọng Kích đặc biệt <span style=\"color:#FFD780FF\">Trời Xanh Cắn Xé</span> và Kỹ Năng Nguyên Tố đặc biệt <b><span style=\"color:#FFD780FF\">Tứ Phong Trỗi Dậy</span></b> của Varka sẽ tăng 7.5% sát thương gây ra. Hiệu quả này duy trì 8s, tối đa cộng dồn 4 tầng, mỗi nhân vật mỗi 1s tối đa giúp Varka nhận một tầng <span style=\"color:#FFD780FF\">Lời Thề Nanh Xanh</span> theo cách này.",
+      "description": "Khi nhân vật trong đội ở gần kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, Varka sẽ nhận được một tầng <span style=\"color:#FFD780FF\">Lời Thề Nanh Xanh</span>, khiến Tấn Công Thường, Trọng Kích, Trọng Kích đặc biệt <span style=\"color:#FFD780FF\">Trời Xanh Cắn Xé</span> và Kỹ Năng Nguyên Tố đặc biệt <b><span style=\"color:#FFD780FF\">Tứ Phong Trỗi Dậy</span></b> của Varka sẽ tăng 7.5% sát thương gây ra. Hiệu quả này duy trì 8s, tối đa cộng dồn 4 tầng, mỗi nhân vật mỗi 1s tối đa giúp Varka nhận một tầng <span style=\"color:#FFD780FF\">Lời Thề Nanh Xanh</span> theo cách này.",
       "level": 4
     },
     {
@@ -631,7 +631,7 @@
       "_id": 1284,
       "id": "for_none_may_take_from_us_our_freedom_of_song",
       "name": "\"Không Ai Cướp Được, Tự Do Ca Hát Của Chúng Ta\"",
-      "description": "Khi Varka kích hoạt phản ứng Khuếch Tán, căn cứ vào loại nguyên tố tham gia phản ứng, tất cả nhân vật trong đội ở gần sẽ nhận 20% buff sát thương <span style=\"color:#80FFD7FF\">Nguyên Tố Phong</span> và nguyên tố tương ứng, duy trì 10s.",
+      "description": "Khi Varka kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, căn cứ vào loại nguyên tố tham gia phản ứng, tất cả nhân vật trong đội ở gần sẽ nhận 20% buff sát thương <span style=\"color:#80FFD7FF\">Nguyên Tố Phong</span> và nguyên tố tương ứng, duy trì 10s.",
       "level": 4
     },
     {

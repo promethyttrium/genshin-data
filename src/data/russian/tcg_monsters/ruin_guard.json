@@ -8,16 +8,20 @@
     "hp": 8,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Без элемента",
+    "weapon": "Прочее",
     "faction": [
-      null
+      "Монстр"
     ]
   },
   "skills": [
     {
       "id": "stern_blow",
       "name": "Твёрдый удар",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -30,8 +34,10 @@
     {
       "id": "spiral_closein",
       "name": "Спиральное приближение",
-      "desc": "Наносит ?, ? ед., после чего начинается <span style=\"color:#FFFFFFFF\">Подготовка навыка</span>: <span style=\"color:#FFFFFFFF\">Частотный удар</span> и <span style=\"color:#FFFFFFFF\">Скоростной удар</span>.",
-      "skillTag": [],
+      "desc": "Наносит ?, 1 ед., после чего начинается <span style=\"color:#FFFFFFFF\">Подготовка навыка</span>: <span style=\"color:#FFFFFFFF\">Частотный удар</span> и <span style=\"color:#FFFFFFFF\">Скоростной удар</span>.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1108,
@@ -44,8 +50,10 @@
     {
       "id": "suppressive_volley",
       "name": "Залп на подавление",
-      "desc": "Наносит ?, ? ед. Вызывает <span style=\"color:#FFFFFFFF\">Снаряд-следопыт</span> в области противника.",
-      "skillTag": [],
+      "desc": "Наносит ?, 4 ед. Вызывает <span style=\"color:#FFFFFFFF\">Снаряд-следопыт</span> в области противника.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1108,
@@ -65,7 +73,9 @@
       "id": "standard_armor",
       "name": "Стандартная броня",
       "desc": "(Пассивный навык) <span style=\"color:#FFFFFFFF\">Физический урон</span>, который получает этот персонаж, снижается вдвое (округляется в большую сторону)",
-      "skillTag": [],
+      "skillTag": [
+        "Пассивный навык"
+      ],
       "points": []
     }
   ]

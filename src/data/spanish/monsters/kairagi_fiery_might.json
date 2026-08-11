@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Samurai_Kairagi_02",
   "description": "Un guerrero errante con malas intenciones.\\nDesde pequeño entrenó en el camino del guerrero incansablemente, pero por una razón u otra perdió la oportunidad de ascender al servicio público y se separó del camino del bien. A diferencia del acero frío de otras espadas, un talismán de una técnica extinta de Kamuna infunde en la hoja de su arma el ardor del resentimiento en su corazón.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 6,
   "stats": {

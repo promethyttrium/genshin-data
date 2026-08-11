@@ -37,7 +37,7 @@
       "_id": 113036,
       "id": "majestic_hooked_beak",
       "name": "Görkemli Çengel Gaga",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104134,
@@ -120,7 +120,6 @@
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Fungus_Raptor",
   "description": "Bu büyük mantar canavarı uzun yıllar içerisinde kendine has bir şekle evrildi.\\nZekası hayvanlarınkine yetişti, hatta onları geçti. Hayatta kalmak için avlanmaya bile çıkar. Kuyruğunda, Spantamad ekolünün hürmet ettiği eski kutsal canavarınkine benzeyen, sevimli yeşim tüyleri bulunur. Taklit mantığından yola çıkarak, ikisinin daha önce beraber yaşamış olması muhtemel.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Shamansaurus",
   "description": "Puslu vadileri devriye gezen, Gece Rüzgarından kabile muhafızı savaşçı.\\nVücut boyamanın, Filojiston Oymacılığından evrilmiş bir sanat olduğu söylenir. İçlerindeki güce tamamen hakim olmak ancak uzun yıllar süren bir eğitimden sonra mümkün olurmuş.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

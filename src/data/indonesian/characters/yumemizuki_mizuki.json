@@ -190,7 +190,7 @@
       "_id": 11092,
       "id": "aisa_utamakura_pilgrimage",
       "name": "Aisa Utamakura Pilgrimage",
-      "description": "Menenun kenangan mimpi indah, memasuki status <span style=\"color:#FFD780FF\">Dreamdrifter</span> yang bisa melayang di atas permukaan tanah, dan mengakibatkan satu kali <span style=\"color:#80FFD7FF\">Anemo DMG Area</span> terhadap musuh di sekitar.<br/><br/><span style=\"color:#FFD780FF\">Dreamdrifter</span><br/>·Saat berada dalam status Dreamdrifter, Yumemizuki Mizuki akan terus melayang dan mengakibatkan <span style=\"color:#80FFD7FF\">Anemo DMG Area</span> secara berkala terhadap musuh di sekitar.<br/>·Selama durasi ini, Yumemizuki Mizuki dapat mengontrol arah melayangnya, dan jarak pengambilan <span style=\"color:#FFD780FF\">Yumemi Style Special Snacks</span> dari Elemental Burst <span style=\"color:#FFD780FF\">Anraku Secret Spring Therapy</span> akan meningkat.<br/>·Meningkatkan DMG Swirl yang dipicu oleh anggota party di sekitar berdasarkan Elemental Mastery Yumemizuki Mizuki.<br/>·Status Dreamdrifter akan berakhir saat Yumemizuki Mizuki meninggalkan medan pertempuran atau melancarkan Elemental Skill-nya sekali lagi.",
+      "description": "Menenun kenangan mimpi indah, memasuki status <span style=\"color:#FFD780FF\">Dreamdrifter</span> yang bisa melayang di atas permukaan tanah, dan mengakibatkan satu kali <span style=\"color:#80FFD7FF\">Anemo DMG Area</span> terhadap musuh di sekitar.<br/><br/><span style=\"color:#FFD780FF\">Dreamdrifter</span><br/>·Saat berada dalam status Dreamdrifter, Yumemizuki Mizuki akan terus melayang ke arah depan dan mengakibatkan <span style=\"color:#80FFD7FF\">Anemo DMG Area</span> secara berkala terhadap musuh di sekitar.<br/>·Selama durasi ini, Yumemizuki Mizuki dapat mengontrol arah melayangnya, dan jarak pengambilan <span style=\"color:#FFD780FF\">Yumemi Style Special Snacks</span> dari Elemental Burst <span style=\"color:#FFD780FF\">Anraku Secret Spring Therapy</span> akan meningkat.<br/>·Meningkatkan DMG reaksi Swirl dan Stellar Swirl yang dipicu oleh anggota party di sekitar berdasarkan Elemental Mastery Yumemizuki Mizuki.<br/>·Status Dreamdrifter akan berakhir saat Yumemizuki Mizuki meninggalkan medan pertempuran atau melancarkan Elemental Skill-nya sekali lagi.",
       "info": "\"Mimpi kita bersentuhan pada malam hari, lagunya bersenandung di dalam sanubari kita.\"",
       "attributes": [
         {
@@ -254,23 +254,43 @@
           ]
         },
         {
-          "label": "Peningkatan Persentase DMG Swirl untuk Setiap Poin Elemental Mastery",
+          "label": "Peningkatan DMG Swirl dari Elemental Mastery",
           "values": [
-            "0.18%",
-            "0.21%",
-            "0.24%",
-            "0.27%",
-            "0.3%",
-            "0.33%",
-            "0.36%",
-            "0.39%",
-            "0.42%",
-            "0.45%",
-            "0.48%",
-            "0.51%",
-            "0.54%",
-            "0.57%",
-            "0.6%"
+            "18% per 100 poin",
+            "21% per 100 poin",
+            "24% per 100 poin",
+            "27% per 100 poin",
+            "30% per 100 poin",
+            "33% per 100 poin",
+            "36% per 100 poin",
+            "39% per 100 poin",
+            "42% per 100 poin",
+            "45% per 100 poin",
+            "48% per 100 poin",
+            "51% per 100 poin",
+            "54% per 100 poin",
+            "57% per 100 poin",
+            "60% per 100 poin"
+          ]
+        },
+        {
+          "label": "Peningkatan DMG Stellar Swirl dari Elemental Mastery",
+          "values": [
+            "1.8% per 100 poin",
+            "2.1% per 100 poin",
+            "2.4% per 100 poin",
+            "2.7% per 100 poin",
+            "3% per 100 poin",
+            "3.3% per 100 poin",
+            "3.6% per 100 poin",
+            "3.9% per 100 poin",
+            "4.2% per 100 poin",
+            "4.5% per 100 poin",
+            "4.8% per 100 poin",
+            "5.1% per 100 poin",
+            "5.4% per 100 poin",
+            "5.7% per 100 poin",
+            "6% per 100 poin"
           ]
         },
         {
@@ -429,7 +449,7 @@
     {
       "id": "bright_moons_restless_voice",
       "name": "Bright Moon's Restless Voice",
-      "description": "Setiap kali Yumemizuki Mizuki memicu reaksi Swirl saat dalam status Dreamdrifter, maka durasi Dreamdrifter akan bertambah 2,5 detik. Efek ini dapat terpicu sekali setiap 0,3 detik, dan dapat terpicu sebanyak 2 kali dalam satu kali status Dreamdrifter.",
+      "description": "Setiap kali Yumemizuki Mizuki memicu reaksi Swirl atau Stellar Swirl saat dalam status Dreamdrifter, maka durasi Dreamdrifter akan bertambah 2,5 detik. Efek ini dapat terpicu sekali setiap 0,3 detik, dan dapat terpicu sebanyak 2 kali dalam satu kali status Dreamdrifter.",
       "level": 1
     },
     {
@@ -450,7 +470,7 @@
       "_id": 1091,
       "id": "in_mistlike_waters",
       "name": "In Mist-Like Waters",
-      "description": "Saat Yumemizuki Mizuki berada dalam status Dreamdrifter, ia akan memberikan efek \"Twenty-Three Nights' Awaiting\" pada musuh di sekitar setiap 3,5 detik dan bertahan selama 3 detik. Saat musuh yang berada dalam status \"Twenty-Three Nights' Awaiting\" terkena Anemo DMG dan memicu reaksi Swirl, maka efek ini terhapus dan membuat DMG reaksi Swirl pada musuh yang bersangkutan kali ini meningkat sebesar 1.100% dari Elemental Mastery Yumemizuki Mizuki.",
+      "description": "Saat Yumemizuki Mizuki berada dalam status Dreamdrifter, ia akan memberikan efek \"Twenty-Three Nights' Awaiting\" pada musuh di sekitar setiap 3,5 detik dan bertahan selama 3 detik. Saat musuh yang berada dalam status \"Twenty-Three Nights' Awaiting\" terkena Anemo DMG dan memicu reaksi Swirl/Stellar Swirl, maka efek ini terhapus dan membuat DMG reaksi Swirl atau Stellar Swirl pada musuh yang bersangkutan kali ini masing-masing meningkat sebesar 1.100%/550% dari Elemental Mastery Yumemizuki Mizuki.",
       "level": 1
     },
     {
@@ -485,7 +505,7 @@
       "_id": 1096,
       "id": "the_heart_lingers_long",
       "name": "The Heart Lingers Long",
-      "description": "Saat Yumemizuki Mizuki berada dalam status Dreamdrifter, DMG reaksi Swirl yang dipicu oleh anggota party di sekitar dapat mengakibatkan CRIT, dengan nilai CRIT Rate tetap sebesar 30% dan CRIT DMG tetap sebesar 100%.",
+      "description": "Saat Yumemizuki Mizuki berada dalam status Dreamdrifter, DMG reaksi Swirl yang dipicu oleh Karakter party di sekitar dapat mengakibatkan CRIT, dengan nilai CRIT Rate tetap sebesar 30% dan CRIT DMG tetap sebesar 100%, serta meningkatkan 10% CRIT Rate dan 20% CRIT DMG Stellar Swirl yang diakibatkan oleh Karakter tersebut.",
       "level": 6
     }
   ],

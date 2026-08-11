@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "自律机关",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Probe",
   "description": "以探测地下资源及特定矿物为目的，设计制造的发条机关。\\n因为能够设置搜寻的金属类型，所以也很受盗宝团与冒险家的欢迎。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

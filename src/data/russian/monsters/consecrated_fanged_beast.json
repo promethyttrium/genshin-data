@@ -25,19 +25,19 @@
       "_id": 112076,
       "id": "marked_shell",
       "name": "Меченая оболочка",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112075,
       "id": "sturdy_shell",
       "name": "Прочная оболочка",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112074,
       "id": "desiccated_shell",
       "name": "Опустошённая оболочка",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Panther_Sacred_Grass",
   "description": "Хищник, мутировавший после поедания развитых форм жизни.\\nВ природе побеждает тот, кто сильнее, но домашние животные и священные хищники - исключение. Случайно или нет, но людская прикормка и бессмертные останки являются ловушкой. За дары сильных приходится платить намного более мучительную цену, чем жизнь в клетке.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

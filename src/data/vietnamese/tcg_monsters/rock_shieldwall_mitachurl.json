@@ -8,17 +8,21 @@
     "hp": 8,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Nham",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null,
-      null
+      "Ma Vật",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "plata_plama",
       "name": "Plata Plama",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -37,8 +41,10 @@
     {
       "id": "da_plama",
       "name": "Da Plama",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 3 điểm ?.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -51,8 +57,10 @@
     {
       "id": "aba_movo",
       "name": "Aba Movo",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 5 điểm ?.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -72,7 +80,9 @@
       "id": "craggy_greatshield",
       "name": "Khiên Nham Thạch",
       "desc": "(Bị Động) Khi bắt đầu chiến đấu, nhân vật này nhận <span style=\"color:#FFFFFFFF\">Khiên Nham Thạch</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Bị Động"
+      ],
       "points": []
     }
   ]

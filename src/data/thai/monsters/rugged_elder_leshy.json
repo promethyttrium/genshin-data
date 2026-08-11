@@ -1,0 +1,40 @@
+{
+  "_id": 25137001,
+  "id": "rugged_elder_leshy",
+  "monsterId": 25137006,
+  "name": "เลชีเฒ่าผู้ทรงพลัง",
+  "specialNames": [
+    "ต้นไม้แตกกิ่งที่เยาว์วัย"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "สัตว์อสูรลึกลับ",
+  "filename_icon": "UI_MonsterIcon_Leshy_Mature_01",
+  "description": "เลชีที่เติบโตอยู่ท่ามกลางป่าเขา\\nเลชีที่มีสติปัญญาอันบกพร่องและขาดความสามารถในการพูด ดูคล้ายกับผลการทดลองในยุคแรกเริ่มของเหล่าช่างฝีมือแห่งอาณาจักรทองคำ ทว่าในทางกลับกัน ตามบันทึกระบุว่า พวกเขาสร้างภูตเผ่าพันธุ์นี้ขึ้นมาหลังจากที่ครอบครองอำนาจแห่งชีวิตได้เกือบจะสมบูรณ์แบบแล้วต่างหาก\\nหรือบางทีในนั้นอาจแฝงไปด้วยความปรารถนาที่แท้จริง ซึ่งภูตและมนุษย์ในปัจจุบันไม่มีทางหยั่งรู้ได้กระมัง",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.3,
+      "hydro": 0.1,
+      "geo": 0.3,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 21.945072,
+      "attack": 94.62242,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Makhluk Elemental",
   "filename_icon": "UI_MonsterIcon_Slime_Grass_02",
   "description": "Slime yang telah mengalami perubahan ekologis karena melimpahnya elemen Dendro di lingkungannya.\\nSlime tersebut juga sudah terpengaruh oleh kelemahan dari elemen Dendro, sehingga akan terbakar secara parah ketika bertemu dengan nyala api yang terang.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

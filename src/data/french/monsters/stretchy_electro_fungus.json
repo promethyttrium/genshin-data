@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Delta_Electric",
   "description": "Une spore dotée d'un certain degré d'intelligence qui possède une excellente capacité d'adaptation à son environnement.\\nÀ la différence des autres Fongus, cette créature possède un chapeau sur lequel pousse une antenne brillante. En cas de danger, elle projette des orbes électriques pour se défendre.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

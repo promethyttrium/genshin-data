@@ -1,0 +1,24 @@
+{
+  "_id": 112153,
+  "id": "accreted_mass",
+  "name": "Öbeklenmiş Kitle",
+  "description": "Uzun bir süre bir iç organa veya kemiğe tutunmuş bir oluşum. Çıkarıldıktan sonra bir güç sembolü sayılan bu tür kitleler, yaratığın soyundan gelenler tarafından büyük bir özenle muhafaza edilir.",
+  "source": [
+    "Sv. 40 ve üzeri Volkodlak Zalimlerinden düşer.",
+    "Yıldız Tozu Takası",
+    "Yer Tutucu - Üretilebilir Miktar: {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112152,
+        "id": "accreted_fragment",
+        "name": "Ufak Kitle",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

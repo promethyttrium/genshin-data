@@ -1,7 +1,7 @@
 {
   "_id": 23040101,
   "id": "fatui_cryo_cicin_mage",
-  "monsterId": 23040102,
+  "monsterId": 23070551,
   "name": "우인단·얼음 치친 술사",
   "specialNames": [
     "우인단·안나",
@@ -52,12 +52,11 @@
   "categoryText": "우인단",
   "filename_icon": "UI_MonsterIcon_Fatuus_Mage_Ice_01",
   "description": "얼음 치친을 조종해 싸운다. 어디서 왔는지, 가면 아래의 모습은 어떤지, 모두 미스터리인 우인단 소녀 술사.\\n보통 신의 눈이 없는 인간은 그들처럼 원소를 조종할 수 없다. 하지만 그들은 안개풀을 이용해 얼음 치친을 조종하며 얼음의 힘을 거침없이 휘두른다. 겉보기엔 정처 없이 떠도는 것 같지만, 과연 어떤 사명을 안고 있을지…",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
-  "budget": 4,
+  "budget": 2,
   "stats": {
     "resistance": {
-      "physical": -0.2,
+      "physical": 0.1,
       "pyro": 0.1,
       "dendro": 0.1,
       "hydro": 0.1,
@@ -67,13 +66,13 @@
       "electro": 0.1
     },
     "base": {
-      "hp": 67.92,
-      "attack": 50.24,
+      "hp": 25.602585,
+      "attack": 90.11659,
       "defense": 500
     },
     "curve": {
-      "hp": "GROW_CURVE_HP",
-      "attack": "GROW_CURVE_ATTACK",
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
       "defense": "GROW_CURVE_DEFENSE"
     }
   }

@@ -13,7 +13,6 @@
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Magbeast_Pergesa",
   "description": "O poder antigo da lua jorrou nessas asas ilusórias, e o monstro na forma de borboleta agora dança levemente sob o luar.\\nOs princípios da evolução dizem que depois do poder selvagem, mas primordial, ter sido domesticado pelo soberano celestial, tais monstros não poderiam manter sua forma, e passariam a ficar cada vez menores e mais fracos. Entretanto, as bênçãos da Lua os fizeram voar por esse mundo enquanto permaneciam no seu ápice, como resquícios de um mundo antigo, quando a Lua ainda iluminava a terra.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

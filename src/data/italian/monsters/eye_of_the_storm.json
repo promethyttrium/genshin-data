@@ -61,7 +61,6 @@
   "categoryText": "Forme di vita elementali",
   "filename_icon": "UI_MonsterIcon_Elemental_Wind_01",
   "description": "La forma corporea di energie di Anemo di altissima qualità.\\nLa formazione di un Occhio del ciclone indica che le linee geomantiche elementali di una regione sono bloccate, il che ha portato alla formazione di sedimenti. Il suo comportamento sconsiderato e incurante nel brandire le tempeste, che riescono quasi a spazzare via le persone, potrebbe essere riconducibile alla sua natura, simbolo di un mondo colpito dal malessere.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 2,
   "stats": {

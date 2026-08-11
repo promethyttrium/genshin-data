@@ -1,7 +1,7 @@
 {
   "_id": 23040101,
   "id": "fatui_cryo_cicin_mage",
-  "monsterId": 23040102,
+  "monsterId": 23070551,
   "name": "Maga Cicin di Cryo dei Fatui",
   "specialNames": [
     "Anna",
@@ -52,12 +52,11 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Mage_Ice_01",
   "description": "Una Maga dei Fatui che può comandare Cicin di Cryo in battaglia. La loro origine e il loro aspetto sotto la maschera sono entrambi un mistero.\\nSecondo la logica, coloro che non hanno Visioni non dovrebbero essere in grado di controllare gli elementi come fanno queste Maghe. Tuttavia, oltre a usare l'Erbafosca per controllare i Cicin di Cryo, padroneggiano audacemente anche il potere del gelo. Vedendole vagare per la terra nel loro modo apparentemente senza scopo, non si può fare a meno di chiedersi quali doveri le spingano a proseguire...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
-  "budget": 4,
+  "budget": 2,
   "stats": {
     "resistance": {
-      "physical": -0.2,
+      "physical": 0.1,
       "pyro": 0.1,
       "dendro": 0.1,
       "hydro": 0.1,
@@ -67,13 +66,13 @@
       "electro": 0.1
     },
     "base": {
-      "hp": 67.92,
-      "attack": 50.24,
+      "hp": 25.602585,
+      "attack": 90.11659,
       "defense": 500
     },
     "curve": {
-      "hp": "GROW_CURVE_HP",
-      "attack": "GROW_CURVE_ATTACK",
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
       "defense": "GROW_CURVE_DEFENSE"
     }
   }

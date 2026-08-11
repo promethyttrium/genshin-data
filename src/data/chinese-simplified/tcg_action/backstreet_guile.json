@@ -1,0 +1,33 @@
+{
+  "_id": 215161,
+  "id": "backstreet_guile",
+  "shareId": 612,
+  "name": "暗巷的黠慧",
+  "title": "雅珂达·暗巷的黠慧",
+  "desc": "「都是我的！」",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">雅珂达</span>切换成出战角色时，如果敌方手牌数量大于或等于我方手牌数量，则随机复制2张敌方手牌。（每回合1次）",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "风元素",
+    "card_type": "装备牌",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "风元素",
+        "count": 3
+      }
+    ],
+    "source": "在猫尾酒馆中邀请雅珂达进行对局，完成相应挑战目标后获取",
+    "tags": [
+      "天赋",
+      "战斗行动"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">战斗行动</span>：我方出战角色为<span style=\"color:#FFFFFFFF\">雅珂达</span>时，装备此牌。<br/>雅珂达装备此牌后，立刻使用一次<span style=\"color:#FFD780FF\">奇策·财富分配方案</span>。<br/><span style=\"color:#FFFFFFFF\">雅珂达</span>切换成出战角色时，如果敌方手牌数量大于或等于我方手牌数量，则随机复制2张敌方手牌。（每回合1次）<br/>（牌组中包含雅珂达，才能加入牌组）"
+    }
+  ]
+}

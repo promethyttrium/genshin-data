@@ -13,7 +13,6 @@
   "categoryText": "Automaton",
   "filename_icon": "UI_MonsterIcon_Apparatus_Perpetual",
   "description": "Mesin yang aneh dan asing.\\nMenurut legenda, mesin ini dulunya adalah mesin perang peninggalan sebuah bangsa yang telah hancur. Mesin yang terdiri dari beberapa bagian berbeda ini bisa beradaptasi dengan lingkungan pertarungan dan melancarkan berbagai jenis serangan.\\nBentuknya yang menyerupai kubus memiliki sedikit kemiripan dengan Elemental Hypostasis.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

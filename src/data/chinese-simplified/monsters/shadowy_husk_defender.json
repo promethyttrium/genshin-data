@@ -25,19 +25,19 @@
       "_id": 112019,
       "id": "deathly_statuette",
       "name": "幽邃刻像",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112018,
       "id": "dark_statuette",
       "name": "夤夜刻像",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112017,
       "id": "gloomy_statuette",
       "name": "晦暗刻像",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "深渊",
   "filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Chargebow_Ice",
   "description": "漆黑的士兵。曾经是地下古国的骄傲军人，如今不过是一具残留着战斗记忆的空壳罢了。\\n万物尽头皆是废退，而这种空壳就是「黑蛇骑士」在罪、诅咒、时间的冲刷之下变成的模样。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

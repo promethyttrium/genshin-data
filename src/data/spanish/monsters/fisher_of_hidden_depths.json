@@ -14,7 +14,6 @@
   "filename_icon": "UI_MonsterIcon_Lloigor_Sub",
   "description": "Una criatura del Abismo que se infiltra a través de fisuras en las profundidades insondables, cruzando a este mundo desde lugares desconocidos.\\nHace mucho tiempo, un antiguo filósofo describió a los humanos como “bípedos sin plumas”, usando una expresión tan sencilla para distinguir a la humanidad de los animales y así afirmar la superioridad de los primeros. De alguna forma, estas bestias inmortales que vagan por el silencioso vacío cósmico, tienen escamas en vez de plumas y usan sus ganchudos picos para devorar la biomasa de los distintos mundos también podrían ajustarse a la misma definición simplista de “humanos”.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
-  "bgm": 0,
   "budget": -1,
   "stats": {
     "resistance": {

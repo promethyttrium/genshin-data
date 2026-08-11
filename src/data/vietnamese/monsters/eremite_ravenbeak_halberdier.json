@@ -31,22 +31,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Băng Đỏ Viền Vàng",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Băng Đỏ Phai Màu",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Eremite_Male_Standard_Pole",
   "description": "Đến từ sa mạc có màu của vàng, là một thành viên trong đoàn thể lính đánh thuê riêng lẻ. Vì thù lao, sẵn sàng ra sức cho bất kỳ ai.\\nSử dụng vũ khí có tên là \"Kích Mỏ Quạ\" để chiến đấu. Trong truyền thuyết, các ẩn sĩ thời cổ đại thờ phụng vị thần sa mạc sẽ mang theo loại kích này xem như biểu tượng của họ. Tên thật của vũ khí này đã thất lạc trong biển cát.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -19,6 +19,11 @@
     "불 원소",
     "바람 원소"
   ],
+  "daysOfWeek": [
+    "수요일",
+    "토요일",
+    "일요일"
+  ],
   "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
   "domainText": "Weapon Ascension Materials",
   "rewardPreview": [

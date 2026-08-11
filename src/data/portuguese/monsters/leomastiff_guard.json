@@ -1,0 +1,133 @@
+{
+  "_id": 25132601,
+  "id": "leomastiff_guard",
+  "monsterId": 25132601,
+  "name": "Guarda Leão-Mastim",
+  "specialNames": [
+    "Guarda Leão-Mastim"
+  ],
+  "investigation": {
+    "investigationId": 101,
+    "name": "Volkodlak Bruto",
+    "categoryType": "Elite",
+    "categoryText": "Inimigos Elite",
+    "description": "Entre os feéricos de Snezhnaya, a raça mais populosa é composta de criaturas variadas, conhecidas coletivamente como os \"Volkodlaks\".\\nTalvez eles tenham sido criados com o único propósito de encontrar a resposta ao que torna um humano... humano."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "rewardPreviewId": 15543,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 112154,
+      "id": "accreted_growth",
+      "name": "Amplificação de Acreção",
+      "count": 0.131
+    },
+    {
+      "_id": 112153,
+      "id": "accreted_mass",
+      "name": "Massa de Acreção",
+      "count": 0.525
+    },
+    {
+      "_id": 112152,
+      "id": "accreted_fragment",
+      "name": "Fragmento de Acreção",
+      "count": 1.97
+    },
+    {
+      "_id": 112148,
+      "id": "ethereal_crystalscale_stone",
+      "name": "Escama Cristalina Etérea",
+      "count": 0.035
+    },
+    {
+      "_id": 112147,
+      "id": "ethereal_crystal",
+      "name": "Cristal Etéreo",
+      "count": 0.14
+    },
+    {
+      "_id": 112146,
+      "id": "ethereal_glimmershard",
+      "name": "Granizo Etéreo",
+      "count": 0.525
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Instrutor",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "O Exilado",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Instrutor",
+      "rarity": 3
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "O Exilado",
+      "rarity": 3
+    },
+    {
+      "_id": 400062,
+      "id": "traveling_doctor",
+      "name": "O Doutor Viajante",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Monstros diversos",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Sheepdog",
+  "description": "Um Volkodlak dos clãs caninos que parece um tanto preguiçoso.\\nEntre os muitos clãs de Volkodlaks, os clãs caninos sempre desfrutaram de uma reputação melhor. Leais, amigáveis e geralmente com bom comportamento. Mas se tornam ferozes quando seus amigos e companheiros acabam em perigo, atacando qualquer um que considerem um inimigo.\\nDizem que durante uma guerra há muito tempo, o clã deles lutou contra o Czar em defesa do próprio rei e, por isso, ganharam o favor de Vossa Majestade.",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 35.3184,
+      "attack": 22.608,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

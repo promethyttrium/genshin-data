@@ -36,7 +36,7 @@
       "_id": 113039,
       "id": "light_guiding_tetrahedron",
       "name": "Light Guiding Tetrahedron",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -151,7 +151,6 @@
   "categoryText": "Automatons",
   "filename_icon": "UI_MonsterIcon_Monolith_Starchild",
   "description": "A perpetual motion machine that rules over the many constructs scattered throughout the desert. It seems that the lonely ruler's will still indwells this device.\\nPerhaps due to a friend's teachings in a dream or perhaps because he coveted the power of the holy ones in the skies, the king created mysterious devices that should not exist in this world before founding his realm in these lands.\\nAmidst the ruins of the City of the Pillars, the ancient crystals still reflect the glory of the golden paradise, though none now live who remember the king's dreams.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

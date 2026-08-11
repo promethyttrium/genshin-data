@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Andere Waffen",
     "faction": [
-      null
+      "Monster"
     ],
     "talent_card": {
       "_id": 8501,
@@ -27,8 +29,10 @@
     {
       "id": "void_claw_strike",
       "name": "Schattenklauenschlag",
-      "desc": "Verursacht 2 Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -47,8 +51,10 @@
     {
       "id": "eroded_flaming_feathers",
       "name": "Erodierte flammende Federn",
-      "desc": "Verursacht 3 Pkt. $[D__KEY__ELEMENT|s1] und die oberste Karte deines Stapels wird <span style=\"color:#FFFFFFFF\">abgeworfen</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#FF9999FF\">Pyro-SCH</span> und die oberste Karte deines Stapels wird <span style=\"color:#FFFFFFFF\">abgeworfen</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -61,8 +67,10 @@
     {
       "id": "severing_primal_fire",
       "name": "Teilendes Urfeuer",
-      "desc": "Verursacht 1 Pkt. ? und fügt allen inaktiven Figuren des Gegners 1 Pkt. <span style=\"color:#FFFFFFFF\">durchdringenden SCH</span> zu. Die oberen drei Karten von den Stapeln beider Seiten werden <span style=\"color:#FFFFFFFF\">abgeworfen</span>. Verleiht selbst 1 Stapelung <span style=\"color:#FFFFFFFF\">Missgunst</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#FF9999FF\">Pyro-Schaden</span> und fügt allen inaktiven Figuren des Gegners 1 Pkt. <span style=\"color:#FFFFFFFF\">durchdringenden SCH</span> zu. Die oberen drei Karten von den Stapeln beider Seiten werden <span style=\"color:#FFFFFFFF\">abgeworfen</span>. Verleiht selbst 1 Stapelung <span style=\"color:#FFFFFFFF\">Missgunst</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -82,7 +90,9 @@
       "id": "resentment",
       "name": "Missgunst",
       "desc": "Passiv – Verleiht sich selbst für alle 6 <span style=\"color:#FFFFFFFF\">abgeworfen</span>en Karten 1 Stapelung <span style=\"color:#FFFFFFFF\">Missgunst</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

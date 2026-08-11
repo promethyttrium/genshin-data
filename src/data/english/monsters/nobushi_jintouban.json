@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Other Human Factions",
   "filename_icon": "UI_MonsterIcon_Samurai_Ronin_01",
   "description": "Samurai who have fallen into banditry. Though they are called the Nobushi, they do not have a centralized organization.\\nHaving pursued the path of a martial artist for a long time, they possess highly advanced sword skills but no longer use them for good.\\nSometimes, they even collude with the Treasure Hoarders or Fatui out of a greed for wealth — or simply to survive.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

@@ -13,7 +13,6 @@
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Magbeast_Steppenwolf",
   "description": "Una bestia che ha subito un'evoluzione unica grazie a una prolungata immersione nel potere della Luna antica.\\nSi narra che quando un'oscura calamità spazzò via innumerevoli vite, le foreste di frontiera caddero in un silenzio completo. In quella quiete, l'unico suono a rompere il silenzio tombale fu l'ululato dei Lupi glaciali che invocavano la luna. Notte dopo notte, i loro lamenti lugubri echeggiavano nella desolata natura selvaggia, alla fredda luce della luna.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

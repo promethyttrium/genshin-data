@@ -1,0 +1,21 @@
+{
+  "_id": 320004,
+  "id": "silver_radiance_of_gradlon_sublimation",
+  "name": "Ánh Bạc Của Gradlon - Thăng Hoa",
+  "description": "Ảo ảnh vũ khí rực rỡ phản chiếu ánh sáng của \"vĩnh hằng\" xuất hiện nơi sâu thẳm trong Địa Mạch, có thể biến đổi tùy theo loại nguyên tố của người cầm. Nghe nói, vào thời xa xưa mà nay đã chẳng còn ai có thể nhớ đến, sứ giả của trời cao đã ban thanh đại kiếm dát vàng này cho vị chủ tế của Ys, cho phép người ấy dẫn dắt hải cảng chưa chìm vào cát vàng.",
+  "rarity": 5,
+  "type": {
+    "id": "Claymore",
+    "name": "Trọng Kiếm"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1004,
+    "name": "Huyễn Hình Rạng Rỡ: Vĩnh Hằng - Thăng Hoa",
+    "priority": 2
+  },
+  "item_id": 341204,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Claymore_MorphGradlon_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_MorphGradlon_Great"
+}

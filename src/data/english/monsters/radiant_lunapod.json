@@ -13,7 +13,6 @@
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Magbeast_Squid",
   "description": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\\nLegend has it that when the waves of calamity rolled over the land, even those animals who dwelled in the Forsaken Sea were not spared. Those who could not accept the moonlight into themselves vanished like foam, whether great sea serpents who could send waves skyward, or single-eyed monsters who once plotted to consume all things.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

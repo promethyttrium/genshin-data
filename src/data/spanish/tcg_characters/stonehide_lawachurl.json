@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Geo",
+    "weapon": "Otras armas",
     "faction": [
-      null,
-      null
+      "Monstruo",
+      "Hilichurl"
     ],
     "talent_card": {
       "_id": 3239,
@@ -28,8 +30,10 @@
     {
       "id": "plama_lawa",
       "name": "Plama Lawa",
-      "desc": "Inflige ? pts. de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -48,8 +52,10 @@
     {
       "id": "movo_lawa",
       "name": "Movo Lawa",
-      "desc": "Inflige ? pts. de ?.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de ?.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -62,8 +68,10 @@
     {
       "id": "upa_shato",
       "name": "Upa Shato",
-      "desc": "Inflige ? pts. de ?.",
-      "skillTag": [],
+      "desc": "Inflige 5 pts. de ?.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -83,7 +91,9 @@
       "id": "infused_stonehide",
       "name": "Encantamiento: geoarmadura",
       "desc": "Pasiva: cuando comienza el combate, este personaje obtiene los efectos de <span style=\"color:#FFFFFFFF\">geoarmadura</span> y <span style=\"color:#FFFFFFFF\">robustez rocosa</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
       "points": []
     }
   ]

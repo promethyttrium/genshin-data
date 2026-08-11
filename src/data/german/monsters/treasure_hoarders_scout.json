@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
   "description": "Ein Mitglied der kriminellen Gruppierung ohne Hauptquartier, die überall auf dem Kontinent ihre Spuren hinterlässt, selbst in unerkundeten Sphären.\\nUm ihre Ziele zu verfolgen, sind sie viel unterwegs. Ihre Armut und mangelnde Bildung treibt sie oft dem Verbrechen in die Arme, doch das Leben in Gesetzlosigkeit macht sie nicht reicher ...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

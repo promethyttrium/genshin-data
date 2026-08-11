@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 3,
+    "element": "Geo",
+    "weapon": "Catalisador",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3232,
@@ -29,8 +31,10 @@
     {
       "id": "sparkling_scatter",
       "name": "Dispersão Espumante",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#FFE699FF\">Dano Geo</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -49,8 +53,10 @@
     {
       "id": "jade_screen",
       "name": "Tela de Jade",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, gera <span style=\"color:#FFFFFFFF\">Tela de Jade</span>.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de <span style=\"color:#FFE699FF\">Dano Geo</span>, gera <span style=\"color:#FFFFFFFF\">Tela de Jade</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -63,8 +69,10 @@
     {
       "id": "starshatter",
       "name": "Quebrador de Estrelas",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, caso <span style=\"color:#FFFFFFFF\">Tela de Jade</span> esteja em campo, aumenta o Dano deste ataque em 2 pontos.",
-      "skillTag": [],
+      "desc": "Causa 8 pontos de <span style=\"color:#FFE699FF\">Dano Geo</span>, caso <span style=\"color:#FFFFFFFF\">Tela de Jade</span> esteja em campo, aumenta o Dano deste ataque em 2 pontos.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1106,

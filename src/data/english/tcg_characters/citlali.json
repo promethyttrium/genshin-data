@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Catalyst",
     "faction": [
-      null
+      "Natlan"
     ],
     "talent_card": {
       "_id": 7823,
@@ -29,8 +31,10 @@
     {
       "id": "shadowstealing_spirit_vessel",
       "name": "Shadow-Stealing Spirit Vessel",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#99FFFFFF\">Cryo DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "dawnfrost_darkstar",
       "name": "Dawnfrost Darkstar",
-      "desc": "Deals ? ?.<br/>Enters <span style=\"color:#FFFFFFFF\">Nightsoul's Blessing</span>, gains 1 <span style=\"color:#FFFFFFFF\">Nightsoul point</span>, and creates 1 point of <span style=\"color:#FFFFFFFF\">Opal Shield</span> and <span style=\"color:#FFFFFFFF\">Itzpapa</span>. (This skill cannot be used after the character enters <span style=\"color:#FFFFFFFF\">Nightsoul's Blessing</span>)",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#99FFFFFF\">Cryo DMG</span>.<br/>Enters <span style=\"color:#FFFFFFFF\">Nightsoul's Blessing</span>, gains 1 <span style=\"color:#FFFFFFFF\">Nightsoul point</span>, and creates 1 point of <span style=\"color:#FFFFFFFF\">Opal Shield</span> and <span style=\"color:#FFFFFFFF\">Itzpapa</span>. (This skill cannot be used after the character enters <span style=\"color:#FFFFFFFF\">Nightsoul's Blessing</span>)",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "edict_of_entwined_splendor",
       "name": "Edict of Entwined Splendor",
-      "desc": "Deals ? ?, deals 1 <span style=\"color:#FFFFFFFF\">Piercing DMG</span> to all opposing characters on standby, and, if possible, gains 2 <span style=\"color:#FFFFFFFF\">Nightsoul points</span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#99FFFFFF\">Cryo DMG</span>, deals 1 <span style=\"color:#FFFFFFFF\">Piercing DMG</span> to all opposing characters on standby, and, if possible, gains 2 <span style=\"color:#FFFFFFFF\">Nightsoul points</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -84,7 +92,9 @@
       "id": "songs_of_profound_mystery",
       "name": "Songs of Profound Mystery",
       "desc": "<span style=\"color:#FFFFFFFF\">After you <span style=\"color:#FFFFFFFF\">Select</span> or deal DMG with an Elemental Reaction:</span> If possible, gain 1 <span style=\"color:#FFFFFFFF\">Nightsoul point</span>. (Once per Round)",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

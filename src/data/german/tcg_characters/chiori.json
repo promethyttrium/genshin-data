@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Geo",
+    "weapon": "Einhänder",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 7064,
@@ -29,8 +31,10 @@
     {
       "id": "weaving_blade",
       "name": "Webende Klinge",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -50,7 +54,9 @@
       "id": "fluttering_hasode",
       "name": "Streichelnde Hasode",
       "desc": "<span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Wählen</span></span> von 1 aus 3 <span style=\"color:#FFFFFFFF\">Chioris Automaton-Puppen</span> zum Beschwören.",
-      "skillTag": [],
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -63,8 +69,10 @@
     {
       "id": "hiyoku_twin_blades",
       "name": "Doppelklinge – Hiyoku",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 5 Pkt. <span style=\"color:#FFE699FF\">Geo-SCH</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1106,

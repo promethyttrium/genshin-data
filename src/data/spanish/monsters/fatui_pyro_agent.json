@@ -23,7 +23,7 @@
     "Fatui - Mikhail",
     "Fatui - Pavlovich",
     "Fatui - Ismailovich",
-    "Fatui - Andrei",
+    "Fatui - Andréi",
     "Fatui - Ivanov",
     "Fatui - Kirilyenko",
     "Fatui - Yevgeni",
@@ -44,7 +44,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Fire_01",
   "description": "Un agente secreto Fatui.\\nLas deudas que cobran los Recaudadores Fatui no se limitan únicamente a las relacionadas con los bienes y el dinero.\\nEl “ojo por ojo, diente por diente” también es una forma de cobrar deudas. Si alguien daña los intereses de los Fatui, los Recaudadores se asegurarán de que lo pague muy caro.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

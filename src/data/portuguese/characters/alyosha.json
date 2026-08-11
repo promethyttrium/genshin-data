@@ -1,0 +1,1253 @@
+{
+  "_id": 10000148,
+  "id": "alyosha",
+  "name": "Alyosha",
+  "title": "Lupino de Passos Ligeiros",
+  "description": "Um \"caçador profissional\" que domina os campos de neve de Snezhnaya. Sob sua aparência calma, parece arder um \"ideal\" intenso e distinto.",
+  "weapon_type": {
+    "id": "polearm",
+    "name": "Lança"
+  },
+  "element": {
+    "id": "electro",
+    "name": "Electro"
+  },
+  "gender": {
+    "id": "male",
+    "name": "Masculino"
+  },
+  "release": 1786395600,
+  "substat": "Recarga de Energia",
+  "affiliation": "Snezhnaya",
+  "region": {
+    "id": "snezhnaya",
+    "name": "Snezhnaya"
+  },
+  "rarity": 4,
+  "birthday": [
+    9,
+    2
+  ],
+  "constellation": "Canis Borzoides",
+  "domain": "Domínio da Proficiência: Eremitério",
+  "cv": {
+    "english": "Kevin Andrew Rivera",
+    "chinese": "王辅平",
+    "japanese": "佐藤元",
+    "korean": "Kim Hye-sung"
+  },
+  "skills": [
+    {
+      "_id": 11481,
+      "id": "skirmishing_spear",
+      "name": "Lança de Caça",
+      "description": "<span style=\"color:#FFD780FF\">Ataque Normal</span><br/>Realiza até 4 golpes rápidos, e o último golpe atingido aplica <b><span style=\"color:#FFD780FF\">Selo da Caçada</span></b> no inimigo.<br/><br/><span style=\"color:#FFD780FF\">Ataque Carregado</span><br/>Consome uma certa quantidade de Stamina para avançar em frente, causando Dano aos inimigos pelo caminho.<br/><br/><span style=\"color:#FFD780FF\">Ataque Imersivo</span><br/>Mergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Dano do 1° Golpe",
+          "values": [
+            "47.8%",
+            "51.7%",
+            "55.6%",
+            "61.2%",
+            "65.1%",
+            "69.5%",
+            "75.6%",
+            "81.7%",
+            "87.8%",
+            "94.5%",
+            "101.2%",
+            "107.9%",
+            "114.5%",
+            "121.2%",
+            "127.9%"
+          ]
+        },
+        {
+          "label": "Dano do 2° Golpe",
+          "values": [
+            "48.2%",
+            "52.1%",
+            "56%",
+            "61.6%",
+            "65.5%",
+            "70%",
+            "76.2%",
+            "82.3%",
+            "88.5%",
+            "95.2%",
+            "101.9%",
+            "108.6%",
+            "115.4%",
+            "122.1%",
+            "128.8%"
+          ]
+        },
+        {
+          "label": "Dano do 3° Golpe",
+          "values": [
+            "34.2% + 31.8%",
+            "37% + 34.4%",
+            "39.8% + 37%",
+            "43.8% + 40.7%",
+            "46.6% + 43.3%",
+            "49.8% + 46.3%",
+            "54.1% + 50.3%",
+            "58.5% + 54.4%",
+            "62.9% + 58.5%",
+            "67.7% + 62.9%",
+            "72.4% + 67.3%",
+            "77.2% + 71.8%",
+            "82% + 76.2%",
+            "86.8% + 80.7%",
+            "91.5% + 85.1%"
+          ]
+        },
+        {
+          "label": "Dano do 4° Golpe",
+          "values": [
+            "75.9%",
+            "82%",
+            "88.2%",
+            "97%",
+            "103.2%",
+            "110.3%",
+            "120%",
+            "129.7%",
+            "139.4%",
+            "149.9%",
+            "160.5%",
+            "171.1%",
+            "181.7%",
+            "192.3%",
+            "202.9%"
+          ]
+        },
+        {
+          "label": "Dano de Ataque Carregado",
+          "values": [
+            "111%",
+            "120.1%",
+            "129.1%",
+            "142%",
+            "151%",
+            "161.4%",
+            "175.6%",
+            "189.8%",
+            "204%",
+            "219.5%",
+            "235%",
+            "250.5%",
+            "265.9%",
+            "281.4%",
+            "296.9%"
+          ]
+        },
+        {
+          "label": "Consumo de Stamina de Ataque Carregado",
+          "values": [
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25"
+          ]
+        },
+        {
+          "label": "Dano Durante a Queda",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "Dano de Queda de Baixa/Alta Altitude",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11482,
+      "id": "thunderbolt_strike",
+      "name": "Emboscada Selvagem",
+      "description": "Seguindo seu instinto de caçador, gera efeitos diferentes se Pressionar ou Manter Pressionado, e ao atingir o inimigo, aplica <b><span style=\"color:#FFD780FF\">Selo da Caçada</span></b>.<br/><br/><span style=\"color:#FFD780FF\">Pressionar</span><br/>Dispara em frente causando <span style=\"color:#FFACFFFF\">Dano Electro em AdE</span>.<br/><br/><span style=\"color:#FFD780FF\">Manter Pressionado</span><br/>Entra no modo de mira, seleciona os alvos dentro de uma área específica à sua frente e aumenta a RES contra Interrupção de Alyosha nesse estado.<br/>Quando terminar de Manter Pressionado, causa <span style=\"color:#FFACFFFF\">Dano Electro</span> contra os inimigos selecionados.",
+      "info": "Uma vez, um caçador imprudente escalou a ponta de uma lança. Ele teve sorte de sobreviver a essa lição de sangue, e foi assim que aprendeu a essência da sobrevivência nas planícies nevadas.",
+      "attributes": [
+        {
+          "label": "Dano de Pressionar",
+          "values": [
+            "286.7%",
+            "308.2%",
+            "329.7%",
+            "358.4%",
+            "379.9%",
+            "401.4%",
+            "430.1%",
+            "458.8%",
+            "487.4%",
+            "516.1%",
+            "544.8%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%"
+          ]
+        },
+        {
+          "label": "Dano ao Manter Pressionado",
+          "values": [
+            "358.4%",
+            "385.3%",
+            "412.2%",
+            "448%",
+            "474.9%",
+            "501.8%",
+            "537.6%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%",
+            "716.8%",
+            "761.6%",
+            "806.4%",
+            "851.2%"
+          ]
+        },
+        {
+          "label": "Recarga",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Duração de Selo da Caçada",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Aumento de ATQ de Mira do Caçador",
+          "values": [
+            "11.7%",
+            "12.7%",
+            "13.8%",
+            "14.8%",
+            "15.9%",
+            "17%",
+            "18%",
+            "19.1%",
+            "20.1%",
+            "21.2%",
+            "22.5%",
+            "23.7%",
+            "25%",
+            "26.3%",
+            "27.6%"
+          ]
+        },
+        {
+          "label": "Duração de Mira do Caçador",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11485,
+      "id": "hunters_advance",
+      "name": "Perseguição Caçadora",
+      "description": "Invoca seu confiável companheiro <span style=\"color:#FFD780FF\">Tugarin</span> e transforma a área em frente em <span style=\"color:#FFD780FF\">Campo de Caça Eletrizante</span>.<br/><br/><span style=\"color:#FFD780FF\">Campo de Caça Eletrizante</span><br/>· Provoca os inimigos constantemente, atraindo seus ataques.<br/>· A cada 2s, causa uma instância de <span style=\"color:#FFACFFFF\">Dano Electro em AdE</span> contra o inimigo que entrar no campo.<br/><br/><span style=\"color:#FFD780FF\">Tugarin</span>.<br/>· Se houver inimigos por perto, Tugarin se moverá rapidamente para perto de um inimigo a cada 2s, mordendo-o e causando <span style=\"color:#FFD780FF\">Dano Electro</span>.<br/>· Se atingir um inimigo que está afetado por <span style=\"color:#FFD780FF\">Selo da Caçada</span>, ativará <span style=\"color:#FFD780FF\">Selo da Caçada</span>.<br/>· Tugarin priorizará atacar inimigos afetados por <span style=\"color:#FFD780FF\">Selo da Caçada</span>.",
+      "info": "Espere. Espere até a impaciência passar. É nesse momento que a Tarambola de Barriga Vermelha mergulhará entre as árvores e passará na frente da flecha.",
+      "attributes": [
+        {
+          "label": "Dano do Campo de Caça Eletrizante",
+          "values": [
+            "75%",
+            "80.6%",
+            "86.2%",
+            "93.7%",
+            "99.3%",
+            "104.9%",
+            "112.4%",
+            "119.9%",
+            "127.4%",
+            "134.9%",
+            "142.4%",
+            "149.9%",
+            "159.3%",
+            "168.7%",
+            "178%"
+          ]
+        },
+        {
+          "label": "Dano de Tugarin",
+          "values": [
+            "50.2%",
+            "54%",
+            "57.8%",
+            "62.8%",
+            "66.5%",
+            "70.3%",
+            "75.3%",
+            "80.4%",
+            "85.4%",
+            "90.4%",
+            "95.4%",
+            "100.4%",
+            "106.7%",
+            "113%",
+            "119.3%"
+          ]
+        },
+        {
+          "label": "Duração",
+          "values": [
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s"
+          ]
+        },
+        {
+          "label": "Tempo de Recarga",
+          "values": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        },
+        {
+          "label": "Energia Elemental",
+          "values": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "awakened_by_the_baying_hounds",
+      "name": "Linha das Árvores Despertadas",
+      "description": "Quando <b><span style=\"color:#FFD780FF\">Tugarin</span></b> atacar, regenera Vida para o personagem ativo próximo em 120% do ATQ de Alyosha.",
+      "level": 1
+    },
+    {
+      "id": "suffer_the_winter_wheat_will",
+      "name": "Adeus ao Inverno e às Folhas Partidas",
+      "description": "Aumenta o Dano da Habilidade Elemental e do Supremo de Alyosha com base na sua Recarga de Energia: cada 1% de Recarga de Energia aumenta o Dano em 0.35%. É possível aumentar até 70% dessa forma.",
+      "level": 4
+    },
+    {
+      "id": "into_the_fray",
+      "name": "Travessia Estelar Perigosa",
+      "description": "Quando está dentro do <b><span style=\"color:#FFD780FF\">Campo da Estrela Polar</span></b>, Alyosha entrará no estado <span style=\"color:#FFD780FF\">Brilho Reluzente: Supercondutor Estelar</span>.<br/><span style=\"color:#FFD780FF\">Brilho Reluzente: Supercondutor Estelar</span>: ao ativar o <b><span style=\"color:#FFD780FF\">Selo da Caçada</span></b>, obter o efeito <span style=\"color:#FFD780FF\">Mira do Caçador</span> aumenta o Dano de Supercondutor Estelar do personagem ativo em 20%.",
+      "level": 0
+    },
+    {
+      "id": "treetop_watch",
+      "name": "Vigia Arbórea",
+      "description": "Mostra a localização de <span style=\"color:#FFD780FF\">Especialidades de Snezhnaya</span> próximas no mapa.",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1481,
+      "id": "frostvale_thunderclap",
+      "name": "Trovão do Vale Gelado",
+      "description": "Quando um personagem da equipe desencadear <span style=\"color:#FFACFFFF\">uma reação Electro</span> no inimigo, regenera 15 de Energia Elemental para Alyosha. Esse efeito pode ser desencadeado uma vez a cada 18s.",
+      "level": 1
+    },
+    {
+      "_id": 1482,
+      "id": "howl_from_afar",
+      "name": "Latido Longínquo",
+      "description": "Aumenta a duração do Supremo <span style=\"color:#FFD780FF\">Perseguição Caçadora</span> em 6s.<br/>Além disso, toda vez antes de <b><span style=\"color:#FFD780FF\">Tugarin</span></b> atacar o inimigo, aplicará <b><span style=\"color:#FFD780FF\">Selo da Caçada</span></b> no alvo. Esse efeito não ativará os <span style=\"color:#FFD780FF\">Selos da Caçada</span> já possuídos.",
+      "level": 2
+    },
+    {
+      "_id": 1483,
+      "id": "friendly_call",
+      "name": "Chamado de Companheiros",
+      "description": "Aumenta o nível da Habilidade Elemental <span style=\"color:#FFD780FF\">Emboscada Selvagem</span> em 3.<br/>O nível máximo de elevação é 15.",
+      "level": 3
+    },
+    {
+      "_id": 1484,
+      "id": "harvest_the_spoils",
+      "name": "Botim da Caçada",
+      "description": "Quando <b><span style=\"color:#FFD780FF\">Tugarin</span></b> atacar, regenera Vida para o personagem próximo com menor proporção de Vida em 60% do ATQ de Alyosha.",
+      "level": 4
+    },
+    {
+      "_id": 1485,
+      "id": "when_the_nightbird_falls_silent",
+      "name": "Cessar do Cantarolar dos Pássaros",
+      "description": "Aumenta o nível do Supremo <span style=\"color:#FFD780FF\">Perseguição Caçadora</span> em 3.<br/>O nível máximo de elevação é 15.",
+      "level": 5
+    },
+    {
+      "_id": 1486,
+      "id": "standard_reclaimed",
+      "name": "Estandarte da Reconquista",
+      "description": "Ao ativar o <b><span style=\"color:#FFD780FF\">Selo da Caçada</span></b>, o efeito <span style=\"color:#FFD780FF\">Mira do Caçador</span> pode ser acumulado até 2 vezes. Ao acumular 2 vezes, aumenta a Proficiência Elemental do personagem em campo em 100.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "-",
+            "1003"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "-",
+            "22"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "-",
+            "59"
+          ]
+        },
+        {
+          "label": "Recarga de Energia",
+          "values": [
+            "-",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "2577",
+            "3326"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "57",
+            "74"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "151",
+            "195"
+          ]
+        },
+        {
+          "label": "Recarga de Energia",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "4982",
+            "5514"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "111",
+            "122"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "293",
+            "324"
+          ]
+        },
+        {
+          "label": "Recarga de Energia",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104141,
+        "id": "vajrada_amethyst_sliver",
+        "name": "Lasca de Ametista Vajrada",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Ervaglomerada",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Núcleo Quimérico",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "6343",
+            "7052"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "141",
+            "157"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "373",
+            "414"
+          ]
+        },
+        {
+          "label": "Recarga de Energia",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "Fragmento de Ametista Vajrada",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Cauda Partida do Viajante dos Céus",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Ervaglomerada",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Núcleo Quimérico",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "7881",
+            "8413"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "175",
+            "187"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "463",
+            "494"
+          ]
+        },
+        {
+          "label": "Recarga de Energia",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "Fragmento de Ametista Vajrada",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Cauda Partida do Viajante dos Céus",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Ervaglomerada",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Núcleo Quimérico Simbiótico",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "9241",
+            "9773"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "205",
+            "217"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "543",
+            "574"
+          ]
+        },
+        {
+          "label": "Recarga de Energia",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "Pedaço de Ametista Vajrada",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Cauda Partida do Viajante dos Céus",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Ervaglomerada",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Núcleo Quimérico Simbiótico",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "10602",
+            "11134"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "235",
+            "247"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "623",
+            "654"
+          ]
+        },
+        {
+          "label": "Recarga de Energia",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "Pedaço de Ametista Vajrada",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Cauda Partida do Viajante dos Céus",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Ervaglomerada",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "Nexo Quimérico Primordial",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "11962",
+            "11962"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "265",
+            "265"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "703",
+            "703"
+          ]
+        },
+        {
+          "label": "Recarga de Energia",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104144,
+        "id": "vajrada_amethyst_gemstone",
+        "name": "Gema de Ametista Vajrada",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Cauda Partida do Viajante dos Céus",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Ervaglomerada",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "Nexo Quimérico Primordial",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104368,
+          "id": "teachings_of_fortitude",
+          "name": "Ensinamentos da Tenacidade",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Núcleo Quimérico",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guia da Tenacidade",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Núcleo Quimérico Simbiótico",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guia da Tenacidade",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Núcleo Quimérico Simbiótico",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guia da Tenacidade",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Núcleo Quimérico Simbiótico",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guia da Tenacidade",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Núcleo Quimérico Simbiótico",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Filosofia da Tenacidade",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nexo Quimérico Primordial",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixir do Herege",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Filosofia da Tenacidade",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nexo Quimérico Primordial",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixir do Herege",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Filosofia da Tenacidade",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nexo Quimérico Primordial",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixir do Herege",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Filosofia da Tenacidade",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nexo Quimérico Primordial",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixir do Herege",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Coroa da Sabedoria",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 214800,
+      "name": "Emboscador Oculto pela Geada",
+      "description": "Vestuário de Alyosha. Roupas resistentes de caça com uma camada interna grossa e uma aba felpuda. Isso permite que Alyosha permaneça escondido na neve por longos períodos de tempo até que ele capture a presa que estava em busca. Quanto ao motivo do capuz ser feito como uma cabeça de cachorro, bem, é porque fica fofinho. Além disso, Tugarin adora.",
+      "isDefault": true,
+      "characterName": "Alyosha",
+      "characterId": 10000148,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Alyosha_Circle"
+    }
+  ]
+}

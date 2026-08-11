@@ -1,0 +1,18 @@
+{
+  "_id": 104371,
+  "id": "teachings_of_glory",
+  "name": "Bài Giảng Của \"Vinh Quang\"",
+  "description": "Nguyên liệu bồi dưỡng Thiên Phú.\\n\"Vinh quang\" là tín ngưỡng của vương quốc băng giá.\\nVinh quang là mồi lửa chôn sâu dưới lòng đất đóng băng. Nếu có thể phác họa ra hình dáng của nó, thì cũng sẽ có được dũng khí đối mặt với giá rét.",
+  "source": [
+    "Đổi Cửa Hàng Túi Quà"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Bí Cảnh Tinh Thông: Quan Sát IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Thứ 4",
+    "Thứ 7",
+    "Chủ Nhật"
+  ]
+}

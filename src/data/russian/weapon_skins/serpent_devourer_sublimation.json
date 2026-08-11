@@ -1,0 +1,21 @@
+{
+  "_id": 310002,
+  "id": "serpent_devourer_sublimation",
+  "name": "Пожиратель змей: Истинное воплощение",
+  "description": "Великолепный иллюзорный клинок, сияющий силой жизни, появившийся из глубин артерий земли. Он может менять свой вид в зависимости от типа элемента владельца. Говорят, что этот меч носил имя «Лёхсеймс», когда принадлежал выдающемуся золотому грешнику в древней стране.",
+  "rarity": 5,
+  "type": {
+    "id": "Sword",
+    "name": "Одноручное оружие"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Сияющая иллюзия: Превосходство (Истинное воплощение)",
+    "priority": 1
+  },
+  "item_id": 341102,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphVinces_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphVinces_Great"
+}

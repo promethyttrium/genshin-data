@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Sailor_01",
   "description": "Một người đã đi khắp nơi trên đại lục, thậm chí len lỏi vào các tổ chức trộm cắp lỏng lẻo ở những vùng đất bí mật chưa được biết đến.\\n<i>\"Hoạt động của chúng ta vì sao lại gọi là ăn trộm? Sao gọi là cướp? Đó gọi là phát hiện, giúp cho các kho báu lại một lần nữa được đưa đến tay của những người biết thưởng thức! Mọi người đều vui, chuyện tốt biết bao!\"</i>\\n——Một \"Thanh Niên Trên Biển\" của Đạo Bảo Đoàn đã nói với người mới như vậy",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

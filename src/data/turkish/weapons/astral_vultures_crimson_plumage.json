@@ -10,7 +10,7 @@
   },
   "domain": "Kadim Gözetleme Kulesi",
   "passive": "Ay Halkası",
-  "bonus": "Bir Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı <span>%24/%30/%36/%42/%48</span> artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı <span>%20/%48/%25/%60/%30/%72/%35/%84/%40/%96</span>, Element Patlaması Hasarı ise <span>%10/%24/%12,5/%30/%15/%36/%17,5/%42/%20/%48</span> artar.",
+  "bonus": "Bir Girdap veya Yıldız Girdabı tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı <span>%24/%30/%36/%42/%48</span> artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı <span>%20/%48/%25/%60/%30/%72/%35/%84/%40/%96</span>, Element Patlaması Hasarı ise <span>%10/%24/%12,5/%30/%15/%36/%17,5/%42/%20/%48</span> artar.",
   "specialProp": "Kritik Hasar",
   "stats": {
     "primary": "Temel Saldırı",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Ay Halkası",
-    "template": "Bir Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı <span style=\"color:#99FFFFFF\">{0}</span> artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı <span style=\"color:#99FFFFFF\">{1}</span>, Element Patlaması Hasarı ise <span style=\"color:#99FFFFFF\">{2}</span> artar.",
+    "template": "Bir Girdap veya Yıldız Girdabı tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı <span style=\"color:#99FFFFFF\">{0}</span> artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı <span style=\"color:#99FFFFFF\">{1}</span>, Element Patlaması Hasarı ise <span style=\"color:#99FFFFFF\">{2}</span> artar.",
     "params": [
       [
         "%24",
@@ -312,23 +311,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "Bir Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı <span>%24</span> artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı <span>%20/%48</span>, Element Patlaması Hasarı ise <span>%10/%24</span> artar."
+      "desc": "Bir Girdap veya Yıldız Girdabı tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı <span>%24</span> artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı <span>%20/%48</span>, Element Patlaması Hasarı ise <span>%10/%24</span> artar."
     },
     {
       "refinement": 2,
-      "desc": "Bir Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı <span>%30</span> artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı <span>%25/%60</span>, Element Patlaması Hasarı ise <span>%12,5/%30</span> artar."
+      "desc": "Bir Girdap veya Yıldız Girdabı tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı <span>%30</span> artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı <span>%25/%60</span>, Element Patlaması Hasarı ise <span>%12,5/%30</span> artar."
     },
     {
       "refinement": 3,
-      "desc": "Bir Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı <span>%36</span> artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı <span>%30/%72</span>, Element Patlaması Hasarı ise <span>%15/%36</span> artar."
+      "desc": "Bir Girdap veya Yıldız Girdabı tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı <span>%36</span> artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı <span>%30/%72</span>, Element Patlaması Hasarı ise <span>%15/%36</span> artar."
     },
     {
       "refinement": 4,
-      "desc": "Bir Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı <span>%42</span> artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı <span>%35/%84</span>, Element Patlaması Hasarı ise <span>%17,5/%42</span> artar."
+      "desc": "Bir Girdap veya Yıldız Girdabı tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı <span>%42</span> artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı <span>%35/%84</span>, Element Patlaması Hasarı ise <span>%17,5/%42</span> artar."
     },
     {
       "refinement": 5,
-      "desc": "Bir Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı <span>%48</span> artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı <span>%40/%96</span>, Element Patlaması Hasarı ise <span>%20/%48</span> artar."
+      "desc": "Bir Girdap veya Yıldız Girdabı tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı <span>%48</span> artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı <span>%40/%96</span>, Element Patlaması Hasarı ise <span>%20/%48</span> artar."
     }
   ]
 }

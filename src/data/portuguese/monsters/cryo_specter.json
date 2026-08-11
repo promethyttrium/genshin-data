@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Vida Elemental",
   "filename_icon": "UI_MonsterIcon_Sylph_Ice_01",
   "description": "Um monstro nascido de elemento Cryo altamente concentrado que pode flutuar no ar.\\nUm certo alquimista uma vez estudou esses seres, especulando que eles poderiam ser uma espécie de Slimes ou o Viajante, pois nenhum dos mencionados acima precisavam de uma Visão para usar os elementos. Ele foi repreendido pelo seu professor.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

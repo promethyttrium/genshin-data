@@ -36,7 +36,7 @@
       "_id": 113067,
       "id": "ensnaring_gaze",
       "name": "Tuzağa Düşüren Bakış",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -171,7 +171,6 @@
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_TheAbyss_Dendrite",
   "description": "Bitkiye benzeyen bir görünüşe sahip, bilinmeyen, derin ve çarpık bir karanlıktan gelen Hiçlik yaratıkları.\\nBu sapkın yaratıklar toprağın derinliklerine sızıp anıları gün yüzüne çıkarır ve onları taklit ederek manipüle edebilir. Geçmişteki anıları büküp çarpık ve kirlenmiş bir hale getirerek Irminsul'un merkezine yaklaşır ve onun varlığını tehdit eder.\\nKimileri bu sapkın yaratıkların ışığın renklerini çürütmek ve geriye sadece zifiri karanlık bilgiler bırakmak için durmaksızın çalıştığını söyler. Boşluğu yırtmak istercesine dışarıya doğru uzanan dalları bu tezi kanıtlar niteliktedir...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "ファデュイ",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Staff_Rock_01",
   "description": "岩元素を駆使してバリアを張り、戦友を守ることができる先遣隊兵士。\\n少数精鋭のデットエージェントや蛍術師と違い、先遣隊の兵士は実力も装備も比較的に弱い。\\n任務で人員と物資の消耗を最小限にするため、先遣隊はチームワークを重視する。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ธาตุหิน",
+    "weapon": "ดาบ",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 7064,
@@ -29,8 +31,10 @@
     {
       "id": "weaving_blade",
       "name": "Weaving Blade",
-      "desc": "สร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "สร้าง? 2 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -50,7 +54,9 @@
       "id": "fluttering_hasode",
       "name": "Fluttering Hasode",
       "desc": "<span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">เลือก</span></span><span style=\"color:#FFFFFFFF\">Chiori's Automaton Dolls</span> 1 ใบ จากใน 3 ใบ เพื่อเรียกออกมา",
-      "skillTag": [],
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -63,8 +69,10 @@
     {
       "id": "hiyoku_twin_blades",
       "name": "Hiyoku: Twin Blades",
-      "desc": "สร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#FFE699FF\">ความเสียหายหิน</span> 5 หน่วย",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1106,

@@ -1,0 +1,90 @@
+{
+  "_id": 1317,
+  "id": "durin",
+  "shareId": 608,
+  "name": "Durin",
+  "title": "\"Sönmeyen Ateş\" Durin",
+  "desc": "Mürekkepten doğup, yıldızların arasında süzülen.",
+  "attributes": {
+    "hp": 10,
+    "card_type": "Karakter Kartı",
+    "energy": 2,
+    "element": "Ateş",
+    "weapon": "Kılıç",
+    "faction": [
+      "Mondstadt"
+    ],
+    "source": "Durin'i Kedi Kuyruğu'nda bir düelloya davet etme ve onunla yaptığın Dostluk Düellosunu kazanma ödülü."
+  },
+  "skills": [
+    {
+      "id": "radiant_wingslash",
+      "name": "Parlak Kanat Darbesi",
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Ateş",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Nötr Element",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "binary_form_convergence_and_division",
+      "name": "İkili Form: Birleşme ve Ayrılma",
+      "desc": "3 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir ve bu karakter <span style=\"color:#FFFFFFFF\">Temel Dönüşüm</span> kazanır.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Ateş",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "principle_of_purity_as_the_light_shifts",
+      "name": "Saflık İlkesi: Değişen Işık Misali",
+      "desc": "1 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir ve <span style=\"color:#FFFFFFFF\">Saflığın Kabulü</span> oluşturur.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Ateş",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Enerji",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "light_manifest_of_the_divine_calculus",
+      "name": "Kutsal Hesabın Işık Tezahürü",
+      "desc": "(Pasif) <span style=\"color:#FFFFFFFF\">Bu karakter bir Normal Saldırı kullandıktan sonra</span> Element Patlaması <span style=\"color:#FFFFFFFF\">Karanlık İlkesi: Korlaşan Yıldız Misali</span> olarak değişir.<br/><span style=\"color:#FFFFFFFF\">Bu karakter bir Element Becerisi kullandıktan sonra</span> Element Patlaması <span style=\"color:#FFFFFFFF\">Saflık İlkesi: Değişen Işık Misali</span> olarak değişir.",
+      "skillTag": [
+        "Pasif Beceri"
+      ],
+      "points": []
+    }
+  ]
+}

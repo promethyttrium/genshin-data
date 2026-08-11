@@ -481,9 +481,31 @@
     "อาร์เรย์โจมตีของ Dilimbabbar",
     "อาร์เรย์ป้องกันของ Dilimbabbar",
     "ผู้เกิดใหม่จากความเสื่อมสลาย",
+    "???",
+    "เหยี่ยวลมกรดเดินดิน",
     "ผู้เกิดใหม่จากความเสื่อมสลาย",
     "ผู้บุกเบิกที่แหงนมองหมู่ดาว",
-    "แสงสุดท้ายแห่งการสรรสร้าง"
+    "แสงสุดท้ายแห่งการสรรสร้าง",
+    "Immortal Construct",
+    "\"Zhara\"",
+    "Vasiliy \"Oedipus\" Izmaylov",
+    "ผู้พิชิตที่หวนคืนจากแดนเยือกแข็ง",
+    "Gusarov",
+    "\"ปฐมมนุษย์\"",
+    "Aksinya",
+    "Pavlina",
+    "ผู้หวนคืนจากการสำรวจ",
+    "ยานตรวจการณ์จอมป่วน",
+    "Nastya",
+    "Furiosa",
+    "Klenova ผู้ก้าวข้าม",
+    "Kovaliskaya ผู้ต่ำช้า",
+    "Tsvetaev",
+    "Bragin",
+    "Churin",
+    "ผู้เคยสาบานตนว่าจะภักดีชั่วนิรันดร์",
+    "Lurking Burrowbeast",
+    "Swift in Thrust"
   ],
   "investigation": {
     "investigationId": 44,
@@ -510,22 +532,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Trimmed Red Silk",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Faded Red Satin",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "กองกำลังของมนุษย์อื่น ๆ",
   "filename_icon": "UI_MonsterIcon_Eremite_MuscleMan_Simitar",
   "description": "สมาชิกกลุ่มทหารรับจ้างที่กระจัดกระจาย ที่มาจากทะเลทรายที่มีสีราวกับทองคำ เพื่อเงินค่าตอบแทน พวกเขาสามารถทำงานเพื่อใครก็ได้ทั้งนั้น\\nเป็นนักรบทะเลทรายที่เชี่ยวชาญในการใช้ดาบโค้งใหญ่ วิชาดาบที่สืบทอดมาจากอารยธรรมที่สาบสูญไม่ได้เป็นเพียงทักษะการต่อสู้เท่านั้น แต่การร่ายรำดาบที่พัฒนาจากทักษะดังกล่าวได้กลายเป็นการแสดงกายกรรมที่ได้รับความนิยมในหลายประเทศ\\nว่ากันว่าดาบโค้งใหญ่ชนิดนี้ใช้ในตอนที่ต่อสู้ขณะขี่ม้าในสมัยโบราณ",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

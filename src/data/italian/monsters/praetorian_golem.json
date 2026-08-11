@@ -25,19 +25,19 @@
       "_id": 112100,
       "id": "stillsmoldering_hilt",
       "name": "Elsa incandescente",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112099,
       "id": "splintered_hilt",
       "name": "Elsa spezzata",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112098,
       "id": "ruined_hilt",
       "name": "Elsa rovinata",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Golem_Legion",
   "description": "Una statua semovente dalla forma di guerriero, che attacca con la sua spada chiunque osi introdursi indebitamente nella sua area di sorveglianza. Non è ben chiaro se sia animata da uno spirito di qualche tipo o da un potere magico esterno.\\nSi dice che le legioni di Golem abbiano conquistato le nazioni che vedevano il Mare Alto come la propria casa, e questo poderoso esemplare potrebbe appartenere a una di quelle armate. Le grandi torri e i maestosi palazzi che ora giacciono tra le onde hanno conosciuto la sorte di chi tenta di deviare il percorso della ruota del destino.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

@@ -25,19 +25,19 @@
       "_id": 112019,
       "id": "deathly_statuette",
       "name": "幽邃なる彫刻",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112018,
       "id": "dark_statuette",
       "name": "黒夜の彫刻",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112017,
       "id": "gloomy_statuette",
       "name": "暗晦の彫刻",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "アビス",
   "filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Warbanner_Fire",
   "description": "漆黒の兵士。かつては地下古国の誇り高き軍人だったが、今はすべての知覚や記憶を失っている。\\nしかしそれでも、王家の旗を高く掲げて戦い続ける。たとえ同志の姿や王家の祝福を忘れたとしても、この旗だけは、この者にとって絶対に降ろしてはならないものなのだ。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

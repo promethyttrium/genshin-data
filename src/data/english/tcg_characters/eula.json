@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Claymore",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3601,
@@ -29,8 +31,10 @@
     {
       "id": "favonius_bladework_edel",
       "name": "Favonius Bladework - Edel",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "icetide_vortex",
       "name": "Icetide Vortex",
-      "desc": "Deals ? ?. If this character has not yet gained <span style=\"color:#FFFFFFFF\">Grimheart</span>, they will gain <span style=\"color:#FFFFFFFF\">Grimheart</span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#99FFFFFF\">Cryo DMG</span>. If this character has not yet gained <span style=\"color:#FFFFFFFF\">Grimheart</span>, they will gain <span style=\"color:#FFFFFFFF\">Grimheart</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "glacial_illumination",
       "name": "Glacial Illumination",
-      "desc": "Deals ? ?, summons 1 <span style=\"color:#FFFFFFFF\">Lightfall Sword</span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#99FFFFFF\">Cryo DMG</span>, summons 1 <span style=\"color:#FFFFFFFF\">Lightfall Sword</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1101,

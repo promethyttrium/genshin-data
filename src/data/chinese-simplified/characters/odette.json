@@ -1,0 +1,1393 @@
+{
+  "_id": 10000150,
+  "id": "odette",
+  "name": "奥黛塔",
+  "title": "翾风回雪",
+  "description": "至冬知名芭蕾舞者，于冰雪中绽放的凛冽之花。",
+  "weapon_type": {
+    "id": "sword",
+    "name": "单手剑"
+  },
+  "element": {
+    "id": "cryo",
+    "name": "冰"
+  },
+  "gender": {
+    "id": "female",
+    "name": "女"
+  },
+  "release": 1786395600,
+  "substat": "暴击伤害",
+  "affiliation": "科洛列夫茨基剧团",
+  "region": {
+    "id": "snezhnaya_star",
+    "name": "SNEZHNAYA_STAR"
+  },
+  "rarity": 5,
+  "birthday": [
+    20,
+    2
+  ],
+  "constellation": "雪鹄座",
+  "domain": "精通秘境：默想",
+  "cv": {
+    "english": "亚历克西·蒂普顿",
+    "chinese": "潘丹妮",
+    "japanese": "上坂堇",
+    "korean": "崔现智"
+  },
+  "skills": [
+    {
+      "_id": 11501,
+      "id": "snow_swan_variation",
+      "name": "雪鹄变奏",
+      "description": "<span style=\"color:#FFD780FF\">普通攻击</span><br/>进行至多五段的连续剑击。<br/><br/><span style=\"color:#FFD780FF\">重击</span><br/>消耗一定体力，向前方挥出闪耀夺目的斩击。<br/><br/><span style=\"color:#FFD780FF\">下落攻击</span><br/>从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "info": "",
+      "attributes": [
+        {
+          "label": "一段伤害",
+          "values": [
+            "51.9%",
+            "56.1%",
+            "60.3%",
+            "66.3%",
+            "70.5%",
+            "75.4%",
+            "82%",
+            "88.6%",
+            "95.3%",
+            "102.5%",
+            "109.7%",
+            "117%",
+            "124.2%",
+            "131.5%",
+            "138.7%"
+          ]
+        },
+        {
+          "label": "二段伤害",
+          "values": [
+            "51.5%",
+            "55.7%",
+            "59.9%",
+            "65.9%",
+            "70.1%",
+            "74.9%",
+            "81.5%",
+            "88%",
+            "94.6%",
+            "101.8%",
+            "109%",
+            "116.2%",
+            "123.4%",
+            "130.6%",
+            "137.8%"
+          ]
+        },
+        {
+          "label": "三段伤害",
+          "values": [
+            "32.6% + 38.3%",
+            "35.3% + 41.4%",
+            "37.9% + 44.5%",
+            "41.7% + 49%",
+            "44.4% + 52.1%",
+            "47.4% + 55.6%",
+            "51.6% + 60.5%",
+            "55.7% + 65.4%",
+            "59.9% + 70.3%",
+            "64.5% + 75.7%",
+            "69% + 81%",
+            "73.6% + 86.3%",
+            "78.1% + 91.7%",
+            "82.7% + 97%",
+            "87.2% + 102.4%"
+          ]
+        },
+        {
+          "label": "四段伤害",
+          "values": [
+            "74.6%",
+            "80.6%",
+            "86.7%",
+            "95.4%",
+            "101.5%",
+            "108.4%",
+            "117.9%",
+            "127.5%",
+            "137%",
+            "147.4%",
+            "157.8%",
+            "168.2%",
+            "178.6%",
+            "189%",
+            "199.4%"
+          ]
+        },
+        {
+          "label": "五段伤害",
+          "values": [
+            "90.2%",
+            "97.6%",
+            "104.9%",
+            "115.4%",
+            "122.7%",
+            "131.1%",
+            "142.7%",
+            "154.2%",
+            "165.7%",
+            "178.3%",
+            "190.9%",
+            "203.5%",
+            "216.1%",
+            "228.7%",
+            "241.3%"
+          ]
+        },
+        {
+          "label": "重击伤害",
+          "values": [
+            "107.4%",
+            "116.2%",
+            "124.9%",
+            "137.4%",
+            "146.1%",
+            "156.1%",
+            "169.9%",
+            "183.6%",
+            "197.3%",
+            "212.3%",
+            "227.3%",
+            "242.3%",
+            "257.3%",
+            "272.3%",
+            "287.3%"
+          ]
+        },
+        {
+          "label": "重击体力消耗",
+          "values": [
+            "20点",
+            "20点",
+            "20点",
+            "20点",
+            "20点",
+            "20点",
+            "20点",
+            "20点",
+            "20点",
+            "20点",
+            "20点",
+            "20点",
+            "20点",
+            "20点",
+            "20点"
+          ]
+        },
+        {
+          "label": "下坠期间伤害",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "低空/高空坠地冲击伤害",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11502,
+      "id": "adagio_phantom_night_dancers",
+      "name": "柔板·幻灵夜舞",
+      "description": "呈现柔缓的舞步，造成<span style=\"color:#99FFFFFF\">冰元素范围伤害</span>，并召唤出自身的<b><span style=\"color:#FFD780FF\">独舞倒影</span></b>。<br/>若场上存在奥黛塔自己召唤的<span style=\"color:#FFD780FF\">独舞倒影</span>，则会重新召唤，并重置其持续时间。<br/><br/><span style=\"color:#FFD780FF\">独舞倒影</span><br/>交替呈现<span style=\"color:#FFD780FF\">拂羽</span>与<span style=\"color:#FFD780FF\">旋翼</span>两种舞步，以优雅轻盈的舞姿间歇性攻击附近的敌人，造成<span style=\"color:#99FFFFFF\">冰元素范围伤害</span>。<br/>此外，施放元素战技<span style=\"color:#FFD780FF\">柔板·幻灵夜舞</span>后的6秒内，奥黛塔的元素战技<span style=\"color:#FFD780FF\">柔板·幻灵夜舞</span>将会被替换为特殊的元素战技<b><span style=\"color:#FFD780FF\">柔板·破晓终奏</span></b><b></b>，以共舞对附近的敌人持续造成<span style=\"color:#99FFFFFF\">冰元素范围伤害</span>，并在共舞结束时，造成一次视为星超导或星扩散反应伤害的<span style=\"color:#99FFFFFF\">冰元素范围伤害</span>。",
+      "info": "",
+      "attributes": [
+        {
+          "label": "技能伤害",
+          "values": [
+            "108.1%",
+            "116.2%",
+            "124.3%",
+            "135.1%",
+            "143.2%",
+            "151.3%",
+            "162.1%",
+            "172.9%",
+            "183.7%",
+            "194.5%",
+            "205.4%",
+            "216.2%",
+            "229.7%",
+            "243.2%",
+            "256.7%"
+          ]
+        },
+        {
+          "label": "破晓终奏持续伤害",
+          "values": [
+            "95.8%",
+            "103%",
+            "110.2%",
+            "119.8%",
+            "127%",
+            "134.2%",
+            "143.8%",
+            "153.3%",
+            "162.9%",
+            "172.5%",
+            "182.1%",
+            "191.7%",
+            "203.7%",
+            "215.6%",
+            "227.6%"
+          ]
+        },
+        {
+          "label": "破晓终奏星超导/星扩散伤害",
+          "values": [
+            "305.8% / 458.6%",
+            "328.7% / 493%",
+            "351.6% / 527.4%",
+            "382.2% / 573.3%",
+            "405.1% / 607.7%",
+            "428.1% / 642.1%",
+            "458.6% / 688%",
+            "489.2% / 733.8%",
+            "519.8% / 779.7%",
+            "550.4% / 825.6%",
+            "580.9% / 871.4%",
+            "611.5% / 917.3%",
+            "649.7% / 974.6%",
+            "688% / 1031.9%",
+            "726.2% / 1089.3%"
+          ]
+        },
+        {
+          "label": "拂羽舞步伤害",
+          "values": [
+            "43%",
+            "46.3%",
+            "49.5%",
+            "53.8%",
+            "57%",
+            "60.3%",
+            "64.6%",
+            "68.9%",
+            "73.2%",
+            "77.5%",
+            "81.8%",
+            "86.1%",
+            "91.5%",
+            "96.8%",
+            "102.2%"
+          ]
+        },
+        {
+          "label": "拂羽舞步星超导/星扩散伤害",
+          "values": [
+            "27% / 40.5%",
+            "29.1% / 43.6%",
+            "31.1% / 46.6%",
+            "33.8% / 50.7%",
+            "35.8% / 53.7%",
+            "37.8% / 56.7%",
+            "40.5% / 60.8%",
+            "43.2% / 64.8%",
+            "45.9% / 68.9%",
+            "48.6% / 73%",
+            "51.3% / 77%",
+            "54% / 81.1%",
+            "57.4% / 86.1%",
+            "60.8% / 91.2%",
+            "64.2% / 96.3%"
+          ]
+        },
+        {
+          "label": "旋翼舞步伤害",
+          "values": [
+            "51.5%",
+            "55.3%",
+            "59.2%",
+            "64.3%",
+            "68.2%",
+            "72%",
+            "77.2%",
+            "82.3%",
+            "87.5%",
+            "92.6%",
+            "97.8%",
+            "102.9%",
+            "109.4%",
+            "115.8%",
+            "122.2%"
+          ]
+        },
+        {
+          "label": "旋翼舞步星超导/星扩散伤害",
+          "values": [
+            "32.3% / 48.5%",
+            "34.7% / 52.1%",
+            "37.2% / 55.7%",
+            "40.4% / 60.6%",
+            "42.8% / 64.2%",
+            "45.2% / 67.8%",
+            "48.5% / 72.7%",
+            "51.7% / 77.5%",
+            "54.9% / 82.4%",
+            "58.2% / 87.2%",
+            "61.4% / 92.1%",
+            "64.6% / 96.9%",
+            "68.7% / 103%",
+            "72.7% / 109%",
+            "76.7% / 115.1%"
+          ]
+        },
+        {
+          "label": "破晓终奏冷却时间",
+          "values": [
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒"
+          ]
+        },
+        {
+          "label": "独舞倒影持续时间",
+          "values": [
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒"
+          ]
+        },
+        {
+          "label": "技能冷却时间",
+          "values": [
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11505,
+      "id": "presto_bluebird_finale",
+      "name": "疾板·苍羽一梦",
+      "description": "呈现迅疾的舞步，造成多次<span style=\"color:#99FFFFFF\">冰元素范围伤害</span>，召唤出自身的<b><span style=\"color:#FFD780FF\">独舞倒影</span></b>，并获得<span style=\"color:#FFD780FF\">雪鹄之梦</span>：提升奥黛塔造成的星烁反应伤害。<br/>此外，施放元素爆发<span style=\"color:#FFD780FF\">疾板·苍羽一梦</span>后的6秒内，奥黛塔的元素战技<span style=\"color:#FFD780FF\">柔板·幻灵夜舞</span>将会被替换为特殊的元素战技<b><span style=\"color:#FFD780FF\">柔板·破晓终奏</span></b><b></b>。<br/><br/>若场上存在奥黛塔自己召唤的独舞倒影，则将其召唤至身边，并重置其持续时间。",
+      "info": "",
+      "attributes": [
+        {
+          "label": "斩击伤害",
+          "values": [
+            "110.2%*3",
+            "118.4%*3",
+            "126.7%*3",
+            "137.7%*3",
+            "146%*3",
+            "154.2%*3",
+            "165.3%*3",
+            "176.3%*3",
+            "187.3%*3",
+            "198.3%*3",
+            "209.3%*3",
+            "220.4%*3",
+            "234.1%*3",
+            "247.9%*3",
+            "261.7%*3"
+          ]
+        },
+        {
+          "label": "斩击最终段伤害",
+          "values": [
+            "170.3%",
+            "183%",
+            "195.8%",
+            "212.8%",
+            "225.6%",
+            "238.4%",
+            "255.4%",
+            "272.4%",
+            "289.5%",
+            "306.5%",
+            "323.5%",
+            "340.5%",
+            "361.8%",
+            "383.1%",
+            "404.4%"
+          ]
+        },
+        {
+          "label": "雪鹄之梦星烁反应伤害提升",
+          "values": [
+            "14%",
+            "18%",
+            "22%",
+            "26%",
+            "30%",
+            "34%",
+            "38%",
+            "42%",
+            "46%",
+            "50%",
+            "54%",
+            "58%",
+            "62%",
+            "66%",
+            "70%"
+          ]
+        },
+        {
+          "label": "雪鹄之梦持续时间",
+          "values": [
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒"
+          ]
+        },
+        {
+          "label": "独舞倒影持续时间",
+          "values": [
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒"
+          ]
+        },
+        {
+          "label": "冷却时间",
+          "values": [
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒"
+          ]
+        },
+        {
+          "label": "元素能量",
+          "values": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "spring_rite_of_the_chosen_one",
+      "name": "获选者的春祭",
+      "description": "奥黛塔召唤<b><span style=\"color:#FFD780FF\">独舞倒影</span></b>时，还会获得4层<b><span style=\"color:#FFD780FF\">华彩</span></b>。",
+      "level": 1
+    },
+    {
+      "id": "pathetique_of_pateticheskaya",
+      "name": "赤忱者的悲歌",
+      "description": "基于奥黛塔攻击力超过1000点的部分，每100点攻击力都将使奥黛塔造成的星烁反应伤害额外造成原本1.5%的伤害，至多通过这种方式额外造成原本30%的伤害。",
+      "level": 4
+    },
+    {
+      "id": "stellar_jubilee_dance_of_aurore",
+      "name": "星耀祝礼·银晓之舞",
+      "description": "处于<b><span style=\"color:#FFD780FF\">极星辉域</span></b>中时/队伍中的角色在附近触发星扩散反应后的8秒内，奥黛塔将分别进入<span style=\"color:#FFD780FF\">辉映·星超导</span>/<span style=\"color:#FFD780FF\">辉映·星扩散</span>状态。<br/>队伍中的角色触发超导/冰元素扩散反应时，将转为触发星超导/星扩散反应，且基于奥黛塔的攻击力，提升队伍中角色造成的上述反应的基础伤害：每100点攻击力都将提升0.7%上述反应的基础伤害，至多通过这种方式提升14%伤害。",
+      "level": 0
+    },
+    {
+      "id": "echo_of_winter_daydreams",
+      "name": "回响中的冬梦",
+      "description": "在小地图上显示周围的<span style=\"color:#FFD780FF\">至冬区域特产</span>的位置。<br/>在闲暇时练习舞蹈，或许还会触发其他的效果…",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1501,
+      "id": "on_this_danceless_morn_she_gazes_at_her_reflection",
+      "name": "「不曾起舞的清晨，她望向倒影」",
+      "description": "施放特殊元素战技<b><span style=\"color:#FFD780FF\">柔板·破晓终奏</span></b>后，在共舞结束时，奥黛塔将对附近的敌人造成一次额外的<span style=\"color:#99FFFFFF\">冰元素范围伤害</span>，该伤害视为：<br/>·<span style=\"color:#FFD780FF\">辉映·星超导</span>或不处于辉映状态：相当于奥黛塔攻击力300%的星超导反应伤害；<br/>·<span style=\"color:#FFD780FF\">辉映·星扩散</span>：相当于奥黛塔攻击力450%的星扩散反应伤害。<br/><br/>此外，突破天赋「获选者的春祭」获得强化：召唤<b><span style=\"color:#FFD780FF\">独舞倒影</span></b>时，奥黛塔将额外获得2层<b><span style=\"color:#FFD780FF\">华彩</span></b>，且奥黛塔处于队伍后台时，清除<span style=\"color:#FFD780FF\">华彩</span>的速度提升至每秒2层。",
+      "level": 1
+    },
+    {
+      "_id": 1502,
+      "id": "i_must_see_the_snow_swans_unseen_dream_for_myself_she_thought",
+      "name": "「她想，我要见证雪鹄未见之梦」",
+      "description": "突破天赋「获选者的春祭」获得强化：每层<b><span style=\"color:#FFD780FF\">华彩</span></b>还会使角色的攻击力提升7%。<br/>此外，<b><span style=\"color:#FFD780FF\">独舞倒影</span></b>在场时，若奥黛塔处于<b><span style=\"color:#FFD780FF\">辉映·星烁</span></b>状态，<span style=\"color:#FFD780FF\">独舞倒影</span>附近敌人的对应元素抗性还会降低20%：<br/>·<span style=\"color:#FFD780FF\">辉映·星超导</span>：<span style=\"color:#99FFFFFF\">冰元素</span>、<span style=\"color:#FFACFFFF\">雷元素</span>；<br/>·<span style=\"color:#FFD780FF\">辉映·星扩散</span>：<span style=\"color:#99FFFFFF\">冰元素</span>、<span style=\"color:#80FFD7FF\">风元素</span>。",
+      "level": 2
+    },
+    {
+      "_id": 1503,
+      "id": "ill_chase_the_shouting_wind_along_climbing_alone_as_i_go",
+      "name": "「我要追逐呼啸的风，向上独行」",
+      "description": "元素战技<color=#FFD780FF><b>柔板·幻灵夜舞</b></color>的技能等级提高3级。<br/>至多提升至15级。",
+      "level": 3
+    },
+    {
+      "_id": 1504,
+      "id": "up_up_the_long_delirious_burning_blue",
+      "name": "「向上，坠往恍惚、燃烧的蓝空」",
+      "description": "元素爆发<span style=\"color:#FFD780FF\">疾板·苍羽一梦</span>获得强化：奥黛塔获得<span style=\"color:#FFD780FF\">雪鹄之梦</span>时，还会使队伍中附近的其他角色造成的星烁反应伤害提升，提升值相当于<span style=\"color:#FFD780FF\">雪鹄之梦</span>效果的50%。<br/><br/>此外，队伍中的角色对敌人造成星烁反应伤害时，奥黛塔还会对敌人进行一次协同攻击，造成一次<span style=\"color:#99FFFFFF\">冰元素范围伤害</span>，每3.5秒至多触发一次，该伤害视为：<br/>·<span style=\"color:#FFD780FF\">辉映·星超导</span>或不处于辉映状态：相当于奥黛塔攻击力66%的星超导反应伤害；<br/>·<span style=\"color:#FFD780FF\">辉映·星扩散</span>：相当于奥黛塔攻击力99%的星扩散反应伤害。",
+      "level": 4
+    },
+    {
+      "_id": 1505,
+      "id": "oh_i_have_slipped_the_surly_bonds_of_earth",
+      "name": "「看呀，我已告别尘与土的苦痛」",
+      "description": "元素爆发<color=#FFD780FF><b>疾板·苍羽一梦</b></color>的技能等级提高3级。<br/>至多提升至15级。",
+      "level": 5
+    },
+    {
+      "_id": 1506,
+      "id": "put_out_my_hand_and_touched_the_face_of_the_divine",
+      "name": "「伸出手，触及苍穹永恒的面容」",
+      "description": "突破天赋「获选者的春祭」获得强化：奥黛塔赋予队伍中附近的所有角色<b><span style=\"color:#FFD780FF\">华彩</span></b>时，自己的华彩不再会减少。<br/>此外，处于<span style=\"color:#FFD780FF\">华彩</span>影响下的角色，对敌人造成的星烁反应伤害<b><span style=\"color:#FFD780FF\">擢升</span></b>25%，且奥黛塔对敌人造成的星烁反应伤害额外擢升20%。",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "基础生命值",
+          "values": [
+            "-",
+            "1011"
+          ]
+        },
+        {
+          "label": "基础攻击力",
+          "values": [
+            "-",
+            "26"
+          ]
+        },
+        {
+          "label": "基础防御力",
+          "values": [
+            "-",
+            "61"
+          ]
+        },
+        {
+          "label": "暴击伤害",
+          "values": [
+            "-",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "基础生命值",
+          "values": [
+            "2621",
+            "3488"
+          ]
+        },
+        {
+          "label": "基础攻击力",
+          "values": [
+            "68",
+            "90"
+          ]
+        },
+        {
+          "label": "基础防御力",
+          "values": [
+            "159",
+            "211"
+          ]
+        },
+        {
+          "label": "暴击伤害",
+          "values": [
+            "50.0%",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "基础生命值",
+          "values": [
+            "5219",
+            "5834"
+          ]
+        },
+        {
+          "label": "基础攻击力",
+          "values": [
+            "135",
+            "151"
+          ]
+        },
+        {
+          "label": "基础防御力",
+          "values": [
+            "316",
+            "354"
+          ]
+        },
+        {
+          "label": "暴击伤害",
+          "values": [
+            "50.0%",
+            "59.6%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104161,
+        "id": "shivada_jade_sliver",
+        "name": "哀叙冰玉碎屑",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "霜仙花",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "幻造萤屑",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "基础生命值",
+          "values": [
+            "6712",
+            "7533"
+          ]
+        },
+        {
+          "label": "基础攻击力",
+          "values": [
+            "173",
+            "194"
+          ]
+        },
+        {
+          "label": "基础防御力",
+          "values": [
+            "407",
+            "457"
+          ]
+        },
+        {
+          "label": "暴击伤害",
+          "values": [
+            "59.6%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "哀叙冰玉断片",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "焰中不灭花枝",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "霜仙花",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "幻造萤屑",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "基础生命值",
+          "values": [
+            "8421",
+            "9036"
+          ]
+        },
+        {
+          "label": "基础攻击力",
+          "values": [
+            "217",
+            "233"
+          ]
+        },
+        {
+          "label": "基础防御力",
+          "values": [
+            "511",
+            "548"
+          ]
+        },
+        {
+          "label": "暴击伤害",
+          "values": [
+            "69.2%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "哀叙冰玉断片",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "焰中不灭花枝",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "霜仙花",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "幻造裂晶",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "基础生命值",
+          "values": [
+            "9932",
+            "10547"
+          ]
+        },
+        {
+          "label": "基础攻击力",
+          "values": [
+            "256",
+            "272"
+          ]
+        },
+        {
+          "label": "基础防御力",
+          "values": [
+            "602",
+            "639"
+          ]
+        },
+        {
+          "label": "暴击伤害",
+          "values": [
+            "69.2%",
+            "78.8%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "哀叙冰玉块",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "焰中不灭花枝",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "霜仙花",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "幻造裂晶",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "基础生命值",
+          "values": [
+            "11453",
+            "12068"
+          ]
+        },
+        {
+          "label": "基础攻击力",
+          "values": [
+            "295",
+            "311"
+          ]
+        },
+        {
+          "label": "基础防御力",
+          "values": [
+            "694",
+            "732"
+          ]
+        },
+        {
+          "label": "暴击伤害",
+          "values": [
+            "78.8%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "哀叙冰玉块",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "焰中不灭花枝",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "霜仙花",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "幻造晶鳞石",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "基础生命值",
+          "values": [
+            "12981",
+            "12981"
+          ]
+        },
+        {
+          "label": "基础攻击力",
+          "values": [
+            "335",
+            "335"
+          ]
+        },
+        {
+          "label": "基础防御力",
+          "values": [
+            "787",
+            "787"
+          ]
+        },
+        {
+          "label": "暴击伤害",
+          "values": [
+            "88.4%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104164,
+        "id": "shivada_jade_gemstone",
+        "name": "哀叙冰玉",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "焰中不灭花枝",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "霜仙花",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "幻造晶鳞石",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104365,
+          "id": "teachings_of_charity",
+          "name": "「慈爱」的教导",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "幻造萤屑",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "「慈爱」的指引",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "幻造裂晶",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "「慈爱」的指引",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "幻造裂晶",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "「慈爱」的指引",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "幻造裂晶",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "「慈爱」的指引",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "幻造裂晶",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "「慈爱」的哲学",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "幻造晶鳞石",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "扭曲的枯枝",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "「慈爱」的哲学",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "幻造晶鳞石",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "扭曲的枯枝",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "「慈爱」的哲学",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "幻造晶鳞石",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "扭曲的枯枝",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "「慈爱」的哲学",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "幻造晶鳞石",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "扭曲的枯枝",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "智识之冕",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 215000,
+      "name": "雪鹄之舞",
+      "description": "奥黛塔的装扮款式。制作精良的芭蕾服装，以雪鹄为灵感来源，伴着勤恳的芭蕾舞者度过无数长夜。其上珠宝总在舞台灯光下折射出静雅的辉光，一如剔透的舞者本人。",
+      "isDefault": true,
+      "characterName": "奥黛塔",
+      "characterId": 10000150,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Odette_Circle"
+    }
+  ]
+}

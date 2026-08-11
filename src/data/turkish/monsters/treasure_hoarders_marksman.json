@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Hunter_01",
   "description": "Kıtanın her yanına, kimsenin bilmediği zindanların derinliklerine bile ayak basmış bağımsız suç örgütünün bir üyesi.\\nİsimleri \"nişancı\" olsa da bu adın altında gizli bir alay vardır. Bunun sebebi de uzun eğitimler gerektiren yaylar yerine arbalet kullanmalarıdır. Dağ yabanileri bile arbalet kullanmayı bilir. Geniş ucu düşmana doğrult, tetiği çek ve bum! Yapılması gereken tek şey budur.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

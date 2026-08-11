@@ -25,19 +25,19 @@
       "_id": 112100,
       "id": "stillsmoldering_hilt",
       "name": "光揺らぐ剣の柄",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112099,
       "id": "splintered_hilt",
       "name": "折れた剣の柄",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112098,
       "id": "ruined_hilt",
       "name": "砕けた剣の柄",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_Golem_Legion",
   "description": "戦士の姿をした動く彫像。如何なる者であろうと、この彫像の守る地に大胆にも踏み入ろうとすれば、その刃を向けられる。だが、それを動かしているのは魂なのか、はたまた魔法なのかは未だ不明である。\\n伝説によると、魔像で構成された軍団はかつて高海の上の諸国を征服したという。この魔像もその一員かもしれない。海底に沈んだ高塔と宮殿は、運命の輪に歯向かう者の結末を見届けた。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

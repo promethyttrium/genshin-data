@@ -18,6 +18,11 @@
       "name": "Pollo asado con lakkas"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borsch"
+    },
+    {
       "_id": 3601,
       "id": "lakkaberry_krumkakes",
       "name": "Krumkakes con lakka"
@@ -41,10 +46,24 @@
       "_id": 3609,
       "id": "veggie_pot_soup",
       "name": "Sopa de verduras en caldero"
+    },
+    {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Okroshka de las nieves"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
     }
   ],
   "source": [
     "Procesar comida"
-  ],
-  "rarity": 0
+  ]
 }

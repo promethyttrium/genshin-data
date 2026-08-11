@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "浮游幽核",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "浮游乾核",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Sylph_Rock_01",
   "description": "高濃度的岩元素孕育而生的魔物，能夠飄浮在空中。\\n岩飄浮靈在翅葉閉合時會擬態成某種植物果實的樣子。因此在一些古老的傳說中，它們被當作天上巨木結出的果實，被認為有著神奇的藥用價值。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

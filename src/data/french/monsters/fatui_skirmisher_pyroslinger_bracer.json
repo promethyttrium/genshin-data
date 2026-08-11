@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01",
   "description": "Un soldat Fatui qui utilise un fusil à flammes.\\nLes armes des Tirailleurs peuvent contrôler les éléments dans une certaine mesure, et leurs tactiques de combat reposent sur les réactions élémentaires.\\nLeurs munitions et connaissances de combat ne sont donc pas à prendre à la légère.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

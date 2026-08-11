@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Fungus_Un_Delta_Grass",
   "description": "Makhluk spora yang punya sedikit kecerdasan. Memiliki kemampuan yang sangat kuat untuk beradaptasi dengan lingkungannya.\\nDulu ada pelajar yang menulis bahwa mereka adalah sejenis Dendro Specter. Setelah disangkal, dia mengatakan bahwa pernyataannya hanyalah sebuah \"retorika\" puitis saja.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

@@ -13,8 +13,6 @@
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Wayob_Bisonsaurus",
   "description": "Les membres du Collectif de l'abondance vénèrent la Wayob, qui se manifeste sur la terre grâce au pouvoir des totems et des noctâmes.\\nLa légende de la tribu raconte que la Wayob a pris d'innombrables formes différentes. Dans l'obscurité qui précède l'aube, quand les visages sont cachés dans l'ombre, elle affrontait les guerriers les plus puissants de la tribu lors de matchs de lutte, sans que personne l'emporte. Les membres du Collectif de l'abondance pensent que leur Wayob possède le pouvoir de contrôler le tonnerre et la vitesse, ainsi que d'accorder d'abondantes récoltes aux terres.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

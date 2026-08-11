@@ -1,0 +1,24 @@
+{
+  "_id": 112154,
+  "id": "accreted_growth",
+  "name": "Amplificação de Acreção",
+  "description": "Uma acreção que foi fundida totalmente com um órgão ou osso. Pode-se dizer que é um osso ou órgão novo nos nódulos da circulação de poder do Volkodlak. Somente Volkodlaks vivos há muito tempo, aprimorando sua força, conseguem formar tais amplificações em seus próprios corpos.",
+  "source": [
+    "Dropado por Volkodlak Bruto Nv.60+",
+    "Resgate de Poeira Estrelar: Sintetize após o resgate",
+    "Quantidade a ser fabricada: {0}"
+  ],
+  "rarity": 4,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 112153,
+        "id": "accreted_mass",
+        "name": "Massa de Acreção",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

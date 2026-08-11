@@ -10,12 +10,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Fungus_Amanita_Unu_Svarita_Ice",
   "description": "Üstün uyum sağlama yeteneği bulunan, sporlardan oluşan taklitçi bir yaşam formu.\\nKuşların yalnız görüntüsünü değil, alışkanlıklarını da taklit eder. Uçtuğu zaman ardında buzul çiçekler bırakır ve bunlar da spordan oluşur.\\nMantar kolonileri arasında yönetici pozisyona sahiptir ve üstün zeka belirtileri sergiler.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

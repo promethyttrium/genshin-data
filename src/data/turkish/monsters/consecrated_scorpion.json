@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Scorpion_Sacred_Electric",
   "description": "Büyük yaşam formlarından beslenerek mutasyona uğramış olan bir eklem bacaklı.\\nYaşam formları evrim kurallarına göre yönetilir. Kutsanmış Canavarlar, uzun zaman önce ölen büyük yaşam formlarının leşlerini onların düşmanlarından önce bulacak kadar şanslı olduklarından bu kuralları kötüye kullandılar. Hayvanlar ve insanlar genellikle, insanların kabul etmeye pek yanaşmadığından çok daha fazla ortak noktaya sahiptir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

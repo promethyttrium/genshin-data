@@ -55,6 +55,11 @@
       "name": "Lohikeitto"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borş Çorbası"
+    },
+    {
       "_id": 3007,
       "id": "mondstadt_hash_brown",
       "name": "Mondstadt Usulü Mücver"
@@ -135,6 +140,11 @@
       "name": "Huş Buharında Kaburga"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
       "_id": 4402,
       "id": "haggis",
       "name": "İşkembe Yahnisi"
@@ -142,6 +152,5 @@
   ],
   "source": [
     "Gıda pazarlarında satılır."
-  ],
-  "rarity": 0
+  ]
 }

@@ -1,0 +1,328 @@
+{
+  "_id": 13436,
+  "id": "song_of_the_vigil",
+  "name": "Ca Dao Hy Vọng",
+  "description": "Trường thương từng bảo vệ chúng sinh, nay lại đóng vai trò quan trọng trong những trò chơi nhập vai của lũ trẻ.",
+  "rarity": 4,
+  "type": {
+    "id": "Polearm",
+    "name": "Vũ Khí Cán Dài"
+  },
+  "domain": "Bí Cảnh Luyện Võ: Vết Sẹo Vọng Tưởng",
+  "passive": "Hợp Âm Ngày Cũ",
+  "bonus": "Sau khi kích hoạt phản ứng nguyên tố, người trang bị sẽ hồi phục <span>4/5/6/7/8</span> điểm Năng Lượng Nguyên Tố, hiệu quả này mỗi 9s tối đa kích hoạt một lần; Kích hoạt phản ứng Tinh Tú Lấp Lánh sẽ tăng <span>20%/25%/30%/35%/40%</span> Tấn Công cho người trang bị trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên.",
+  "specialProp": "Tinh Thông Nguyên Tố",
+  "stats": {
+    "primary": "Tấn Công Căn Bản",
+    "secondary": "Tinh Thông Nguyên Tố",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 44,
+        "secondary": 24
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 119,
+        "secondary": 42
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 144,
+        "secondary": 42
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 226,
+        "secondary": 62
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 252,
+        "secondary": 62
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 293,
+        "secondary": 71
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 319,
+        "secondary": 71
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 361,
+        "secondary": 81
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 387,
+        "secondary": 81
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 429,
+        "secondary": 91
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 455,
+        "secondary": 91
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 497,
+        "secondary": 101
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 523,
+        "secondary": 101
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 565,
+        "secondary": 110
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114093,
+          "id": "the_frost_emperors_revival",
+          "name": "Hồi Sinh Của Hoàng Đế Băng Giá",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "Rễ Rỗng Sinh Linh",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "Vụn Huyền Ảo",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114094,
+          "id": "the_frost_emperors_ceremony",
+          "name": "Khánh Lễ Của Hoàng Đế Băng Giá",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "Rễ Rỗng Sinh Linh",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "Vụn Huyền Ảo",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114094,
+          "id": "the_frost_emperors_ceremony",
+          "name": "Khánh Lễ Của Hoàng Đế Băng Giá",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "Đốt Chồi Sinh Linh",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Mảnh Huyền Ảo",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114095,
+          "id": "the_frost_emperors_lament",
+          "name": "Bi Thương Của Hoàng Đế Băng Giá",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "Đốt Chồi Sinh Linh",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Mảnh Huyền Ảo",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114095,
+          "id": "the_frost_emperors_lament",
+          "name": "Bi Thương Của Hoàng Đế Băng Giá",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "Lõi Cành Xoắn Sinh Linh",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Pha Lê Huyền Ảo",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114096,
+          "id": "the_frost_emperors_farewell",
+          "name": "Từ Biệt Của Hoàng Đế Băng Giá",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "Lõi Cành Xoắn Sinh Linh",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Pha Lê Huyền Ảo",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "Hợp Âm Ngày Cũ",
+    "template": "Sau khi kích hoạt phản ứng nguyên tố, người trang bị sẽ hồi phục <span style=\"color:#99FFFFFF\">{0}</span> điểm Năng Lượng Nguyên Tố, hiệu quả này mỗi 9s tối đa kích hoạt một lần; Kích hoạt phản ứng Tinh Tú Lấp Lánh sẽ tăng <span style=\"color:#99FFFFFF\">{1}</span> Tấn Công cho người trang bị trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên.",
+    "params": [
+      [
+        "4",
+        "20%"
+      ],
+      [
+        "5",
+        "25%"
+      ],
+      [
+        "6",
+        "30%"
+      ],
+      [
+        "7",
+        "35%"
+      ],
+      [
+        "8",
+        "40%"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "Sau khi kích hoạt phản ứng nguyên tố, người trang bị sẽ hồi phục <span>4</span> điểm Năng Lượng Nguyên Tố, hiệu quả này mỗi 9s tối đa kích hoạt một lần; Kích hoạt phản ứng Tinh Tú Lấp Lánh sẽ tăng <span>20%</span> Tấn Công cho người trang bị trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+    },
+    {
+      "refinement": 2,
+      "desc": "Sau khi kích hoạt phản ứng nguyên tố, người trang bị sẽ hồi phục <span>5</span> điểm Năng Lượng Nguyên Tố, hiệu quả này mỗi 9s tối đa kích hoạt một lần; Kích hoạt phản ứng Tinh Tú Lấp Lánh sẽ tăng <span>25%</span> Tấn Công cho người trang bị trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+    },
+    {
+      "refinement": 3,
+      "desc": "Sau khi kích hoạt phản ứng nguyên tố, người trang bị sẽ hồi phục <span>6</span> điểm Năng Lượng Nguyên Tố, hiệu quả này mỗi 9s tối đa kích hoạt một lần; Kích hoạt phản ứng Tinh Tú Lấp Lánh sẽ tăng <span>30%</span> Tấn Công cho người trang bị trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+    },
+    {
+      "refinement": 4,
+      "desc": "Sau khi kích hoạt phản ứng nguyên tố, người trang bị sẽ hồi phục <span>7</span> điểm Năng Lượng Nguyên Tố, hiệu quả này mỗi 9s tối đa kích hoạt một lần; Kích hoạt phản ứng Tinh Tú Lấp Lánh sẽ tăng <span>35%</span> Tấn Công cho người trang bị trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+    },
+    {
+      "refinement": 5,
+      "desc": "Sau khi kích hoạt phản ứng nguyên tố, người trang bị sẽ hồi phục <span>8</span> điểm Năng Lượng Nguyên Tố, hiệu quả này mỗi 9s tối đa kích hoạt một lần; Kích hoạt phản ứng Tinh Tú Lấp Lánh sẽ tăng <span>40%</span> Tấn Công cho người trang bị trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+    }
+  ]
+}

@@ -13,7 +13,6 @@
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Magbeast_Steppenwolf",
   "description": "Una bestia que ha terminado evolucionando de una forma única debido a la irradiación continuada del antiguo poder de la luna.\\nCuenta la leyenda que, cuando una oscura calamidad arrasó con innumerables vidas, los bosques de las tierras fronterizas quedaron en completo silencio. En medio de tal quietud, el único sonido que rompía la calma era el aullido de los glaciolobos, una llamada a la luna. Noche tras noche, sus lamentos resonaban a través de la floresta desierta bajo la fría luz lunar.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

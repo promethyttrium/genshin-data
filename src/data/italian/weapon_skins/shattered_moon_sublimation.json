@@ -1,0 +1,21 @@
+{
+  "_id": 330002,
+  "id": "shattered_moon_sublimation",
+  "name": "Luna infranta: Sublimazione",
+  "description": "Una gloriosa lancia illusoria emersa dalle profondità delle linee geomantiche, che brilla con il potere della \"Morte\". Può cambiare aspetto in base al tipo elementale di chi l'impugna. Leggenda vuole che il nome di quest'arma fosse \"Barnstokkr\" quando era brandita da un peccatore trascendente in una terra antica.",
+  "rarity": 5,
+  "type": {
+    "id": "Polearm",
+    "name": "Lancia"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Metamorfosi splendente: Trascendenza - Sublimazione",
+    "priority": 1
+  },
+  "item_id": 341302,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphSpinifer_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphSpinifer_Great"
+}

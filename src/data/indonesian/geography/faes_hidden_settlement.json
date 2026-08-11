@@ -1,0 +1,13 @@
+{
+  "_id": 70800040,
+  "id": "faes_hidden_settlement",
+  "name": "Pemukiman Para Peri Kecil",
+  "areaName": "Fellfrost Peak",
+  "areaId": 80300,
+  "description": "Konon, mengikuti bola salju yang terus bergulir tanpa henti di hamparan salju akan membawa seorang petualang langsung ke tempat ini.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 640,
+  "filename_image": "UI_Codex_Scenery_ZDShuangJingCun",
+  "showOnlyUnlocked": true
+}

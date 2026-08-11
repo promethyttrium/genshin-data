@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Geo",
+    "weapon": "Stangenwaffe",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 5693,
@@ -29,8 +31,10 @@
     {
       "id": "cloudgrazing_strike",
       "name": "Wolkenfetzer",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -50,7 +54,9 @@
       "id": "opening_flourish",
       "name": "Wolkenöffnung",
       "desc": "Erschafft 1 <span style=\"color:#FFFFFFFF\">Formation der fliegenden Wolken</span>, erhält selbst <span style=\"color:#FFFFFFFF\">Wolkenöffnungsschild</span> und <span style=\"color:#FFFFFFFF\">bereitet folgende Fähigkeiten vor</span>: <span style=\"color:#FFFFFFFF\">Auftritt mit der Lanze</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -63,8 +69,10 @@
     {
       "id": "cliffbreakers_banner",
       "name": "Banner der brechenden Klippen",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 3 Stapelungen <span style=\"color:#FFFFFFFF\">Formation der fliegenden Wolken</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#FFE699FF\">Geo-SCH</span>, erschafft 3 Stapelungen <span style=\"color:#FFFFFFFF\">Formation der fliegenden Wolken</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1106,

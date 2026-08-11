@@ -1,0 +1,39 @@
+{
+  "_id": 212032,
+  "id": "genesis_of_starsigns",
+  "shareId": 614,
+  "name": "星座の始まり",
+  "title": "モナ・星座の始まり",
+  "desc": "「仮に物語の占い師が弟子を取るにしても、このような不可解なやり方で試すことはないだろう。うむ、そうに決まっておる。」",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">モナ</span>の「通常攻撃」に必要な<span style=\"color:#FFFFFFFF\">無色元素</span>-1、かつ「通常攻撃」後、味方の次回の蒸発反応によるダメージ+2。",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "水元素",
+    "card_type": "装備カード",
+    "energy": [
+      {
+        "_id": 1102,
+        "id": "hydro",
+        "type": "水元素",
+        "count": 1
+      },
+      {
+        "_id": 1109,
+        "id": "unaligned_element",
+        "type": "無色元素",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "天賦",
+      "戦闘アクション",
+      "魔導"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">戦闘アクション</span>：味方の出撃キャラが<span style=\"color:#FFFFFFFF\">モナ</span>の時、このカードを装備できる。<br/>モナがこのカードを装備した後、味方の次回の蒸発反応によるダメージ+2、かつ直ちに<span style=\"color:#FFD780FF\">因果点破</span>を1回使用する。<br/><span style=\"color:#FFFFFFFF\">モナ</span>の「通常攻撃」に必要な<span style=\"color:#FFFFFFFF\">無色元素</span>-1、かつ「通常攻撃」後、味方の次回の蒸発反応によるダメージ+2。<br/>（このカードはデッキにモナが含まれている場合のみ、デッキに追加できる）"
+    }
+  ]
+}

@@ -13,7 +13,6 @@
   "categoryText": "Abisso",
   "filename_icon": "UI_MonsterIcon_Hound_Riftstalker_Electric",
   "description": "Una bestia dal sangue mostruoso che è in grado di corrodere i confini del mondo. La sua razza è stata creata da \"Oro\".\\nUn tempo, si scatenavano per tutto il continente, ma si estinsero per un certo periodo a causa della resistenza e delle battute di caccia massive. Tuttavia, di recente sono riemersi. Il branco di lupi neri che attualmente minaccia il Villaggio Acquachiara e il Regno dei Lupi è composto da creature di questo tipo.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

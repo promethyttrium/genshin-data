@@ -13,7 +13,6 @@
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_LavaTitan",
   "description": "Ma vật có thể tự sản sinh nhiệt lượng để duy trì trạng thái hoạt động.\\nNghe nói, chủng ma vật có lõi bằng dung nham là một sản phẩm phụ từ hướng nghiên cứu riêng, khác với Thiết Bị Nguồn được sinh ra sau này. Chủ đề nghiên cứu của nó là, liệu ngọn lửa ban đầu có thể mô phỏng con người để tạo ra một chủng tộc mới hay không... Nhưng nghiên cứu đó đã thất bại hoàn toàn. Sau khi kẻ cướp đoạt từ trời cao bước đến cùng với ngai vàng, thứ có thể sinh ra từ trong ngọn lửa nguyên thủy, cuối cùng cũng chỉ còn lại cái vỏ rỗng của thứ ma vật mang hình dạng và sức sống nhưng lại chẳng có ý thức.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

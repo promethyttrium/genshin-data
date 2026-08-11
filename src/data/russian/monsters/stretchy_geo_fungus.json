@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Beta_Rock",
   "description": "Споры с зачатками интеллекта. Прекрасно умеют приспосабливаться к окружающей среде.\\nЭлемент Гео, который они накапливают в шляпах, создаёт своего рода твёрдую защитную оболочку. Кроме того, эти существа развили более плотную, чему у других представителей этого вида, внутреннюю структуру, чтобы выдерживать дополнительный вес шляпок.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

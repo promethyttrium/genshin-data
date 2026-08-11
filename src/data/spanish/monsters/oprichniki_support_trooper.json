@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan",
   "description": "Un soldado de los Opríchniks Fatui que lleva un pesado escudo y se encarga de proteger a sus compañeros en la primera línea del frente de batalla.\\nMucha gente sabe perfectamente que la única manera de alzarse con la victoria en la larga guerra entre Snezhnaya y la calamidad oscura es aguantando hasta el final. En ese sentido, el “aguante” de los Opríchniks es el escudo de los Soldados de refuerzo, ya que, mientras sus escudos sigan en pie, también lo hará la esperanza de la victoria.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

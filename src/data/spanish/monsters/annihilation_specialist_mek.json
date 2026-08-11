@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Mecaengranaje recto",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Engranaje de malla",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Autómatas",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Bradamante",
   "description": "Aunque el Instituto de Investigación Científica e Ingeniería de Energía Cinética de Fontaine es el principal organismo de estudio y diseño de Mecabots de la nación, también existe un considerable número de ingenieros y talleres de mecánica independientes especializados en esta área.\\nEsta máquina fue diseñada precisamente por uno de esos ingenieros independientes en honor a su amada y como reconocimiento a sus patrocinadores. Su diseño fue finalmente elegido y adquirido por la Oficina Judicial para desempañar el papel de una de las principales fuerzas de seguridad de la nación.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 3,
   "stats": {

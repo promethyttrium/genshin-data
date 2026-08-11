@@ -22,7 +22,6 @@
   "categoryText": "Abyss",
   "filename_icon": "UI_MonsterIcon_Invoker_Deacon_Electric_01",
   "description": "Monster yang melayani Abyss Order, mampu menggunakan kekuatan petir dan melantunkan nyanyian kegelapan.\\nMereka adalah para pengikut Abyss. Petir ganas mereka menghantam hati orang-orang yang bertentangan dengan kegelapan, disertai dengan kegelapan malam yang abadi, cahaya ungu mereka seolah memproklamirkan keberadaan kekuatan besar yang mampu merusak manusia.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

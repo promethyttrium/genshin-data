@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Human_Female_NoWeapon_Drillhead",
   "description": "Seorang petarung gagah dari lembah, dan merupakan penjaga suku yang melindungi gunung serta sungai kristal.\\nSeorang pejuang suku yang menggunakan pentungan bola sebagai senjatanya. Pukulannya bahkan dapat menghancurkan batu paling kokoh sekalipun. Saat tidak sedang bertarung menggunakan senjatanya, biasa ia menghancurkan bebatuan dengan tangan kosong untuk mencari permata dan sisa-sisa kristal Phlogiston.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

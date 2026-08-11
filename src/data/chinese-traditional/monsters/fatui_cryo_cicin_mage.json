@@ -1,7 +1,7 @@
 {
   "_id": 23040101,
   "id": "fatui_cryo_cicin_mage",
-  "monsterId": 23040102,
+  "monsterId": 23070551,
   "name": "愚人眾·冰螢術士",
   "specialNames": [
     "愚人眾·安娜",
@@ -52,12 +52,11 @@
   "categoryText": "愚人眾",
   "filename_icon": "UI_MonsterIcon_Fatuus_Mage_Ice_01",
   "description": "操控著冰螢進行戰鬥，由來與面具下的容貌都是謎的愚人眾少女術士。\\n沒有神之眼的人類，理應是無法像她們這樣自如地操控元素的；但她們卻在利用霧虛草操控冰螢之餘，肆無忌憚地揮霍著寒冰的力量。看似漫無目的地四處遊蕩的她們，又領受著何種不為人知的使命呢…",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
-  "budget": 4,
+  "budget": 2,
   "stats": {
     "resistance": {
-      "physical": -0.2,
+      "physical": 0.1,
       "pyro": 0.1,
       "dendro": 0.1,
       "hydro": 0.1,
@@ -67,13 +66,13 @@
       "electro": 0.1
     },
     "base": {
-      "hp": 67.92,
-      "attack": 50.24,
+      "hp": 25.602585,
+      "attack": 90.11659,
       "defense": 500
     },
     "curve": {
-      "hp": "GROW_CURVE_HP",
-      "attack": "GROW_CURVE_ATTACK",
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
       "defense": "GROW_CURVE_DEFENSE"
     }
   }

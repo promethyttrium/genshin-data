@@ -23,6 +23,11 @@
       "name": "肉餡黑麥包"
     },
     {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "格魯波夫黑列巴"
+    },
+    {
       "_id": 3607,
       "id": "lakkaberry_pie",
       "name": "白靈果派"
@@ -35,6 +40,5 @@
   ],
   "source": [
     "烹飪加工獲得"
-  ],
-  "rarity": 0
+  ]
 }

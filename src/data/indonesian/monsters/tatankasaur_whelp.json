@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Bisonsaurus_Small",
   "description": "Tatankasaurus muda yang sedikit ceroboh karena masih belum bisa mengendalikan kekuatan tubuhnya dengan sempurna.\\nTanduk keduanya belum tumbuh sepenuhnya, dan kekuatan di punggung dan perutnya belum cukup untuk menghancurkan batu-batu yang menghalangi jalannya. Tapi asalkan dia tumbuh dengan baik, pasti akan ada saatnya ia bisa berlari dengan bebas di dataran yang subur.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

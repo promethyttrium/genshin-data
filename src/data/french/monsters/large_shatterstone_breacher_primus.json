@@ -13,7 +13,6 @@
   "categoryText": "Ordre de l'Abîme",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_01",
   "description": "Une forme de vie étrange qui apparaît principalement près d'Elynas.\\nLes mélusines perçoivent les Primus briseurs comme des créatures inoffensives, et beaucoup les trouvent même adorables.\\nLa perception visuelle des mélusines est très différente de celle des humains...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

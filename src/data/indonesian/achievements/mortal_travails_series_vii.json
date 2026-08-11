@@ -1,0 +1,32 @@
+{
+  "_id": 71,
+  "id": "mortal_travails_series_vii",
+  "name": "Penderitaan Fana: Seri VII",
+  "order": 9,
+  "achievements": [
+    {
+      "id": 80525,
+      "name": "Rekuiem Angin Es",
+      "desc": "Mendapatkan kekuatan Cryo.",
+      "reward": 5,
+      "hidden": false,
+      "order": 484
+    },
+    {
+      "id": 80526,
+      "name": "Saat Nyanyian Memecah Keheningan Malam",
+      "desc": "Kumpulkan keseluruhan seri \"Koleksi Drama Tari Polaris\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 485
+    },
+    {
+      "id": 80528,
+      "name": "Kisah Para Orang Mati",
+      "desc": "Kumpulkan satu set lengkap \"Sejarah Umum Snezhnaya\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 487
+    }
+  ]
+}

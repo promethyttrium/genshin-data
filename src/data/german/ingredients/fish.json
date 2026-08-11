@@ -108,6 +108,11 @@
       "name": "Kalakukko"
     },
     {
+      "_id": 2701,
+      "id": "stroganina",
+      "name": "Stroganina"
+    },
+    {
       "_id": 3012,
       "id": "sunshine_sprat",
       "name": "Butterbratling"
@@ -198,6 +203,11 @@
       "name": "Ode an den glühenden Felsen"
     },
     {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "Schneeballblumen auf Schneefeldern"
+    },
+    {
       "_id": 4105,
       "id": "eighttreasure_duck",
       "name": "Ente der acht Köstlichkeiten"
@@ -215,6 +225,5 @@
   ],
   "source": [
     "Beim Fangen von Fischen zu erhalten"
-  ],
-  "rarity": 0
+  ]
 }

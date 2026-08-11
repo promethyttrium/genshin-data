@@ -13,7 +13,6 @@
   "categoryText": "Makhluk Elemental",
   "filename_icon": "UI_MonsterIcon_Effigy_Grass",
   "description": "Code Name: \"Zayin\". Entitas Dendro dengan kemurnian tinggi.\\nMenurut beberapa peneliti, Hypostasis adalah makhluk yang memiliki kemampuan untuk \"belajar\", dan buktinya adalah bentuk-bentuk serangan \"mimesis\" mereka. Namun, kemampuan untuk menyerap informasi mengindikasikan bahwa telah terjadi pencemaran informasi. Semakin makhluk ini belajar dan mengalami perubahan, semakin kabur pula tujuan awal dia diciptakan, bahkan sampai tujuan itu (yang sesungguhnya sulit dijelaskan secara ilmiah) menjadi tidak penting dan tidak relevan.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

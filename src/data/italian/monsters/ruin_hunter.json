@@ -44,7 +44,6 @@
   "description": "Una gigantesca macchina da guerra dalla forma insolita.\\nSi dice che siano i resti di un'antica nazione perduta. Sembra che i creatori abbiano optato per rinunciare al design umanoide poco efficiente in favore di una maggiore efficacia in combattimento. Sono estremamente pericolosi sia nel combattimento corpo a corpo che a distanza.\\nConsiderato che queste mere reliquie sono in possesso di un potere straordinario, è inevitabile chiedersi che aspetto avesse la civiltà che le ha prodotte nel momento del suo massimo splendore.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 4,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": -0.2,

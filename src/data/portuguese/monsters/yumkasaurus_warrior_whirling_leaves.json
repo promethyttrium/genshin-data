@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Apito de Metal do Guerreiro",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Apito de Madeira do Sentinela",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Hookwalker",
   "description": "Um poderoso guerreiro das Copas, cuja bravura foi reconhecida, o permitindo usar uma Coroa Sauriana.\\nUm guerreiro que pode usar um gancho para estender seu alcance de ataque. Cordas-gancho são uma parte indispensável do cotidiano dos Descendentes das Copas. Contudo, apenas os guerreiros mais intensos combinarão os ganchos com lâminas de serras para se tornar uma arma tanto excepcionalmente letal quanto difícil de controlar.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

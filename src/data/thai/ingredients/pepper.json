@@ -15,6 +15,11 @@
       "name": "Grilled Tiger Fish"
     },
     {
+      "_id": 1701,
+      "id": "podvorye_smoked_sausage",
+      "name": "Podvorye Smoked Sausage"
+    },
+    {
       "_id": 2006,
       "id": "fried_radish_balls",
       "name": "Fried Radish Balls"
@@ -67,6 +72,5 @@
   ],
   "source": [
     "ซื้อจากร้านขายของชำ"
-  ],
-  "rarity": 0
+  ]
 }

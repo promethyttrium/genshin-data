@@ -1,0 +1,133 @@
+{
+  "_id": 25132601,
+  "id": "leomastiff_guard",
+  "monsterId": 25132601,
+  "name": "Guardia leonmastino",
+  "specialNames": [
+    "Guardia leonmastino"
+  ],
+  "investigation": {
+    "investigationId": 101,
+    "name": "Volkodlak bruto",
+    "categoryType": "Elite",
+    "categoryText": "Élite",
+    "description": "Tra le Fate di Snezhnaya, la razza più numerosa è composta da svariate creature note collettivamente come \"Volkodlak\".\\nForse sono state create con il solo scopo di trovare la risposta a ciò che rende un essere umano davvero... umano."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "rewardPreviewId": 15543,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 112154,
+      "id": "accreted_growth",
+      "name": "Escrescenza aggregata",
+      "count": 0.131
+    },
+    {
+      "_id": 112153,
+      "id": "accreted_mass",
+      "name": "Massa aggregata",
+      "count": 0.525
+    },
+    {
+      "_id": 112152,
+      "id": "accreted_fragment",
+      "name": "Frammento aggregato",
+      "count": 1.97
+    },
+    {
+      "_id": 112148,
+      "id": "ethereal_crystalscale_stone",
+      "name": "Litosquama di cristallo eterea",
+      "count": 0.035
+    },
+    {
+      "_id": 112147,
+      "id": "ethereal_crystal",
+      "name": "Cristallo etereo",
+      "count": 0.14
+    },
+    {
+      "_id": 112146,
+      "id": "ethereal_glimmershard",
+      "name": "Frammento scintillante etereo",
+      "count": 0.525
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Istruttore",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "Esule",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Istruttore",
+      "rarity": 3
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "Esule",
+      "rarity": 3
+    },
+    {
+      "_id": 400062,
+      "id": "traveling_doctor",
+      "name": "Dottoressa errante",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestie mistiche",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Sheepdog",
+  "description": "Un Volkodlak dei clan canini che solitamente appare un po' pigro.\\nTra i numerosi clan di Volkodlak, i clan canini hanno sempre goduto di una reputazione migliore: i loro membri sono leali, amichevoli e solitamente di indole mite. Tuttavia, diventano feroci quando coloro che hanno giurato di servire, o gli amici che conoscono bene, vengono messi in pericolo, abbattendo chiunque considerino una minaccia.\\nSi narra che molto tempo fa, durante una guerra, il loro clan difese il proprio re combattendo fino allo stremo contro Sua Maestà lo Tsar, ottenendo in seguito il favore di quest'ultimo.",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 35.3184,
+      "attack": 22.608,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

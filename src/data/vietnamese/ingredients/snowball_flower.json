@@ -1,0 +1,21 @@
+{
+  "_id": 101280,
+  "id": "snowball_flower",
+  "name": "Hoa Tuyết Cầu",
+  "description": "Loài hoa đáng yêu với cụm hoa gần như hình cầu. Khi tuyết đọng trên cánh hoa, cả bông hoa trông chẳng khác gì một quả cầu tuyết.",
+  "recipes": [
+    {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Okroshka Xứ Tuyết"
+    },
+    {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "Hoa Tuyết Cầu Trên Tuyết Nguyên"
+    }
+  ],
+  "source": [
+    "Đề xuất: Thu thập ở Snezhnaya"
+  ]
+}

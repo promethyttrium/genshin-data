@@ -14,7 +14,6 @@
   "filename_icon": "UI_MonsterIcon_Lloigor_Primo",
   "description": "Uma criatura do Abismo que se esgueira pelas fendas nas profundezas ocultas, silenciosamente assistindo esse mundo. Dizem que sua forma sinistra, sem rosto, não é nada além de uma projeção, enquanto seu verdadeiro corpo existe apenas como uma massa sem forma de energia abissal pura.\\nAté mesmo invasores que buscam dominar este mundo devem, até certo ponto, obedecer suas regras. A menos que os céus se partam e as defesas da terra entrem em colapso, esses forasteiros nascidos das estrelas pouco podem fazer além de permanecer nas fronteiras do mundo, sussurrando sua insanidade neste reino, com suas tentativas de se infiltrar no seu interior não levando a nada... Mas por quanto tempo essa estabilidade e ordem podem realmente durar?",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
-  "bgm": 0,
   "budget": 1,
   "stats": {
     "resistance": {

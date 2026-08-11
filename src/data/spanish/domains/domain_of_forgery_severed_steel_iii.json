@@ -1,0 +1,63 @@
+{
+  "_id": 4717,
+  "id": "domain_of_forgery_severed_steel_iii",
+  "name": "Dominio de la forja: Acero quebrado III",
+  "entranceId": 2106,
+  "entranceName": "Cicatriz de la obsesión",
+  "description": "Unos rebeldes descontentos se ocultaron aquí e intentaron en vano cumplir con su sueño de restaurar el viejo orden. Dicho sueño pereció junto con las llamas del color de la sangre, y lo único que quedó fue una palidez infinita.\nObtendrás objetos para fortalecer tus equipamientos si eres capaz de derrotar a los enemigos que lo han ocupado.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 59,
+  "unlockRank": 30,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "Anemo",
+    "Cryo"
+  ],
+  "daysOfWeek": [
+    "Miércoles",
+    "Sábado",
+    "Domingo"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP de Aventura",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "1850"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP de Amistad",
+      "count": "15"
+    },
+    {
+      "_id": 114095,
+      "id": "the_frost_emperors_lament",
+      "name": "Compasión del emperador de la escarcha"
+    },
+    {
+      "_id": 114094,
+      "id": "the_frost_emperors_ceremony",
+      "name": "Ceremonia del emperador de la escarcha"
+    },
+    {
+      "_id": 114093,
+      "id": "the_frost_emperors_revival",
+      "name": "Renacimiento del emperador de la escarcha"
+    }
+  ],
+  "monsterList": []
+}

@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Other Human Factions",
   "filename_icon": "UI_MonsterIcon_Samurai_Ronin_02",
   "description": "Samurai who have fallen into banditry. Though they are called the Nobushi, they do not have a centralized organization.\\nThey not only possess highly advanced sword skills, but can also carry out flame powder attacks using the elements. Objectively speaking, perhaps this method of winning goes against the path of a martial artist.\\nSometimes they even collude with the Treasure Hoarders or Fatui out of a greed for wealth — or simply to survive.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

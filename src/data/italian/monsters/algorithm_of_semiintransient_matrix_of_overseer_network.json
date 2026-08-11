@@ -36,7 +36,7 @@
       "_id": 113039,
       "id": "light_guiding_tetrahedron",
       "name": "Tetraedro rituale",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -151,7 +151,6 @@
   "categoryText": "Automi",
   "filename_icon": "UI_MonsterIcon_Monolith_Starchild",
   "description": "Una macchina a moto perpetuo che governa i numerosi costrutti sparsi nel deserto. Sembra che la volontà del sovrano solitario sia ancora presente in questo dispositivo.\\nForse a causa degli insegnamenti di un amico in sogno o forse perché bramava il potere degli eletti nei cieli, il re creò dispositivi misteriosi che non dovrebbero esistere in questo mondo prima di fondare il suo regno in queste terre.\\nTra le rovine della Città dei pilastri, gli antichi cristalli riflettono ancora la gloria del paradiso dorato, anche se nessuno ricorda più i sogni del re.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

@@ -38,7 +38,7 @@
       "_id": 113011,
       "id": "everflame_seed",
       "name": "Seme del fuoco eterno",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -133,7 +133,6 @@
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Regisvine_Fire",
   "description": "Un rampicante gigante che ha assorbito le fiamme antiche che imperversano all'interno delle linee geomantiche.\\nÈ irrequieto, come se fosse pervaso da una furia senza fine.\\nI poeti, i bardi e persino alcuni accademici sono convinti che anche gli elementi contengano speranze ed emozioni. Se ciò fosse vero, verrebbe da chiedersi quali emozioni spingano il Regisreptus di Pyro a bruciare in eterno, contorcendosi come se desiderasse la libertà dai confini della terra.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

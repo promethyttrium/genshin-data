@@ -25,19 +25,19 @@
       "_id": 112112,
       "id": "ignited_seeing_eye",
       "name": "聚燃的遊像眼",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112111,
       "id": "ignited_seed_of_life",
       "name": "聚燃的命種",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112110,
       "id": "ignited_stone",
       "name": "聚燃的石塊",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_Lava_Solid",
   "description": "需要持續不斷吸收熱量以維持活動狀態的奇特魔物。\\n古老的文明利用鐫光的金紋驅使燃素流動的諸多法式，令巨大造物與恢弘城市得以在金紋創生的智慧中運轉。據說除了固定結構的機械以外，名為熔岩遊像的魔物其實也是以此方法創造的殘缺生命，只不過在聖山的火焰熄滅之後，它們大多失去了目的與方向。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

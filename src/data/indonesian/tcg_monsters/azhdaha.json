@@ -9,8 +9,10 @@
     "hp": 40,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Geo",
+    "weapon": "Senjata Lain",
     "faction": [
-      null
+      "Monster"
     ],
     "talent_card": {
       "_id": 4772,
@@ -27,8 +29,10 @@
     {
       "id": "sundering_charge",
       "name": "Sundering Charge",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -47,8 +51,10 @@
     {
       "id": "aura_of_majesty",
       "name": "Aura of Majesty",
-      "desc": "Mengakibatkan ? poin ?. Jika reaksi Crystallize terpicu, maka Karakter akan <span style=\"color:#FFFFFFFF\">menyerap kekuatan elemen</span>.<br/>Jika Karakter tidak menyerap kekuatan elemen saat Skill ini digunakan, maka akan memberikan <span style=\"color:#FFFFFFFF\">Stone Facets: Elemental Crystallization</span> kepada Karakter.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#FFE699FF\">Geo DMG</span>. Jika reaksi Crystallize terpicu, maka Karakter akan <span style=\"color:#FFFFFFFF\">menyerap kekuatan elemen</span>.<br/>Jika Karakter tidak menyerap kekuatan elemen saat Skill ini digunakan, maka akan memberikan <span style=\"color:#FFFFFFFF\">Stone Facets: Elemental Crystallization</span> kepada Karakter.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -61,8 +67,10 @@
     {
       "id": "decimating_rockfall",
       "name": "Decimating Rockfall",
-      "desc": "Mengakibatkan ? poin ?. Untuk setiap jenis elemen yang telah diserap sebelumnya, DMG +1.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 4 poin <span style=\"color:#FFE699FF\">Geo DMG</span>. Untuk setiap jenis elemen yang telah diserap sebelumnya, DMG +1.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -82,7 +90,9 @@
       "id": "stone_facets",
       "name": "Stone Facets",
       "desc": "[Pasif] Saat pertandingan dimulai, Karakter ini memperoleh status <span style=\"color:#FFFFFFFF\">Stone Facets: Elemental Absorption</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

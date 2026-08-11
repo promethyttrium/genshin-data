@@ -13,7 +13,6 @@
   "categoryText": "Seres elementales",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Fire",
   "description": "Un hermoso y grácil ser elemental que posee una gran afinidad con los elementos. Evolucionó hasta tener este aspecto tras exponerse a altas concentraciones del elemento Pyro durante muchos años.\\nEsta es una de sus formas con el temperamento más violento. Su cuerpo está envuelto en unas llamas que no se extinguen ni estando en las gélidas tierras fronterizas.\\nSegún las letanías del Lejano Norte que han sobrevivido hasta hoy en día, se trata de una criatura nacida de las bendiciones de la Luna Escarchada, un símbolo de la pureza de la fuente primigenia y del fulgor original. Tal vez esa sea la razón por la que rechazan a todo ser que se les acerca demasiado: porque no pueden soportar que su pureza se manche con los siete colores de la luz celeste.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

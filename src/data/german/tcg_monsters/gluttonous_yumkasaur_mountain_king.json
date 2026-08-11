@@ -9,8 +9,10 @@
     "hp": 35,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Andere Waffen",
     "faction": [
-      null
+      "Monster"
     ],
     "talent_card": {
       "_id": 8276,
@@ -27,8 +29,10 @@
     {
       "id": "crushing_tail_attack",
       "name": "Schwere Schwanzattacke",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -47,8 +51,10 @@
     {
       "id": "flying_fruit",
       "name": "Fliegende Frucht",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], zieht 1 Gericht-Karte.",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. <span style=\"color:#7EC236FF\">Dendro-SCH</span>, zieht 1 Gericht-Karte.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -61,8 +67,10 @@
     {
       "id": "flamegranate_conflagration",
       "name": "Flammengranaten-Feuerwerk",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 5 Pkt. <span style=\"color:#FF9999FF\">Pyro-SCH</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -82,7 +90,9 @@
       "id": "gluttonous_rex",
       "name": "Gefräßiger König",
       "desc": "Wird selbst nie den Zustand <span style=\"color:#FFFFFFFF\">Gesättigt</span> erreichen.<br/><span style=\"color:#FFFFFFFF\">Nach Ausspielen einer deiner Gericht-Karten:</span> Erhält selbst zufällig 1 Stapelung <span style=\"color:#FFFFFFFF\">Wohlgenährt und stark</span> oder <span style=\"color:#FFFFFFFF\">Wohlgenährt und gesund</span> oder 1 zusätzliche max. LP (2-mal pro Runde).",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

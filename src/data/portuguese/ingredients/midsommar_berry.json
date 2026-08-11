@@ -48,10 +48,14 @@
       "_id": 3612,
       "id": "birchsteamed_pork_ribs",
       "name": "Costela de Porco no Bafo"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Sorvetes Sortidos"
     }
   ],
   "source": [
     "Encontrado na natureza"
-  ],
-  "rarity": 0
+  ]
 }

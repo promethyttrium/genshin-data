@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Ingranaggio cilindrico",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Ingranaggio dentato",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automi",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Bradamante",
   "description": "Sebbene l'Istituto di ricerca per l'ingegneria dell'Energia cinetica di Fontaine sia la principale organizzazione coinvolta nella ricerca e nella progettazione dei Mekautomi, ci sono anche molti ingegneri e laboratori indipendenti affiliati all'Istituto.\\nLa prima macchina in assoluto di questo tipo fu progettata da un ingegnere indipendente per commemorare la sua amata e il suo finanziatore. Alla fine la macchina fu acquistata dalla Maison de la Garde come uno strumento per mantenere la sicurezza municipale (o, come pensano alcuni, il monopolio della violenza da parte del Governo).",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 3,
   "stats": {

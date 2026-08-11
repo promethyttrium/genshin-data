@@ -13,7 +13,6 @@
   "categoryText": "Seres elementales",
   "filename_icon": "UI_MonsterIcon_Effigy_Grass",
   "description": "Nombre en clave: Zayin. Un ser Dendro de alta pureza.\\nSegún han conjeturado los eruditos, los Hipóstasis tienen la capacidad de aprender, lo que les permite utilizar su mimetismo para atacar. El problema está en que, si verdaderamente son capaces de asimilar información y cambiar conforme a ella, también pueden llegar a sufrir la contaminación de fuentes externas. En ese proceso de aprendizaje y adaptación, el propósito original de su nacimiento podría llegar a distorsionarse hasta el punto de resultar irrelevante. No obstante, esta posibilidad aún continúa siendo un enigma en los círculos académicos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

@@ -15,14 +15,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "ヒルチャール部族",
   "filename_icon": "UI_MonsterIcon_Shaman_Ice_01",
   "description": "ブツブツとよく独り言を言う年老いたヒルチャール、氷元素の詠唱者。\\n元素コントロールに長けるヒルチャールは、年を取ると力がピークに達する傾向がある。このシャーマン達は、霜の囁きを思い起こし、それを攻撃に使う技術に精通している。",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

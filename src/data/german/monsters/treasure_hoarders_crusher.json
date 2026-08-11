@@ -59,22 +59,21 @@
       "_id": 112036,
       "id": "silver_raven_insignia",
       "name": "Krähenwappen der Silberschätze",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112035,
       "id": "treasure_hoarder_insignia",
       "name": "Krähenwappen der Schatzsuche",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
   "description": "Ein Mitglied der kriminellen Gruppierung ohne Hauptquartier, die überall auf dem Kontinent ihre Spuren hinterlässt, selbst in unerkundeten Sphären.\\nUrsprünglich war er ein Bergbauer, der nach der Schließung der Großen Kluft zwar eine Abfindung erhielt, aber trotzdem noch aus diversen Gründen bei den Schatzräubern landete.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

@@ -13,8 +13,6 @@
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Wayob_Shamansaurus",
   "description": "Penguasa Angin Malam memercayai dan memuja Wayob yang mengambil wujudnya dengan bantuan totem dan juga Nightsoul. Penguasa Angin Malam telah mencoba menggunakan banyak medium untuk berkomunikasi dengan Kerajaan Malam. Akhirnya, mereka menemukan bahwa medium yang memungkinkannya untuk menjalin relasi yang paling stabil dengan Wayob adalah obsidian. Ini mungkin menjelaskan mengapa bahwa selama berabad-abad Manifestasi Wayob selalu mengambil wujud yang menyerupai patung batu. Penguasa Angin Malam percaya bahwa Wayob mereka memiliki kekuatan untuk mengendalikan proses pembekuan dan kristalisasi, serta dapat mengendalikan baik hal yang nyata maupun transformasi.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

@@ -68,6 +68,11 @@
       "name": "알갱이 열매 뻥튀기"
     },
     {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "글루포프 호밀빵"
+    },
+    {
       "_id": 3004,
       "id": "sticky_honey_roast",
       "name": "허니캐럿그릴"
@@ -282,6 +287,5 @@
   ],
   "source": [
     "요리 가공 획득"
-  ],
-  "rarity": 0
+  ]
 }

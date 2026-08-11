@@ -1,0 +1,29 @@
+{
+  "_id": 114096,
+  "id": "the_frost_emperors_farewell",
+  "name": "凛雪帝皇的辞决",
+  "description": "在战争的前夕，不知何时也不知如何出现在桌上之物。<br/>他知道那是他久未得见的友人亲手所制。<br/>天地原如，他在此时才恍然，这就是一切厄难的开端，一切欲望的苦果，一切毁灭的先兆。",
+  "source": [
+    "占位-可合成数量:{0}"
+  ],
+  "location": "至冬",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114095,
+        "id": "the_frost_emperors_lament",
+        "name": "凛雪帝皇的悲恤",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "炼武秘境·「妄念的创痕」",
+  "days": [
+    "周三",
+    "周六",
+    "周日"
+  ]
+}

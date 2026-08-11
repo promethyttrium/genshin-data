@@ -1,0 +1,40 @@
+{
+  "_id": 25135101,
+  "id": "glacial_warden",
+  "monsterId": 25135106,
+  "name": "Centinela Glacial",
+  "specialNames": [
+    "Centinela Glacial"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestias exóticas",
+  "filename_icon": "UI_MonsterIcon_Snegurochka_Male",
+  "description": "Un snegovik nacido en la nieve por amor.\\nLos snegovik varones son caballeros natos, y la mayoría de ellos nacen siendo capaces de formar sus propias armas a partir del hielo y la nieve.\\nCuenta la leyenda que, en la batalla entre el Zar Belyi y la marea corrosiva oscura, un snegovik que servía como su guardia canalizó un poder ajeno a su raza y creció hasta alcanzar un tamaño descomunal.\\nAunque se desconoce cuál fue su final, lo más probable es que transgredir una prohibición no le trajera un desenlace muy bueno.",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 81.504,
+      "attack": 75.36,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

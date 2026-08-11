@@ -1,0 +1,21 @@
+{
+  "_id": 350001,
+  "id": "starpiercer",
+  "name": "贯星",
+  "description": "自地脉至深之处显现的辉耀兵刃幻形，能依据持有者的元素类型变化自身。据说在古老的国度曾以「居瑟诺德」的名讳为极恶的罪人持有。",
+  "rarity": 4,
+  "type": {
+    "id": "Bow",
+    "name": "弓"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "辉耀幻形·超越",
+    "priority": 1
+  },
+  "item_id": 341501,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Bow_MorphChrod_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Bow_MorphChrod"
+}

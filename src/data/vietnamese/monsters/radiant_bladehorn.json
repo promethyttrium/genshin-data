@@ -13,7 +13,6 @@
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Magbeast_Rhino",
   "description": "Ma thú đã trải qua một quá trình tiến hóa độc đáo do được hấp thụ sức mạnh của mặt trăng cổ xưa trong thời gian dài.\\nNghe nói trước kia, khi vùng đất biên giới bị bóng đen bao phủ, chỉ có tê giác mới có thể thông qua bầy đàn của mình để đưa sức mạnh chuyển động vạn vật trở lại nơi này... Đây cũng là báo đáp duy nhất mà chúng cầu xin sau khi ánh trăng ban tặng ân huệ.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

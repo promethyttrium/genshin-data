@@ -13,7 +13,6 @@
   "categoryText": "Element Yaşam Formları",
   "filename_icon": "UI_MonsterIcon_Effigy_Fire",
   "description": "Kod adı Ayin olan yüksek saflıktaki bir Ateş oluşumu.\\nAraştırmacılara göre Element Hipostazları, yerel Element damarlarında meydana gelen olağan dışı durumlarla ilişkilidir. Ancak Element damarlarını etkileyen Element Hipostazlarının varlığı veya farklı bir enerjiye dönüşerek Element Hipostazlarını oluşturan Element Enerjisi henüz teyit edilmemiştir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

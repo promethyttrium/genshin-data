@@ -1,0 +1,30 @@
+{
+  "_id": 104369,
+  "id": "guide_to_fortitude",
+  "name": "Guía de la tenacidad",
+  "description": "Material de mejora de talento.\\nLa tenacidad es la virtud de la Nación del Hielo.\\nOtorga la voluntad de crecer y, aunque el gélido frío lo quiebre todo a su paso, una semilla frágil puede valerse de esa voluntad para abrirse camino a través de la tierra y brotar entre la nieve y las ventiscas.",
+  "source": [
+    "Cantidad sintetizable: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104368,
+        "id": "teachings_of_fortitude",
+        "name": "Enseñanzas de la tenacidad",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio de la maestría: Ascetismo IV",
+  "domainId": "domain_of_mastery_hermitage_iv",
+  "days": [
+    "Martes",
+    "Viernes",
+    "Domingo"
+  ]
+}

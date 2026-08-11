@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 3,
+    "element": "Geo",
+    "weapon": "Senjata Lain",
     "faction": [
-      null
+      "Fatui"
     ]
   },
   "skills": [
     {
       "id": "rock_projectile",
       "name": "Rock Projectile",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#FFE699FF\">Geo DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -36,8 +40,10 @@
     {
       "id": "geocrystal_beam",
       "name": "Geocrystal Beam",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#FFE699FF\">Geo DMG</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -50,8 +56,10 @@
     {
       "id": "staff_of_geo",
       "name": "Staff of Geo",
-      "desc": "Mengakibatkan ? poin ?. Karakter ini memperoleh status <span style=\"color:#FFFFFFFF\">Geo Elemental Equipment</span> dan menciptakan <span style=\"color:#FFFFFFFF\">Crystal Ward</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#FFE699FF\">Geo DMG</span>. Karakter ini memperoleh status <span style=\"color:#FFFFFFFF\">Geo Elemental Equipment</span> dan menciptakan <span style=\"color:#FFFFFFFF\">Crystal Ward</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -71,7 +79,9 @@
       "id": "combat_resupply",
       "name": "Combat Resupply",
       "desc": "[Pasif] Saat pertandingan dimulai, Karakter ini memperoleh 2 poin Energy.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

@@ -1,0 +1,29 @@
+{
+  "_id": 114086,
+  "id": "muster_of_the_pale_star_army",
+  "name": "Soluk Yıldız Ordusunun İçtiması",
+  "description": "\"Kanyonu sadece şans eseri ele geçirdiler. O gülünç derecede kibirli ahmak, artık hızını yitirmiş bir oktan ya da dinmekte olan bir fırtınadan farksız.\"<br/>\"Tüm güçlerini kullansalar bile ordumuzun çok ufak bir kısmını ancak durdurabiliyorlar. Çok yakında bozguna uğradıkları açıkça görülecek.\"<br/>\"Askerler, ileri! Kralımız çoktan müjdeyi verdi, bu seferimiz zahmetsiz bir zaferle nihayete erecek!\"",
+  "source": [
+    "Yer Tutucu - Üretilebilir Miktar: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114085,
+        "id": "rise_of_the_pale_star_army",
+        "name": "Soluk Yıldız Ordusunun Yükselişi",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Döküm Zindanı: Lanetli Saplantının Yara İzleri",
+  "days": [
+    "Pazartesi",
+    "Perşembe",
+    "Pazar"
+  ]
+}

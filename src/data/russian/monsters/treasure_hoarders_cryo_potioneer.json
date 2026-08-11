@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Прочие человеческие фракции",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Ice_01",
   "description": "Члены децентрализованной организации разбойников, чьи следы можно встретить в любой части континента и даже в глубоких неизведанных подземельях.\\nКрио химики у Похитителей сокровищ в почёте, так как их «чудодейственные эликсиры» могут быстро заморозить что угодно. Даже если рядом нет туманных цветов, они всё равно могут легко охладить вино.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

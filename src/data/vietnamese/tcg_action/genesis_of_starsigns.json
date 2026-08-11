@@ -1,0 +1,39 @@
+{
+  "_id": 212032,
+  "id": "genesis_of_starsigns",
+  "shareId": 614,
+  "name": "Nguồn Gốc Sao Trời",
+  "title": "Mona - Nguồn Gốc Sao Trời",
+  "desc": "\"Nếu như nhà chiêm tinh trong câu chuyện sau này thực sự nhận đệ tử, chắc hẳn cũng sẽ không dùng cách thức thử thách kỳ quặc như vậy đâu. Ừm, có lẽ là vậy.\"",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Mona</span> Tấn Công Thường sẽ giảm tiêu hao 1 <span style=\"color:#FFFFFFFF\">Nguyên Tố Không Màu</span>, đồng thời sau khi Tấn Công Thường, sát thương phản ứng Bốc Hơi lần sau phe ta gây ra sẽ +2.",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Nguyên Tố Thủy",
+    "card_type": "Thẻ Trang Bị",
+    "energy": [
+      {
+        "_id": 1102,
+        "id": "hydro",
+        "type": "Nguyên Tố Thủy",
+        "count": 1
+      },
+      {
+        "_id": 1109,
+        "id": "unaligned_element",
+        "type": "Nguyên Tố Không Màu",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Thiên Phú",
+      "Hành Động Chiến Đấu",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Hành Động Chiến Đấu</span>: Trang bị thẻ bài này khi nhân vật xuất chiến phe ta là <span style=\"color:#FFFFFFFF\">Mona</span>.<br/>Mona sau khi trang bị thẻ bài này, sát thương phản ứng Bốc Hơi lần sau phe ta gây ra sẽ +2, và lập tức dùng 1 lần <span style=\"color:#FFD780FF\">Điểm Hóa Nhân Quả</span>.<br/><span style=\"color:#FFFFFFFF\">Mona</span> Tấn Công Thường sẽ giảm tiêu hao 1 <span style=\"color:#FFFFFFFF\">Nguyên Tố Không Màu</span>, đồng thời sau khi Tấn Công Thường, sát thương phản ứng Bốc Hơi lần sau phe ta gây ra sẽ +2.<br/>(Bộ bài có Mona mới có thể thêm)"
+    }
+  ]
+}

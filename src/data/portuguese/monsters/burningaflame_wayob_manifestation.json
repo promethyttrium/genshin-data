@@ -13,8 +13,6 @@
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Wayob_Flamingo",
   "description": "O Clã das Plumas de Flores acredita e venera o Wayob, que se manifesta na terra com o poder de totens e Espíritos da Noite.\\nDizem que há muito tempo, Manifestações Wayob pareciam bem diferentes de como são hoje, tomando uma forma mais grosseira que era mais similar a uma estátua de obsidiana. Mas uma vez que seus contornos foram registrados em pergaminhos tecidos, eles sofreram pouquíssimas mudanças desde então.\\nO povo do Clã das Plumas de Flores acredita que seu Wayob consegue controlar o fogo e as chamas, além de poder controlar o fluxo de calor e ventos ardentes.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

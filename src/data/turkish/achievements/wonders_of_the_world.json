@@ -278,8 +278,8 @@
     },
     {
       "id": 81032,
-      "name": "GÖREV BAŞARISIZ",
-      "desc": "Canavar Avında hedefin izini kaybettin.",
+      "name": "GÖREV BAŞARISIZ VEYA...",
+      "desc": "Bir Canavar Avı sırasında hedefin izini kaybettin veya artık Canavar Avlarının peşine düşmene gerek kalmadı...",
       "reward": 5,
       "hidden": true,
       "order": 1033
@@ -4641,6 +4641,214 @@
       "order": 1699
     },
     {
+      "id": 81700,
+      "name": "Biraz Kal, Çok Güzelsin",
+      "desc": "Bir mola ver ve Kara Gömülü Saray ile beyaz huş ağaçlarının güzelliğinin tadını çıkar.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1700
+    },
+    {
+      "id": 81701,
+      "name": "Yarının Diyarını Aşan",
+      "desc": "Soluk Taç Sarayı'nda birinin geride bıraktığı tüm yadigarları topla.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1701
+    },
+    {
+      "id": 81702,
+      "name": "Bileşik Etki",
+      "desc": "En büyük kar topunu yuvarla.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1702
+    },
+    {
+      "id": 81703,
+      "name": "Düğün Çanları",
+      "desc": "Artık döngüde olmayan çanı çal.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1703
+    },
+    {
+      "id": 81704,
+      "name": "Kimin İçin Çalıyor?",
+      "desc": "Serbest kalan çan bir kez daha çalsın.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1704
+    },
+    {
+      "id": 81705,
+      "name": "Karşılaşmadaki Yanılsamalar",
+      "desc": "Sıkıntı sahibinin sonunda huzura kavuşmasını sağla.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1705
+    },
+    {
+      "id": 81706,
+      "name": "Sınırlar ve Gösteriler",
+      "desc": "Belki de bir esere, sadece başka bir tür bağ kurabilmesi için bir isim veriliyordur.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1706
+    },
+    {
+      "id": 81707,
+      "name": "Yaşıyorlar",
+      "desc": "\"Graeae'in Gözü\"nü ilk kez tak.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1707
+    },
+    {
+      "id": 81708,
+      "name": "Kar, Kristal ve Hız",
+      "desc": "Eski trenine yeni bir hayat ver.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1708
+    },
+    {
+      "id": 81709,
+      "name": "Sahte İhtişam Salonundan Geçerken",
+      "desc": "Hesperides Köşkü'ndeki tüm tabloları topla ve ardındaki gizli hazineyi aç.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1709
+    },
+    {
+      "id": 81710,
+      "name": "Gelecekteki Her Sen İçin",
+      "desc": "Henüz o haline ulaşmamış olsan bile.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1710
+    },
+    {
+      "id": 81711,
+      "name": "Çünkü Saray Orada",
+      "desc": "Zapolyarny Sarayı'nın en yüksek noktasına ulaş.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1711
+    },
+    {
+      "id": 81712,
+      "name": "Kışın Son Gülü",
+      "desc": "... Ateşe uçan bir güve gibi yok oluyor.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1712
+    },
+    {
+      "id": 81714,
+      "name": "Kardan Adamdan Daha Soğuk",
+      "desc": "Natlanlı bir rakibe karşı \"soğuğa dayanma yarışmasını\" kazan.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1714
+    },
+    {
+      "id": 81715,
+      "name": "Ya-ho!",
+      "desc": "\"Köy Şefi\" Ayaz Perisinin Volkodlak istilasını püskürtmesine yardım et.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1715
+    },
+    {
+      "id": 81716,
+      "name": "Yüksek Şuranın Üzerinde",
+      "desc": "\"Yüksek Şura\"nın Domovoy tarafından yapıldığını hâlâ kim hatırlıyor?",
+      "reward": 5,
+      "hidden": true,
+      "order": 1716
+    },
+    {
+      "id": 81717,
+      "name": "Buz Dağı Batar ve Bir Daha Asla Yükselmez",
+      "desc": "Devasa Snegovikin sonuna tanık ol.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1717
+    },
+    {
+      "id": 81718,
+      "name": "\"Vişne Bahçesi Satıldı\"",
+      "desc": "Buz üzerindeki kulübenin ters dönüp hareketsiz kalmasına ve sonunda batmasına tanık ol.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1718
+    },
+    {
+      "id": 81720,
+      "name": "Rota Başarıyla Oluşturuldu",
+      "desc": "Tek seferde yatay olarak 30 metre ilerlemek için bir Bağlantı Mekanizması kullan.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1720
+    },
+    {
+      "id": 81721,
+      "name": "İlham Gibi Bir Şey",
+      "desc": "Yere düşmeden kaybolmaya başlayan bir kar topu fırlat.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1721
+    },
+    {
+      "id": 81722,
+      "name": "Buradan Asla Geçemezsin",
+      "desc": "Yuvarlanan bir kar topunu başarıyla durdur.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1722
+    },
+    {
+      "id": 81724,
+      "name": "Sağlam Dizler",
+      "desc": "20 saniye boyunca kaymaya devam et.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1724
+    },
+    {
+      "id": 81728,
+      "name": "Eski Bir Vaat",
+      "desc": "O zamanlar Zolnyy'nin bir kralı yoktu ve herkes istediği gibi davranırdı...",
+      "reward": 5,
+      "hidden": true,
+      "order": 1728
+    },
+    {
+      "id": 81729,
+      "name": "Koski, Seçenekler.",
+      "desc": "Natlanlı kadının Akaralev Kuşu yoldaşını sakinleştirmesine yardım et.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1729
+    },
+    {
+      "id": 81730,
+      "name": "Hayalim Donup Şekil Alırken",
+      "desc": "Deniz fenerinin tepesinde, kızın bir heykel olarak beliren hayaletine yaklaş.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1730
+    },
+    {
+      "id": 81731,
+      "name": "Sarhoşluğu Sabit Görülmüştür",
+      "desc": "Gerçekten sarhoş olan birini her zaman uyandırabilirsin.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1731
+    },
+    {
       "id": 82008,
       "name": "Ezici Güç",
       "desc": "Bir Toprak Hipostazı yeniden canlanmadan önce tüm Diriliş Kaya Sütunlarını parçala.",
@@ -5451,6 +5659,22 @@
       "order": 2309
     },
     {
+      "id": 82310,
+      "name": "Dur... Dur... Şimdi!",
+      "desc": "Yaşam Işığı durumundayken bir Ölümsüz Yapının Can Kalkanını kırarak saldırısını yarıda kes.",
+      "reward": 5,
+      "hidden": true,
+      "order": 2310
+    },
+    {
+      "id": 82311,
+      "name": "Kanatlı Aslanın Düşüşü",
+      "desc": "Kimerik Kanatlı Aslan \"Bora Gücü\" durumundayken tüm Rüzgar Kürelerini yok ederek onu gökyüzünden yere indir.",
+      "reward": 5,
+      "hidden": true,
+      "order": 2311
+    },
+    {
       "id": 84000,
       "name": "Başlangıcın Sonu",
       "desc": "Mondstadt Hükümdar Görevlerini tamamla.",
@@ -6233,6 +6457,14 @@
       "reward": 5,
       "hidden": true,
       "order": 4107
+    },
+    {
+      "id": 84584,
+      "name": "Yükselen Siyah Kar Kuğusu",
+      "desc": "Hiçbir kar kuğusunun erişemediği zirvelere ulaşır, hiçbir kar kuğusunun düşlemediği hayalleri kurardım.",
+      "reward": 5,
+      "hidden": true,
+      "order": 4108
     },
     {
       "id": 85000,
@@ -7593,6 +7825,70 @@
       "reward": 10,
       "hidden": true,
       "order": 5165
+    },
+    {
+      "id": 84391,
+      "name": "Kükreyen Kar Fırtınası Uvertürü",
+      "desc": "Snezhnaya'da treni rüzgar ve karın içinden sür.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5166
+    },
+    {
+      "id": 84392,
+      "name": "Soluk Yıldız'ın Gizemli Oyunu",
+      "desc": "Buz mağarasından \"Exaiphanes Kılıcı\"nı al.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5167
+    },
+    {
+      "id": 84393,
+      "name": "Uğuldayan Fırtına",
+      "desc": "Yoldaşının Rokot'a katılma davetini kabul et.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5168
+    },
+    {
+      "id": 84394,
+      "name": "Merhametsiz Ebedi Kış",
+      "desc": "\"Merhametsiz Ebedi Kış\"ı tamamla.",
+      "reward": 10,
+      "hidden": true,
+      "order": 5169
+    },
+    {
+      "id": 84395,
+      "name": "Ya Aşk Ya Pişmanlık Valsi",
+      "desc": "Ruh Arayıcısının prova gösterisini izle.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5170
+    },
+    {
+      "id": 84396,
+      "name": "Döngünün Ötesi",
+      "desc": "Mitya'nın kar fırtınasına doğru yürümesine tanık ol.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5171
+    },
+    {
+      "id": 84397,
+      "name": "Kaderdeki Üç Ölüm",
+      "desc": "Öbür dünyada hayatta kal.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5172
+    },
+    {
+      "id": 84398,
+      "name": "Hayaletin Noktürnü",
+      "desc": "\"Hayaletin Noktürnü\" görevini tamamla.",
+      "reward": 10,
+      "hidden": true,
+      "order": 5173
     },
     {
       "id": 84155,

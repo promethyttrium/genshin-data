@@ -8,14 +8,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "สิ่งมีชีวิตธาตุ",
   "filename_icon": "UI_MonsterIcon_Slime_Electric_03_Positive",
   "description": "มอนสเตอร์ที่เกิดจากการควบแน่นของธาตุไฟฟ้าที่กระจายอยู่ทั่วไปในธรรมชาติ\\nSlime สีเหลืองสดใสที่เกิดจากการกลายพันธุ์ของ Electro Slime เพราะร่างกายที่อุดมไปด้วยธาตุไฟฟ้า จึงมักจะปล่อยไฟฟ้าออกมาใส่บริเวณรอบ ๆ อยู่เป็นช่วง ๆ และสามารถปล่อยอาร์กไฟฟ้าไปยัง Electro Slime ที่อยู่ใกล้เคียงได้; แต่จะไม่มีกระแสไฟฟ้าวิ่งผ่านระหว่าง Electro Slime สีม่วง ซึ่งหากมองจากมุมนี้ ดูเหมือนว่า Electro Slime จะมีอยู่สองขั้ว\\nพิจารณาจากสิ่งนี้ บางทีนี่อาจเป็นจุดเริ่มต้นของสาขาวิชาอันยิ่งใหญ่บางอย่างก็เป็นได้...",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

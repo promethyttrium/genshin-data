@@ -45,7 +45,6 @@
   "description": "Taşı kalkan olarak kullanan kaslı bir dağ yabanisi.\\nDağ yabanileri için savaşmak ve et yemek her şeyden önemlidir, güç kazanmalarının yolu bu ikisinden geçer.\\nGenç dağ yabanilerinin hayali, büyüyüp kocaman ve kuvvetli bir dağ azmanı olmaktır. Böylelikle daha fazla et yiyip savaşabilecek ve parçalanması (neredeyse) imkansız olan o devasa taş kalkanları kuşanabilecekler.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 2,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.3,

@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Còi Sắt Chiến Binh",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Còi Gỗ Hộ Vệ",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Hookwalker",
   "description": "Chiến sĩ mạnh mẽ đến từ Vườn Treo, với lòng dũng cảm được công nhận và được trao cho vương miện Saurian.\\nChiến sĩ có thể mượn dây móc để mở rộng phạm vi tấn công. Dây móc là một phần không thể thiếu trong cuộc sống của thành viên bộ tộc Dòng Dõi Vườn Treo. Nhưng dù là như vậy, thì chỉ có những chiến sĩ điên cuồng nhất mới kết hợp dây móc với lưỡi cưa, biến chúng thành loại vũ khí khó điều khiển nhưng lại gây ra sát thương cực lớn.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

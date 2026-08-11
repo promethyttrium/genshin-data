@@ -17,6 +17,11 @@
     "น้ำ",
     "ไฟฟ้า"
   ],
+  "daysOfWeek": [
+    "วันพุธ",
+    "วันเสาร์",
+    "วันอาทิตย์"
+  ],
   "domainType": "UI_ABYSSUS_AVATAR_PROUD",
   "domainText": "Talent Level-Up Material",
   "rewardPreview": [

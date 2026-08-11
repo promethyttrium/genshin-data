@@ -1,0 +1,68 @@
+{
+  "_id": 4718,
+  "id": "domain_of_forgery_severed_steel_iv",
+  "name": "Domain of Forgery: Baja Patah IV",
+  "entranceId": 2106,
+  "entranceName": "Scars of Cursed Obsession",
+  "description": "Para pemberontak yang memendam ambisi pernah bersembunyi di sini, mengharapkan impian untuk memulihkan masa lalu. Impian mereka mati bersama nyala api merah darah, hanya menyisakan abu putih tak berujung.\nMengalahkan musuh yang ada di sini dapat memberikanmu barang berharga untuk memperkuat peralatanmu.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 80,
+  "unlockRank": 40,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "Anemo",
+    "Cryo"
+  ],
+  "daysOfWeek": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Adventure EXP",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "2200"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Companionship EXP",
+      "count": "20"
+    },
+    {
+      "_id": 114096,
+      "id": "the_frost_emperors_farewell",
+      "name": "The Frost Emperor's Farewell"
+    },
+    {
+      "_id": 114095,
+      "id": "the_frost_emperors_lament",
+      "name": "The Frost Emperor's Lament"
+    },
+    {
+      "_id": 114094,
+      "id": "the_frost_emperors_ceremony",
+      "name": "The Frost Emperor's Ceremony"
+    },
+    {
+      "_id": 114093,
+      "id": "the_frost_emperors_revival",
+      "name": "The Frost Emperor's Revival"
+    }
+  ],
+  "monsterList": []
+}

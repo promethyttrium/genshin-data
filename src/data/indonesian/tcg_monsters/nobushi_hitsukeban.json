@@ -8,14 +8,18 @@
     "hp": 6,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Senjata Lain",
     "faction": []
   },
   "skills": [
     {
       "id": "combo_slash",
       "name": "Combo Slash",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -34,8 +38,10 @@
     {
       "id": "blaze_bloom",
       "name": "Blaze Bloom",
-      "desc": "Mengakibatkan ? poin ? dan mengganti Karaktermu ke Karakter selanjutnya.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#FF9999FF\">Pyro DMG</span> dan mengganti Karaktermu ke Karakter selanjutnya.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,7 +55,9 @@
       "id": "iai_sheathed",
       "name": "Iai: Sheathed",
       "desc": "Karakter ini <span style=\"color:#FFFFFFFF\">mempersiapkan Skill</span>: <span style=\"color:#FFFFFFFF\">Iai: Thrust</span>",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1108,
@@ -69,7 +77,9 @@
       "id": "zanshin",
       "name": "Zanshin",
       "desc": "[Pasif] Tahap Selesai: Jika Karakter ini merupakan Karakter Aktif, memperoleh 1 Energy.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

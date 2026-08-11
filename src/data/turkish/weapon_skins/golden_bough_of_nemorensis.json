@@ -1,0 +1,21 @@
+{
+  "_id": 310003,
+  "id": "golden_bough_of_nemorensis",
+  "name": "Nemorensis'in Altın Dalı",
+  "description": "Ley Hatlarının derinliklerinden gün yüzüne çıkan fevkalade ve düşsel bir silah. Sahibinin Element Türüne göre farklı bir surete bürünebilir. Rivayet odur ki, tüm geçmiş günlerin anılarının ötesinde kalan kadim bir çağda, yüce göklerin ilahi bir elçisi bu uzun kılıcı Arkadya'nın başrahibine bahşetmiş ve ona, bin rüzgarın kutsadığı kutsal şehre liderlik etme hakkı tanımıştır.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Kılıç"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "Işıltılı Dönüşüm: Sonsuzluk",
+    "priority": 2
+  },
+  "item_id": 341103,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphNemorensis_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphNemorensis"
+}

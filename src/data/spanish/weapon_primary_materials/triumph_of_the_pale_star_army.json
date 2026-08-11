@@ -1,0 +1,29 @@
+{
+  "_id": 114088,
+  "id": "triumph_of_the_pale_star_army",
+  "name": "Triunfo del ejército de la Estrella Albina",
+  "description": "“Oh, protector de todas las hadas, heredero de la Estrella Albina, soberano nacido de un linaje sagrado... Oh, Zar Belyi...<br/>¡Alabado sea! Pues las llanuras heladas se han unido como una sola bajo el resplandor de la estrella polar.<br/>¡Alabado sea! Pues su majestad dio muerte al falso rey y acogió a todas las hadas con su infinita benevolencia y compasión”.",
+  "source": [
+    "Cantidad sintetizable: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114087,
+        "id": "clarion_of_the_pale_star_army",
+        "name": "Mandato del ejército de la Estrella Albina",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio de la forja: Cicatriz de la obsesión",
+  "days": [
+    "Lunes",
+    "Jueves",
+    "Domingo"
+  ]
+}

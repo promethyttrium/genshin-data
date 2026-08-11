@@ -8,16 +8,20 @@
     "hp": 4,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Senjata Lain",
     "faction": [
-      null
+      "Monster"
     ]
   },
   "skills": [
     {
       "id": "bounce",
       "name": "Bounce",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#80C0FFFF\">Hydro DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -36,8 +40,10 @@
     {
       "id": "slam",
       "name": "Slam",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 4 poin <span style=\"color:#80C0FFFF\">Hydro DMG</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -57,7 +63,9 @@
       "id": "elemental_sedimentation_hydro",
       "name": "Elemental Sedimentation: Hydro",
       "desc": "[Pasif] Saat pertandingan dimulai, Karakter ini memperoleh <span style=\"color:#FFFFFFFF\">Elemental Lifeform: Hydro</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

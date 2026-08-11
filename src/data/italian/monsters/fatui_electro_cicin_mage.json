@@ -52,7 +52,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Summoner_01",
   "description": "Una Maga dei Fatui che può comandare Cicin di Electro in battaglia. La sua origine e il suo aspetto sotto la maschera sono entrambi un mistero.\\nAnalogamente al modo in cui i Cicin di Electro impazziscono per l'Erbafosca, le Maghe Cicin si divertono molto a giocare con la loro preda.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

@@ -1,0 +1,1253 @@
+{
+  "_id": 10000148,
+  "id": "alyosha",
+  "name": "Alyosha",
+  "title": "Flinker Jagdhund",
+  "description": "Ein „Berufsjäger“, der die Schneefelder von Snezhnaya durchstreift. Unter seinem ruhigen Äußeren scheint sich ein besonders feuriges „Ideal“ zu verbergen.",
+  "weapon_type": {
+    "id": "polearm",
+    "name": "Stangenwaffe"
+  },
+  "element": {
+    "id": "electro",
+    "name": "Elektro"
+  },
+  "gender": {
+    "id": "male",
+    "name": "Männlich"
+  },
+  "release": 1786395600,
+  "substat": "Aufladerate",
+  "affiliation": "Snezhnaya",
+  "region": {
+    "id": "snezhnaya",
+    "name": "Snezhnaya"
+  },
+  "rarity": 4,
+  "birthday": [
+    9,
+    2
+  ],
+  "constellation": "Canis Borzoides",
+  "domain": "Sphäre des Verständnisses: Eremitage",
+  "cv": {
+    "english": "Kevin Andrew Rivera",
+    "chinese": "王辅平",
+    "japanese": "佐藤元",
+    "korean": "Kim Hye-sung"
+  },
+  "skills": [
+    {
+      "_id": 11481,
+      "id": "skirmishing_spear",
+      "name": "Speerjagd",
+      "description": "<span style=\"color:#FFD780FF\">Standardangriff</span><br/>Führt bis zu 4 Lanzenstiche hintereinander aus und belegt einen Gegner bei dessen letztem Treffer mit dem Effekt <b><span style=\"color:#FFD780FF\">Mal der Jäger</span></b>.<br/><br/><span style=\"color:#FFD780FF\">Heftiger Schlag</span><br/>Verbraucht eine gewisse Menge Ausdauer, sticht geschwind nach vorn und fügt allen Gegnern in der Bahn Schaden zu.<br/><br/><span style=\"color:#FFD780FF\">Angriff aus dem Fall</span><br/>Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "SCH Phase 1",
+          "values": [
+            "47.8%",
+            "51.7%",
+            "55.6%",
+            "61.2%",
+            "65.1%",
+            "69.5%",
+            "75.6%",
+            "81.7%",
+            "87.8%",
+            "94.5%",
+            "101.2%",
+            "107.9%",
+            "114.5%",
+            "121.2%",
+            "127.9%"
+          ]
+        },
+        {
+          "label": "SCH Phase 2",
+          "values": [
+            "48.2%",
+            "52.1%",
+            "56%",
+            "61.6%",
+            "65.5%",
+            "70%",
+            "76.2%",
+            "82.3%",
+            "88.5%",
+            "95.2%",
+            "101.9%",
+            "108.6%",
+            "115.4%",
+            "122.1%",
+            "128.8%"
+          ]
+        },
+        {
+          "label": "SCH Phase 3",
+          "values": [
+            "34.2% + 31.8%",
+            "37% + 34.4%",
+            "39.8% + 37%",
+            "43.8% + 40.7%",
+            "46.6% + 43.3%",
+            "49.8% + 46.3%",
+            "54.1% + 50.3%",
+            "58.5% + 54.4%",
+            "62.9% + 58.5%",
+            "67.7% + 62.9%",
+            "72.4% + 67.3%",
+            "77.2% + 71.8%",
+            "82% + 76.2%",
+            "86.8% + 80.7%",
+            "91.5% + 85.1%"
+          ]
+        },
+        {
+          "label": "SCH Phase 4",
+          "values": [
+            "75.9%",
+            "82%",
+            "88.2%",
+            "97%",
+            "103.2%",
+            "110.3%",
+            "120%",
+            "129.7%",
+            "139.4%",
+            "149.9%",
+            "160.5%",
+            "171.1%",
+            "181.7%",
+            "192.3%",
+            "202.9%"
+          ]
+        },
+        {
+          "label": "SCH heftiger Schläge",
+          "values": [
+            "111%",
+            "120.1%",
+            "129.1%",
+            "142%",
+            "151%",
+            "161.4%",
+            "175.6%",
+            "189.8%",
+            "204%",
+            "219.5%",
+            "235%",
+            "250.5%",
+            "265.9%",
+            "281.4%",
+            "296.9%"
+          ]
+        },
+        {
+          "label": "Ausdauerverbrauch heftiger Schläge",
+          "values": [
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte"
+          ]
+        },
+        {
+          "label": "SCH beim Fallen",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "SCH beim Fallen aus niedriger/großer Höhe",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11482,
+      "id": "thunderbolt_strike",
+      "name": "Lauernder Donner",
+      "description": "Folge dem Instinkt des Jägers. Erzeugt je nach Drücken oder Gedrückthalten unterschiedliche Effekte und belegt einen getroffenen Gegner mit dem Effekt <b><span style=\"color:#FFD780FF\">Mal der Jäger</span></b>.<br/><br/><span style=\"color:#FFD780FF\">Drücken</span><br/>Schießt nach vorn und verursacht <span style=\"color:#FFACFFFF\">Elektro-Flächenschaden</span>.<br/><br/><span style=\"color:#FFD780FF\">Gedrückthalten</span><br/>Tritt in den Zielmodus ein und wählt Gegner aus, die sich in einem bestimmten Bereich davor befinden. Erhöht in diesem Zustand Alyoshas Unterbrechungs-WDS.<br/>Fügt den ausgewählten Gegnern beim Ende des Gedrückthaltens <span style=\"color:#FFACFFFF\">Elektro-Schaden</span> zu.",
+      "info": "Ein unvorsichtiger Jäger kletterte einst zur Lanzenspitze. Danach überlebte er zum Glück diese blutige Lektion und verstand die wahre Überlebensregel im Schneefeld.",
+      "attributes": [
+        {
+          "label": "SCH bei Drücken",
+          "values": [
+            "286.7%",
+            "308.2%",
+            "329.7%",
+            "358.4%",
+            "379.9%",
+            "401.4%",
+            "430.1%",
+            "458.8%",
+            "487.4%",
+            "516.1%",
+            "544.8%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%"
+          ]
+        },
+        {
+          "label": "SCH bei Gedrückthalten",
+          "values": [
+            "358.4%",
+            "385.3%",
+            "412.2%",
+            "448%",
+            "474.9%",
+            "501.8%",
+            "537.6%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%",
+            "716.8%",
+            "761.6%",
+            "806.4%",
+            "851.2%"
+          ]
+        },
+        {
+          "label": "Abklingzeit",
+          "values": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "label": "Dauer von „Mal der Jäger“",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "ANG-Bonus für „Genauigkeit der Jäger“",
+          "values": [
+            "11.7%",
+            "12.7%",
+            "13.8%",
+            "14.8%",
+            "15.9%",
+            "17%",
+            "18%",
+            "19.1%",
+            "20.1%",
+            "21.2%",
+            "22.5%",
+            "23.7%",
+            "25%",
+            "26.3%",
+            "27.6%"
+          ]
+        },
+        {
+          "label": "Dauer von „Genauigkeit der Jäger“",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11485,
+      "id": "hunters_advance",
+      "name": "Jagdrevier",
+      "description": "Beschwört den treuen Gefährten <span style=\"color:#FFD780FF\">Tugarin</span>, um gemeinsam in den Kampf zu ziehen, und verwandelt den Bereich davor kurzzeitig in ein <span style=\"color:#FFD780FF\">donnerndes Jagdrevier</span>.<br/><br/><span style=\"color:#FFD780FF\">Donnerndes Jagdrevier</span><br/>· Verspottet Gegner in der Umgebung fortlaufend und zieht ihre Angriffe auf sich.<br/>· Fügt Gegnern, die diesen Bereich betreten, alle 2 s einmal <span style=\"color:#FFACFFFF\">Elektro-Flächenschaden</span> zu.<br/><br/><span style=\"color:#FFD780FF\">Tugarin</span><br/>· Bewegt sich, wenn sich in der Umgebung Gegner befinden, alle 2 s schnell in die Nähe eines Gegners, greift diesen mit Bissangriffen an und fügt ihm <span style=\"color:#FFD780FF\">Elektro-Schaden</span> zu.<br/>· Aktiviert zudem, wenn der getroffene Gegner vom Effekt <span style=\"color:#FFD780FF\">Mal der Jäger</span> betroffen ist, den Effekt <span style=\"color:#FFD780FF\">Mal der Jäger</span>.<br/>· Greift bevorzugt vom Effekt <span style=\"color:#FFD780FF\">Mal der Jäger</span> beeinflusste Gegner an.",
+      "info": "Er wartet und wartet, bis die Ungeduld nachlässt. Dann fliegt ein Rotbauch-Pfeifer über den Birkenwald und erwartet seinen Schuss.",
+      "attributes": [
+        {
+          "label": "SCH durch „Donnerndes Jagdrevier“",
+          "values": [
+            "75%",
+            "80.6%",
+            "86.2%",
+            "93.7%",
+            "99.3%",
+            "104.9%",
+            "112.4%",
+            "119.9%",
+            "127.4%",
+            "134.9%",
+            "142.4%",
+            "149.9%",
+            "159.3%",
+            "168.7%",
+            "178%"
+          ]
+        },
+        {
+          "label": "SCH durch Tugarin",
+          "values": [
+            "50.2%",
+            "54%",
+            "57.8%",
+            "62.8%",
+            "66.5%",
+            "70.3%",
+            "75.3%",
+            "80.4%",
+            "85.4%",
+            "90.4%",
+            "95.4%",
+            "100.4%",
+            "106.7%",
+            "113%",
+            "119.3%"
+          ]
+        },
+        {
+          "label": "Dauer",
+          "values": [
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s"
+          ]
+        },
+        {
+          "label": "Abklingzeit",
+          "values": [
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s"
+          ]
+        },
+        {
+          "label": "Elementarenergie",
+          "values": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "awakened_by_the_baying_hounds",
+      "name": "Erwecken der schlummernden Waldlinie",
+      "description": "Stellt, wenn <b><span style=\"color:#FFD780FF\">Tugarin</span></b> angreift, dem aktuellen Truppenmitglied in der Nähe LP in Höhe von 120 % von Alyoshas ANG wieder her.",
+      "level": 1
+    },
+    {
+      "id": "suffer_the_winter_wheat_will",
+      "name": "Abschied von Weizen und Blättern",
+      "description": "Erhöht basierend auf Alyoshas Aufladerate den durch Alyoshas Elementarfähigkeit und Spezialfähigkeit verursachten Schaden: Erhöht den oben genannten Schaden pro Prozentpunkt der Aufladerate um 0,35 %, auf maximal 70 %.",
+      "level": 4
+    },
+    {
+      "id": "into_the_fray",
+      "name": "Sternenreise ins Gefahrengebiet",
+      "description": "Versetzt Alyosha, wenn er sich im <b><span style=\"color:#FFD780FF\">Sternglanzfeld</span></b> befindet, in den Zustand <span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>.<br/><span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>: Verleiht beim Aktivieren von <b><span style=\"color:#FFD780FF\">Mal der Jäger</span></b> den Effekt <span style=\"color:#FFD780FF\">Genauigkeit der Jäger</span> und erhöht zudem, wenn sich die Figur auf dem Feld befindet, den Schaden durch die Reaktion Stellar-Supraleiter um 25 %.",
+      "level": 0
+    },
+    {
+      "id": "treetop_watch",
+      "name": "Baumwache",
+      "description": "Zeigt alle <span style=\"color:#FFD780FF\">Besonderheiten Snezhnayas</span> in der Nähe auf der Minikarte an.",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1481,
+      "id": "frostvale_thunderclap",
+      "name": "Donner im Eistal",
+      "description": "Stellt, wenn Truppenmitglieder in der Nähe bei Gegnern eine <span style=\"color:#FFACFFFF\">Elektro-Reaktion</span> auslösen, Alyosha 15 Punkte Elementarenergie wieder her, 18 s Abklingzeit.",
+      "level": 1
+    },
+    {
+      "_id": 1482,
+      "id": "howl_from_afar",
+      "name": "Ferne Botschaft des Heulens",
+      "description": "Verlängert die Dauer der Spezialfähigkeit <span style=\"color:#FFD780FF\">Jagdrevier</span> um 6 s.<br/>Zusätzlich belegt <b><span style=\"color:#FFD780FF\">Tugarin</span></b> vor jedem Angriff ein Ziel mit dem <b><span style=\"color:#FFD780FF\">Mal der Jäger</span></b>. Dieser Effekt aktiviert kein bereits vorhandenes <span style=\"color:#FFD780FF\">Mal der Jäger</span>.",
+      "level": 2
+    },
+    {
+      "_id": 1483,
+      "id": "friendly_call",
+      "name": "Ruf der Gefährten",
+      "description": "Erhöht die Stufe der Elementarfähigkeit <span style=\"color:#FFD780FF\">Lauernder Donner</span> um 3.<br/>Höchststufe 15.",
+      "level": 3
+    },
+    {
+      "_id": 1484,
+      "id": "harvest_the_spoils",
+      "name": "Beute sichern",
+      "description": "Stellt, wenn <b><span style=\"color:#FFD780FF\">Tugarin</span></b> angreift, dem Truppenmitglied in der Nähe mit dem niedrigsten LP-Anteil LP in Höhe von 60 % von Alyoshas ANG wieder her.",
+      "level": 4
+    },
+    {
+      "_id": 1485,
+      "id": "when_the_nightbird_falls_silent",
+      "name": "Wenn der Vogelruf verstummt",
+      "description": "Erhöht die Stufe der Spezialfähigkeit <span style=\"color:#FFD780FF\">Jagdrevier</span> um 3.<br/>Höchststufe 15.",
+      "level": 5
+    },
+    {
+      "_id": 1486,
+      "id": "standard_reclaimed",
+      "name": "Rückeroberung des Banners",
+      "description": "Verleiht, wenn <b><span style=\"color:#FFD780FF\">Mal der Jäger</span></b> aktiviert wird, <span style=\"color:#FFD780FF\">Genauigkeit der Jäger</span>. Dieser Effekt ist bis zu 2-fach stapelbar. Erhöht bei 2 Stapeln zudem die Elementarkunde der von diesem Effekt beeinflussten aktuellen Figur um 100 Punkte.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "-",
+            "1003"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "-",
+            "22"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "-",
+            "59"
+          ]
+        },
+        {
+          "label": "Aufladerate",
+          "values": [
+            "-",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "2577",
+            "3326"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "57",
+            "74"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "151",
+            "195"
+          ]
+        },
+        {
+          "label": "Aufladerate",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "4982",
+            "5514"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "111",
+            "122"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "293",
+            "324"
+          ]
+        },
+        {
+          "label": "Aufladerate",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104141,
+        "id": "vajrada_amethyst_sliver",
+        "name": "Vajrada-Amethyst-Splitter",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Wollgras",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Chimärischer Kern",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "6343",
+            "7052"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "141",
+            "157"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "373",
+            "414"
+          ]
+        },
+        {
+          "label": "Aufladerate",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "Vajrada-Amethyst-Bruchstück",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Abgetrennter Schweif des Himmelswanderers",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Wollgras",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Chimärischer Kern",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "7881",
+            "8413"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "175",
+            "187"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "463",
+            "494"
+          ]
+        },
+        {
+          "label": "Aufladerate",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "Vajrada-Amethyst-Bruchstück",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Abgetrennter Schweif des Himmelswanderers",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Wollgras",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Symbiontischer chimärischer Nukleus",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "9241",
+            "9773"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "205",
+            "217"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "543",
+            "574"
+          ]
+        },
+        {
+          "label": "Aufladerate",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "Vajrada-Amethyst-Brocken",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Abgetrennter Schweif des Himmelswanderers",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Wollgras",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Symbiontischer chimärischer Nukleus",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "10602",
+            "11134"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "235",
+            "247"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "623",
+            "654"
+          ]
+        },
+        {
+          "label": "Aufladerate",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "Vajrada-Amethyst-Brocken",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Abgetrennter Schweif des Himmelswanderers",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Wollgras",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "Primordiale Chimäre",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "11962",
+            "11962"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "265",
+            "265"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "703",
+            "703"
+          ]
+        },
+        {
+          "label": "Aufladerate",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104144,
+        "id": "vajrada_amethyst_gemstone",
+        "name": "Vajrada-Amethyst",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Abgetrennter Schweif des Himmelswanderers",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Wollgras",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "Primordiale Chimäre",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104368,
+          "id": "teachings_of_fortitude",
+          "name": "Lehren der „Beharrlichkeit“",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Chimärischer Kern",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Anleitung zur „Beharrlichkeit“",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiontischer chimärischer Nukleus",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Anleitung zur „Beharrlichkeit“",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiontischer chimärischer Nukleus",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Anleitung zur „Beharrlichkeit“",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiontischer chimärischer Nukleus",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Anleitung zur „Beharrlichkeit“",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiontischer chimärischer Nukleus",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophie der „Beharrlichkeit“",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Primordiale Chimäre",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixier des Ketzers",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophie der „Beharrlichkeit“",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Primordiale Chimäre",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixier des Ketzers",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophie der „Beharrlichkeit“",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Primordiale Chimäre",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixier des Ketzers",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophie der „Beharrlichkeit“",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Primordiale Chimäre",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixier des Ketzers",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Krone der Weisheit",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 214800,
+      "name": "Jagd im Frost",
+      "description": "Alyoshas Kleidung. Die robuste Jagdkleidung mit dickem Innenfutter und Plüschrand an der Kappe ermöglicht es Alyosha, längere Zeit im Schnee auf der Lauer zu liegen – bis sie die Beute erlegt hat, die sie die ganze Zeit im Visier hatte. Und warum sieht die Kappe aus wie ein Hundekopf? Weil es niedlich ist. Tugarin gefällt es auch.",
+      "isDefault": true,
+      "characterName": "Alyosha",
+      "characterId": 10000148,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Alyosha_Circle"
+    }
+  ]
+}

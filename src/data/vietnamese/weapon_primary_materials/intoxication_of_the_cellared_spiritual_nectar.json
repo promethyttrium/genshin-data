@@ -1,0 +1,29 @@
+{
+  "_id": 114090,
+  "id": "intoxication_of_the_cellared_spiritual_nectar",
+  "name": "Men Say Của Tinh Chất Ủ Hầm",
+  "description": "Thứ mà ở những nơi khác chỉ dùng để ăn mừng mùa màng bội thu, thì đối với các bộ tộc rong ruổi trong giá lạnh, đây lại là điều thiết yếu để sinh tồn.<br/>Tương truyền, các Domovoy với kỹ thuật ủ rượu điêu luyện nhất đã từng dựa vào kỹ thuật này để tích lũy của cải cho kho báu của vị vua mà họ trung thành.<br/>Cứ như vậy, rượu ủ của fae thông qua giao dịch giữa các bộ tộc, tựa như thứ mật ngọt chứa độc lan chảy khắp vùng đất băng giá.",
+  "source": [
+    "Số lượng có thể ghép - chiếm chỗ: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114089,
+        "id": "measured_pour_of_the_cellared_spiritual_nectar",
+        "name": "Cân Nhắc Của Tinh Chất Ủ Hầm",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Bí Cảnh Luyện Võ: Vết Sẹo Vọng Tưởng",
+  "days": [
+    "Thứ 3",
+    "Thứ 6",
+    "Chủ Nhật"
+  ]
+}

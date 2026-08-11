@@ -1,0 +1,32 @@
+{
+  "_id": 213062,
+  "id": "sparkborne_magic",
+  "shareId": 615,
+  "name": "Funkenmagie",
+  "title": "Klee – Funkenmagie",
+  "desc": "„Und so hat die süße kleine Dodo-Magierin mithilfe ihrer Freunde ihre Zulassungsprüfung bestanden. Jetzt ist sie eine echte, vollwertige Dodo-Zauberin! Herzlichen Glückwunsch!“\\n„Aber warte mal, sollten wir nicht eigentlich eine Anmerkung schreiben? Was hat das alles mit der kleinen Hexe zu tun?“",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Nachdem die Figur in diesem Modus <span style=\"color:#FFFFFFFF\">heftige Schläge</span> ausgeführt hat:</span> Verursacht 2 Pkt. <span style=\"color:#FF9999FF\">Pyro-SCH</span> (2-mal pro Runde).",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Pyro",
+    "card_type": "Ausrüstungskarte",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "Pyro",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Talent",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Schnellaktion</span>: Rüste damit deine <span style=\"color:#FFFFFFFF\">Klee</span> aus.<br/>Verleiht Klee <span style=\"color:#FFFFFFFF\">Explosiver Funke</span>.<br/><span style=\"color:#FFFFFFFF\">Nachdem die hiermit ausgerüstete Figur</span> <span style=\"color:#FFFFFFFF\">heftige Schläge</span> ausgelöst hat: Verursacht 2 Pkt. <span style=\"color:#FF9999FF\">Pyro-SCH</span> (2-mal pro Runde).<br/>(Diese Karte kann nur einem Deck hinzugefügt werden, dass Klee enthält.)"
+    }
+  ]
+}

@@ -10,7 +10,7 @@
   },
   "domain": "Domain of Forgery: Lunar Oblation",
   "passive": "White Fairy's Queening",
-  "bonus": "ATK is increased by <span>28%/35%/42%/49%/56%</span>.<br/>Additionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct DMG is increased by <span>16%/20%/24%/28%/32%</span> for 5s. This effect can stack once every 0.2s, max 3 stacks.",
+  "bonus": "ATK is increased by <span>28%/35%/42%/49%/56%</span>.<br/>Additionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct and Stellar Swirl reaction DMG is increased by <span>16%/20%/24%/28%/32%</span> for 5s. This effect can stack once every 0.2s, max 3 stacks.",
   "specialProp": "CRIT DMG",
   "stats": {
     "primary": "Base ATK",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "White Fairy's Queening",
-    "template": "ATK is increased by <span style=\"color:#99FFFFFF\">{0}</span>.<br/>Additionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct DMG is increased by <span style=\"color:#99FFFFFF\">{1}</span> for 5s. This effect can stack once every 0.2s, max 3 stacks.",
+    "template": "ATK is increased by <span style=\"color:#99FFFFFF\">{0}</span>.<br/>Additionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct and Stellar Swirl reaction DMG is increased by <span style=\"color:#99FFFFFF\">{1}</span> for 5s. This effect can stack once every 0.2s, max 3 stacks.",
     "params": [
       [
         "28%",
@@ -307,23 +306,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "ATK is increased by <span>28%</span>.<br/>Additionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct DMG is increased by <span>16%</span> for 5s. This effect can stack once every 0.2s, max 3 stacks."
+      "desc": "ATK is increased by <span>28%</span>.<br/>Additionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct and Stellar Swirl reaction DMG is increased by <span>16%</span> for 5s. This effect can stack once every 0.2s, max 3 stacks."
     },
     {
       "refinement": 2,
-      "desc": "ATK is increased by <span>35%</span>.<br/>Additionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct DMG is increased by <span>20%</span> for 5s. This effect can stack once every 0.2s, max 3 stacks."
+      "desc": "ATK is increased by <span>35%</span>.<br/>Additionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct and Stellar Swirl reaction DMG is increased by <span>20%</span> for 5s. This effect can stack once every 0.2s, max 3 stacks."
     },
     {
       "refinement": 3,
-      "desc": "ATK is increased by <span>42%</span>.<br/>Additionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct DMG is increased by <span>24%</span> for 5s. This effect can stack once every 0.2s, max 3 stacks."
+      "desc": "ATK is increased by <span>42%</span>.<br/>Additionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct and Stellar Swirl reaction DMG is increased by <span>24%</span> for 5s. This effect can stack once every 0.2s, max 3 stacks."
     },
     {
       "refinement": 4,
-      "desc": "ATK is increased by <span>49%</span>.<br/>Additionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct DMG is increased by <span>28%</span> for 5s. This effect can stack once every 0.2s, max 3 stacks."
+      "desc": "ATK is increased by <span>49%</span>.<br/>Additionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct and Stellar Swirl reaction DMG is increased by <span>28%</span> for 5s. This effect can stack once every 0.2s, max 3 stacks."
     },
     {
       "refinement": 5,
-      "desc": "ATK is increased by <span>56%</span>.<br/>Additionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct DMG is increased by <span>32%</span> for 5s. This effect can stack once every 0.2s, max 3 stacks."
+      "desc": "ATK is increased by <span>56%</span>.<br/>Additionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct and Stellar Swirl reaction DMG is increased by <span>32%</span> for 5s. This effect can stack once every 0.2s, max 3 stacks."
     }
   ]
 }

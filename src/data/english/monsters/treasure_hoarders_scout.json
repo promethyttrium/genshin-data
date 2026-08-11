@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Other Human Factions",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
   "description": "A member of the decentralized criminal organization that has footprints all over the continent and even deep within unknown domains.\\nTheirs is the legwork and the tailing of targets. They usually wind up in criminal circles due to poverty or lack of education, but they don't seem to have gotten any richer after choosing a life of crime...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

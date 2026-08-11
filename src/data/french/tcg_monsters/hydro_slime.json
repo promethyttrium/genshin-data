@@ -8,16 +8,20 @@
     "hp": 4,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Autre arme",
     "faction": [
-      null
+      "Monstre"
     ]
   },
   "skills": [
     {
       "id": "bounce",
       "name": "Rebond",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#80C0FFFF\">DGT Hydro</span>.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -36,8 +40,10 @@
     {
       "id": "slam",
       "name": "Écrasement",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts de <span style=\"color:#80C0FFFF\">DGT Hydro</span>.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -57,7 +63,9 @@
       "id": "elemental_sedimentation_hydro",
       "name": "Dépôt d'élément Hydro",
       "desc": "(Passif) Accorde une <span style=\"color:#FFFFFFFF\">Entité élémentaire Hydro</span> au début du combat.",
-      "skillTag": [],
+      "skillTag": [
+        "Capacité passive"
+      ],
       "points": []
     }
   ]

@@ -48,10 +48,14 @@
       "_id": 3612,
       "id": "birchsteamed_pork_ribs",
       "name": "Sườn Hấp Gỗ Hoa"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Viên Kem Ngọt Ngào"
     }
   ],
   "source": [
     "Thu Thập Bên Ngoài"
-  ],
-  "rarity": 0
+  ]
 }

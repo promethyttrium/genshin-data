@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Autre arme",
     "faction": [
-      null,
-      null
+      "Monstre",
+      "Brutocollinus"
     ]
   },
   "skills": [
     {
       "id": "torch_strike",
       "name": "Frappe de torche",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#FF9999FF\">DGT Pyro</span>.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -37,8 +41,10 @@
     {
       "id": "hit_and_run",
       "name": "Délit de fuite",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#FF9999FF\">DGT Pyro</span>.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -51,8 +57,10 @@
     {
       "id": "scorching_combo",
       "name": "Enchaînement de torches",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts de <span style=\"color:#FF9999FF\">DGT Pyro</span>.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1103,

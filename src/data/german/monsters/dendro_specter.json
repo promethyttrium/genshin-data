@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "Gespensterherz",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "Geisterhülle",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Elementare Lebensformen",
   "filename_icon": "UI_MonsterIcon_Sylph_Grass_01",
   "description": "Hohe Dendro-Elementarkonzentrationen haben zur Erschaffung dieser schwebenden Kreatur geführt.\\nEin Forscher, der einst bei der Ursachenlehre war, hat einmal die ökologischen Eigenschaften von Dendro-Gespenstern untersucht und festgestellt, dass sie den legendären „Aranara“ sehr ähnlich sind. Nach einigen Nachforschungen ist er zu dem Schluss gekommen, dass die sogenannten Aranara tatsächlich Dendro-Gespenster sind. Aus dem Forscher wurde später ein unbekannter Märchenerzähler.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

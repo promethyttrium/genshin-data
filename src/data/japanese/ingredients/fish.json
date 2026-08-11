@@ -108,6 +108,11 @@
       "name": "ミートライ麦パン"
     },
     {
+      "_id": 2701,
+      "id": "stroganina",
+      "name": "鮮魚のストロガニナ"
+    },
+    {
       "_id": 3012,
       "id": "sunshine_sprat",
       "name": "バター魚焼き"
@@ -198,6 +203,11 @@
       "name": "炎岩の歌"
     },
     {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "白の雪玉花"
+    },
+    {
       "_id": 4105,
       "id": "eighttreasure_duck",
       "name": "八宝福禄鴨"
@@ -215,6 +225,5 @@
   ],
   "source": [
     "魚類を捕まえる"
-  ],
-  "rarity": 0
+  ]
 }

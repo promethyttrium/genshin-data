@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Carta de Personagem",
     "energy": 3,
+    "element": "Hydro",
+    "weapon": "Arco",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 4761,
@@ -29,8 +31,10 @@
     {
       "id": "stealthy_bowshot",
       "name": "Arco Invisível Oculto",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "lingering_lifeline",
       "name": "Rede da Vida Salvadora",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?. Este personagem ganha 2 acúmulos de <span style=\"color:#FFFFFFFF\">Ruptura</span>.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#80C0FFFF\">Dano Hydro</span>. Este personagem ganha 2 acúmulos de <span style=\"color:#FFFFFFFF\">Ruptura</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "depthclarion_dice",
       "name": "Dado das Profundezas Claras",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, gera <span style=\"color:#FFFFFFFF\">Dado Misterioso</span>.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#80C0FFFF\">Dano Hydro</span>, gera <span style=\"color:#FFFFFFFF\">Dado Misterioso</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -84,7 +92,9 @@
       "id": "breakthrough",
       "name": "Ruptura",
       "desc": "(Passiva) No começo do combate, é afetado por <span style=\"color:#FFFFFFFF\">Ruptura</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Passiva"
+      ],
       "points": []
     }
   ]

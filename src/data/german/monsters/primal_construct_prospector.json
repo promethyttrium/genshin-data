@@ -13,7 +13,6 @@
   "categoryText": "Automata",
   "filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
   "description": "Wächter der uralten, in der Wüste verlorenen Ruinen. Ihre Kräfte reichen aus, um alle zu bestrafen, die es wagen, den Traum des Königs zu stören.\\nUm das Paradies seines Traums zu erschaffen, erforschte der Herr des Sandmeeres einst an verbotenem Wissen. Diese rätselhaften Maschinen sind das Resultat dieser Forschung.\\nHeute ist dieses „Paradies“ längst verschwunden. Lediglich Einkerbungen auf diesen Maschinen erinnern noch an diesen von den Menschen vergessenen Traum und den Schwur.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

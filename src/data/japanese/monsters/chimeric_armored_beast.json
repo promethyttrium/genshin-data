@@ -1,0 +1,39 @@
+{
+  "_id": 26310101,
+  "id": "chimeric_armored_beast",
+  "monsterId": 26310102,
+  "name": "合成獣・アーマービースト",
+  "specialNames": [
+    "合成獣・アーマービースト"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種の魔獣",
+  "filename_icon": "UI_MonsterIcon_Chimera_BeetleLion",
+  "description": "凍土でかつて盛んに行われていた生物錬金術の産物である、異種合成獣。\\n四足の猛獣がオニカブトムシのような甲殻と角を持てば、敵対する軍勢を打ち破る奇兵になれるかもしれない。\\n本来であれば、こうした単一の機能のみを追求した合成魔獣が自然界で生き延びることは稀である。その大半は活躍の場を失うと、自然の摂理に反しているがゆえに死に絶えてしまう。しかし、アーマービーストは明らかにその例外である。\\n今や、スネージナヤの凍土では、アーマービーストが群れをなして狩りを行う姿がよく見受けられる。",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 7.315024,
+      "attack": 58.575787,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

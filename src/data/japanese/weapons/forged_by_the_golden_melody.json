@@ -1,0 +1,333 @@
+{
+  "_id": 12435,
+  "id": "forged_by_the_golden_melody",
+  "name": "シンフォニーの鋳影",
+  "description": "黄金の装飾を纏う重剣。遥かなる昔、ある大調律師が愛用した兵器であったと伝えられている。",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "両手剣"
+  },
+  "domain": "深潮の余韻",
+  "passive": "真昼と夜のコンツェルト",
+  "bonus": "10秒ごとに、装備者は以下の順序で、それぞれ対応する効果の「諧律楽章」を奏でる。攻撃力+<span>18%/22.5%/27%/31.5%/36%</span>/元素熟知+<span>120/150/180/210/240</span>/星反応ダメージ+<span>28%/35%/42%/49%/56%</span>。各楽章の効果は10秒間継続し、装備者が待機中でも、上記の効果を発動できる。<br/>星反応を起こした後、星反応を起こした際に演奏していた楽章効果と同じ「諧律楽章・複調」を追加で獲得する。継続時間12秒。この効果は本来の楽章効果と重ね掛けでき、12秒につき1回のみ発動できる。",
+  "specialProp": "会心率",
+  "stats": {
+    "primary": "基礎攻撃力",
+    "secondary": "会心率",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 42,
+        "secondary": 6
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 109,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 135,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 205,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 231,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 266,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 292,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 327,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 353,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 388,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 414,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 449,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 475,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 510,
+        "secondary": 27.6
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114053,
+          "id": "dross_of_pure_sacred_dewdrop",
+          "name": "純聖な雫の濾滓",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112098,
+          "id": "ruined_hilt",
+          "name": "砕けた剣の柄",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112080,
+          "id": "transoceanic_pearl",
+          "name": "異海の露",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114054,
+          "id": "sublimation_of_pure_sacred_dewdrop",
+          "name": "純聖な雫の昇華",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112098,
+          "id": "ruined_hilt",
+          "name": "砕けた剣の柄",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112080,
+          "id": "transoceanic_pearl",
+          "name": "異海の露",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114054,
+          "id": "sublimation_of_pure_sacred_dewdrop",
+          "name": "純聖な雫の昇華",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112099,
+          "id": "splintered_hilt",
+          "name": "折れた剣の柄",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112081,
+          "id": "transoceanic_chunk",
+          "name": "異海の塊",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114055,
+          "id": "spring_of_pure_sacred_dewdrop",
+          "name": "純聖な雫の甘泉",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112099,
+          "id": "splintered_hilt",
+          "name": "折れた剣の柄",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112081,
+          "id": "transoceanic_chunk",
+          "name": "異海の塊",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114055,
+          "id": "spring_of_pure_sacred_dewdrop",
+          "name": "純聖な雫の甘泉",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112100,
+          "id": "stillsmoldering_hilt",
+          "name": "光揺らぐ剣の柄",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112082,
+          "id": "xenochromatic_crystal",
+          "name": "色変わりの結晶",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114056,
+          "id": "essence_of_pure_sacred_dewdrop",
+          "name": "純聖な雫の精髄",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112100,
+          "id": "stillsmoldering_hilt",
+          "name": "光揺らぐ剣の柄",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112082,
+          "id": "xenochromatic_crystal",
+          "name": "色変わりの結晶",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "真昼と夜のコンツェルト",
+    "template": "10秒ごとに、装備者は以下の順序で、それぞれ対応する効果の「諧律楽章」を奏でる。攻撃力+<span style=\"color:#99FFFFFF\">{0}</span>/元素熟知+<span style=\"color:#99FFFFFF\">{1}</span>/星反応ダメージ+<span style=\"color:#99FFFFFF\">{2}</span>。各楽章の効果は10秒間継続し、装備者が待機中でも、上記の効果を発動できる。<br/>星反応を起こした後、星反応を起こした際に演奏していた楽章効果と同じ「諧律楽章・複調」を追加で獲得する。継続時間12秒。この効果は本来の楽章効果と重ね掛けでき、12秒につき1回のみ発動できる。",
+    "params": [
+      [
+        "18%",
+        "120",
+        "28%"
+      ],
+      [
+        "22.5%",
+        "150",
+        "35%"
+      ],
+      [
+        "27%",
+        "180",
+        "42%"
+      ],
+      [
+        "31.5%",
+        "210",
+        "49%"
+      ],
+      [
+        "36%",
+        "240",
+        "56%"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "10秒ごとに、装備者は以下の順序で、それぞれ対応する効果の「諧律楽章」を奏でる。攻撃力+<span>18%</span>/元素熟知+<span>120</span>/星反応ダメージ+<span>28%</span>。各楽章の効果は10秒間継続し、装備者が待機中でも、上記の効果を発動できる。<br/>星反応を起こした後、星反応を起こした際に演奏していた楽章効果と同じ「諧律楽章・複調」を追加で獲得する。継続時間12秒。この効果は本来の楽章効果と重ね掛けでき、12秒につき1回のみ発動できる。"
+    },
+    {
+      "refinement": 2,
+      "desc": "10秒ごとに、装備者は以下の順序で、それぞれ対応する効果の「諧律楽章」を奏でる。攻撃力+<span>22.5%</span>/元素熟知+<span>150</span>/星反応ダメージ+<span>35%</span>。各楽章の効果は10秒間継続し、装備者が待機中でも、上記の効果を発動できる。<br/>星反応を起こした後、星反応を起こした際に演奏していた楽章効果と同じ「諧律楽章・複調」を追加で獲得する。継続時間12秒。この効果は本来の楽章効果と重ね掛けでき、12秒につき1回のみ発動できる。"
+    },
+    {
+      "refinement": 3,
+      "desc": "10秒ごとに、装備者は以下の順序で、それぞれ対応する効果の「諧律楽章」を奏でる。攻撃力+<span>27%</span>/元素熟知+<span>180</span>/星反応ダメージ+<span>42%</span>。各楽章の効果は10秒間継続し、装備者が待機中でも、上記の効果を発動できる。<br/>星反応を起こした後、星反応を起こした際に演奏していた楽章効果と同じ「諧律楽章・複調」を追加で獲得する。継続時間12秒。この効果は本来の楽章効果と重ね掛けでき、12秒につき1回のみ発動できる。"
+    },
+    {
+      "refinement": 4,
+      "desc": "10秒ごとに、装備者は以下の順序で、それぞれ対応する効果の「諧律楽章」を奏でる。攻撃力+<span>31.5%</span>/元素熟知+<span>210</span>/星反応ダメージ+<span>49%</span>。各楽章の効果は10秒間継続し、装備者が待機中でも、上記の効果を発動できる。<br/>星反応を起こした後、星反応を起こした際に演奏していた楽章効果と同じ「諧律楽章・複調」を追加で獲得する。継続時間12秒。この効果は本来の楽章効果と重ね掛けでき、12秒につき1回のみ発動できる。"
+    },
+    {
+      "refinement": 5,
+      "desc": "10秒ごとに、装備者は以下の順序で、それぞれ対応する効果の「諧律楽章」を奏でる。攻撃力+<span>36%</span>/元素熟知+<span>240</span>/星反応ダメージ+<span>56%</span>。各楽章の効果は10秒間継続し、装備者が待機中でも、上記の効果を発動できる。<br/>星反応を起こした後、星反応を起こした際に演奏していた楽章効果と同じ「諧律楽章・複調」を追加で獲得する。継続時間12秒。この効果は本来の楽章効果と重ね掛けでき、12秒につき1回のみ発動できる。"
+    }
+  ]
+}

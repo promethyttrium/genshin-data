@@ -8,17 +8,21 @@
     "hp": 3,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Altre armi",
     "faction": [
-      null,
-      null
+      "Mostro",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "ice_arrow",
       "name": "Freccia gelida",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 1 <span style=\"color:#99FFFFFF\">DAN da Cryo</span>.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -37,8 +41,10 @@
     {
       "id": "multishot",
       "name": "Raffica di frecce",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 4 <span style=\"color:#99FFFFFF\">DAN da Cryo</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -58,7 +64,9 @@
       "id": "hide",
       "name": "Colpo e fuga",
       "desc": "(Passiva) Dopo aver usato un'abilità, questo personaggio viene automaticamente sostituito con quello successivo.",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

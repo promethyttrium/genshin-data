@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Bogen",
     "faction": [
-      null,
-      null
+      "Fontaine",
+      "Fatui"
     ],
     "talent_card": {
       "_id": 4762,
@@ -30,8 +32,10 @@
     {
       "id": "card_force_translocation",
       "name": "Erzwungene Rochade",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,8 +54,10 @@
     {
       "id": "prop_arrow",
       "name": "Zauberrequisiten-Pfeil",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 1 <span style=\"color:#FFFFFFFF\">Grinsekatzenmütze</span> und sammelt 1 Stapelung von <span style=\"color:#FFFFFFFF\">Requisitenüberschuss</span>.<br/>Hat die Figur mindestens 6 LP, erleidet sie 1 Pkt. <span style=\"color:#FFFFFFFF\">durchdringenden SCH</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. <span style=\"color:#FF9999FF\">Pyro-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Grinsekatzenmütze</span> und sammelt 1 Stapelung von <span style=\"color:#FFFFFFFF\">Requisitenüberschuss</span>.<br/>Hat die Figur mindestens 6 LP, erleidet sie 1 Pkt. <span style=\"color:#FFFFFFFF\">durchdringenden SCH</span>.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -64,8 +70,10 @@
     {
       "id": "bewildering_lights",
       "name": "Ablenkende Lichter",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#FF9999FF\">Pyro-SCH</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -78,8 +86,10 @@
     {
       "id": "wondrous_trick_miracle_parade",
       "name": "Wundersame Magie – Parade der Wunder",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 1 <span style=\"color:#FFFFFFFF\">Grinsekatzenmütze</span> und sammelt 1 Stapelung von <span style=\"color:#FFFFFFFF\">Requisitenüberschuss</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#FF9999FF\">Pyro-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Grinsekatzenmütze</span> und sammelt 1 Stapelung von <span style=\"color:#FFFFFFFF\">Requisitenüberschuss</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1103,

@@ -38,7 +38,7 @@
       "_id": 113037,
       "id": "thunderclap_fruitcore",
       "name": "Fruto atronador",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104144,
@@ -133,7 +133,6 @@
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Regisvine_Electric",
   "description": "Una gigantesca enredadera convertida en un monstruo a causa de las corrientes de electricidad que viajan a través de las líneas ley.\\nSu copa desprende continuamente energía Electro, como si tratara de liberar la ira de la mismísima tierra.\\nAlgunos investigadores de la Escuela de Tecnología propusieron una vez crear un complejo circuito transmisor para canalizar la energía liberada por este monstruo hasta la ciudad y utilizarla para todo tipo de propósitos. La propuesta fue tajantemente rechazada por los investigadores de la Escuela de Elementalismo, quienes sacrificaron 10 micóqueros para demostrar el peligro subyacente de dicha propuesta.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

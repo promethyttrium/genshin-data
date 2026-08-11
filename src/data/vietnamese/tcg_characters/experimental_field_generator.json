@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Nham",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null
+      "Ma Vật"
     ],
     "source": "Nhận được sau khi Khiêu Chiến Quán Rượu ở chỗ Tiểu Hoàng Tử trong Quán Rượu Đuôi Mèo, và giành chiến thắng trong độ khó Đánh Giải Trí với Máy Tạo Trường Lực Thí Nghiệm"
   },
@@ -18,8 +20,10 @@
     {
       "id": "gravity_application_crush",
       "name": "Trình Ứng Dụng Trọng Lực - Nghiền Nát",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -38,8 +42,10 @@
     {
       "id": "gravity_application_point_null",
       "name": "Trình Ứng Dụng Trọng Lực - Điểm Không",
-      "desc": "Gây ? điểm ?, sinh ra 2 tầng <span style=\"color:#FFFFFFFF\">Chuyển Đổi Hiệu Quả</span>.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#FFE699FF\">Sát Thương Nguyên Tố Nham</span>, sinh ra 2 tầng <span style=\"color:#FFFFFFFF\">Chuyển Đổi Hiệu Quả</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -52,8 +58,10 @@
     {
       "id": "gravity_application_field_reduction",
       "name": "Trình Ứng Dụng Trọng Lực - Giảm Trường Lực",
-      "desc": "Gây ? điểm ?, sinh ra <span style=\"color:#FFFFFFFF\">Bối Cảnh Trọng Lực Thấp</span> và <span style=\"color:#FFFFFFFF\">Dao Động Xung Kích</span>. Trong hiệp này, tất cả nhân vật dự bị của phe ta <span style=\"color:#FFFFFFFF\">Tấn Công Thường</span> lần sau sẽ giảm tiêu hao 1 <span style=\"color:#FFFFFFFF\">Nguyên Tố Không Màu</span>.",
-      "skillTag": [],
+      "desc": "Gây 3 điểm <span style=\"color:#FFE699FF\">Sát Thương Nguyên Tố Nham</span>, sinh ra <span style=\"color:#FFFFFFFF\">Bối Cảnh Trọng Lực Thấp</span> và <span style=\"color:#FFFFFFFF\">Dao Động Xung Kích</span>. Trong hiệp này, tất cả nhân vật dự bị của phe ta <span style=\"color:#FFFFFFFF\">Tấn Công Thường</span> lần sau sẽ giảm tiêu hao 1 <span style=\"color:#FFFFFFFF\">Nguyên Tố Không Màu</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1106,

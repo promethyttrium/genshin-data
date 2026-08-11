@@ -1,0 +1,39 @@
+{
+  "_id": 26310401,
+  "id": "chimeric_horned_bear",
+  "monsterId": 26310402,
+  "name": "Chimeric Horned Bear",
+  "specialNames": [
+    "Chimeric Horned Bear"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystical Beasts",
+  "filename_icon": "UI_MonsterIcon_Chimera_BearDeer",
+  "description": "A product of bio-alchemy, a man-made monster with an exceptionally unusual formation.\\nA man-made monster not formed according to its creator's design, but through the spontaneous assembly of life segments. As a result, it came to possess certain wondrous traits, including the ability to freely wield elemental power.\\nEven if life is broken down until almost nothing remains but segments, could some will or power still guide them to grow according to a mysterious plan?\\nPerhaps no one knows the answer to that by now.",
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 27.431341,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

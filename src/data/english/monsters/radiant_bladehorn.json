@@ -13,7 +13,6 @@
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Magbeast_Rhino",
   "description": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\\nIt is said that in the ancient past, when these borderlands were still shrouded by the pitch-dark shadow, only the charging of the giant rhinos could return the power that makes all things turn... And this was all that was asked of them in return for the moonlight shining down its blessings.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Карты персонажей",
     "energy": 3,
+    "element": "Электро",
+    "weapon": "Прочее",
     "faction": [
-      null
+      "Фатуи"
     ]
   },
   "skills": [
     {
       "id": "rapid_hammer_strike",
       "name": "Быстрый удар молота",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -36,8 +40,10 @@
     {
       "id": "raging_charge",
       "name": "Бешеный заряд",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FFACFFFF\">Электро урон</span>, 3 ед.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,8 +56,10 @@
     {
       "id": "thunderblast_hammer",
       "name": "Громовой молот",
-      "desc": "Наносит ?, ? ед. У персонажа возникает <span style=\"color:#FFFFFFFF\">Элементальная форма: Электро</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FFACFFFF\">Электро урон</span>, 3 ед. У персонажа возникает <span style=\"color:#FFFFFFFF\">Элементальная форма: Электро</span>.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -71,7 +79,9 @@
       "id": "combat_resupply",
       "name": "Военные припасы",
       "desc": "(Пассивный навык) В начале битвы персонаж получает 2 ед. энергии.",
-      "skillTag": [],
+      "skillTag": [
+        "Пассивный навык"
+      ],
       "points": []
     }
   ]

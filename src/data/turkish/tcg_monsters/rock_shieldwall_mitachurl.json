@@ -8,17 +8,21 @@
     "hp": 8,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Toprak",
+    "weapon": "Diğer Silahlar",
     "faction": [
-      null,
-      null
+      "Canavar",
+      "Dağ Yabanisi"
     ]
   },
   "skills": [
     {
       "id": "plata_plama",
       "name": "Plata Plama",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -37,8 +41,10 @@
     {
       "id": "da_plama",
       "name": "Da Plama",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "3 ? verir.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -51,8 +57,10 @@
     {
       "id": "aba_movo",
       "name": "Aba Movo",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "5 ? verir.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -72,7 +80,9 @@
       "id": "craggy_greatshield",
       "name": "Taş Büyük Kalkan",
       "desc": "(Pasif) Savaş başladığında bu karakter <span style=\"color:#FFFFFFFF\">Taş Büyük Kalkan</span> etkisi kazanır.",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

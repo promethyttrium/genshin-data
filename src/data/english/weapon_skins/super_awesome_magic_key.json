@@ -1,0 +1,16 @@
+{
+  "_id": 380002,
+  "id": "super_awesome_magic_key",
+  "name": "Super Awesome Magic Key",
+  "description": "A gift from the Little Hexenzirkel to a good friend. Due to insufficient available materials, the design has been based on a magical item from the Fontainian text, \"Tales of a Snow-Winged Goose.\"\\nYou won't be able to open doors to different realms as one can in fairy tales, but this item is more than durable enough to accompany friends through countless such realms.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Claymore"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341802,
+  "icon_path": "UI_EquipIcon_Claymore_LoliFriend",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_LoliFriend"
+}

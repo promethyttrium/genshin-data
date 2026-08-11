@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Fungus_Trois_Epsilon_Electric",
   "description": "Makhluk spora yang punya sedikit kecerdasan. Memiliki kemampuan beradaptasi yang sangat kuat.\\nBerdasarkan penelitian yang ada, arus listrik yang ada di dalam Floating Fungus ini selalu berubah secara periodik. Kalau diteliti, sepertinya bisa diaplikasikan untuk berbagai bidang dan kegunaan ....",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

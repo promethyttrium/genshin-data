@@ -1,0 +1,32 @@
+{
+  "_id": 213062,
+  "id": "sparkborne_magic",
+  "shareId": 615,
+  "name": "Ma Pháp Tia Lửa",
+  "title": "Klee - Ma Pháp Tia Lửa",
+  "desc": "\"Và thế là, pháp sư Dodo nhỏ đáng yêu nhất với sự giúp đỡ của những người bạn tốt, đã vượt qua kỳ thi tư cách, trở thành một Đại Pháp Sư Dodo thực thụ. Thật đáng mừng!\"\\n\"...Chẳng phải chúng ta cần viết chú thích sao?! Cái này chẳng liên quan gì đến ma nữ nhỏ cả!\"",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Sau khi nhân vật áp dụng thực hiện <span style=\"color:#FFFFFFFF\">Trọng Kích</span>:</span> Gây 2 điểm <span style=\"color:#FF9999FF\">Sát Thương Nguyên Tố Hỏa</span>. (Mỗi hiệp 2 lần)",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Nguyên Tố Hỏa",
+    "card_type": "Thẻ Trang Bị",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "Nguyên Tố Hỏa",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Thiên Phú",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Hành Động Nhanh</span>: Trang bị cho <span style=\"color:#FFFFFFFF\">Klee</span> phe ta.<br/>Klee áp dụng <span style=\"color:#FFFFFFFF\">Hoa Tia Lửa</span>.<br/><span style=\"color:#FFFFFFFF\">Sau khi nhân vật áp dụng thực hiện <span style=\"color:#FFFFFFFF\">Trọng Kích</span>:</span> Gây 2 điểm <span style=\"color:#FF9999FF\">Sát Thương Nguyên Tố Hỏa</span>. (Mỗi hiệp 2 lần)<br/>(Bộ bài có Klee mới có thể thêm)"
+    }
+  ]
+}

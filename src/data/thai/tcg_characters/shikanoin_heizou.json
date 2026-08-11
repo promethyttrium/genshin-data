@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ธาตุลม",
+    "weapon": "สื่อเวท",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 8275,
@@ -29,8 +31,10 @@
     {
       "id": "fudou_style_martial_arts",
       "name": "Fudou Style Martial Arts",
-      "desc": "สร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#80FFD7FF\">ความเสียหายลม</span> 1 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -50,7 +54,9 @@
       "id": "heartstopper_strike",
       "name": "Heartstopper Strike",
       "desc": "<span style=\"color:#FFFFFFFF\">เตรียมสกิล</span>: <span style=\"color:#FFFFFFFF\">Heartstopper Strike: Charge</span>",
-      "skillTag": [],
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "windmuster_kick",
       "name": "Windmuster Kick",
-      "desc": "สร้าง? ? หน่วย หากสกิลนี้ ทำให้เกิด<span style=\"color:#80FFD7FF\">ปฏิกิริยาที่เกี่ยวกับธาตุลม</span> จะทำให้ตัวละครที่เข้าต่อสู้ของฝ่ายศัตรู ได้รับ <span style=\"color:#FFFFFFFF\">Windmuster Iris</span> ของธาตุที่เกี่ยวข้อง",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#80FFD7FF\">ความเสียหายลม</span> 4 หน่วย หากสกิลนี้ ทำให้เกิด<span style=\"color:#80FFD7FF\">ปฏิกิริยาที่เกี่ยวกับธาตุลม</span> จะทำให้ตัวละครที่เข้าต่อสู้ของฝ่ายศัตรู ได้รับ <span style=\"color:#FFFFFFFF\">Windmuster Iris</span> ของธาตุที่เกี่ยวข้อง",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -84,7 +92,9 @@
       "id": "paradoxical_practice",
       "name": "Paradoxical Practice",
       "desc": "[ติดตัว] <span style=\"color:#FFFFFFFF\">หลังจากที่ฝ่ายเราทำให้เกิด <span style=\"color:#80FFD7FF\">ปฏิกิริยาที่เกี่ยวกับธาตุลม</span>: </span>ตัวเองได้รับ <span style=\"color:#FFFFFFFF\">Declension</span> 1 ชั้น",
-      "skillTag": [],
+      "skillTag": [
+        "สกิลติดตัว"
+      ],
       "points": []
     }
   ]

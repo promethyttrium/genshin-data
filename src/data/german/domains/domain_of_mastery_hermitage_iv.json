@@ -1,0 +1,63 @@
+{
+  "_id": 4698,
+  "id": "domain_of_mastery_hermitage_iv",
+  "name": "Sphäre des Verständnisses: Eremitage IV",
+  "entranceId": 2074,
+  "entranceName": "Relikte der Ungnade",
+  "description": "Ein Heiligtum, das einst von den Feen errichtet wurde und mittlerweile in die Hände von Schurken gefallen ist.\nWenn es dir gelingt, die hier weilenden Gegner zu besiegen, erhältst du möglicherweise Erkenntnisse, mit denen du deine Talente verbessern kannst.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 88,
+  "unlockRank": 45,
+  "disorder": [
+    "· When a character triggers Superconduct or Stellar-Conduct reactions, or deals Stellar-Conduct DMG, a shockwave will be unleashed at the target enemy's location, dealing Electro DMG."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_03",
+  "recommendedElements": [
+    "Kryo",
+    "Elektro"
+  ],
+  "daysOfWeek": [
+    "Dienstag",
+    "Freitag",
+    "Sonntag"
+  ],
+  "domainType": "UI_ABYSSUS_AVATAR_PROUD",
+  "domainText": "Talent Level-Up Material",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Abenteuer-EP",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "2375"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Freundschafts-EP",
+      "count": "20"
+    },
+    {
+      "_id": 104370,
+      "id": "philosophies_of_fortitude",
+      "name": "Philosophie der „Beharrlichkeit“"
+    },
+    {
+      "_id": 104369,
+      "id": "guide_to_fortitude",
+      "name": "Anleitung zur „Beharrlichkeit“"
+    },
+    {
+      "_id": 104368,
+      "id": "teachings_of_fortitude",
+      "name": "Lehren der „Beharrlichkeit“"
+    }
+  ],
+  "monsterList": []
+}

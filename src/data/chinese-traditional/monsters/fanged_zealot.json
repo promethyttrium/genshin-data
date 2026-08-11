@@ -1,0 +1,40 @@
+{
+  "_id": 25133601,
+  "id": "fanged_zealot",
+  "monsterId": 25133602,
+  "name": "牙獸狂徒",
+  "specialNames": [
+    "牙獸狂徒"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種魔獸",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Mammoth",
+  "description": "由於繼承更多血脈中的偉力，變得極為強大的獸怪。\\n在諸多不同的獸怪之中，形如巨象或猛獁的獸怪也是血脈最為高貴的一類。從前他們的氏族中多是了不起的戰將，其中許多甚至是獸之王的長隨。\\n只不過個體力量越是強大、壽命越是悠久的妖精，就愈加難以構成族群。相較其他獸怪，這類獸怪在如今的至冬要罕見許多。",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 231.00076,
+      "attack": 112.64574,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

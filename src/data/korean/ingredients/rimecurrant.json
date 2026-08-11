@@ -1,0 +1,26 @@
+{
+  "_id": 101281,
+  "id": "rimecurrant",
+  "name": "얼음베리",
+  "description": "서리가 내려앉은 얼음 가지에서 자란 맛 좋은 베리",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "베리 아이스크림"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "스네즈나야 꼬치구이"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "아이스크림 볼 세트"
+    }
+  ],
+  "source": [
+    "추천: 스네즈나야 채집"
+  ]
+}

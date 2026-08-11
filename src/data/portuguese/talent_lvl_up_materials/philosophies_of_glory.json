@@ -1,0 +1,30 @@
+{
+  "_id": 104373,
+  "id": "philosophies_of_glory",
+  "name": "Filosofia da Glória",
+  "description": "Material de Elevação de Talento.\\nGlória é a fé sagrada do reino congelado.\\nÉ a chama imortal sobre a lareira baliza, obrigada agora a viver ou morrer com o reino congelado. A chama acende uma paixão nobre e, para sustentar sua combustão eterna, as pessoas oferecerão alegremente tudo de si.",
+  "source": [
+    "Quantidade a ser fabricada: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104372,
+        "id": "guide_to_glory",
+        "name": "Guia da Glória",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domínio da Proficiência: Visão Compartilhada IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Quarta-feira",
+    "Sábado",
+    "Domingo"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "_id": 2703,
+  "id": "borscht",
+  "name": "Borsc",
+  "description": "Un piatto di zuppa dal colore rosso vivace. Una volta che il brodo è pronto, vari ingredienti vengono aggiunti a più riprese e fatti sobbollire finché i loro sapori non si amalgamano. Spesso si aggiunge un cucchiaio di panna acida poco prima di servire. A ogni sorso, un calore costante si diffonde nel corpo, sufficiente a tenere a bada il freddo pungente.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Barbabietola rossa",
+      "amount": 2
+    },
+    {
+      "_id": 100080,
+      "id": "potato",
+      "name": "Patata",
+      "amount": 1
+    },
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Pezzo di carne cruda",
+      "amount": 1
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Piatto dell'avventuriere",
+  "results": {
+    "suspicious": {
+      "_id": 108997,
+      "name": "Borsc sospetto",
+      "description": "Un piatto di zuppa dal colore rosso vivace. Tutto in questo piatto sembra preparato controvoglia, come se qualcuno avesse semplicemente buttato nella pentola gli ingredienti avanzati da un pasto precedente. Finirlo ti fa sentire un po' più caldo rispetto a prima, ma è l'equivalente di accendere un singolo fiammifero, che non porta altro che un fugace istante di calore.",
+      "effect": "#Riduce lievemente l'incremento di Freddo estremo di tutti i membri del gruppo per 900 s. In modalità cooperativa, si applica solo ai tuoi personaggi."
+    },
+    "normal": {
+      "_id": 108998,
+      "name": "Borsc",
+      "description": "Un piatto di zuppa dal colore rosso vivace. Una volta che il brodo è pronto, vari ingredienti vengono aggiunti a più riprese e fatti sobbollire finché i loro sapori non si amalgamano. Spesso si aggiunge un cucchiaio di panna acida poco prima di servire. A ogni sorso, un calore costante si diffonde nel corpo, sufficiente a tenere a bada il freddo pungente.",
+      "effect": "#Riduce in parte l'incremento di Freddo estremo di tutti i membri del gruppo per 900 s. In modalità cooperativa, si applica solo ai tuoi personaggi."
+    },
+    "delicious": {
+      "_id": 108999,
+      "name": "Borsc delizioso",
+      "description": "Un piatto di zuppa dal colore rosso vivace. Appena il brodo scivola giù per la gola, senti il corpo pervaso da un piacevole tepore, come se qualcuno avesse acceso un fuoco al centro del tuo petto. Il calore si propaga gradualmente finché non senti persino le punte delle orecchie scaldarsi. Durante il cammino in una violenta bufera di neve, questa ciotola di zuppa è molto più efficace che avvolgersi in un cappotto extra!",
+      "effect": "#Riduce l'incremento di Freddo estremo di tutti i membri del gruppo per 900 s. In modalità cooperativa, si applica solo ai tuoi personaggi."
+    }
+  }
+}

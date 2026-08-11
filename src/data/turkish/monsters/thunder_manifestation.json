@@ -13,7 +13,6 @@
   "categoryText": "Element Yaşam Formları",
   "filename_icon": "UI_MonsterIcon_Raijin",
   "description": "Elektrik elementinden oluşmuş bu olağan dışı yaşam formu, görünüm itibarıyla Okeanide benzese de onun zekasına veya hafızasına sahip değildir.\\nFakat Yıldırım Alametini çok daha kadim bir öfke harekete geçirir.\\nBu yaşam formlarının, üzerinden fırtına bulutlarının eksik olmadığı parçalanmış Amakumo Tepesi gibi bağrında derin ve ebedi bir kırgınlık taşıyan topraklara yıldırım gibi düştükleri söylenir. Toprakların öfkesi dinmedikçe gürleyen şimşekler de baki kalacaktır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

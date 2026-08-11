@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Прочие человеческие фракции",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Drillhead",
   "description": "Могучий воин каньона, получивший признание за свою храбрость, был награждён заврианской короной.\\nЭтот воин может ударить с силой камнепада. Даже среди Детей Эха, которые обожают камни и кристаллы, коронованные заврианами воины - мастера, лучше всех понимающие природу камня. Говорят, что они могут определить чистоту и текстуру руды, взглянув на её необработанную поверхность.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

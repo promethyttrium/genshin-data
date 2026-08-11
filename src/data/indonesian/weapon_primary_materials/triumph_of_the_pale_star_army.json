@@ -1,0 +1,29 @@
+{
+  "_id": 114088,
+  "id": "triumph_of_the_pale_star_army",
+  "name": "Triumph of the Pale Star Army",
+  "description": "\"Pelindung semua peri, pewaris Bintang Pucat, Kaisar kami yang lahir dari darah suci, Belyi Tsar!\"<br/>\"Pujilah, kini seluruh padang es telah bersatu di bawah cahaya gemilang Bintang Kutub.\"<br/>\"Pujilah, Kaisar yang membunuh raja palsu telah menerima semua peri, betapa penuh kasih dan welas asih!\"",
+  "source": [
+    "Placeholder - Jumlah yang Bisa Di-Craft: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114087,
+        "id": "clarion_of_the_pale_star_army",
+        "name": "Clarion of the Pale Star Army",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domain of Forgery: Scars of Cursed Obsession",
+  "days": [
+    "Senin",
+    "Kamis",
+    "Minggu"
+  ]
+}

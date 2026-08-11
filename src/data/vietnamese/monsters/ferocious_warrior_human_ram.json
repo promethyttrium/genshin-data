@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Bisonsaurus",
   "description": "Dũng sĩ đến từ đồng bằng, người bảo vệ bộ tộc tuần tra giữa những cánh đồng vàng.\\nThành thạo kỹ thuật dùng lưỡi đao tấn công điểm yếu của kẻ địch, tốt nhất đừng để họ phát hiện ra sơ hở của bản thân.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Engrenagem Reta",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Engrenagem Transmissora",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Autômatos",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Excavator",
   "description": "Um Mecautômato gigante cujo valor em tarefas de construção e arqueologia vai além do imaginável. Seu nome vem de um engenheiro contratado por Callas durante a construção da atual Via Clementine.\\nGraças ao apoio da Callas, aquele engenheiro foi capaz de criar o lendário e magnífico Barco Dourado para poder escavar o Túnel Poisson. Após aquela grande obra de engenharia, ele construiu esta máquina com características semelhantes, porém de menor tamanho.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 2,
   "stats": {

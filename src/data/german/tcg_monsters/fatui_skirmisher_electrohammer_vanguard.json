@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 3,
+    "element": "Elektro",
+    "weapon": "Andere Waffen",
     "faction": [
-      null
+      "Fatui"
     ]
   },
   "skills": [
     {
       "id": "rapid_hammer_strike",
       "name": "Hämmernde Attacke",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -36,8 +40,10 @@
     {
       "id": "raging_charge",
       "name": "Knallharter Ansturm",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#FFACFFFF\">Elektro-SCH</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,8 +56,10 @@
     {
       "id": "thunderblast_hammer",
       "name": "Hämmernder Donner",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erhält selbst <span style=\"color:#FFFFFFFF\">Elementarrüstung – Elektro</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#FFACFFFF\">Elektro-SCH</span>, erhält selbst <span style=\"color:#FFFFFFFF\">Elementarrüstung – Elektro</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -71,7 +79,9 @@
       "id": "combat_resupply",
       "name": "Einsatzversorgung",
       "desc": "Passiv – Erhält zu Beginn des Kampfes selbst 2 Pkt. Aufladung.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

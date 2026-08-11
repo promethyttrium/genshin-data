@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Aplysia_Larva_02",
   "description": "An aquatic creature that hunts by firing watery projectiles.\\nFrom an evolutionary perspective, it is assumed that Fontemer Aberrants have developed from aquatic creatures due to environmental factors specific to Fontaine. As such, it can be inferred that at some point in the past, Fontaine's original aquatic lifeforms differed little from those native to the other regions of Teyvat.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 13.49,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

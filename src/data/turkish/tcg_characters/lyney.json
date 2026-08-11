@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Ateş",
+    "weapon": "Yay",
     "faction": [
-      null,
-      null
+      "Fontaine",
+      "Fatui"
     ],
     "talent_card": {
       "_id": 4762,
@@ -30,8 +32,10 @@
     {
       "id": "card_force_translocation",
       "name": "Kart Gücü Aktarımı",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,8 +54,10 @@
     {
       "id": "prop_arrow",
       "name": "Dekor Oku",
-      "desc": "? ? verir ve <span style=\"color:#FFFFFFFF\">Alaycı Kedi Şapkası</span> çağırarak 1 kademe <span style=\"color:#FFFFFFFF\">Dekor Fazlalığı</span> kazanır.<br/>Bu karakterin en az 6 Canı varsa kendine 1 <span style=\"color:#FFFFFFFF\">Delme Hasarı</span> verir.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir ve <span style=\"color:#FFFFFFFF\">Alaycı Kedi Şapkası</span> çağırarak 1 kademe <span style=\"color:#FFFFFFFF\">Dekor Fazlalığı</span> kazanır.<br/>Bu karakterin en az 6 Canı varsa kendine 1 <span style=\"color:#FFFFFFFF\">Delme Hasarı</span> verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -64,8 +70,10 @@
     {
       "id": "bewildering_lights",
       "name": "Büyüleyici Işıklar",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "3 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -78,8 +86,10 @@
     {
       "id": "wondrous_trick_miracle_parade",
       "name": "Harika Numara: Mucizevi Geçit Töreni",
-      "desc": "? ? verir, 1 <span style=\"color:#FFFFFFFF\">Alaycı Kedi Şapkası</span> çağırır ve 1 kademe <span style=\"color:#FFFFFFFF\">Dekor Fazlalığı</span> kazanır.",
-      "skillTag": [],
+      "desc": "3 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir, 1 <span style=\"color:#FFFFFFFF\">Alaycı Kedi Şapkası</span> çağırır ve 1 kademe <span style=\"color:#FFFFFFFF\">Dekor Fazlalığı</span> kazanır.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1103,

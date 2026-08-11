@@ -1,0 +1,130 @@
+{
+  "_id": 70,
+  "id": "land_of_surging_shadows",
+  "name": "샘솟는 그림자의 땅",
+  "order": 73,
+  "achievements": [
+    {
+      "id": 86059,
+      "name": "동토의 복구자",
+      "desc": "스네즈나야 동토에서 대형 그림자 영역 1개 소탕하기",
+      "reward": 10,
+      "hidden": false,
+      "order": 9056
+    },
+    {
+      "id": 86062,
+      "name": "그림자 영역에서 만나자",
+      "desc": "「그림자 시련」 도전 1회 완료하기",
+      "reward": 10,
+      "hidden": false,
+      "order": 9059
+    },
+    {
+      "id": 86063,
+      "name": "「그림자 영역 고수」",
+      "desc": "「그림자 영역 분석 레벨」을 최고 레벨까지 올리기",
+      "reward": 10,
+      "hidden": false,
+      "order": 9060
+    },
+    {
+      "id": 86066,
+      "name": "그림자 격추왕",
+      "desc": "시련 공훈 9개 획득하기",
+      "reward": 20,
+      "hidden": false,
+      "order": 9063
+    },
+    {
+      "id": 86067,
+      "name": "동토의 총기 장인·첫 번째",
+      "desc": "한 총기에 부품 1개 장착하기",
+      "reward": 5,
+      "hidden": false,
+      "order": 9064
+    },
+    {
+      "id": 86068,
+      "name": "동토의 총기 장인·두 번째",
+      "desc": "한 총기에 부품 2개 장착하기",
+      "reward": 10,
+      "hidden": false,
+      "order": 9065,
+      "preStage": 86067
+    },
+    {
+      "id": 86069,
+      "name": "동토의 총기 장인·세 번째",
+      "desc": "한 총기에 부품 4개 장착하기",
+      "reward": 20,
+      "hidden": false,
+      "order": 9066,
+      "preStage": 86068
+    },
+    {
+      "id": 86071,
+      "name": "타찬카",
+      "desc": "「샤타나야의 서리」, 「발사그의 태양」, 「아샤메즈의 천둥」에 각각 부품 4개 장착하기",
+      "reward": 20,
+      "hidden": false,
+      "order": 9068
+    },
+    {
+      "id": 86072,
+      "name": "석양이 진다…",
+      "desc": "30초 내에 적의 약점을 5회 연속 명중하기",
+      "reward": 5,
+      "hidden": false,
+      "order": 9069
+    },
+    {
+      "id": 86073,
+      "name": "내 꼬마 친구한테 인사나 하시지!",
+      "desc": "30초 내에 유탄 발사기로 원소 반응을 5회 발동하기",
+      "reward": 5,
+      "hidden": false,
+      "order": 9070
+    },
+    {
+      "id": 86074,
+      "name": "슬라이딩 조준 같은 건 없어",
+      "desc": "슬라이딩 상태에서 적을 누적 20기 처치하기",
+      "reward": 5,
+      "hidden": false,
+      "order": 9071
+    },
+    {
+      "id": 86075,
+      "name": "첫 번째 자손의 창",
+      "desc": "돌격 소총 획득하기: 「샤타나야의 서리」",
+      "reward": 5,
+      "hidden": false,
+      "order": 9072
+    },
+    {
+      "id": 86076,
+      "name": "무예백반, 유탄 발사법이다",
+      "desc": "유탄 발사기 획득하기: 「발사그의 태양」",
+      "reward": 5,
+      "hidden": false,
+      "order": 9073
+    },
+    {
+      "id": 86077,
+      "name": "경고: 번개폭풍이 발생했습니다",
+      "desc": "돌격 소총 획득하기: 아샤메즈의 천둥",
+      "reward": 5,
+      "hidden": false,
+      "order": 9074
+    },
+    {
+      "id": 86078,
+      "name": "500g의 사랑",
+      "desc": "결정 수류탄 획득하기",
+      "reward": 5,
+      "hidden": false,
+      "order": 9075
+    }
+  ]
+}

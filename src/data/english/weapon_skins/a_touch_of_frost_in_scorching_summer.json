@@ -1,0 +1,16 @@
+{
+  "_id": 380003,
+  "id": "a_touch_of_frost_in_scorching_summer",
+  "name": "A Touch of Frost in Scorching Summer!",
+  "description": "A small gift from the Jack Frosts to their good friends! It looks wildly tasty and seems berry jam-flavored. One bite, and a refreshing chill and delightful sweetness would surely dance together across your tongue... if only this were actually edible. It looks super delicious, though.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Sword"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341803,
+  "icon_path": "UI_EquipIcon_Sword_Icecream",
+  "image_path": "UI_Gacha_EquipIcon_Sword_Icecream"
+}

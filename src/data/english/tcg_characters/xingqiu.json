@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Sword",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3207,
@@ -29,8 +31,10 @@
     {
       "id": "guhua_style",
       "name": "Guhua Style",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "fatal_rainscreen",
       "name": "Fatal Rainscreen",
-      "desc": "Deals ? ?, grants this character <span style=\"color:#80C0FFFF\">Hydro Application</span>, creates 1 <span style=\"color:#FFFFFFFF\">Rain Sword</span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#80C0FFFF\">Hydro DMG</span>, grants this character <span style=\"color:#80C0FFFF\">Hydro Application</span>, creates 1 <span style=\"color:#FFFFFFFF\">Rain Sword</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "raincutter",
       "name": "Raincutter",
-      "desc": "Deals ? ?, grants this character <span style=\"color:#80C0FFFF\">Hydro Application</span>, creates 1 <span style=\"color:#FFFFFFFF\">Rainbow Bladework</span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#80C0FFFF\">Hydro DMG</span>, grants this character <span style=\"color:#80C0FFFF\">Hydro Application</span>, creates 1 <span style=\"color:#FFFFFFFF\">Rainbow Bladework</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1102,

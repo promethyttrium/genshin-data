@@ -595,7 +595,7 @@
     {
       "id": "winds_vanguard",
       "name": "Wind's Vanguard",
-      "description": "When nearby party members trigger Swirl reaction(s), Varka gains one stack of <span style=\"color:#FFD780FF\">Azure Fang's Oath</span>, increasing the DMG dealt by his Normal Attacks, Charged Attacks, special Charged Attack <span style=\"color:#FFD780FF\">Azure Devour</span> and special Elemental Skill <b><span style=\"color:#FFD780FF\">Four Winds' Ascension</span></b> by 7.5% for 8s. Max 4 stacks. Each character can grant Varka with 1 stack of <span style=\"color:#FFD780FF\">Azure Fang's Oath</span> every second this way.",
+      "description": "When nearby party members trigger a Swirl or Stellar Swirl reaction, Varka gains 1 stack of <span style=\"color:#FFD780FF\">Azure Fang's Oath</span>, increasing the DMG dealt by his Normal Attacks, Charged Attacks, special Charged Attack <span style=\"color:#FFD780FF\">Azure Devour</span> and special Elemental Skill <b><span style=\"color:#FFD780FF\">Four Winds' Ascension</span></b> by 7.5% for 8s. Max 4 stacks. Each character can grant Varka with 1 stack of <span style=\"color:#FFD780FF\">Azure Fang's Oath</span> every second this way.",
       "level": 4
     },
     {
@@ -631,7 +631,7 @@
       "_id": 1284,
       "id": "for_none_may_take_from_us_our_freedom_of_song",
       "name": "\"For None May Take From Us Our Freedom of Song\"",
-      "description": "When Varka triggers a Swirl reaction, based on the Elemental Types involved in the reaction, all nearby party members gain a 20% <span style=\"color:#80FFD7FF\">Anemo DMG Bonus</span> and the corresponding Elemental DMG Bonus for 10s.",
+      "description": "When Varka triggers a Swirl or Stellar Swirl reaction, based on the Elemental Types involved in the reaction, all nearby party members gain a 20% <span style=\"color:#80FFD7FF\">Anemo DMG Bonus</span> and the corresponding Elemental DMG Bonus for 10s.",
       "level": 4
     },
     {

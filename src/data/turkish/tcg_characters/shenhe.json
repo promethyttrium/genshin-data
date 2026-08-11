@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Buz",
+    "weapon": "Mızrak",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3845,
@@ -29,8 +31,10 @@
     {
       "id": "dawnstar_piercer",
       "name": "Şafak Yıldızı Mızrağı",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "spring_spirit_summoning",
       "name": "Ruha Çağrı",
-      "desc": "? ? verir ve 1 <span style=\"color:#FFFFFFFF\">Buzdan Tüy</span> oluşturur.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#99FFFFFF\">Buz Hasarı</span> verir ve 1 <span style=\"color:#FFFFFFFF\">Buzdan Tüy</span> oluşturur.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "divine_maidens_deliverance",
       "name": "Kutsal Kadının Hükmü",
-      "desc": "? ? verir ve 1 <span style=\"color:#FFFFFFFF\">Tılsım Ruhu</span> çağırır.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#99FFFFFF\">Buz Hasarı</span> verir ve 1 <span style=\"color:#FFFFFFFF\">Tılsım Ruhu</span> çağırır.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1101,

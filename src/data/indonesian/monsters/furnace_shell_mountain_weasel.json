@@ -13,8 +13,6 @@
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_VolcanoWeasel",
   "description": "Karena terbiasa hidup di lingkungan yang penuh Phlogiston dan terisolasi dari dunia luar, jenis musang gunung kuno ini memiliki bentuk yang unik.\\nHewan kuno ini dapat mengumpulkan kekuatan di cangkangnya dengan cara memakan hewan yang mengandung Phlogiston. Karena kemampuan unik mereka yang dapat menyerap Phlogiston, nampaknya mereka perlahan-lahan menjadi dipengaruhi oleh Mekanisme Sumber di reruntuhan Gunung Suci dan menciptakan hubungan simbiosis antara keduanya.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

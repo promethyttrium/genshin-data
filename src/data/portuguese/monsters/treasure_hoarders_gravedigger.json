@@ -59,22 +59,21 @@
       "_id": 112036,
       "id": "silver_raven_insignia",
       "name": "Insígnia do Corvo Prateado",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112035,
       "id": "treasure_hoarder_insignia",
       "name": "Insígnia dos Ladrões de Tesouro",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_02",
   "description": "Um membro da organização criminosa descentralizada que tem rastros em todo o continente e até mesmo nas profundezas de domínios desconhecidos.\\n<i>\"Dizem que estamos sobre ombros de gigantes. Isso significa desenterrar a riqueza acumulada de nossos antepassados, levá-la conosco e... hum, devolvê-la ao ciclo econômico! Que atitude nobre, não é mesmo?\"</i>\\n— Um certo Saqueador das Tumbas, enquanto entra em uma ruína.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

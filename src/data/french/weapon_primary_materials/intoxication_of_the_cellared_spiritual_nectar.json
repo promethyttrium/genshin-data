@@ -1,0 +1,29 @@
+{
+  "_id": 114090,
+  "id": "intoxication_of_the_cellared_spiritual_nectar",
+  "name": "Ébriété de nectar spirituel en cave",
+  "description": "Ce que d'autres savourent de manière festive après une abondante récolte de céréales est une nécessité de survie pour les clans qui traversent le froid glacial.<br/>On raconte que les domovoy, dont la maîtrise du brassage était sans égale, s'appuyaient jadis sur cet art pour enrichir le trésor du roi qu'ils servaient.<br/>Ainsi, transmise de clan en clan par le commerce, la boisson des nivéoles se répandait sur les terres gelées comme un miel empoisonné.",
+  "source": [
+    "Emplacement réservé - Quantité synthétisable : {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114089,
+        "id": "measured_pour_of_the_cellared_spiritual_nectar",
+        "name": "Versement mesuré de nectar spirituel en cave",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Donjon de la maîtrise : Cicatrice d'une obsession maudite",
+  "days": [
+    "Mardi",
+    "Vendredi",
+    "Dimanche"
+  ]
+}

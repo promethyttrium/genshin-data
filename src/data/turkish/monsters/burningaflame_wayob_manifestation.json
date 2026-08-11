@@ -13,8 +13,6 @@
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Wayob_Flamingo",
   "description": "Çiçek Tüyü Klanı, Wayob'a inanır ve bu inanç yeryüzünde totemlerin gücü ve Gece Ruhu olarak tezahür eder.\\nUzun zaman önce Wayob Tezahürlerinin bugünkünden çok farklı olduğu ve obsidiyen heykellere yakın, kaba bir görünüme sahip oldukları söylenir. Fakat dış hatları dokuma parşömenlere kaydedildiğinden bu yana görünüşleri pek değişmemiştir.\\nÇiçek Tüyü Klanı kabilesi, Wayob'larının yanmayı ve ateşi kontrol edebildiğine ve ısı akışı ile kavuran rüzgarları kontrol edebildiğine inanır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

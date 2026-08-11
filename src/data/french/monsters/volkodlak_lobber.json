@@ -1,0 +1,40 @@
+{
+  "_id": 25131001,
+  "id": "volkodlak_lobber",
+  "monsterId": 25131105,
+  "name": "Lanceur volkodlak",
+  "specialNames": [
+    "Lanceur"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bêtes mystiques",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "description": "Un type de volkodlak relativement grand et robuste, que l'on trouve parmi ceux qui errent à Snezhnaya.\\nDotés d'une force à la fois bestiale et humanoïde, leur puissant buste leur permet de projeter les objets avec une force et une précision accrues. Si les volkodlak ne sont pas forcément passés maîtres dans l'art de façonner la glace primale ou de manier les pouvoirs élémentaires, rares sont les lignées féeriques qui peuvent rivaliser avec leur maîtrise de la force physique.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

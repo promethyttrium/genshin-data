@@ -28,7 +28,6 @@
   "categoryText": "Automata",
   "filename_icon": "UI_MonsterIcon_Apparatus_Enigma_BionicFlora",
   "description": "Eine bizaare Maschine, die, um ein bestimmtes Ziel zu erreichen, über bestimmte Formen und Fähigkeiten verfügt.\\nDie Legende besagt, dass die eine Kriegsmaschine ist, die von einem bereits zerstörten Königreich zurückgelassen wurde. Im Vergleich zu den weiter verbreiteten „Ruinenwächtern“ hat diese eine stärkere bionische Bedeutung in ihrer Form. Die riesige, aus mehreren Teilen zusammengesetzte Blütenkrone sieht aus wie eine Art furchteinflößende Pflanze und man kann nicht erahnen, was jemand durchgemacht haben muss, um eine so furchteinflößende Maschine zu entwerfen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Senjata Lain",
     "faction": [
-      null
+      "Monster"
     ],
     "source": "Didapatkan setelah menerima Tantangan Tavern di Cat's Tail dan menang dalam Pertandingan Persahabatan melawan Black Serpent Knight: Windcutter"
   },
@@ -18,8 +20,10 @@
     {
       "id": "halfsword_technique",
       "name": "Half-Sword Technique",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -38,8 +42,10 @@
     {
       "id": "rising_slash",
       "name": "Rising Slash",
-      "desc": "Mengakibatkan ? poin ? dan mengambil 1 kartu.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#80FFD7FF\">Anemo DMG</span> dan mengambil 1 kartu.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -53,7 +59,9 @@
       "id": "guard_stance",
       "name": "Guard Stance",
       "desc": "<span style=\"color:#FFFFFFFF\">Mempersiapkan Skill</span>: <span style=\"color:#FFFFFFFF\">Reckless Stance</span>, lalu <span style=\"color:#FFFFFFFF\">Mempersiapkan Skill</span>: <span style=\"color:#FFFFFFFF\">Gale Pursuit</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -73,7 +81,9 @@
       "id": "vanguard_momentum",
       "name": "Vanguard Momentum",
       "desc": "(Pasif) Saat kamu memicu reaksi Swirl, atau saat lawan kehilangan Status <span style=\"color:#FFFFFFFF\">Perisai</span>, <span style=\"color:#FFFFFFFF\"> Pengurangan DMG</span>, atau Status Pertempuran, mengambil 1 kartu. (2 kali setiap Ronde)",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

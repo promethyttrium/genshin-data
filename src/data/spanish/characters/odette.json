@@ -1,0 +1,1393 @@
+{
+  "_id": 10000150,
+  "id": "odette",
+  "name": "Odette",
+  "title": "La Danzarina Nívea",
+  "description": "Una célebre bailarina de ballet de Snezhnaya que florece en las nieves con una belleza tan nítida como la escarcha.",
+  "weapon_type": {
+    "id": "sword",
+    "name": "Espada ligera"
+  },
+  "element": {
+    "id": "cryo",
+    "name": "Cryo"
+  },
+  "gender": {
+    "id": "female",
+    "name": "Femenino"
+  },
+  "release": 1786395600,
+  "substat": "Daño CRIT",
+  "affiliation": "Compañía Korolevski",
+  "region": {
+    "id": "snezhnaya_star",
+    "name": "SNEZHNAYA_STAR"
+  },
+  "rarity": 5,
+  "birthday": [
+    20,
+    2
+  ],
+  "constellation": "Cygnus Olor",
+  "domain": "Dominio de la maestría: Meditación",
+  "cv": {
+    "english": "Alexis Tipton",
+    "chinese": "潘丹妮",
+    "japanese": "上坂すみれ",
+    "korean": "Choi Hyun-ji"
+  },
+  "skills": [
+    {
+      "_id": 11501,
+      "id": "snow_swan_variation",
+      "name": "Variación del cisne níveo",
+      "description": "<span style=\"color:#FFD780FF\">Ataque Normal</span><br/>Realiza hasta 5 ataques consecutivos con espada.<br/><br/><span style=\"color:#FFD780FF\">Ataque Cargado</span><br/>Consume cierta cantidad de Aguante para ejecutar un tajo cegador hacia delante.<br/><br/><span style=\"color:#FFD780FF\">Ataque Descendente</span><br/>Se lanza desde el aire para golpear el suelo, atacando a los enemigos que encuentre en su trayecto e infligiendo Daño en el AdE en el momento del impacto.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Daño de 1er golpe",
+          "values": [
+            "51.9%",
+            "56.1%",
+            "60.3%",
+            "66.3%",
+            "70.5%",
+            "75.4%",
+            "82%",
+            "88.6%",
+            "95.3%",
+            "102.5%",
+            "109.7%",
+            "117%",
+            "124.2%",
+            "131.5%",
+            "138.7%"
+          ]
+        },
+        {
+          "label": "Daño de 2.º golpe",
+          "values": [
+            "51.5%",
+            "55.7%",
+            "59.9%",
+            "65.9%",
+            "70.1%",
+            "74.9%",
+            "81.5%",
+            "88%",
+            "94.6%",
+            "101.8%",
+            "109%",
+            "116.2%",
+            "123.4%",
+            "130.6%",
+            "137.8%"
+          ]
+        },
+        {
+          "label": "Daño de 3er golpe",
+          "values": [
+            "32.6% + 38.3%",
+            "35.3% + 41.4%",
+            "37.9% + 44.5%",
+            "41.7% + 49%",
+            "44.4% + 52.1%",
+            "47.4% + 55.6%",
+            "51.6% + 60.5%",
+            "55.7% + 65.4%",
+            "59.9% + 70.3%",
+            "64.5% + 75.7%",
+            "69% + 81%",
+            "73.6% + 86.3%",
+            "78.1% + 91.7%",
+            "82.7% + 97%",
+            "87.2% + 102.4%"
+          ]
+        },
+        {
+          "label": "Daño de 4.º golpe",
+          "values": [
+            "74.6%",
+            "80.6%",
+            "86.7%",
+            "95.4%",
+            "101.5%",
+            "108.4%",
+            "117.9%",
+            "127.5%",
+            "137%",
+            "147.4%",
+            "157.8%",
+            "168.2%",
+            "178.6%",
+            "189%",
+            "199.4%"
+          ]
+        },
+        {
+          "label": "Daño de 5.º golpe",
+          "values": [
+            "90.2%",
+            "97.6%",
+            "104.9%",
+            "115.4%",
+            "122.7%",
+            "131.1%",
+            "142.7%",
+            "154.2%",
+            "165.7%",
+            "178.3%",
+            "190.9%",
+            "203.5%",
+            "216.1%",
+            "228.7%",
+            "241.3%"
+          ]
+        },
+        {
+          "label": "Daño de ATQ Cargado",
+          "values": [
+            "107.4%",
+            "116.2%",
+            "124.9%",
+            "137.4%",
+            "146.1%",
+            "156.1%",
+            "169.9%",
+            "183.6%",
+            "197.3%",
+            "212.3%",
+            "227.3%",
+            "242.3%",
+            "257.3%",
+            "272.3%",
+            "287.3%"
+          ]
+        },
+        {
+          "label": "Coste de Aguante de ATQ Cargado",
+          "values": [
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts."
+          ]
+        },
+        {
+          "label": "Daño de Caída",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "Daño de impacto de caída baja/alta",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11502,
+      "id": "adagio_phantom_night_dancers",
+      "name": "Adagio: Danza nocturna fantasmagórica",
+      "description": "Con unos gráciles pasos de baile, inflige <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span> e invoca a una <b><span style=\"color:#FFD780FF\">doble bailarina</span></b> de sí misma.<br/>Si en el campo de batalla ya hay una <span style=\"color:#FFD780FF\">doble bailarina</span> invocada por Odette, volverá a invocarla y reiniciará su duración.<br/><br/><span style=\"color:#FFD780FF\">Doble bailarina</span><br/>Alterna entre dos tipos de pasos de baile, el <span style=\"color:#FFD780FF\">plumífero</span> y el <span style=\"color:#FFD780FF\">alado</span>, para atacar cada cierto tiempo a los enemigos cercanos con unos movimientos gráciles y elegantes que infligen <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span>.<br/>Además, durante 6 s después de usar la Habilidad Elemental, <span style=\"color:#FFD780FF\">Adagio: Danza nocturna fantasmagórica</span>, esta se remplazará por la Habilidad Elemental especial <b><span style=\"color:#FFD780FF\">Adagio: Coda del amanecer</span></b><b></b>, con la cual realizará un dueto que inflige <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span> repetidas veces a los enemigos cercanos. Al finalizar el dueto, infligirá una vez <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span> considerado como daño de Superconductor Estelar o Torbellino Estelar.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Daño de habilidad",
+          "values": [
+            "108.1%",
+            "116.2%",
+            "124.3%",
+            "135.1%",
+            "143.2%",
+            "151.3%",
+            "162.1%",
+            "172.9%",
+            "183.7%",
+            "194.5%",
+            "205.4%",
+            "216.2%",
+            "229.7%",
+            "243.2%",
+            "256.7%"
+          ]
+        },
+        {
+          "label": "Daño continuo de Coda del amanecer",
+          "values": [
+            "95.8%",
+            "103%",
+            "110.2%",
+            "119.8%",
+            "127%",
+            "134.2%",
+            "143.8%",
+            "153.3%",
+            "162.9%",
+            "172.5%",
+            "182.1%",
+            "191.7%",
+            "203.7%",
+            "215.6%",
+            "227.6%"
+          ]
+        },
+        {
+          "label": "Daño de Superconductor Estelar/Torbellino Estelar de Coda del amanecer",
+          "values": [
+            "305.8% / 458.6%",
+            "328.7% / 493%",
+            "351.6% / 527.4%",
+            "382.2% / 573.3%",
+            "405.1% / 607.7%",
+            "428.1% / 642.1%",
+            "458.6% / 688%",
+            "489.2% / 733.8%",
+            "519.8% / 779.7%",
+            "550.4% / 825.6%",
+            "580.9% / 871.4%",
+            "611.5% / 917.3%",
+            "649.7% / 974.6%",
+            "688% / 1031.9%",
+            "726.2% / 1089.3%"
+          ]
+        },
+        {
+          "label": "Daño de paso de baile plumífero",
+          "values": [
+            "43%",
+            "46.3%",
+            "49.5%",
+            "53.8%",
+            "57%",
+            "60.3%",
+            "64.6%",
+            "68.9%",
+            "73.2%",
+            "77.5%",
+            "81.8%",
+            "86.1%",
+            "91.5%",
+            "96.8%",
+            "102.2%"
+          ]
+        },
+        {
+          "label": "Daño de Superconductor Estelar/Torbellino Estelar de paso de baile plumífero",
+          "values": [
+            "27% / 40.5%",
+            "29.1% / 43.6%",
+            "31.1% / 46.6%",
+            "33.8% / 50.7%",
+            "35.8% / 53.7%",
+            "37.8% / 56.7%",
+            "40.5% / 60.8%",
+            "43.2% / 64.8%",
+            "45.9% / 68.9%",
+            "48.6% / 73%",
+            "51.3% / 77%",
+            "54% / 81.1%",
+            "57.4% / 86.1%",
+            "60.8% / 91.2%",
+            "64.2% / 96.3%"
+          ]
+        },
+        {
+          "label": "Daño de paso de baile alado",
+          "values": [
+            "51.5%",
+            "55.3%",
+            "59.2%",
+            "64.3%",
+            "68.2%",
+            "72%",
+            "77.2%",
+            "82.3%",
+            "87.5%",
+            "92.6%",
+            "97.8%",
+            "102.9%",
+            "109.4%",
+            "115.8%",
+            "122.2%"
+          ]
+        },
+        {
+          "label": "Daño de Superconductor Estelar/Torbellino Estelar de paso de baile alado",
+          "values": [
+            "32.3% / 48.5%",
+            "34.7% / 52.1%",
+            "37.2% / 55.7%",
+            "40.4% / 60.6%",
+            "42.8% / 64.2%",
+            "45.2% / 67.8%",
+            "48.5% / 72.7%",
+            "51.7% / 77.5%",
+            "54.9% / 82.4%",
+            "58.2% / 87.2%",
+            "61.4% / 92.1%",
+            "64.6% / 96.9%",
+            "68.7% / 103%",
+            "72.7% / 109%",
+            "76.7% / 115.1%"
+          ]
+        },
+        {
+          "label": "TdE de Coda del amanecer",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Duración de doble bailarina",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "TdE de habilidad",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11505,
+      "id": "presto_bluebird_finale",
+      "name": "Presto: Sueño de plumas umbrías",
+      "description": "Con unos ágiles pasos de baile, inflige varias veces <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span>, invoca una <b><span style=\"color:#FFD780FF\">doble bailarina</span></b> de sí misma y obtiene el efecto de <span style=\"color:#FFD780FF\">sueño del cisne níveo</span>, el cual aumenta el daño de Destello Estelar infligido por Odette.<br/>Además, durante 6 s después de usar la Habilidad Definitiva, <span style=\"color:#FFD780FF\">Presto: Sueño de plumas umbrías</span>, la Habilidad Elemental de Odette, <span style=\"color:#FFD780FF\">Adagio: Danza nocturna fantasmagórica</span>, se remplazará por la Habilidad Elemental especial <b><span style=\"color:#FFD780FF\">Adagio: Coda del amanecer</span></b><b></b>.<br/><br/>Si en el campo de batalla ya hay una doble bailarina invocada por Odette, aparecerá a su lado y reiniciará su duración.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Daño de tajo",
+          "values": [
+            "110.2% ×3",
+            "118.4% ×3",
+            "126.7% ×3",
+            "137.7% ×3",
+            "146% ×3",
+            "154.2% ×3",
+            "165.3% ×3",
+            "176.3% ×3",
+            "187.3% ×3",
+            "198.3% ×3",
+            "209.3% ×3",
+            "220.4% ×3",
+            "234.1% ×3",
+            "247.9% ×3",
+            "261.7% ×3"
+          ]
+        },
+        {
+          "label": "Daño del último tajo",
+          "values": [
+            "170.3%",
+            "183%",
+            "195.8%",
+            "212.8%",
+            "225.6%",
+            "238.4%",
+            "255.4%",
+            "272.4%",
+            "289.5%",
+            "306.5%",
+            "323.5%",
+            "340.5%",
+            "361.8%",
+            "383.1%",
+            "404.4%"
+          ]
+        },
+        {
+          "label": "Aumento de daño de Destello Estelar de sueño del cisne níveo",
+          "values": [
+            "14%",
+            "18%",
+            "22%",
+            "26%",
+            "30%",
+            "34%",
+            "38%",
+            "42%",
+            "46%",
+            "50%",
+            "54%",
+            "58%",
+            "62%",
+            "66%",
+            "70%"
+          ]
+        },
+        {
+          "label": "Duración de sueño del cisne níveo",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "Duración de doble bailarina",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "TdE",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Energía Elemental",
+          "values": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "spring_rite_of_the_chosen_one",
+      "name": "Primavera de la elegida",
+      "description": "Cuando Odette invoque a su <b><span style=\"color:#FFD780FF\">doble bailarina</span></b>, obtendrá también 4 cargas de <b><span style=\"color:#FFD780FF\">cadenza</span></b>.",
+      "level": 1
+    },
+    {
+      "id": "pathetique_of_pateticheskaya",
+      "name": "Patética de la Patetícheskaya",
+      "description": "Por cada 100 pts. de ATQ que tenga Odette por encima de los 1000 pts., el daño de Destello Estelar que inflige aumentará en un 1.5% adicional del daño original. Como máximo, podrá infligir un 30% adicional del daño original de esta manera.",
+      "level": 4
+    },
+    {
+      "id": "stellar_jubilee_dance_of_aurore",
+      "name": "Bendición fulgorestelar: Danza de la aurora",
+      "description": "Al estar dentro de un <b><span style=\"color:#FFD780FF\">campo estrellapolar</span></b> o durante 8 s después de que un personaje del equipo cause una reacción de Torbellino Estelar en las cercanías, Odette entrará en el estado de <span style=\"color:#FFD780FF\">esplendor: Superconductor Estelar</span> o el de <span style=\"color:#FFD780FF\">esplendor: Torbellino Estelar</span>, respectivamente.<br/>Cuando un personaje del equipo cause una reacción de Superconductor o Torbellino Cryo, esta se transformará respectivamente en una reacción de Superconductor Estelar o Torbellino Estelar. El daño base de estas reacciones de los personajes del equipo aumentará en un 0.7% por cada 100 pts. de ATQ que tenga Odette. Como máximo, dicho daño puede aumentar en un 14% de esta manera.",
+      "level": 0
+    },
+    {
+      "id": "echo_of_winter_daydreams",
+      "name": "Eco del sueño invernal",
+      "description": "Muestra la ubicación de los <span style=\"color:#FFD780FF\">objetos típicos de Snezhnaya</span> cercanos en el minimapa.<br/>Practicar danza en el tiempo libre podría activar otros efectos...",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1501,
+      "id": "on_this_danceless_morn_she_gazes_at_her_reflection",
+      "name": "“En una mañana sin danza, ella observó su reflejo”",
+      "description": "Tras usar la Habilidad Elemental especial <b><span style=\"color:#FFD780FF\">Adagio: Coda del amanecer</span></b>, al finalizar el dueto, Odette infligirá <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span> una vez más a los enemigos cercanos considerado de una naturaleza distinta:<br/>·Al encontrarse en estado de <span style=\"color:#FFD780FF\">esplendor: Superconductor Estelar</span> o en ningún estado de esplendor, dicho daño se considerará de Superconductor Estelar y será equivalente al 300% del ATQ de Odette.<br/>·Al encontrarse en estado de <span style=\"color:#FFD780FF\">esplendor: Torbellino Estelar</span>, dicho daño se considerará de Torbellino Estelar y será equivalente al 450% del ATQ de Odette.<br/><br/>Además, fortalece el talento de ascensión “Primavera de la elegida”, de manera que, al invocar a la <b><span style=\"color:#FFD780FF\">doble bailarina</span></b>, Odette obtendrá 2 cargas adicionales de <b><span style=\"color:#FFD780FF\">cadenza</span></b> y, cuando esté en tu equipo pero no en uso, la velocidad a la que se eliminan las cargas de <span style=\"color:#FFD780FF\">cadenza</span> aumentará a 2 cargas por segundo.",
+      "level": 1
+    },
+    {
+      "_id": 1502,
+      "id": "i_must_see_the_snow_swans_unseen_dream_for_myself_she_thought",
+      "name": "“Quiero ver los sueños nunca vistos por el cisne níveo”",
+      "description": "Fortalece el talento de ascensión “Primavera de la elegida”, de manera que cada carga de <b><span style=\"color:#FFD780FF\">cadenza</span></b> también aumenta en un 7% el ATQ del personaje.<br/>Además, cuando la <b><span style=\"color:#FFD780FF\">doble bailarina</span></b> esté activa y Odette se encuentre en estado de <b><span style=\"color:#FFD780FF\">esplendor: Destello Estelar</span></b>, las RES Elementales correspondientes de los enemigos cercanos a la <span style=\"color:#FFD780FF\">doble bailarina</span> se reducirán en un 20%:<br/>·<span style=\"color:#FFD780FF\">Esplendor: Superconductor Estelar</span><br/>Reduce las RES <span style=\"color:#99FFFFFF\">Cryo</span> y <span style=\"color:#FFACFFFF\">Electro</span>.<br/>·<span style=\"color:#FFD780FF\">Esplendor: Torbellino Estelar</span><br/>Reduce las RES <span style=\"color:#99FFFFFF\">Cryo</span> y <span style=\"color:#80FFD7FF\">Anemo</span>.",
+      "level": 2
+    },
+    {
+      "_id": 1503,
+      "id": "ill_chase_the_shouting_wind_along_climbing_alone_as_i_go",
+      "name": "“Seguiré al viento aullante y ascenderé solitaria”",
+      "description": "Aumenta el nivel de habilidad de <color=#FFD780FF><b>Adagio: Danza nocturna fantasmagórica</b></color> +3.<br/>Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "_id": 1504,
+      "id": "up_up_the_long_delirious_burning_blue",
+      "name": "“Hacia arriba, cayendo a un cielo borroso y ardiente”",
+      "description": "Fortalece la Habilidad Definitiva, <span style=\"color:#FFD780FF\">Presto: Sueño de plumas umbrías</span>, de manera que, cuando Odette obtiene el efecto de <span style=\"color:#FFD780FF\">sueño del cisne níveo</span>, el daño de Destello Estelar de los demás personajes cercanos del equipo también aumenta en una cantidad equivalente al 50% del efecto de <span style=\"color:#FFD780FF\">sueño del cisne níveo</span>.<br/><br/>Además, cuando un personaje del equipo inflija daño de Destello Estelar a un enemigo, Odette también realizará un ataque coordinado contra dicho enemigo que le infligirá una vez <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span>. Esto solo puede ocurrir una vez cada 3.5 s y la naturaleza del daño infligido será distinta dependiendo de lo siguiente:<br/>·Al encontrarse en estado de <span style=\"color:#FFD780FF\">esplendor: Superconductor Estelar</span> o en ningún estado de esplendor, dicho daño se considerará daño de Superconductor Estelar y será equivalente al 66% del ATQ de Odette.<br/>·Al encontrarse en estado de <span style=\"color:#FFD780FF\">esplendor: Torbellino Estelar</span>, dicho daño se considerará daño de Torbellino Estelar y será equivalente al 99% del ATQ de Odette.",
+      "level": 4
+    },
+    {
+      "_id": 1505,
+      "id": "oh_i_have_slipped_the_surly_bonds_of_earth",
+      "name": "“Observa, pues ya me he liberado del sufrimiento mundano”",
+      "description": "Aumenta el nivel de habilidad de <color=#FFD780FF><b>Presto: Sueño de plumas umbrías</b></color> +3.<br/>Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "_id": 1506,
+      "id": "put_out_my_hand_and_touched_the_face_of_the_divine",
+      "name": "“Extiende la mano y toca el rostro eterno del firmamento”",
+      "description": "Fortalece el talento de ascensión “Primavera de la elegida”, de manera que, cuando Odette otorga <b><span style=\"color:#FFD780FF\">cadenza</span></b> a todos los personajes cercanos del equipo, la que ella tenga no se reducirá.<br/>Además, el daño de Destello Estelar que los personajes afectados por <span style=\"color:#FFD780FF\">cadenza</span> infligen a los enemigos <b><span style=\"color:#FFD780FF\">asciende</span></b> en un 25%, y el daño de Destello Estelar que Odette inflige a los enemigos asciende en un 20% adicional.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "Vida Base",
+          "values": [
+            "-",
+            "1011"
+          ]
+        },
+        {
+          "label": "ATQ Base",
+          "values": [
+            "-",
+            "26"
+          ]
+        },
+        {
+          "label": "DEF Base",
+          "values": [
+            "-",
+            "61"
+          ]
+        },
+        {
+          "label": "Daño CRIT",
+          "values": [
+            "-",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "Vida Base",
+          "values": [
+            "2621",
+            "3488"
+          ]
+        },
+        {
+          "label": "ATQ Base",
+          "values": [
+            "68",
+            "90"
+          ]
+        },
+        {
+          "label": "DEF Base",
+          "values": [
+            "159",
+            "211"
+          ]
+        },
+        {
+          "label": "Daño CRIT",
+          "values": [
+            "50.0%",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "Vida Base",
+          "values": [
+            "5219",
+            "5834"
+          ]
+        },
+        {
+          "label": "ATQ Base",
+          "values": [
+            "135",
+            "151"
+          ]
+        },
+        {
+          "label": "DEF Base",
+          "values": [
+            "316",
+            "354"
+          ]
+        },
+        {
+          "label": "Daño CRIT",
+          "values": [
+            "50.0%",
+            "59.6%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104161,
+        "id": "shivada_jade_sliver",
+        "name": "Pedacito de jade shivada",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Flor frigifeérica",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Lumiesquirla etérea",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "Vida Base",
+          "values": [
+            "6712",
+            "7533"
+          ]
+        },
+        {
+          "label": "ATQ Base",
+          "values": [
+            "173",
+            "194"
+          ]
+        },
+        {
+          "label": "DEF Base",
+          "values": [
+            "407",
+            "457"
+          ]
+        },
+        {
+          "label": "Daño CRIT",
+          "values": [
+            "59.6%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "Fragmento de jade shivada",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Rama florida inmortal no chamuscada",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Flor frigifeérica",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Lumiesquirla etérea",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "Vida Base",
+          "values": [
+            "8421",
+            "9036"
+          ]
+        },
+        {
+          "label": "ATQ Base",
+          "values": [
+            "217",
+            "233"
+          ]
+        },
+        {
+          "label": "DEF Base",
+          "values": [
+            "511",
+            "548"
+          ]
+        },
+        {
+          "label": "Daño CRIT",
+          "values": [
+            "69.2%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "Fragmento de jade shivada",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Rama florida inmortal no chamuscada",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Flor frigifeérica",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Quiebracristal etéreo",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "Vida Base",
+          "values": [
+            "9932",
+            "10547"
+          ]
+        },
+        {
+          "label": "ATQ Base",
+          "values": [
+            "256",
+            "272"
+          ]
+        },
+        {
+          "label": "DEF Base",
+          "values": [
+            "602",
+            "639"
+          ]
+        },
+        {
+          "label": "Daño CRIT",
+          "values": [
+            "69.2%",
+            "78.8%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "Trozo de jade shivada",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Rama florida inmortal no chamuscada",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Flor frigifeérica",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Quiebracristal etéreo",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "Vida Base",
+          "values": [
+            "11453",
+            "12068"
+          ]
+        },
+        {
+          "label": "ATQ Base",
+          "values": [
+            "295",
+            "311"
+          ]
+        },
+        {
+          "label": "DEF Base",
+          "values": [
+            "694",
+            "732"
+          ]
+        },
+        {
+          "label": "Daño CRIT",
+          "values": [
+            "78.8%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "Trozo de jade shivada",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Rama florida inmortal no chamuscada",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Flor frigifeérica",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "Petreoescama etérea",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "Vida Base",
+          "values": [
+            "12981",
+            "12981"
+          ]
+        },
+        {
+          "label": "ATQ Base",
+          "values": [
+            "335",
+            "335"
+          ]
+        },
+        {
+          "label": "DEF Base",
+          "values": [
+            "787",
+            "787"
+          ]
+        },
+        {
+          "label": "Daño CRIT",
+          "values": [
+            "88.4%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104164,
+        "id": "shivada_jade_gemstone",
+        "name": "Jade shivada",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Rama florida inmortal no chamuscada",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Flor frigifeérica",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "Petreoescama etérea",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104365,
+          "id": "teachings_of_charity",
+          "name": "Enseñanzas del amor",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "Lumiesquirla etérea",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guía del amor",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Quiebracristal etéreo",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guía del amor",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Quiebracristal etéreo",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guía del amor",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Quiebracristal etéreo",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guía del amor",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Quiebracristal etéreo",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Filosofía del amor",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Petreoescama etérea",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Rama marchita retorcida",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Filosofía del amor",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Petreoescama etérea",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Rama marchita retorcida",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Filosofía del amor",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Petreoescama etérea",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Rama marchita retorcida",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Filosofía del amor",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Petreoescama etérea",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Rama marchita retorcida",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Corona de la sabiduría",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 215000,
+      "name": "Danza del cisne níveo",
+      "description": "Modelo de vestimenta de Odette. Un traje de ballet de confección excepcional, inspirado en los cisnes níveos, que ha sido el fiel compañero de esta diligente bailarina a lo largo de innumerables noches. Las gemas que lo adornan brillan con una elegancia discreta bajo las luces del escenario, al igual que la propia bailarina, que resplandece con su presencia.",
+      "isDefault": true,
+      "characterName": "Odette",
+      "characterId": 10000150,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Odette_Circle"
+    }
+  ]
+}

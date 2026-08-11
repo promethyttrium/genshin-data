@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Geo",
+    "weapon": "Altre armi",
     "faction": [
-      null,
-      null
+      "Mostro",
+      "Hilichurl"
     ],
     "talent_card": {
       "_id": 3239,
@@ -28,8 +30,10 @@
     {
       "id": "plama_lawa",
       "name": "Plama Lawa",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -48,8 +52,10 @@
     {
       "id": "movo_lawa",
       "name": "Movo Lawa",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 3 ?.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -62,8 +68,10 @@
     {
       "id": "upa_shato",
       "name": "Upa Shato",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 5 ?.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -83,7 +91,9 @@
       "id": "infused_stonehide",
       "name": "Incantamento: Mantodipietra",
       "desc": "(Passiva) All'inizio del duello ottiene <span style=\"color:#FFFFFFFF\">Mantodipietra</span> e <span style=\"color:#FFFFFFFF\">Forza della pietra</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

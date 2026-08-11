@@ -1,0 +1,39 @@
+{
+  "_id": 26310101,
+  "id": "chimeric_armored_beast",
+  "monsterId": 26310102,
+  "name": "嵌合鍪甲獸",
+  "specialNames": [
+    "嵌合鍪甲獸"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種魔獸",
+  "filename_icon": "UI_MonsterIcon_Chimera_BeetleLion",
+  "description": "凍土之上一度盛行的生物煉金產物，異種合成魔獸。\\n四足的猛獸如若擁有如鬼兜蟲般的甲殼和撞角，說不定能夠成為衝破敵對軍勢的奇兵。\\n按理說這種追求單一功能的合成魔獸很少能夠真的在自然界生存，大多數在失去了運用場所後就將因為違背自然的規律而消亡死去，但顯然鍪甲獸並不在此列。\\n如今，至冬的凍土上倒是經常會看到鍪甲獸成群結隊狩獵的身影。",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 7.315024,
+      "attack": 58.575787,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

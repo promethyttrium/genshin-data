@@ -1,0 +1,24 @@
+{
+  "_id": 112156,
+  "id": "sprout_node_of_life",
+  "name": "Sprossknoten des Lebens",
+  "description": "Ein schwerer Ast, an dem sich bereits einige Kristalle gebildet haben. Man spürt darin eine noch immer pulsierende Lebenskraft, obwohl er vom Hauptkörper des Leschis getrennt wurde.",
+  "source": [
+    "Beute von Wildnis-Leschi ab Stufe 40",
+    "Mit Sternenstaub kaufen",
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112155,
+        "id": "hollow_root_of_life",
+        "name": "Hohle Wurzel des Lebens",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

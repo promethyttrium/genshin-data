@@ -1,0 +1,39 @@
+{
+  "_id": 26310401,
+  "id": "chimeric_horned_bear",
+  "monsterId": 26310402,
+  "name": "Chimärischer Hornbär",
+  "specialNames": [
+    "Chimärischer Hornbär"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystische Bestien",
+  "filename_icon": "UI_MonsterIcon_Chimera_BearDeer",
+  "description": "Ein Produkt der Bio-Alchimie, ein aberrantes chimärisches Monster von äußerst bizarrer Erscheinung.\\nDieses künstlich erschaffene Monstrum hat sich nicht nach den ursprünglichen Plänen seines Schöpfers entwickelt, sondern durch die spontane Verschmelzung verschiedener Lebenssegmente. Dadurch kam es auch, dass es sich bestimmte erstaunliche Eigenschaften zu eigen machte, darunter die Fähigkeit, nach freiem Ermessen auf Elementarkräfte zugreifen zu können.\\nSelbst wenn das Leben auf seine bloßen Segmente reduziert wird; kann es sein, dass es stets einen Willen und eine Macht gibt, die es wieder nach einem Plan, der uns verborgen bleibt, wachsen lässt?\\nDie Antwort darauf kennt heute vermutlich niemand mehr.",
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 27.431341,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

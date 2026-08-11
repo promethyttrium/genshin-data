@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Seres elementales",
   "filename_icon": "UI_MonsterIcon_Slime_Water_02",
   "description": "Un monstruo de pequeño tamaño formado a partir de los depósitos del elemento Hydro presentes en la naturaleza.\\nSe dice que algunas personas utilizan los Slimes Hydro como cantimploras de emergencia cuando van a lugares secos en los que es difícil encontrar agua o cuando exploran dominios. Pero, debido a la alta concentración del elemento Hydro en ellos, beberse un Slime Hydro no es nada bueno para la salud.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "สัตว์อสูรลึกลับ",
   "filename_icon": "UI_MonsterIcon_Fungus_Trois_Alpha_Ice",
   "description": "สิ่งมีชีวิตสปอร์ที่มีสติปัญญา มีความสามารถในการปรับตัวสูง\\nFungus ไม่ได้มีรสชาติดีขึ้นหลังจากผ่านการแช่แข็ง แต่ด้วยเหตุนี้จึงยังพอมีสรรพคุณในการบรรเทาความร้อนอยู่บ้าง",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

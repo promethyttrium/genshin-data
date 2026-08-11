@@ -37,12 +37,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_Abyss_Electric_01",
   "description": "Savaşta Elektrikten faydalanan Hiçlik yaratıkları.\\nAraştırmacı Alva Nikola, Akademide çalışırken Hiçlik Elektrik Büyücülerinin Elektriği kullanma yöntemleri üzerine sistematik bir araştırma yapıp Nikola Coil olarak bilinen teorik bir silah bulmuştur. Ancak bu silah henüz test edilmemiştir. Kimileri araştırma malzemelerinin mantar istilası sırasında yok olup gittiğini söyler.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

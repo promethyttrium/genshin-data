@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Flamingo",
   "description": "Un centinela tribal de los acantilados que patrulla los picos montañosos más escarpados.\\nEstos guerreros han aprendido a dominar su propio poder al observar e imitar los golpes con garra de los saurios voladores. Nadie debería subestimar jamás sus patadas realizadas desde las alturas.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

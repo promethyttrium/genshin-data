@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Samurai_Kairagi_01",
   "description": "Samurais que caíram no banditismo.\\nEles possuem habilidades de artes marciais altamente avançadas, mas não encontraram utilidade para elas por vários motivos. Por desespero, eles caíram no caminho do mal. Eles usam selos de papel, criados a partir de uma arte Kamuna perdida há séculos para infundir em suas lâminas o poder do relâmpago.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 6,
   "stats": {

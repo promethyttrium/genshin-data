@@ -1,0 +1,90 @@
+{
+  "_id": 2208,
+  "id": "hydro_hypostasis",
+  "shareId": 610,
+  "name": "Гидро гипостазис",
+  "title": "Гидро гипостазис",
+  "desc": "Высокоуровневая форма жизни Гидро элемента под кодовым названием «Хе». Обладает сильным инстинктом отторжения и безжалостно изгоняет любого, кто осмелится его проверить.",
+  "attributes": {
+    "hp": 8,
+    "card_type": "Карты персонажей",
+    "energy": 2,
+    "element": "Гидро",
+    "weapon": "Прочее",
+    "faction": [
+      "Монстр"
+    ],
+    "source": "Награда за победу над Гидро гипостазисом в Дружеской дуэли в «Кошкином хвосте»"
+  },
+  "skills": [
+    {
+      "id": "droplet_diffusion",
+      "name": "Рассеивание водяных капель",
+      "desc": "Наносит <span style=\"color:#80C0FFFF\">Гидро урон</span>, 1 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Гидро",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Неопределённый элемент",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "surging_tides",
+      "name": "Бушующие волны",
+      "desc": "Наносит <span style=\"color:#80C0FFFF\">Гидро урон</span>, 2 ед., после чего начинается <span style=\"color:#FFFFFFFF\">Подготовка навыка</span>: <span style=\"color:#FFFFFFFF\">Прибой</span>.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Гидро",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "calamitous_tides",
+      "name": "Волна бедствия",
+      "desc": "Наносит <span style=\"color:#80C0FFFF\">Гидро урон</span>, 3 ед. и призывает помощника: <span style=\"color:#FFFFFFFF\">Капля</span>.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Гидро",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Энергия",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "hydro_crystal_core",
+      "name": "Кристальное ядро Гидро",
+      "desc": "(Пассивный навык) В начале битвы у персонажа будет <span style=\"color:#FFFFFFFF\">Кристальное ядро Гидро</span>. Если на поле существует <span style=\"color:#FFFFFFFF\">Капля</span>, при расходовании <span style=\"color:#FFFFFFFF\">Кристальное ядро Гидро</span> повторно даёт <span style=\"color:#FFFFFFFF\">Кристальное ядро Гидро</span>, а <span style=\"color:#FFFFFFFF\">Капля</span> получает уменьшение количества применений на 1.",
+      "skillTag": [
+        "Пассивный навык"
+      ],
+      "points": []
+    }
+  ]
+}

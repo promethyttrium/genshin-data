@@ -68,6 +68,11 @@
       "name": "Fricassee de Poulet"
     },
     {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Kem Lý Gai Băng Giá"
+    },
+    {
       "_id": 4403,
       "id": "fontinalia_mousse",
       "name": "Bánh Mousse Fontinalia"
@@ -85,6 +90,5 @@
   ],
   "source": [
     "Nhận khi gia công nấu nướng"
-  ],
-  "rarity": 0
+  ]
 }

@@ -33,13 +33,13 @@
       "_id": 112063,
       "id": "dormant_fungal_nucleus",
       "name": "Nucleo di Miconoide dormiente",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112062,
       "id": "inactivated_fungal_nucleus",
       "name": "Nucleo di Miconoide inattivo",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112061,
@@ -57,16 +57,15 @@
       "_id": 112059,
       "id": "fungal_spores",
       "name": "Spore fungine",
-      "count": 0.2101
+      "count": 0.21
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water",
   "description": "Una forma di vita mimetica composta da spore e che possiede un'estrema capacità di adattamento.\\nNonostante abbia le sembianze di un uccello, non è in grado di volare. Grazie all'influenza delle energie di Hydro, risulta incredibilmente agile rispetto ai suoi simili. Piuttosto che una singola entità, alcuni ricercatori hanno azzardato che questo essere sia in realtà un aggregato d'innumerevoli spore microscopiche.\\nQuesta creatura esercita un ruolo di comando all'interno delle colonie di Miconoidi, e presenta un livello d'intelligenza superiore alla media.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

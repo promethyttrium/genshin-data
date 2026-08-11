@@ -1,0 +1,54 @@
+{
+  "_id": 3701,
+  "id": "zharkoye",
+  "name": "Carne Braseada na Panela",
+  "description": "Um prato de carne servido numa panela de barro. Ingredientes cortados em cubo são colocados na panela, selados com massa, então assados no forno. Quando estiver preparado, a parte de cima crocante do pão é removida e Smetana é adicionada para temperar. O método em si não é complicado, mas controlar a temperatura do forno e o tempo de braseado requer experiência.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Carne Crua",
+      "amount": 3
+    },
+    {
+      "_id": 100080,
+      "id": "potato",
+      "name": "Batata",
+      "amount": 2
+    },
+    {
+      "_id": 100013,
+      "id": "carrot",
+      "name": "Cenoura",
+      "amount": 2
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Pratos de Regeneração",
+  "results": {
+    "suspicious": {
+      "_id": 108985,
+      "name": "Carne Braseada na Panela Estranha",
+      "description": "Um prato de carne servido numa panela de barro. Devido a um longo tempo de cozimento na panela, a carne se desmanchou em fios que fazem parecer que você está mastigando um lençol velho. Uma bocada é suficiente para fazer você deslizar gentilmente a panela para longe de você...",
+      "effect": "Restaura 30% da Vida Máxima para o personagem selecionado, e restaura 600 de Vida adicional."
+    },
+    "normal": {
+      "_id": 108986,
+      "name": "Carne Braseada na Panela",
+      "description": "Um prato de carne servido numa panela de barro. Ingredientes cortados em cubo são colocados na panela, selados com massa, então assados no forno. Quando estiver preparado, a parte de cima crocante do pão é removida e Smetana é adicionada para temperar. O método em si não é complicado, mas controlar a temperatura do forno e o tempo de braseado requer experiência.",
+      "effect": "Restaura 32% da Vida Máxima e 1250 de Vida para o personagem selecionado."
+    },
+    "delicious": {
+      "_id": 108987,
+      "name": "Carne Braseada na Panela Deliciosa",
+      "description": "Um prato de carne servido numa panela de barro. Abrir a tampa de massa crocante libera uma onda repentina de aroma manteigado e salgado com um calor convidativo. É como se banhar num calor aconchegante após jogar um tronco de lenha fresco na lareira numa noite de neve invernal.",
+      "effect": "Restaura 34% da Vida Máxima e 1900 de Vida ao personagem selecionado."
+    }
+  }
+}

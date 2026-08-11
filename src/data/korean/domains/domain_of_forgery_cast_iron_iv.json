@@ -1,0 +1,68 @@
+{
+  "_id": 4710,
+  "id": "domain_of_forgery_cast_iron_iv",
+  "name": "연무 비경: 주철 IV",
+  "entranceId": 2106,
+  "entranceName": "망념의 상흔",
+  "description": "원한을 품은 반역자들은 한때 이곳에 숨어 옛 영광을 되찾겠다는 헛된 꿈을 꾸었다. 그러나 그 꿈은 핏빛 불꽃과 함께 사라지고, 끝없는 창백함만이 남았다.\n만약 이 안에 도사리고 있는 적을 처치하면 장비 강화 소재를 얻을 수 있을지도 모른다",
+  "regionId": 8,
+  "regionName": "스네즈나야",
+  "recommendedLevel": 80,
+  "unlockRank": 40,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "바람 원소",
+    "얼음 원소"
+  ],
+  "daysOfWeek": [
+    "월요일",
+    "목요일",
+    "일요일"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "모험 경력",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "모라",
+      "count": "2200"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "호감도 경험치",
+      "count": "20"
+    },
+    {
+      "_id": 114088,
+      "id": "triumph_of_the_pale_star_army",
+      "name": "창백한 별군단의 정복"
+    },
+    {
+      "_id": 114087,
+      "id": "clarion_of_the_pale_star_army",
+      "name": "창백한 별군단의 명령"
+    },
+    {
+      "_id": 114086,
+      "id": "muster_of_the_pale_star_army",
+      "name": "창백한 별군단의 집결"
+    },
+    {
+      "_id": 114085,
+      "id": "rise_of_the_pale_star_army",
+      "name": "창백한 별군단의 결성"
+    }
+  ],
+  "monsterList": []
+}

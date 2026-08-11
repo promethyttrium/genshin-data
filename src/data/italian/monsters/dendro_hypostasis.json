@@ -13,7 +13,6 @@
   "categoryText": "Forme di vita elementali",
   "filename_icon": "UI_MonsterIcon_Effigy_Grass",
   "description": "Nome in codice: Zayin. Un'entità di Dendro molto pura.\\nSecondo quanto dedotto da alcuni ricercatori, le Ipostasi elementali possiedono la conoscenza necessaria per \"apprendere\", e grazie a essa fanno uso della \"mimesi\" per lanciare i loro attacchi. D'altra parte, la capacità di incorporare le informazioni e attuare un cambiamento aumenta il rischio che tali informazioni vengano contaminate. Man mano che questa creatura apprende e va incontro a mutazioni, lo scopo della sua nascita (per quanto accademicamente incommensurabile possa ancora essere) potrebbe distorcersi a tal punto da diventare del tutto irrilevante.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

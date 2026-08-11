@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Larva_03",
   "description": "Sinh vật thủy sinh có thể bắn đạn nước để săn bắt.\\nTrong số (ít) những người yêu thích động vật Dị Chủng Biển Sâu, thì Cá Ngựa Bong Bóng được khá nhiều người ủng hộ. Đương nhiên, người yêu thích Dị Chủng Biển Sâu cũng giống như người yêu thích robot dây cót, sẽ có phản ứng rất mạnh với người trái quan điểm của họ.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 5.34,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

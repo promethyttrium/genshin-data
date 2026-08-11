@@ -157,7 +157,6 @@
   "categoryText": "Boss",
   "filename_icon": "UI_MonsterIcon_Nihil",
   "description": "Arlecchino, la 4e Exécutrice des Fatui.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

@@ -39,7 +39,7 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "愚人众",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Strong_Gloves_Wind_01",

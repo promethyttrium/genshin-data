@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Arco",
     "faction": [
-      null,
-      null
+      "Fontaine",
+      "Fatui"
     ],
     "talent_card": {
       "_id": 4762,
@@ -30,8 +32,10 @@
     {
       "id": "card_force_translocation",
       "name": "Adivina la carta",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,8 +54,10 @@
     {
       "id": "prop_arrow",
       "name": "Flecha magiaoculta",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?, crea un <span style=\"color:#FFFFFFFF\">sombrero gatorrisueño</span> y obtiene 1 acumulación de <span style=\"color:#FFFFFFFF\">cálculo oculto</span>.<br/>Si este personaje tiene al menos 6 pts. de Vida, recibe 1 pt. de <span style=\"color:#FFFFFFFF\">Daño Penetrante</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#FF9999FF\">Daño Pyro</span>, crea un <span style=\"color:#FFFFFFFF\">sombrero gatorrisueño</span> y obtiene 1 acumulación de <span style=\"color:#FFFFFFFF\">cálculo oculto</span>.<br/>Si este personaje tiene al menos 6 pts. de Vida, recibe 1 pt. de <span style=\"color:#FFFFFFFF\">Daño Penetrante</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -64,8 +70,10 @@
     {
       "id": "bewildering_lights",
       "name": "Luces del desconcierto",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#FF9999FF\">Daño Pyro</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -78,8 +86,10 @@
     {
       "id": "wondrous_trick_miracle_parade",
       "name": "Número final: Desfile prodigioso",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?, crea un <span style=\"color:#FFFFFFFF\">sombrero gatorrisueño</span> y obtiene 1 acumulación de <span style=\"color:#FFFFFFFF\">cálculo oculto</span>.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#FF9999FF\">Daño Pyro</span>, crea un <span style=\"color:#FFFFFFFF\">sombrero gatorrisueño</span> y obtiene 1 acumulación de <span style=\"color:#FFFFFFFF\">cálculo oculto</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1103,

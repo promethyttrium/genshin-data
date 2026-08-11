@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01",
   "description": "Ein Fatui-Soldat, der eine Flammenkanone bedient.\\nIn gewissem Maß können die Waffen dieser Plänkler die Elemente kontrollieren, sodass ihre Kampfstrategie auch Elementarreaktionen umfassen.\\nMit diesen Waffen und Kenntnissen sind Plänklerverbände keine zu unterschätzende Bedrohung.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

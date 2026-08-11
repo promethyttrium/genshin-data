@@ -1,0 +1,54 @@
+{
+  "_id": 3701,
+  "id": "zharkoye",
+  "name": "Zharkoye",
+  "description": "Món thịt được đựng trong niêu đất. Cho lần lượt nguyên liệu đã cắt miếng vào, dùng bột bịt kín miệng niêu rồi cho vào lò nướng. Sau khi ra lò, mở lớp vỏ bánh mì giòn rụm phía trên, thêm Smetana vào để tăng hương vị. Cách làm không phức tạp, nhưng việc kiểm soát nhiệt độ lò và thời gian hầm đòi hỏi một chút kinh nghiệm.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Thịt Rừng",
+      "amount": 3
+    },
+    {
+      "_id": 100080,
+      "id": "potato",
+      "name": "Khoai Tây",
+      "amount": 2
+    },
+    {
+      "_id": 100013,
+      "id": "carrot",
+      "name": "Cà Rốt",
+      "amount": 2
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Món Dạng Hồi Phục",
+  "results": {
+    "suspicious": {
+      "_id": 108985,
+      "name": "Zharkoye Kỳ Lạ",
+      "description": "Món thịt được đựng trong niêu đất. Những miếng thịt bị hầm quá lâu, đến khi ra lò đã nát thành từng sợi thịt vụn, chẳng khác nào đang nhai một tấm thảm len cũ bị xé toạc. Sau khi nuốt một miếng, chỉ muốn lặng lẽ đẩy chiếc niêu ra thật xa, càng xa càng tốt...",
+      "effect": "Hồi 30% giới hạn HP cho nhân vật được chọn, và hồi thêm 600 điểm HP."
+    },
+    "normal": {
+      "_id": 108986,
+      "name": "Zharkoye",
+      "description": "Món thịt được đựng trong niêu đất. Cho lần lượt nguyên liệu đã cắt miếng vào, dùng bột bịt kín miệng niêu rồi cho vào lò nướng. Sau khi ra lò, mở lớp vỏ bánh mì giòn rụm phía trên, thêm Smetana vào để tăng hương vị. Cách làm không phức tạp, nhưng việc kiểm soát nhiệt độ lò và thời gian hầm đòi hỏi một chút kinh nghiệm.",
+      "effect": "Hồi 32% giới hạn HP cho nhân vật được chọn, và hồi thêm 1250 điểm HP."
+    },
+    "delicious": {
+      "_id": 108987,
+      "name": "Zharkoye Ngon",
+      "description": "Món thịt được đựng trong niêu đất. Mở lớp vỏ giòn đang đậy bên trên, hương thịt đậm đà quyện trong làn hơi nóng phả vào mặt. Tựa như thêm một khúc củi đang cháy rực vào lò sưởi giữa đêm tuyết giá, ấm áp đến mức khiến người ta đắm chìm.",
+      "effect": "Hồi 34% giới hạn HP cho nhân vật được chọn, và hồi thêm 1900 điểm HP."
+    }
+  }
+}

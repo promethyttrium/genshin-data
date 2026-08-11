@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Senjata Lain",
     "faction": [
-      null
+      "Fatui"
     ],
     "talent_card": {
       "_id": 6325,
@@ -27,8 +29,10 @@
     {
       "id": "swift_point",
       "name": "Swift Point",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -47,8 +51,10 @@
     {
       "id": "frosty_interjection",
       "name": "Frosty Interjection",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#99FFFFFF\">Cryo DMG</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -61,8 +67,10 @@
     {
       "id": "thorny_onslaught",
       "name": "Thorny Onslaught",
-      "desc": "Mengakibatkan ? poin ?. Karakter ini memperoleh status <span style=\"color:#FFFFFFFF\">Onslaught Stance</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 5 poin <span style=\"color:#99FFFFFF\">Cryo DMG</span>. Karakter ini memperoleh status <span style=\"color:#FFFFFFFF\">Onslaught Stance</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -82,7 +90,9 @@
       "id": "bloodbonded_shadow",
       "name": "Blood-Bonded Shadow",
       "desc": "[Pasif] <span style=\"color:#FFFFFFFF\">Setelah Karakter ini menggunakan Skill:</span> memberikan <span style=\"color:#FFFFFFFF\">Bond of Life</span> dengan <span style=\"color:#FFFFFFFF\">Penggunaan</span> sebanyak (DMG akhir Skill ini -2) kepada Karakter aktif lawan. (Maksimum 5 lapis)",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

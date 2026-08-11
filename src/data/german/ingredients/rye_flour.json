@@ -23,6 +23,11 @@
       "name": "Kalakukko"
     },
     {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "Glupov-Roggenbrot"
+    },
+    {
       "_id": 3607,
       "id": "lakkaberry_pie",
       "name": "Lakkabeerenkuchen"
@@ -35,6 +40,5 @@
   ],
   "source": [
     "Beim Verarbeiten von Gerichten zu erhalten"
-  ],
-  "rarity": 0
+  ]
 }

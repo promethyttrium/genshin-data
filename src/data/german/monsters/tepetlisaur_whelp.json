@@ -25,29 +25,27 @@
       "_id": 112103,
       "id": "tyrants_fang",
       "name": "Schneidezahn des Eroberers",
-      "count": 0.0616
+      "count": 0.062
     },
     {
       "_id": 112102,
       "id": "seasoned_fang",
       "name": "Ausgereifter kräftiger Zahn",
-      "count": 0.2465
+      "count": 0.246
     },
     {
       "_id": 112101,
       "id": "juvenile_fang",
       "name": "Unreifer spitzer Zahn",
-      "count": 0.9244
+      "count": 0.924
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Drillhead_Small",
   "description": "Junge Tepetlisaurier besitzen die Fähigkeit, sich ihren Weg durch Berge, Felsen und festes Phlogiston bahnen zu können.\\nBisweilen sind die Hörner auf ihrer Stirn noch nicht ausgeprägt, was ebenso für ihre Fähigkeiten im Graben gilt. Es soll sogar vorkommen, dass junge Tepetlisaurier, die sich im Graben üben, von Felsen eingeklemmt werden. Eines Tages sind sie dann jedoch groß genug, dass man auf den ersten Blick erkennen kann, wie frei sie sich doch durch Fels und Gestein zu bewegen wissen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

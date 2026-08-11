@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "愚人众",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Staff_Rock_01",
   "description": "能驱使岩元素构成护罩，保护战友的先遣队士兵。\\n不同于少数精锐的债务处理人与萤术士，先遣队的单兵实力与装备较为薄弱。\\n为了完成任务，为了减少人员与物资的损耗，先遣队的战术更讲究团队协作。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

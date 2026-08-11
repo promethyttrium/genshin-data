@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Bow",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3851,
@@ -29,8 +31,10 @@
     {
       "id": "divine_marksmanship",
       "name": "Divine Marksmanship",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "skyward_sonnet",
       "name": "Skyward Sonnet",
-      "desc": "Deals ? ?, creates 1 <span style=\"color:#FFFFFFFF\">Stormzone</span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#80FFD7FF\">Anemo DMG</span>, creates 1 <span style=\"color:#FFFFFFFF\">Stormzone</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "winds_grand_ode",
       "name": "Wind's Grand Ode",
-      "desc": "Deals ? ?, summons 1 <span style=\"color:#FFFFFFFF\">Stormeye</span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#80FFD7FF\">Anemo DMG</span>, summons 1 <span style=\"color:#FFFFFFFF\">Stormeye</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1105,

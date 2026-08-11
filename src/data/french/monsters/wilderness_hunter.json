@@ -14,7 +14,6 @@
   "filename_icon": "UI_MonsterIcon_WildHunt_Elite",
   "description": "Un esprit qui erre dans les étendues sauvages et gelées lorsque la sombre brume s'installe. Sa présence annonce les pires calamités.\\nDe nombreux guerriers d'un ancien royaume disparu reposent sous les terres gelées du nord. Bien que les vestiges du passé soient depuis longtemps balayés, ces nobles esprits continuent à défendre leur patrie dorée. Réveillés par la corruption de l'Abîme, ces combattants considèrent désormais tous ceux qui s'aventurent sur leur territoire comme des proies.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

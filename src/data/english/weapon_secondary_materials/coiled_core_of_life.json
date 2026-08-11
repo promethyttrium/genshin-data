@@ -1,0 +1,24 @@
+{
+  "_id": 112157,
+  "id": "coiled_core_of_life",
+  "name": "Coiled Core of Life",
+  "description": "A branch with a fully formed crystal core. It contains vitality that will not easily fade. If buried in the soil, it would likely grow into a new Leshy before long.",
+  "source": [
+    "Dropped by Lv. 60+ Wildwood Leshies",
+    "Stardust Exchange: Craft after exchanging",
+    "Placeholder - Craftable Amount: {0}"
+  ],
+  "rarity": 4,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 112156,
+        "id": "sprout_node_of_life",
+        "name": "Sprout Node of Life",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

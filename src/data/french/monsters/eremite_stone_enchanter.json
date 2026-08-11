@@ -31,22 +31,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Soie rouge brodée",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Satin rouge délavé",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humains",
   "filename_icon": "UI_MonsterIcon_Eremite_Male_Strong_Katar",
   "description": "Une personne issue des bandes de mercenaires vaguement organisées de la mer de sable. Elle est prête à travailler pour n'importe qui pour peu qu'on lui offre une généreuse rémunération.\\nDans les temps anciens, ces guerriers vêtus d'armures lourdes étaient des hommes de confiance du seigneur du soleil flamboyant qui avaient pour responsabilité de garder le palais royal.\\nUn esprit sinistre habite l'arme qu'il manie, lui venant en aide au moment où il en a le plus besoin. Une fois qu'il apparaît, seule l'agonie du vaincu peut apaiser sa colère, qu'il s'agisse de celle de son propriétaire ou de celle de l'ennemi.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

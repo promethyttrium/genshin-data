@@ -1,0 +1,16 @@
+{
+  "_id": 390001,
+  "id": "unbreakable_durandarte",
+  "name": "Sarsılmaz: Durandarte",
+  "description": "Ley Hatlarının derinliklerinden ortaya çıkan, gözü yanıltan fevkalade bir kılıç. Geçmişte Durandarte adındaki beyaz şövalye tarafından kullanıldığı söylenir.\\nAdı, kadim dillerde \"asla yok olmayan bıçak\" anlamına gelir. Tıpkı taşıdığı kılıç gibi, şövalyenin inandığı yol da asla sarsılmadı... Bir zamanlar saf olan çelik ne kadar kararmış olursa olsun.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Çift Elli Kılıç"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341901,
+  "icon_path": "UI_EquipIcon_Claymore_VarkaTunkeldegen",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_VarkaTunkeldegen"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": 25138001,
+  "id": "juvenile_tree_segment",
+  "monsterId": 25138003,
+  "name": "Giovane segmento d'albero",
+  "specialNames": [
+    "Lesij anziano robusto"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestie mistiche",
+  "filename_icon": "UI_MonsterIcon_Leshy_Normal_01",
+  "description": "Un Lesij che cresce nelle foreste e nelle terre selvagge.\\nTra le molte creature fatate di Snezhnaya, i Lesij sono una specie molto insolita, che compare raramente nelle città. Potrebbero benissimo essere i più longevi tra tutte le Fate, e pochi membri di altre razze longeve hanno mai assistito al ciclo di vita completo di un Lesij. Naturalmente, la maggior parte delle persone farebbe molta fatica persino a distinguere un Lesij da un altro.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.2,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

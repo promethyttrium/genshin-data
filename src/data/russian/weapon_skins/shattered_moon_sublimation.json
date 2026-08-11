@@ -1,0 +1,21 @@
+{
+  "_id": 330002,
+  "id": "shattered_moon_sublimation",
+  "name": "Крушитель луны: Истинное воплощение",
+  "description": "Великолепное иллюзорное копьё, появившееся из глубин артерий земли. Оно может менять свой вид в зависимости от типа элемента владельца. Говорят, что это копьё носило имя «Барнстокр», когда принадлежало выдающемуся грешнику в древней стране.",
+  "rarity": 5,
+  "type": {
+    "id": "Polearm",
+    "name": "Древковое оружие"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Сияющая иллюзия: Превосходство (Истинное воплощение)",
+    "priority": 1
+  },
+  "item_id": 341302,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphSpinifer_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphSpinifer_Great"
+}

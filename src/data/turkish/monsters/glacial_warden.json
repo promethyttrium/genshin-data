@@ -1,0 +1,40 @@
+{
+  "_id": 25135101,
+  "id": "glacial_warden",
+  "monsterId": 25135106,
+  "name": "Buzul Muhafızı",
+  "specialNames": [
+    "Buzul Muhafızı"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Efsanevi Canavarlar",
+  "filename_icon": "UI_MonsterIcon_Snegurochka_Male",
+  "description": "Kar ve buzun ortasındaki aşktan doğan bir Snegovik.\\nErkek Snegovikler doğuştan birer şövalyedir ve çoğu, kar ve buzdan diledikleri silahı dövebilme yeteneğiyle doğar.\\nEfsaneye göre Çar Belyi'nin karanlık dalgaya karşı yürüttüğü sefer sırasında onun muhafızı olarak görev yapan bir Snegovik, kendi türüne ait olmayan bir gücü açığa çıkararak devasa bir deve dönüşmüştür.\\nNihai kaderi bilinmese de böyle bir tabuyu çiğneyen birinin mutlu bir sonla karşılaşmadığı kesindir.",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 81.504,
+      "attack": 75.36,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

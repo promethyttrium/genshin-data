@@ -1,0 +1,29 @@
+{
+  "_id": 114095,
+  "id": "the_frost_emperors_lament",
+  "name": "Bi Thương Của Hoàng Đế Băng Giá",
+  "description": "Trong cái đêm mà sự thật dâng trào như làn nước đắng, cô ấy - người đã không còn như xưa, chuẩn bị một món quà dành cho người bạn đang ngự trên ngai vàng.<br/>Cả hai đều cảm thấy đó có lẽ là lần cuối cùng họ trò chuyện với nhau như vậy.<br/>Bởi kể từ sau đó, con đường mà họ từng đồng hành đã sụp đổ vì sự yếu đuối của một người và sự phẫn nộ của người còn lại.",
+  "source": [
+    "Số lượng có thể ghép - chiếm chỗ: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114094,
+        "id": "the_frost_emperors_ceremony",
+        "name": "Khánh Lễ Của Hoàng Đế Băng Giá",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Bí Cảnh Luyện Võ: Vết Sẹo Vọng Tưởng",
+  "days": [
+    "Thứ 4",
+    "Thứ 7",
+    "Chủ Nhật"
+  ]
+}

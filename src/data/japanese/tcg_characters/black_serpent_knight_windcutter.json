@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "キャラカード",
     "energy": 2,
+    "element": "風元素",
+    "weapon": "他の武器",
     "faction": [
-      null
+      "魔物"
     ],
     "source": "キャッツテールのリトルプリンスのところで酒場挑戦を行い、「黒蛇騎士・斬風の剣」に挑戦して友好対戦に勝利することで獲得"
   },
@@ -18,8 +20,10 @@
     {
       "id": "halfsword_technique",
       "name": "半剣の技",
-      "desc": "?を?与える。",
-      "skillTag": [],
+      "desc": "?を2与える。",
+      "skillTag": [
+        "通常攻撃"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -38,8 +42,10 @@
     {
       "id": "rising_slash",
       "name": "低位斬撃",
-      "desc": "?を?与え、手札を1枚引く。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#80FFD7FF\">風元素ダメージ</span>を3与え、手札を1枚引く。",
+      "skillTag": [
+        "元素スキル"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -53,7 +59,9 @@
       "id": "guard_stance",
       "name": "近衛兵の構え",
       "desc": "<span style=\"color:#FFFFFFFF\">捨て身の構え</span>を<span style=\"color:#FFFFFFFF\">スキル準備</span>し、その後<span style=\"color:#FFFFFFFF\">怒風の連撃</span>を<span style=\"color:#FFFFFFFF\">スキル準備</span>する。",
-      "skillTag": [],
+      "skillTag": [
+        "元素爆発"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -73,7 +81,9 @@
       "id": "vanguard_momentum",
       "name": "気迫の前のめり",
       "desc": "【固有】味方が拡散反応を起こした時、または相手が<span style=\"color:#FFFFFFFF\">シールド</span>、<span style=\"color:#FFFFFFFF\">ダメージ相殺</span>状態、出撃状態を失った時、カードを1枚引く。（各ラウンドで最大2回まで）",
-      "skillTag": [],
+      "skillTag": [
+        "固有スキル"
+      ],
       "points": []
     }
   ]

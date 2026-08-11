@@ -25,19 +25,19 @@
       "_id": 112073,
       "id": "radiant_prism",
       "name": "Prisma radiante",
-      "count": 0.1751
+      "count": 0.175
     },
     {
       "_id": 112072,
       "id": "turbid_prism",
       "name": "Prisma enturbiado",
-      "count": 0.7003
+      "count": 0.7
     },
     {
       "_id": 112071,
       "id": "damaged_prism",
       "name": "Prisma dañado",
-      "count": 2.6263
+      "count": 2.626
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Autómatas",
   "filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
   "description": "Un guardián perdido entre las antiguas ruinas del desierto, perfectamente capaz de castigar a todo intruso que ose perturbar los puros sueños de su soberano.\\nEl Señor del Sol Abrasador que otrora reinó sobre este desierto prometió a su pueblo una utopía en la otra orilla de la existencia, lo que prueba que no eran sino los desvaríos de un rey iluso.\\nEste paraíso, sin embargo, hace tiempo que desapareció, y ahora esos sueños y promesas olvidados por los mortales solo se conservan en los mantras inscritos en estas máquinas.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

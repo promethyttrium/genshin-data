@@ -13,7 +13,6 @@
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_02",
   "description": "Genelde Elynas'ta ortaya çıkan tuhaf bir yaşam formu.\\nÖz ve ruh enerjisiyle karşı karşıya kaldıklarında güçlü bir şok etkisine maruz kalırlar. Bu şekilde Patojenler, görece agresif ve saldırgan olmayan yöntemlerle uzaklaştırılabilirler.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

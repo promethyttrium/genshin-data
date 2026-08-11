@@ -28,7 +28,6 @@
   "categoryText": "Autómatas",
   "filename_icon": "UI_MonsterIcon_Apparatus_Enigma_BionicNettler",
   "description": "Cuenta con mecanismos hechos a la medida y artilugios con funciones poco ortodoxas para cumplir con los objetivos más peculiares.\\nSe dice que esta máquina de guerra es el vestigio de una nación ya extinta. En comparación con los Guardianes de las Ruinas, de una complexión más robusta, el diseño de estos seres es más biomimético.\\nSe desconoce la razón por la cual su fisiología y movimiento imitan a los de una criatura de las profundidades marinas. Pero sea la razón que sea, no quieres ser presa de una de ellas.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

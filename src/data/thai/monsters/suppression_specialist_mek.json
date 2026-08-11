@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Mechanical Spur Gear",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Meshing Gear",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "จักรกลอัตโนมัติ",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02",
   "description": "กลไกเครื่องลานรุ่นพิเศษที่ได้รับการปรับแต่งมาจาก \"Cal. Scherbius\" น่าเสียดายที่มันไม่มีความสามารถอื่นนอกจากการโจมตี\\nการทำงานของกลไกเครื่องลานที่อิงตามพลังงานการทำลายล้าง มักใช้ตัวทำซ้ำที่ทำจากคริสตัลพิเศษ เพื่อดึงพลังสสารกับพลังวิญญาณและแสงจากสภาพแวดล้อมของ Fontaine เพื่อสร้างพลังงาน แต่ในพื้นที่อื่น ๆ นอกเหนือจาก Fontaine ก็สามารถเคลื่อนไหวได้ในระยะสั้น ๆ ด้วยบล็อกพลังงานที่เตรียมไว้ล่วงหน้า ความแตกต่างระหว่างทั้งอย่างนี้ จะสะท้อนให้เห็นในรูปทรงของส่วนคริสตัลบนกลไก",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 3,
   "stats": {

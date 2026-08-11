@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Rüzgar",
+    "weapon": "Çift Elli Kılıç",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 5053,
@@ -29,8 +31,10 @@
     {
       "id": "shuumatsuban_ninja_blade",
       "name": "Shuumatsuban Ninja Kılıcı",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "yoohoo_art_fuuin_dash",
       "name": "Yoohoo Sanatı: Fuuin Koşusu",
-      "desc": "? ? verir ve bu karakter <span style=\"color:#FFFFFFFF\">Fuufuu Döner Tekme</span> için <span style=\"color:#FFFFFFFF\">Beceri Hazırlama</span> kullanır.<br/>Bu beceri Girdap tetiklerse <span style=\"color:#FFFFFFFF\">Fuufuu Döner Tekme</span> tarafından verilen Hasar, Girdaba Alınan Elementin Hasarına dönüştürülür.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#80FFD7FF\">Rüzgar Hasarı</span> verir ve bu karakter <span style=\"color:#FFFFFFFF\">Fuufuu Döner Tekme</span> için <span style=\"color:#FFFFFFFF\">Beceri Hazırlama</span> kullanır.<br/>Bu beceri Girdap tetiklerse <span style=\"color:#FFFFFFFF\">Fuufuu Döner Tekme</span> tarafından verilen Hasar, Girdaba Alınan Elementin Hasarına dönüştürülür.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "yoohoo_art_mujina_flurry",
       "name": "Yoohoo Sanatı: Mujina Karmaşası",
-      "desc": "? ? verir ve 1 <span style=\"color:#FFFFFFFF\">Muji-Muji Daruma</span> çağırır.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#80FFD7FF\">Rüzgar Hasarı</span> verir ve 1 <span style=\"color:#FFFFFFFF\">Muji-Muji Daruma</span> çağırır.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1105,

@@ -1,0 +1,29 @@
+{
+  "_id": 114091,
+  "id": "exhilaration_of_the_cellared_spiritual_nectar",
+  "name": "Hochgefühl des eingelagerten spirituellen Nektars",
+  "description": "Es heißt, dass einst unzählige Mengen an edlem Wein in den gefrorenen See gekippt wurden.<br/>Gerüchten zufolge handelte es sich entweder um Wein aus Kriegsvorräten, der aufgrund eines Missgeschicks vernichtet werden musste, oder ein Domovoy-Großherzog hatte eine Wette gegen den Herrn der Wasser-Unholde verloren.<br/>Erst als auf der Oberfläche des Sees eine unlöschbare blaue Zauberflamme entbrannte und die Feinde unter Wasser in erstickenden Wogen emporwirbelten, erkannten sie die Wahrheit:<br/>In den Händen eines Volkes, das mit den Gezeiten der Welt vertraut ist, ist Wasser auch Feuer und ein Elixier auch tödliches Gift.",
+  "source": [
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114090,
+        "id": "intoxication_of_the_cellared_spiritual_nectar",
+        "name": "Rausch des eingelagerten spirituellen Nektars",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Sphäre der Kriegskunst – Narben einer verfluchten Besessenheit",
+  "days": [
+    "Dienstag",
+    "Freitag",
+    "Sonntag"
+  ]
+}

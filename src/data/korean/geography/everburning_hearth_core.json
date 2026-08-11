@@ -1,0 +1,12 @@
+{
+  "_id": 70800035,
+  "id": "everburning_hearth_core",
+  "name": "영원히 타오르는 노심",
+  "areaName": "영구 동토",
+  "areaId": 80200,
+  "description": "크레스니크 수정석을 민간에서도 사용할 수 있도록 허가한 인물이 바로 하얀 차르라고 한다.\n그는 스네즈나야 사람들에게 매서운 눈보라이면서도 따스한 아침 해와 같은 존재다",
+  "regionName": "스네즈나야",
+  "regionId": 8,
+  "sortOrder": 635,
+  "filename_image": "UI_Codex_Scenery_ZDGuoLuFang"
+}

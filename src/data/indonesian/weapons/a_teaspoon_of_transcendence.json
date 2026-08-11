@@ -10,7 +10,7 @@
   },
   "domain": "Domain of Forgery: Pemberian Rembulan",
   "passive": "White Fairy's Queening",
-  "bonus": "ATK +<span>28%/35%/42%/49%/56%</span>.<br/>Setiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Surmount\" singkat: DMG reaksi Stellar-Conduct Karakter yang mengenakan +<span>16%/20%/24%/28%/32%</span> selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik.",
+  "bonus": "ATK +<span>28%/35%/42%/49%/56%</span>.<br/>Setiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Transcendence\" singkat: DMG reaksi Stellar-Conduct dan Stellar Swirl Karakter yang mengenakan +<span>16%/20%/24%/28%/32%</span> selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik.",
   "specialProp": "CRIT DMG",
   "stats": {
     "primary": "Base ATK",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "White Fairy's Queening",
-    "template": "ATK +<span style=\"color:#99FFFFFF\">{0}</span>.<br/>Setiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Surmount\" singkat: DMG reaksi Stellar-Conduct Karakter yang mengenakan +<span style=\"color:#99FFFFFF\">{1}</span> selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik.",
+    "template": "ATK +<span style=\"color:#99FFFFFF\">{0}</span>.<br/>Setiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Transcendence\" singkat: DMG reaksi Stellar-Conduct dan Stellar Swirl Karakter yang mengenakan +<span style=\"color:#99FFFFFF\">{1}</span> selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik.",
     "params": [
       [
         "28%",
@@ -307,23 +306,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "ATK +<span>28%</span>.<br/>Setiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Surmount\" singkat: DMG reaksi Stellar-Conduct Karakter yang mengenakan +<span>16%</span> selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik."
+      "desc": "ATK +<span>28%</span>.<br/>Setiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Transcendence\" singkat: DMG reaksi Stellar-Conduct dan Stellar Swirl Karakter yang mengenakan +<span>16%</span> selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik."
     },
     {
       "refinement": 2,
-      "desc": "ATK +<span>35%</span>.<br/>Setiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Surmount\" singkat: DMG reaksi Stellar-Conduct Karakter yang mengenakan +<span>20%</span> selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik."
+      "desc": "ATK +<span>35%</span>.<br/>Setiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Transcendence\" singkat: DMG reaksi Stellar-Conduct dan Stellar Swirl Karakter yang mengenakan +<span>20%</span> selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik."
     },
     {
       "refinement": 3,
-      "desc": "ATK +<span>42%</span>.<br/>Setiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Surmount\" singkat: DMG reaksi Stellar-Conduct Karakter yang mengenakan +<span>24%</span> selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik."
+      "desc": "ATK +<span>42%</span>.<br/>Setiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Transcendence\" singkat: DMG reaksi Stellar-Conduct dan Stellar Swirl Karakter yang mengenakan +<span>24%</span> selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik."
     },
     {
       "refinement": 4,
-      "desc": "ATK +<span>49%</span>.<br/>Setiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Surmount\" singkat: DMG reaksi Stellar-Conduct Karakter yang mengenakan +<span>28%</span> selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik."
+      "desc": "ATK +<span>49%</span>.<br/>Setiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Transcendence\" singkat: DMG reaksi Stellar-Conduct dan Stellar Swirl Karakter yang mengenakan +<span>28%</span> selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik."
     },
     {
       "refinement": 5,
-      "desc": "ATK +<span>56%</span>.<br/>Setiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Surmount\" singkat: DMG reaksi Stellar-Conduct Karakter yang mengenakan +<span>32%</span> selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik."
+      "desc": "ATK +<span>56%</span>.<br/>Setiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Transcendence\" singkat: DMG reaksi Stellar-Conduct dan Stellar Swirl Karakter yang mengenakan +<span>32%</span> selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik."
     }
   ]
 }

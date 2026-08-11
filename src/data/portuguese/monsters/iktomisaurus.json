@@ -8,13 +8,12 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Shamansaurus_Normal",
   "description": "Capazes de usar sua plumagem para saltos, Iktomissauros também são a única variedade de Sauriano que conseguem entrar no estado \"Proferespírito\".\\nSegundo as lendas, seus ancestrais não tinham forma física, ao invés disso flutuavam como espíritos entre a realidade e o reino espiritual, se manifestando pela escuridão da noite. Alguns também dizem que o primeiro Iktomissauro a surgir do Reino da Noite não era um Sauriano de verdade, ao invés disso, era uma espécie única distinta de todas as outras.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {

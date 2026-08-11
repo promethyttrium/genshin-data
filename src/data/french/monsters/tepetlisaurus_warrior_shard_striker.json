@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humains",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Drillhead",
   "description": "Un puissant guerrier du canyon, dont la bravoure a été reconnue et qui peut donc porter une couronne saurienne.\\nCe guerrier peut frapper avec la puissance d'un éboulement. Même au sein des Enfants des échos, qui sont si étroitement liés à la roche et au cristal, les guerriers couronnés par les sauriens sont des maîtres qui comprennent la roche et la pierre mieux que quiconque. On dit qu'ils peuvent même deviner la pureté et le grain à l'intérieur d'un minerai brut simplement en regardant son extérieur.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

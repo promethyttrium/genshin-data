@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Bisonsaurus",
   "description": "Ovaların savaşçısı ve altın tarlaları koruyan kabile muhafızı.\\nBoynuzlu bıçaklarıyla düşmanlarının zayıf noktalarına vurma konusunda ustadır. Sakın senin zayıflıklarını sezmesine izin verme.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

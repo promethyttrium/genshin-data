@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Elemental Lifeforms",
   "filename_icon": "UI_MonsterIcon_Slime_Water_02",
   "description": "A small monster created by the sedimentation of Hydro dispersed throughout nature.\\nLegend has it that some people would use Hydro Slimes as an emergency water source, packing them in preparation for travels through dry regions or deep domains. But due to the high concentration of Hydro within these slimes, direct ingestion is, in fact, harmful to the human body.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

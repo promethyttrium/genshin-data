@@ -8,17 +8,21 @@
     "hp": 8,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Senjata Lain",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "plata_plama",
       "name": "Plata Plama",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -37,8 +41,10 @@
     {
       "id": "da_plama",
       "name": "Da Plama",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin ?.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -51,8 +57,10 @@
     {
       "id": "aba_movo",
       "name": "Aba Movo",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 5 poin ?.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -72,7 +80,9 @@
       "id": "crudewood_greatshield",
       "name": "Crudewood Greatshield",
       "desc": "[Pasif] Saat pertandingan dimulai, Karakter ini memperoleh status <span style=\"color:#FFFFFFFF\">Crudewood Greatshield</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

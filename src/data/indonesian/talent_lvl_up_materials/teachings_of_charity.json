@@ -1,0 +1,18 @@
+{
+  "_id": 104365,
+  "id": "teachings_of_charity",
+  "name": "Teachings of Charity",
+  "description": "Material Penguatan Talenta.\\n\"Kasih sayang\" adalah penyelamat bangsa es.\\nKasih sayang adalah cinta dan kepedulian di antara sesama manusia. Di daratan yang luas ini, orang-orang mengandalkannya untuk menangkal dingin yang dibawa oleh embun beku dan salju, serta untuk menenangkan luka yang terukir dalam ingatan mereka.",
+  "source": [
+    "Penukaran di Toko Hadiah"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Domain of Mastery: Meditasi IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Senin",
+    "Kamis",
+    "Minggu"
+  ]
+}

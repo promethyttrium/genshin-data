@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_01",
   "description": "Kıtanın her yanına, kimsenin bilmediği zindanların derinliklerine bile ayak basmış bağımsız suç örgütünün bir üyesi.\\nBu üyeler fiziksel işlerde görev yapar ve hiyerarşinin alt kısmındadır. Vücut yapıları yüzünden sıkça alay konusu olurlar ama çete saldırıya uğradığında kimsenin beklemediği güçlerini ve çevikliklerini gösterme fırsatı ellerine geçer.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

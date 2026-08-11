@@ -8,8 +8,8 @@
     "name": "ดาบ"
   },
   "element": {
-    "id": "none",
-    "name": "ไม่มี"
+    "id": "",
+    "name": ""
   },
   "gender": {
     "id": "male",
@@ -24,8 +24,8 @@
   },
   "rarity": 5,
   "birthday": [
-    0,
-    0
+    null,
+    null
   ],
   "constellation": "——",
   "domain": "เศษซากแห่งเปลวไฟ",

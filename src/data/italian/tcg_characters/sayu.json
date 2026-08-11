@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Claymore",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 5053,
@@ -29,8 +31,10 @@
     {
       "id": "shuumatsuban_ninja_blade",
       "name": "Lama ninja della Shuumatsuban",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "yoohoo_art_fuuin_dash",
       "name": "Arte Yoohoo: Scatto Fuuin",
-      "desc": "Infligge ? ? e il personaggio esegue <span style=\"color:#FFFFFFFF\">Preparazione abilità</span> per <span style=\"color:#FFFFFFFF\">Calcio turbine Fuufuu</span>.<br/>Se questo uso dell'abilità innesca Turbinio, <span style=\"color:#FFFFFFFF\">Calcio turbine Fuufuu</span> infligge DAN del tipo elementale del Turbinio.",
-      "skillTag": [],
+      "desc": "Infligge 1 <span style=\"color:#80FFD7FF\">DAN da Anemo</span> e il personaggio esegue <span style=\"color:#FFFFFFFF\">Preparazione abilità</span> per <span style=\"color:#FFFFFFFF\">Calcio turbine Fuufuu</span>.<br/>Se questo uso dell'abilità innesca Turbinio, <span style=\"color:#FFFFFFFF\">Calcio turbine Fuufuu</span> infligge DAN del tipo elementale del Turbinio.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "yoohoo_art_mujina_flurry",
       "name": "Arte Yoohoo: Frullio Mujina",
-      "desc": "Infligge ? ?, invoca 1 <span style=\"color:#FFFFFFFF\">Daruma Muji-Muji</span>.",
-      "skillTag": [],
+      "desc": "Infligge 1 <span style=\"color:#80FFD7FF\">DAN da Anemo</span>, invoca 1 <span style=\"color:#FFFFFFFF\">Daruma Muji-Muji</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1105,

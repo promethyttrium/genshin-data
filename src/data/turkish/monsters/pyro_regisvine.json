@@ -38,7 +38,7 @@
       "_id": 113011,
       "id": "everflame_seed",
       "name": "Alev Tohumu",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -133,7 +133,6 @@
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Regisvine_Fire",
   "description": "Ley hatları içinde yanan kadim ateşle kaplı devasa bir asma.\\nHiç bitmeyen öfkeyle dolmuş gibi huzursuzdur.\\nŞairler, ozanlar, hatta bazı akademisyenler, elementlerin de duyguları ve umutları olduğuna inanır. Şayet bu doğruysa Yalancı Ateş Ağacı acaba ne hissediyor da sonsuza dek dünyanın sınırlarını aşma isteğiyle yanıp tutuşuyor?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

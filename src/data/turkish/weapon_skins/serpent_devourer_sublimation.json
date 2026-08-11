@@ -1,0 +1,21 @@
+{
+  "_id": 310002,
+  "id": "serpent_devourer_sublimation",
+  "name": "Yılan Yutan - Dönüşüm",
+  "description": "Ley Hatlarının derinliklerinden ortaya çıkan ve \"Yaşam\" gücüyle parıldayan yanılsamalı ve ihtişamlı bir kılıç. Kuşanan kişinin Element Türüne göre görüntüsü değişir. Efsanelere göre kadim bir ülkedeki yüce bir günahkar tarafından kullanılan bu kılıç, bir zamanlar \"Logseims\" adını taşırmış.",
+  "rarity": 5,
+  "type": {
+    "id": "Sword",
+    "name": "Kılıç"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Işıltılı Dönüşüm: Aşkınlık - Dönüşüm",
+    "priority": 1
+  },
+  "item_id": 341102,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphVinces_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphVinces_Great"
+}

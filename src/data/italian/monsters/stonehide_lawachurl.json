@@ -13,7 +13,6 @@
   "categoryText": "Hilichurl",
   "filename_icon": "UI_MonsterIcon_Brute_Rock_None",
   "description": "Un misterioso \"Signore\" degli Hilichurl che percorre migliaia di vette.\\nQuesto enorme Hilichurl viene chiamato \"Lawa\" dai suoi compagni. Le abbondanti energie di Geo nell'ambiente sono diventate parte della sua carne, del suo sangue e della sua pelle, quasi come se fosse stato scolpito nella roccia.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 8,
   "stats": {

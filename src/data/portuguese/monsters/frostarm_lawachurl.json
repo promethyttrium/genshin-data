@@ -13,7 +13,6 @@
   "categoryText": "Hilichurl",
   "filename_icon": "UI_MonsterIcon_Brute_Ice_01",
   "description": "Um misterioso \"chefe\" dos Hilichurls que espreita a neve e o nevoeiro.\\nEste enorme Hilichurl é chamado de \"Lawa\" por seus companheiros. Seu corpo, aperfeiçoado até o limite, quase parece se misturar com o ambiente repleto de Cryo, e sua nobreza estoica é como a dos rios congelados do Reino do Norte.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

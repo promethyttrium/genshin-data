@@ -13,7 +13,6 @@
   "categoryText": "원소 생명체",
   "filename_icon": "UI_MonsterIcon_Effigy_Water",
   "description": "코드 네임 「헤」인 고급 물 원소 생명체.\\n무상의 원소는 강력한 거부 본능이 있어 시험하려 드는 사람들을 가차 없이 쫓아낸다.\\n거부 대상은 천연적인 원소까지 망라하는 것 같다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

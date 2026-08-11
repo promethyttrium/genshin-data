@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_HermitCrab_Mature",
   "description": "Ödünç aldığı kabukları yuva edinen bir yengeç.\\nZırhlı Yengeçler büyüdükçe sürekli vücutlarına uygun bir kabuk ararlar. Fontaine'de bir dönem, vücuduna uygun bir kabuk arayan bir Zırhlı Yengecin izini süren bir hikaye kitabı çok popülerdi. Hikayenin çocuksu bir merakla dolu olmasına rağmen aldığı tepkiye bakıldığında çoğu masalda olduğu gibi aslında yetişkinleri çok daha derinden etkilediği görülmüştür.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

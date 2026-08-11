@@ -1,0 +1,20 @@
+{
+  "_id": 332066,
+  "id": "feasting_in_a_shared_toast",
+  "shareId": 619,
+  "name": "共に杯を交わそう",
+  "title": "共に杯を交わそう",
+  "desc": "「いつも一番遅れてくるな。早く座れよ、ずっと待ってたんだぞ！」",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 0,
+    "card_type": "イベントカード",
+    "energy": []
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">次のラウンド開始時、</span>互いにカードを2枚引き、ランダム元素サイコロを2個ランダムに生成する。"
+    }
+  ]
+}

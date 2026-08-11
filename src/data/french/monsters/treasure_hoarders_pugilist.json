@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humains",
   "filename_icon": "UI_MonsterIcon_Thoarder_MuscleMan_Boxer_01",
   "description": "Un membre du groupe hétéroclite de bandits dont on peut trouver des traces un peu partout sur le continent, même dans ses recoins les plus perdus.\\nPassionnés de combats et de muscles, ils sont exigeants en matière nourriture et se vantent régulièrement de leur physique avantageux, ce qui n'est pas sans provoquer le mécontentement de leurs camarades.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

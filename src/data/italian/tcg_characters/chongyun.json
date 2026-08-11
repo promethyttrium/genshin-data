@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 3,
+    "element": "Cryo",
+    "weapon": "Claymore",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3211,
@@ -29,8 +31,10 @@
     {
       "id": "demonbane",
       "name": "Assillo demoniaco",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "chonghuas_layered_frost",
       "name": "Gelo stratificato di Chonghua",
-      "desc": "Infligge ? ?, genera un <span style=\"color:#FFFFFFFF\">Campo di gelo Chonghua</span>.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#99FFFFFF\">DAN da Cryo</span>, genera un <span style=\"color:#FFFFFFFF\">Campo di gelo Chonghua</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "cloudparting_star",
       "name": "Stella squarcianuvole",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 7 <span style=\"color:#99FFFFFF\">DAN da Cryo</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1101,

@@ -1,0 +1,30 @@
+{
+  "_id": 104367,
+  "id": "philosophies_of_charity",
+  "name": "Merhamet Felsefesi",
+  "description": "Yetenek Seviyesi Yükseltme Malzemesi.\\nMerhamet, donmuş diyarın kurtuluşudur.\\nTüm canlılara bahşedilen sınırsız bir lütuftur. Hem kan bağını hem de ulusları aşarak soylular ile avam arasındaki ayrımı ortadan kaldırır. Dikkatli bakışları tüm insanlığı gözetir, talihsizlere sığınak olur ve herkese sonsuz bir özgürlük vadeder.",
+  "source": [
+    "Yer Tutucu - Üretilebilir Miktar: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104366,
+        "id": "guide_to_charity",
+        "name": "Merhamet Rehberi",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Ustalık Zindanı: Tefekkür IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Pazartesi",
+    "Perşembe",
+    "Pazar"
+  ]
+}

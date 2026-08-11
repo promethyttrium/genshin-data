@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Прочие человеческие фракции",
   "filename_icon": "UI_MonsterIcon_Samurai_Kairagi_02",
   "description": "Самураи, вступившие на путь бандитизма.\\nОни с малых лет занимались боевыми искусствами, но потеряли возможность служить обществу и встали на путь зла. Лезвия их клинков не холодные, как у обычной стали, а горят огнём гнева. Похоже, что для их накаливания они используют особые талисманы, изготовленные по якобы утраченной технике Камуны.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 6,
   "stats": {

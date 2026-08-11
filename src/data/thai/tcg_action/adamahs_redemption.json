@@ -1,0 +1,39 @@
+{
+  "_id": 213171,
+  "id": "adamahs_redemption",
+  "shareId": 611,
+  "name": "Adamah's Redemption",
+  "title": "Durin - Adamah's Redemption",
+  "desc": "\"จุดเปลี่ยนแห่งโชคชะตา\"",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">หลังจากที่ตัวละครที่มีการ์ดใบนี้ใช้ Principle of Purity: As the Light Shifts:</span> ความเสียหายที่ฝ่ายเราสร้างใน 4 ครั้งถัดไป +1<br/><span style=\"color:#FFFFFFFF\">หลังจากที่ตัวละครที่มีการ์ดใบนี้ใช้ Principle of Darkness: As the Stars Smolder:</span> <span style=\"color:#FFFFFFFF\">Durin</span> และ <span style=\"color:#FFFFFFFF\">Denial of Darkness</span> ของฝ่ายเรา จะสร้างความเสียหาย +2",
+  "attributes": {
+    "cost": 4,
+    "cost_type": "ธาตุไฟ",
+    "card_type": "การ์ดอุปกรณ์",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "ธาตุไฟ",
+        "count": 4
+      },
+      {
+        "_id": 1110,
+        "id": "energy",
+        "type": "พลังงาน",
+        "count": 2
+      }
+    ],
+    "source": "ได้รับหลังจากเชิญ Durin ทำการดูเอลใน Cat's Tail และสำเร็จเป้าหมายการท้าทายที่เกี่ยวข้อง",
+    "tags": [
+      "พรสวรรค์",
+      "ดำเนินการต่อสู้"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">ดำเนินการต่อสู้</span>: เมื่อตัวละครที่เข้าต่อสู้ของฝ่ายเราเป็น <span style=\"color:#FFFFFFFF\">Durin</span> และติดตั้งการ์ดใบนี้<br/>หลังจากที่ Durin ติดตั้งการ์ดใบนี้ จะใช้ <span style=\"color:#FFD780FF\">Principle of Purity: As the Light Shifts</span> หรือ <span style=\"color:#FFD780FF\">Principle of Darkness: As the Stars Smolder</span> หนึ่งครั้งโดยทันที โดยอ้างอิงจาก \"ท่าไม้ตาย\" ในปัจจุบันของตัวเอง<br/><span style=\"color:#FFFFFFFF\">หลังจากที่ตัวละครที่มีการ์ดใบนี้ใช้ Principle of Purity: As the Light Shifts:</span> ความเสียหายที่ฝ่ายเราสร้างใน 4 ครั้งถัดไป +1<br/><span style=\"color:#FFFFFFFF\">หลังจากที่ตัวละครที่มีการ์ดใบนี้ใช้ Principle of Darkness: As the Stars Smolder:</span> <span style=\"color:#FFFFFFFF\">Durin</span> และ <span style=\"color:#FFFFFFFF\">Denial of Darkness</span> ของฝ่ายเรา จะสร้างความเสียหาย +2<br/>(เข้าร่วมเด็คได้ต่อเมื่อมี Durin อยู่ภายในเด็คเท่านั้น)"
+    }
+  ]
+}

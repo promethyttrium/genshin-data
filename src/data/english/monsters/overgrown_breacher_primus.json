@@ -13,7 +13,6 @@
   "categoryText": "The Abyss",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_02",
   "description": "A strange life form that mostly appears in Elynas.\\nIn Fontaine, the earliest recorded observations of a Breacher Primus appeared shortly after the cataclysm. Records from the time show instances of Breacher Primuses both attacking and protecting humans.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

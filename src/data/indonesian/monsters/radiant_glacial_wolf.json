@@ -13,7 +13,6 @@
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Magbeast_Steppenwolf",
   "description": "Seekor monster hewan yang mengalami evolusi unik akibat terpapar kekuatan bulan kuno dalam waktu yang sangat lama.\\nMenurut legenda, ketika bencana kegelapan merenggut nyawa yang tak terhitung jumlahnya, hutan-hutan perbatasan menjadi sunyi senyap. Dalam keheningan itu, satu-satunya suara yang memecah kesunyian adalah lolongan Glacial Wolf yang memanggil bulan. Selama berhari-hari, tangisan pilu mereka yang dibawa oleh cahaya bulan yang dingin, bergema di seluruh belantara yang kosong.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

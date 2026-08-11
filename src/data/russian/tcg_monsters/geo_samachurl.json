@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Гео",
+    "weapon": "Прочее",
     "faction": [
-      null,
-      null
+      "Монстр",
+      "Хиличурл"
     ]
   },
   "skills": [
     {
       "id": "staff_strike",
       "name": "Удар посохом",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 1 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "summoning_of_stones",
       "name": "Призыв камней",
-      "desc": "Наносит ?, ? ед. и создаёт <span style=\"color:#FFFFFFFF\">Скалистый пьедестал</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FFE699FF\">Гео урон</span>, 2 ед. и создаёт <span style=\"color:#FFFFFFFF\">Скалистый пьедестал</span>.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -45,8 +51,10 @@
     {
       "id": "shockwave_smash",
       "name": "Разрушительная волна",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FFE699FF\">Гео урон</span>, 5 ед.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1106,

@@ -25,19 +25,19 @@
       "_id": 112019,
       "id": "deathly_statuette",
       "name": "幽邃なる彫刻",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112018,
       "id": "dark_statuette",
       "name": "黒夜の彫刻",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112017,
       "id": "gloomy_statuette",
       "name": "暗晦の彫刻",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "アビス",
   "filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Chargebow_Ice",
   "description": "漆黒の兵士。かつては地下古国の誇り高き軍人だったが、今はただ戦闘の記憶を残した抜け殻に過ぎない。\\n万物の最後には退廃があり、この空っぽの殻こそが、罪と呪いと時間の洗礼を受けた「黒蛇騎士」の姿なのである。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

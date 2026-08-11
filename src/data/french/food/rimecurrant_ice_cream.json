@@ -1,0 +1,54 @@
+{
+  "_id": 3703,
+  "id": "rimecurrant_ice_cream",
+  "name": "Glace à la givroseille",
+  "description": "Un dessert servi dans un verre. Crème, lait, miel et fruits rouges écrasés sont mélangés, puis congelés pour obtenir une glace onctueuse et veloutée. Les saveurs fruitées et laitières se fondent en un goût riche et délicieux, un régal que certains savoureront avec plaisir quelle que soit la température.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 101281,
+      "id": "rimecurrant",
+      "name": "Givroseille",
+      "amount": 3
+    },
+    {
+      "_id": 100078,
+      "id": "milk",
+      "name": "Lait",
+      "amount": 3
+    },
+    {
+      "_id": 110002,
+      "id": "cream",
+      "name": "Crème",
+      "amount": 3
+    },
+    {
+      "_id": 110017,
+      "id": "honey",
+      "name": "Miel",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Récupération",
+  "results": {
+    "suspicious": {
+      "_id": 132001,
+      "name": "Glace à la givroseille (suspecte)",
+      "description": "Un dessert servi dans un verre. Solide comme de la pierre, il faut un effort surhumain pour en détacher une minuscule lamelle avec une cuillère en fer. Une fois en bouche, le froid mordant fait claquer les dents instantanément. Plus aucune trace de douceur, comme si chaque once de saveur n'avait jamais eu l'occasion de s'exprimer...",
+      "effect": "Réanime un personnage et restaure 900 PV."
+    },
+    "normal": {
+      "_id": 132002,
+      "name": "Glace à la givroseille",
+      "description": "Un dessert servi dans un verre. Crème, lait, miel et fruits rouges écrasés sont mélangés, puis congelés pour obtenir une glace onctueuse et veloutée. Les saveurs fruitées et laitières se fondent en un goût riche et délicieux, un régal que certains savoureront avec plaisir, quelle que soit la température.",
+      "effect": "Réanime un personnage et restaure 1 200 PV."
+    },
+    "delicious": {
+      "_id": 132003,
+      "name": "Glace à la givroseille (délicieuse)",
+      "description": "Un dessert servi dans un verre. En y regardant de plus près, on distingue à peine la texture délicate de la pulpe des fruits, comme un minuscule éclat de coucher de soleil figé sous la glace. Si le climat glacial de Snezhnaya pouvait aisément préserver ce doux paysage pendant toute une journée, son parfait équilibre entre le sucré et l'acidulé garantit qu'il sera dévoré bien avant...",
+      "effect": "Réanime un personnage et restaure 1 500 PV."
+    }
+  }
+}

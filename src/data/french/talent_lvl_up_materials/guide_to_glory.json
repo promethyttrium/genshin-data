@@ -1,0 +1,30 @@
+{
+  "_id": 104372,
+  "id": "guide_to_glory",
+  "name": "Guide de la Gloire",
+  "description": "Matériau d'amélioration d'aptitude\\nLa gloire est la foi sacrée du royaume glacé.\\nC'est une braise qui vacille dans la nuit profonde, un phare vers lequel se tournent tous ceux qui traversent les champs de neige. De même qu'ils sont certains que les blizzards s'apaiseront et que l'aube se lèvera, ils sont certains que le chemin qu'ils empruntent demeure le bon.",
+  "source": [
+    "Emplacement réservé - Quantité synthétisable : {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104371,
+        "id": "teachings_of_glory",
+        "name": "Enseignement de la Gloire",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Donjon de la maîtrise : Vision partagée IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Mercredi",
+    "Samedi",
+    "Dimanche"
+  ]
+}

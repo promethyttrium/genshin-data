@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 3,
+    "element": "Geo",
+    "weapon": "Mandoble",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3711,
@@ -29,8 +31,10 @@
     {
       "id": "fight_club_legend",
       "name": "Héroe del combate",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -49,8 +53,10 @@
     {
       "id": "masatsu_zetsugi_akaushi_burst",
       "name": "Exterminio del mal: ¡Embestida taurina!",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? e invoca a <span style=\"color:#FFFFFFFF\">Ushi</span>. Este personaje obtiene una carga de <span style=\"color:#FFFFFFFF\">fuerza sobrenatural</span>.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#FFE699FF\">Daño Geo</span> e invoca a <span style=\"color:#FFFFFFFF\">Ushi</span>. Este personaje obtiene una carga de <span style=\"color:#FFFFFFFF\">fuerza sobrenatural</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -63,8 +69,10 @@
     {
       "id": "royal_descent_behold_itto_the_evil",
       "name": "Rey oni maligno: ¡Itto contra todos!",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y este personaje entra en el estado de <span style=\"color:#FFFFFFFF\">rey oni enfurecido</span>.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts. de <span style=\"color:#FFE699FF\">Daño Geo</span> y este personaje entra en el estado de <span style=\"color:#FFFFFFFF\">rey oni enfurecido</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1106,

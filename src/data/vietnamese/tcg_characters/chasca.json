@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Phong",
+    "weapon": "Cung",
     "faction": [
-      null
+      "Natlan"
     ],
     "talent_card": {
       "_id": 7825,
@@ -29,8 +31,10 @@
     {
       "id": "phantom_feather_flurry",
       "name": "Mưa Lông Vũ",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "spirit_reins_shadow_hunt",
       "name": "Dây Cương Truy Ảnh",
-      "desc": "Gây ? điểm ?, rút 1 lá bài.<br/>Nhân vật này áp dụng <span style=\"color:#FFFFFFFF\">Súng Linh Hồn - Trượng Nghi Thức</span>, tiến vào <span style=\"color:#FFFFFFFF\">Dạ Hồn Chúc Phúc</span> và nhận 2 <span style=\"color:#FFFFFFFF\">điểm Dạ Hồn</span>. (Sau khi nhân vật tiến vào <span style=\"color:#FFFFFFFF\">Dạ Hồn Chúc Phúc</span> sẽ không thể dùng kỹ năng này) (Nhân vật áp dụng <span style=\"color:#FFFFFFFF\">Súng Linh Hồn - Trượng Nghi Thức</span> có thể dùng Đặc Kỹ: <span style=\"color:#FFFFFFFF\">Ngắm Đa Mục Tiêu</span>)<br/><span style=\"color:#FFFFFFFF\">2 lần tiếp theo khi phe ta Đổi Nhân Vật:</span> Rút 1 lá bài.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm <span style=\"color:#80FFD7FF\">Sát Thương Nguyên Tố Phong</span>, rút 1 lá bài.<br/>Nhân vật này áp dụng <span style=\"color:#FFFFFFFF\">Súng Linh Hồn - Trượng Nghi Thức</span>, tiến vào <span style=\"color:#FFFFFFFF\">Dạ Hồn Chúc Phúc</span> và nhận 2 <span style=\"color:#FFFFFFFF\">điểm Dạ Hồn</span>. (Sau khi nhân vật tiến vào <span style=\"color:#FFFFFFFF\">Dạ Hồn Chúc Phúc</span> sẽ không thể dùng kỹ năng này) (Nhân vật áp dụng <span style=\"color:#FFFFFFFF\">Súng Linh Hồn - Trượng Nghi Thức</span> có thể dùng Đặc Kỹ: <span style=\"color:#FFFFFFFF\">Ngắm Đa Mục Tiêu</span>)<br/><span style=\"color:#FFFFFFFF\">2 lần tiếp theo khi phe ta Đổi Nhân Vật:</span> Rút 1 lá bài.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "soul_reapers_fatal_round",
       "name": "Tập Kích Diệt Hồn",
-      "desc": "Gây ? điểm ?, gây 1 điểm Sát Thương Xuyên Thấu cho tất cả nhân vật dự bị phe địch và rút 3 lá bài.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm <span style=\"color:#80FFD7FF\">Sát Thương Nguyên Tố Phong</span>, gây 1 điểm Sát Thương Xuyên Thấu cho tất cả nhân vật dự bị phe địch và rút 3 lá bài.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -84,7 +92,9 @@
       "id": "shadowhunt_shell",
       "name": "Đạn Truy Ảnh",
       "desc": "Khi bắt đầu ván đấu, ngẫu nhiên đưa 6 <span style=\"color:#FFFFFFFF\">Đạn Truy Ảnh</span> vào kho bài.",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Bị Động"
+      ],
       "points": []
     }
   ]

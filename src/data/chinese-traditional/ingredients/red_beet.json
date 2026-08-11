@@ -1,0 +1,26 @@
+{
+  "_id": 101278,
+  "id": "red_beet",
+  "name": "紅甜菜",
+  "description": "在寒冷凍土裡也能生長的草本植物，為了能在嚴酷的環境裡生存，生長出了肥大的肉質根。",
+  "recipes": [
+    {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "紅菜湯"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "至冬串燒"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "甜滋滋冰淇淋球"
+    }
+  ],
+  "source": [
+    "推薦：至冬採集"
+  ]
+}

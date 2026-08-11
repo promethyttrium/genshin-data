@@ -1,7 +1,7 @@
 {
   "_id": 22030201,
   "id": "abyss_lector_fathomless_flames",
-  "monsterId": 22030202,
+  "monsterId": 84203022,
   "name": "Bardo do Abismo - Chamas Abismais",
   "specialNames": [
     "Bardo do Abismo - Alberthonar",
@@ -22,9 +22,8 @@
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_Invoker_Deacon_Fire",
   "description": "Empunhadores de Fogo Abissal que buscam o significado por trás de textos e escrituras. Pertencem à Ordem do Abismo.\\nAs pessoas da superfície têm uma compreensão levemente distorcida do que seu nome significa, chamando-os de \"Leitores\", quando seu nome também pode significar \"Exegeta\". Recitar as palavras de graças lhes concede grande poder.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Fungus_Trois_Gamma_Fire",
   "description": "Um organismo de esporo com certa inteligência. É extremamente adaptável.\\nDevido a abundância de Pyro nessas criaturas, elas possuem a tendência de causarem incêndios florestais nas estações secas, e por isso são consideradas uma espécie invasiva perigosa na floresta.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

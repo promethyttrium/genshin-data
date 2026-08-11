@@ -1,0 +1,29 @@
+{
+  "_id": 114094,
+  "id": "the_frost_emperors_ceremony",
+  "name": "Khánh Lễ Của Hoàng Đế Băng Giá",
+  "description": "Các fae trong cung điện không hiểu vì sao món quà dâng lên cho hoàng đế lại được chế tác thành hình dạng như vậy, họ chỉ biết không ngừng phô diễn kỹ nghệ lên những món trang sức tựa ngọc quý ấy.<br/>Chỉ có hoàng đế trên ngai vàng và tinh linh băng tuyết mới thấu hiểu ý nghĩa ẩn sau món trang sức này.<br/>Điều quan trọng chưa bao giờ là nghi thức, mà là chân ý của quá khứ được gửi gắm trong nghi thức ấy.",
+  "source": [
+    "Số lượng có thể ghép - chiếm chỗ: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114093,
+        "id": "the_frost_emperors_revival",
+        "name": "Hồi Sinh Của Hoàng Đế Băng Giá",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Bí Cảnh Luyện Võ: Vết Sẹo Vọng Tưởng",
+  "days": [
+    "Thứ 4",
+    "Thứ 7",
+    "Chủ Nhật"
+  ]
+}

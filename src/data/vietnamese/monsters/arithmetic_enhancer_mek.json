@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Cơ Quan Tự Động",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
   "description": "Robot dây cót được thiết kế chế tạo ra với mục đích chuyển tiếp tín hiệu tăng cường.\\nNguồn năng lượng để khởi động robot dây cót chính là thứ được sinh ra từ phản ứng hủy diệt có kiểm soát trong nội bộ lõi động năng thông qua ousia và pneuma. Do đó, nếu năng lượng áp lên nó bị quá tải sẽ phá vỡ sự cân bằng vốn có.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

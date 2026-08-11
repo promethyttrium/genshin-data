@@ -1,0 +1,1253 @@
+{
+  "_id": 10000148,
+  "id": "alyosha",
+  "name": "阿罗夏",
+  "title": "疾掠弋缇",
+  "description": "纵横于至冬雪原的「职业猎手」。其冷静的外表下，似乎隐藏着别样炙热的「理想」。",
+  "weapon_type": {
+    "id": "polearm",
+    "name": "长柄武器"
+  },
+  "element": {
+    "id": "electro",
+    "name": "雷"
+  },
+  "gender": {
+    "id": "male",
+    "name": "男"
+  },
+  "release": 1786395600,
+  "substat": "元素充能效率",
+  "affiliation": "至冬",
+  "region": {
+    "id": "snezhnaya",
+    "name": "至冬"
+  },
+  "rarity": 4,
+  "birthday": [
+    9,
+    2
+  ],
+  "constellation": "迅捷犬座",
+  "domain": "精通秘境：隐修",
+  "cv": {
+    "english": "凯文·安德鲁·里维拉",
+    "chinese": "王辅平",
+    "japanese": "佐藤元",
+    "korean": "金慧星"
+  },
+  "skills": [
+    {
+      "_id": 11481,
+      "id": "skirmishing_spear",
+      "name": "角枪驰弋",
+      "description": "<span style=\"color:#FFD780FF\">普通攻击</span><br/>进行至多四段的连续枪击，并对最后一击命中的敌人施加<b><span style=\"color:#FFD780FF\">弋猎印记</span></b>效果。<br/><br/><span style=\"color:#FFD780FF\">重击</span><br/>消耗一定体力，向前方突进，对路径上的敌人造成伤害。<br/><br/><span style=\"color:#FFD780FF\">下落攻击</span><br/>从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "info": "",
+      "attributes": [
+        {
+          "label": "一段伤害",
+          "values": [
+            "47.8%",
+            "51.7%",
+            "55.6%",
+            "61.2%",
+            "65.1%",
+            "69.5%",
+            "75.6%",
+            "81.7%",
+            "87.8%",
+            "94.5%",
+            "101.2%",
+            "107.9%",
+            "114.5%",
+            "121.2%",
+            "127.9%"
+          ]
+        },
+        {
+          "label": "二段伤害",
+          "values": [
+            "48.2%",
+            "52.1%",
+            "56%",
+            "61.6%",
+            "65.5%",
+            "70%",
+            "76.2%",
+            "82.3%",
+            "88.5%",
+            "95.2%",
+            "101.9%",
+            "108.6%",
+            "115.4%",
+            "122.1%",
+            "128.8%"
+          ]
+        },
+        {
+          "label": "三段伤害",
+          "values": [
+            "34.2% + 31.8%",
+            "37% + 34.4%",
+            "39.8% + 37%",
+            "43.8% + 40.7%",
+            "46.6% + 43.3%",
+            "49.8% + 46.3%",
+            "54.1% + 50.3%",
+            "58.5% + 54.4%",
+            "62.9% + 58.5%",
+            "67.7% + 62.9%",
+            "72.4% + 67.3%",
+            "77.2% + 71.8%",
+            "82% + 76.2%",
+            "86.8% + 80.7%",
+            "91.5% + 85.1%"
+          ]
+        },
+        {
+          "label": "四段伤害",
+          "values": [
+            "75.9%",
+            "82%",
+            "88.2%",
+            "97%",
+            "103.2%",
+            "110.3%",
+            "120%",
+            "129.7%",
+            "139.4%",
+            "149.9%",
+            "160.5%",
+            "171.1%",
+            "181.7%",
+            "192.3%",
+            "202.9%"
+          ]
+        },
+        {
+          "label": "重击伤害",
+          "values": [
+            "111%",
+            "120.1%",
+            "129.1%",
+            "142%",
+            "151%",
+            "161.4%",
+            "175.6%",
+            "189.8%",
+            "204%",
+            "219.5%",
+            "235%",
+            "250.5%",
+            "265.9%",
+            "281.4%",
+            "296.9%"
+          ]
+        },
+        {
+          "label": "重击体力消耗",
+          "values": [
+            "25点",
+            "25点",
+            "25点",
+            "25点",
+            "25点",
+            "25点",
+            "25点",
+            "25点",
+            "25点",
+            "25点",
+            "25点",
+            "25点",
+            "25点",
+            "25点",
+            "25点"
+          ]
+        },
+        {
+          "label": "下坠期间伤害",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "低空/高空坠地冲击伤害",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11482,
+      "id": "thunderbolt_strike",
+      "name": "伏袭霆击",
+      "description": "循借猎人的本能，依据点按、长按，以不同的方式产生效果，并对命中的敌人施加<b><span style=\"color:#FFD780FF\">弋猎印记</span></b>效果。<br/><br/><span style=\"color:#FFD780FF\">点按</span><br/>向前方射击，造成<span style=\"color:#FFACFFFF\">雷元素范围伤害</span>。<br/><br/><span style=\"color:#FFD780FF\">长按</span><br/>进入瞄准状态，并选定前方一定范围内的敌人，在该状态下提高阿罗夏的抗打断能力。<br/>长按结束时，对选定的敌人造成<span style=\"color:#FFACFFFF\">雷元素伤害</span>。",
+      "info": "莽撞的猎手曾向枪尖攀爬，随后，有幸熬过血的教训，领悟雪原的生存至理。",
+      "attributes": [
+        {
+          "label": "点按伤害",
+          "values": [
+            "286.7%",
+            "308.2%",
+            "329.7%",
+            "358.4%",
+            "379.9%",
+            "401.4%",
+            "430.1%",
+            "458.8%",
+            "487.4%",
+            "516.1%",
+            "544.8%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%"
+          ]
+        },
+        {
+          "label": "长按伤害",
+          "values": [
+            "358.4%",
+            "385.3%",
+            "412.2%",
+            "448%",
+            "474.9%",
+            "501.8%",
+            "537.6%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%",
+            "716.8%",
+            "761.6%",
+            "806.4%",
+            "851.2%"
+          ]
+        },
+        {
+          "label": "冷却时间",
+          "values": [
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒"
+          ]
+        },
+        {
+          "label": "弋猎印记持续时间",
+          "values": [
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒"
+          ]
+        },
+        {
+          "label": "猎者之准攻击力提升",
+          "values": [
+            "11.7%",
+            "12.7%",
+            "13.8%",
+            "14.8%",
+            "15.9%",
+            "17%",
+            "18%",
+            "19.1%",
+            "20.1%",
+            "21.2%",
+            "22.5%",
+            "23.7%",
+            "25%",
+            "26.3%",
+            "27.6%"
+          ]
+        },
+        {
+          "label": "猎者之准持续时间",
+          "values": [
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11485,
+      "id": "hunters_advance",
+      "name": "守猎进踞",
+      "description": "召唤信赖的好伙伴<span style=\"color:#FFD780FF\">图加林</span>一同战斗，并将前方区域短暂变换为<span style=\"color:#FFD780FF\">轰霆猎场</span>。<br/><br/><span style=\"color:#FFD780FF\">轰霆猎场</span><br/>·持续嘲讽周围的敌人，吸引敌人攻击；<br/>·每隔2秒，对踏入其中的敌人造成一次<span style=\"color:#FFACFFFF\">雷元素范围伤害</span>。<br/><br/><span style=\"color:#FFD780FF\">图加林</span><br/>·若周围存在敌人，每隔2秒，图加林将快速移动至一名敌人附近，对其进行撕咬攻击，造成<span style=\"color:#FFD780FF\">雷元素伤害</span>。<br/>·若命中的敌人处于<span style=\"color:#FFD780FF\">弋猎印记</span>效果影响下，还会激活<span style=\"color:#FFD780FF\">弋猎印记</span>。<br/>·图加林会优先攻击处于<span style=\"color:#FFD780FF\">弋猎印记</span>效果影响下的敌人。",
+      "info": "等待，等待到不再心焦，便有赤腹兰鸻飞越白桦林，迎接他的射击。",
+      "attributes": [
+        {
+          "label": "轰霆猎场伤害",
+          "values": [
+            "75%",
+            "80.6%",
+            "86.2%",
+            "93.7%",
+            "99.3%",
+            "104.9%",
+            "112.4%",
+            "119.9%",
+            "127.4%",
+            "134.9%",
+            "142.4%",
+            "149.9%",
+            "159.3%",
+            "168.7%",
+            "178%"
+          ]
+        },
+        {
+          "label": "图加林伤害",
+          "values": [
+            "50.2%",
+            "54%",
+            "57.8%",
+            "62.8%",
+            "66.5%",
+            "70.3%",
+            "75.3%",
+            "80.4%",
+            "85.4%",
+            "90.4%",
+            "95.4%",
+            "100.4%",
+            "106.7%",
+            "113%",
+            "119.3%"
+          ]
+        },
+        {
+          "label": "持续时间",
+          "values": [
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒"
+          ]
+        },
+        {
+          "label": "冷却时间",
+          "values": [
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒"
+          ]
+        },
+        {
+          "label": "元素能量",
+          "values": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "awakened_by_the_baying_hounds",
+      "name": "惊醒沉睡的林线",
+      "description": "<b><span style=\"color:#FFD780FF\">图加林</span></b>进行攻击时，还会为队伍中附近的当前场上角色恢复生命值，回复量相当于阿罗夏攻击力的120%。",
+      "level": 1
+    },
+    {
+      "id": "suffer_the_winter_wheat_will",
+      "name": "告别冬麦与残叶",
+      "description": "基于阿罗夏的元素充能效率，提升阿罗夏的元素战技与元素爆发造成的伤害：每1%元素充能效率都会使上述伤害提升0.35%，至多提升至70%。",
+      "level": 4
+    },
+    {
+      "id": "into_the_fray",
+      "name": "星赴险域",
+      "description": "处于<b><span style=\"color:#FFD780FF\">极星辉域</span></b>中时，阿罗夏将会进入<span style=\"color:#FFD780FF\">辉映·星超导</span>状态。<br/><span style=\"color:#FFD780FF\">辉映·星超导</span>：激活<b><span style=\"color:#FFD780FF\">弋猎印记</span></b>时获得的<span style=\"color:#FFD780FF\">猎者之准</span>效果还会使角色处于场上时造成的星超导反应伤害提升20%。",
+      "level": 0
+    },
+    {
+      "id": "treetop_watch",
+      "name": "树梢察伺",
+      "description": "在小地图上显示周围的<span style=\"color:#FFD780FF\">至冬区域特产</span>的位置。",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1481,
+      "id": "frostvale_thunderclap",
+      "name": "寒谷轰雷",
+      "description": "队伍中附近的角色对敌人触发<span style=\"color:#FFACFFFF\">雷元素相关反应</span>后，将为阿罗夏恢复15点元素能量，该效果每18秒至多触发一次。",
+      "level": 1
+    },
+    {
+      "_id": 1482,
+      "id": "howl_from_afar",
+      "name": "长嗥远讯",
+      "description": "元素爆发<span style=\"color:#FFD780FF\">守猎进踞</span>的持续时间延长6秒。<br/>此外，<b><span style=\"color:#FFD780FF\">图加林</span></b>每次攻击敌人前，还会为一名目标施加<b><span style=\"color:#FFD780FF\">弋猎印记</span></b>；该效果不会激活已有的<span style=\"color:#FFD780FF\">弋猎印记</span>。",
+      "level": 2
+    },
+    {
+      "_id": 1483,
+      "id": "friendly_call",
+      "name": "僚朋相唤",
+      "description": "元素战技<span style=\"color:#FFD780FF\">伏袭霆击</span>的技能等级提高3级。<br/>至多提升至15级。",
+      "level": 3
+    },
+    {
+      "_id": 1484,
+      "id": "harvest_the_spoils",
+      "name": "衔取猎品",
+      "description": "<b><span style=\"color:#FFD780FF\">图加林</span></b>进行攻击时，还会为队伍中附近的生命值百分比最低的角色恢复生命值，回复量相当于阿罗夏攻击力的60%。",
+      "level": 4
+    },
+    {
+      "_id": 1485,
+      "id": "when_the_nightbird_falls_silent",
+      "name": "莺啼止时",
+      "description": "元素爆发<span style=\"color:#FFD780FF\">守猎进踞</span>的技能等级提高3级。<br/>至多提升至15级。",
+      "level": 5
+    },
+    {
+      "_id": 1486,
+      "id": "standard_reclaimed",
+      "name": "复夺旌幡",
+      "description": "激活<b><span style=\"color:#FFD780FF\">弋猎印记</span></b>时获得的<span style=\"color:#FFD780FF\">猎者之准</span>效果可以叠加。该效果至多叠加2层，叠加至2层时，还会使处于该效果影响下的当前场上角色的元素精通提升100点。",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "基础生命值",
+          "values": [
+            "-",
+            "1003"
+          ]
+        },
+        {
+          "label": "基础攻击力",
+          "values": [
+            "-",
+            "22"
+          ]
+        },
+        {
+          "label": "基础防御力",
+          "values": [
+            "-",
+            "59"
+          ]
+        },
+        {
+          "label": "元素充能效率",
+          "values": [
+            "-",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "基础生命值",
+          "values": [
+            "2577",
+            "3326"
+          ]
+        },
+        {
+          "label": "基础攻击力",
+          "values": [
+            "57",
+            "74"
+          ]
+        },
+        {
+          "label": "基础防御力",
+          "values": [
+            "151",
+            "195"
+          ]
+        },
+        {
+          "label": "元素充能效率",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "基础生命值",
+          "values": [
+            "4982",
+            "5514"
+          ]
+        },
+        {
+          "label": "基础攻击力",
+          "values": [
+            "111",
+            "122"
+          ]
+        },
+        {
+          "label": "基础防御力",
+          "values": [
+            "293",
+            "324"
+          ]
+        },
+        {
+          "label": "元素充能效率",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104141,
+        "id": "vajrada_amethyst_sliver",
+        "name": "最胜紫晶碎屑",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "植绒草",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "嵌合种",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "基础生命值",
+          "values": [
+            "6343",
+            "7052"
+          ]
+        },
+        {
+          "label": "基础攻击力",
+          "values": [
+            "141",
+            "157"
+          ]
+        },
+        {
+          "label": "基础防御力",
+          "values": [
+            "373",
+            "414"
+          ]
+        },
+        {
+          "label": "元素充能效率",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "最胜紫晶断片",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "游空之物的断尾",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "植绒草",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "嵌合种",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "基础生命值",
+          "values": [
+            "7881",
+            "8413"
+          ]
+        },
+        {
+          "label": "基础攻击力",
+          "values": [
+            "175",
+            "187"
+          ]
+        },
+        {
+          "label": "基础防御力",
+          "values": [
+            "463",
+            "494"
+          ]
+        },
+        {
+          "label": "元素充能效率",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "最胜紫晶断片",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "游空之物的断尾",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "植绒草",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "并生嵌合胞",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "基础生命值",
+          "values": [
+            "9241",
+            "9773"
+          ]
+        },
+        {
+          "label": "基础攻击力",
+          "values": [
+            "205",
+            "217"
+          ]
+        },
+        {
+          "label": "基础防御力",
+          "values": [
+            "543",
+            "574"
+          ]
+        },
+        {
+          "label": "元素充能效率",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "最胜紫晶块",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "游空之物的断尾",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "植绒草",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "并生嵌合胞",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "基础生命值",
+          "values": [
+            "10602",
+            "11134"
+          ]
+        },
+        {
+          "label": "基础攻击力",
+          "values": [
+            "235",
+            "247"
+          ]
+        },
+        {
+          "label": "基础防御力",
+          "values": [
+            "623",
+            "654"
+          ]
+        },
+        {
+          "label": "元素充能效率",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "最胜紫晶块",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "游空之物的断尾",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "植绒草",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "源生嵌合体",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "基础生命值",
+          "values": [
+            "11962",
+            "11962"
+          ]
+        },
+        {
+          "label": "基础攻击力",
+          "values": [
+            "265",
+            "265"
+          ]
+        },
+        {
+          "label": "基础防御力",
+          "values": [
+            "703",
+            "703"
+          ]
+        },
+        {
+          "label": "元素充能效率",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104144,
+        "id": "vajrada_amethyst_gemstone",
+        "name": "最胜紫晶",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "游空之物的断尾",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "植绒草",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "源生嵌合体",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104368,
+          "id": "teachings_of_fortitude",
+          "name": "「坚忍」的教导",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "嵌合种",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "「坚忍」的指引",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "并生嵌合胞",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "「坚忍」的指引",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "并生嵌合胞",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "「坚忍」的指引",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "并生嵌合胞",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "「坚忍」的指引",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "并生嵌合胞",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "「坚忍」的哲学",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合体",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "异端的瓶剂",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "「坚忍」的哲学",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合体",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "异端的瓶剂",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "「坚忍」的哲学",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合体",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "异端的瓶剂",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "「坚忍」的哲学",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合体",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "异端的瓶剂",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "智识之冕",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 214800,
+      "name": "寒帷伏猎",
+      "description": "阿罗夏的装扮款式。经久耐用的猎装，配以厚实的内衬和毛绒帽边，可以让阿罗夏长时间地潜伏在雪地里，直至猎获自己想要的猎物。至于为什么帽子的款式是小狗的脑袋，因为很可爱，图加林也很喜欢。",
+      "isDefault": true,
+      "characterName": "阿罗夏",
+      "characterId": 10000148,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Alyosha_Circle"
+    }
+  ]
+}

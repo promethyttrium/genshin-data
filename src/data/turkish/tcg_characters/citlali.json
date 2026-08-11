@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Buz",
+    "weapon": "Katalizör",
     "faction": [
-      null
+      "Natlan"
     ],
     "talent_card": {
       "_id": 7823,
@@ -29,8 +31,10 @@
     {
       "id": "shadowstealing_spirit_vessel",
       "name": "Gölge Çalan Ruh Meskeni",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#99FFFFFF\">Buz Hasarı</span> verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "dawnfrost_darkstar",
       "name": "Şafak Ayazının Karanlık Yıldızı",
-      "desc": "? ? verir.<br/><span style=\"color:#FFFFFFFF\">Gece Ruhunun Lütfu</span> durumuna girer, 1 <span style=\"color:#FFFFFFFF\">\"Gece Ruhu puanı\"</span> kazanır, ardından 1 <span style=\"color:#FFFFFFFF\">Opal Kalkan</span> ve <span style=\"color:#FFFFFFFF\">Itzpapa</span> puanı oluşturur. (Bu beceri, karakter <span style=\"color:#FFFFFFFF\">Gece Ruhunun Lütfu</span> durumuna girdiğinde kullanılamaz.)",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#99FFFFFF\">Buz Hasarı</span> verir.<br/><span style=\"color:#FFFFFFFF\">Gece Ruhunun Lütfu</span> durumuna girer, 1 <span style=\"color:#FFFFFFFF\">\"Gece Ruhu puanı\"</span> kazanır, ardından 1 <span style=\"color:#FFFFFFFF\">Opal Kalkan</span> ve <span style=\"color:#FFFFFFFF\">Itzpapa</span> puanı oluşturur. (Bu beceri, karakter <span style=\"color:#FFFFFFFF\">Gece Ruhunun Lütfu</span> durumuna girdiğinde kullanılamaz.)",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "edict_of_entwined_splendor",
       "name": "Sarmalayan İhtişamın Fermanı",
-      "desc": "? ? verir, rakibin beklemedeki tüm karakterlerine 1 <span style=\"color:#FFFFFFFF\">Delme Hasarı</span> verir ve eğer mümkünse 2 <span style=\"color:#FFFFFFFF\">Gece Ruhu puanı</span> kazanır.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#99FFFFFF\">Buz Hasarı</span> verir, rakibin beklemedeki tüm karakterlerine 1 <span style=\"color:#FFFFFFFF\">Delme Hasarı</span> verir ve eğer mümkünse 2 <span style=\"color:#FFFFFFFF\">Gece Ruhu puanı</span> kazanır.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -84,7 +92,9 @@
       "id": "songs_of_profound_mystery",
       "name": "Derin Gizem Şarkıları",
       "desc": "<span style=\"color:#FFFFFFFF\">Bir <span style=\"color:#FFFFFFFF\">Seç</span>im yaptığında veya bir Element Tepkimesiyle Hasar verdiğinde </span> eğer mümkünse 1 <span style=\"color:#FFFFFFFF\">Gece Ruhu puanı</span> kazanırsın. (Her Turda bir defa)",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

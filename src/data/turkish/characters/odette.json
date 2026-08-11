@@ -1,0 +1,1393 @@
+{
+  "_id": 10000150,
+  "id": "odette",
+  "name": "Odette",
+  "title": "Süzülen Kar",
+  "description": "Donuk topraklarda açan buzdan bir çiçek kadar etkileyici güzellikteki Snezhnayalı meşhur balerin.",
+  "weapon_type": {
+    "id": "sword",
+    "name": "Kılıç"
+  },
+  "element": {
+    "id": "cryo",
+    "name": "Buz"
+  },
+  "gender": {
+    "id": "female",
+    "name": "Dişi"
+  },
+  "release": 1786395600,
+  "substat": "Kritik Hasar",
+  "affiliation": "Korolevskiy Topluluğu",
+  "region": {
+    "id": "snezhnaya_star",
+    "name": "SNEZHNAYA_STAR"
+  },
+  "rarity": 5,
+  "birthday": [
+    20,
+    2
+  ],
+  "constellation": "Kar Kuğusu",
+  "domain": "Ustalık Zindanı: Tefekkür",
+  "cv": {
+    "english": "Alexis Tipton",
+    "chinese": "潘丹妮",
+    "japanese": "上坂堇",
+    "korean": "Choi Hyun-ji"
+  },
+  "skills": [
+    {
+      "_id": 11501,
+      "id": "snow_swan_variation",
+      "name": "Kar Kuğusu Varyasyonu",
+      "description": "<span style=\"color:#FFD780FF\">Normal Saldırı</span><br/>Arka arkaya en fazla 5 kılıç saldırısı yapar.<br/><br/><span style=\"color:#FFD780FF\">Yüklü Saldırı</span><br/>Belirli miktarda Dayanıklılık harcayarak önündeki düşmanlara göz kamaştıran bir kesme darbesi yapar.<br/><br/><span style=\"color:#FFD780FF\">Havadan Saldırı</span><br/>Havadayken dalışa geçerek yere vurur ve yoluna çıkan düşmanlara Alan Hasarı verir.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "1 Vuruş Hasarı",
+          "values": [
+            "51.9%",
+            "56.1%",
+            "60.3%",
+            "66.3%",
+            "70.5%",
+            "75.4%",
+            "82%",
+            "88.6%",
+            "95.3%",
+            "102.5%",
+            "109.7%",
+            "117%",
+            "124.2%",
+            "131.5%",
+            "138.7%"
+          ]
+        },
+        {
+          "label": "2 Vuruş Hasarı",
+          "values": [
+            "51.5%",
+            "55.7%",
+            "59.9%",
+            "65.9%",
+            "70.1%",
+            "74.9%",
+            "81.5%",
+            "88%",
+            "94.6%",
+            "101.8%",
+            "109%",
+            "116.2%",
+            "123.4%",
+            "130.6%",
+            "137.8%"
+          ]
+        },
+        {
+          "label": "3 Vuruş Hasarı",
+          "values": [
+            "32.6% + 38.3%",
+            "35.3% + 41.4%",
+            "37.9% + 44.5%",
+            "41.7% + 49%",
+            "44.4% + 52.1%",
+            "47.4% + 55.6%",
+            "51.6% + 60.5%",
+            "55.7% + 65.4%",
+            "59.9% + 70.3%",
+            "64.5% + 75.7%",
+            "69% + 81%",
+            "73.6% + 86.3%",
+            "78.1% + 91.7%",
+            "82.7% + 97%",
+            "87.2% + 102.4%"
+          ]
+        },
+        {
+          "label": "4 Vuruş Hasarı",
+          "values": [
+            "74.6%",
+            "80.6%",
+            "86.7%",
+            "95.4%",
+            "101.5%",
+            "108.4%",
+            "117.9%",
+            "127.5%",
+            "137%",
+            "147.4%",
+            "157.8%",
+            "168.2%",
+            "178.6%",
+            "189%",
+            "199.4%"
+          ]
+        },
+        {
+          "label": "5 Vuruş Hasarı",
+          "values": [
+            "90.2%",
+            "97.6%",
+            "104.9%",
+            "115.4%",
+            "122.7%",
+            "131.1%",
+            "142.7%",
+            "154.2%",
+            "165.7%",
+            "178.3%",
+            "190.9%",
+            "203.5%",
+            "216.1%",
+            "228.7%",
+            "241.3%"
+          ]
+        },
+        {
+          "label": "Yüklü Saldırı Hasarı",
+          "values": [
+            "107.4%",
+            "116.2%",
+            "124.9%",
+            "137.4%",
+            "146.1%",
+            "156.1%",
+            "169.9%",
+            "183.6%",
+            "197.3%",
+            "212.3%",
+            "227.3%",
+            "242.3%",
+            "257.3%",
+            "272.3%",
+            "287.3%"
+          ]
+        },
+        {
+          "label": "Yüklü Saldırı Dayanıklılık Maliyeti",
+          "values": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "label": "Havadan Saldırı Hasarı",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "Havadan Saldırı Hasarı (Alçaktan/Yüksekten)",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11502,
+      "id": "adagio_phantom_night_dancers",
+      "name": "Yavaş Tempo: Hayalet Gece Dansçıları",
+      "description": "Odette, yavaş ve zarif dans adımlarıyla düşmana <span style=\"color:#99FFFFFF\">Buz Alan Hasarı</span> verir ve alana <b><span style=\"color:#FFD780FF\">Solo Dans Gölgesini</span></b> çağırır.<br/>Eğer alanda zaten Odette tarafından çağrılan bir <span style=\"color:#FFD780FF\">Dans Gölgesi</span> varsa bu beceri, mevcut Dans gölgesini yeniden çağırır ve süresini yeniler.<br/><br/><span style=\"color:#FFD780FF\">Solo Dans Gölgesi</span><br/><span style=\"color:#FFD780FF\">Tüy</span> ve <span style=\"color:#FFD780FF\">Kanat</span> olmak üzere iki dans hareketi arasında geçiş yapar, belirli aralıklarla yakındaki düşmanlara saldırarak <span style=\"color:#99FFFFFF\">Buz Alan Hasarı</span> verir.<br/>Ayrıca <span style=\"color:#FFD780FF\">Yavaş Tempo: Hayalet Gece Dansçıları</span> Element Becerisi kullanıldıktan sonra bu Element Becerisi, 6 saniyeliğine <b><span style=\"color:#FFD780FF\">Yavaş Tempo: Şafakla Gelen Son</span></b> özel Element Becerisine dönüşür. Bu özel Element Becerisinde bir dans düeti yakındaki düşmanlara zamanla <span style=\"color:#99FFFFFF\">Buz Alan Hasarı</span> verir. Düet sona erdiğinde Odette bir defa daha <span style=\"color:#99FFFFFF\">Buz Alan Hasarı</span> verir, bu Hasar Yıldız İletimi veya Yıldız Girdabı Hasarı sayılır.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Beceri Hasarı",
+          "values": [
+            "108.1%",
+            "116.2%",
+            "124.3%",
+            "135.1%",
+            "143.2%",
+            "151.3%",
+            "162.1%",
+            "172.9%",
+            "183.7%",
+            "194.5%",
+            "205.4%",
+            "216.2%",
+            "229.7%",
+            "243.2%",
+            "256.7%"
+          ]
+        },
+        {
+          "label": "Şafakla Gelen Son Süreli Hasarı",
+          "values": [
+            "95.8%",
+            "103%",
+            "110.2%",
+            "119.8%",
+            "127%",
+            "134.2%",
+            "143.8%",
+            "153.3%",
+            "162.9%",
+            "172.5%",
+            "182.1%",
+            "191.7%",
+            "203.7%",
+            "215.6%",
+            "227.6%"
+          ]
+        },
+        {
+          "label": "Şafakla Gelen Son Yıldız İletimi/Yıldız Girdabı Hasarı",
+          "values": [
+            "305.8% / 458.6%",
+            "328.7% / 493%",
+            "351.6% / 527.4%",
+            "382.2% / 573.3%",
+            "405.1% / 607.7%",
+            "428.1% / 642.1%",
+            "458.6% / 688%",
+            "489.2% / 733.8%",
+            "519.8% / 779.7%",
+            "550.4% / 825.6%",
+            "580.9% / 871.4%",
+            "611.5% / 917.3%",
+            "649.7% / 974.6%",
+            "688% / 1031.9%",
+            "726.2% / 1089.3%"
+          ]
+        },
+        {
+          "label": "\"Tüy\" Dans Hareketi Hasarı",
+          "values": [
+            "43%",
+            "46.3%",
+            "49.5%",
+            "53.8%",
+            "57%",
+            "60.3%",
+            "64.6%",
+            "68.9%",
+            "73.2%",
+            "77.5%",
+            "81.8%",
+            "86.1%",
+            "91.5%",
+            "96.8%",
+            "102.2%"
+          ]
+        },
+        {
+          "label": "\"Tüy\" Dans Hareketi Yıldız İletimi/Yıldız Girdabı Hasarı",
+          "values": [
+            "27% / 40.5%",
+            "29.1% / 43.6%",
+            "31.1% / 46.6%",
+            "33.8% / 50.7%",
+            "35.8% / 53.7%",
+            "37.8% / 56.7%",
+            "40.5% / 60.8%",
+            "43.2% / 64.8%",
+            "45.9% / 68.9%",
+            "48.6% / 73%",
+            "51.3% / 77%",
+            "54% / 81.1%",
+            "57.4% / 86.1%",
+            "60.8% / 91.2%",
+            "64.2% / 96.3%"
+          ]
+        },
+        {
+          "label": "\"Kanat\" Dans Hareketi Hasarı",
+          "values": [
+            "51.5%",
+            "55.3%",
+            "59.2%",
+            "64.3%",
+            "68.2%",
+            "72%",
+            "77.2%",
+            "82.3%",
+            "87.5%",
+            "92.6%",
+            "97.8%",
+            "102.9%",
+            "109.4%",
+            "115.8%",
+            "122.2%"
+          ]
+        },
+        {
+          "label": "\"Kanat\" Dans Hareketi Yıldız İletimi/Yıldız Girdabı Hasarı",
+          "values": [
+            "32.3% / 48.5%",
+            "34.7% / 52.1%",
+            "37.2% / 55.7%",
+            "40.4% / 60.6%",
+            "42.8% / 64.2%",
+            "45.2% / 67.8%",
+            "48.5% / 72.7%",
+            "51.7% / 77.5%",
+            "54.9% / 82.4%",
+            "58.2% / 87.2%",
+            "61.4% / 92.1%",
+            "64.6% / 96.9%",
+            "68.7% / 103%",
+            "72.7% / 109%",
+            "76.7% / 115.1%"
+          ]
+        },
+        {
+          "label": "Şafakla Gelen Son Bekleme Süresi",
+          "values": [
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn"
+          ]
+        },
+        {
+          "label": "Solo Dans Gölgesi Süresi",
+          "values": [
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn"
+          ]
+        },
+        {
+          "label": "BS",
+          "values": [
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11505,
+      "id": "presto_bluebird_finale",
+      "name": "Hızlı Tempo: Mavi Kuşun Son Dansı",
+      "description": "Odette, hızlı ve canlı dans adımlarıyla birden fazla defa <span style=\"color:#99FFFFFF\">Buz Alan Hasarı</span> verir ve <b><span style=\"color:#FFD780FF\">Solo Dans Gölgesini</span></b> çağırır. Ayrıca verdiği Yıldız Parıltısı Tepkimesi Hasarını artıran <span style=\"color:#FFD780FF\">Kar Kuğusunun Rüyası</span> etkisini kazanır.<br/>Buna ek olarak, <span style=\"color:#FFD780FF\">Hızlı Tempo: Mavi Kuşun Son Dansı</span> Element Patlaması kullanıldıktan sonra Odette'in <span style=\"color:#FFD780FF\">Yavaş Tempo: Hayalet Gece Dansçıları</span> Element Becerisi, 6 saniyeliğine <b><span style=\"color:#FFD780FF\">Yavaş Tempo: Şafakla Gelen Son</span></b> özel Element Becerisine dönüşür.<br/><br/>Alanda Odette'in çağırdığı bir Solo Dans Gölgesi varsa süresi yenilenmiş şekilde Odette'in yanına çağrılır.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Kesme Hasarı",
+          "values": [
+            "110.2% x3",
+            "118.4% x3",
+            "126.7% x3",
+            "137.7% x3",
+            "146% x3",
+            "154.2% x3",
+            "165.3% x3",
+            "176.3% x3",
+            "187.3% x3",
+            "198.3% x3",
+            "209.3% x3",
+            "220.4% x3",
+            "234.1% x3",
+            "247.9% x3",
+            "261.7% x3"
+          ]
+        },
+        {
+          "label": "Son Kesme Hasarı",
+          "values": [
+            "170.3%",
+            "183%",
+            "195.8%",
+            "212.8%",
+            "225.6%",
+            "238.4%",
+            "255.4%",
+            "272.4%",
+            "289.5%",
+            "306.5%",
+            "323.5%",
+            "340.5%",
+            "361.8%",
+            "383.1%",
+            "404.4%"
+          ]
+        },
+        {
+          "label": "Kar Kuğusunun Rüyası Yıldız Parıltısı Tepkimesi Hasarı Bonusu",
+          "values": [
+            "14%",
+            "18%",
+            "22%",
+            "26%",
+            "30%",
+            "34%",
+            "38%",
+            "42%",
+            "46%",
+            "50%",
+            "54%",
+            "58%",
+            "62%",
+            "66%",
+            "70%"
+          ]
+        },
+        {
+          "label": "Kar Kuğusunun Rüyası Süresi",
+          "values": [
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn"
+          ]
+        },
+        {
+          "label": "Solo Dans Gölgesi Süresi",
+          "values": [
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn",
+            "20sn"
+          ]
+        },
+        {
+          "label": "BS",
+          "values": [
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn"
+          ]
+        },
+        {
+          "label": "Enerji Maliyeti",
+          "values": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "spring_rite_of_the_chosen_one",
+      "name": "Seçilmiş Kişinin Bahar Ayini",
+      "description": "Odette <b><span style=\"color:#FFD780FF\">Solo Dans Gölgesi</span></b> çağırdığında 4 kademe <b><span style=\"color:#FFD780FF\">Mucizevi İhtişam</span></b> elde eder.",
+      "level": 1
+    },
+    {
+      "id": "pathetique_of_pateticheskaya",
+      "name": "Pateticheskaya'nın Patetiği",
+      "description": "Odette'in verdiği Yıldız Parıltısı Hasarı, 1.000 üzerindeki her 100 Saldırısı için orijinal Hasarın %1,5'i kadar artar. Bu şekilde en fazla %30 artış elde edebilir.",
+      "level": 4
+    },
+    {
+      "id": "stellar_jubilee_dance_of_aurore",
+      "name": "Yıldız Takdisi: Şafağın Dansı",
+      "description": "Odette bir <color=#FFD780FF><b>Kutup Yıldızı Alanı</b></color> içindeyken <span style=\"color:#FFD780FF\">Işıltı: Yıldız İletimi</span> durumuna, yakındaki bir grup üyesi bir Yıldız Girdabı tepkimesi tetiklediğinde ise 8 saniyeliğine <span style=\"color:#FFD780FF\">Işıltı: Yıldız Girdabı</span> durumuna girer.<br/>Bir grup üyesi bir Süper İletim veya Buz Girdabı tepkimesi tetiklediğinde bu tepkime, Yıldız İletimi veya Yıldız Girdabı tepkimesine dönüşür ve Odette'in Saldırısının her 100 puanı için söz konusu tepkimenin Temel Hasarı %0,7 artar. Bu şekilde en fazla %14 artış elde edilebilir.",
+      "level": 0
+    },
+    {
+      "id": "echo_of_winter_daydreams",
+      "name": "Kış Hayallerinin Yankısı",
+      "description": "Mini haritada <span style=\"color:#FFD780FF\">Snezhnaya'nın yöresel ürünlerini</span> gösterir.<br/>Boş vakitlerinde dans pratiği yapmak başka etkiler de tetikleyebilir...",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1501,
+      "id": "on_this_danceless_morn_she_gazes_at_her_reflection",
+      "name": "\"Danssız Bir Sabahta Baktı Yansımasına\"",
+      "description": "<b><span style=\"color:#FFD780FF\">Yavaş Tempo: Şafakla Gelen Son</span></b> özel Element Becerisi kullanıldığında, Odette dans düetini bitirdiğinde yakındaki düşmanlara ek bir <span style=\"color:#99FFFFFF\">Buz Alan Hasarı</span> verir. Bu Hasar:<br/><span style=\"color:#FFD780FF\">Işıltı: Yıldız İletimi</span> durumundayken veya bir Işıltı durumunda değilken Odette'in Saldırısının %300'ü oranında Yıldız İletimi Tepkimesi Hasarı olur;<br/><span style=\"color:#FFD780FF\">Işıltı: Yıldız Girdabı</span> durumundayken ise Odette'in Saldırısının %450'si oranında Yıldız Girdabı Tepkimesi Hasarı olur.<br/><br/>Ayrıca \"Seçilmiş Kişinin Bahar Ayini\" Yükseltme Yeteneği de gelişir: Artık <b><span style=\"color:#FFD780FF\">Solo Dans Gölgesi</span></b> çağrıldığında Odette ek 2 kademe <b><span style=\"color:#FFD780FF\">Mucizevi İhtişam</span></b> kazanır ve alanda değilken <span style=\"color:#FFD780FF\">Mucizevi İhtişam</span> kademelerini kaybetme hızı saniyede 2 kademeye çıkar.",
+      "level": 1
+    },
+    {
+      "_id": 1502,
+      "id": "i_must_see_the_snow_swans_unseen_dream_for_myself_she_thought",
+      "name": "\"Kar Kuğusunun Görülmeyen Rüyasını Bizzat Görmeliyim Diye Düşündü\"",
+      "description": "\"Seçilmiş Kişinin Bahar Ayini\" Yükseltme Yeteneği gelişir: Her etkin <b><span style=\"color:#FFD780FF\">Mucizevi İhtişam</span></b> kademesi ek olarak karakterin Saldırısını %7 artırır.<br/>Ayrıca eğer alanda bir <b><span style=\"color:#FFD780FF\">Solo Dans Gölgesi</span></b> varken Odette <b><span style=\"color:#FFD780FF\">Işıltı: Yıldız Parıltısı</span></b> durumundaysa <span style=\"color:#FFD780FF\">Dans Gölgesinin</span> yakınındaki düşmanların ilgili Element Direnci %20 düşer.<br/>·<span style=\"color:#FFD780FF\">Işıltı: Yıldız İletimi</span>: <span style=\"color:#99FFFFFF\">Buz</span> ve <span style=\"color:#FFACFFFF\">Elektrik</span> Dirençleri düşer.<br/>·<span style=\"color:#FFD780FF\">Işıltı: Yıldız Girdabı</span>: <span style=\"color:#99FFFFFF\">Buz</span> ve <span style=\"color:#80FFD7FF\">Rüzgar</span> Dirençleri düşer.",
+      "level": 2
+    },
+    {
+      "_id": 1503,
+      "id": "ill_chase_the_shouting_wind_along_climbing_alone_as_i_go",
+      "name": "\"Haykıran Rüzgarın Peşine Düşeceğim, Yalnız Tırmanacağım Yükseklere\"",
+      "description": "<color=#FFD780FF><b>Yavaş Tempo: Hayalet Gece Dansçıları</b></color> seviyesini 3 artırır.<br/>Maksimum yükseltme seviyesi 15'tir.",
+      "level": 3
+    },
+    {
+      "_id": 1504,
+      "id": "up_up_the_long_delirious_burning_blue",
+      "name": "\"Yukarıya; Uzun, Çılgın, Yanan Maviliğe\"",
+      "description": "<span style=\"color:#FFD780FF\">Hızlı Tempo: Mavi Kuşun Son Dansı</span> Element Patlaması geliştirilir: Odette <span style=\"color:#FFD780FF\">Kar Kuğusunun Rüyası</span> elde ettiğinde, yakındaki diğer grup üyelerinin verdiği Yıldız Parıltısı Tepkimesi Hasarı, <span style=\"color:#FFD780FF\">Kar Kuğusunun Rüyasının</span> etkilerinin %50'si kadar artar.<br/><br/>Ayrıca, bir grup üyesi bir düşmana Yıldız Parıltısı Tepkimesi Hasarı verdiğinde, Odette de bir ortak saldırı yaparak <span style=\"color:#99FFFFFF\">Buz Alan Hasarı</span> verir. Her 3,5 saniyede bir tetiklenebilen bu etki:<br/>·<span style=\"color:#FFD780FF\">Işıltı: Yıldız İletimi</span> durumundayken veya bir Işıltı durumunda değilken Odette'in Saldırısının %66'sı kadar Yıldız İletimi Tepkimesi Hasarı verir;<br/>·<span style=\"color:#FFD780FF\">Işıltı: Yıldız Girdabı</span> durumundayken Odette'in Saldırısının %99'u kadar Yıldız Girdabı Tepkimesi Hasarı verir.",
+      "level": 4
+    },
+    {
+      "_id": 1505,
+      "id": "oh_i_have_slipped_the_surly_bonds_of_earth",
+      "name": "\"Heyhat! Yeryüzünün Acımasız Bağlarından Sıyrıldım\"",
+      "description": "<color=#FFD780FF><b>Hızlı Tempo: Mavi Kuşun Son Dansı</b></color> seviyesini 3 artırır.<br/>Maksimum yükseltme seviyesi 15'tir.",
+      "level": 5
+    },
+    {
+      "_id": 1506,
+      "id": "put_out_my_hand_and_touched_the_face_of_the_divine",
+      "name": "\"Elimi Uzattım ve İlahi Olanın Yüzüne Dokundum\"",
+      "description": "\"Seçilmiş Kişinin Bahar Ayini\" Yükseltme Yeteneği gelişir: Odette, yakındaki tüm grup üyelerine <b><span style=\"color:#FFD780FF\">Mucizevi İhtişam</span></b> verdiğinde Odette'in kendi Mucizevi İhtişam kademeleri azalmaz.<br/>Ayrıca, <span style=\"color:#FFD780FF\">Mucizevi İhtişam</span> etkisindeki karakterlerin düşmanlara verdiği Yıldız Parıltısı Tepkimesi Hasarı %25 <b><span style=\"color:#FFD780FF\">yükselir</span></b> ve Odette'in verdiği Yıldız Parıltısı Tepkimesi Hasarı da ek olarak %20 yükselir.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Yükselt",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "Temel Can",
+          "values": [
+            "-",
+            "1011"
+          ]
+        },
+        {
+          "label": "Temel Saldırı",
+          "values": [
+            "-",
+            "26"
+          ]
+        },
+        {
+          "label": "Temel Savunma",
+          "values": [
+            "-",
+            "61"
+          ]
+        },
+        {
+          "label": "Kritik Hasar",
+          "values": [
+            "-",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Yükselt",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "Temel Can",
+          "values": [
+            "2621",
+            "3488"
+          ]
+        },
+        {
+          "label": "Temel Saldırı",
+          "values": [
+            "68",
+            "90"
+          ]
+        },
+        {
+          "label": "Temel Savunma",
+          "values": [
+            "159",
+            "211"
+          ]
+        },
+        {
+          "label": "Kritik Hasar",
+          "values": [
+            "50.0%",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Yükselt",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "Temel Can",
+          "values": [
+            "5219",
+            "5834"
+          ]
+        },
+        {
+          "label": "Temel Saldırı",
+          "values": [
+            "135",
+            "151"
+          ]
+        },
+        {
+          "label": "Temel Savunma",
+          "values": [
+            "316",
+            "354"
+          ]
+        },
+        {
+          "label": "Kritik Hasar",
+          "values": [
+            "50.0%",
+            "59.6%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104161,
+        "id": "shivada_jade_sliver",
+        "name": "Shivada Yeşimi Tozu",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Buz Perisi Çiçeği",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Ruhani Işıltı Parçası",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Yükselt",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "Temel Can",
+          "values": [
+            "6712",
+            "7533"
+          ]
+        },
+        {
+          "label": "Temel Saldırı",
+          "values": [
+            "173",
+            "194"
+          ]
+        },
+        {
+          "label": "Temel Savunma",
+          "values": [
+            "407",
+            "457"
+          ]
+        },
+        {
+          "label": "Kritik Hasar",
+          "values": [
+            "59.6%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "Shivada Yeşimi Kırıntısı",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Yanmamış Çiçek Dalı",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Buz Perisi Çiçeği",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Ruhani Işıltı Parçası",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Yükselt",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "Temel Can",
+          "values": [
+            "8421",
+            "9036"
+          ]
+        },
+        {
+          "label": "Temel Saldırı",
+          "values": [
+            "217",
+            "233"
+          ]
+        },
+        {
+          "label": "Temel Savunma",
+          "values": [
+            "511",
+            "548"
+          ]
+        },
+        {
+          "label": "Kritik Hasar",
+          "values": [
+            "69.2%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "Shivada Yeşimi Kırıntısı",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Yanmamış Çiçek Dalı",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Buz Perisi Çiçeği",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Ruhani Kristal",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Yükselt",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "Temel Can",
+          "values": [
+            "9932",
+            "10547"
+          ]
+        },
+        {
+          "label": "Temel Saldırı",
+          "values": [
+            "256",
+            "272"
+          ]
+        },
+        {
+          "label": "Temel Savunma",
+          "values": [
+            "602",
+            "639"
+          ]
+        },
+        {
+          "label": "Kritik Hasar",
+          "values": [
+            "69.2%",
+            "78.8%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "Shivada Yeşimi Parçası",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Yanmamış Çiçek Dalı",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Buz Perisi Çiçeği",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Ruhani Kristal",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Yükselt",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "Temel Can",
+          "values": [
+            "11453",
+            "12068"
+          ]
+        },
+        {
+          "label": "Temel Saldırı",
+          "values": [
+            "295",
+            "311"
+          ]
+        },
+        {
+          "label": "Temel Savunma",
+          "values": [
+            "694",
+            "732"
+          ]
+        },
+        {
+          "label": "Kritik Hasar",
+          "values": [
+            "78.8%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "Shivada Yeşimi Parçası",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Yanmamış Çiçek Dalı",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Buz Perisi Çiçeği",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "Ruhani Kristal Pul Taşı",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Yükselt",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "Temel Can",
+          "values": [
+            "12981",
+            "12981"
+          ]
+        },
+        {
+          "label": "Temel Saldırı",
+          "values": [
+            "335",
+            "335"
+          ]
+        },
+        {
+          "label": "Temel Savunma",
+          "values": [
+            "787",
+            "787"
+          ]
+        },
+        {
+          "label": "Kritik Hasar",
+          "values": [
+            "88.4%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104164,
+        "id": "shivada_jade_gemstone",
+        "name": "Shivada Yeşimi Külçesi",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Yanmamış Çiçek Dalı",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Buz Perisi Çiçeği",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "Ruhani Kristal Pul Taşı",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104365,
+          "id": "teachings_of_charity",
+          "name": "Merhamet Öğretisi",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "Ruhani Işıltı Parçası",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Merhamet Rehberi",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Ruhani Kristal",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Merhamet Rehberi",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Ruhani Kristal",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Merhamet Rehberi",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Ruhani Kristal",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Merhamet Rehberi",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Ruhani Kristal",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Merhamet Felsefesi",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Ruhani Kristal Pul Taşı",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Kurumuş Çarpık Dal",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Merhamet Felsefesi",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Ruhani Kristal Pul Taşı",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Kurumuş Çarpık Dal",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Merhamet Felsefesi",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Ruhani Kristal Pul Taşı",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Kurumuş Çarpık Dal",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Merhamet Felsefesi",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Ruhani Kristal Pul Taşı",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Kurumuş Çarpık Dal",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Bilgelik Tacı",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 215000,
+      "name": "Kar Kuğusunun Dansı",
+      "description": "Odette'in giysisi. Kar kuğularından ilham alan, sayısız uzun geceler boyunca çalışkan balerinin sadık yoldaşı olmuş, olağanüstü işçiliğe sahip bir bale kıyafeti. Üzerindeki mücevherler, sahne ışıklarının altında tıpkı ışıltılı dansçının kendisi gibi sessiz bir zarafetle parıldıyor.",
+      "isDefault": true,
+      "characterName": "Odette",
+      "characterId": 10000150,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Odette_Circle"
+    }
+  ]
+}

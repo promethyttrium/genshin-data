@@ -1,0 +1,40 @@
+{
+  "_id": 25131001,
+  "id": "volkodlak_lobber",
+  "monsterId": 25131105,
+  "name": "兽怪投掷者",
+  "specialNames": [
+    "投掷者"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "异种魔兽",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "description": "在至冬的诸多兽怪之中，相对壮硕的那类。\\n拥有野兽的力量和类人的躯体，强壮的上肢力量令他们在进行投掷时能拥有更强的威力和更高的精准度。兽怪或许并不精通臻冰凝造的技艺或是元素力的使用，但是要说到对于身躯力量的掌控，在诸多妖精的族裔中也能算得上名列前茅。",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

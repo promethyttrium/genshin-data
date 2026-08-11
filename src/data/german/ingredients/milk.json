@@ -90,6 +90,11 @@
       "name": "Xocoatl"
     },
     {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Raureifbeereneis"
+    },
+    {
       "_id": 3905,
       "id": "bubblemilk_pie",
       "name": "Bubblemilch-Strudel"
@@ -119,6 +124,5 @@
   ],
   "source": [
     "In Gemischtwarenläden zu erstehen"
-  ],
-  "rarity": 0
+  ]
 }

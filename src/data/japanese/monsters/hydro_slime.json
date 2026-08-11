@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Slime_Water_02",
   "description": "大自然に散布する水元素から生まれた小さな魔物。\\n噂では、水源が見つかりにくい乾燥地帯や秘境へ行く時、非常用水として水スライムを持って行く人もいるらしい。しかし、高濃度の水元素を直接飲むと体によくない。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

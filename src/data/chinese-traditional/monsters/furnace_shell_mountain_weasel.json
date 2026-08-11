@@ -13,8 +13,6 @@
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_VolcanoWeasel",
   "description": "因生活在與外界隔絕的特殊燃素環境之內，而擁有特殊形態的古代種山鼬。\\n透過進食富含燃素的生物，不斷向背殼之中積蓄力量的古代獸種。於聖山廢墟的長久生活之中，似乎由於獨特的親近燃素的性質，逐漸被聖山廢墟之中的秘源機關影響，形成了獨有的與秘源機關互相依附的生存狀態。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

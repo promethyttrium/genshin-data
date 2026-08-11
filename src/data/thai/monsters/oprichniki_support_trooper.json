@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan",
   "description": "ทหารสังกัดหน่วยพิเศษ Fatui ติดตั้งโล่หนัก มีหน้าที่คอยปกป้องสหายร่วมรบที่อยู่แนวหน้าสุดในการสู้รบ\\nหลายคนรู้ดีว่า ในสงครามที่ยาวนานระหว่าง Snezhnaya และภัยพิบัติอันมืดมน มีเพียงฝ่ายที่ \"การสนับสนุน\" เหนียวแน่นกว่าและยืนหยัดได้นานกว่าจึงจะได้รับชัยชนะ แล้ว \"การสนับสนุน\" ของทหารสนับสนุนก็คือโล่ของกำลังเสริม... ตราบใดที่โล่ไม่พังทลาย ความหวังแห่งชัยชนะก็จะยังคงอยู่",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

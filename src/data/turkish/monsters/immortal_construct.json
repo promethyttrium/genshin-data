@@ -1,0 +1,158 @@
+{
+  "_id": 25140101,
+  "id": "immortal_construct",
+  "monsterId": 25140101,
+  "name": "Ölümsüz Yapı",
+  "specialNames": [
+    "Ebedi Alevtüyünün Kalan Bedeni"
+  ],
+  "investigation": {
+    "investigationId": 97,
+    "name": "Ölümsüz Yapı",
+    "categoryType": "Boss",
+    "categoryText": "Boss Düşmanlar",
+    "description": "Yalnızca belirli bir planı bencilce gerçekleştirmek amacıyla yaratılmış bir ikincil sonuç.\\nBiyolojik bir taşıyıcı olarak amacını çoktan yitiren bu denek, yabanda dolaşan vahşi ve akılsız bir yaratık olarak varlığını sürdürüyor."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Zharptitsa_02",
+  "rewardPreviewId": 15213,
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Macera TP",
+      "count": 200
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Yoldaşlık TP"
+    },
+    {
+      "_id": 113090,
+      "id": "unscorched_blossom_branch",
+      "name": "Yanmamış Çiçek Dalı",
+      "count": 2.556
+    },
+    {
+      "_id": 104114,
+      "id": "agnidus_agate_gemstone",
+      "name": "Agnidus Akiği Külçesi"
+    },
+    {
+      "_id": 104113,
+      "id": "agnidus_agate_chunk",
+      "name": "Agnidus Akiği Parçası"
+    },
+    {
+      "_id": 104112,
+      "id": "agnidus_agate_fragment",
+      "name": "Agnidus Akiği Kırıntısı"
+    },
+    {
+      "_id": 104111,
+      "id": "agnidus_agate_sliver",
+      "name": "Agnidus Akiği Tozu"
+    },
+    {
+      "_id": 400089,
+      "id": "gladiators_finale",
+      "name": "Gladyatörün Son Yemini",
+      "rarity": 5
+    },
+    {
+      "_id": 400099,
+      "id": "wanderers_troupe",
+      "name": "Göçebe Kumpanyası",
+      "rarity": 5
+    },
+    {
+      "_id": 400088,
+      "id": "gladiators_finale",
+      "name": "Gladyatörün Son Yemini",
+      "rarity": 4
+    },
+    {
+      "_id": 400098,
+      "id": "wanderers_troupe",
+      "name": "Göçebe Kumpanyası",
+      "rarity": 4
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Vahşi Savaşçı",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Eğitmen",
+      "rarity": 4
+    },
+    {
+      "_id": 400128,
+      "id": "prayers_for_illumination",
+      "name": "Aydınlanma Duası",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Vahşi Savaşçı",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Eğitmen",
+      "rarity": 3
+    },
+    {
+      "_id": 400127,
+      "id": "prayers_for_illumination",
+      "name": "Aydınlanma Duası",
+      "rarity": 3
+    },
+    {
+      "_id": 400047,
+      "id": "adventurer",
+      "name": "Maceracı",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Efsanevi Canavarlar",
+  "filename_icon": "UI_MonsterIcon_Zharptitsa_02",
+  "description": "Simyager Koshchei'nin, Ateşkuşu adıyla bilinen bireyi yaratırken ortaya çıkan ikincil sonuç.\\nBelki de hüzünlü simyagerin bir alışkanlığıydı bu: Bir gruptaki deneklerden biri başarılı olduğunda, geri kalanların hepsi terk edilir veya onun istediği gibi elden çıkarılırdı.\\nBu oluşumun türevinin bir çeşit güçle kaynaşarak tamamlanması gerekirdi. Fakat şimdi, sadece eksik ve akılsız bir canavar olarak dağ geçitlerinde durmaksızın dolaşıyor.",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.5,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 421.104,
+      "attack": 100.48,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

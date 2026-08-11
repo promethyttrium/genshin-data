@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_WildHunt",
   "description": "Kapkara sis çöktüğünde buz tutmuş çöllerde dolaşan bir hortlak. Ortaya çıkışları, daha kötü felaketlerin habercisidir.\\nAyın altında yaşayan herkes kendi hedefleri ve dilekleriyle yola koyulur, ancak her dilek karşılık bulmaz. İçlerindeki hınç, sevdiklerinden ayrılmanın üzüntüsü veya gerçekleşmemiş arzular yüzünden huzur bulamayan ruhlar, Hiçlik tarafından çürütülürse hortlaklara dönüşebilir ve Vahşi Avın yoğun sislerinde ebediyen kaybolurlar.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Su",
+    "weapon": "Kılıç",
     "faction": [
-      null
+      "Fontaine"
     ],
     "talent_card": {
       "_id": 5691,
@@ -29,8 +31,10 @@
     {
       "id": "soloists_solicitation",
       "name": "Dansa Davet",
-      "desc": "? ? verir.<br/><span style=\"color:#FFFFFFFF\">Her Turda bir defa:</span> Elinde <span style=\"color:#FFFFFFFF\">Kutsal ve Laik Tahtlar</span> yoksa elinde 1 <span style=\"color:#FFFFFFFF\">Kutsal ve Laik Tahtlar</span> kartı oluşur.",
-      "skillTag": [],
+      "desc": "2 ? verir.<br/><span style=\"color:#FFFFFFFF\">Her Turda bir defa:</span> Elinde <span style=\"color:#FFFFFFFF\">Kutsal ve Laik Tahtlar</span> yoksa elinde 1 <span style=\"color:#FFFFFFFF\">Kutsal ve Laik Tahtlar</span> kartı oluşur.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -50,7 +54,9 @@
       "id": "salon_solitaire",
       "name": "Yalnızlık Salonu",
       "desc": "<span style=\"color:#FFFFFFFF\">Furina</span> şu anda Arkhe: Öz durumunda. <span style=\"color:#FFFFFFFF\">Salon Üyeleri</span> çağırır.<br/>(Furina, Arkhe: Ruh durumunda olduğunda bunun yerine <span style=\"color:#FFFFFFFF\">Tüm Suların Şarkıcısı</span> çağırır.)",
-      "skillTag": [],
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "let_the_people_rejoice",
       "name": "Cümbüş Havası",
-      "desc": "? ? verir ve 1 <span style=\"color:#FFFFFFFF\">Evrensel Cümbüş</span> oluşturur.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir ve 1 <span style=\"color:#FFFFFFFF\">Evrensel Cümbüş</span> oluşturur.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -84,7 +92,9 @@
       "id": "arkhe_seats_sacred_and_secular",
       "name": "Arkhe: Kutsal ve Laik Tahtlar",
       "desc": "(Pasif) Savaş başladığında elinde 1 <span style=\"color:#FFFFFFFF\">Kutsal ve Laik Tahtlar</span> kartı oluşur.",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_MantaRay_Larva_02",
   "description": "A stingray that can release blades of water.\\nAmong the Fontemer Aberrants, there are certain strange \"Xenochromatic\" lifeforms. It is said that these are not actually living creatures, but rather spirits from the ocean that have neither taken physical form nor swallowed bait. They are said to bestow blessings upon those accepted by the Fontemer as well as those that are able to control it. Of course, those that have a deeper understanding of natural philosophy would discount such groundless speculation.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 65.15,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ธาตุไฟ",
+    "weapon": "อาวุธอื่น ๆ",
     "faction": [
-      null,
-      null
+      "มอนสเตอร์",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "torch_strike",
       "name": "Torch Strike",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง<span style=\"color:#FF9999FF\">ความเสียหายไฟ</span> 1 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -37,8 +41,10 @@
     {
       "id": "hit_and_run",
       "name": "Hit and Run",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง<span style=\"color:#FF9999FF\">ความเสียหายไฟ</span> 2 หน่วย",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -51,8 +57,10 @@
     {
       "id": "scorching_combo",
       "name": "Scorching Combo",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง<span style=\"color:#FF9999FF\">ความเสียหายไฟ</span> 4 หน่วย",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1103,

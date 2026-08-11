@@ -9,8 +9,10 @@
     "hp": 35,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Other Weapons",
     "faction": [
-      null
+      "Monster"
     ],
     "talent_card": {
       "_id": 8276,
@@ -27,8 +29,10 @@
     {
       "id": "crushing_tail_attack",
       "name": "Crushing Tail Attack",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -47,8 +51,10 @@
     {
       "id": "flying_fruit",
       "name": "Flying Fruit",
-      "desc": "Deal ? ? and draw 1 Food Card.",
-      "skillTag": [],
+      "desc": "Deal 2 <span style=\"color:#7EC236FF\">Dendro DMG</span> and draw 1 Food Card.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -61,8 +67,10 @@
     {
       "id": "flamegranate_conflagration",
       "name": "Flamegranate Conflagration",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 5 <span style=\"color:#FF9999FF\">Pyro DMG</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -82,7 +90,9 @@
       "id": "gluttonous_rex",
       "name": "Gluttonous Rex",
       "desc": "Cannot be <span style=\"color:#FFFFFFFF\">satiated</span>.<br/><span style=\"color:#FFFFFFFF\">After you play a Food Card:</span> Randomly attach 1 stack of <span style=\"color:#FFFFFFFF\">Well Fed and Strong</span> or <span style=\"color:#FFFFFFFF\">Well Fed and Sturdy</span>, or gain 1 additional Max HP. (Twice per Round)",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

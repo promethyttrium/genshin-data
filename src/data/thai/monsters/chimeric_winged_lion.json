@@ -1,0 +1,41 @@
+{
+  "_id": 26310501,
+  "id": "chimeric_winged_lion",
+  "monsterId": 26310507,
+  "name": "Chimeric Winged Lion",
+  "specialNames": [
+    "Chimeric Winged Lion"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "สัตว์อสูรลึกลับ",
+  "filename_icon": "UI_MonsterIcon_Chimera_Manticore",
+  "description": "หนึ่งในสัตว์ร้ายสังเคราะห์ที่ถูกทิ้งขว้าง ซึ่งเป็นผลผลิตจากการแปรธาตุชีวภาพ\\nเพื่อให้ความปรารถนาอันยิ่งใหญ่เป็นจริง นักเล่นแร่แปรธาตุคนหนึ่งได้ใช้เทคนิคที่ไม่อาจเผยแพร่ สร้างร่างต้นแบบมากมายที่เรียกว่า \"ร่างแรกเริ่ม\" ขึ้นมา\\nในจำนวนนั้น มีเพียงร่างเดียวที่เติบโตจนสมบูรณ์แบบตามแผน ส่วนร่างต้นอื่น ๆ ที่เกือบจะสมบูรณ์แต่สุดท้ายล้มเหลว กลับถูกดัดแปลงเป็นสัตว์ร้ายสองหัว\\nแม้จะถูกมองว่าเป็นของล้มเหลว แต่พลังของสัตว์ร้ายสองหัวพิเศษกลุ่มนี้ก็ยังคงยิ่งใหญ่ และในบรรดาสัตว์ร้ายสังเคราะห์ด้วยกัน ไม่มีสิ่งใดจะต่อกรกับพวกมันได้อีก",
+  "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.5,
+      "cryo": 0.1,
+      "electro": 0.5
+    },
+    "base": {
+      "hp": 350.27457,
+      "attack": 95.456,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

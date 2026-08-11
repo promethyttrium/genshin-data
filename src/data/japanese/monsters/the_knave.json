@@ -157,7 +157,6 @@
   "categoryText": "名前を覚えるべき強敵",
   "filename_icon": "UI_MonsterIcon_Nihil",
   "description": "ファデュイ執行官第四位「召使」。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

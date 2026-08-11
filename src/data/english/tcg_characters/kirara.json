@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Sword",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 5164,
@@ -29,8 +31,10 @@
     {
       "id": "boxcutter",
       "name": "Boxcutter",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -50,7 +54,9 @@
       "id": "meowteor_kick",
       "name": "Meow-teor Kick",
       "desc": "Creates 1 <span style=\"color:#FFFFFFFF\">Urgent Neko Parcel</span> and 2 stacks of <span style=\"color:#FFFFFFFF\">Shield of Safe Transport</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "secret_art_surprise_dispatch",
       "name": "Secret Art: Surprise Dispatch",
-      "desc": "Deals ? ?, creates 1 <span style=\"color:#FFFFFFFF\">Cat Grass Cardamom</span> on the opponent's side of the field.",
-      "skillTag": [],
+      "desc": "Deals 4 <span style=\"color:#7EC236FF\">Dendro DMG</span>, creates 1 <span style=\"color:#FFFFFFFF\">Cat Grass Cardamom</span> on the opponent's side of the field.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1107,

@@ -1,0 +1,29 @@
+{
+  "_id": 114095,
+  "id": "the_frost_emperors_lament",
+  "name": "Ayaz İmparatorunun Ağıdı",
+  "description": "Gerçeğin acı dalgalar gibi çalkalandığı o gece, kendisi artık eskiden olduğu kişi olmasa da bu hediyeyi tahttaki arkadaşı için hazırladı.<br/>İkisi de bir daha asla birbirleriyle bu şekilde konuşamayacaklarını anlamış gibiydi.<br/>Çünkü o geceden sonra, bir zamanlar birlikte yürüdükleri yol ayrıldı; birinin zayıf noktası ve diğerinin öfkesiyle parçalandı.",
+  "source": [
+    "Yer Tutucu - Üretilebilir Miktar: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114094,
+        "id": "the_frost_emperors_ceremony",
+        "name": "Ayaz İmparatorunun Töreni",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Döküm Zindanı: Lanetli Saplantının Yara İzleri",
+  "days": [
+    "Çarşamba",
+    "Cumartesi",
+    "Pazar"
+  ]
+}

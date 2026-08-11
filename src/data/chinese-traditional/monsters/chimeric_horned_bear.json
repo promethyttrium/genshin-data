@@ -1,0 +1,39 @@
+{
+  "_id": 26310401,
+  "id": "chimeric_horned_bear",
+  "monsterId": 26310402,
+  "name": "嵌合角熊",
+  "specialNames": [
+    "嵌合角熊"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種魔獸",
+  "filename_icon": "UI_MonsterIcon_Chimera_BearDeer",
+  "description": "生物煉金的產物，成型十分特殊的合成魔獸。\\n並未按照人工的設想，而是透過生命切片自行組合形成的合成魔物，因此甚至有了一些自如使用元素力的神異。\\n生命即便破碎到了幾乎只剩切片的地步，也有什麼意念與偉力令他們按照某種神秘的規劃生長嗎？\\n這答案到了如今或許已然無人知曉。",
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 27.431341,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -19,6 +19,11 @@
     "불 원소",
     "물 원소"
   ],
+  "daysOfWeek": [
+    "화요일",
+    "금요일",
+    "일요일"
+  ],
   "domainType": "UI_ABYSSUS_AVATAR_PROUD",
   "domainText": "Talent Level-Up Material",
   "rewardPreview": [

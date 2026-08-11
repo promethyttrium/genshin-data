@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Vida Elemental",
   "filename_icon": "UI_MonsterIcon_Slime_Fire_02",
   "description": "Um monstro pequeno formado pela precipitação do Elemento Pyro dispersado na natureza.\\nPossui apenas uma inteligência básica, porém, está sendo bem utilizado por Hilichurls.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

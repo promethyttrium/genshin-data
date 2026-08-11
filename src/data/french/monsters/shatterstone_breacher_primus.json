@@ -13,7 +13,6 @@
   "categoryText": "Ordre de l'Abîme",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_02",
   "description": "Une forme de vie étrange qui apparaît principalement près d'Elynas.\\nDe l'énergie ousia ou pneuma leur délivrant un choc puissant, les Primus briseurs peuvent donc être chassés à l'aide de cette méthode relativement non agressive et non invasive.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

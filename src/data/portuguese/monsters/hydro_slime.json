@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Vida Elemental",
   "filename_icon": "UI_MonsterIcon_Slime_Water_02",
   "description": "Um tipo de monstro formado pela precipitação do Elemento Hydro.\\nDiz a lenda que alguns Slimes Hydro foram usados como água de emergência. E as pessoas costumavam trazer alguns Slimes Hydros com eles para os lugares secos. Devido à sua extrema densidade do elemento Hydro, beber Slimes Hydros faz mal à saúde.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

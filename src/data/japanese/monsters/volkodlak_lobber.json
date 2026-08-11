@@ -1,0 +1,40 @@
+{
+  "_id": 25131001,
+  "id": "volkodlak_lobber",
+  "monsterId": 25131105,
+  "name": "ヴァルコドラクの投擲手",
+  "specialNames": [
+    "投擲手"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種の魔獣",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "description": "スネージナヤの数ある異怪の獣の中でも、比較的屈強な部類。\\n獣の力と人型の肉体を持ち、強靭な腕力により、投擲の際により高い威力と精度を発揮する。異怪の獣は真氷を凝固させる技や元素力の使用には長けていないかもしれないが、肉体の力のコントロールに関して言えば、数あるフェイの末裔の中でもトップクラスに数えられる。",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

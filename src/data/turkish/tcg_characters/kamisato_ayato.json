@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Su",
+    "weapon": "Kılıç",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3712,
@@ -29,8 +31,10 @@
     {
       "id": "kamisato_art_marobashi",
       "name": "Kamisato Sanatı: Marobashi",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "kamisato_art_kyouka",
       "name": "Kamisato Sanatı: Kyouka",
-      "desc": "? ? verir ve bu karakter <span style=\"color:#FFFFFFFF\">Takimeguri Kanka</span> kazanır.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir ve bu karakter <span style=\"color:#FFFFFFFF\">Takimeguri Kanka</span> kazanır.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "kamisato_art_suiyuu",
       "name": "Kamisato Sanatı: Suiyuu",
-      "desc": "? ? verir ve 1 <span style=\"color:#FFFFFFFF\">Saflık Bahçesi</span> çağırır.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir ve 1 <span style=\"color:#FFFFFFFF\">Saflık Bahçesi</span> çağırır.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1102,

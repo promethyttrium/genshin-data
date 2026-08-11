@@ -68,6 +68,11 @@
       "name": "Ngũ Cốc Bồng Bềnh"
     },
     {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "Bánh Mì Đen Glupov"
+    },
+    {
       "_id": 3004,
       "id": "sticky_honey_roast",
       "name": "Thịt Nướng Mật Ong"
@@ -282,6 +287,5 @@
   ],
   "source": [
     "Nhận khi gia công nấu nướng"
-  ],
-  "rarity": 0
+  ]
 }

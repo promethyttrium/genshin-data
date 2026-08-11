@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Warrior's Metal Whistle",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Sentry's Wooden Whistle",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "กองกำลังของมนุษย์อื่น ๆ",
   "filename_icon": "UI_MonsterIcon_Human_Female_NoWeapon_Mosasaurus",
   "description": "ผู้กล้าจากต้นกำเนิดของน้ำพุไหลริน และผู้พิทักษ์ชนเผ่าที่ลาดตระเวนอยู่ริมน้ำและลุ่มน้ำ\\nนักรบชนเผ่าผู้ชำนาญในทักษะการต่อสู้ด้วยมือเปล่าแบบดั้งเดิม ในกระบวนท่าออกหมัดและเท้าที่ดูธรรมดานั้น กลับแฝงไว้ด้วยพลังอันแข็งแกร่งดั่งเกลียวคลื่น",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

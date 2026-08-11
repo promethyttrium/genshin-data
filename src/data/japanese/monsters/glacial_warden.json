@@ -1,0 +1,40 @@
+{
+  "_id": 25135101,
+  "id": "glacial_warden",
+  "monsterId": 25135106,
+  "name": "氷の番人",
+  "specialNames": [
+    "氷の番人"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種の魔獣",
+  "filename_icon": "UI_MonsterIcon_Snegurochka_Male",
+  "description": "氷雪の中、愛のために生まれた雪の精。\\n雪の精の男性は天性の騎士であり、その大半は生まれながらにして自由に氷雪を凝固させて自らの武器を造り出すことができる。\\n伝説によると、ツァーリ・ベールイが漆黒の穢れに抗った戦いにおいて、その護衛を務めた雪の精が、この一族には属さない力を発動させ、その姿を著しく巨大化させたという。\\n最終的な結末がどうなったのかは分からないが、禁忌に触れた以上、きっと良い結果にはならなかったことだろう。",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 81.504,
+      "attack": 75.36,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

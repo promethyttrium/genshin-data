@@ -13,8 +13,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuimecha_AMP",
   "description": "Eine extrem schwere Maschine, die in Kooperation zwischen dem Büro für Heeresgerät und dem Versuchs- und Konstruktionsbüro zu Kuuvahki entwickelt wurde. In den internen Unterlagen wird sie als vom Typ Drzislav bezeichnet.\\nDer ursprüngliche Entwurf war für den zivilen Gebrauch gedacht; ein massiver Geländetransporter für Transport- und Aushubarbeiten, ausgestattet mit Bohrern und Fräsen. Spätere Serienmodelle wurden jedoch zu militärischen Zwecken umgebaut und mit schweren Waffen ausgerüstet.\\nIn dieser sterblichen Welt unter dem Mond können schließlich selbst die vollkommensten und göttlichsten Entwürfe von ihrer ursprünglichen Absicht abweichen, ganz zu schweigen von Maschinen, die von sterblichen Händen geschaffen wurden. Diese sind aus bescheidenem guten Willen entstanden und waren von Anfang an fehlerbehaftet.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 1,
   "stats": {
     "resistance": {

@@ -1,0 +1,41 @@
+{
+  "_id": 26310501,
+  "id": "chimeric_winged_lion",
+  "monsterId": 26310507,
+  "name": "Leone alato chimerico",
+  "specialNames": [
+    "Leone alato chimerico"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestie mistiche",
+  "filename_icon": "UI_MonsterIcon_Chimera_Manticore",
+  "description": "Un prodotto della bioalchimia, un mostro artificiale abbandonato a sé stesso.\\nPer realizzare un grande desiderio, un certo alchimista usò una tecnica proibita per creare numerosi corpi primordiali noti come \"Prototipi\".\\nDi questi, solo uno riuscì a svilupparsi nella creazione perfetta che aveva progettato. Gli altri, benché prossimi alla perfezione, alla fine fallirono e furono negligentemente trasformati in mostri bicefali.\\nSebbene considerati dei fallimenti, questi particolari mostri a due teste possiedono comunque un potere formidabile. Tra le chimere, non esiste nulla capace di tener loro testa.",
+  "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.5,
+      "cryo": 0.1,
+      "electro": 0.5
+    },
+    "base": {
+      "hp": 350.27457,
+      "attack": 95.456,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

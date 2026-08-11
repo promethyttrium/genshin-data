@@ -1,0 +1,29 @@
+{
+  "_id": 114087,
+  "id": "clarion_of_the_pale_star_army",
+  "name": "Fanfare der Armee des Bleichsterns",
+  "description": "„Unser Feind Monomakh hat seine Residenz außerhalb des Tals errichtet. Das bedeutet, dass er genug Selbstbewusstsein besitzt, um uns die Stirn zu bieten.“<br/>„Nun zeigt sich, dass er unsere volle Aufmerksamkeit erfordert. Die Rede von einem schnellen Sieg ist hinfällig.“<br/>„Aber das macht nichts. Der König, der die Geister mit Weisheit leitet, wird gemeinsam mit allen Clans jede Hürde nehmen und uns in eine glanzvolle neue Ära führen!“",
+  "source": [
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114086,
+        "id": "muster_of_the_pale_star_army",
+        "name": "Zusammenziehung der Armee des Bleichsterns",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Sphäre der Kriegskunst – Narben einer verfluchten Besessenheit",
+  "days": [
+    "Montag",
+    "Donnerstag",
+    "Sonntag"
+  ]
+}

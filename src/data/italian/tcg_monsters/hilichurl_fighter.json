@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Nessun tipo elementale",
+    "weapon": "Altre armi",
     "faction": [
-      null,
-      null
+      "Mostro",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "hit",
       "name": "Mazzata",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 1 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "jump_and_hit",
       "name": "Attacco balzante",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -45,8 +51,10 @@
     {
       "id": "swing_that_club",
       "name": "Mazzate confuse",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 4 ?.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1108,

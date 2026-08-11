@@ -10,7 +10,7 @@
   },
   "domain": "Giardino di sabbia primordiale",
   "passive": "Terme, falchi e Narukami",
-  "bonus": "La maestria elementale del personaggio aumenta di <span>120/150/180/210/240</span> per 6 s dopo aver innescato Turbinio; di <span>96/120/144/168/192</span> per 9 s dopo aver colpito un avversario con l'abilità elementale; e di <span>32/40/48/56/64</span> per 30 s dopo aver colpito un avversario con il Tripudio elementale.",
+  "bonus": "La maestria elementale del personaggio aumenta di <span>120/150/180/210/240</span> per 6 s dopo aver innescato Turbinio o Turbinio astrale; di <span>96/120/144/168/192</span> per 9 s dopo aver colpito un avversario con l'abilità elementale; e di <span>32/40/48/56/64</span> per 30 s dopo aver colpito un avversario con il Tripudio elementale.",
   "specialProp": "Maestria elementale",
   "stats": {
     "primary": "ATT di base",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Terme, falchi e Narukami",
-    "template": "La maestria elementale del personaggio aumenta di <span style=\"color:#99FFFFFF\">{0}</span> per 6 s dopo aver innescato Turbinio; di <span style=\"color:#99FFFFFF\">{1}</span> per 9 s dopo aver colpito un avversario con l'abilità elementale; e di <span style=\"color:#99FFFFFF\">{2}</span> per 30 s dopo aver colpito un avversario con il Tripudio elementale.",
+    "template": "La maestria elementale del personaggio aumenta di <span style=\"color:#99FFFFFF\">{0}</span> per 6 s dopo aver innescato Turbinio o Turbinio astrale; di <span style=\"color:#99FFFFFF\">{1}</span> per 9 s dopo aver colpito un avversario con l'abilità elementale; e di <span style=\"color:#99FFFFFF\">{2}</span> per 30 s dopo aver colpito un avversario con il Tripudio elementale.",
     "params": [
       [
         "120",
@@ -312,23 +311,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "La maestria elementale del personaggio aumenta di <span>120</span> per 6 s dopo aver innescato Turbinio; di <span>96</span> per 9 s dopo aver colpito un avversario con l'abilità elementale; e di <span>32</span> per 30 s dopo aver colpito un avversario con il Tripudio elementale."
+      "desc": "La maestria elementale del personaggio aumenta di <span>120</span> per 6 s dopo aver innescato Turbinio o Turbinio astrale; di <span>96</span> per 9 s dopo aver colpito un avversario con l'abilità elementale; e di <span>32</span> per 30 s dopo aver colpito un avversario con il Tripudio elementale."
     },
     {
       "refinement": 2,
-      "desc": "La maestria elementale del personaggio aumenta di <span>150</span> per 6 s dopo aver innescato Turbinio; di <span>120</span> per 9 s dopo aver colpito un avversario con l'abilità elementale; e di <span>40</span> per 30 s dopo aver colpito un avversario con il Tripudio elementale."
+      "desc": "La maestria elementale del personaggio aumenta di <span>150</span> per 6 s dopo aver innescato Turbinio o Turbinio astrale; di <span>120</span> per 9 s dopo aver colpito un avversario con l'abilità elementale; e di <span>40</span> per 30 s dopo aver colpito un avversario con il Tripudio elementale."
     },
     {
       "refinement": 3,
-      "desc": "La maestria elementale del personaggio aumenta di <span>180</span> per 6 s dopo aver innescato Turbinio; di <span>144</span> per 9 s dopo aver colpito un avversario con l'abilità elementale; e di <span>48</span> per 30 s dopo aver colpito un avversario con il Tripudio elementale."
+      "desc": "La maestria elementale del personaggio aumenta di <span>180</span> per 6 s dopo aver innescato Turbinio o Turbinio astrale; di <span>144</span> per 9 s dopo aver colpito un avversario con l'abilità elementale; e di <span>48</span> per 30 s dopo aver colpito un avversario con il Tripudio elementale."
     },
     {
       "refinement": 4,
-      "desc": "La maestria elementale del personaggio aumenta di <span>210</span> per 6 s dopo aver innescato Turbinio; di <span>168</span> per 9 s dopo aver colpito un avversario con l'abilità elementale; e di <span>56</span> per 30 s dopo aver colpito un avversario con il Tripudio elementale."
+      "desc": "La maestria elementale del personaggio aumenta di <span>210</span> per 6 s dopo aver innescato Turbinio o Turbinio astrale; di <span>168</span> per 9 s dopo aver colpito un avversario con l'abilità elementale; e di <span>56</span> per 30 s dopo aver colpito un avversario con il Tripudio elementale."
     },
     {
       "refinement": 5,
-      "desc": "La maestria elementale del personaggio aumenta di <span>240</span> per 6 s dopo aver innescato Turbinio; di <span>192</span> per 9 s dopo aver colpito un avversario con l'abilità elementale; e di <span>64</span> per 30 s dopo aver colpito un avversario con il Tripudio elementale."
+      "desc": "La maestria elementale del personaggio aumenta di <span>240</span> per 6 s dopo aver innescato Turbinio o Turbinio astrale; di <span>192</span> per 9 s dopo aver colpito un avversario con l'abilità elementale; e di <span>64</span> per 30 s dopo aver colpito un avversario con il Tripudio elementale."
     }
   ]
 }

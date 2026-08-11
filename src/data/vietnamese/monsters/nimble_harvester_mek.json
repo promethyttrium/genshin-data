@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Cơ Quan Tự Động",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Assimilator",
   "description": "Robot dây cót được thiết kế chế tạo với mục đích khai thác và vận chuyển cát.\\nRobot dây cót dựa vào nguồn năng lượng sản sinh khi hủy diệt ousia và pneuma có ưu thế khá cao tại Fontaine, bởi vì mạch nước và chất đất ở Fontaine đã có đặc tính lưu trữ và truyền dẫn ousia cùng pneuma. Đây cũng là nguyên nhân khi thám hiểm có lúc sẽ gặp được khối năng lượng ousia và pneuma.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

@@ -1,0 +1,80 @@
+{
+  "_id": 72,
+  "id": "meetings_in_outrealm_series_vii",
+  "name": "Pertemuan Dunia Lain: Seri VII",
+  "order": 37,
+  "achievements": [
+    {
+      "id": 86079,
+      "name": "Kejatuhan Sebuah Eksistensi",
+      "desc": "Kalahkan Frostnight Herra dalam Mode Co-op bersama pemain lain.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9076
+    },
+    {
+      "id": 86080,
+      "name": "Dua Puluh Enam, Tembus!",
+      "desc": "Kalahkan Super-Heavy Landrover: Mechanized Fortress dalam Mode Co-op bersama pemain lain.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9077
+    },
+    {
+      "id": 86081,
+      "name": "Harusnya Kamu Tidak Bilang!",
+      "desc": "Kalahkan Lord of the Hidden Depths: Whisperer of Nightmares dalam Mode Co-op bersama pemain lain.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9078
+    },
+    {
+      "id": 86082,
+      "name": "Kejahatan Ditaklukkan!",
+      "desc": "Kalahkan The Doctor dalam Mode Co-op bersama pemain lain.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9079
+    },
+    {
+      "id": 86083,
+      "name": "Apa Saja yang Kamu Lindungi?",
+      "desc": "Kalahkan Radiant Moongecko dalam Mode Co-op bersama pemain lain.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9080
+    },
+    {
+      "id": 86084,
+      "name": "\"Saat Kutajamkan Pedangku yang Berkilau ....\"",
+      "desc": "Kalahkan Watcher: Fallen Vigil dalam Mode Co-op bersama pemain lain.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9081
+    },
+    {
+      "id": 86085,
+      "name": "Ketidaktahuan yang Tunggal",
+      "desc": "Kalahkan Il Dottore dalam Mode Co-op bersama pemain lain.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9082
+    },
+    {
+      "id": 86086,
+      "name": "Keabadian Telah Ditebas",
+      "desc": "Kalahkan Immortal Construct dalam Mode Co-op bersama pemain lain.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9083
+    },
+    {
+      "id": 86087,
+      "name": "Vitalitas Tiada Akhir",
+      "desc": "Kalahkan Chimeric Winged Lion dalam Mode Co-op bersama pemain lain.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9084
+    }
+  ]
+}

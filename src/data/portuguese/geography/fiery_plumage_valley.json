@@ -1,0 +1,13 @@
+{
+  "_id": 70800041,
+  "id": "fiery_plumage_valley",
+  "name": "Vale das Plumas Flamejantes",
+  "areaName": "Vale da Pluma Flamejante",
+  "areaId": 80400,
+  "description": "Dizem que, em um dia perdido ao tempo, o gelo eterno derreteu, e árvores com folhas como plumas ardentes irromperam do solo...\nFoi ali e então que o buscador da eternidade escolheu esta terra para ancorar seus dias sem fim, iniciando uma vigília silenciosa por aquele que ele aguarda.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 641,
+  "filename_image": "UI_Codex_Scenery_ZDHuoNiaoHeZhuView",
+  "showOnlyUnlocked": true
+}

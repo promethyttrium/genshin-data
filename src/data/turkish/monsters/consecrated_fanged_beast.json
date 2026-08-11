@@ -25,19 +25,19 @@
       "_id": 112076,
       "id": "marked_shell",
       "name": "İşaretli Kabuk",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112075,
       "id": "sturdy_shell",
       "name": "Sağlam Kabuk",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112074,
       "id": "desiccated_shell",
       "name": "Kuru Kabuk",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Panther_Sacred_Grass",
   "description": "Büyük yaşam formlarından beslenerek mutasyona uğramış bir yırtıcı.\\nGüçlü olanın hayatta kalması doğanın kanunudur ama evcil hayvanlar ve Kutsanmış Canavarlar istisnadır. İnsanların yemleri ve ölümsüz varlıkların kalıntıları aslında az çok kasıtlı tuzaklardır. En güçlü olanın armağanına göz dikmenin bedeli, bir kafese tıkılmaktan çok daha acı verici olabilir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

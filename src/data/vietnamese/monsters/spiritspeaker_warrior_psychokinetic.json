@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Shamansaurus",
   "description": "Dũng sĩ đến từ làn gió đêm, bảo vệ bộ tộc ngao du giữa những hẻm núi mịt mờ phủ sương.\\nNghe nói những hình vẽ sơn dầu trên cơ thể là hình thái hiện hành của Chữ Khắc Phlogiston sau khi tiến hóa và thay đổi, cần trải qua quá trình tu luyện lâu dài mới có thể thực sự nắm bắt sức mạnh trong đó.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

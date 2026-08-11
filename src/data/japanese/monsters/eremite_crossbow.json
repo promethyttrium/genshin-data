@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "その他人間勢力",
   "filename_icon": "UI_MonsterIcon_Eremite_Male_Standard_Crossbow",
   "description": "黄金のような砂漠より訪れし、まとまりのない傭兵集団の一員。報酬さえ貰えれば、どんな人物の下でも働く。\\n伝統的に、エルマイト旅団は弓で敵と戦うことが多かった。だが、教令院がバザールでクロスボウの購入を許可して以来、長年の練習が必要とされる弓を未だに使用しているのは誇り高き射手のみとなった。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

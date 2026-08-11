@@ -13,7 +13,6 @@
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Magbeast_Squid",
   "description": "Kadim ayın gücüne uzun süre maruz kaldığından eşsiz bir evrim geçirmiş bir canavar.\\nEfsaneye göre, felaket dalgaları toprakları kasıp kavurduğunda Terk Edilmiş Denizde yaşayan canlılar bile bundan nasibini aldı. Gökyüzüne dalgalar gönderebilen dev deniz yılanlarından, her şeyi yutmaya ant içmiş tek gözlü canavarlara kadar, ay ışığını özümseyemeyen tüm varlıklar köpük misali yok olup gitti.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

@@ -8,16 +8,20 @@
     "hp": 8,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Buz",
+    "weapon": "Diğer Silahlar",
     "faction": [
-      null
+      "Münzeviler"
     ]
   },
   "skills": [
     {
       "id": "double_hack",
       "name": "Çifte Vuruş",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -36,8 +40,10 @@
     {
       "id": "dualblade_chop",
       "name": "Çifte Kılıç Kesiği",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "3 ? verir.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -51,7 +57,9 @@
       "id": "stalwart_onslaught",
       "name": "Cesur Taarruz",
       "desc": "Bu karakter <span style=\"color:#FFFFFFFF\">Cesur Taarruz: Topyekun Saldırı</span> için <span style=\"color:#FFFFFFFF\">Beceri Hazırlama</span> kullanır.",
-      "skillTag": [],
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -71,7 +79,9 @@
       "id": "ominous_spirit_unleashed_cryo",
       "name": "Serbest Kalan Uğursuz Ruh (Buz)",
       "desc": "(Pasif) <span style=\"color:#FFFFFFFF\">Bu karakter Hasar aldıktan sonra</span> 7 veya daha az Cana sahipse 1 <span style=\"color:#FFFFFFFF\">Enerji</span> kazanır ve karaktere <span style=\"color:#FFFFFFFF\">Alamet Ruhunun Uyanışı: Buz</span> eklenir. (Her Düelloda bir defa)",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

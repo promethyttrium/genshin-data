@@ -1,0 +1,21 @@
+{
+  "_id": 320001,
+  "id": "ardent_storm",
+  "name": "นรกเพลิงผลาญ",
+  "description": "อาวุธลวงตาอันเปล่งประกายที่ปรากฏขึ้นจากส่วนลึกของกระแสพลัง สามารถเปลี่ยนรูปร่างตามประเภทธาตุของผู้ถือครอง กล่าวกันว่าในดินแดนอาณาจักรโบราณนั้น มันเคยมีชื่อว่า \"Starkuthr\" และถือครองโดยคนบาปนักปราชญ์",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "ดาบใหญ่"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "ร่างมายาเจิดจรัส - ก้าวข้าม",
+    "priority": 1
+  },
+  "item_id": 341201,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Claymore_MorphGravitas_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_MorphGravitas"
+}

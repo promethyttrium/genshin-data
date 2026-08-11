@@ -8,14 +8,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurls",
   "filename_icon": "UI_MonsterIcon_Hili_None_01",
   "description": "The primitive wandering inhabitants of Teyvat's wildernesses.\\nHilichurls display a strong sense of adaptability to their surroundings. In icy environments, they come up with ways and means to fashion this hard ice into shields to protect themselves.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

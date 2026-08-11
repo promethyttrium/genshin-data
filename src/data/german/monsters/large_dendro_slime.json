@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Elementare Lebensformen",
   "filename_icon": "UI_MonsterIcon_Slime_Grass_03",
   "description": "Ein Schleim, der aufgrund der vielen Dendro-Kraft in seiner Umgebung verwandelt wurde.\\nManche glauben, dass er wie Vaniloquen seine wahre Form verbirgt, um Beute anzulocken. Manche denken, eine bestimmte Pflanze hat ihn als Parasit befallen. So betrachtet verfügen diese Schleime womöglich über einen speziellen medizinischen Wert?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

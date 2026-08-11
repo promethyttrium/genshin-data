@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Senjata Lain",
     "faction": [
-      null
+      "Monster"
     ]
   },
   "skills": [
     {
       "id": "bounce",
       "name": "Bounce",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#99FFFFFF\">Cryo DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -36,8 +40,10 @@
     {
       "id": "frigid_spray",
       "name": "Frigid Spray",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#99FFFFFF\">Cryo DMG</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,8 +56,10 @@
     {
       "id": "slam",
       "name": "Slam",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 5 poin <span style=\"color:#99FFFFFF\">Cryo DMG</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -71,7 +79,9 @@
       "id": "elemental_sedimentation_cryo",
       "name": "Elemental Sedimentation: Cryo",
       "desc": "[Pasif] Saat pertandingan dimulai, Karakter ini memperoleh status <span style=\"color:#FFFFFFFF\">Elemental Lifeform: Cryo</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

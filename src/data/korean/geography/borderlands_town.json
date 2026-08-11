@@ -1,0 +1,12 @@
+{
+  "_id": 70800031,
+  "id": "borderlands_town",
+  "name": "변방을 잇는 마을",
+  "areaName": "고대 야수 벌판",
+  "areaId": 80100,
+  "description": "개척 시대에 번영을 누렸던 작은 마을. 과거에는 스네즈나야와 노드크라이를 오가는 사람들의 발길이 끊이지 않았다",
+  "regionName": "스네즈나야",
+  "regionId": 8,
+  "sortOrder": 631,
+  "filename_image": "UI_Codex_Scenery_ZDYingKeZhen"
+}

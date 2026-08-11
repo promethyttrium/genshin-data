@@ -1,0 +1,130 @@
+{
+  "_id": 70,
+  "id": "land_of_surging_shadows",
+  "name": "Vùng Đất Bóng Tối Trào Dâng",
+  "order": 73,
+  "achievements": [
+    {
+      "id": 86059,
+      "name": "Thợ Tu Sửa Băng Nguyên",
+      "desc": "Quét sạch 1 Ảnh Vực lớn tại vùng đất băng giá Snezhnaya.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9056
+    },
+    {
+      "id": 86062,
+      "name": "Hẹn Gặp Lại Trong Ảnh Vực",
+      "desc": "Hoàn thành 1 lần khiêu chiến \"Tuyệt Cảnh Luyện Chiến\".",
+      "reward": 10,
+      "hidden": false,
+      "order": 9059
+    },
+    {
+      "id": 86063,
+      "name": "\"Lão Làng Ảnh Vực\"",
+      "desc": "Tăng Cấp Phân Tích Ảnh Vực đến tối đa.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9060
+    },
+    {
+      "id": 86066,
+      "name": "Vua Bắn Hạ Tuyệt Cảnh",
+      "desc": "Nhận 9 Huy Chương Luyện Chiến.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9063
+    },
+    {
+      "id": 86067,
+      "name": "Thợ Súng Băng Nguyên I",
+      "desc": "Lắp 1 phụ kiện cho 1 khẩu súng.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9064
+    },
+    {
+      "id": 86068,
+      "name": "Thợ Súng Băng Nguyên II",
+      "desc": "Lắp 2 phụ kiện cho 1 khẩu súng.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9065,
+      "preStage": 86067
+    },
+    {
+      "id": 86069,
+      "name": "Thợ Súng Băng Nguyên III",
+      "desc": "Lắp 4 phụ kiện cho 1 khẩu súng.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9066,
+      "preStage": 86068
+    },
+    {
+      "id": 86071,
+      "name": "Tachanka",
+      "desc": "Lắp 4 phụ kiện cho từng khẩu Bạc Xanh Của Shatanaya, Vòng Mặt Trời Của Balsag và Thiên Quang Của Ashamez.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9068
+    },
+    {
+      "id": 86072,
+      "name": "Giờ Trưa Đã...",
+      "desc": "Đánh trúng điểm yếu của kẻ địch liên tục 5 lần trong 30s.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9069
+    },
+    {
+      "id": 86073,
+      "name": "Chào Người Bạn Nhỏ Của Ta Đi!",
+      "desc": "Dùng Súng Phóng Lựu kích hoạt 5 lần phản ứng nguyên tố trong 30s.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9070
+    },
+    {
+      "id": 86074,
+      "name": "Vừa Trượt Vừa Ngắm Chắc Chắn Là Hão Huyền",
+      "desc": "Tích lũy hạ gục 20 kẻ địch trong trạng thái trượt.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9071
+    },
+    {
+      "id": 86075,
+      "name": "Mũi Thương Ánh Sáng Thần Thánh Kết Nối Mọi Người",
+      "desc": "Nhận súng trường: Bạc Xanh Của Shatanaya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9072
+    },
+    {
+      "id": 86076,
+      "name": "Trăm Loại Võ Nghệ, Nhưng Súng Phóng Lựu Mới Là Chân Lý!",
+      "desc": "Nhận súng phóng lựu: Vòng Mặt Trời Của Balsag.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9073
+    },
+    {
+      "id": 86077,
+      "name": "Cảnh Báo, Tai Họa Sấm Sét Đang Hình Thành...",
+      "desc": "Nhận súng trường: Thiên Quang Của Ashamez.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9074
+    },
+    {
+      "id": 86078,
+      "name": "500g Tình Yêu",
+      "desc": "Nhận Lựu Đạn Pha Lê.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9075
+    }
+  ]
+}

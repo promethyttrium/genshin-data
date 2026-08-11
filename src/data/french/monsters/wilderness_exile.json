@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Ordre de l'Abîme",
   "filename_icon": "UI_MonsterIcon_WildHunt",
   "description": "Un esprit qui erre dans les étendues sauvages et gelées lorsque la sombre brume s'installe. Sa présence annonce les pires calamités.\\nTous ceux qui vivent sous la lune partent en voyage avec leurs propres objectifs et aspirations en tête. Mais ces derniers ne sont pas tous destinés à se réaliser. Les esprits qui ne parviennent pas à trouver le repos en raison de rancœurs, de la perte d'êtres chers ou de rêves inaccomplis peuvent être corrompus par l'Abîme et se transformer en esprits perdus à jamais dans les brumes épaisses de la Chasse sauvage.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

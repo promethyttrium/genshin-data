@@ -38,7 +38,7 @@
       "_id": 113037,
       "id": "thunderclap_fruitcore",
       "name": "Hạt Tụ Sấm",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104144,
@@ -133,7 +133,6 @@
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Regisvine_Electric",
   "description": "Ma vật hình thành từ những dây leo khổng lồ hấp thụ dòng điện cao áp từ trong địa mạch.\\nTừ trong thân cây phóng ra nguồn điện vô tận, giống như đang bùng nổ cơn giận của mặt đất.\\nTừng có học giả của Học Phái Kshahrewar đề xuất, nếu xây dựng một mạng lưới đường điện phức tạp xung quanh Cây Kích Điện, sẽ có thể đưa điện năng trong đó truyền đến trong thành thị để sử dụng. Kế hoạch này đã bị học giả Học Phái Spantamad phản đối kịch liệt, vì điều này mà họ đã không tiếc hy sinh mười con Heo Nấm để chứng minh sự nguy hiểm của việc sử dụng điện.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

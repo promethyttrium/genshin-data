@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人类势力",
   "filename_icon": "UI_MonsterIcon_Eremite_Male_Standard_Crossbow",
   "description": "来自黄金一般的沙漠，是松散佣兵团体中的一员。为了报酬，愿意为任何人效力。\\n传统上，镀金旅团其实更习惯使用弓箭对付敌人。不过自从教令院允许他们在巴扎采购机弩之后，就只有最骄傲的射手才会再使用弓箭这种需要常年训练的武器了。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

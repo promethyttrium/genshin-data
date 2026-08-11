@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Espada ligera",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 5164,
@@ -29,8 +31,10 @@
     {
       "id": "boxcutter",
       "name": "Kirigami",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -50,7 +54,9 @@
       "id": "meowteor_kick",
       "name": "Nekopatada voladora",
       "desc": "Crea un <span style=\"color:#FFFFFFFF\">paquete minino</span> y 2 cargas de <span style=\"color:#FFFFFFFF\">escudo de transporte seguro</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "secret_art_surprise_dispatch",
       "name": "Técnica secreta: Entrega sorpresa",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y crea unas <span style=\"color:#FFFFFFFF\">briznas cardamiau-miau</span> en el campo del rival.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts. de <span style=\"color:#7EC236FF\">Daño Dendro</span> y crea unas <span style=\"color:#FFFFFFFF\">briznas cardamiau-miau</span> en el campo del rival.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1107,

@@ -8,9 +8,10 @@
   "attributes": {
     "hp": 10,
     "card_type": "Character Card",
-    "energy": 0,
+    "element": "Cryo",
+    "weapon": "Sword",
     "faction": [
-      null
+      "Cosmic Calamity"
     ],
     "talent_card": {
       "_id": 9240,
@@ -29,8 +30,10 @@
     {
       "id": "havoc_sunder",
       "name": "Havoc: Sunder",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,7 +53,9 @@
       "id": "havoc_warp",
       "name": "Havoc: Warp",
       "desc": "Gains 2 <span style=\"color:#FFFFFFFF\">Serpent's Subtlety</span>, then creates 1 <span style=\"color:#FFFFFFFF\">Mutual Weapons Mentorship</span> and adds it to your Hand. (Once per Round)",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +68,10 @@
     {
       "id": "havoc_ruin",
       "name": "Havoc: Ruin",
-      "desc": "Consumes all <span style=\"color:#FFFFFFFF\">Serpent's Subtlety</span>, deals ? equal to the <span style=\"color:#FFFFFFFF\">Serpent's Subtlety</span> consumed, and deals 2 <span style=\"color:#FFFFFFFF\">Piercing DMG</span> to characters on standby. If 7 <span style=\"color:#FFFFFFFF\">Serpent's Subtlety</span> are consumed, deal 3 <span style=\"color:#FFFFFFFF\">Piercing DMG</span> to characters on standby instead.",
-      "skillTag": [],
+      "desc": "Consumes all <span style=\"color:#FFFFFFFF\">Serpent's Subtlety</span>, deals <span style=\"color:#99FFFFFF\">Cryo DMG</span> equal to the <span style=\"color:#FFFFFFFF\">Serpent's Subtlety</span> consumed, and deals 2 <span style=\"color:#FFFFFFFF\">Piercing DMG</span> to characters on standby. If 7 <span style=\"color:#FFFFFFFF\">Serpent's Subtlety</span> are consumed, deal 3 <span style=\"color:#FFFFFFFF\">Piercing DMG</span> to characters on standby instead.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -78,7 +85,9 @@
       "id": "reason_beyond_reason",
       "name": "Reason Beyond Reason",
       "desc": "(Passive) Skirk is unable to gain Energy but can now accumulate up to 7 points of <span style=\"color:#FFFFFFFF\">Serpent's Subtlety</span>.<br/><span style=\"color:#FFFFFFFF\">After you trigger Frozen, Cryo Swirl, Superconduct, or Cryo Crystallize reactions:</span> Create 1 <span style=\"color:#FFFFFFFF\">Void Rift</span> in your hand. (3 times per Round)",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

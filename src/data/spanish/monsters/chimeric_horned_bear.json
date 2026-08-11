@@ -1,0 +1,39 @@
+{
+  "_id": 26310401,
+  "id": "chimeric_horned_bear",
+  "monsterId": 26310402,
+  "name": "Oso Quimérico Cornudo",
+  "specialNames": [
+    "Oso Quimérico Cornudo"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestias exóticas",
+  "filename_icon": "UI_MonsterIcon_Chimera_BearDeer",
+  "description": "Un monstruo quimérico producto de la bioalquimia que posee una forma sumamente peculiar.\\nNo fue creado según el diseño de nadie, sino que se formó a partir de la combinación autónoma de segmentos con vida, lo que le otorgó la capacidad casi milagrosa de usar el poder elemental con naturalidad.\\nCuando la vida se fragmenta hasta quedar reducida a meros segmentos, ¿hay alguna voluntad o fuerza suprema que los ayude a crecer siguiendo un misterioso plan?\\nQuizás, a día de hoy, ya no quede nadie capaz de responder a eso.",
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 27.431341,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

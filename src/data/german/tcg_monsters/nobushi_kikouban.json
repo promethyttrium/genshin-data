@@ -8,14 +8,18 @@
     "hp": 6,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Elektro",
+    "weapon": "Andere Waffen",
     "faction": []
   },
   "skills": [
     {
       "id": "combo_slash",
       "name": "Mehrfachschlag",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -34,8 +38,10 @@
     {
       "id": "mechanical_thunderbow",
       "name": "Maschinelle Blitzarmbrust",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#FFACFFFF\">Elektro-SCH</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -49,7 +55,9 @@
       "id": "iai_sheathed",
       "name": "Iai – Ruhe",
       "desc": "Diese Figur <span style=\"color:#FFFFFFFF\">bereitet folgende Fähigkeiten vor</span>: <span style=\"color:#FFFFFFFF\">Iai – Vorstoß</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1108,
@@ -69,7 +77,9 @@
       "id": "zanshin",
       "name": "Gebrochenes Herz",
       "desc": "Passiv – Endphase: Ist die Figur aktiv, erhält sie 1 Pkt. Aufladung.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Bisonsaurus",
   "description": "Ein Krieger aus den Ebenen, ein Stammeswächter, der über die goldenen Felder patrouilliert.\\nEr ist äußerst geschickt darin, mit seinen Hörnern die Schwachstellen seiner Gegner anzugreifen. Du solltest also versuchen, ihm gegenüber keine davon zu entblößen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

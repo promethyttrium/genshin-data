@@ -1,0 +1,32 @@
+{
+  "_id": 214012,
+  "id": "phantasmal_nocturne",
+  "shareId": 616,
+  "name": "Notturno fantasmatico",
+  "title": "Fischl: Notturno fantasmatico",
+  "desc": "\"Eppure, sebbene ogni domanda sia inaspettata, alcune lo sono decisamente più di altre. Per esempio, a una piccola strega potrebbe essere chiesto di usare la luce primordiale per creare il proprio mondo materiale, e a un'altra di donare 'anima' a un essere che esiste solo nell'immaginazione.\"",
+  "in_play_description": "Mentre <span style=\"color:#FFFFFFFF\">Oz</span> è in campo, le tue  <span style=\"color:#FFACFFFF\">reazioni di Electro</span> infliggono DAN +1 (tre volte per turno).",
+  "attributes": {
+    "cost": 2,
+    "cost_type": "Electro",
+    "card_type": "Carta equipaggiamento",
+    "energy": [
+      {
+        "_id": 1104,
+        "id": "electro",
+        "type": "Electro",
+        "count": 2
+      }
+    ],
+    "tags": [
+      "Talento",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Azione rapida</span>: equipaggia la tua <span style=\"color:#FFFFFFFF\">Fischl</span>.<br/>Evoca <span style=\"color:#FFFFFFFF\">Oz</span>.<br/>Mentre <span style=\"color:#FFFFFFFF\">Oz</span> è in campo, le tue  <span style=\"color:#FFACFFFF\">reazioni di Electro</span> infliggono DAN +1 (tre volte per turno).<br/>(Per aggiungere questa carta, il tuo mazzo deve contenere Fischl.)"
+    }
+  ]
+}

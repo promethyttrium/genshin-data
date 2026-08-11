@@ -10,7 +10,7 @@
   },
   "domain": "Ancienne tour de guet",
   "passive": "Halo lunaire aperçu",
-  "bonus": "Après avoir déclenché une réaction de Dispersion, l'ATQ augmente de <span>24 %/30 %/36 %/42 %/48 %</span> pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de <span>20 %/48 %/25 %/60 %/30 %/72 %/35 %/84 %/40 %/96 %</span> et les ceux infligés par ses déchaînements élémentaires de <span>10 %/24 %/12,5 %/30 %/15 %/36 %/17,5 %/42 %/20 %/48 %</span>.",
+  "bonus": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, l'ATQ augmente de <span>24 %/30 %/36 %/42 %/48 %</span> pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de <span>20 %/48 %/25 %/60 %/30 %/72 %/35 %/84 %/40 %/96 %</span> et ceux infligés par ses déchaînements élémentaires de <span>10 %/24 %/12,5 %/30 %/15 %/36 %/17,5 %/42 %/20 %/48 %</span>.",
   "specialProp": "DGT CRIT",
   "stats": {
     "primary": "ATQ de base",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Halo lunaire aperçu",
-    "template": "Après avoir déclenché une réaction de Dispersion, l'ATQ augmente de <span style=\"color:#99FFFFFF\">{0}</span> pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de <span style=\"color:#99FFFFFF\">{1}</span> et les ceux infligés par ses déchaînements élémentaires de <span style=\"color:#99FFFFFF\">{2}</span>.",
+    "template": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, l'ATQ augmente de <span style=\"color:#99FFFFFF\">{0}</span> pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de <span style=\"color:#99FFFFFF\">{1}</span> et ceux infligés par ses déchaînements élémentaires de <span style=\"color:#99FFFFFF\">{2}</span>.",
     "params": [
       [
         "24 %",
@@ -312,23 +311,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "Après avoir déclenché une réaction de Dispersion, l'ATQ augmente de <span>24 %</span> pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de <span>20 %/48 %</span> et les ceux infligés par ses déchaînements élémentaires de <span>10 %/24 %</span>."
+      "desc": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, l'ATQ augmente de <span>24 %</span> pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de <span>20 %/48 %</span> et ceux infligés par ses déchaînements élémentaires de <span>10 %/24 %</span>."
     },
     {
       "refinement": 2,
-      "desc": "Après avoir déclenché une réaction de Dispersion, l'ATQ augmente de <span>30 %</span> pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de <span>25 %/60 %</span> et les ceux infligés par ses déchaînements élémentaires de <span>12,5 %/30 %</span>."
+      "desc": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, l'ATQ augmente de <span>30 %</span> pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de <span>25 %/60 %</span> et ceux infligés par ses déchaînements élémentaires de <span>12,5 %/30 %</span>."
     },
     {
       "refinement": 3,
-      "desc": "Après avoir déclenché une réaction de Dispersion, l'ATQ augmente de <span>36 %</span> pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de <span>30 %/72 %</span> et les ceux infligés par ses déchaînements élémentaires de <span>15 %/36 %</span>."
+      "desc": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, l'ATQ augmente de <span>36 %</span> pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de <span>30 %/72 %</span> et ceux infligés par ses déchaînements élémentaires de <span>15 %/36 %</span>."
     },
     {
       "refinement": 4,
-      "desc": "Après avoir déclenché une réaction de Dispersion, l'ATQ augmente de <span>42 %</span> pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de <span>35 %/84 %</span> et les ceux infligés par ses déchaînements élémentaires de <span>17,5 %/42 %</span>."
+      "desc": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, l'ATQ augmente de <span>42 %</span> pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de <span>35 %/84 %</span> et ceux infligés par ses déchaînements élémentaires de <span>17,5 %/42 %</span>."
     },
     {
       "refinement": 5,
-      "desc": "Après avoir déclenché une réaction de Dispersion, l'ATQ augmente de <span>48 %</span> pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de <span>40 %/96 %</span> et les ceux infligés par ses déchaînements élémentaires de <span>20 %/48 %</span>."
+      "desc": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, l'ATQ augmente de <span>48 %</span> pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de <span>40 %/96 %</span> et ceux infligés par ses déchaînements élémentaires de <span>20 %/48 %</span>."
     }
   ]
 }

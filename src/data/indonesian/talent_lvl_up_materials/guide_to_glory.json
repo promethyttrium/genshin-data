@@ -1,0 +1,30 @@
+{
+  "_id": 104372,
+  "id": "guide_to_glory",
+  "name": "Guide to Glory",
+  "description": "Material Penguatan Talenta.\\n\"Kemuliaan\" adalah kepercayaan bangsa es.\\nKemuliaan bagaikan nyala api yang berkelap-kelip di malam yang panjang. Orang-orang yang melintasi padang salju selalu mengarahkan pandangan mereka ke arahnya, seolah-olah mereka yakin bahwa angin dan salju akan mereda dan fajar akan datang, sementara mereka yakin bahwa mereka masih berada di jalan yang benar.",
+  "source": [
+    "Placeholder - Jumlah yang Bisa Di-Craft: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104371,
+        "id": "teachings_of_glory",
+        "name": "Teachings of Glory",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domain of Mastery: Observasi Bersama IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_id": 112150,
+  "id": "symbiotic_chimeric_nucleus",
+  "name": "併生嵌合胞",
+  "description": "合成魔獸體內相對複雜的核心，並生的核心意味著將要驅動兩種生命的循環，以此構成同一個生物。",
+  "source": [
+    "40級以上異種合成魔獸掉落",
+    "星塵兌換",
+    "可合成數量：{0}"
+  ],
+  "rarity": 2,
+  "craft": {
+    "cost": 25,
+    "items": [
+      {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "嵌合種",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

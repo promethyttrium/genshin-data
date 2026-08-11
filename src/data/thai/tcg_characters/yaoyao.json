@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ธาตุไม้",
+    "weapon": "หอก",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 4369,
@@ -29,8 +31,10 @@
     {
       "id": "toss_n_turn_spear",
       "name": "Toss 'N' Turn Spear",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง? 2 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -50,7 +54,9 @@
       "id": "raphanus_sky_cluster",
       "name": "Raphanus Sky Cluster",
       "desc": "เรียก <span style=\"color:#FFFFFFFF\">Yuegui: Throwing Mode</span>",
-      "skillTag": [],
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "moonjade_descent",
       "name": "Moonjade Descent",
-      "desc": "สร้าง? ? หน่วย และสร้าง <span style=\"color:#FFFFFFFF\">Adeptal Legacy</span>",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#7EC236FF\">ความเสียหายไม้</span> 1 หน่วย และสร้าง <span style=\"color:#FFFFFFFF\">Adeptal Legacy</span>",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1107,

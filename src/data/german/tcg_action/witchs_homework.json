@@ -1,0 +1,28 @@
+{
+  "_id": 332065,
+  "id": "witchs_homework",
+  "shareId": 618,
+  "name": "„Aufgabe der Hexe“",
+  "title": "„Aufgabe der Hexe“",
+  "desc": "„Anstatt aus dem Nichts einzuschreiten und den Tag zu retten, wäre es doch sinnvoller, im Laufe der Zeit einige grundlegende Vorkehrungen zu treffen.“",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Würfel (gleich)",
+    "card_type": "Ereigniskarte",
+    "energy": [
+      {
+        "_id": 1108,
+        "id": "matching_element",
+        "type": "Würfel (gleich)",
+        "count": 1
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "Zieht 1 Talentkarte. Verleiht, wenn sich auf deiner Hand mindestens 3 Talentkarten befinden, 1 zufälligen Talentkarte mit den höchsten <span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Elementarwürfel-Kosten (aktuell)</span></span> <span style=\"color:#FFFFFFFF\">Kostenverringerung</span>."
+    }
+  ]
+}

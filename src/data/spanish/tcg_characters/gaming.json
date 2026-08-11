@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 3,
+    "element": "Pyro",
+    "weapon": "Mandoble",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 9076,
@@ -29,8 +31,10 @@
     {
       "id": "stellar_rend",
       "name": "Zarpazo estelar",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,8 +53,10 @@
     {
       "id": "bestial_ascent",
       "name": "Ascensión bestial",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?, obtiene el efecto del <span style=\"color:#FFFFFFFF\">arte de la danza de bestias</span> y cambia al siguiente personaje.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#FF9999FF\">Daño Pyro</span>, obtiene el efecto del <span style=\"color:#FFFFFFFF\">arte de la danza de bestias</span> y cambia al siguiente personaje.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "suannis_gilded_dance",
       "name": "Pirodanza del suanni",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y obtiene el efecto de <span style=\"color:#FFFFFFFF\">suanni Man Chai</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#FF9999FF\">Daño Pyro</span> y obtiene el efecto de <span style=\"color:#FFFFFFFF\">suanni Man Chai</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1103,

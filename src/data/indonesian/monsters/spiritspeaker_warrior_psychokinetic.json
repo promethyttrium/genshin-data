@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Shamansaurus",
   "description": "Pejuang suku Penguasa Angin Malam, yang berpatroli di ngarai berkabut.\\nKonon, seni melukis tubuh mereka merupakan seni yang berkembang dari praktik Ukiran Phlogiston. Butuh waktu latihan bertahun-tahun untuk menguasai kekuatan sepenuhnya yang terkandung di dalamnya.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -10,7 +10,7 @@
   },
   "domain": "Domínio da Forja: Oblação Lunar",
   "passive": "Coroação da Fada Branca",
-  "bonus": "Aumenta o ATQ em <span>28%/35%/42%/49%/56%</span>.<br/>Além disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar causado pelo portador em <span>16%/20%/24%/28%/32%</span> por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s.",
+  "bonus": "Aumenta o ATQ em <span>28%/35%/42%/49%/56%</span>.<br/>Além disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar e Redemoinho Estelar causado pelo portador em <span>16%/20%/24%/28%/32%</span> por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s.",
   "specialProp": "Dano Crítico",
   "stats": {
     "primary": "ATQ Básico",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Coroação da Fada Branca",
-    "template": "Aumenta o ATQ em <span style=\"color:#99FFFFFF\">{0}</span>.<br/>Além disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar causado pelo portador em <span style=\"color:#99FFFFFF\">{1}</span> por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s.",
+    "template": "Aumenta o ATQ em <span style=\"color:#99FFFFFF\">{0}</span>.<br/>Além disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar e Redemoinho Estelar causado pelo portador em <span style=\"color:#99FFFFFF\">{1}</span> por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s.",
     "params": [
       [
         "28%",
@@ -307,23 +306,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "Aumenta o ATQ em <span>28%</span>.<br/>Além disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar causado pelo portador em <span>16%</span> por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s."
+      "desc": "Aumenta o ATQ em <span>28%</span>.<br/>Além disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar e Redemoinho Estelar causado pelo portador em <span>16%</span> por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s."
     },
     {
       "refinement": 2,
-      "desc": "Aumenta o ATQ em <span>35%</span>.<br/>Além disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar causado pelo portador em <span>20%</span> por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s."
+      "desc": "Aumenta o ATQ em <span>35%</span>.<br/>Além disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar e Redemoinho Estelar causado pelo portador em <span>20%</span> por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s."
     },
     {
       "refinement": 3,
-      "desc": "Aumenta o ATQ em <span>42%</span>.<br/>Além disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar causado pelo portador em <span>24%</span> por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s."
+      "desc": "Aumenta o ATQ em <span>42%</span>.<br/>Além disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar e Redemoinho Estelar causado pelo portador em <span>24%</span> por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s."
     },
     {
       "refinement": 4,
-      "desc": "Aumenta o ATQ em <span>49%</span>.<br/>Além disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar causado pelo portador em <span>28%</span> por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s."
+      "desc": "Aumenta o ATQ em <span>49%</span>.<br/>Além disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar e Redemoinho Estelar causado pelo portador em <span>28%</span> por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s."
     },
     {
       "refinement": 5,
-      "desc": "Aumenta o ATQ em <span>56%</span>.<br/>Além disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar causado pelo portador em <span>32%</span> por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s."
+      "desc": "Aumenta o ATQ em <span>56%</span>.<br/>Além disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar e Redemoinho Estelar causado pelo portador em <span>32%</span> por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s."
     }
   ]
 }

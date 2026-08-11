@@ -44,7 +44,6 @@
   "description": "Uma máquina de guerra alienígena gigante.\\nDizem que são remanescentes de um reino antigo perdido. Aparentemente, os criadores preferiram o design humanoide de baixo desempenho devido à eficácia do combate. Elas são extremamente perigosas tanto em combate corpo-a-corpo quanto em combate à distância.\\nElas realmente dizem muito sobre a civilização que criou essas armas antigas descartadas.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 4,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": -0.2,

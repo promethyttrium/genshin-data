@@ -1,0 +1,30 @@
+{
+  "_id": 104372,
+  "id": "guide_to_glory",
+  "name": "「栄光」の導き",
+  "description": "天賦育成素材。\\n「栄光」は氷の国土の信仰である。\\n栄光は長き夜に瞬く炎であり、雪原を歩む人々は常にその方角を見つめている。風雪はいずれ止み、黎明が訪れると信じるように、彼らは自分たちが今も進むべき道の上にいると確信している。",
+  "source": [
+    "合成可能数：{0}"
+  ],
+  "location": "スネージナヤ",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104371,
+        "id": "teachings_of_glory",
+        "name": "「栄光」の教え",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "熟知秘境・共観 IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "水曜",
+    "土曜",
+    "日曜"
+  ]
+}

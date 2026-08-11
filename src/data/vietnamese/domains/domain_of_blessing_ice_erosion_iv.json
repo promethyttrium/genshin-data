@@ -1,0 +1,92 @@
+{
+  "_id": 4706,
+  "id": "domain_of_blessing_ice_erosion_iv",
+  "name": "Bí Cảnh Chúc Phúc: Băng Thực IV",
+  "entranceId": 2075,
+  "entranceName": "Sông Băng Treo Ngược",
+  "description": "Ngọn núi hoang bị gió tuyết mùa đông khắc nghiệt bào mòn. Ngay cả ma vật và những kẻ liều mạng cũng khó lòng sinh sống lâu dài trong cái lạnh hoang vu cổ xưa này.\nNếu có thể đánh bại kẻ địch chiếm cứ nơi này, chắc sẽ nhận được Thánh Di Vật quý giá.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 90,
+  "unlockRank": 45,
+  "disorder": [
+    "After a character triggers a Cryo-related reaction, all party members' Elemental Mastery is increased by 250 for 10s."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_01",
+  "recommendedElements": [
+    "Băng",
+    "Lôi",
+    "Phong"
+  ],
+  "domainType": "UI_ABYSSUS_RELIC",
+  "domainText": "Artifacts",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP Mạo Hiểm",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "2525"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP Yêu Thích",
+      "count": "20"
+    },
+    {
+      "_id": 400421,
+      "id": "scarlet_proof",
+      "name": "Scarlet Proof",
+      "rarity": 5
+    },
+    {
+      "_id": 400431,
+      "id": "heart_of_the_furnace",
+      "name": "Heart of the Furnace",
+      "rarity": 5
+    },
+    {
+      "_id": 400420,
+      "id": "scarlet_proof",
+      "name": "Scarlet Proof",
+      "rarity": 4
+    },
+    {
+      "_id": 400430,
+      "id": "heart_of_the_furnace",
+      "name": "Heart of the Furnace",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 4
+    },
+    {
+      "_id": 400008,
+      "id": "brave_heart",
+      "name": "Brave Heart",
+      "rarity": 4
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 3
+    },
+    {
+      "_id": 400007,
+      "id": "brave_heart",
+      "name": "Brave Heart",
+      "rarity": 3
+    }
+  ],
+  "monsterList": []
+}

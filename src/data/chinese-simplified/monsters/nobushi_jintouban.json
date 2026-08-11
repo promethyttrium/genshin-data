@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人类势力",
   "filename_icon": "UI_MonsterIcon_Samurai_Ronin_01",
   "description": "落草为寇的流浪武人，虽然常被称为「野伏」，但并不隶属于某个统一的团体。\\n作为常年行走在武道上的人，有着精湛的剑术，如今却不将其用于正道。\\n为了生计与财富，有时候甚至会与盗宝团、愚人众沆瀣一气。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

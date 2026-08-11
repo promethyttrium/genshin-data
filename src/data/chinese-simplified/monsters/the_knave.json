@@ -157,7 +157,6 @@
   "categoryText": "值得铭记的强敌",
   "filename_icon": "UI_MonsterIcon_Nihil",
   "description": "愚人众执行官第四席，「仆人」。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

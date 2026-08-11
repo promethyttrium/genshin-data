@@ -13,7 +13,6 @@
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Effigy_Rock",
   "description": "代号为「基末尔」的高级岩元素生命。\\n无相元素本身是超浓缩的构造体，拥有极高的质量。\\n浓缩成硬质固体的元素超质壳是惰性的，只有内部的核会活跃发生元素反应。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

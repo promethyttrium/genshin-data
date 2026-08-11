@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Épée à une main",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3229,
@@ -29,8 +31,10 @@
     {
       "id": "strike_of_fortune",
       "name": "Épée chanceuse",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,8 +53,10 @@
     {
       "id": "passion_overload",
       "name": "Surpassion",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts de <span style=\"color:#FF9999FF\">DGT Pyro</span>.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "fantastic_voyage",
       "name": "Merveilleux voyage",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et crée un <span style=\"color:#FFFFFFFF\">champ vertueux</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#FF9999FF\">DGT Pyro</span> et crée un <span style=\"color:#FFFFFFFF\">champ vertueux</span>.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1103,

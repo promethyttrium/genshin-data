@@ -13,7 +13,6 @@
   "categoryText": "Automaton",
   "filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
   "description": "Penjaga reruntuhan kuno yang hilang di gurun, cukup kuat untuk menghukum siapa saja yang berani mengusik mimpi rajanya.\\nUntuk membangun tanah kegembiraan impiannya, penguasa lautan pasir pernah mendalami pengetahuan terlarang, dan mesin misterius ini mungkin adalah hasil ciptaannya.\\nSaat ini \"tanah kegembiraan\" telah lama musnah. Kini yang tersisa hanyalah mantra yang terukir padanya, yang menuliskan tentang mimpi dan janji yang telah dilupakan oleh dunia.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

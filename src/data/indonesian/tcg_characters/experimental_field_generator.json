@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Geo",
+    "weapon": "Senjata Lain",
     "faction": [
-      null
+      "Monster"
     ],
     "source": "Didapatkan setelah menerima Tantangan Tavern di Cat's Tail dan menang dalam Pertandingan Persahabatan melawan Experimental Field Generator"
   },
@@ -18,8 +20,10 @@
     {
       "id": "gravity_application_crush",
       "name": "Gravity Application: Crush",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -38,8 +42,10 @@
     {
       "id": "gravity_application_point_null",
       "name": "Gravity Application: Point Null",
-      "desc": "Mengakibatkan ? poin ? dan menciptakan 2 lapis <span style=\"color:#FFFFFFFF\">Efficient Switch</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#FFE699FF\">Geo DMG</span> dan menciptakan 2 lapis <span style=\"color:#FFFFFFFF\">Efficient Switch</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -52,8 +58,10 @@
     {
       "id": "gravity_application_field_reduction",
       "name": "Gravity Application: Field Reduction",
-      "desc": "Mengakibatkan ? poin ? serta menciptakan <span style=\"color:#FFFFFFFF\">Low Gravity Background</span> dan <span style=\"color:#FFFFFFFF\">Shock Blast</span>. Selama Ronde ini, <span style=\"color:#FFFFFFFF\">\"Normal Attack\"</span> berikutnya dari semua Karakter standby-mu akan menghabiskan 1 <span style=\"color:#FFFFFFFF\">Elemen Tidak Selaras</span> lebih sedikit.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#FFE699FF\">Geo DMG</span> serta menciptakan <span style=\"color:#FFFFFFFF\">Low Gravity Background</span> dan <span style=\"color:#FFFFFFFF\">Shock Blast</span>. Selama Ronde ini, <span style=\"color:#FFFFFFFF\">\"Normal Attack\"</span> berikutnya dari semua Karakter standby-mu akan menghabiskan 1 <span style=\"color:#FFFFFFFF\">Elemen Tidak Selaras</span> lebih sedikit.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1106,

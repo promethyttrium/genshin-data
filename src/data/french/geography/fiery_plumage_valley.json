@@ -1,0 +1,13 @@
+{
+  "_id": 70800041,
+  "id": "fiery_plumage_valley",
+  "name": "La vallée du plumage de feu",
+  "areaName": "Vallée des plumeflammes",
+  "areaId": 80400,
+  "description": "On raconte qu'un jour oublié du temps, la glace éternelle fondit et que des arbres aux feuilles semblables à un plumage flamboyant jaillirent du sol...\nAlors, en ce lieu, le chercheur d'éternité choisit cette terre pour ancrer ses jours sans fin, entamant une veille silencieuse pour la personne qu'il attend.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 641,
+  "filename_image": "UI_Codex_Scenery_ZDHuoNiaoHeZhuView",
+  "showOnlyUnlocked": true
+}

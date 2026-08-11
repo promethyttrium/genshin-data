@@ -157,7 +157,6 @@
   "categoryText": "Enemigos memorables",
   "filename_icon": "UI_MonsterIcon_Nihil",
   "description": "La Sota, la cuarta de Los Once.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

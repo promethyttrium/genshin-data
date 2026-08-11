@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Entités élémentaires",
   "filename_icon": "UI_MonsterIcon_Slime_Grass_02",
   "description": "Un Blob dont l'organisme a muté sous l'influence d'une forte concentration d'élément Dendro.\\nCette mutation organique le rend en conséquence particulièrement vulnérable au feu.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

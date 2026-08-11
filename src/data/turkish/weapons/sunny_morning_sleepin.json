@@ -10,7 +10,7 @@
   },
   "domain": "Dalgalı Kum Bahçesi",
   "passive": "Hamamlar, Şahinler ve Narukami",
-  "bonus": "Bir Girdap tepkimesi tetikledikten sonra 6 saniyeliğine Element Ustalığı <span>120/150/180/210/240</span> artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı <span>96/120/144/168/192</span> artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı <span>32/40/48/56/64</span> artar.",
+  "bonus": "Bir Girdap veya Yıldız Girdabı tepkimesi tetiklendiğinde 6sn boyunca Element Ustalığı <span>120/150/180/210/240</span> artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı <span>96/120/144/168/192</span> artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı <span>32/40/48/56/64</span> artar.",
   "specialProp": "Element Ustalığı",
   "stats": {
     "primary": "Temel Saldırı",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Hamamlar, Şahinler ve Narukami",
-    "template": "Bir Girdap tepkimesi tetikledikten sonra 6 saniyeliğine Element Ustalığı <span style=\"color:#99FFFFFF\">{0}</span> artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı <span style=\"color:#99FFFFFF\">{1}</span> artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı <span style=\"color:#99FFFFFF\">{2}</span> artar.",
+    "template": "Bir Girdap veya Yıldız Girdabı tepkimesi tetiklendiğinde 6sn boyunca Element Ustalığı <span style=\"color:#99FFFFFF\">{0}</span> artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı <span style=\"color:#99FFFFFF\">{1}</span> artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı <span style=\"color:#99FFFFFF\">{2}</span> artar.",
     "params": [
       [
         "120",
@@ -312,23 +311,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "Bir Girdap tepkimesi tetikledikten sonra 6 saniyeliğine Element Ustalığı <span>120</span> artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı <span>96</span> artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı <span>32</span> artar."
+      "desc": "Bir Girdap veya Yıldız Girdabı tepkimesi tetiklendiğinde 6sn boyunca Element Ustalığı <span>120</span> artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı <span>96</span> artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı <span>32</span> artar."
     },
     {
       "refinement": 2,
-      "desc": "Bir Girdap tepkimesi tetikledikten sonra 6 saniyeliğine Element Ustalığı <span>150</span> artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı <span>120</span> artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı <span>40</span> artar."
+      "desc": "Bir Girdap veya Yıldız Girdabı tepkimesi tetiklendiğinde 6sn boyunca Element Ustalığı <span>150</span> artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı <span>120</span> artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı <span>40</span> artar."
     },
     {
       "refinement": 3,
-      "desc": "Bir Girdap tepkimesi tetikledikten sonra 6 saniyeliğine Element Ustalığı <span>180</span> artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı <span>144</span> artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı <span>48</span> artar."
+      "desc": "Bir Girdap veya Yıldız Girdabı tepkimesi tetiklendiğinde 6sn boyunca Element Ustalığı <span>180</span> artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı <span>144</span> artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı <span>48</span> artar."
     },
     {
       "refinement": 4,
-      "desc": "Bir Girdap tepkimesi tetikledikten sonra 6 saniyeliğine Element Ustalığı <span>210</span> artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı <span>168</span> artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı <span>56</span> artar."
+      "desc": "Bir Girdap veya Yıldız Girdabı tepkimesi tetiklendiğinde 6sn boyunca Element Ustalığı <span>210</span> artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı <span>168</span> artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı <span>56</span> artar."
     },
     {
       "refinement": 5,
-      "desc": "Bir Girdap tepkimesi tetikledikten sonra 6 saniyeliğine Element Ustalığı <span>240</span> artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı <span>192</span> artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı <span>64</span> artar."
+      "desc": "Bir Girdap veya Yıldız Girdabı tepkimesi tetiklendiğinde 6sn boyunca Element Ustalığı <span>240</span> artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı <span>192</span> artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı <span>64</span> artar."
     }
   ]
 }

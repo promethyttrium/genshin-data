@@ -60,6 +60,11 @@
       "name": "蔬菜罐罐湯"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "罐罐燜肉"
+    },
+    {
       "_id": 4204,
       "id": "bountiful_year",
       "name": "豐年有餘"
@@ -67,6 +72,5 @@
   ],
   "source": [
     "野外採集"
-  ],
-  "rarity": 0
+  ]
 }

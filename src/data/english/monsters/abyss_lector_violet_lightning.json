@@ -22,7 +22,6 @@
   "categoryText": "The Abyss",
   "filename_icon": "UI_MonsterIcon_Invoker_Deacon_Electric_01",
   "description": "A monster who serves the Abyss Order and commands lightning while singing the praises of the darkness.\\nThese are the evangelists and the scholars of the Abyss. Their violent lightning strikes the hearts of unbelievers with dark wisdom, warped by the shadowy depths of an eternal night, its violet glow proclaiming the existence of a great power that corrodes human intellect.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

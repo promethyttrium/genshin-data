@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Eremite_Female_Standard_Longbow",
   "description": "Çölden gelen paralı asker gruplarının bir üyesi. Verilen ücret yeterli olduğu sürece herkes için çalışmaya razıdır.\\nArbalet kullanımının yaygın olduğu bu dönemde yalnızca en deneyimli Münzevi savaşçılar savaşırken uzun yay kullanmasını bilir. Düşmanların konumunu belirlemek için görmeye ihtiyaçları bile yoktur, rüzgarın ve kumun hareketini duymaları yeterlidir.\\nKullandıkları silahların içine uğursuz, parçalanmış ruhlar mühürlenmiştir ve ancak tehlike anında uyanırlar. Bu silahlar uyandığında yalnızca kaybedenlerin çığlıklarıyla susturulabilirler. Kaybedenin silahı kullananlar mı yoksa onların düşmanları mı olduğunun bir önemi yoktur.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

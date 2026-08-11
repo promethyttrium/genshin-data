@@ -64,19 +64,19 @@
       "_id": 112094,
       "id": "operatives_constancy",
       "name": "役人的時時刻刻",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112093,
       "id": "operatives_standard_pocket_watch",
       "name": "役人的制式懷錶",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112092,
       "id": "old_operatives_pocket_watch",
       "name": "老舊的役人懷錶",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -127,7 +127,6 @@
   "categoryText": "愚人眾",
   "filename_icon": "UI_MonsterIcon_Fatuus_Escadron_Wind",
   "description": "愚人眾當中的精銳特務。\\n役人在愚人眾中並沒有常規的軍種編制。依據命令與任務的內容，她們既可以與士兵同進退，也能獨自或者與埋在各地的「釘子」一同進行諜報、反偵察、護衛、抹殺等工作。為了那些更為特殊的任務，役人往往也需要掌握各式各樣的技能乃至才藝。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 3,
+    "element": "Electro",
+    "weapon": "Altre armi",
     "faction": [
-      null
+      "Fatui"
     ]
   },
   "skills": [
     {
       "id": "rapid_hammer_strike",
       "name": "Martellata rapida",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -36,8 +40,10 @@
     {
       "id": "raging_charge",
       "name": "Assalto furente",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#FFACFFFF\">DAN da Electro</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,8 +56,10 @@
     {
       "id": "thunderblast_hammer",
       "name": "Martello rombotuono",
-      "desc": "Infligge ? ?, questo personaggio ottiene <span style=\"color:#FFFFFFFF\">Equipaggiamento elementale di Electro</span>.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#FFACFFFF\">DAN da Electro</span>, questo personaggio ottiene <span style=\"color:#FFFFFFFF\">Equipaggiamento elementale di Electro</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -71,7 +79,9 @@
       "id": "combat_resupply",
       "name": "Fornitura bellica",
       "desc": "(Passiva) All'inizio del duello questo personaggio ottiene 2 punti Energia.",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

@@ -38,7 +38,7 @@
       "_id": 113037,
       "id": "thunderclap_fruitcore",
       "name": "隠雷の実",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104144,
@@ -133,7 +133,6 @@
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_Regisvine_Electric",
   "description": "地脈に流れる高圧電流を吸い取る、巨大なツル草の魔物。\\n樹冠からは、大地の怒りを発散させるように、次々と電気を放出する。\\nかつて妙論派の学者たちは、迅電樹の周りに複雑な電気回路を配列すれば、そこから得た電気を街まで送り、使うことができるだろうと提唱した。しかしこの計画に素論派の学者たちは猛反対し、電気を使うことの危険性を証明するために10匹のキノシシを犠牲にした。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

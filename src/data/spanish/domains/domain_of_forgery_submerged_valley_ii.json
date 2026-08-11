@@ -16,6 +16,11 @@
   "recommendedElements": [
     "Electro"
   ],
+  "daysOfWeek": [
+    "Martes",
+    "Viernes",
+    "Domingo"
+  ],
   "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
   "domainText": "Weapon Ascension Materials",
   "rewardPreview": [

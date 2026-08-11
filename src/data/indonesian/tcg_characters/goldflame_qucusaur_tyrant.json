@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Senjata Lain",
     "faction": [
-      null
+      "Monster"
     ],
     "source": "Didapatkan setelah menerima Tantangan Tavern di Cat's Tail dan menang dalam Pertandingan Persahabatan melawan Goldflame Qucusaurus Tyrant"
   },
@@ -18,8 +20,10 @@
     {
       "id": "wingcleave",
       "name": "Wingcleave",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -38,8 +42,10 @@
     {
       "id": "rising_scorchwind",
       "name": "Rising Scorchwind",
-      "desc": "Mengakibatkan ? poin ? dan memberikan 2 lapis <span style=\"color:#FFFFFFFF\">Flying Swirl</span> kepada diri sendiri.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#FF9999FF\">Pyro DMG</span> dan memberikan 2 lapis <span style=\"color:#FFFFFFFF\">Flying Swirl</span> kepada diri sendiri.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -52,8 +58,10 @@
     {
       "id": "goldflame_detonation",
       "name": "Goldflame Detonation",
-      "desc": "Mengakibatkan ? poin ?, mengakibatkan 1 poin <span style=\"color:#FFFFFFFF\">Piercing DMG</span> ke seluruh Karakter standby lawan, dan memberikan 1 lapis <span style=\"color:#FFFFFFFF\">Goldflame State</span> kepada diri sendiri.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#FF9999FF\">Pyro DMG</span>, mengakibatkan 1 poin <span style=\"color:#FFFFFFFF\">Piercing DMG</span> ke seluruh Karakter standby lawan, dan memberikan 1 lapis <span style=\"color:#FFFFFFFF\">Goldflame State</span> kepada diri sendiri.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -73,7 +81,9 @@
       "id": "ancient_bloodline",
       "name": "Ancient Bloodline",
       "desc": "(Pasif) <span style=\"color:#FFFFFFFF\">Saat Tahap Aksi Ronde Genap dimulai: </span>Memberikan 1 lapis <span style=\"color:#FFFFFFFF\">Goldflame State</span> kepada diri sendiri.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

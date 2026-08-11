@@ -25,19 +25,19 @@
       "_id": 112079,
       "id": "wanderers_blooming_flower",
       "name": "流浪者の満開の花",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112078,
       "id": "treasured_flower",
       "name": "誰かが大切にしていた花",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112077,
       "id": "a_flower_yet_to_bloom",
       "name": "何処かで摘まれた咲きかけの花",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "ヒルチャール部族",
   "filename_icon": "UI_MonsterIcon_Hilistray_Wind",
   "description": "どの部族にも属さないヒルチャールの流浪者。まるで、一族の運命の始まりや、今はもう失われた輝きを追い求めているかのようだ。\\n文字による伝承がなく、簡単な言語しか持たない魔物に叙事詩や伝説が存在するならば、彼らはその中の主人公となるはずだろう。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

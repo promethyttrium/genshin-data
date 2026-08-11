@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Kryo",
+    "weapon": "Stangenwaffe",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 7225,
@@ -29,8 +31,10 @@
     {
       "id": "spear_of_the_church",
       "name": "Speer der Kathedrale",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "ravaging_confession",
       "name": "Erschütterndes Geständnis",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 1 Stapelung <span style=\"color:#FFFFFFFF\">Durchschauen von Schwachstellen</span> (Erschafft beim Auslösen des Effekts von Durchschauen von Schwachstellen 1 <span style=\"color:#FFFFFFFF\">Angriff von Schwachstellen</span>).",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>, erschafft 1 Stapelung <span style=\"color:#FFFFFFFF\">Durchschauen von Schwachstellen</span> (Erschafft beim Auslösen des Effekts von Durchschauen von Schwachstellen 1 <span style=\"color:#FFFFFFFF\">Angriff von Schwachstellen</span>).",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "rites_of_termination",
       "name": "Letzte Salbung",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 2 Stapelungen <span style=\"color:#FFFFFFFF\">Durchschauen von Schwachstellen</span> und 1 <span style=\"color:#FFFFFFFF\">Permafrostlanze</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>, erschafft 2 Stapelungen <span style=\"color:#FFFFFFFF\">Durchschauen von Schwachstellen</span> und 1 <span style=\"color:#FFFFFFFF\">Permafrostlanze</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Phong",
+    "weapon": "Vũ Khí Cán Dài",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3852,
@@ -29,8 +31,10 @@
     {
       "id": "whirlwind_thrust",
       "name": "Cuốn Quét Bụi Trần",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "lemniscatic_wind_cycling",
       "name": "Đôi Bánh Xe Gió",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 3 điểm <span style=\"color:#80FFD7FF\">Sát Thương Nguyên Tố Phong</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "bane_of_all_evil",
       "name": "Vũ Điệu Trừ Yêu",
-      "desc": "Gây ? điểm ?, nhân vật này nhận <span style=\"color:#FFFFFFFF\">Mặt Nạ Dạ Xoa</span>.",
-      "skillTag": [],
+      "desc": "Gây 4 điểm <span style=\"color:#80FFD7FF\">Sát Thương Nguyên Tố Phong</span>, nhân vật này nhận <span style=\"color:#FFFFFFFF\">Mặt Nạ Dạ Xoa</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1105,

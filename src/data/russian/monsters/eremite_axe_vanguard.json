@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Прочие человеческие фракции",
   "filename_icon": "UI_MonsterIcon_Eremite_Female_Hatchet",
   "description": "Член неорганизованной группы наёмников из золотых песков. Работает на кого угодно, лишь бы платили хорошо.\\nЭти женщины с топорами без страха вступают в бой, создавая проходы для товарищей.\\nВ родном краю они порой сидят у костра и поют баллады о заблудших в пустыне душах.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

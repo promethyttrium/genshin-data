@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 3,
+    "element": "Ateş",
+    "weapon": "Yay",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3228,
@@ -29,8 +31,10 @@
     {
       "id": "firework_flareup",
       "name": "Havai Fişek Patlaması",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,7 +54,9 @@
       "id": "niwabi_firedance",
       "name": "Niwabi Ateş Dansı",
       "desc": "Bu karaktere <span style=\"color:#FFFFFFFF\">Niwabi Enshou</span> eklenir. (Bu beceri Enerji oluşturmaz.)",
-      "skillTag": [],
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "ryuukin_saxifrage",
       "name": "Taşkıran Ryuukin",
-      "desc": "? ? verir ve 1 <span style=\"color:#FFFFFFFF\">Altın Alev</span> oluşturur.",
-      "skillTag": [],
+      "desc": "3 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir ve 1 <span style=\"color:#FFFFFFFF\">Altın Alev</span> oluşturur.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1103,

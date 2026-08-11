@@ -429,7 +429,7 @@
     {
       "id": "paradoxical_practice",
       "name": "Paradoxical Practice",
-      "description": "Saat Shikanoin Heizou mengaktifkan reaksi Swirl saat dalam medan tempur, dia akan mendapatkan 1 lapis Declension untuk <span style=\"color:#FFD780FF\">Heartstopper Strike</span>. Efek ini terpicu setiap 0,1 detik.",
+      "description": "Saat Shikanoin Heizou mengaktifkan reaksi Swirl dan Stellar Swirl di medan pertempuran, dia akan mendapatkan 1 lapis Declension untuk <span style=\"color:#FFD780FF\">Heartstopper Strike</span>. Efek ini dapat terpicu sekali setiap 0,1 detik.",
       "level": 1
     },
     {

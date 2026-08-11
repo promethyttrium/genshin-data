@@ -25,19 +25,19 @@
       "_id": 112019,
       "id": "deathly_statuette",
       "name": "Deathly Statuette",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112018,
       "id": "dark_statuette",
       "name": "Dark Statuette",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112017,
       "id": "gloomy_statuette",
       "name": "Gloomy Statuette",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Abyss",
   "filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Lance_Water",
   "description": "Prajurit yang hitam pekat. Pernah menjadi prajurit gagah perkasa yang mengabdi kepada suatu peradaban kuno, kini dirinya sudah tidak punya kecerdasan yang lazim dimiliki kaum manusia.\\nNamun kehendaknya untuk terjun ke medan perang demi mengalahkan musuh dan melindungi, telah terpatri ke dalam zirah yang kosong. Meskipun kini sudah tidak ada lagi yang memberi tahu di mana posisi musuh, dan apa yang harus dia lindungi ....",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

@@ -13,7 +13,6 @@
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Wyrm_Rock",
   "description": "Un giovane Elementosauro con un esoscheletro di Geo.\\nSono creature eccezionalmente agili che sarebbe saggio non sottovalutare in combattimento. Gli esperti dell'Akademiya di Sumeru credono che diventino draghi, una volta completamente cresciuti. Se riescono a evitare i predatori e le calamità naturali, forse possono persino vivere abbastanza a lungo da diventare formidabili bestie e regnare su intere montagne.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 3,
   "stats": {

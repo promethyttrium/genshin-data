@@ -1,0 +1,21 @@
+{
+  "_id": 350004,
+  "id": "yayu_sublimation",
+  "name": "Yayu: Sublimazione",
+  "description": "Una gloriosa arma illusoria emersa dalle profondità delle linee geomantiche, scintillante della luce dell'\"Eternità\". Può cambiare aspetto in base al tipo elementale di chi la impugna. Si narra che, in un'epoca immemorabile, un'emissaria divina degli alti cieli donò quest'arco lungo dorato alla somma sacerdotessa di Lang-Gan, conferendole il diritto di guidare la civiltà prima che precipitasse nell'abisso.",
+  "rarity": 5,
+  "type": {
+    "id": "Bow",
+    "name": "Arco"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1004,
+    "name": "Metamorfosi splendente: Eternità - Sublimazione",
+    "priority": 2
+  },
+  "item_id": 341504,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Bow_MorphYayu_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Bow_MorphYayu_Great"
+}

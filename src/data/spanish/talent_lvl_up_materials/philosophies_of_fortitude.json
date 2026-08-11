@@ -1,0 +1,30 @@
+{
+  "_id": 104370,
+  "id": "philosophies_of_fortitude",
+  "name": "Filosofía de la tenacidad",
+  "description": "Material de mejora de talento.\\nLa tenacidad es la virtud de la Nación del Hielo.\\nEs lo que forja la prosperidad de la vida. Las personas jamás se rindieron ante el frío invernal, así como las semillas más débiles insisten en florecer en medio de la ventisca. De igual forma, la civilización perdura a pesar de las adversidades, así como la flor frigifeérica florece año tras año en el crudo invierno.",
+  "source": [
+    "Cantidad sintetizable: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104369,
+        "id": "guide_to_fortitude",
+        "name": "Guía de la tenacidad",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio de la maestría: Ascetismo IV",
+  "domainId": "domain_of_mastery_hermitage_iv",
+  "days": [
+    "Martes",
+    "Viernes",
+    "Domingo"
+  ]
+}

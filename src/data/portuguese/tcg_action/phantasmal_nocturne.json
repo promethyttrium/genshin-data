@@ -1,0 +1,32 @@
+{
+  "_id": 214012,
+  "id": "phantasmal_nocturne",
+  "shareId": 616,
+  "name": "Concerto da Noite",
+  "title": "Fischl: Concerto da Noite",
+  "desc": "\"Ainda assim, apesar de toda questão ser inesperada, algumas são mais que outras. Por exemplo, uma bruxa pode ser perguntada para usar a luz primordial para criar seu mundo material. Enquanto outra pode ser pedida para conceder uma alma a um ser que só existe na imaginação.\"",
+  "in_play_description": "Enquanto <span style=\"color:#FFFFFFFF\">Oz</span> estiver em campo, <span style=\"color:#FFACFFFF\">Reações Electro</span> causam +1 de Dano. (Três vezes por Turno)",
+  "attributes": {
+    "cost": 2,
+    "cost_type": "Electro",
+    "card_type": "Carta de Equipamento",
+    "energy": [
+      {
+        "_id": 1104,
+        "id": "electro",
+        "type": "Electro",
+        "count": 2
+      }
+    ],
+    "tags": [
+      "Talento",
+      "Mágico"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Ações Rápidas</span>: Equipe isso a <span style=\"color:#FFFFFFFF\">Fischl</span>.<br/>Invoca <span style=\"color:#FFFFFFFF\">Oz</span>.<br/>Enquanto <span style=\"color:#FFFFFFFF\">Oz</span> estiver em campo, <span style=\"color:#FFACFFFF\">Reações Electro</span> causam +1 de Dano. (Três vezes por Turno)<br/>(Você deve ter Fischl em seu deck para adicionar essa carta a ele.)"
+    }
+  ]
+}

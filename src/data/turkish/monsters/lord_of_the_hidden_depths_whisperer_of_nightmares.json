@@ -14,7 +14,6 @@
   "filename_icon": "UI_MonsterIcon_Lloigor_Primo",
   "description": "Gizli derinliklerdeki yarıklarda sürünen, sessizce bu dünyayı izleyen bir Hiçlik yaratığı. Onun tekinsiz, yüzsüz formunun sadece bir yansıma olduğu, gerçek bedeninin ise saf Hiçlik enerjisinden oluşan şekilsiz bir kütle olarak var olduğu söylenir.\\nBu dünyayı ele geçirmeye çalışan istilacılar dahi bir dereceye kadar onun kurallarına uymak zorundadır. Gökler yarılıp yeryüzünün tüm savunması çökmedikçe yıldızlardan gelen bu yabancılar dünyanın kıyısında dolanıp çılgınlıklarını bu aleme fısıldamaktan öteye geçemezler ve tüm içeri sızma girişimleri boşa çıkar... Peki ama bu istikrar ve düzen daha ne kadar sürebilir?",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
-  "bgm": 0,
   "budget": 1,
   "stats": {
     "resistance": {

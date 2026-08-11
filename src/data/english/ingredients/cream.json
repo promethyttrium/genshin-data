@@ -68,6 +68,11 @@
       "name": "Fricassee de Poulet"
     },
     {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Rimecurrant Ice Cream"
+    },
+    {
       "_id": 4403,
       "id": "fontinalia_mousse",
       "name": "Fontinalia Mousse"
@@ -85,6 +90,5 @@
   ],
   "source": [
     "Processed"
-  ],
-  "rarity": 0
+  ]
 }

@@ -38,7 +38,7 @@
       "_id": 113037,
       "id": "thunderclap_fruitcore",
       "name": "Fruto do Trovão",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104144,
@@ -133,7 +133,6 @@
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Regisvine_Electric",
   "description": "Uma vinha gigantesca que se transformou em um monstro ao conduzir correntes de alta voltagem pelas Linhas Ley.\\nEletricidade dispara constantemente de sua copa como a fúria interminável da própria terra.\\nOs Pesquisadores Kshahrewar uma vez propuseram colocar uma matriz de circuitos complexos montada em torno desta criatura para conduzir sua energia elétrica até a cidade para ser usada. Este plano foi vigorosamente contrariado por estudiosos do Spantamad, que sacrificaram 10 Porcogumelos para demonstrar seu ponto sobre os perigos da utilização de eletricidade em casa.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

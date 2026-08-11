@@ -33,13 +33,13 @@
       "_id": 112063,
       "id": "dormant_fungal_nucleus",
       "name": "Noyau fongique dormant",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112062,
       "id": "inactivated_fungal_nucleus",
       "name": "Noyau fongique inactivé",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112061,
@@ -57,16 +57,15 @@
       "_id": 112059,
       "id": "fungal_spores",
       "name": "Spores de Fongus",
-      "count": 0.2101
+      "count": 0.21
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water",
   "description": "Une créature mimétique composée de spores. Elle est dotée d'une excellente capacité d'adaptation à son environnement.\\nBien qu'elle ressemble à un oiseau, cette créature ne peut pas voler. Grâce à l'influence de l'énergie Hydro, elle est étonnamment agile par rapport aux autres créatures de son espèce. Selon certaines recherches, elle serait en fait une agrégation d'innombrables spores minuscules plutôt qu'une entité unique.\\nCette créature occupe une position de commandement parmi les colonies de Fongus et semble avoir une capacité intellectuelle supérieure à celle des autres champignons.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

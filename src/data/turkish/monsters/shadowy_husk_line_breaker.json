@@ -25,19 +25,19 @@
       "_id": 112019,
       "id": "deathly_statuette",
       "name": "Ölümcül Heykelcik",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112018,
       "id": "dark_statuette",
       "name": "Kara Heykelcik",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112017,
       "id": "gloomy_statuette",
       "name": "Kasvetli Heykelcik",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Lance_Water",
   "description": "Kapkaranlık bir asker. Bir zamanlar yer altında yaşayan eski bir ulusun gururlu bir savaşçısıymış. Aklından hiçbir eser kalmadığı için kendisine artık \"insan\" denilemez.\\nDüşmanın nerede olduğunu veya neyin ya da kimin korunacağını ona söyleyecek kimse kalmamış olsa da düşmanları yenip başkalarını korumak amacıyla savaşa atılma isteği bu boş zırha kazınmış.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

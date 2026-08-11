@@ -36,7 +36,7 @@
       "_id": 113067,
       "id": "ensnaring_gaze",
       "name": "Regard enchevêtrant",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -171,7 +171,6 @@
   "categoryText": "Ordre de l'Abîme",
   "filename_icon": "UI_MonsterIcon_TheAbyss_Dendrite",
   "description": "Monstre de l'Abîme qui est arrivé dans ce monde depuis les profondeurs sombres d'un monde étrange et déformé, il possède l'apparence d'une plante.\\nCes horribles créatures sont capables de s'infiltrer au plus profond des entrailles de la terre pour en extraire des souvenirs à imiter et manipuler. Grâce à ce processus de distorsion des souvenirs qui crée des formes abstruses et sordides, elles se rapprochent progressivement du cœur de l'Irminsul et menacent de nuire à son existence.\\nCertains disent que ces aberrations travaillent constamment afin de corrompre les diverses couleurs de la lumière, pour ne laisser à leur place que des informations noirâtres comme la nuit. Ces hypothèses semblent confirmées par leurs branches qui se déploient vers l'extérieur, comme si elles cherchaient à percer le vide en lui-même...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

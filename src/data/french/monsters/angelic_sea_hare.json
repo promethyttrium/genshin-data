@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Aplysia_Larva_02",
   "description": "Une créature aquatique qui chasse en tirant des projectiles aqueux.\\nD'un point de vue évolutif, les Aberrants fontemarins se sont développés à partir de créatures aquatiques en raison de facteurs environnementaux spécifiques à Fontaine. Ainsi, on peut en déduire qu'à un moment donné dans le passé, les formes de vie aquatiques originales de Fontaine différaient peu de celles originaires des autres régions de Teyvat.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 13.49,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

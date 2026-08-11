@@ -1,0 +1,16 @@
+{
+  "_id": 380002,
+  "id": "super_awesome_magic_key",
+  "name": "「슈퍼 울트라 마법 열쇠」",
+  "description": "「꼬마 마녀회」가 친구에게 주는 선물. 재료가 부족해 폰타인의 《흰기러기 동화집》에 등장하는 신기한 도구의 형태를 참고했다.\\n비록 동화 속처럼 다른 공간으로 통하는 문을 자유롭게 열 수는 없지만, 소중한 친구와 수많은 공간을 함께 누빌 수 있을 만큼 튼튼하다",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "양손검"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341802,
+  "icon_path": "UI_EquipIcon_Claymore_LoliFriend",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_LoliFriend"
+}

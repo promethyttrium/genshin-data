@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Aplysia_Larva_02",
   "description": "Uma criatura aquática que caça disparando projéteis aquáticos.\\nDo ponto de vista evolutivo, assume-se que as Aberrações Primordiais tenham se desenvolvido a partir de criaturas aquáticas devido a fatores ambientais específicos de Fontaine. Portanto, pode-se inferir que, em algum momento do passado, as formas de vida aquáticas originais de Fontaine diferiam pouco das nativas das outras regiões de Teyvat.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 13.49,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

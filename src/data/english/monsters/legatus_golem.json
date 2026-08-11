@@ -13,7 +13,6 @@
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Golem_Centaur",
   "description": "A centaur-shaped golem forged of marble and brass. Under the hard stone exterior flows Ichor blood. Towering as one who commands a legion, it is ready to trample any foe that might transgress against its honor.\\nThe now sunken civilization believed that war was as music, an art of rhythms to be followed. Therefore, one who marshals a legion must be like a conductor, whose shield and sword are like the strings and bow of a violin, performing a blazing melody like the raging flames upon the merciless battlefield.\\n\"War is a necessary evil on the path to all-encompassing peace.\" Thus spake a Harmost, one who once led the golem legions to conquest over the entire high sea.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

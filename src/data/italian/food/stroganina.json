@@ -1,0 +1,42 @@
+{
+  "_id": 2701,
+  "id": "stroganina",
+  "name": "Stroganina",
+  "description": "Delle strisce di pesce affettato. Con una lama affilata, si taglia il pesce intero congelato in diagonale, ricavando delle strisce sottili e arricciate. Solitamente servite con sale grosso, sono un piatto freddo crudo molto diffuso a Snezhnaya.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 100084,
+      "id": "fish",
+      "name": "Pesce",
+      "amount": 3
+    },
+    {
+      "_id": 100075,
+      "id": "salt",
+      "name": "Sale",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Piatto ATT+",
+  "results": {
+    "suspicious": {
+      "_id": 108991,
+      "name": "Stroganina sospetta",
+      "description": "Delle strisce di pesce affettato. Le parti più spesse sono talmente congelate da poter scheggiare un dente, mentre quelle più sottili si sono già liquefatte... Quantomeno, date le temperature glaciali di Snezhnaya, probabilmente non dovrai preoccuparti del mal di stomaco.",
+      "effect": "#Aumenta di 66 l'ATT di tutti i membri del gruppo per 300 s. In modalità cooperativa, si applica solo ai tuoi personaggi."
+    },
+    "normal": {
+      "_id": 108992,
+      "name": "Stroganina",
+      "description": "Delle strisce di pesce affettato. Con una lama affilata, si taglia il pesce intero congelato in diagonale, ricavando delle strisce sottili e arricciate. Solitamente servite con sale grosso, sono un piatto freddo crudo molto diffuso a Snezhnaya.",
+      "effect": "#Aumenta di 81 l'ATT di tutti i membri del gruppo per 300 s. In modalità cooperativa, si applica solo ai tuoi personaggi."
+    },
+    "delicious": {
+      "_id": 108993,
+      "name": "Stroganina deliziosa",
+      "description": "Delle strisce di pesce affettato. Nastri di carne sottili come carta vengono impilati nel piatto come una piccola corolla di petali scolpita nel ghiaccio. Basta portarne un pezzo alla bocca e la sua dolcezza pura e croccante colpisce la punta della lingua con il fresco abbraccio della neve che si scioglie.",
+      "effect": "#Aumenta di 95 l'ATT di tutti i membri del gruppo per 300 s. In modalità cooperativa, si applica solo ai tuoi personaggi."
+    }
+  }
+}

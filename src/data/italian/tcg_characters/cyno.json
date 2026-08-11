@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Electro",
+    "weapon": "Lancia",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3224,
@@ -29,8 +31,10 @@
     {
       "id": "invokers_spear",
       "name": "Lancia dell'evocatore",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -49,8 +53,10 @@
     {
       "id": "secret_rite_chasmic_soulfarer",
       "name": "Rito arcano: Guida delle anime del baratro",
-      "desc": "Infligge ? ?.<br/>Aumenta di 1 il livello di Possessione di <span style=\"color:#FFFFFFFF\">Precorritore giurato</span>",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#FFACFFFF\">DAN da Electro</span>.<br/>Aumenta di 1 il livello di Possessione di <span style=\"color:#FFFFFFFF\">Precorritore giurato</span>",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "sacred_rite_wolfs_swiftness",
       "name": "Rito sacro: Destrezza del lupo",
-      "desc": "Infligge ? ?.<br/>Aumenta di 2 il livello di Possessione di <span style=\"color:#FFFFFFFF\">Precorritore giurato</span>",
-      "skillTag": [],
+      "desc": "Infligge 4 <span style=\"color:#FFACFFFF\">DAN da Electro</span>.<br/>Aumenta di 2 il livello di Possessione di <span style=\"color:#FFFFFFFF\">Precorritore giurato</span>",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -84,7 +92,9 @@
       "id": "lawful_enforcer",
       "name": "Tutore della legge",
       "desc": "(Passiva) All'inizio del duello ottiene <span style=\"color:#FFFFFFFF\">Precorritore giurato</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

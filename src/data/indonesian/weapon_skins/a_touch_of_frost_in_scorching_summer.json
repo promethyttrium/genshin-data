@@ -1,0 +1,16 @@
+{
+  "_id": 380003,
+  "id": "a_touch_of_frost_in_scorching_summer",
+  "name": "A Touch of Frost in Scorching Summer!",
+  "description": "Hadiah kecil dari Jack Frost untuk teman-teman baiknya! Kelihatannya sangat lezat dan sepertinya berasa selai beri. Satu gigitan saja sudah cukup memberikan sensasi dingin yang menyegarkan serta rasa manis yang nikmat. Tapi sayangnya, ini sebenarnya tidak bisa dimakan ... Meskipun kelihatannya sangat lezat.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Sword"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341803,
+  "icon_path": "UI_EquipIcon_Sword_Icecream",
+  "image_path": "UI_Gacha_EquipIcon_Sword_Icecream"
+}

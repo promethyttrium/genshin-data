@@ -1,0 +1,29 @@
+{
+  "_id": 114094,
+  "id": "the_frost_emperors_ceremony",
+  "name": "The Frost Emperor's Ceremony",
+  "description": "Para peri di istana tidak mengerti mengapa hadiah yang dipersembahkan kepada Kaisar dibuat dalam bentuk seperti itu, mereka hanya fokus pada keindahan ornamen-ornamen yang seperti permata tersebut.<br/>Hanya Kaisar di singgasana dan peri salju yang mengetahui makna di balik perhiasan ini.<br/>Yang penting bukanlah upacara itu sendiri, melainkan makna sejati masa lalu yang terkandung di dalamnya.",
+  "source": [
+    "Placeholder - Jumlah yang Bisa Di-Craft: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114093,
+        "id": "the_frost_emperors_revival",
+        "name": "The Frost Emperor's Revival",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domain of Forgery: Scars of Cursed Obsession",
+  "days": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ]
+}

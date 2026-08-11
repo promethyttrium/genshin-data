@@ -185,6 +185,21 @@
       "name": "ソマルケーキ"
     },
     {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "雪国スープ"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "メドヴィク"
+    },
+    {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "白の雪玉花"
+    },
+    {
       "_id": 3902,
       "id": "delights_of_wondrous_wanderings",
       "name": "ワンダーボックス"
@@ -237,6 +252,5 @@
   ],
   "source": [
     "野外で採集"
-  ],
-  "rarity": 0
+  ]
 }

@@ -38,7 +38,7 @@
       "_id": 113037,
       "id": "thunderclap_fruitcore",
       "name": "Fruit du tonnerre",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104144,
@@ -133,7 +133,6 @@
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Regisvine_Electric",
   "description": "Une liane gigantesque transformée en monstre par les courants électriques qui parcourent les lignes énergétiques.\\nDe l'énergie Électro se libère en permanence de sa houppe, comme s'il cherchait à libérer la colère de la terre elle-même.\\nLes chercheurs du Kshahrewar ont un jour suggéré qu'une matrice de circuit complexe pouvait être mise en place autour de cette créature pour transporter son énergie électrique vers la ville pour y être utilisée. Cette hypothèse a été rejetée en bloc par les chercheurs du Spantamad, qui ont sacrifié 10 porpignons pour démontrer les dangers de l'électricité...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

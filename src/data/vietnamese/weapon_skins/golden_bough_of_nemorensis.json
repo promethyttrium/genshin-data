@@ -1,0 +1,21 @@
+{
+  "_id": 310003,
+  "id": "golden_bough_of_nemorensis",
+  "name": "Cành Vàng Của Nemorensis",
+  "description": "Ảo ảnh vũ khí rực rỡ xuất hiện nơi sâu thẳm trong Địa Mạch, có thể biến đổi tùy theo loại nguyên tố của người cầm. Nghe nói, vào thời xa xưa mà nay đã chẳng còn ai có thể nhớ đến, sứ giả của trời cao đã ban thanh trường kiếm này cho vị chủ tế của Arcadia, cho phép người ấy dẫn dắt thánh đô được ban phước bởi ngàn cơn gió.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Kiếm Đơn"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "Huyễn Hình Rạng Rỡ: Vĩnh Hằng",
+    "priority": 2
+  },
+  "item_id": 341103,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphNemorensis_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphNemorensis"
+}

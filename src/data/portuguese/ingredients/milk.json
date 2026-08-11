@@ -90,6 +90,11 @@
       "name": "Xocoatl"
     },
     {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Sorvete de Groselha de Gelo"
+    },
+    {
       "_id": 3905,
       "id": "bubblemilk_pie",
       "name": "Torta de Leite com Pérolas de Tapioca"
@@ -119,6 +124,5 @@
   ],
   "source": [
     "Vendido nas Tendas"
-  ],
-  "rarity": 0
+  ]
 }

@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Engrenage à coupe droite",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Engrenage de maillage",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automates",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02",
   "description": "Un Méka horlogoïde adapté du type Cal. Scherbius. Malheureusement, à part sa capacité d'attaque, il n'a pas d'autres qualités.\\nLes Mékas horlogoïdes basés sur les réactions d'annihilation produisent normalement leur énergie en utilisant des répéteurs composés de cristaux spéciaux pouvant raffiner les énergies ousia et pneuma de l'environnement. Mais à l'extérieur de Fontaine, ils doivent utiliser des blocs d'énergie préparés en avance pour se déplacer temporairement sur de courtes distances. La différence entre les deux peut être observée à partir de la forme des composants cristallins sur le méka.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 3,
   "stats": {

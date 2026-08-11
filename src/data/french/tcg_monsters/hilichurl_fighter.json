@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Sans élément",
+    "weapon": "Autre arme",
     "faction": [
-      null,
-      null
+      "Monstre",
+      "Brutocollinus"
     ]
   },
   "skills": [
     {
       "id": "hit",
       "name": "Frappe",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "jump_and_hit",
       "name": "Frappe bondissante",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -45,8 +51,10 @@
     {
       "id": "swing_that_club",
       "name": "Virevolte",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts de ?.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1108,

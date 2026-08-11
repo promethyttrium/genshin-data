@@ -13,7 +13,6 @@
   "categoryText": "Elemental Lifeforms",
   "filename_icon": "UI_MonsterIcon_Raijin",
   "description": "An abnormal Electro elemental life form. Although it might appear similar to an Oceanid, it does not possess her intelligence or memories.\\nThat which drives the Thunder Manifestation is a much more primal fury.\\nIt is said that these life forms will only descend like lightning upon places that play host to great lingering resentment, such as the fragmented Amakumo Peak, where the storm clouds ever roil. As long as the grudges of the land do not fade, so will the roaring thunder persist.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

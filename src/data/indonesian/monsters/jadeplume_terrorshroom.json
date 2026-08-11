@@ -37,7 +37,7 @@
       "_id": 113036,
       "id": "majestic_hooked_beak",
       "name": "Majestic Hooked Beak",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104134,
@@ -120,7 +120,6 @@
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Fungus_Raptor",
   "description": "Setelah melewati waktu yang lama, makhluk ini berevolusi menjadi Fungus besar dengan karakteristik yang unik.\\nTingkat kecerdasannya·sudah mendekati, bahkan melampaui hewan-hewan pada umumnya. Dapat memburu hewan lain untuk mendapatkan asupan nutrisi. Makhluk ini memiliki bulu hijau yang indah pada bagian ekornya, mirip dengan hewan suci kuno yang dipuja oleh para Spantamad. Kalau dilihat dari evolusi kamuflasenya, makhluk ini pasti dulu pernah hidup di permukaan bumi juga.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

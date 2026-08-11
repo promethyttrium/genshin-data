@@ -481,9 +481,31 @@
     "Matriks Serangan Dilimbabbar",
     "Matriks Pertahanan Dilimbabbar",
     "Yang Baru Terlahir dengan Kebusukan",
+    "???",
+    "Grounded Stonehawk",
     "Yang Baru Terlahir dengan Kebusukan",
     "Pionir yang Menatap Gugusan Bintang",
-    "Sisa Cahaya Penciptaan"
+    "Sisa Cahaya Penciptaan",
+    "Immortal Construct",
+    "Zhara",
+    "Vasiliy \"Oedipus\" Izmaylov",
+    "Orang Kembali yang Menyegel Diri di Es",
+    "Gusarov",
+    "Primordial Human",
+    "Aksinya",
+    "Pavlina",
+    "Yang Telah Kembali dari Ekspedisi",
+    "Landcruiser Pengacau",
+    "Nastya",
+    "Furiosa",
+    "Klenova yang Telah Mencapai Pencerahan",
+    "Kovaliskaya yang Rendahan",
+    "Tsvetaev",
+    "Bragin",
+    "Churin",
+    "Yang Pernah Bersumpah Setia Selamanya",
+    "Burrowbeast yang Mengintai",
+    "Tangkas Menyerang"
   ],
   "investigation": {
     "investigationId": 44,
@@ -510,22 +532,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Trimmed Red Silk",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Faded Red Satin",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Eremite_MuscleMan_Simitar",
   "description": "Seorang prajurit bayaran yang berasal dari gurun pasir berwarna emas. Rela bekerja untuk siapa saja yang bisa memberinya imbalan.\\nPrajurit padang pasir yang pandai menggunakan senjata parang. Telah menguasai teknik pedang yang diwarisi dari sebuah peradaban yang telah tiada. Teknik tarian pedang yang dikembangkan tidak hanya menjadi kemampuan bertarung, tapi juga menjadi pertunjukan akrobat yang populer di berbagai bangsa.\\nParang seperti ini konon digunakan sambil menunggangi kuda pada zaman dahulu.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

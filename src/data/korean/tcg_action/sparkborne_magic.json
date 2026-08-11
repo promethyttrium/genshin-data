@@ -1,0 +1,32 @@
+{
+  "_id": 213062,
+  "id": "sparkborne_magic",
+  "shareId": 615,
+  "name": "불꽃 마법",
+  "title": "클레·불꽃 마법",
+  "desc": "「그리하여 가장 귀여운 도도코 꼬마 마법사는 좋은 친구들의 도움으로 자격시험에 합격해 진정한 도도코 대마법사가 됐어. 정말 축하해——」\\n「—우리보고 주석을 쓰라더니, 이건 꼬마 마녀 얘기랑 전혀 상관없잖아!」",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">부착 캐릭터가 <span style=\"color:#FFFFFFFF\">강공격</span> 발동 후:</span> <span style=\"color:#FF9999FF\">불 원소 피해</span>를 2pt 준다. (턴당 2회)",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "불 원소",
+    "card_type": "장비 카드",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "불 원소",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "특성",
+      "마도"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">빠른 행동</span>: 아군 <span style=\"color:#FFFFFFFF\">클레</span>에게 장착한다.<br/>클레에게 <span style=\"color:#FFFFFFFF\">폭렬 불꽃</span>을 부착한다.<br/><span style=\"color:#FFFFFFFF\">부착 캐릭터가 <span style=\"color:#FFFFFFFF\">강공격</span> 발동 후:</span> <span style=\"color:#FF9999FF\">불 원소 피해</span>를 2pt 준다. (턴당 2회)<br/>(카드 덱에 클레가 있어야만 카드 덱에 추가 가능)"
+    }
+  ]
+}

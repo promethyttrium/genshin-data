@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Flamingo",
   "description": "Dũng sĩ đến từ núi cao, bảo vệ bộ tộc tuần tra trên vách núi dựng đứng.\\nChiến binh lĩnh hội chân lý của sức mạnh từ những đòn tấn công móng vuốt của Saurian biết bay, sở hữu cú đá từ trên cao không thể xem thường.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

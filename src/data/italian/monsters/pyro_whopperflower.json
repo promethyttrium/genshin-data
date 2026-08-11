@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Mimik_Fire",
   "description": "Un mostro vegetale mimetico che attacca senza preavviso e usa il potere di Pyro per cacciare la sua preda.\\nIl mondo di Teyvat ospita varie piante infuse di elementi. Avendo acquisito un maggiore intelletto, anche i loro \"bisogni nutrizionali\" sono aumentati notevolmente...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

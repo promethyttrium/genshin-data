@@ -313,6 +313,11 @@
       "name": "Fagottini alla frutta"
     },
     {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
+    },
+    {
       "_id": 3901,
       "id": "crisp_croissant_combo",
       "name": "Croissant fragrante con caffè"
@@ -400,6 +405,5 @@
   ],
   "source": [
     "Lavorato"
-  ],
-  "rarity": 0
+  ]
 }

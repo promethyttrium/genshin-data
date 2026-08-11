@@ -9,9 +9,11 @@
     "hp": 11,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Su",
+    "weapon": "Diğer Silahlar",
     "faction": [
-      null,
-      null
+      "Canavar",
+      "Kutsanmış Canavar"
     ],
     "talent_card": {
       "_id": 9242,
@@ -28,8 +30,10 @@
     {
       "id": "fang_bite",
       "name": "Derin Isırık",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -48,8 +52,10 @@
     {
       "id": "sawtoothed_surge",
       "name": "Testere Dalgası",
-      "desc": "? ? verir, elindeki en yüksek <span style=\"color:#FFFFFFFF\">Mevcut Element Zarı Maliyeti</span>ne sahip en fazla 1 kartı destenin en altına koyar ve ardından 1 <span style=\"color:#FFFFFFFF\">Kemik Kıranın Enerji Bloku</span> oluşturup eline ekler.",
-      "skillTag": [],
+      "desc": "3 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir, elindeki en yüksek <span style=\"color:#FFFFFFFF\">Mevcut Element Zarı Maliyeti</span>ne sahip en fazla 1 kartı destenin en altına koyar ve ardından 1 <span style=\"color:#FFFFFFFF\">Kemik Kıranın Enerji Bloku</span> oluşturup eline ekler.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -62,8 +68,10 @@
     {
       "id": "reptilian_rage",
       "name": "Ejderan Öfkesi",
-      "desc": "? ? verir, ardından en fazla 3 <span style=\"color:#FFFFFFFF\">Kemik Kıranın Enerji Bloku</span> kartına <span style=\"color:#FFFFFFFF\">Dışarı Atma</span> uygulanır. <span style=\"color:#FFFFFFFF\">Dışarı Atma</span> uygulanan her kart için takımında en fazla Hasar alan karaktere 1 Can yenilenir ve o karakterin Maks. Canı 1 artar.",
-      "skillTag": [],
+      "desc": "4 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir, ardından en fazla 3 <span style=\"color:#FFFFFFFF\">Kemik Kıranın Enerji Bloku</span> kartına <span style=\"color:#FFFFFFFF\">Dışarı Atma</span> uygulanır. <span style=\"color:#FFFFFFFF\">Dışarı Atma</span> uygulanan her kart için takımında en fazla Hasar alan karaktere 1 Can yenilenir ve o karakterin Maks. Canı 1 artar.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -83,7 +91,9 @@
       "id": "consecrated_senses",
       "name": "Kutsanmış Hisler",
       "desc": "(Pasif) Bir <span style=\"color:#FFFFFFFF\">Kemik Kıranın Enerji Bloku</span> kartı oynadıktan veya karta <span style=\"color:#FFFFFFFF\">Dışarı Atma</span> uyguladıktan sonra takımında en fazla Hasar alan karakter için 1 Can yenilenir.",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

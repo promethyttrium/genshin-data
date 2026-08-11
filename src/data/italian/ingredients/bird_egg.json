@@ -185,6 +185,21 @@
       "name": "Torta Midsommar"
     },
     {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Okroska del regno innevato"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
+    },
+    {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "Fiori Palla di neve sui campi innevati"
+    },
+    {
       "_id": 3902,
       "id": "delights_of_wondrous_wanderings",
       "name": "Prelibatezze di viaggi meravigliosi"
@@ -237,6 +252,5 @@
   ],
   "source": [
     "Presente in natura"
-  ],
-  "rarity": 0
+  ]
 }

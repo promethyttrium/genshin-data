@@ -1,0 +1,158 @@
+{
+  "_id": 25140101,
+  "id": "immortal_construct",
+  "monsterId": 25140101,
+  "name": "Creación Derivada Inmortal",
+  "specialNames": [
+    "Cuerpo defectuoso de la pluma fuegoeterna"
+  ],
+  "investigation": {
+    "investigationId": 97,
+    "name": "Creación Derivada Inmortal",
+    "categoryType": "Boss",
+    "categoryText": "Jefes",
+    "description": "Un subproducto creado para llevar a cabo un plan egoísta.\\nDado que el cuerpo que servía de receptáculo ya perdió su función, ahora vaga por todas partes como una bestia mutilada y desprovista de razón."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Zharptitsa_02",
+  "rewardPreviewId": 15213,
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP de Aventura",
+      "count": 200
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP de Amistad"
+    },
+    {
+      "_id": 113090,
+      "id": "unscorched_blossom_branch",
+      "name": "Rama florida inmortal no chamuscada",
+      "count": 2.556
+    },
+    {
+      "_id": 104114,
+      "id": "agnidus_agate_gemstone",
+      "name": "Ágata agnidus"
+    },
+    {
+      "_id": 104113,
+      "id": "agnidus_agate_chunk",
+      "name": "Trozo de ágata agnidus"
+    },
+    {
+      "_id": 104112,
+      "id": "agnidus_agate_fragment",
+      "name": "Fragmento de ágata agnidus"
+    },
+    {
+      "_id": 104111,
+      "id": "agnidus_agate_sliver",
+      "name": "Pedacito de ágata agnidus"
+    },
+    {
+      "_id": 400089,
+      "id": "gladiators_finale",
+      "name": "Final del Gladiador",
+      "rarity": 5
+    },
+    {
+      "_id": 400099,
+      "id": "wanderers_troupe",
+      "name": "Orquesta del Errante",
+      "rarity": 5
+    },
+    {
+      "_id": 400088,
+      "id": "gladiators_finale",
+      "name": "Final del Gladiador",
+      "rarity": 4
+    },
+    {
+      "_id": 400098,
+      "id": "wanderers_troupe",
+      "name": "Orquesta del Errante",
+      "rarity": 4
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Instructor",
+      "rarity": 4
+    },
+    {
+      "_id": 400128,
+      "id": "prayers_for_illumination",
+      "name": "Ritual de la Iluminación",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Instructor",
+      "rarity": 3
+    },
+    {
+      "_id": 400127,
+      "id": "prayers_for_illumination",
+      "name": "Ritual de la Iluminación",
+      "rarity": 3
+    },
+    {
+      "_id": 400047,
+      "id": "adventurer",
+      "name": "Aventurero",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestias exóticas",
+  "filename_icon": "UI_MonsterIcon_Zharptitsa_02",
+  "description": "Un subproducto creado por el alquimista Koschéi durante la creación del individuo denominado “ave de fuego”.\\nEs posible que este sombrío alquimista tuviera la costumbre de que, una vez que el espécimen de un mismo grupo salía bien, el resto fuera desechado o descartado sin mayor consideración.\\nEsta criatura derivada, que debería haberse fusionado con cierto poder para alcanzar su forma completa, ahora solo puede vagar eternamente por desfiladeros como una bestia incompleta y carente de intelecto.",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.5,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 421.104,
+      "attack": 100.48,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

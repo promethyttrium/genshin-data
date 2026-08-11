@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Băng",
+    "weapon": "Pháp Khí",
     "faction": [
-      null
+      "Natlan"
     ],
     "talent_card": {
       "_id": 7823,
@@ -29,8 +31,10 @@
     {
       "id": "shadowstealing_spirit_vessel",
       "name": "Hồn Đêm Bắt Ảnh",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm <span style=\"color:#99FFFFFF\">Sát Thương Nguyên Tố Băng</span>.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "dawnfrost_darkstar",
       "name": "Sương Trú Hắc Tinh",
-      "desc": "Gây ? điểm ?.<br/>Bản thân vào <span style=\"color:#FFFFFFFF\">Dạ Hồn Chúc Phúc</span> và nhận 1 <span style=\"color:#FFFFFFFF\">điểm Dạ Hồn</span>. Sinh ra 1 điểm <span style=\"color:#FFFFFFFF\">Khiên Opal</span> và <span style=\"color:#FFFFFFFF\">Itzpapa</span>. (Nhân vật sau khi vào <span style=\"color:#FFFFFFFF\">Dạ Hồn Chúc Phúc</span> sẽ không thể dùng kỹ năng này)",
-      "skillTag": [],
+      "desc": "Gây 1 điểm <span style=\"color:#99FFFFFF\">Sát Thương Nguyên Tố Băng</span>.<br/>Bản thân vào <span style=\"color:#FFFFFFFF\">Dạ Hồn Chúc Phúc</span> và nhận 1 <span style=\"color:#FFFFFFFF\">điểm Dạ Hồn</span>. Sinh ra 1 điểm <span style=\"color:#FFFFFFFF\">Khiên Opal</span> và <span style=\"color:#FFFFFFFF\">Itzpapa</span>. (Nhân vật sau khi vào <span style=\"color:#FFFFFFFF\">Dạ Hồn Chúc Phúc</span> sẽ không thể dùng kỹ năng này)",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "edict_of_entwined_splendor",
       "name": "Sắc Lệnh Lộng Lẫy",
-      "desc": "Gây ? điểm ?, gây 1 điểm <span style=\"color:#FFFFFFFF\">Sát Thương Xuyên Thấu</span> cho tất cả nhân vật dự bị phe địch. Nếu có thể, sẽ nhận 2 <span style=\"color:#FFFFFFFF\">điểm Dạ Hồn</span>.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#99FFFFFF\">Sát Thương Nguyên Tố Băng</span>, gây 1 điểm <span style=\"color:#FFFFFFFF\">Sát Thương Xuyên Thấu</span> cho tất cả nhân vật dự bị phe địch. Nếu có thể, sẽ nhận 2 <span style=\"color:#FFFFFFFF\">điểm Dạ Hồn</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -84,7 +92,9 @@
       "id": "songs_of_profound_mystery",
       "name": "Lời Ca Ẩn Mật",
       "desc": "<span style=\"color:#FFFFFFFF\">Sau khi phe ta tiến hành <span style=\"color:#FFFFFFFF\">Lựa Chọn</span> hoặc gây sát thương phản ứng nguyên tố:</span> Nếu có thể, sẽ nhận 1 <span style=\"color:#FFFFFFFF\">điểm Dạ Hồn</span>. (Mỗi hiệp 1 lần)",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Bị Động"
+      ],
       "points": []
     }
   ]

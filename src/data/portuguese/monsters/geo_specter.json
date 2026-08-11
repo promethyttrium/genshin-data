@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "Coração Espectral",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "Casca Espectral",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Vida Elemental",
   "filename_icon": "UI_MonsterIcon_Sylph_Rock_01",
   "description": "Um monstro que nasce de uma alta concentração de Geo que consegue flutuar no ar.\\nOs Espectros Geo imitam os frutos de certas plantas quando suas asas estão fechadas juntas. Dessa forma, eles são chamados por alguns contos antigos como sendo o fruto de uma árvore gigante no céu, e são considerados como tendo um misterioso valor medicinal.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

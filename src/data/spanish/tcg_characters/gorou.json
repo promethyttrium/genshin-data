@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Geo",
+    "weapon": "Arco",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 4764,
@@ -29,8 +31,10 @@
     {
       "id": "ripping_fang_fletching",
       "name": "Flecha resquebrajadora",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -49,8 +53,10 @@
     {
       "id": "inuzaka_allround_defense",
       "name": "Defensa integral canina",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y crea un <span style=\"color:#FFFFFFFF\">estandarte del general</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#FFE699FF\">Daño Geo</span> y crea un <span style=\"color:#FFFFFFFF\">estandarte del general</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -63,8 +69,10 @@
     {
       "id": "juuga_forward_unto_victory",
       "name": "Colmillo de la victoria",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?, crea un <span style=\"color:#FFFFFFFF\">estandarte del general</span> y genera el efecto de <span style=\"color:#FFFFFFFF\">gloria del general</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#FFE699FF\">Daño Geo</span>, crea un <span style=\"color:#FFFFFFFF\">estandarte del general</span> y genera el efecto de <span style=\"color:#FFFFFFFF\">gloria del general</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1106,

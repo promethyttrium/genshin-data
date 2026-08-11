@@ -1,0 +1,21 @@
+{
+  "_id": 340002,
+  "id": "hallowed_fetters_sublimation",
+  "name": "ตรวนศักดิ์สิทธิ์ - ร่างบริสุทธิ์",
+  "description": "อาวุธลวงตาอันเปล่งประกายด้วยพลังแห่ง \"เวลา\" ที่ปรากฏขึ้นจากส่วนลึกของกระแสพลัง สามารถเปลี่ยนรูปร่างตามประเภทธาตุของผู้ถือครอง กล่าวกันว่าในดินแดนอาณาจักรโบราณนั้น มันเคยมีชื่อว่า \"Gleipnir\" และถือครองโดยคนบาปผู้ก้าวข้าม",
+  "rarity": 5,
+  "type": {
+    "id": "Catalyst",
+    "name": "สื่อเวท"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "ร่างมายาเจิดจรัส - ก้าวข้าม (ร่างบริสุทธิ์)",
+    "priority": 1
+  },
+  "item_id": 341402,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphIlia_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphIlia_Great"
+}

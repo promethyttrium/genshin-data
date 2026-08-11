@@ -8,16 +8,20 @@
     "hp": 7,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Altre armi",
     "faction": [
-      null
+      "Mostro"
     ]
   },
   "skills": [
     {
       "id": "spore_bullet",
       "name": "Bomba di spore",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 1 <span style=\"color:#80C0FFFF\">DAN da Hydro</span>.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -36,8 +40,10 @@
     {
       "id": "raging_breath",
       "name": "Furialito",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#80C0FFFF\">DAN da Hydro</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -50,8 +56,10 @@
     {
       "id": "charging_blast",
       "name": "Assalto esplosivo",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 5 <span style=\"color:#80C0FFFF\">DAN da Hydro</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -71,7 +79,9 @@
       "id": "state_change",
       "name": "Cambio di stato",
       "desc": "(Passiva) All'inizio del duello il personaggio si trova nello stato di <span style=\"color:#FFFFFFFF\">Vantaggio del terreno</span>.<br/>Quando il personaggio subisce <span style=\"color:#FF9999FF\">DAN da Pyro</span>, diventa <span style=\"color:#FFFFFFFF\">Scottatura</span>.<br/>Quando il personaggio subisce <span style=\"color:#FFACFFFF\">DAN da Electro</span>, diventa <span style=\"color:#FFFFFFFF\">Attivato</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

@@ -1,0 +1,21 @@
+{
+  "_id": 340002,
+  "id": "hallowed_fetters_sublimation",
+  "name": "Himmlische Fesseln – Vollendung",
+  "description": "Eine schimmernde, illusorische Waffe aus den Tiefen des Flusses der Elemente, die die Kraft der „Zeit“ aussendet. Sie kann sich je nach Elementartyp ihres Trägers wandeln. Es wird gesagt, dass sie einst den Namen „Gleipnir“ trug, als sie von einem transzendenten Sünder in einem uralten Reich getragen wurde.",
+  "rarity": 5,
+  "type": {
+    "id": "Catalyst",
+    "name": "Katalysator"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Strahlendes Trugbild – Transzendenz (Vollendung)",
+    "priority": 1
+  },
+  "item_id": 341402,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphIlia_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphIlia_Great"
+}

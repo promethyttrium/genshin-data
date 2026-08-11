@@ -1,0 +1,30 @@
+{
+  "_id": 104370,
+  "id": "philosophies_of_fortitude",
+  "name": "Metanet Felsefesi",
+  "description": "Yetenek Seviyesi Yükseltme Malzemesi.\\nMetanet, donmuş diyarın belirleyici niteliğidir.\\nBizzat hayatın refahını doğurur. Tıpkı narin bir tohumun kar fırtınalarının ortasında inatla çiçek açmayı seçmesi gibi, buranın halkı da dondurucu soğuğa asla boyun eğmemiştir. Bu medeniyet yüzyıllar süren çetin kışlara tanık olmuştur ancak yine de mevsimler boyu serpilen Buz Perisi Çiçeği gibi canlılığını korumaktadır.",
+  "source": [
+    "Yer Tutucu - Üretilebilir Miktar: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104369,
+        "id": "guide_to_fortitude",
+        "name": "Metanet Rehberi",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Ustalık Zindanı: İnziva IV",
+  "domainId": "domain_of_mastery_hermitage_iv",
+  "days": [
+    "Salı",
+    "Cuma",
+    "Pazar"
+  ]
+}

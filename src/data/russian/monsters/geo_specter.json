@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "Призрачное сердце",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "Призрачная оболочка",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Элементальные существа",
   "filename_icon": "UI_MonsterIcon_Sylph_Rock_01",
   "description": "Монстр, рожденный из высокой концентрации Гео, который может парить в воздухе.\\nГео призраки имитируют плоды растений, когда их крылья сомкнуты вместе. В некоторых древних легендах они считаются плодом гигантского небесного древа и обладают магической лечебной ценностью.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

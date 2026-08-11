@@ -14,7 +14,6 @@
   "filename_icon": "UI_MonsterIcon_WildHunt_Elite",
   "description": "Kapkara sis çöktüğünde buz tutmuş çöllerde dolaşan bir hortlak. Ortaya çıkışları, daha kötü felaketlerin habercisidir.\\nKaybolmuş kadim bir krallığın nice kahramanı, kuzeyin buzla kaplı topraklarında yatıyor. Geçmişin kalıntıları çoktan silinip gitmiş olsa da bu asil ruhlar hâlâ altın vatanlarını korumaya devam ediyor. Hiçlik kirliliğinin etkisiyle uyanan bu savaşçılar, artık topraklarına giren herkesi av olarak görüyor.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

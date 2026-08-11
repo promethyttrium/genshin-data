@@ -64,19 +64,19 @@
       "_id": 112094,
       "id": "operatives_constancy",
       "name": "従者の時々刻々",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112093,
       "id": "operatives_standard_pocket_watch",
       "name": "従者の制式懐中時計",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112092,
       "id": "old_operatives_pocket_watch",
       "name": "古びた従者の懐中時計",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -127,7 +127,6 @@
   "categoryText": "ファデュイ",
   "filename_icon": "UI_MonsterIcon_Fatuus_Escadron_Wind",
   "description": "ファデュイ所属の精鋭特別部隊。\\n従者はファデュイにおける通常の役職ではない。命令や任務の内容に応じて、彼女たちは兵士と連携したり、単独または各地の工作員と共に諜報、対偵察、護衛、抹殺などの任務を行う。それらの特殊な任務のために、従者には往々にして様々な技能や才能が必要とされる。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

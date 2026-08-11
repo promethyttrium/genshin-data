@@ -28,7 +28,6 @@
   "categoryText": "Canavar Makinaları",
   "filename_icon": "UI_MonsterIcon_Apparatus_Enigma_BionicNettler",
   "description": "Farklı hedeflere uyum sağlamak için farklı biçimler ve işlevler kazanmış, tuhaf şekilli bir dizi makina.\\nEfsaneye göre bunlar, yok edilmiş bir ulustan geriye kalan savaş makinalarıdır. Bu makinaların tasarımı, daha yaygın görülen Harabe Muhafızlarına kıyasla biyomimetik çalışmalar için daha büyük öneme sahiptir. Derin denizlerde yaşayan bazı yaşam formlarının yapılarının ve hareketlerinin neden taklit edildiği tam olarak bilinmiyor. Yine de onlara fazla yaklaşmamakta fayda var.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

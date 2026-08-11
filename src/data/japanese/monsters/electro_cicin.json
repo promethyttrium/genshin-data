@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_Cicin_Thunder_01",
   "description": "雷元素をわずかに導く小さな生き物。\\n他の蛍類と共に「飛蛍」と呼ばれる。力は小さいが、特定の環境下である程度ダメージを起こすことができる。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

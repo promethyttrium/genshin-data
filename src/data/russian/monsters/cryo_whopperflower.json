@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Mimik_Ice",
   "description": "Миметическое растение-монстр, которое появляется из ниоткуда и использует элемент Крио в бою.\\nЭти растения прячутся под поверхностью земли и устраивают засаду на ничего не подозревающую добычу. По прошествии лет, при достаточном питании и благоприятной окружающей среде, они могут пустить корни и превратиться в гигантский Крио папоротник...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

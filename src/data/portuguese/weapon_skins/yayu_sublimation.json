@@ -1,0 +1,21 @@
+{
+  "_id": 350004,
+  "id": "yayu_sublimation",
+  "name": "Yayu - Sublimação",
+  "description": "Uma gloriosa arma ilusória que surgiu das profundezas das Linhas Ley, brilhando com a luz da \"Eternidade\". Ela pode mudar sua aparência com base no Tipo Elemental de seu usuário. Dizem que, numa idade antiga, muito além de toda lembrança, um enviado divino dos céus concedeu esse arco longo dourado ao sumo-sacerdote de Lang-Gan, concedendo a ele o direito de liderar a cidade sagrada antes de ser mergulhada no abismo.",
+  "rarity": 5,
+  "type": {
+    "id": "Bow",
+    "name": "Arco"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1004,
+    "name": "Metamorfose Radiante: Eternidade - Sublimação",
+    "priority": 2
+  },
+  "item_id": 341504,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Bow_MorphYayu_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Bow_MorphYayu_Great"
+}

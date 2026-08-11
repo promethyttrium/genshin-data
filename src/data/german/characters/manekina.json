@@ -8,8 +8,8 @@
     "name": "Einhänder"
   },
   "element": {
-    "id": "none",
-    "name": "Leer"
+    "id": "",
+    "name": ""
   },
   "gender": {
     "id": "female",
@@ -24,8 +24,8 @@
   },
   "rarity": 5,
   "birthday": [
-    0,
-    0
+    null,
+    null
   ],
   "constellation": "——",
   "domain": "Ruinen in Flammen",

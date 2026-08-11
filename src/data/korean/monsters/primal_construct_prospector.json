@@ -13,7 +13,6 @@
   "categoryText": "자동 장치",
   "filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
   "description": "황량한 사막에서 길을 잃은 고대 유적의 수호자. 군왕의 꿈을 방해하는 모든 자를 응징할 만큼 강력하다.\\n모래바다의 주인은 꿈속의 낙원을 만들기 위해, 한때 금단의 지식을 탐구했으며 이 신비한 기계들이 그 지식의 창조물일지도 모른다.\\n오늘날 「낙원」은 사라진 지 오래지만, 이 기계에 새겨진 주문만은 세상 사람들이 잊어버린 꿈과 약속을 기억하고 있다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

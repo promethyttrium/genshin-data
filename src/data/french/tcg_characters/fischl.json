@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 3,
+    "element": "Électro",
+    "weapon": "Arc",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3227,
@@ -29,8 +31,10 @@
     {
       "id": "bolts_of_downfall",
       "name": "Flèche de culpabilité",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -49,8 +53,10 @@
     {
       "id": "nightrider",
       "name": "Ailes de surveillance nocturne",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et invoque un <span style=\"color:#FFFFFFFF\">Oz</span>.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#FFACFFFF\">DGT Électro</span> et invoque un <span style=\"color:#FFFFFFFF\">Oz</span>.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "midnight_phantasmagoria",
       "name": "Incarnation de la nuit",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et inflige <span style=\"color:#FFFFFFFF\">2 pts de <span style=\"color:#FFFFFFFF\">DGT de perforation</span></span> à tous les personnages adverses en attente.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts de <span style=\"color:#FFACFFFF\">DGT Électro</span> et inflige <span style=\"color:#FFFFFFFF\">2 pts de <span style=\"color:#FFFFFFFF\">DGT de perforation</span></span> à tous les personnages adverses en attente.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1104,

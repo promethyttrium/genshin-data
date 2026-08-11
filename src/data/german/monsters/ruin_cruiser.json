@@ -28,7 +28,6 @@
   "categoryText": "Automata",
   "filename_icon": "UI_MonsterIcon_Apparatus_Enigma_BionicDrone",
   "description": "Eine bizarre Maschine, die, um ein bestimmtes Ziel zu erreichen, über bestimmte Formen und Fähigkeiten verfügt.\\nDie Legende besagt, dass dies eine Kriegsmaschine ist, die von einem bereits zerstörten Königreich zurückgelassen wurde. Im Vergleich zu den weiter verbreiteten „Ruinenwächtern“ hat diese eine stärkere bionische Bedeutung in ihrer Form. Die dezentrale Gestaltung und ihr Kampfmuster scheinen einen Schwarm zu imitieren, der sich in verschiedene Formen verwandeln kann, um aus unterschiedlichen Richtungen anzugreifen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

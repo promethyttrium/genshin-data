@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Sword",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3210,
@@ -29,8 +31,10 @@
     {
       "id": "ceremonial_bladework",
       "name": "Ceremonial Bladework",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "frostgnaw",
       "name": "Frostgnaw",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 3 <span style=\"color:#99FFFFFF\">Cryo DMG</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "glacial_waltz",
       "name": "Glacial Waltz",
-      "desc": "Deals ? ?, creates 1 <span style=\"color:#FFFFFFFF\">Icicle</span>.",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#99FFFFFF\">Cryo DMG</span>, creates 1 <span style=\"color:#FFFFFFFF\">Icicle</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1101,

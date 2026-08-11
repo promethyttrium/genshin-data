@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Scorpion_Sacred_Electric",
   "description": "Loài động vật chân đốt bị biến dị do nuốt chửng vật thể sống vĩ đại.\\nMỗi sinh vật có nguyên tắc tiến hóa của riêng mình, còn nguyên tắc tiến hóa của Thánh Hóa Thú chính là có đủ vận may, phát hiện được di hài của sinh linh mạnh mẽ đã chết đi trong quá khứ xa xưa trước đồng loại của mình. Sự cộng sinh của động vật và con người sâu sắc hơn nhiều so với những gì con người thừa nhận.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

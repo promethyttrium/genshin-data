@@ -1,0 +1,32 @@
+{
+  "_id": 214012,
+  "id": "phantasmal_nocturne",
+  "shareId": 616,
+  "name": "Phantasmal Nocturne",
+  "title": "Fischl: Phantasmal Nocturne",
+  "desc": "\"Namun, meskipun semua persoalan bersifat tak terduga, ada yang lebih tak terduga daripada yang lain. Misalnya, beberapa penyihir kecil hanya ditugaskan untuk menemukan cara menggunakan cahaya awal untuk menciptakan dunia materi mereka sendiri, sementara yang lain ditugaskan untuk memberikan \"jiwa\" pada sesuatu yang hanya ada dalam imajinasi mereka.\"",
+  "in_play_description": "Saat <span style=\"color:#FFFFFFFF\">Oz</span> berada di arena, <span style=\"color:#FFACFFFF\">Reaksi Terkait Electro</span> milikmu mengakibatkan DMG +1. (3 kali setiap Ronde)",
+  "attributes": {
+    "cost": 2,
+    "cost_type": "Electro",
+    "card_type": "Kartu Equipment",
+    "energy": [
+      {
+        "_id": 1104,
+        "id": "electro",
+        "type": "Electro",
+        "count": 2
+      }
+    ],
+    "tags": [
+      "Talenta",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Aksi Cepat</span>: Hanya dapat dikenakan oleh <span style=\"color:#FFFFFFFF\">Fischl</span> milikmu.<br/>Memanggil <span style=\"color:#FFFFFFFF\">Oz</span>.<br/>Saat <span style=\"color:#FFFFFFFF\">Oz</span> berada di arena, <span style=\"color:#FFACFFFF\">Reaksi Terkait Electro</span> milikmu mengakibatkan DMG +1. (3 kali setiap Ronde)<br/>(Kamu harus punya Fischl di dalam Dek-mu untuk menambahkan kartu ini ke dalam Dek)"
+    }
+  ]
+}

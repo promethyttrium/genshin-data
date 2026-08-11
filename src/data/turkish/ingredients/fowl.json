@@ -155,6 +155,11 @@
       "name": "Dağlar, Deniz ve Gökyüzü"
     },
     {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Snezhnaya Usulü Şaşlık"
+    },
+    {
       "_id": 4002,
       "id": "golden_fried_chicken",
       "name": "Çıtır Tavuk"
@@ -204,6 +209,5 @@
   ],
   "source": [
     "Hayvanlardan düşer."
-  ],
-  "rarity": 0
+  ]
 }

@@ -8,16 +8,20 @@
     "hp": 4,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Kryo",
+    "weapon": "Andere Waffen",
     "faction": [
-      null
+      "Monster"
     ]
   },
   "skills": [
     {
       "id": "ram",
       "name": "Rammen",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -36,8 +40,10 @@
     {
       "id": "jumping_slam",
       "name": "Gesprungener Aufschlag",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 4 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -57,7 +63,9 @@
       "id": "elemental_sedimentation_cryo",
       "name": "Elementarablagerung – Kryo",
       "desc": "Passiv – Erhält zu Beginn des Kampfes <span style=\"color:#FFFFFFFF\">Elementarwesen – Kryo</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

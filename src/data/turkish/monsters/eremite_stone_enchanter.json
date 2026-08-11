@@ -31,22 +31,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "İşlemeli Kırmızı İpek",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Soluk Kırmızı Saten",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Eremite_Male_Strong_Katar",
   "description": "Çölden gelen paralı asker gruplarının bir üyesi. Verilen ücret yeterli olduğu sürece herkes için çalışmaya razıdır.\\nKadim zamanlarda silahlarını kuşanmış bu güvenilir savaşçılar Kavurucu Güneşin Efendisinin şahsi muhafızlarıydı. Belki de o yüzden bugün bile altın güneş gibi parlamaya devam ediyorlardır.\\nKullandıkları silahların içine uğursuz, parçalanmış ruhlar mühürlenmiştir ve ancak tehlike anında uyanırlar. Bu silahlar uyandığında yalnızca kaybedenlerin çığlıklarıyla susturulabilirler. Kaybedenin silahı kullananlar mı yoksa onların düşmanları mı olduğunun bir önemi yoktur.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Epsilon_Wind",
   "description": "一定の知能を有する胞子生物。とても高い環境適応能力を持っている。\\n伸びる体で素早く栄養を吸収するキノコン。傘のような形は、風の流れに応じて回転する。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

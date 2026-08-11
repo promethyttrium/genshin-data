@@ -1,0 +1,29 @@
+{
+  "_id": 114087,
+  "id": "clarion_of_the_pale_star_army",
+  "name": "Soluk Yıldız Ordusunun Çağrısı",
+  "description": "\"Düşmanımız Monomakh, sarayını vadinin ötesine inşa etti; demek ki bizimle boy ölçüşebilme konusunda kendine tamamen güveniyor.\"<br/>\"Hal böyleyken, ona karşı son derece temkinli olmalıyız. Hızlı bir zafer kazanma düşüncesi artık rafa kaldırılmalıdır.\"<br/>\"Fakat bunun bir önemi yok. Bize yol gösteren bilgelik sayesinde Kral, her türlü zorluğun üstesinden gelmek ve fevkalade yeni bir çağı müjdelemek için klanlarla omuz omuza duracaktır!\"",
+  "source": [
+    "Yer Tutucu - Üretilebilir Miktar: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114086,
+        "id": "muster_of_the_pale_star_army",
+        "name": "Soluk Yıldız Ordusunun İçtiması",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Döküm Zindanı: Lanetli Saplantının Yara İzleri",
+  "days": [
+    "Pazartesi",
+    "Perşembe",
+    "Pazar"
+  ]
+}

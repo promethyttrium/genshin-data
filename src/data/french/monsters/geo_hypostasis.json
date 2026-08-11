@@ -13,7 +13,6 @@
   "categoryText": "Entités élémentaires",
   "filename_icon": "UI_MonsterIcon_Effigy_Rock",
   "description": "Nom de code « Grimor », une entité Géo de niveau supérieur.\\nLes Hypostases sont des structures extrêmement compactes à la masse élevée.\\nL'énergie élémentaire ainsi concentrée forme une coquille rigide autour du cœur de l'Hypostase, ne laissant que ce dernier réagir aux stimuli élémentaires.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

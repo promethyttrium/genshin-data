@@ -1,0 +1,16 @@
+{
+  "_id": 390001,
+  "id": "unbreakable_durandarte",
+  "name": "불멸·듀란달",
+  "description": "지맥 가장 깊은 곳에서 나타난 무기의 형상. 과거 「듀란달」이라 불렸던 이 무기는 한때 순백의 기사가 소지했다.\\n고대어로 그 이름은 「영원히 부서지지 않는 칼날」을 뜻한다. 그가 착용했던 검처럼, 그가 굳게 믿던 기사도 또한 결코 부서지지 않았다. 본래 순백이었던 강철이 오늘날 칠흑빛으로 물들 때까지도",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "양손검"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341901,
+  "icon_path": "UI_EquipIcon_Claymore_VarkaTunkeldegen",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_VarkaTunkeldegen"
+}

@@ -14,14 +14,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Хиличурлы",
   "filename_icon": "UI_MonsterIcon_Shaman_Grass_01",
   "description": "Умудрённый опытом бормочущий хиличурл, пробуждающий могущество Дендро.\\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Под маской скрывается злая гримаса, а злобный шёпот плетётся словно отравленный плющ.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

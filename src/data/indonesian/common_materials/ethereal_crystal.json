@@ -1,0 +1,24 @@
+{
+  "_id": 112147,
+  "id": "ethereal_crystal",
+  "name": "Ethereal Crystal",
+  "description": "Sebuah pecahan sisik kristal yang pernah tumbuh di tubuh peri tersebut. Meskipun sekarang hanya berupa cangkang kosong, orang masih dapat merasakan gema kekuatan unik yang pernah bersemayam di dalamnya.",
+  "source": [
+    "Dijatuhkan oleh Fae of Crystalline Flesh Lv. 40+",
+    "Penukaran Stardust",
+    "Placeholder - Jumlah yang Bisa Di-Craft: {0}"
+  ],
+  "rarity": 2,
+  "craft": {
+    "cost": 25,
+    "items": [
+      {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Ethereal Glimmershard",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

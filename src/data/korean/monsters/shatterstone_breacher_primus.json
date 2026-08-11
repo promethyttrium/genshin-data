@@ -13,7 +13,6 @@
   "categoryText": "심연",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_02",
   "description": "주로 엘리나스에서 등장하는 기이한 생명체.\\n우시아 또는 프뉴마 에너지와 만나면 매우 큰 자극을 받는 것 같다. 따라서 아주 강력한 공격성이나 침략성을 가지고 있지 않아도, 이러한 방법을 통해 균열계 원형체를 효과적으로 제거할 수 있는 듯하다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

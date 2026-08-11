@@ -36,7 +36,7 @@
       "_id": 113067,
       "id": "ensnaring_gaze",
       "name": "Ensnaring Gaze",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -171,7 +171,6 @@
   "categoryText": "Abyss",
   "filename_icon": "UI_MonsterIcon_TheAbyss_Dendrite",
   "description": "Monster Abyssal yang datang dari dunia terdistorsi yang gelap, memiliki bentuk seperti tanaman.\\nMonster-monster yang terdistorsi ini mampu menyusup jauh ke dalam perut bumi, mengekstrak memori untuk ditiru dan dikendalikan. Melalui proses distorsi memori masa lalu ke dalam bentuk yang lebih abstrak dan kotor, mereka perlahan-lahan semakin dekat ke inti Irminsul dan mengancam untuk merusak keberadaannya. Dikatakan bahwa mereka bekerja terus-menerus untuk merusak banyak warna cahaya dan hanya menyisakan informasi yang gelap gulita. Hipotesis semacam itu tampaknya diperkuat oleh bukti dari cabang-cabang yang mereka ulurkan ke luar, seolah-olah ingin menembus kekosongan itu sendiri ....",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

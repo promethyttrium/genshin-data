@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Other Human Factions",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Bisonsaurus",
   "description": "A warrior from the plains and a tribal guardian who watches over the golden fields.\\nThey are adept at using their horn-studded blades to strike at enemy weak spots — be careful not to let them detect any of yours.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -9,8 +9,10 @@
     "hp": 40,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Géo",
+    "weapon": "Autre arme",
     "faction": [
-      null
+      "Monstre"
     ],
     "talent_card": {
       "_id": 7227,
@@ -27,8 +29,10 @@
     {
       "id": "wolflords_strike",
       "name": "Frappe d'alpha",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -47,8 +51,10 @@
     {
       "id": "howling_riftcall",
       "name": "Rameutage de faille",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?, applique 2 cumuls de <span style=\"color:#FFFFFFFF\">corrosion dorée</span> au personnage choisi et invoque un <span style=\"color:#FFFFFFFF\">Crâne de faille</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#FFE699FF\">DGT Géo</span>, applique 2 cumuls de <span style=\"color:#FFFFFFFF\">corrosion dorée</span> au personnage choisi et invoque un <span style=\"color:#FFFFFFFF\">Crâne de faille</span>.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -61,8 +67,10 @@
     {
       "id": "golden_cankerbind",
       "name": "Ingérence dorée",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?, inflige 1 pt de <span style=\"color:#FFFFFFFF\">DGT de perforation</span> à tous les personnages adverses en attente et applique une <span style=\"color:#FFFFFFFF\">corrosion dorée</span> à tous les personnages adverses.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts de <span style=\"color:#FFE699FF\">DGT Géo</span>, inflige 1 pt de <span style=\"color:#FFFFFFFF\">DGT de perforation</span> à tous les personnages adverses en attente et applique une <span style=\"color:#FFFFFFFF\">corrosion dorée</span> à tous les personnages adverses.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1106,

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 3,
+    "element": "Pyro",
+    "weapon": "Mandoble",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3231,
@@ -29,8 +31,10 @@
     {
       "id": "tempered_sword",
       "name": "Espada templada",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,8 +53,10 @@
     {
       "id": "searing_onslaught",
       "name": "Filo ardiente",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?. Por cada tercera vez que se use esta habilidad en una ronda, inflige daño +2.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#FF9999FF\">Daño Pyro</span>. Por cada tercera vez que se use esta habilidad en una ronda, inflige daño +2.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "dawn",
       "name": "Amanecer",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y este personaje obtiene un <span style=\"color:#FFFFFFFF\">imbuimiento Pyro</span>.",
-      "skillTag": [],
+      "desc": "Inflige 8 pts. de <span style=\"color:#FF9999FF\">Daño Pyro</span> y este personaje obtiene un <span style=\"color:#FFFFFFFF\">imbuimiento Pyro</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1103,

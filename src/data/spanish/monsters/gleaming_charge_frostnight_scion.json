@@ -13,7 +13,6 @@
   "categoryText": "Seres elementales",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Electric",
   "description": "Un hermoso y grácil ser elemental que posee una gran afinidad con los elementos. Evolucionó hasta tener este aspecto tras exponerse a altas concentraciones del elemento Electro durante muchos años.\\nEsta es una de sus formas con el temperamento más violento. Como si estuviera controlando a un esclavo, puede manejar rayos capaces de despedazar el acero, de manera que cualquier lugar por el que pasen es marcado con la huella de una calamidad atronadora.\\nSegún las letanías del Lejano Norte que han sobrevivido hasta hoy en día, se trata de una criatura nacida de las bendiciones de la Luna Escarchada, un símbolo de la pureza de la fuente primigenia y del fulgor original. Tal vez esa sea la razón por la que rechazan a todo ser que se les acerca demasiado: porque no pueden soportar que su pureza se manche con los siete colores de la luz celeste.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

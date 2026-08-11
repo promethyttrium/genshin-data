@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_Cicin_Water_01",
   "description": "能夠稍微導引水元素的小型生物。\\n與其他的螢族生物通稱「飛螢」。飛螢對「霧虛草」這種罕見而奇妙的植物情有獨鍾，而愚人眾的術士據此開發了利用飛螢進行戰鬥的方法。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

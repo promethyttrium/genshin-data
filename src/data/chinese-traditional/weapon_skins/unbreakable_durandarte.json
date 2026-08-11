@@ -1,0 +1,16 @@
+{
+  "_id": 390001,
+  "id": "unbreakable_durandarte",
+  "name": "無毀·督蘭嘉德",
+  "description": "自地脈至深之處顯現的兵刃幻形，據說在過去曾以「督蘭嘉德」之名為純白的騎士所持有。\\n其名在古語中意為「永無損毀的鋒刃」。與他所佩戴的刀劍一樣，騎士所堅信的道途也從未彎折——無論那原本純白的鋼鐵如今已被如何染作漆黑。",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "雙手劍"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341901,
+  "icon_path": "UI_EquipIcon_Claymore_VarkaTunkeldegen",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_VarkaTunkeldegen"
+}

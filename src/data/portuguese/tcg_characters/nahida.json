@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Catalisador",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3854,
@@ -29,8 +31,10 @@
     {
       "id": "akara",
       "name": "Akara",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#7EC236FF\">Dano Dendro</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -49,8 +53,10 @@
     {
       "id": "all_schemes_to_know",
       "name": "Esquemas Universais",
-      "desc": "Causa ? pontos de ?. O alvo é afetado por <span style=\"color:#FFFFFFFF\">Semente Skandha</span>; se o personagem alvo antes de ser afetado já estava afetado por <span style=\"color:#FFFFFFFF\">Semente Skandha</span>, mudará para afetar todos os personagens inimigos com <span style=\"color:#FFFFFFFF\">Semente Skandha</span>.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de <span style=\"color:#7EC236FF\">Dano Dendro</span>. O alvo é afetado por <span style=\"color:#FFFFFFFF\">Semente Skandha</span>; se o personagem alvo antes de ser afetado já estava afetado por <span style=\"color:#FFFFFFFF\">Semente Skandha</span>, mudará para afetar todos os personagens inimigos com <span style=\"color:#FFFFFFFF\">Semente Skandha</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "all_schemes_to_know_tathata",
       "name": "Esquemas Universais: Tathata",
-      "desc": "Causa ? pontos de ?, afeta todos os personagens inimigos com <span style=\"color:#FFFFFFFF\">Semente Skandha</span>.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#7EC236FF\">Dano Dendro</span>, afeta todos os personagens inimigos com <span style=\"color:#FFFFFFFF\">Semente Skandha</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -77,8 +85,10 @@
     {
       "id": "illusory_heart",
       "name": "Coração Ilusório",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, gera <span style=\"color:#FFFFFFFF\">Santuário de Maya</span>.",
-      "skillTag": [],
+      "desc": "Causa 4 pontos de <span style=\"color:#7EC236FF\">Dano Dendro</span>, gera <span style=\"color:#FFFFFFFF\">Santuário de Maya</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1107,

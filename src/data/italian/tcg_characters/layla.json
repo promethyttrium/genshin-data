@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Spada",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 4760,
@@ -29,8 +31,10 @@
     {
       "id": "sword_of_the_radiant_path",
       "name": "Spada del Sentiero radioso",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,7 +54,9 @@
       "id": "nights_of_formal_focus",
       "name": "Concentrazione solenne",
       "desc": "Crea 1 <span style=\"color:#FFFFFFFF\">Scudo della Cortina onirica</span> e 1 <span style=\"color:#FFFFFFFF\">Stella cadente</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "dream_of_the_starstream_shaker",
       "name": "Culla dei sogni stellati",
-      "desc": "Infligge ? ?, invoca 1 <span style=\"color:#FFFFFFFF\">Onirisfera celestiale</span>.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#99FFFFFF\">DAN da Cryo</span>, invoca 1 <span style=\"color:#FFFFFFFF\">Onirisfera celestiale</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1101,

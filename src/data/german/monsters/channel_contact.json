@@ -1,0 +1,41 @@
+{
+  "_id": 25132801,
+  "id": "channel_contact",
+  "monsterId": 25132803,
+  "name": "Kanal-Kontakt",
+  "specialNames": [
+    "Kanal-Kontakt"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystische Bestien",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Beaver",
+  "description": "Ein listiger Volkodlak, der seine Handkanone als Baumstamm tarnt.\\nDa er sich hervorragend auf die Tarnung von Waffen und Waren versteht, werden ihm oft Missionen anvertraut, Güter zu transportieren oder Informationen zu übermitteln.\\nSeine Kanone hat er vermutlich in seiner Freizeit angefertigt. Manchmal verschießt er damit auch Signalraketen, die als Feuerwerk getarnt sind.\\nLass dich nicht von seinem Äußeren täuschen; in Wahrheit ist er eine äußerst gerissene und schlaue Fee.",
+  "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 12.801292,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

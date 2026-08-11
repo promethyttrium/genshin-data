@@ -1,0 +1,333 @@
+{
+  "_id": 12435,
+  "id": "forged_by_the_golden_melody",
+  "name": "Forged by the Golden Melody",
+  "description": "ดาบใหญ่ที่ประดับด้วยทองคำ ตามตำนานเล่าว่าในอดีตอันแสนไกลนั้น มันเคยเป็นอาวุธที่ช่างจูนเสียงผู้ยิ่งใหญ่ท่านหนึ่งโปรดปราน",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "ดาบใหญ่"
+  },
+  "domain": "เสียงสะท้อนของกระแสน้ำลึก",
+  "passive": "Day and Night in Counterpoint",
+  "bonus": "ทุก 10 วินาที ผู้สวมใส่จะบรรเลง \"บทเพลงประสานเสียง (Harmonic Movement)\" ที่มีเอฟเฟกต์สอดคล้องกันตามลำดับดังนี้: พลังโจมตีเพิ่มขึ้น <span>18%/22.5%/27%/31.5%/36%</span> / ความชำนาญธาตุเพิ่มขึ้น <span>120/150/180/210/240</span> หน่วย / ความเสียหายปฏิกิริยาประกายดาวเพิ่มขึ้น <span>28%/35%/42%/49%/56%</span> เอฟเฟกต์บทเพลงแต่ละชนิดจะเกิดขึ้นเป็นเวลา 10 วินาที เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้<br/>หลังจากทำให้เกิดปฏิกิริยาประกายดาว จะได้รับ \"Harmonic Movement: Contrapuntal\" ซึ่งจะคงอยู่เป็นเวลา 12 วินาที และมีผลเหมือนกับเอฟเฟกต์ Harmonic Movement ที่เกิดขึ้นเมื่อเกิดปฏิกิริยาประกายดาว เอฟเฟกต์นี้สามารถซ้อนทับกับเอฟเฟกต์ Harmonic Movement เดิมได้ และเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 12 วินาที",
+  "specialProp": "อัตราคริ",
+  "stats": {
+    "primary": "พลังโจมตีพื้นฐาน",
+    "secondary": "อัตราคริ",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 42,
+        "secondary": 6
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 109,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 135,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 205,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 231,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 266,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 292,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 327,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 353,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 388,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 414,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 449,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 475,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 510,
+        "secondary": 27.6
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114053,
+          "id": "dross_of_pure_sacred_dewdrop",
+          "name": "Dross of Pure Sacred Dewdrop",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112098,
+          "id": "ruined_hilt",
+          "name": "Ruined Hilt",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112080,
+          "id": "transoceanic_pearl",
+          "name": "Transoceanic Pearl",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114054,
+          "id": "sublimation_of_pure_sacred_dewdrop",
+          "name": "Sublimation of Pure Sacred Dewdrop",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112098,
+          "id": "ruined_hilt",
+          "name": "Ruined Hilt",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112080,
+          "id": "transoceanic_pearl",
+          "name": "Transoceanic Pearl",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114054,
+          "id": "sublimation_of_pure_sacred_dewdrop",
+          "name": "Sublimation of Pure Sacred Dewdrop",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112099,
+          "id": "splintered_hilt",
+          "name": "Splintered Hilt",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112081,
+          "id": "transoceanic_chunk",
+          "name": "Transoceanic Chunk",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114055,
+          "id": "spring_of_pure_sacred_dewdrop",
+          "name": "Spring of Pure Sacred Dewdrop",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112099,
+          "id": "splintered_hilt",
+          "name": "Splintered Hilt",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112081,
+          "id": "transoceanic_chunk",
+          "name": "Transoceanic Chunk",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114055,
+          "id": "spring_of_pure_sacred_dewdrop",
+          "name": "Spring of Pure Sacred Dewdrop",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112100,
+          "id": "stillsmoldering_hilt",
+          "name": "Still-Smoldering Hilt",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112082,
+          "id": "xenochromatic_crystal",
+          "name": "Xenochromatic Crystal",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114056,
+          "id": "essence_of_pure_sacred_dewdrop",
+          "name": "Essence of Pure Sacred Dewdrop",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112100,
+          "id": "stillsmoldering_hilt",
+          "name": "Still-Smoldering Hilt",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112082,
+          "id": "xenochromatic_crystal",
+          "name": "Xenochromatic Crystal",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "Day and Night in Counterpoint",
+    "template": "ทุก 10 วินาที ผู้สวมใส่จะบรรเลง \"บทเพลงประสานเสียง (Harmonic Movement)\" ที่มีเอฟเฟกต์สอดคล้องกันตามลำดับดังนี้: พลังโจมตีเพิ่มขึ้น <span style=\"color:#99FFFFFF\">{0}</span> / ความชำนาญธาตุเพิ่มขึ้น <span style=\"color:#99FFFFFF\">{1}</span> หน่วย / ความเสียหายปฏิกิริยาประกายดาวเพิ่มขึ้น <span style=\"color:#99FFFFFF\">{2}</span> เอฟเฟกต์บทเพลงแต่ละชนิดจะเกิดขึ้นเป็นเวลา 10 วินาที เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้<br/>หลังจากทำให้เกิดปฏิกิริยาประกายดาว จะได้รับ \"Harmonic Movement: Contrapuntal\" ซึ่งจะคงอยู่เป็นเวลา 12 วินาที และมีผลเหมือนกับเอฟเฟกต์ Harmonic Movement ที่เกิดขึ้นเมื่อเกิดปฏิกิริยาประกายดาว เอฟเฟกต์นี้สามารถซ้อนทับกับเอฟเฟกต์ Harmonic Movement เดิมได้ และเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 12 วินาที",
+    "params": [
+      [
+        "18%",
+        "120",
+        "28%"
+      ],
+      [
+        "22.5%",
+        "150",
+        "35%"
+      ],
+      [
+        "27%",
+        "180",
+        "42%"
+      ],
+      [
+        "31.5%",
+        "210",
+        "49%"
+      ],
+      [
+        "36%",
+        "240",
+        "56%"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "ทุก 10 วินาที ผู้สวมใส่จะบรรเลง \"บทเพลงประสานเสียง (Harmonic Movement)\" ที่มีเอฟเฟกต์สอดคล้องกันตามลำดับดังนี้: พลังโจมตีเพิ่มขึ้น <span>18%</span> / ความชำนาญธาตุเพิ่มขึ้น <span>120</span> หน่วย / ความเสียหายปฏิกิริยาประกายดาวเพิ่มขึ้น <span>28%</span> เอฟเฟกต์บทเพลงแต่ละชนิดจะเกิดขึ้นเป็นเวลา 10 วินาที เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้<br/>หลังจากทำให้เกิดปฏิกิริยาประกายดาว จะได้รับ \"Harmonic Movement: Contrapuntal\" ซึ่งจะคงอยู่เป็นเวลา 12 วินาที และมีผลเหมือนกับเอฟเฟกต์ Harmonic Movement ที่เกิดขึ้นเมื่อเกิดปฏิกิริยาประกายดาว เอฟเฟกต์นี้สามารถซ้อนทับกับเอฟเฟกต์ Harmonic Movement เดิมได้ และเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 12 วินาที"
+    },
+    {
+      "refinement": 2,
+      "desc": "ทุก 10 วินาที ผู้สวมใส่จะบรรเลง \"บทเพลงประสานเสียง (Harmonic Movement)\" ที่มีเอฟเฟกต์สอดคล้องกันตามลำดับดังนี้: พลังโจมตีเพิ่มขึ้น <span>22.5%</span> / ความชำนาญธาตุเพิ่มขึ้น <span>150</span> หน่วย / ความเสียหายปฏิกิริยาประกายดาวเพิ่มขึ้น <span>35%</span> เอฟเฟกต์บทเพลงแต่ละชนิดจะเกิดขึ้นเป็นเวลา 10 วินาที เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้<br/>หลังจากทำให้เกิดปฏิกิริยาประกายดาว จะได้รับ \"Harmonic Movement: Contrapuntal\" ซึ่งจะคงอยู่เป็นเวลา 12 วินาที และมีผลเหมือนกับเอฟเฟกต์บรรเลงบทเพลง ที่เกิดขึ้นเมื่อเกิดปฏิกิริยาประกายดาว เอฟเฟกต์นี้สามารถซ้อนทับกับเอฟเฟกต์บทเพลงเดิมได้ และเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 12 วินาที"
+    },
+    {
+      "refinement": 3,
+      "desc": "ทุก 10 วินาที ผู้สวมใส่จะบรรเลง \"บทเพลงประสานเสียง (Harmonic Movement)\" ที่มีเอฟเฟกต์สอดคล้องกันตามลำดับดังนี้: พลังโจมตีเพิ่มขึ้น <span>27%</span> / ความชำนาญธาตุเพิ่มขึ้น <span>180</span> หน่วย / ความเสียหายปฏิกิริยาประกายดาวเพิ่มขึ้น <span>42%</span> เอฟเฟกต์บทเพลงแต่ละชนิดจะเกิดขึ้นเป็นเวลา 10 วินาที เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้<br/>หลังจากทำให้เกิดปฏิกิริยาประกายดาว จะได้รับ \"Harmonic Movement: Contrapuntal\" ซึ่งจะคงอยู่เป็นเวลา 12 วินาที และมีผลเหมือนกับเอฟเฟกต์บรรเลงบทเพลง ที่เกิดขึ้นเมื่อเกิดปฏิกิริยาประกายดาว เอฟเฟกต์นี้สามารถซ้อนทับกับเอฟเฟกต์บทเพลงเดิมได้ และเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 12 วินาที"
+    },
+    {
+      "refinement": 4,
+      "desc": "ทุก 10 วินาที ผู้สวมใส่จะบรรเลง \"บทเพลงประสานเสียง (Harmonic Movement)\" ที่มีเอฟเฟกต์สอดคล้องกันตามลำดับดังนี้: พลังโจมตีเพิ่มขึ้น <span>31.5%</span> / ความชำนาญธาตุเพิ่มขึ้น <span>210</span> หน่วย / ความเสียหายปฏิกิริยาประกายดาวเพิ่มขึ้น <span>49%</span> เอฟเฟกต์บทเพลงแต่ละชนิดจะเกิดขึ้นเป็นเวลา 10 วินาที เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้<br/>หลังจากทำให้เกิดปฏิกิริยาประกายดาว จะได้รับ \"Harmonic Movement: Contrapuntal\" ซึ่งจะคงอยู่เป็นเวลา 12 วินาที และมีผลเหมือนกับเอฟเฟกต์บรรเลงบทเพลง ที่เกิดขึ้นเมื่อเกิดปฏิกิริยาประกายดาว เอฟเฟกต์นี้สามารถซ้อนทับกับเอฟเฟกต์บทเพลงเดิมได้ และเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 12 วินาที"
+    },
+    {
+      "refinement": 5,
+      "desc": "ทุก 10 วินาที ผู้สวมใส่จะบรรเลง \"บทเพลงประสานเสียง (Harmonic Movement)\" ที่มีเอฟเฟกต์สอดคล้องกันตามลำดับดังนี้: พลังโจมตีเพิ่มขึ้น <span>36%</span> / ความชำนาญธาตุเพิ่มขึ้น <span>240</span> หน่วย / ความเสียหายปฏิกิริยาประกายดาวเพิ่มขึ้น <span>56%</span> เอฟเฟกต์บทเพลงแต่ละชนิดจะเกิดขึ้นเป็นเวลา 10 วินาที เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้<br/>หลังจากทำให้เกิดปฏิกิริยาประกายดาว จะได้รับ \"Harmonic Movement: Contrapuntal\" ซึ่งจะคงอยู่เป็นเวลา 12 วินาที และมีผลเหมือนกับเอฟเฟกต์ Harmonic Movement ที่เกิดขึ้นเมื่อเกิดปฏิกิริยาประกายดาว เอฟเฟกต์นี้สามารถซ้อนทับกับเอฟเฟกต์ Harmonic Movement เดิมได้ และเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 12 วินาที"
+    }
+  ]
+}

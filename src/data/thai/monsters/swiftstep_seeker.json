@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "กองกำลังของมนุษย์อื่น ๆ",
   "filename_icon": "UI_MonsterIcon_Human_Female_Sword_Hookwalker",
   "description": "ผู้กล้าจากพงศ์พิดานพฤกษา และผู้พิทักษ์ชนเผ่าที่ลาดตระเวนอยู่ระหว่างป่าและหุบเขา\\nเมื่อเทียบกับนักรบจากเผ่าอื่น นักรบที่โหนตัวไปรอบภูเขาตลอดทั้งวันด้วยตะขอและเชือกเหล่านี้มีความไวต่อสิ่งแวดล้อมมากกว่า และคิดอยู่เสมอว่าจะเอาชนะคู่ต่อสู้ด้วยการโจมตีที่ไม่คาดคิดได้อย่างไรดี",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 12,
   "stats": {

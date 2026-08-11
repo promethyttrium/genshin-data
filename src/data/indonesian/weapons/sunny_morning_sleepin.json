@@ -10,7 +10,7 @@
   },
   "domain": "Court of Flowing Sand",
   "passive": "Bathhouses, Hawks, and Narukami",
-  "bonus": "Dalam 6 detik setelah memicu reaksi Swirl, Elemental Mastery meningkat <span>120/150/180/210/240</span> poin. Dalam 9 detik setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat <span>96/120/144/168/192</span> poin. Dalam 30 detik setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat <span>32/40/48/56/64</span> poin.",
+  "bonus": "Setelah memicu reaksi Swirl atau Stellar Swirl, Elemental Mastery meningkat <span>120/150/180/210/240</span> poin selama 6 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat <span>96/120/144/168/192</span> poin selama 9 detik. Setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat <span>32/40/48/56/64</span> poin selama 30 detik.",
   "specialProp": "Elemental Mastery",
   "stats": {
     "primary": "Base ATK",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Bathhouses, Hawks, and Narukami",
-    "template": "Dalam 6 detik setelah memicu reaksi Swirl, Elemental Mastery meningkat <span style=\"color:#99FFFFFF\">{0}</span> poin. Dalam 9 detik setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat <span style=\"color:#99FFFFFF\">{1}</span> poin. Dalam 30 detik setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat <span style=\"color:#99FFFFFF\">{2}</span> poin.",
+    "template": "Setelah memicu reaksi Swirl atau Stellar Swirl, Elemental Mastery meningkat <span style=\"color:#99FFFFFF\">{0}</span> poin selama 6 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat <span style=\"color:#99FFFFFF\">{1}</span> poin selama 9 detik. Setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat <span style=\"color:#99FFFFFF\">{2}</span> poin selama 30 detik.",
     "params": [
       [
         "120",
@@ -312,23 +311,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "Dalam 6 detik setelah memicu reaksi Swirl, Elemental Mastery meningkat <span>120</span> poin. Dalam 9 detik setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat <span>96</span> poin. Dalam 30 detik setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat <span>32</span> poin."
+      "desc": "Setelah memicu reaksi Swirl atau Stellar Swirl, Elemental Mastery meningkat <span>120</span> poin selama 6 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat <span>96</span> poin selama 9 detik. Setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat <span>32</span> poin selama 30 detik."
     },
     {
       "refinement": 2,
-      "desc": "Dalam 6 detik setelah memicu reaksi Swirl, Elemental Mastery meningkat <span>150</span> poin. Dalam 9 detik setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat <span>120</span> poin. Dalam 30 detik setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat <span>40</span> poin."
+      "desc": "Setelah memicu reaksi Swirl atau Stellar Swirl, Elemental Mastery meningkat <span>150</span> poin selama 6 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat <span>120</span> poin selama 9 detik. Setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat <span>40</span> poin selama 30 detik."
     },
     {
       "refinement": 3,
-      "desc": "Dalam 6 detik setelah memicu reaksi Swirl, Elemental Mastery meningkat <span>180</span> poin. Dalam 9 detik setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat <span>144</span> poin. Dalam 30 detik setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat <span>48</span> poin."
+      "desc": "Setelah memicu reaksi Swirl atau Stellar Swirl, Elemental Mastery meningkat <span>180</span> poin selama 6 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat <span>144</span> poin selama 9 detik. Setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat <span>48</span> poin selama 30 detik."
     },
     {
       "refinement": 4,
-      "desc": "Dalam 6 detik setelah memicu reaksi Swirl, Elemental Mastery meningkat <span>210</span> poin. Dalam 9 detik setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat <span>168</span> poin. Dalam 30 detik setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat <span>56</span> poin."
+      "desc": "Setelah memicu reaksi Swirl atau Stellar Swirl, Elemental Mastery meningkat <span>210</span> poin selama 6 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat <span>168</span> poin selama 9 detik. Setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat <span>56</span> poin selama 30 detik."
     },
     {
       "refinement": 5,
-      "desc": "Dalam 6 detik setelah memicu reaksi Swirl, Elemental Mastery meningkat <span>240</span> poin. Dalam 9 detik setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat <span>192</span> poin. Dalam 30 detik setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat <span>64</span> poin."
+      "desc": "Setelah memicu reaksi Swirl atau Stellar Swirl, Elemental Mastery meningkat <span>240</span> poin selama 6 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat <span>192</span> poin selama 9 detik. Setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat <span>64</span> poin selama 30 detik."
     }
   ]
 }

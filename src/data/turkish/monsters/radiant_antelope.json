@@ -13,7 +13,6 @@
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Magbeast_Argali",
   "description": "Kadim ayın gücüne uzun süre maruz kaldığından eşsiz bir evrim geçirmiş bir canavar.\\nAy ışığının kutsadığı topraklara bir zamanlar tuhaf yıldırımlar düşmüş ve önceden sıradan hayvanlar olan antiloplar bile yıldırım gücünü kullanma yeteneği kazanmış. Hatta fırtınanın ortasında, uçurum kenarlarında durarak vücutlarını güçlendirmek için yıldırımları kendilerine çeken antiloplar görenler dahi olmuş.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

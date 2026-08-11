@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Анемо",
+    "weapon": "Древковое",
     "faction": [
-      null
+      "Ли Юэ"
     ],
     "talent_card": {
       "_id": 3852,
@@ -29,8 +31,10 @@
     {
       "id": "whirlwind_thrust",
       "name": "Вихревой удар",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "lemniscatic_wind_cycling",
       "name": "Лемниската ветра",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80FFD7FF\">Анемо урон</span>, 3 ед.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "bane_of_all_evil",
       "name": "Истребление всего зла",
-      "desc": "Наносит ?, ? ед. У персонажа появляется <span style=\"color:#FFFFFFFF\">Маска Якса</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80FFD7FF\">Анемо урон</span>, 4 ед. У персонажа появляется <span style=\"color:#FFFFFFFF\">Маска Якса</span>.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1105,

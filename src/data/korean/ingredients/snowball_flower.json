@@ -1,0 +1,21 @@
+{
+  "_id": 101280,
+  "id": "snowball_flower",
+  "name": "눈덩이꽃",
+  "description": "공처럼 둥근 귀여운 꽃. 눈이 꽃잎에 내려앉으면 꽃 전체가 눈덩이처럼 보인다",
+  "recipes": [
+    {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "설국 냉수프"
+    },
+    {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "설원 위 눈덩이꽃"
+    }
+  ],
+  "source": [
+    "추천: 스네즈나야 채집"
+  ]
+}

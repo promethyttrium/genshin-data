@@ -1,0 +1,33 @@
+{
+  "_id": 215161,
+  "id": "backstreet_guile",
+  "shareId": 612,
+  "name": "Esperteza dos Becos",
+  "title": "Jahoda: Esperteza dos Becos",
+  "desc": "\"Achado não é roubado!\"",
+  "in_play_description": "Quando <span style=\"color:#FFFFFFFF\">Jahoda</span> troca para se tornar o Personagem em Combate, se o número de cartas que seu oponente tiver na Mão for maior ou igual ao seu, copie aleatoriamente 2 cartas da Mão dele. (Uma vez por Turno)",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "Anemo",
+    "card_type": "Carta de Equipamento",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "Anemo",
+        "count": 3
+      }
+    ],
+    "source": "Recompensa por desafiar Jahoda para um duelo na Cauda do Gato e conquistar todos os objetivos de desafio correspondentes",
+    "tags": [
+      "Talento",
+      "Ação de Combate"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Ações de Combate</span>: Quando seu Personagem em Combate for <span style=\"color:#FFFFFFFF\">Jahoda</span>, equipe esta carta.<br/>Após Jahoda equipar esta carta, usa imediatamente <span style=\"color:#FFD780FF\">Estratagema Impressionante: Plano de Redistribuição de Riqueza</span> uma vez.<br/>Quando <span style=\"color:#FFFFFFFF\">Jahoda</span> troca para se tornar o Personagem em Combate, se o número de cartas que seu oponente tiver na Mão for maior ou igual ao seu, copie aleatoriamente 2 cartas da Mão dele. (Uma vez por Turno)<br/>(Você deve ter Jahoda em seu deck para adicionar esta carta ao seu deck.)"
+    }
+  ]
+}

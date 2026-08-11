@@ -1,0 +1,65 @@
+{
+  "_id": 3705,
+  "id": "snezhnaya_shashliks",
+  "name": "Snezhnaya Shashliks",
+  "description": "Large chunks of grilled meat skewers. Marinated chunks of meat are threaded onto iron skewers and grilled over hot coals, turned until charred on the outside and tender within. Whether at courtyard gatherings, out on the hunt, or on a patch of snow cleared just large enough for a fire, these skewers can be found anywhere in Snezhnaya where a fire can be lit.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Raw Meat",
+      "amount": 3
+    },
+    {
+      "_id": 100064,
+      "id": "fowl",
+      "name": "Fowl",
+      "amount": 3
+    },
+    {
+      "_id": 101281,
+      "id": "rimecurrant",
+      "name": "Rimecurrant",
+      "amount": 1
+    },
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Red Beet",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Adventurer's Dish",
+  "results": {
+    "suspicious": {
+      "_id": 132010,
+      "name": "Suspicious Snezhnaya Shashliks",
+      "description": "Large chunks of grilled meat skewers. Its blackened crust is so bitter and solid that it feels like chewing on a piece of charcoal. To make matters worse, the overcooked interior is so dry and tough, as if the juices had vanished before it even left the grill...",
+      "effect": "Decreases all party members' climbing and sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s)."
+    },
+    "normal": {
+      "_id": 132011,
+      "name": "Snezhnaya Shashliks",
+      "description": "Large chunks of grilled meat skewers. Marinated chunks of meat are threaded onto iron skewers and grilled over hot coals, turned until charred on the outside and tender within. Whether at courtyard gatherings, out on the hunt, or on a patch of snow cleared just large enough for a fire, these skewers can be found anywhere in Snezhnaya where a fire can be lit.",
+      "effect": "Decreases all party members' climbing and sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s)."
+    },
+    "delicious": {
+      "_id": 132012,
+      "name": "Delicious Snezhnaya Shashliks",
+      "description": "Large chunks of grilled meat skewers. Cracking through its crisp exterior delivers a satisfying crunch, followed by a savory burst of juices. As the skewer roasts over the fire, the marinade deepens into a hearty undertone that highlights the meat's fresh sweetness. Your mouth glistens with grease and juice, but the sheer flavor makes table manners the last thing on your mind...",
+      "effect": "Decreases all party members' climbing and sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s)."
+    },
+    "special": {
+      "_id": 132016,
+      "id": "the_bullseye_roast",
+      "name": "The Bullseye Roast",
+      "description": "Alyosha's specialty. He hands over a massive skewer to the sound of Tugarin's excited barks. Sizzling with hot grease, the meat is sliced far thicker than a standard skewer. One bite reveals a rich, gamey flavor perfectly tamed by the open fire. Clearly, his control over the grill is just as flawless as his marksmanship!",
+      "effect": "Decreases all party members' climbing and sprinting Stamina consumption by 25% for 1500s. In Co-Op Mode, this effect only applies to your own character(s).",
+      "character": {
+        "id": "alyosha",
+        "name": "Alyosha"
+      }
+    }
+  }
+}

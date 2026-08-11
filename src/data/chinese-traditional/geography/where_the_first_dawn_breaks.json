@@ -1,0 +1,13 @@
+{
+  "_id": 70800044,
+  "id": "where_the_first_dawn_breaks",
+  "name": "曙光重新升起之處",
+  "areaName": "古獸冰原",
+  "areaId": 80100,
+  "description": "即便是在最寒冷的夜裡，也有人頂著風雪在路上行進。他們如此行事，所期許的無非是光輝璀璨的明日。",
+  "regionName": "至冬",
+  "regionId": 8,
+  "sortOrder": 644,
+  "filename_image": "UI_Codex_Scenery_ZDQiChengCheZhan",
+  "showOnlyUnlocked": true
+}

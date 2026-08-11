@@ -60,6 +60,11 @@
       "name": "Sopa de verduras en caldero"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
       "_id": 4204,
       "id": "bountiful_year",
       "name": "Pescado de la abundancia"
@@ -67,6 +72,5 @@
   ],
   "source": [
     "Recolectar en la naturaleza"
-  ],
-  "rarity": 0
+  ]
 }

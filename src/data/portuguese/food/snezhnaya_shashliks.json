@@ -1,0 +1,65 @@
+{
+  "_id": 3705,
+  "id": "snezhnaya_shashliks",
+  "name": "Shashliks de Snezhnaya",
+  "description": "Pedaços grandes de carne assados num espeto. Pedaços marinados de carne são espetados e assados sobre brasas de carvão, virados até estarem chamuscados por fora e macios por dentro. Seja em reuniões no quintal, em caçados ou num pedaço de neve limpo suficiente para se fazer uma fogueira, esses espetos podem ser encontrados em qualquer lugar de Snezhnaya onde um fogo possa ser aceso.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Carne Crua",
+      "amount": 3
+    },
+    {
+      "_id": 100064,
+      "id": "fowl",
+      "name": "Carne de Ave",
+      "amount": 3
+    },
+    {
+      "_id": 101281,
+      "id": "rimecurrant",
+      "name": "Groselha de Gelo",
+      "amount": 1
+    },
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Beterraba Vermelha",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Pratos de Aventura",
+  "results": {
+    "suspicious": {
+      "_id": 132010,
+      "name": "Shashliks de Snezhnaya Estranho",
+      "description": "Pedaços grandes de carne assada em espetos. Sua crosta escurecida é tão amarga e sólida que você parece estar mastigando um pedaço de carvão. Para piorar, o interior passado do ponto é tão seco e duro, que parece que os sucos desapareceram antes mesmo da carne deixar a grelha...",
+      "effect": "Diminui o consumo de Stamina ao correr e escalar de todos os membros da Equipe em 15% por 900s. Durante o modo multijogador, este efeito é aplicado apenas em si mesmo."
+    },
+    "normal": {
+      "_id": 132011,
+      "name": "Shashliks de Snezhnaya",
+      "description": "Pedaços grandes de carne assados num espeto. Pedaços marinados de carne são espetados e assados sobre brasas de carvão, virados até estarem chamuscados por fora e macios por dentro. Seja em reuniões no quintal, em caçadas ou num pedaço de neve limpo suficiente para se fazer uma fogueira, esses espetos podem ser encontrados em qualquer lugar de Snezhnaya onde um fogo possa ser aceso.",
+      "effect": "Diminui o consumo de Stamina ao correr e escalar de todos os membros da Equipe em 20% por 900s. Durante o modo multiplayer, este efeito tem efeito apenas em si mesmo."
+    },
+    "delicious": {
+      "_id": 132012,
+      "name": "Shashliks de Snezhnaya Delicioso",
+      "description": "Pedaços grandes de carne assada em espetos. Morder o exterior crocante é muito satisfatório, e é seguido de uma explosão de sucos salgados. Enquanto o espeto assa no fogo, a marinada se aprofunda até uma nota encorpada que realça o adocicado fresco da carne. Sua boca reluz com óleos e sucos, mas o sabor puro torna as maneiras à mesa a última coisa em sua mente...",
+      "effect": "Diminui o consumo de Stamina ao correr e escalar de todos os membros da Equipe em 25% por 900s. Durante o modo multijogador, este efeito é aplicado apenas em si mesmo."
+    },
+    "special": {
+      "_id": 132016,
+      "id": "the_bullseye_roast",
+      "name": "Espeto Certeiro",
+      "description": "Especialidade de Alyosha. Ele entrega um espeto gigante ao som dos latidos animados de Tugarin. Chiando com gordura quente, a carne é fatiada bem mais espessamente do que um espeto normal. Uma mordida revela um sabor suntuoso de caça, domado perfeitamente pela chama aberta. Claramente, o controle dele sobre a grelha é tão perfeito quanto a pontaria!",
+      "effect": "Diminui o consumo de Stamina ao correr e escalar de todos os membros da equipe em 25% por 1500s. Durante o modo multijogador, este efeito é aplicado apenas em seus próprios personagens.",
+      "character": {
+        "id": "alyosha",
+        "name": "Alyosha"
+      }
+    }
+  }
+}

@@ -9,9 +9,11 @@
     "hp": 11,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Other Weapons",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Consecrated Beast"
     ],
     "talent_card": {
       "_id": 9242,
@@ -28,8 +30,10 @@
     {
       "id": "fang_bite",
       "name": "Fang Bite",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -48,8 +52,10 @@
     {
       "id": "sawtoothed_surge",
       "name": "Saw-Toothed Surge",
-      "desc": "Deals ? ?, puts up to 1 card with the highest <span style=\"color:#FFFFFFFF\">Current Elemental Dice Cost</span> in your Hand at the bottom of your deck, then creates 1 <span style=\"color:#FFFFFFFF\">Bonecruncher's Energy Block</span> and adds it to your Hand.",
-      "skillTag": [],
+      "desc": "Deals 3 <span style=\"color:#80C0FFFF\">Hydro DMG</span>, puts up to 1 card with the highest <span style=\"color:#FFFFFFFF\">Current Elemental Dice Cost</span> in your Hand at the bottom of your deck, then creates 1 <span style=\"color:#FFFFFFFF\">Bonecruncher's Energy Block</span> and adds it to your Hand.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -62,8 +68,10 @@
     {
       "id": "reptilian_rage",
       "name": "Reptilian Rage",
-      "desc": "Deals ? ?, then <span style=\"color:#FFFFFFFF\">Discard</span>s up to 3 <span style=\"color:#FFFFFFFF\">Bonecruncher's Energy Block</span> cards. For each of those cards <span style=\"color:#FFFFFFFF\">Discard</span>ed, heal the character on your team that has taken the most damage for 1 HP and increase their Max HP by 1.",
-      "skillTag": [],
+      "desc": "Deals 4 <span style=\"color:#80C0FFFF\">Hydro DMG</span>, then <span style=\"color:#FFFFFFFF\">Discard</span>s up to 3 <span style=\"color:#FFFFFFFF\">Bonecruncher's Energy Block</span> cards. For each of those cards <span style=\"color:#FFFFFFFF\">Discard</span>ed, heal the character on your team that has taken the most damage for 1 HP and increase their Max HP by 1.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -83,7 +91,9 @@
       "id": "consecrated_senses",
       "name": "Consecrated Senses",
       "desc": "(Passive) After you play or <span style=\"color:#FFFFFFFF\">Discard</span> a <span style=\"color:#FFFFFFFF\">Bonecruncher's Energy Block</span> card, heal the character on your team that has taken the most damage for 1 HP.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

@@ -1,0 +1,32 @@
+{
+  "_id": 71,
+  "id": "mortal_travails_series_vii",
+  "name": "Promenade dans le monde mortel - Partie VII",
+  "order": 9,
+  "achievements": [
+    {
+      "id": 80525,
+      "name": "Élégie des vents glacés",
+      "desc": "Obtenez la maîtrise de l'élément Cryo.",
+      "reward": 5,
+      "hidden": false,
+      "order": 484
+    },
+    {
+      "id": 80526,
+      "name": "Quand un chant déchire la nuit",
+      "desc": "Obtenez toutes les parties de « Collection de ballets de l'étoile polaire ».",
+      "reward": 5,
+      "hidden": false,
+      "order": 485
+    },
+    {
+      "id": 80528,
+      "name": "L'histoire des défunts",
+      "desc": "Obtenez toutes les parties de « Histoire générale de Snezhnaya ».",
+      "reward": 5,
+      "hidden": false,
+      "order": 487
+    }
+  ]
+}

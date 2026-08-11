@@ -1,0 +1,90 @@
+{
+  "_id": 1317,
+  "id": "durin",
+  "shareId": 608,
+  "name": "ドゥリン",
+  "title": "「消えない炎」・ドゥリン",
+  "desc": "物語より生まれ、星々の間を翔ける。",
+  "attributes": {
+    "hp": 10,
+    "card_type": "キャラカード",
+    "energy": 2,
+    "element": "炎元素",
+    "weapon": "片手剣",
+    "faction": [
+      "モンド"
+    ],
+    "source": "キャッツテールでドゥリンを招待し、友好対戦に勝利することで獲得"
+  },
+  "skills": [
+    {
+      "id": "radiant_wingslash",
+      "name": "輝炎の翼斬り",
+      "desc": "?を2与える。",
+      "skillTag": [
+        "通常攻撃"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "炎元素",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "無色元素",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "binary_form_convergence_and_division",
+      "name": "二元術式・融合精錬",
+      "desc": "<span style=\"color:#FF9999FF\">炎元素ダメージ</span>を3与え、自身に<span style=\"color:#FFFFFFFF\">本質変転</span>を付与する。",
+      "skillTag": [
+        "元素スキル"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "炎元素",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "principle_of_purity_as_the_light_shifts",
+      "name": "純白の法則・変転する光",
+      "desc": "<span style=\"color:#FF9999FF\">炎元素ダメージ</span>を1与え、<span style=\"color:#FFFFFFFF\">純白の正</span>を生成する。",
+      "skillTag": [
+        "元素爆発"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "炎元素",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "チャージ",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "light_manifest_of_the_divine_calculus",
+      "name": "顕現せし光霊",
+      "desc": "【固有】<span style=\"color:#FFFFFFFF\">自身が「通常攻撃」を使用した後、</span>自身の「元素爆発」を<span style=\"color:#FFFFFFFF\">漆黒の法則・燻る星</span>に切り替える。<br/><span style=\"color:#FFFFFFFF\">自身が「元素スキル」を使用した後、</span>自身の「元素爆発」を<span style=\"color:#FFFFFFFF\">純白の法則・変転する光</span>に切り替える。",
+      "skillTag": [
+        "固有スキル"
+      ],
+      "points": []
+    }
+  ]
+}

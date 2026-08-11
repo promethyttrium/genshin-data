@@ -1,0 +1,39 @@
+{
+  "_id": 26310101,
+  "id": "chimeric_armored_beast",
+  "monsterId": 26310102,
+  "name": "Thú Hộ Giáp Lai Ghép",
+  "specialNames": [
+    "Thú Hộ Giáp Lai Ghép"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Ma Thú Đột Biến",
+  "filename_icon": "UI_MonsterIcon_Chimera_BeetleLion",
+  "description": "Sản phẩm của giả kim sinh vật từng một thời thịnh hành trên vùng đất đóng băng, một dị chủng ma thú tổng hợp.\\nNếu một loài mãnh thú bốn chân mà sở hữu lớp giáp xác và sừng húc như Onikabuto, biết đâu lại trở thành một lực lượng có thể chọc thủng trận tuyến của kẻ địch.\\nTheo lẽ thường thì những ma thú tổng hợp chỉ theo đuổi chức năng đơn lẻ như vậy sẽ rất ít khi có thể thực sự sinh tồn trong tự nhiên. Sau khi mất đi môi trường để phát huy giá trị, phần lớn sẽ dần lụi tàn rồi chết vì đi ngược lại với quy luật của tự nhiên, nhưng rõ ràng Thú Hộ Giáp không nằm trong số đó.\\nNgày nay, trên vùng đất băng giá của Snezhnaya, người ta thường xuyên bắt gặp từng đàn Thú Hộ Giáp kết bầy đi săn mồi.",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 7.315024,
+      "attack": 58.575787,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

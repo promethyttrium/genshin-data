@@ -13,7 +13,6 @@
   "categoryText": "Bộ Tộc Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hilistray_Water",
   "description": "Hilichurl lang thang không thuộc bất cứ bộ tộc nào, lang thang ở khắp các nơi hoang dã như tự lưu đày chính mình.\\nTùy theo sự dẫn dắt của nhân duyên mà giúp đỡ các Hilichurl cần giúp đỡ, và sau khi đã hoàn thành sứ mệnh hoặc nhân duyên kết thúc sẽ khởi hành rời đi. Dường như có trình độ trí tuệ cao hơn so với các Hilichurl thông thường.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

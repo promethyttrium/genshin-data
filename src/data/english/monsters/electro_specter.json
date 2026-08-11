@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Elemental Lifeforms",
   "filename_icon": "UI_MonsterIcon_Sylph_Electric_01",
   "description": "A monster born from highly-concentrated Electro elements that can float in the air.\\nA certain researcher once studied these creatures. He believed that they must be Hypostases of some kind. After all, they both had elemental peculiarities and were birthed from areas saturated with elemental energy, right? By the way, he was later investigated for academic corruption.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

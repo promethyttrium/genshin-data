@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Brutocollinus",
   "filename_icon": "UI_MonsterIcon_Hili_None_01",
   "description": "Résident d'origine des contrées sauvages de Teyvat.\\nGuerriers tribaux au caractère renfrogné, ils ne croient qu'au pouvoir de la force brute. Lorsque leurs muscles sont suffisamment développés et que leur force est suffisamment grande, ils s'équipent d'un grand bouclier et deviennent des Brutoviandus...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

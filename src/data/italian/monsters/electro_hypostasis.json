@@ -13,7 +13,6 @@
   "categoryText": "Forme di vita elementali",
   "filename_icon": "UI_MonsterIcon_Effigy_Electric",
   "description": "Nome in codice: Aleph. Un'entità di Electro molto pura.\\nLe Ipostasi elementali sono le forme più avanzate di strutture elementali, che si plasmano solitamente in corrispondenza di luoghi traboccanti di energia elementale, o presso una linea geomantica ostruita.\\nSono riuscite a sviluppare vari attacchi in base ai loro attributi elementali.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

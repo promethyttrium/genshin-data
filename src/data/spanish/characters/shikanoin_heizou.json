@@ -429,7 +429,7 @@
     {
       "id": "paradoxical_practice",
       "name": "Práctica paradójica",
-      "description": "Cuando Shikanoin Heizou causa una reacción de Torbellino mientras está en uso, obtiene 1 carga de decantación para <span style=\"color:#FFD780FF\">Puñetazo cardiaco</span>. Esto solo puede ocurrir una vez cada 0.1 s.",
+      "description": "Cuando Shikanoin Heizou causa una reacción de Torbellino o Torbellino Estelar mientras está en uso, obtiene 1 carga de decantación para <span style=\"color:#FFD780FF\">Puñetazo cardiaco</span>. Esto solo puede ocurrir una vez cada 0.1 s.",
       "level": 1
     },
     {

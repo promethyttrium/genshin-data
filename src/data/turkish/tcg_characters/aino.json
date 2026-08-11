@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Su",
+    "weapon": "Çift Elli Kılıç",
     "faction": [
-      null
+      "Nod-Krai"
     ],
     "source": "Aino'yu Kedi Kuyruğu'nda bir düelloya davet etme ve onunla yaptığın Dostluk Düellosunu kazanma ödülü."
   },
@@ -18,8 +20,10 @@
     {
       "id": "bishbashbosh_repair",
       "name": "Pat Küt Çat Tamir",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -38,8 +42,10 @@
     {
       "id": "musecatcher",
       "name": "İlham Kapanı",
-      "desc": "? ? verir ve 1 kademe <span style=\"color:#FFFFFFFF\">Hızlı Değişim</span> oluşturur. Elinde <span style=\"color:#FFFFFFFF\">Güçlendirme</span>ye sahip bir kart varsa bunun yerine $[D__KEY__DAMAGE_1] ? verir.",
-      "skillTag": [],
+      "desc": "3 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir ve 1 kademe <span style=\"color:#FFFFFFFF\">Hızlı Değişim</span> oluşturur. Elinde <span style=\"color:#FFFFFFFF\">Güçlendirme</span>ye sahip bir kart varsa bunun yerine $[D__KEY__DAMAGE_1] <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -52,8 +58,10 @@
     {
       "id": "precision_hydronic_cooler",
       "name": "Hassas Hidronik Soğutucu",
-      "desc": "? ? verir ve <span style=\"color:#FFFFFFFF\">Sakin Ol Şampiyon Ördek</span> çağırır.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir ve <span style=\"color:#FFFFFFFF\">Sakin Ol Şampiyon Ördek</span> çağırır.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -73,7 +81,9 @@
       "id": "modular_efficiency_protocol",
       "name": "Modüler Verimlilik Protokolü",
       "desc": "<span style=\"color:#FFFFFFFF\">Kartına <span style=\"color:#FFFFFFFF\">Güçlendirme</span> eklendiğinde</span> senin tarafında <span style=\"color:#FFFFFFFF\">Sakin Ol Şampiyon Ördek</span> varsa 1 Kullanım Hakkı kazanır, aksi takdirde 1 <span style=\"color:#FFFFFFFF\">Enerji</span> kazanır. (Her Turda bir defa)",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

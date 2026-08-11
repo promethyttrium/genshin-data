@@ -14,14 +14,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Dağ Yabanileri",
   "filename_icon": "UI_MonsterIcon_Shaman_Wind_01",
   "description": "Rüzgarın mesajını yayan, mırıldanarak konuşan ihtiyar bir dağ yabanisi.\\nGenellikle ilerleyen yaşlarında becerilerinin doruk noktasına ulaşan dağ yabanilerine, elementlere hükmedebilme gücü bahşedilirmiş. Esen rüzgarlara hükmetme yeteneği, hafızalardan silinmiş karanlık geçmişten gelir.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

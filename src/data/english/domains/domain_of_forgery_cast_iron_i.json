@@ -1,0 +1,53 @@
+{
+  "_id": 4707,
+  "id": "domain_of_forgery_cast_iron_i",
+  "name": "Domain of Forgery: Cast Iron I",
+  "entranceId": 2106,
+  "entranceName": "Scars of Cursed Obsession",
+  "description": "Once a secret haven for rebels chasing the dream of a return to the old order. Their delusions died with the crimson fire, leaving only boundless ash.\nDefeating the foes who lurk here may win you items that might be used to enhance your equipment.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 15,
+  "unlockRank": 15,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "Anemo",
+    "Cryo"
+  ],
+  "daysOfWeek": [
+    "Monday",
+    "Thursday",
+    "Sunday"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Adventure EXP",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "1125"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Companionship EXP",
+      "count": "10"
+    },
+    {
+      "_id": 114085,
+      "id": "rise_of_the_pale_star_army",
+      "name": "Rise of the Pale Star Army"
+    }
+  ],
+  "monsterList": []
+}

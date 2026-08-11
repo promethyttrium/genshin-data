@@ -1,0 +1,130 @@
+{
+  "_id": 70,
+  "id": "land_of_surging_shadows",
+  "name": "Tanah Bayangan yang Bergelombang",
+  "order": 73,
+  "achievements": [
+    {
+      "id": 86059,
+      "name": "Pemulih Dataran Es",
+      "desc": "Bersihkan satu Alam Bayangan besar di Snezhnaya.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9056
+    },
+    {
+      "id": 86062,
+      "name": "Sampai Jumpa di Alam Bayangan",
+      "desc": "Selesaikan tantangan Di Ambang Kematian satu kali.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9059
+    },
+    {
+      "id": 86063,
+      "name": "\"Veteran Alam Bayangan\"",
+      "desc": "Tingkatkan Analisis Alam Bayangan hingga level maksimum.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9060
+    },
+    {
+      "id": 86066,
+      "name": "Jagoan Bertahan Hidup",
+      "desc": "Dapatkan 9 medali Di Ambang Kematian.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9063
+    },
+    {
+      "id": 86067,
+      "name": "Pembuat Senjata Tundra (I)",
+      "desc": "Pasang 1 aksesori pada 1 senjata api.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9064
+    },
+    {
+      "id": 86068,
+      "name": "Pembuat Senjata Tundra (II)",
+      "desc": "Pasang 2 aksesori pada 1 senjata api.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9065,
+      "preStage": 86067
+    },
+    {
+      "id": 86069,
+      "name": "Pembuat Senjata Tundra (III)",
+      "desc": "Pasang 4 aksesori pada 1 senjata api.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9066,
+      "preStage": 86068
+    },
+    {
+      "id": 86071,
+      "name": "Tachanka",
+      "desc": "Pasang masing-masing 4 aksesori pada \"Shatanaya's Frostsilver\", \"Balsag's Sunwheel\", dan \"Ashamez's Thunder\".",
+      "reward": 20,
+      "hidden": false,
+      "order": 9068
+    },
+    {
+      "id": 86072,
+      "name": "Semudah Inikah?",
+      "desc": "Serang titik lemah musuh sebanyak 5 kali dalam 30 detik.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9069
+    },
+    {
+      "id": 86073,
+      "name": "Aloha! Dar-Der-Dor!",
+      "desc": "Gunakan Grenade Launcher untuk memicu Reaksi Elemental sebanyak 5 kali dalam 30 detik.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9070
+    },
+    {
+      "id": 86074,
+      "name": "Mana Bisa Menembak Sambil Berseluncur?",
+      "desc": "Kalahkan total 20 musuh sambil berseluncur.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9071
+    },
+    {
+      "id": 86075,
+      "name": "Di Bawah Tombak Cahaya Suci Kita Bersatu",
+      "desc": "Dapatkan Assault Rifle \"Shatanaya's Frostsilver\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 9072
+    },
+    {
+      "id": 86076,
+      "name": "Seni Bela Diri Meluncurkan Granat!",
+      "desc": "Dapatkan Grenade Launcher \"Balsag's Sunwheel\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 9073
+    },
+    {
+      "id": 86077,
+      "name": "Peringatan: Bencana Petir Telah Terjadi ....",
+      "desc": "Dapatkan Assault Rifle \"Ashamez's Thunder\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 9074
+    },
+    {
+      "id": 86078,
+      "name": "Cinta Setengah Kilo",
+      "desc": "Dapatkan Frag Crystal.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9075
+    }
+  ]
+}

@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Catalyseur",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3600,
@@ -29,8 +31,10 @@
     {
       "id": "the_shape_of_water",
       "name": "Forme de l'eau",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#80C0FFFF\">DGT Hydro</span>.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -50,7 +54,9 @@
       "id": "kurages_oath",
       "name": "Serment de Kurage",
       "desc": "<span style=\"color:#80C0FFFF\">Applique l'élément Hydro</span> au personnage et invoque une <span style=\"color:#FFFFFFFF\">méduse fantôme</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "nereids_ascension",
       "name": "Ascension de la néréide",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?, soigne tous vos personnages pour 1 pt et accorde une <span style=\"color:#FFFFFFFF\">parure cérémoniale</span> au personnage.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#80C0FFFF\">DGT Hydro</span>, soigne tous vos personnages pour 1 pt et accorde une <span style=\"color:#FFFFFFFF\">parure cérémoniale</span> au personnage.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1102,

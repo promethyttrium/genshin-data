@@ -1,0 +1,40 @@
+{
+  "_id": 25131001,
+  "id": "volkodlak_lobber",
+  "monsterId": 25131105,
+  "name": "야수 요정 투척수",
+  "specialNames": [
+    "투척수"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "돌연변이 마수",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "description": "건장한 체격을 지닌 스네즈나야의 야수 요정.\\n인간과 비슷한 덩치에 야수의 힘을 지녔다. 강인한 상체 근력을 활용해 강력하고 정확한 투척 공격을 가한다. 순얼음 생성 기술이나 원소력을 다루는 데는 능숙하지 않지만, 육체의 힘을 활용하는 능력은 요정 일족 중에서도 뛰어난 편이다",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

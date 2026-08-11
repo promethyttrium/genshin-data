@@ -1,0 +1,12 @@
+{
+  "_id": 70800033,
+  "id": "central_railway_hub",
+  "name": "Terminal Ferroviário Central",
+  "areaName": "Terra da Geada Eterna",
+  "areaId": 80200,
+  "description": "Se a nação de Snezhnaya fosse imaginada como um titã de ferro frio e aço, suas extensas ferrovias seriam suas veias e a Estação Central de Snezhnograd sem dúvida serviria como o coração eternamente pulsante do titã.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 633,
+  "filename_image": "UI_Codex_Scenery_ZDZhiDongBaoCheZhan"
+}

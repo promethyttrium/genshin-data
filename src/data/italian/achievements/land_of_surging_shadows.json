@@ -1,0 +1,130 @@
+{
+  "_id": 70,
+  "id": "land_of_surging_shadows",
+  "name": "Terra delle Ombre impetuose",
+  "order": 73,
+  "achievements": [
+    {
+      "id": 86059,
+      "name": "Ripristino della tundra",
+      "desc": "Completa un Regno delle Ombre grande a Snezhnaya.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9056
+    },
+    {
+      "id": 86062,
+      "name": "Ci vediamo nel Regno delle Ombre",
+      "desc": "Completa una sfida Limite della sopravvivenza.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9059
+    },
+    {
+      "id": 86063,
+      "name": "\"Reduce delle ombre\"",
+      "desc": "Aumenta al massimo il livello di Analisi del Regno delle Ombre.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9060
+    },
+    {
+      "id": 86066,
+      "name": "Genio della sopravvivenza",
+      "desc": "Ottieni 9 medaglie Limite della sopravvivenza.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9063
+    },
+    {
+      "id": 86067,
+      "name": "Artiglieria della tundra (I)",
+      "desc": "Installa 1 accessorio su 1 arma da fuoco.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9064
+    },
+    {
+      "id": 86068,
+      "name": "Artiglieria della tundra (II)",
+      "desc": "Installa 2 accessori su 1 arma da fuoco.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9065,
+      "preStage": 86067
+    },
+    {
+      "id": 86069,
+      "name": "Artiglieria della tundra (III)",
+      "desc": "Installa 4 accessori su 1 arma da fuoco.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9066,
+      "preStage": 86068
+    },
+    {
+      "id": 86071,
+      "name": "Tachanka",
+      "desc": "Installa 4 accessori ciascuno su \"Argento gelido di Shatanaya\", \"Ruota solare di Balsag\" e \"Tuono di Ashamez\".",
+      "reward": 20,
+      "hidden": false,
+      "order": 9068
+    },
+    {
+      "id": 86072,
+      "name": "Mezzogiorno di fuo...",
+      "desc": "Colpisci i punti deboli dei nemici 5 volte di fila entro 30 s.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9069
+    },
+    {
+      "id": 86073,
+      "name": "Salutatemi i miei amici!",
+      "desc": "Innesca 5 reazioni elementali con il lanciagranate nell'arco di 30 s.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9070
+    },
+    {
+      "id": 86074,
+      "name": "Mirare in scivolata è pura fantasia",
+      "desc": "Sconfiggi un totale di 20 nemici mentre scivoli.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9071
+    },
+    {
+      "id": 86075,
+      "name": "La lancia di luce sacra che ci unisce tutti",
+      "desc": "Ottieni il fucile \"Argento gelido di Shatanaya\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 9072
+    },
+    {
+      "id": 86076,
+      "name": "L'arte marziale del lancio di granate!",
+      "desc": "Ottieni il lanciagranate \"Ruota solare di Balsag\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 9073
+    },
+    {
+      "id": 86077,
+      "name": "Attenzione, si è generato un disastro fulminante...",
+      "desc": "Ottieni il fucile d'assalto \"Tuono di Ashamez\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 9074
+    },
+    {
+      "id": 86078,
+      "name": "Cinquecento grammi d'amore",
+      "desc": "Ottieni un Cristallo a frammentazione.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9075
+    }
+  ]
+}

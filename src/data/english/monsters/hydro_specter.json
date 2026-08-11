@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "Spectral Heart",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "Spectral Husk",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Elemental Lifeforms",
   "filename_icon": "UI_MonsterIcon_Sylph_Water_01",
   "description": "A monster birthed from a high concentration of Hydro that can float in the air.\\nOn moonlit nights, Hydro Specters will give off a ghostly glow as they float by the riverbank. Their furtive forms are often mistaken by passers-by for wandering spirits, which has made them mainstays in quite a few folktales.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

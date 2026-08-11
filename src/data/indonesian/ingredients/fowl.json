@@ -155,6 +155,11 @@
       "name": "Surf, Turf, and Perch"
     },
     {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Snezhnaya Shashliks"
+    },
+    {
       "_id": 4002,
       "id": "golden_fried_chicken",
       "name": "Golden Fried Chicken"
@@ -204,6 +209,5 @@
   ],
   "source": [
     "Dijatuhkan oleh hewan"
-  ],
-  "rarity": 0
+  ]
 }

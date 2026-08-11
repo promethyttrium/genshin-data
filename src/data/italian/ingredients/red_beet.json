@@ -1,0 +1,26 @@
+{
+  "_id": 101278,
+  "id": "red_beet",
+  "name": "Barbabietola rossa",
+  "description": "Una resistente pianta erbacea capace di crescere anche sul terreno ghiacciato. Per sopravvivere in un ambiente così inospitale, sviluppa una radice spessa e carnosa.",
+  "recipes": [
+    {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borsc"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Saslyk alla snezhnayana"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Palline dolci"
+    }
+  ],
+  "source": [
+    "Consiglio: si trova a Snezhnaya"
+  ]
+}

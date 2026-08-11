@@ -1,0 +1,158 @@
+{
+  "_id": 25140101,
+  "id": "immortal_construct",
+  "monsterId": 25140101,
+  "name": "Structure immortelle",
+  "specialNames": [
+    "Corps résiduel de plume enflammée éternelle"
+  ],
+  "investigation": {
+    "investigationId": 97,
+    "name": "Structure immortelle",
+    "categoryType": "Boss",
+    "categoryText": "Boss",
+    "description": "Un simple sous-produit, fabriqué uniquement pour mener à bien un certain plan égoïste.\\nAyant perdu depuis longtemps sa fonction de réceptacle biologique, le sujet survit sous la forme d'une entité sauvage et dénuée de raison, errant dans les contrées sauvages."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Zharptitsa_02",
+  "rewardPreviewId": 15213,
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP d'aventure",
+      "count": 200
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP d'affinité"
+    },
+    {
+      "_id": 113090,
+      "id": "unscorched_blossom_branch",
+      "name": "Branche fleurie imbrûlable",
+      "count": 2.556
+    },
+    {
+      "_id": 104114,
+      "id": "agnidus_agate_gemstone",
+      "name": "Pierre d'agate agnidus"
+    },
+    {
+      "_id": 104113,
+      "id": "agnidus_agate_chunk",
+      "name": "Morceau d'agate agnidus"
+    },
+    {
+      "_id": 104112,
+      "id": "agnidus_agate_fragment",
+      "name": "Fragment d'agate agnidus"
+    },
+    {
+      "_id": 104111,
+      "id": "agnidus_agate_sliver",
+      "name": "Éclat d'agate agnidus"
+    },
+    {
+      "_id": 400089,
+      "id": "gladiators_finale",
+      "name": "Rideau du Gladiateur",
+      "rarity": 5
+    },
+    {
+      "_id": 400099,
+      "id": "wanderers_troupe",
+      "name": "Bande vagabonde",
+      "rarity": 5
+    },
+    {
+      "_id": 400088,
+      "id": "gladiators_finale",
+      "name": "Rideau du Gladiateur",
+      "rarity": 4
+    },
+    {
+      "_id": 400098,
+      "id": "wanderers_troupe",
+      "name": "Bande vagabonde",
+      "rarity": 4
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Instructeur",
+      "rarity": 4
+    },
+    {
+      "_id": 400128,
+      "id": "prayers_for_illumination",
+      "name": "Sacrifieur Pyro",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Instructeur",
+      "rarity": 3
+    },
+    {
+      "_id": 400127,
+      "id": "prayers_for_illumination",
+      "name": "Sacrifieur Pyro",
+      "rarity": 3
+    },
+    {
+      "_id": 400047,
+      "id": "adventurer",
+      "name": "Aventurier",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bêtes mystiques",
+  "filename_icon": "UI_MonsterIcon_Zharptitsa_02",
+  "description": "Un sous-produit créé par l'alchimiste Koshchei lors de la création de l'être connu sous le nom d'oiseau de feu.\\nPeut-être était-ce là l'habitude de ce sombre alchimiste : lorsqu'un sujet d'expérience réussissait, tous les autres étaient abandonnés ou éliminés à sa guise.\\nCette création dérivée aurait dû fusionner avec une forme de puissance et atteindre sa plénitude. À présent, elle ne peut qu'errer sans fin dans les gorges de la montagne, telle une bête inachevée et dénuée de conscience.",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.5,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 421.104,
+      "attack": 100.48,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

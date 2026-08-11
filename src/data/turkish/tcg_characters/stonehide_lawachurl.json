@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Toprak",
+    "weapon": "Diğer Silahlar",
     "faction": [
-      null,
-      null
+      "Canavar",
+      "Dağ Yabanisi"
     ],
     "talent_card": {
       "_id": 3239,
@@ -28,8 +30,10 @@
     {
       "id": "plama_lawa",
       "name": "Plama Lawa",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -48,8 +52,10 @@
     {
       "id": "movo_lawa",
       "name": "Movo Lawa",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "3 ? verir.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -62,8 +68,10 @@
     {
       "id": "upa_shato",
       "name": "Upa Shato",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "5 ? verir.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -83,7 +91,9 @@
       "id": "infused_stonehide",
       "name": "Element Yüklü Taş Sırt",
       "desc": "(Pasif) Savaş başladığında bu karakter <span style=\"color:#FFFFFFFF\">Taş Sırt</span> ve <span style=\"color:#FFFFFFFF\">Taş Gücü</span> etkisi kazanır.",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

@@ -1,0 +1,32 @@
+{
+  "_id": 222081,
+  "id": "treacherous_torrent",
+  "shareId": 613,
+  "name": "Sóng Dữ Quỷ Dị",
+  "title": "Thủy Nguyên Bản - Sóng Dữ Quỷ Dị",
+  "desc": "Dưới làn sóng quỷ dị đang âm thầm hội tụ, cơn sóng dữ của tai ương đang lặng lẽ tích tụ...",
+  "in_play_description": "Sau khi <span style=\"color:#FFFFFFFF\">Thủy Nguyên Bản</span> hoặc <span style=\"color:#FFFFFFFF\">Giọt Nước</span> gây sát thương, chữa trị 1 điểm cho Ma Vật chịu nhiều sát thương nhất phe ta. (Mỗi hiệp 3 lần)",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Nguyên Tố Thủy",
+    "card_type": "Thẻ Trang Bị",
+    "energy": [
+      {
+        "_id": 1102,
+        "id": "hydro",
+        "type": "Nguyên Tố Thủy",
+        "count": 1
+      }
+    ],
+    "source": "Nhận được sau khi Khiêu Chiến Quán Rượu ở chỗ Tiểu Hoàng Tử trong Quán Rượu Đuôi Mèo, và hoàn thành mục tiêu khiêu chiến trong độ khó Đánh Giải Trí với Thủy Nguyên Bản",
+    "tags": [
+      "Thiên Phú"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Hành Động Nhanh</span>: Trang bị cho <span style=\"color:#FFFFFFFF\">Thủy Nguyên Bản</span> phe ta.<br/>Sau khi <span style=\"color:#FFFFFFFF\">Thủy Nguyên Bản</span> hoặc <span style=\"color:#FFFFFFFF\">Giọt Nước</span> gây sát thương, chữa trị 1 điểm cho Ma Vật chịu nhiều sát thương nhất phe ta. (Mỗi hiệp 3 lần)<br/>(Bộ bài có Thủy Nguyên Bản mới có thể thêm)"
+    }
+  ]
+}

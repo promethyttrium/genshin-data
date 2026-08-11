@@ -1,0 +1,12 @@
+{
+  "_id": 70800031,
+  "id": "borderlands_town",
+  "name": "Cidade da Fronteira",
+  "areaName": "Antiga Tundra Volkodlak",
+  "areaId": 80100,
+  "description": "Uma cidade que outrora floresceu durante o período de desenvolvimento. No passado, um fluxo interminável de viajantes passava por aqui, transitando constantemente entre Snezhnaya e Nod-Krai.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 631,
+  "filename_image": "UI_Codex_Scenery_ZDYingKeZhen"
+}

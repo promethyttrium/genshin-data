@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Epsilon_Wind",
   "description": "Un organismo fatto di spore e dotato di una certa intelligenza. Possiede un'estrema capacità di adattamento.\\nGrazie al suo gambo eccezionalmente lungo, questo fungo è capace di assorbire rapidamente i nutrienti, e il suo cappello a forma d'ombrello può girare in base alla direzione del vento.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

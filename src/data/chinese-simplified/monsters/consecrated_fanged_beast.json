@@ -25,19 +25,19 @@
       "_id": 112076,
       "id": "marked_shell",
       "name": "锲纹的横脊",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112075,
       "id": "sturdy_shell",
       "name": "密固的横脊",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112074,
       "id": "desiccated_shell",
       "name": "残毁的横脊",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "异种魔兽",
   "filename_icon": "UI_MonsterIcon_Panther_Sacred_Grass",
   "description": "因为啃噬伟大的生命体，而扭曲异变的掠食者。\\n自然的规律是弱肉强食，宠物和圣骸兽则是例外。人类的饵食与不朽的遗骸，本质都是有意或无意的圈套。贪图至强者的馈赠，代价比被关进笼子要惨痛得多。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

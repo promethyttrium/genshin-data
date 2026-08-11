@@ -1,0 +1,26 @@
+{
+  "_id": 101278,
+  "id": "red_beet",
+  "name": "Betterave rouge",
+  "description": "Une plante herbacée robuste, capable de prospérer même dans le sol gelé. Pour survivre dans un environnement aussi hostile, elle développe une racine épaisse et succulente.",
+  "recipes": [
+    {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Bortsch"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Chachlyks snezhnayiens"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Coupes sucrées"
+    }
+  ],
+  "source": [
+    "Zone conseillée : Snezhnaya"
+  ]
+}

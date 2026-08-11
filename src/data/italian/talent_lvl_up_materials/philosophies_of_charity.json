@@ -1,0 +1,30 @@
+{
+  "_id": 104367,
+  "id": "philosophies_of_charity",
+  "name": "Filosofie della benevolenza",
+  "description": "Materiale per l'aumento di livello dei talenti.\\nLa benevolenza è la salvezza del regno glaciale.\\nEssa è una grazia sconfinata estesa a tutti gli esseri viventi. Abbatte il divario tra i nobili e gli umili, trascendendo sia la stirpe che la patria. Il suo sguardo vigile contempla l'intera umanità, offrendo rifugio agli sventurati e promettendo a tutti la liberazione eterna.",
+  "source": [
+    "Segnaposto - Quantità realizzabile: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104366,
+        "id": "guide_to_charity",
+        "name": "Guida alla benevolenza",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio della maestria: Contemplazione IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Lunedì",
+    "Giovedì",
+    "Domenica"
+  ]
+}

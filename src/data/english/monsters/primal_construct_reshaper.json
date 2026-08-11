@@ -25,19 +25,19 @@
       "_id": 112073,
       "id": "radiant_prism",
       "name": "Radiant Prism",
-      "count": 0.1751
+      "count": 0.175
     },
     {
       "_id": 112072,
       "id": "turbid_prism",
       "name": "Turbid Prism",
-      "count": 0.7003
+      "count": 0.7
     },
     {
       "_id": 112071,
       "id": "damaged_prism",
       "name": "Damaged Prism",
-      "count": 2.6263
+      "count": 2.626
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Automatons",
   "filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
   "description": "The guardians of the lost ancient desert ruins have power enough to punish any who would presume to disturb the pure dreams of their lord.\\nThe lord of the blazing sun who once ruled this desert once promised his people a utopia on the other side of existence, though it ultimately turned out to be a mirage made of folly.\\nToday, that utopia is long gone, and the dreams and oaths, forgotten by the world, are now only found in the mantras inscribed upon these machines.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

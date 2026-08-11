@@ -1,0 +1,29 @@
+{
+  "_id": 114096,
+  "id": "the_frost_emperors_farewell",
+  "name": "The Frost Emperor's Farewell",
+  "description": "Entah kapan dan bagaimana, benda ini muncul di atas meja menjelang malam sebelum perang.<br/>Dia tahu bahwa benda itu dibuat sendiri oleh seorang sahabat yang sudah lama tidak dijumpainya.<br/>Demi langit dan bumi, baru di saat itulah dia tersadar. Inilah awal dari segala bencana, buah pahit dari segala hasrat, dan pertanda dari segala kehancuran.",
+  "source": [
+    "Placeholder - Jumlah yang Bisa Di-Craft: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114095,
+        "id": "the_frost_emperors_lament",
+        "name": "The Frost Emperor's Lament",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domain of Forgery: Scars of Cursed Obsession",
+  "days": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ]
+}

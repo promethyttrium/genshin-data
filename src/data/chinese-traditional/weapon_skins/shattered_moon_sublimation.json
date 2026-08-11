@@ -1,0 +1,21 @@
+{
+  "_id": 330002,
+  "id": "shattered_moon_sublimation",
+  "name": "碎月·真化",
+  "description": "自地脈至深之處顯現的、閃映著「死」之力的輝耀兵刃幻形，能依據持有者的元素類型變化自身。據說在古老的國度曾以「瓦恩斯圖格」的名諱為超越的罪人持有。",
+  "rarity": 5,
+  "type": {
+    "id": "Polearm",
+    "name": "長柄武器"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "輝耀幻形·超越（真化）",
+    "priority": 1
+  },
+  "item_id": 341302,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphSpinifer_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphSpinifer_Great"
+}

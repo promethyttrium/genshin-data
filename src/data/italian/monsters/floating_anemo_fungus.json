@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Fungus_Un_Delta_Wind",
   "description": "Un organismo fatto di spore e dotato di una certa intelligenza. Possiede un'estrema capacità di adattamento.\\nNonostante il suo cappello sia molto grande, questo fungo a forma di ombrello è cavo. Di conseguenza, non se ne ricava un buon pasto.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

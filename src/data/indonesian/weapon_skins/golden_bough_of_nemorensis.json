@@ -1,0 +1,21 @@
+{
+  "_id": 310003,
+  "id": "golden_bough_of_nemorensis",
+  "name": "Golden Bough of Nemorensis",
+  "description": "Wujud senjata bercahaya yang muncul dari kedalaman Ley Line ini dapat berubah sesuai dengan jenis elemen pemiliknya. Konon, pada zaman kuno yang kini sudah tak bisa lagi dikenang, utusan langit pernah menghadiahkan pedang panjang ini kepada Penghulu Utama Arcadia, mengizinkannya memimpin kota suci yang diberkahi oleh seribu angin.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Sword"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "Radiant Metamorphosis: Eternity",
+    "priority": 2
+  },
+  "item_id": 341103,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphNemorensis_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphNemorensis"
+}

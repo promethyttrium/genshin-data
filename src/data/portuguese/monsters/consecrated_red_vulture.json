@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Vulture_Sacred_Fire",
   "description": "Uma ave de rapina carniceira que sofreu mutações após se alimentar de formas de vida maiores.\\nAs formas de vida maiores devoradas pelas Bestas da Ossada Sagrada frequentemente possuem consciências quase imortais que nunca podem ser silenciadas ou erradicadas. O próprio poder e consciência ganho pela Besta da Ossada Sagrada devorando essas formas de vida irá, por sua vez, impulsioná-las a buscar mais violência e carniça.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

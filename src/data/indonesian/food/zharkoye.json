@@ -1,0 +1,54 @@
+{
+  "_id": 3701,
+  "id": "zharkoye",
+  "name": "Zharkoye",
+  "description": "Hidangan daging yang disajikan di dalam pot tanah liat. Bahan-bahan yang dipotong kotak-kotak dimasukkan ke dalam pot, ditutup rapat dengan adonan, lalu dipanggang di dalam oven. Setelah matang, tutup roti yang renyah diangkat, dan krim asam ditambahkan sebagai bumbu. Sebenarnya, cara memasaknya mudah saja, tapi mengendalikan suhu oven dan waktu merebusnya butuh pengalaman yang memadai.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Raw Meat",
+      "amount": 3
+    },
+    {
+      "_id": 100080,
+      "id": "potato",
+      "name": "Potato",
+      "amount": 2
+    },
+    {
+      "_id": 100013,
+      "id": "carrot",
+      "name": "Carrot",
+      "amount": 2
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Makanan Pemulihan",
+  "results": {
+    "suspicious": {
+      "_id": 108985,
+      "name": "Suspicious Zharkoye",
+      "description": "Hidangan daging yang disajikan dalam pot tanah liat. Karena waktu pemanggangannya terlalu lama, dagingnya hancur menjadi suwiran yang rasanya seperti selimut tua. Satu suapan saja sudah cukup untuk membuatmu perlahan-lahan menggeser pot tersebut agar makin menjauh dari pandangan ....",
+      "effect": "Memulihkan 30% Max HP dan 600 HP tambahan untuk Karakter yang dipilih."
+    },
+    "normal": {
+      "_id": 108986,
+      "name": "Zharkoye",
+      "description": "Hidangan daging yang disajikan di dalam pot tanah liat. Bahan-bahan yang dipotong kotak-kotak dimasukkan ke dalam pot, ditutup rapat dengan adonan, lalu dipanggang di dalam oven. Setelah matang, tutup roti yang renyah diangkat, dan krim asam ditambahkan sebagai bumbu. Sebenarnya, cara memasaknya mudah saja, tapi mengendalikan suhu oven dan waktu merebusnya butuh pengalaman yang memadai.",
+      "effect": "Memulihkan 32% Max HP dan 1.250 HP tambahan untuk Karakter yang dipilih."
+    },
+    "delicious": {
+      "_id": 108987,
+      "name": "Delicious Zharkoye",
+      "description": "Hidangan daging yang disajikan di dalam pot tanah liat. Membuka lapisan puff pastry yang renyah seketika akan melepaskan embusan aroma gurih bermentega beserta kehangatan yang menggiurkan. Rasanya bagaikan menikmati kehangatan yang nyaman setelah memasukkan sepotong kayu bakar baru ke dalam perapian pada malam musim dingin yang bersalju.",
+      "effect": "Memulihkan 34% Max HP dan 1.900 HP tambahan untuk Karakter yang dipilih."
+    }
+  }
+}

@@ -13,7 +13,6 @@
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Magbeast_Pergesa",
   "description": "The moon's ancient power has seeped into these illusory wings, and the butterfly-shaped monster now dances lightly in the moonlight.\\nThe principles of evolution state that after the wild yet primeval power was tamed by the heavenly ruler, such a monster should not be able to maintain its shape, becoming smaller and weaker over time. However, the moon's blessing has allowed it to glide through this world while remaining in its prime, displaying the remnants of an older world, when the ancient moon once illuminated the land.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

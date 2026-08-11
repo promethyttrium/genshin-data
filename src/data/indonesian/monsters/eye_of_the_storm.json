@@ -61,7 +61,6 @@
   "categoryText": "Makhluk Elemental",
   "filename_icon": "UI_MonsterIcon_Elemental_Wind_01",
   "description": "Perwujudan dari energi Anemo yang sangat berkualitas tinggi.\\nPembentukan Eye of the Storm mengindikasikan bahwa elemental ley line dari suatu daerah terblokir, sehingga menyebabkan penumpukan. Serangan Eye of the Storm yang brutal dan tidak terkendali terhadap siapa saja mungkin bisa menjelaskan sifatnya yang melambangkan luka dunia .",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 2,
   "stats": {

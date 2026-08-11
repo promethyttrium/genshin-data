@@ -1,0 +1,58 @@
+{
+  "_id": 4708,
+  "id": "domain_of_forgery_cast_iron_ii",
+  "name": "煉武秘境：鑄鐵 II",
+  "entranceId": 2106,
+  "entranceName": "妄念的創痕",
+  "description": "心懷觖望的反叛者曾蟄藏此地，妄求復舊之夢。他們的夢與血色的焰光一同死去，唯餘無盡的蒼白。\n若能擊敗盤踞其中的敵人，或許能夠獲得強化裝備的物品吧。",
+  "regionId": 8,
+  "regionName": "至冬",
+  "recommendedLevel": 36,
+  "unlockRank": 21,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "風元素",
+    "冰元素"
+  ],
+  "daysOfWeek": [
+    "週一",
+    "週四",
+    "週日"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "冒險閱歷",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "摩拉",
+      "count": "1550"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "好感經驗",
+      "count": "15"
+    },
+    {
+      "_id": 114086,
+      "id": "muster_of_the_pale_star_army",
+      "name": "蒼星軍勢的集結"
+    },
+    {
+      "_id": 114085,
+      "id": "rise_of_the_pale_star_army",
+      "name": "蒼星軍勢的始動"
+    }
+  ],
+  "monsterList": []
+}

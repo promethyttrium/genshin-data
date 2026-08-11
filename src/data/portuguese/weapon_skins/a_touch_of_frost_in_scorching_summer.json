@@ -1,0 +1,16 @@
+{
+  "_id": 380003,
+  "id": "a_touch_of_frost_in_scorching_summer",
+  "name": "Um Toque Gelado no Verão Quente!",
+  "description": "#Um pequeno presente dos Geladinhos a {M#seus bons amigos}{F#a suas boas amigas}! Parece tão delicioso, com sabor de geleia de frutas. Uma mordida e um frio refrescante e adocicado delicioso dançam juntos pela sua língua. Mas, infelizmente, não é comestível... Embora pareça super saboroso.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Espada"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341803,
+  "icon_path": "UI_EquipIcon_Sword_Icecream",
+  "image_path": "UI_Gacha_EquipIcon_Sword_Icecream"
+}

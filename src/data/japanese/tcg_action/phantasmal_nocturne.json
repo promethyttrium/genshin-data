@@ -1,0 +1,32 @@
+{
+  "_id": 214012,
+  "id": "phantasmal_nocturne",
+  "shareId": 616,
+  "name": "終宵の幻奏",
+  "title": "フィッシュル・終宵の幻奏",
+  "desc": "「そして、どの課題も予想外だけど、中でも特に予想外なものがある。例えば、とある小さな魔女の課題は、原初の光から自分の物質世界を創造すること…ただそれだけ。でも他の小さな魔女は、想像の中にしかいない生命に『魂』を授ける、なんて課題を得たりする…」",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">オズ</span>が存在する時、味方の<span style=\"color:#FFACFFFF\">雷元素関連反応</span>が与えるダメージ+1。（各ラウンドで3回まで）",
+  "attributes": {
+    "cost": 2,
+    "cost_type": "雷元素",
+    "card_type": "装備カード",
+    "energy": [
+      {
+        "_id": 1104,
+        "id": "electro",
+        "type": "雷元素",
+        "count": 2
+      }
+    ],
+    "tags": [
+      "天賦",
+      "魔導"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">クイックアクション</span>：味方の<span style=\"color:#FFFFFFFF\">フィッシュル</span>に装備させる。<br/><span style=\"color:#FFFFFFFF\">オズ</span>を召喚する。<br/><span style=\"color:#FFFFFFFF\">オズ</span>がフィールドに存在する時、味方の<span style=\"color:#FFACFFFF\">雷元素関連反応</span>が与えるダメージ+1。（毎ラウンド3回まで）<br/>（このカードはデッキにフィッシュルが含まれている場合のみ、デッキに追加できる）"
+    }
+  ]
+}

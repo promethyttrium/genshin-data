@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人类势力",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Bisonsaurus",
   "description": "来自平原之上的勇士，在金穗田间巡游的部族守卫者。\\n精通如何利用刃角攻击敌人弱点的技巧，切忌被其发现自身的破绽。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -1,0 +1,32 @@
+{
+  "_id": 215032,
+  "id": "temporal_winds_eulogy",
+  "shareId": 617,
+  "name": "Temporal Wind's Eulogy",
+  "title": "Venti - Temporal Wind's Eulogy",
+  "desc": "\"ดังนั้น จากหลักการนี้แล้ว สิ่งที่เรียกว่า 'เรื่องราวที่ยังไม่ถูกเปิดเผย' มีอยู่เพียงสองประเภทเท่านั้น หนึ่งคืออนาคตของผู้ที่ยังไม่ถูกดวงดาวผูกโยงไว้ และสองคืออนาคตของผู้ที่จงใจแทรกแซงการทำนาย เพื่อเป้าประสงค์บางอย่าง ซึ่งประเภทหลังนี่ช่างน่าหงุดหงิดจริง ๆ หวังว่าแม่มดน้อยในเรื่อง จะไม่กลายเป็นคนแบบนั้น\"",
+  "in_play_description": "หลังจากฝ่ายเราอัญเชิญ <span style=\"color:#FFFFFFFF\">Stormeye</span> ในเทิร์นนี้ <span style=\"color:#FFFFFFFF\">\"โจมตีปกติ\"</span> 2 ครั้งถัดไปของตัวละครที่มีสถานะนี้ <span style=\"color:#FFFFFFFF\">ความเสียหายกายภาพ</span> ที่สร้างจะเปลี่ยนเป็น <span style=\"color:#80FFD7FF\">ความเสียหายลม</span> และใช้ <span style=\"color:#FFFFFFFF\">ธาตุไร้สี</span> น้อยลง 2 ลูก",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "ธาตุลม",
+    "card_type": "การ์ดอุปกรณ์",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "ธาตุลม",
+        "count": 3
+      }
+    ],
+    "tags": [
+      "พรสวรรค์",
+      "มนตรา"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">ดำเนินการด่วน</span>: ติดตั้งให้กับ <span style=\"color:#FFFFFFFF\">Venti</span> ของฝ่ายเรา<br/>อัญเชิญ <span style=\"color:#FFFFFFFF\">Stormeye</span><br/>หลังจากฝ่ายเราอัญเชิญ <span style=\"color:#FFFFFFFF\">Stormeye</span> ในเทิร์นนี้ <span style=\"color:#FFFFFFFF\">\"โจมตีปกติ\"</span> 2 ครั้งถัดไปของตัวละครที่มีการ์ดใบนี้ <span style=\"color:#FFFFFFFF\">ความเสียหายกายภาพ</span> ที่สร้างจะเปลี่ยนเป็น <span style=\"color:#80FFD7FF\">ความเสียหายลม</span> และใช้ <span style=\"color:#FFFFFFFF\">ธาตุไร้สี</span> น้อยลง 2 ลูก<br/>(เข้าร่วมเด็คได้ต่อเมื่อมี Venti อยู่ภายในเด็คเท่านั้น)"
+    }
+  ]
+}

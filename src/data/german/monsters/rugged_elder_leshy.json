@@ -1,0 +1,40 @@
+{
+  "_id": 25137001,
+  "id": "rugged_elder_leshy",
+  "monsterId": 25137006,
+  "name": "Uralter Holzgeist",
+  "specialNames": [
+    "Junger Gliederbaum"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystische Bestien",
+  "filename_icon": "UI_MonsterIcon_Leshy_Mature_01",
+  "description": "Ein Leschi, der in Wäldern und Wildnis wächst.\\nMit seiner nur bruchstückhaften Intelligenz verfügt er auch nicht über die Fähigkeit des Sprechens steht zur Vermutung, dass es sich bei ihm und seinesgleichen um das Ergebnis früherer Experimente aus den Zeiten des goldenen Reichs handelt. Doch eigentlich ist es genau umgekehrt: Laut Aufzeichnungen wurde diese Art von Fee erst erschaffen, nachdem die Meister die Macht über das Leben nahezu vollständig gemeistert hatten.\\nVielleicht birgt dies eine tiefe Bedeutung, die weder die heutigen Feen noch die Menschen ergründen können.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.3,
+      "hydro": 0.1,
+      "geo": 0.3,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 21.945072,
+      "attack": 94.62242,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

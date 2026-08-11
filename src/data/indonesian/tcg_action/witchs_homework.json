@@ -1,0 +1,28 @@
+{
+  "_id": 332065,
+  "id": "witchs_homework",
+  "shareId": 618,
+  "name": "Witch's Homework",
+  "title": "Witch's Homework",
+  "desc": "\"Dibandingkan kalau kita tiba-tiba muncul dan jadi pahlawan, lebih masuk akal kalau kita siapkan semuanya secara perlahan ....\"",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Elemen Sama",
+    "card_type": "Kartu Peristiwa",
+    "energy": [
+      {
+        "_id": 1108,
+        "id": "matching_element",
+        "type": "Elemen Sama",
+        "count": 1
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "Mengambil 1 kartu \"Talenta\". Jika Dek awalmu berisi setidaknya 3 kartu \"Talenta\", maka memberikan <span style=\"color:#FFFFFFFF\">Pengurangan Biaya</span> ke kartu \"Talenta\" di Tangan dengan 1 kartu acak <span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Biaya Dadu Elemental Saat Ini</span></span> tertinggi."
+    }
+  ]
+}

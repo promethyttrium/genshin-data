@@ -1,0 +1,29 @@
+{
+  "_id": 114096,
+  "id": "the_frost_emperors_farewell",
+  "name": "Adieu de l'empereur glacial",
+  "description": "Un objet apparu sur la table à la veille de la guerre, sans que personne ne sache quand ni comment il était arrivé là...<br/>Il reconnut l'œuvre de l'amie qu'il n'avait pas vue depuis de longues années.<br/>C'est alors seulement qu'il comprit que c'était le commencement de chaque calamité, le fruit amer de chaque désir et le présage de chaque destruction.",
+  "source": [
+    "Emplacement réservé - Quantité synthétisable : {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114095,
+        "id": "the_frost_emperors_lament",
+        "name": "Complainte de l'empereur glacial",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Donjon de la maîtrise : Cicatrice d'une obsession maudite",
+  "days": [
+    "Mercredi",
+    "Samedi",
+    "Dimanche"
+  ]
+}

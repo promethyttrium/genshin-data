@@ -8,13 +8,12 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "สัตว์อสูรลึกลับ",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Bisonsaurus_Normal",
   "description": "Saurian ที่มีหงอนแข็งแกร่งและร่างกายที่แข็งแรง ซึ่งสามารถโฉบข้ามท้องทุ่งที่อยู่รอบ ๆ ภูเขาไฟได้\\nตามตำนานกล่าวว่า เดิมที Tatankasaurus นั้นมีร่างกายที่ใหญ่โตมาก จนสามารถใช้เขาของมันค้ำยันภูเขาเพื่อเคลื่อนที่ได้ แต่การเคลื่อนที่ของมันไม่ได้คล่องแคล่วเท่าตอนนี้ บางทีพลังที่ Tatankasaurus นั้นมีอยู่ในตัว อาจจะเป็นสิ่งที่สืบทอดมาจากสายเลือดก็เป็นได้",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {

@@ -1,0 +1,32 @@
+{
+  "_id": 71,
+  "id": "mortal_travails_series_vii",
+  "name": "浮世巡遊・7",
+  "order": 9,
+  "achievements": [
+    {
+      "id": 80525,
+      "name": "氷風のレクイエム",
+      "desc": "「氷」の元素力を習得する。",
+      "reward": 5,
+      "hidden": false,
+      "order": 484
+    },
+    {
+      "id": 80526,
+      "name": "引き裂いた闇が吠える時に",
+      "desc": "『極星のバレエ集』を全巻揃える。",
+      "reward": 5,
+      "hidden": false,
+      "order": 485
+    },
+    {
+      "id": 80528,
+      "name": "死せる者達の物語",
+      "desc": "『スネージナヤ通史』を全巻揃える。",
+      "reward": 5,
+      "hidden": false,
+      "order": 487
+    }
+  ]
+}

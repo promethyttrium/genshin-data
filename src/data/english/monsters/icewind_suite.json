@@ -161,7 +161,6 @@
   "categoryText": "Automatons",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Nutcracker",
   "description": "Artificed Dancers developed by the Fontaine Research Institute.\\nBossuet originally intended for Artificed Dancers to be works of art that transcended the era of mechanical reproduction. But after Bossuet was forced to resign, the project was taken over by Maillardet, who had his own unique understanding of what he wanted to achieve. As a result, while their features were perfected during the course of its development, the Artificed Dancers gradually strayed from Bossuet's original vision.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

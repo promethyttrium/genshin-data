@@ -1,0 +1,39 @@
+{
+  "_id": 212032,
+  "id": "genesis_of_starsigns",
+  "shareId": 614,
+  "name": "Genèse des signes stellaires",
+  "title": "Mona - Genèse des signes stellaires",
+  "desc": "« Si la diseuse de bonne aventure prenait un jour un apprenti, je doute qu'elle le mette à l'épreuve de façon aussi déconcertante. Enfin... Probablement pas. »",
+  "in_play_description": "Les attaques normales de <span style=\"color:#FFFFFFFF\">Mona</span> dépensent 1 dé <span style=\"color:#FFFFFFFF\">élément neutre</span> en moins et les DGT infligés par votre prochaine réaction d'Évaporation après une attaque normale augmentent de 2.",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Hydro",
+    "card_type": "Carte d'équipement",
+    "energy": [
+      {
+        "_id": 1102,
+        "id": "hydro",
+        "type": "Hydro",
+        "count": 1
+      },
+      {
+        "_id": 1109,
+        "id": "unaligned_element",
+        "type": "Élément neutre",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Aptitude",
+      "Action de combat",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Action de combat</span> : Lorsque votre personnage actif est <span style=\"color:#FFFFFFFF\">Mona</span>, équipe cette carte.<br/>Une fois Mona équipée de cette carte, augmente les DGT infligés par votre prochaine réaction d'Évaporation de 2 et utilise immédiatement <span style=\"color:#FFD780FF\">Ondes du destin</span> une fois.<br/>Les attaques normales de <span style=\"color:#FFFFFFFF\">Mona</span> dépensent 1 dé <span style=\"color:#FFFFFFFF\">élément neutre</span> en moins et les DGT infligés par votre prochaine réaction d'Évaporation après une attaque normale augmentent de 2.<br/>(Votre deck doit contenir Mona pour pouvoir y ajouter cette carte)"
+    }
+  ]
+}

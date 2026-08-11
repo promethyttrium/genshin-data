@@ -1,0 +1,29 @@
+{
+  "_id": 114094,
+  "id": "the_frost_emperors_ceremony",
+  "name": "Cerimonia dell'Imperatore del gelo",
+  "description": "Le Fate a corte non comprendevano perché un dono destinato allo Tsar dovesse avere una tale forma. Sapevano solo infondere la loro arte in ornamenti brillanti come gioielli.<br/>Solo lo Tsar assiso sul trono e le Fate delle nevi ne comprendevano il significato.<br/>Poiché ciò che contava non era mai stata la cerimonia, ma l'antica verità che essa custodiva.",
+  "source": [
+    "Segnaposto - Quantità realizzabile: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114093,
+        "id": "the_frost_emperors_revival",
+        "name": "Rinascita dell'Imperatore del gelo",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio della forgiatura: Cicatrici di un'ossessione maledetta",
+  "days": [
+    "Mercoledì",
+    "Sabato",
+    "Domenica"
+  ]
+}

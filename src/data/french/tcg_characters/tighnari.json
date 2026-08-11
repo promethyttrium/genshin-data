@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Arc",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3715,
@@ -29,8 +31,10 @@
     {
       "id": "khanda_barrierbuster",
       "name": "Khanda anti-barrière",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -49,8 +53,10 @@
     {
       "id": "vijnanaphala_mine",
       "name": "Mine de vijnana-phala",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et accorde une <span style=\"color:#FFFFFFFF\">suffusion de vijnana</span> au personnage.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#7EC236FF\">DGT Dendro</span> et accorde une <span style=\"color:#FFFFFFFF\">suffusion de vijnana</span> au personnage.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "fashioners_tanglevine_shaft",
       "name": "Flèche de liane artificielle",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et inflige <span style=\"color:#FFFFFFFF\">1 pt de <span style=\"color:#FFFFFFFF\">DGT de perforation</span></span> à tous les personnages adverses en attente.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts de <span style=\"color:#7EC236FF\">DGT Dendro</span> et inflige <span style=\"color:#FFFFFFFF\">1 pt de <span style=\"color:#FFFFFFFF\">DGT de perforation</span></span> à tous les personnages adverses en attente.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1107,

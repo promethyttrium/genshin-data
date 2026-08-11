@@ -1,0 +1,130 @@
+{
+  "_id": 70,
+  "id": "land_of_surging_shadows",
+  "name": "Land der wogenden Schatten",
+  "order": 73,
+  "achievements": [
+    {
+      "id": 86059,
+      "name": "Restaurator der Tundra",
+      "desc": "Säubere 1 großes Schattenreich in Snezhnaya.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9056
+    },
+    {
+      "id": 86062,
+      "name": "Wir sehen uns im Schattenreich",
+      "desc": "Schließ einmal die Herausforderung der „Ausweglosen Prüfung“ ab.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9059
+    },
+    {
+      "id": 86063,
+      "name": "„Veteran des Schattenreichs“",
+      "desc": "Erhöhe die „Schattenreich-Analysestufe“ auf die Höchststufe.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9060
+    },
+    {
+      "id": 86066,
+      "name": "Bezwinger der Ausweglosen Prüfung",
+      "desc": "Erhalte 9 Medaillen der Ausweglosen Prüfung.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9063
+    },
+    {
+      "id": 86067,
+      "name": "Büchsenmacher der Tundra I",
+      "desc": "Bringe 1 Aufsatz an einer Schusswaffe an.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9064
+    },
+    {
+      "id": 86068,
+      "name": "Büchsenmacher der Tundra II",
+      "desc": "Bringe 2 Aufsätze an einer Schusswaffe an.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9065,
+      "preStage": 86067
+    },
+    {
+      "id": 86069,
+      "name": "Büchsenmacher der Tundra III",
+      "desc": "Bringe 4 Aufsätze an einer Schusswaffe an.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9066,
+      "preStage": 86068
+    },
+    {
+      "id": 86071,
+      "name": "Tatschanka",
+      "desc": "Bringe jeweils 4 Aufsätze an „Shatanays Silberglanz“, „Balsags Sonnenrad“ und „Ashamez’ Donner“ an.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9068
+    },
+    {
+      "id": 86072,
+      "name": "Die Mittagsstunde ist ...",
+      "desc": "Lande innerhalb von 30 s 5 aufeinanderfolgende Treffer auf die Schwachstellen von Gegnern.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9069
+    },
+    {
+      "id": 86073,
+      "name": "Sagt Hallo zu meinem kleinen Freund!",
+      "desc": "Löse innerhalb von 30 s 5 Elementarreaktionen mit dem Granatwerfer aus.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9070
+    },
+    {
+      "id": 86074,
+      "name": "Während des Rutschens zielen? Das ist Wahnsinn!",
+      "desc": "Besiege insgesamt 20 Gegner, während du rutschst.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9071
+    },
+    {
+      "id": 86075,
+      "name": "Der heilige Lichtspeer, der uns alle verbindet",
+      "desc": "Erhalte das Sturmgewehr „Shatanays Silberglanz“.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9072
+    },
+    {
+      "id": 86076,
+      "name": "Die Kunst des Granatenwerfens!",
+      "desc": "Erhalte den Granatwerfer „Balsags Sonnenrad“.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9073
+    },
+    {
+      "id": 86077,
+      "name": "Warnung: Kettenblitz-Katastrophe wird initiiert ...",
+      "desc": "Erhalte das Sturmgewehr „Ashamez’ Donner“.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9074
+    },
+    {
+      "id": 86078,
+      "name": "500 Gramm Liebe",
+      "desc": "Erhalte einen Granatkristall.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9075
+    }
+  ]
+}

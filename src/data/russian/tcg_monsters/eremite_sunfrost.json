@@ -8,16 +8,20 @@
     "hp": 8,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Крио",
+    "weapon": "Прочее",
     "faction": [
-      null
+      "Пустынники"
     ]
   },
   "skills": [
     {
       "id": "double_hack",
       "name": "Двойной разрез",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -36,8 +40,10 @@
     {
       "id": "dualblade_chop",
       "name": "Двусторонняя нарезка",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 3 ед.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -51,7 +57,9 @@
       "id": "stalwart_onslaught",
       "name": "Стойкий натиск",
       "desc": "У персонажа начинается <span style=\"color:#FFFFFFFF\">Подготовка навыка</span>: <span style=\"color:#FFFFFFFF\">Стойкий натиск: Удар по всем фронтам</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -71,7 +79,9 @@
       "id": "ominous_spirit_unleashed_cryo",
       "name": "Зловещий дух (Крио)",
       "desc": "(Пассивный навык)<span style=\"color:#FFFFFFFF\">Когда этот персонаж получает урон:</span> если у этого персонажа не более 7 HP, ему добавляется 1 <span style=\"color:#FFFFFFFF\">Энергия</span> и <span style=\"color:#FFFFFFFF\">Пробуждение духа предзнаменования: Крио</span> (только 1 раз за игру).",
-      "skillTag": [],
+      "skillTag": [
+        "Пассивный навык"
+      ],
       "points": []
     }
   ]

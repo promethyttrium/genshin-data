@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "떠도는 정령 코어",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "떠도는 정령 코어 껍데기",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "원소 생명체",
   "filename_icon": "UI_MonsterIcon_Sylph_Water_01",
   "description": "고농도의 물 원소가 낳은 마물. 공중에서 떠다닐 수 있다.\\n깊은 밤 강가 위를 떠돌며 어두운 빛을 내뿜는다. 여행객들이 어슬렁거리는 그들을 유령으로 착각하곤 해 민간 설화의 단골 소재가 되었다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

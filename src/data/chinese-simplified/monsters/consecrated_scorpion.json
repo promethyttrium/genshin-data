@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "异种魔兽",
   "filename_icon": "UI_MonsterIcon_Scorpion_Sacred_Electric",
   "description": "因为啃噬伟大的生命体，而扭曲异变的节肢动物。\\n生物有其进化之法则，而圣骸兽的法则则是拥有足够的运气，能在同族之前发现在遥远过去就已亡殁的强大生灵遗骸。动物与人的共性往往比人所甘愿承认的更多。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humains",
   "filename_icon": "UI_MonsterIcon_Human_Female_NoWeapon_Flamingo",
   "description": "Une guerrière du sommet des falaises et une garde tribale qui patrouille sur les pics montagneux escarpés.\\nCes guerriers tribaux font davantage confiance à leurs deux mains qu'à n'importe quelle arme. Ils sont par-dessus tout connus pour leur agilité et leur légèreté.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

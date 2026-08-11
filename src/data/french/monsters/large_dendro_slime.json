@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Entités élémentaires",
   "filename_icon": "UI_MonsterIcon_Slime_Grass_03",
   "description": "Un Blob dont l'organisme a muté sous l'influence d'une forte concentration d'élément Dendro.\\nCertains organismes, comme les Fleurs mensongères, utilisent duplicité et imitation pour tromper leurs proies, ce qui amène certains à penser que l'existence de ce type de Blob pourrait être due à un certain type de parasite. Peut-être que, dans ce cas, certaines cultures ont pu en tirer certaines connaissances médicinales intéressantes...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

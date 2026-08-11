@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Eisenpfeife des Kriegers",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Holzpfeife des Wächters",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Hookwalker",
   "description": "Ein mächtiger Krieger der Nachkommen der Baumkrone, der für seine Tapferkeit ausgezeichnet und dem die Ehre der Saurierkrone zuteilwurde.\\nDieser Krieger vermag es, seine Angriffsreichweite mithilfe eines an einem Seil befestigten Hakens maßgeblich zu erweitern. Haken und Seile sind für die Mitglieder des Stammes der „Nachkommen der Baumkrone“ ein unverzichtbarer Bestandteil des täglichen Lebens. Doch nur die durchgeknalltesten unter den Kriegern kombinieren Haken und Seile mit Sägeblättern, um dadurch schwer zu handhabende, aber dafür umso tödlichere Waffen zu schaffen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

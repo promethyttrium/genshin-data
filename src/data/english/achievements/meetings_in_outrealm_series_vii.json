@@ -1,0 +1,80 @@
+{
+  "_id": 72,
+  "id": "meetings_in_outrealm_series_vii",
+  "name": "Meetings in Outrealm: Series VII",
+  "order": 37,
+  "achievements": [
+    {
+      "id": 86079,
+      "name": "The Fall of Being",
+      "desc": "Defeat a Frostnight Herra in Co-Op Mode.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9076
+    },
+    {
+      "id": 86080,
+      "name": "Twenty-Six. Penetration!",
+      "desc": "Defeat a Super-Heavy Landrover: Mechanized Fortress in Co-Op Mode.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9077
+    },
+    {
+      "id": 86081,
+      "name": "Then Don't Say It!",
+      "desc": "Defeat a Lord of the Hidden Depths: Whisperer of Nightmares in Co-Op Mode.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9078
+    },
+    {
+      "id": 86082,
+      "name": "Refuse Falsehood, Reveal the Truth",
+      "desc": "Defeat The Doctor in Co-Op Mode.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9079
+    },
+    {
+      "id": 86083,
+      "name": "What Did You Even Protect?",
+      "desc": "Defeat a Radiant Moongecko in Co-Op Mode.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9080
+    },
+    {
+      "id": 86084,
+      "name": "\"If I Whet My Glittering sword...\"",
+      "desc": "Defeat the Watcher: Fallen Vigil in Co-Op Mode.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9081
+    },
+    {
+      "id": 86085,
+      "name": "Independent Ignorance",
+      "desc": "Defeat Il Dottore in Co-Op Mode.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9082
+    },
+    {
+      "id": 86086,
+      "name": "Immortality Severed",
+      "desc": "Defeat an Immortal Construct in Co-Op Mode.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9083
+    },
+    {
+      "id": 86087,
+      "name": "Endless Vitality",
+      "desc": "Defeat a Chimeric Winged Lion in Co-Op Mode.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9084
+    }
+  ]
+}

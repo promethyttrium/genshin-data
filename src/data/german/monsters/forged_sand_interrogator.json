@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Human_Female_NoWeapon_Drillhead",
   "description": "Eine Kriegerin aus dem Herzen der Schlucht, eine Stammeswächterin, die in den kristallinen Bergen und Flüssen umherzieht.\\nDiese Stammeskriegerin ist mit einer kugelköpfigen Keule bewaffnet, deren Schläge jeden noch so harten Stein in Stücke schlagen können. Wenn sie sich gerade nicht in den Kampf stürzt, sprengt sie mit ihrer Waffe gern die Felsen in den Bergen, um Edelsteine und Spuren von Phlogiston zu finden.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

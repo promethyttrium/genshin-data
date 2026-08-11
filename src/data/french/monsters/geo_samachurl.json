@@ -14,14 +14,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Brutocollinus",
   "filename_icon": "UI_MonsterIcon_Shaman_Rock_01",
   "description": "Un vieux Brutocollinus marmonnant qui écoute l'élément Géo.\\nLes Brutocollinus ayant une affinité particulière avec les éléments ont tendance à atteindre l'apogée de leurs capacités au crépuscule de leur vie. Au regard des montagnes éternelles, ces vieux Brutocollinus ne sont que des enfants, mais leurs souvenirs et leurs expériences les ont guidés sur la voie de la maîtrise de la roche.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

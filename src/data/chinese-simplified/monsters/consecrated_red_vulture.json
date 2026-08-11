@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "异种魔兽",
   "filename_icon": "UI_MonsterIcon_Vulture_Sacred_Fire",
   "description": "因为啃噬伟大的生命体，而扭曲异变的食腐猛禽。\\n圣骸兽所吞食的尸骸当中，常常夹杂着有永远无法陷入沉寂的意志。而这些意志与力量又会驱使它无穷尽地渴求厮杀与亡骸。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

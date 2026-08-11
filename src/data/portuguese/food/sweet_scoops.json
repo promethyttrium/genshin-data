@@ -1,0 +1,54 @@
+{
+  "_id": 4906,
+  "id": "sweet_scoops",
+  "name": "Sorvetes Sortidos",
+  "description": "Uma combinação de sorvetes. Quatro sabores diferentes são servidos em tigelas de papel separadas e reunidas numa única caixa. Quem experimenta cai geralmente em uma de duas categorias: aqueles que comem qualquer sabor que quiserem e aqueles que terminam cada tigela em ordem. Seja como for, nunca sobra nada no fundo da caixa no fim.",
+  "rarity": 4,
+  "ingredients": [
+    {
+      "_id": 101265,
+      "id": "midsommar_berry",
+      "name": "Baga de Veraneio",
+      "amount": 3
+    },
+    {
+      "_id": 101264,
+      "id": "lakkaberry",
+      "name": "Lakkabaga",
+      "amount": 3
+    },
+    {
+      "_id": 101281,
+      "id": "rimecurrant",
+      "name": "Groselha de Gelo",
+      "amount": 3
+    },
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Beterraba Vermelha",
+      "amount": 3
+    }
+  ],
+  "dish_type": "Pratos de ATQ",
+  "results": {
+    "suspicious": {
+      "_id": 132018,
+      "name": "Sorvetes Sortidos Estranhos",
+      "description": "Uma combinação de bolas de sorvete. As superfícies com crateras parecem bolas de papel amassadas, com dificuldade para manter a forma original. Ao entrar na boca, uma camada terrível de flocos de gelo esconde completamente o sabor, deixando nenhum espaço para nuance gastronômica. Nesse momento, seu único desejo é fechar os olhos e se perguntar por que você decidiu aceitar esse desafio...",
+      "effect": "Aumenta o ATQ em 224 e a Taxa CRIT em 6% de todos os personagens da equipe por 300s. Durante o modo multijogador, este efeito é aplicado apenas em si mesmo."
+    },
+    "normal": {
+      "_id": 132019,
+      "name": "Sorvetes Sortidos",
+      "description": "Uma combinação de sorvetes. Quatro sabores diferentes são servidos em tigelas de papel separadas e reunidas numa única caixa. Quem experimenta cai geralmente em uma de duas categorias: aqueles que comem qualquer sabor que quiserem e aqueles que terminam cada tigela em ordem. Seja como for, nunca sobra nada no fundo da caixa no fim.",
+      "effect": "Aumenta o ATQ em 272 e a Taxa CRIT em 8% de todos os personagens da equipe por 300s. Durante o modo multijogador, este efeito é aplicado apenas em si mesmo."
+    },
+    "delicious": {
+      "_id": 132020,
+      "name": "Sorvetes Sortidos Delicioso",
+      "description": "Uma combinação de bolas de sorvete. Sedosas e densas, cada bola se dissolve graciosamente no paladar, abrindo o caminho para um adocicado nítido e refrescante que abraça gentilmente os sentidos. Até muito tempo após a caixa estar vazia, você se encontra relutante em soltá-la, fechando seus olhos para saborear o retrogosto de pura alegria...",
+      "effect": "Aumenta o ATQ em 320 e a Taxa CRIT em 10% de todos os personagens da equipe por 300s. Durante o modo multijogador, este efeito é aplicado apenas em si mesmo."
+    }
+  }
+}

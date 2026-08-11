@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "フライムの幽核",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "フライムの乾核",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Sylph_Rock_01",
   "description": "高濃度の岩元素から生まれ、空を浮遊する能力を持った魔物。\\n岩フライムが翼葉を閉じる時、ある植物の実に擬する。そのため、一部の古い伝説の中では、彼らは天の巨樹に実った果実で、不思議な薬用価値があると思われている。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

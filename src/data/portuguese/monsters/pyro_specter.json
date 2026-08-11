@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Vida Elemental",
   "filename_icon": "UI_MonsterIcon_Sylph_Fire_01",
   "description": "Um monstro nascido de elemento Pyro altamente concentrado que pode flutuar no ar.\\nHouve uma vez um estudante da Academia que conduziu uma pesquisa sobre seu comportamento. Ele acreditava que os Espectros eram uma forma de Borboleta de Cristal; já que ambos podiam voar e ambos nasciam em áreas saturadas com energia elemental. Ele ainda não se graduou.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

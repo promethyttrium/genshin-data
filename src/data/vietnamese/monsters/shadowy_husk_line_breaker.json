@@ -25,19 +25,19 @@
       "_id": 112019,
       "id": "deathly_statuette",
       "name": "Tượng Tử Thần",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112018,
       "id": "dark_statuette",
       "name": "Tượng Bóng Đêm",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112017,
       "id": "gloomy_statuette",
       "name": "Tượng Hắc Ám",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Vực Sâu",
   "filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Lance_Water",
   "description": "Binh lính đen tuyền, từng là quân nhân đầy kiêu hãnh của vương quốc cổ dưới lòng đất, giờ đây đã không còn lý trí của \"con người\".\\nVì lý tưởng bảo vệ mà ý chí vẫn còn lưu lại trong lớp vỏ rỗng, nhưng đã không còn ai chỉ cho họ nơi của kẻ địch nữa, vậy thứ cần bảo vệ lại là gì...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

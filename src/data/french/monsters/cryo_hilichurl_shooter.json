@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Brutocollinus",
   "filename_icon": "UI_MonsterIcon_Hili_Ice_Range",
   "description": "Résident d'origine des contrées sauvages de Teyvat.\\nCes tireurs manient de simples arbalètes et recouvrent la tête de leurs flèches de glace. On dit que les blessures causées par ces flèches soignent moins bien, le froid ralentissant la circulation du sang.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

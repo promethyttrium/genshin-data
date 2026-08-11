@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Doğa",
+    "weapon": "Kılıç",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 5164,
@@ -29,8 +31,10 @@
     {
       "id": "boxcutter",
       "name": "Maket Bıçağı",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -50,7 +54,9 @@
       "id": "meowteor_kick",
       "name": "Miyav Jitsu",
       "desc": "1 <span style=\"color:#FFFFFFFF\">Acil Neko Kargo</span> ve 2 kademe <span style=\"color:#FFFFFFFF\">Güvenli Teslimat Kalkanı</span> oluşturur.",
-      "skillTag": [],
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "secret_art_surprise_dispatch",
       "name": "Gizli Sanat: Sürpriz Dağıtım",
-      "desc": "? ? verir ve rakibinin tarafında 1 <span style=\"color:#FFFFFFFF\">Kedi Otu Kakulesi</span> oluşturur.",
-      "skillTag": [],
+      "desc": "4 <span style=\"color:#7EC236FF\">Doğa Hasarı</span> verir ve rakibinin tarafında 1 <span style=\"color:#FFFFFFFF\">Kedi Otu Kakulesi</span> oluşturur.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1107,

@@ -1,0 +1,80 @@
+{
+  "_id": 72,
+  "id": "meetings_in_outrealm_series_vii",
+  "name": "Encuentros fuera de este mundo: Parte 7",
+  "order": 37,
+  "achievements": [
+    {
+      "id": 86079,
+      "name": "La caída de la existencia",
+      "desc": "Derrota al Señor Nochescarcha en modo multijugador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9076
+    },
+    {
+      "id": 86080,
+      "name": "Veintiséis, golpeado",
+      "desc": "Derrota al Todoterreno Superpesado - Fortaleza mecánica en modo multijugador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9077
+    },
+    {
+      "id": 86081,
+      "name": "¡No te atrevas a decir eso!",
+      "desc": "Derrota al Susurrador de Pesadillas de las Profundidades Insondables en modo multijugador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9078
+    },
+    {
+      "id": 86082,
+      "name": "Que se manifieste la verdad",
+      "desc": "Derrota a El Doctor en modo multijugador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9079
+    },
+    {
+      "id": 86083,
+      "name": "¿Qué has protegido?",
+      "desc": "Derrota al Selenogeco Radiante en modo multijugador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9080
+    },
+    {
+      "id": 86084,
+      "name": "Si afilara mi reluciente espada",
+      "desc": "Derrota al Vigilante Celestecaído en modo multijugador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9081
+    },
+    {
+      "id": 86085,
+      "name": "Ignorancia solitaria",
+      "desc": "Derrota a Dottore en modo multijugador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9082
+    },
+    {
+      "id": 86086,
+      "name": "El inmortal ha sido derrotado",
+      "desc": "Derrota a la Creación Derivada Inmortal en modo multijugador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9083
+    },
+    {
+      "id": 86087,
+      "name": "Toda vida llega a su fin",
+      "desc": "Derrota al León Quimérico Alado en modo multijugador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9084
+    }
+  ]
+}

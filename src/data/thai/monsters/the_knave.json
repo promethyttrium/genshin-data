@@ -157,7 +157,6 @@
   "categoryText": "ศัตรูที่น่าจดจำ",
   "filename_icon": "UI_MonsterIcon_Nihil",
   "description": "The Knave ผู้บริหารอันดับที่สี่ของ Fatui",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

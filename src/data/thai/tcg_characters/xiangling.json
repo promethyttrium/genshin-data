@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ธาตุไฟ",
+    "weapon": "หอก",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3230,
@@ -29,8 +31,10 @@
     {
       "id": "doughfu",
       "name": "Dough-Fu",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง? 2 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,7 +54,9 @@
       "id": "guoba_attack",
       "name": "Guoba Attack",
       "desc": "เรียก <span style=\"color:#FFFFFFFF\">Guoba</span>",
-      "skillTag": [],
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "pyronado",
       "name": "Pyronado",
-      "desc": "สร้าง? ? หน่วย และสร้าง <span style=\"color:#FFFFFFFF\">Pyronado</span>",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#FF9999FF\">ความเสียหายไฟ</span> 3 หน่วย และสร้าง <span style=\"color:#FFFFFFFF\">Pyronado</span>",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1103,

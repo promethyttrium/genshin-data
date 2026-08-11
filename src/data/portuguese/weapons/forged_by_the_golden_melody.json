@@ -1,0 +1,333 @@
+{
+  "_id": 12435,
+  "id": "forged_by_the_golden_melody",
+  "name": "Forjada pela Lei Dourada",
+  "description": "Um espadão decorado com ouro. Diz a lenda que foi a arma preferida de um certo Harmosta ilustre em um passado distante.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Espadão"
+  },
+  "domain": "Ecos das Marés Profundas",
+  "passive": "Dia e Noite Opostos",
+  "bonus": "A cada 10s, o portador toca um Movimento Harmônico correspondente na seguinte ordem: aumenta o ATQ em <span>18%/22.5%/27%/31.5%/36%</span>/aumenta a Proficiência Elemental em <span>120/150/180/210/240</span>/aumenta o Dano de Brilho Estelar em <span>28%/35%/42%/49%/56%</span>. Cada efeito de Movimento Harmônico dura 10s, e pode ser desencadeado mesmo quando o portador não for o personagem ativo.<br/>Depois de desencadear Brilho Estelar, obtém por 12s \"Movimento Harmônico: Oposto\" com os mesmos efeitos do Movimento Harmônico ativo no momento em que a reação Brilho Estelar foi desencadeada. Esse efeito pode acumular sobre o efeito Movimento Harmônico original, e pode ser desencadeado uma vez a cada 12s.",
+  "specialProp": "Taxa Crítica",
+  "stats": {
+    "primary": "ATQ Básico",
+    "secondary": "Taxa Crítica",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 42,
+        "secondary": 6
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 109,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 135,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 205,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 231,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 266,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 292,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 327,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 353,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 388,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 414,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 449,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 475,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 510,
+        "secondary": 27.6
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114053,
+          "id": "dross_of_pure_sacred_dewdrop",
+          "name": "Impureza da Gota de Orvalho Pura Sagrada",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112098,
+          "id": "ruined_hilt",
+          "name": "Punho Danificado",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112080,
+          "id": "transoceanic_pearl",
+          "name": "Pérola Transoceânica",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114054,
+          "id": "sublimation_of_pure_sacred_dewdrop",
+          "name": "Sublimação da Gota de Orvalho Pura Sagrada",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112098,
+          "id": "ruined_hilt",
+          "name": "Punho Danificado",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112080,
+          "id": "transoceanic_pearl",
+          "name": "Pérola Transoceânica",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114054,
+          "id": "sublimation_of_pure_sacred_dewdrop",
+          "name": "Sublimação da Gota de Orvalho Pura Sagrada",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112099,
+          "id": "splintered_hilt",
+          "name": "Punho Quebrado",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112081,
+          "id": "transoceanic_chunk",
+          "name": "Pedaço Transoceânico",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114055,
+          "id": "spring_of_pure_sacred_dewdrop",
+          "name": "Fonte da Gota de Orvalho Pura Sagrada",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112099,
+          "id": "splintered_hilt",
+          "name": "Punho Quebrado",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112081,
+          "id": "transoceanic_chunk",
+          "name": "Pedaço Transoceânico",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114055,
+          "id": "spring_of_pure_sacred_dewdrop",
+          "name": "Fonte da Gota de Orvalho Pura Sagrada",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112100,
+          "id": "stillsmoldering_hilt",
+          "name": "Punho Incandescente",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112082,
+          "id": "xenochromatic_crystal",
+          "name": "Cristal Caleidoscópico",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114056,
+          "id": "essence_of_pure_sacred_dewdrop",
+          "name": "Essência da Gota de Orvalho Pura Sagrada",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112100,
+          "id": "stillsmoldering_hilt",
+          "name": "Punho Incandescente",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112082,
+          "id": "xenochromatic_crystal",
+          "name": "Cristal Caleidoscópico",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "Dia e Noite Opostos",
+    "template": "A cada 10s, o portador toca um Movimento Harmônico correspondente na seguinte ordem: aumenta o ATQ em <span style=\"color:#99FFFFFF\">{0}</span>/aumenta a Proficiência Elemental em <span style=\"color:#99FFFFFF\">{1}</span>/aumenta o Dano de Brilho Estelar em <span style=\"color:#99FFFFFF\">{2}</span>. Cada efeito de Movimento Harmônico dura 10s, e pode ser desencadeado mesmo quando o portador não for o personagem ativo.<br/>Depois de desencadear Brilho Estelar, obtém por 12s \"Movimento Harmônico: Oposto\" com os mesmos efeitos do Movimento Harmônico ativo no momento em que a reação Brilho Estelar foi desencadeada. Esse efeito pode acumular sobre o efeito Movimento Harmônico original, e pode ser desencadeado uma vez a cada 12s.",
+    "params": [
+      [
+        "18%",
+        "120",
+        "28%"
+      ],
+      [
+        "22.5%",
+        "150",
+        "35%"
+      ],
+      [
+        "27%",
+        "180",
+        "42%"
+      ],
+      [
+        "31.5%",
+        "210",
+        "49%"
+      ],
+      [
+        "36%",
+        "240",
+        "56%"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "A cada 10s, o portador toca um Movimento Harmônico correspondente na seguinte ordem: aumenta o ATQ em <span>18%</span>/aumenta a Proficiência Elemental em <span>120</span>/aumenta o Dano de Brilho Estelar em <span>28%</span>. Cada efeito de Movimento Harmônico dura 10s, e pode ser desencadeado mesmo quando o portador não for o personagem ativo.<br/>Depois de desencadear Brilho Estelar, obtém por 12s \"Movimento Harmônico: Oposto\" com os mesmos efeitos do Movimento Harmônico ativo no momento em que a reação Brilho Estelar foi desencadeada. Esse efeito pode acumular sobre o efeito Movimento Harmônico original, e pode ser desencadeado uma vez a cada 12s."
+    },
+    {
+      "refinement": 2,
+      "desc": "A cada 10s, o portador toca um Movimento Harmônico correspondente na seguinte ordem: aumenta o ATQ em <span>22.5%</span>/aumenta a Proficiência Elemental em <span>150</span>/aumenta o Dano de Brilho Estelar em <span>35%</span>. Cada efeito de Movimento Harmônico dura 10s, e pode ser desencadeado mesmo quando o portador não for o personagem ativo.<br/>Depois de desencadear Brilho Estelar, obtém por 12s \"Movimento Harmônico: Oposto\" com os mesmos efeitos do Movimento Harmônico ativo no momento em que a reação Brilho Estelar foi desencadeada. Esse efeito pode acumular sobre o efeito Movimento Harmônico original, e pode ser desencadeado uma vez a cada 12s."
+    },
+    {
+      "refinement": 3,
+      "desc": "A cada 10s, o portador toca um Movimento Harmônico correspondente na seguinte ordem: aumenta o ATQ em <span>27%</span>/aumenta a Proficiência Elemental em <span>180</span>/aumenta o Dano de Brilho Estelar em <span>42%</span>. Cada efeito de Movimento Harmônico dura 10s, e pode ser desencadeado mesmo quando o portador não for o personagem ativo.<br/>Depois de desencadear Brilho Estelar, obtém por 12s \"Movimento Harmônico: Oposto\" com os mesmos efeitos do Movimento Harmônico ativo no momento em que a reação Brilho Estelar foi desencadeada. Esse efeito pode acumular sobre o efeito Movimento Harmônico original, e pode ser desencadeado uma vez a cada 12s."
+    },
+    {
+      "refinement": 4,
+      "desc": "A cada 10s, o portador toca um Movimento Harmônico correspondente na seguinte ordem: aumenta o ATQ em <span>31.5%</span>/aumenta a Proficiência Elemental em <span>210</span>/aumenta o Dano de Brilho Estelar em <span>49%</span>. Cada efeito de Movimento Harmônico dura 10s, e pode ser desencadeado mesmo quando o portador não for o personagem ativo.<br/>Depois de desencadear Brilho Estelar, obtém por 12s \"Movimento Harmônico: Oposto\" com os mesmos efeitos do Movimento Harmônico ativo no momento em que a reação Brilho Estelar foi desencadeada. Esse efeito pode acumular sobre o efeito Movimento Harmônico original, e pode ser desencadeado uma vez a cada 12s."
+    },
+    {
+      "refinement": 5,
+      "desc": "A cada 10s, o portador toca um Movimento Harmônico correspondente na seguinte ordem: aumenta o ATQ em <span>36%</span>/aumenta a Proficiência Elemental em <span>240</span>/aumenta o Dano de Brilho Estelar em <span>56%</span>. Cada efeito de Movimento Harmônico dura 10s, e pode ser desencadeado mesmo quando o portador não for o personagem ativo.<br/>Depois de desencadear Brilho Estelar, obtém por 12s \"Movimento Harmônico: Oposto\" com os mesmos efeitos do Movimento Harmônico ativo no momento em que a reação Brilho Estelar foi desencadeada. Esse efeito pode acumular sobre o efeito Movimento Harmônico original, e pode ser desencadeado uma vez a cada 12s."
+    }
+  ]
+}

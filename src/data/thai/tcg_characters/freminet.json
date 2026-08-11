@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ธาตุน้ำแข็ง",
+    "weapon": "ดาบใหญ่",
     "faction": [
-      null,
-      null
+      "Fontaine",
+      "Fatui"
     ],
     "talent_card": {
       "_id": 6593,
@@ -30,8 +32,10 @@
     {
       "id": "flowing_eddies",
       "name": "Flowing Eddies",
-      "desc": "สร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "สร้าง? 2 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,8 +54,10 @@
     {
       "id": "pressurized_floe",
       "name": "Pressurized Floe",
-      "desc": "สร้าง? ? หน่วย และหากตัวละครนี้ยังไม่ได้รับ <span style=\"color:#FFFFFFFF\">Pers Timer</span> จะทำให้ได้รับ <span style=\"color:#FFFFFFFF\">Pers Timer</span>",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#99FFFFFF\">ความเสียหายน้ำแข็ง</span> 2 หน่วย และหากตัวละครนี้ยังไม่ได้รับ <span style=\"color:#FFFFFFFF\">Pers Timer</span> จะทำให้ได้รับ <span style=\"color:#FFFFFFFF\">Pers Timer</span>",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -64,8 +70,10 @@
     {
       "id": "shadowhunters_ambush",
       "name": "Shadowhunter's Ambush",
-      "desc": "สร้าง? ? หน่วย และตัวละครนี้จะได้รับ <span style=\"color:#FFFFFFFF\">Subnautical Hunter Mode</span>",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#99FFFFFF\">ความเสียหายน้ำแข็ง</span> 4 หน่วย และตัวละครนี้จะได้รับ <span style=\"color:#FFFFFFFF\">Subnautical Hunter Mode</span>",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1101,

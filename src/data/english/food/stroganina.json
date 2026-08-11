@@ -1,0 +1,42 @@
+{
+  "_id": 2701,
+  "id": "stroganina",
+  "name": "Stroganina",
+  "description": "Sliced fish strips. Cut with a sharp blade at an angle across the surface of a whole frozen fish, shaving off thin, curling strips. Usually served with coarse salt, this is a common raw cold platter in Snezhnaya.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 100084,
+      "id": "fish",
+      "name": "Fish",
+      "amount": 3
+    },
+    {
+      "_id": 100075,
+      "id": "salt",
+      "name": "Salt",
+      "amount": 2
+    }
+  ],
+  "dish_type": "ATK-Boosting Dish",
+  "results": {
+    "suspicious": {
+      "_id": 108991,
+      "name": "Suspicious Stroganina",
+      "description": "Sliced fish strips. The thicker parts are so frozen they might chip a tooth, while the thinner parts have already melted into mush... At the very least, under Snezhnaya's freezing temperatures, you probably won't have to worry about an upset stomach.",
+      "effect": "Increases all party members' ATK by 66 for 300s. In Co-Op Mode, this effect only applies to your own character(s)."
+    },
+    "normal": {
+      "_id": 108992,
+      "name": "Stroganina",
+      "description": "Sliced fish strips. Cut with a sharp blade at an angle across the surface of a whole frozen fish, shaving off thin, curling strips. Usually served with coarse salt, this is a common raw cold platter in Snezhnaya.",
+      "effect": "Increases all party members' ATK by 81 for 300s. In Co-Op Mode, this effect only applies to your own character(s)."
+    },
+    "delicious": {
+      "_id": 108993,
+      "name": "Delicious Stroganina",
+      "description": "Sliced fish strips. Paper-thin ribbons of meat are piled in the dish like a small cluster of ice-sculpted petals. Pinch a piece into your mouth, and the crisp, clean sweetness hits the tip of your tongue with the fresh embrace of melting snow.",
+      "effect": "Increases all party members' ATK by 95 for 300s. In Co-Op Mode, this effect only applies to your own character(s)."
+    }
+  }
+}

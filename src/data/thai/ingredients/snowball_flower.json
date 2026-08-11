@@ -1,0 +1,21 @@
+{
+  "_id": 101280,
+  "id": "snowball_flower",
+  "name": "Snowball Flower",
+  "description": "ดอกไม้น่ารักที่มีช่อดอกกลมมน เมื่อหิมะตกลงบนกลีบดอก มันจะดูเหมือนก้อนหิมะเล็ก ๆ ก้อนหนึ่ง",
+  "recipes": [
+    {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Snowrealm Okroshkas"
+    },
+    {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "Snowball Blooms Atop Snowfields"
+    }
+  ],
+  "source": [
+    "คำแนะนำ: หาได้ที่ Snezhnaya"
+  ]
+}

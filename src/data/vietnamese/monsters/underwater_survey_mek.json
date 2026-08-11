@@ -27,13 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Cơ Quan Tự Động",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Recon",
   "description": "Robot dây cót được thiết kế chế tạo ra với mục đích thám hiểm dưới nước.\\nVề mặt thiết kế, trong tình huống động lực học không có được bước đột phá, vận động học là đối tượng nghiên cứu quan trọng nhất. Trong thiết kế máy móc với mục đích nhất định, mô phỏng sinh học có lúc sẽ cung cấp giải pháp nhanh gọn nhất.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

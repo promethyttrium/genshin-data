@@ -25,19 +25,19 @@
       "_id": 112076,
       "id": "marked_shell",
       "name": "Rückgrat mit gemeißeltem Muster",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112075,
       "id": "sturdy_shell",
       "name": "Festes Rückgrat",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112074,
       "id": "desiccated_shell",
       "name": "Zertrümmertes Rückgrat",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Panther_Sacred_Grass",
   "description": "Ein aufgrund des Zehrens an heiligen Körpern entstelltes und verändertes Raubtier.\\nDas Überleben des Stärkeren mag als Naturgesetz gelten, allerdings bilden Haustiere und Bestien heiliger Knochen hier eine Ausnahme. Von den Menschen verwendetes Futter und die Überreste unsterblicher Wesen, sie beide können Fallen darstellen, ob nun beabsichtigt, oder nicht. Und der Preis für das Begehren nach dem Geschenk des Stärksten kann weitaus schmerzvoller sein, als in einem Käfig eingesperrt zu sein.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

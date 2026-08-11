@@ -1,0 +1,24 @@
+{
+  "_id": 112150,
+  "id": "symbiotic_chimeric_nucleus",
+  "name": "Nucleo chimerico simbiotico",
+  "description": "Un componente relativamente complesso estratto da un mostro artificiale. È progettato per sostenere i cicli biologici di due forme di vita distinte, intrecciandole perfettamente in un unico organismo.",
+  "source": [
+    "Ottenibile dalle Bestie chimeriche aberranti di liv. 40+",
+    "Scambio di Polvere stellare",
+    "Segnaposto - Quantità realizzabile: {0}"
+  ],
+  "rarity": 2,
+  "craft": {
+    "cost": 25,
+    "items": [
+      {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Nucleo chimerico",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Shamansaurus",
   "description": "Un centinela tribal del viento nocturno que patrulla los cañones brumosos.\\nSe dice que las pintadas que adornan sus cuerpos forman parte de un arte que evolucionó de la práctica de los grabados de flogisto, y que para lograr dominar el poder que contienen, uno debe entrenar durante largos años.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

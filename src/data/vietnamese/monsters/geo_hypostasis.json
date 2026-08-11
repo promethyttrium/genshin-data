@@ -13,7 +13,6 @@
   "categoryText": "Sinh Mệnh Nguyên Tố",
   "filename_icon": "UI_MonsterIcon_Effigy_Rock",
   "description": "Biệt danh \"Grimoire\" – sinh mệnh Nguyên Tố Nham cao cấp.\\nNguyên tố nguyên bản vốn là vật cấu tạo cô đặc, có chất lượng cao nhất.\\nVỏ siêu Nguyên Tố được cô đặc thành vật thể rắn có tính trơ, chỉ có hạt nhân bên trong không ngừng diễn ra phản ứng Nguyên Tố.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

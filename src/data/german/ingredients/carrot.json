@@ -60,6 +60,11 @@
       "name": "Gemüse-Topfsuppe"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoje im Tontopf"
+    },
+    {
       "_id": 4204,
       "id": "bountiful_year",
       "name": "Jahresfisch"
@@ -67,6 +72,5 @@
   ],
   "source": [
     "In der freien Natur zu finden"
-  ],
-  "rarity": 0
+  ]
 }

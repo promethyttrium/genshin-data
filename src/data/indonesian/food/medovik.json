@@ -1,0 +1,54 @@
+{
+  "_id": 3704,
+  "id": "medovik",
+  "name": "Medovik",
+  "description": "Kue yang terbuat dari madu. Lembaran tipis adonan madu dipanggang, lalu disusun lapis demi lapis dengan olesan krim asam di antara setiap lembarnya. Sebagai sentuhan akhir, kue ini diberi taburan remahan dan siraman sirup madu. Setiap langkah harus dilakukan dengan teliti untuk mendapatkan hasil yang rapi dan merata.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 110017,
+      "id": "honey",
+      "name": "Honey",
+      "amount": 4
+    },
+    {
+      "_id": 110001,
+      "id": "flour",
+      "name": "Flour",
+      "amount": 4
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Bird Egg",
+      "amount": 3
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Makanan Pemulihan",
+  "results": {
+    "suspicious": {
+      "_id": 132007,
+      "name": "Suspicious Medovik",
+      "description": "Kue yang terbuat dari madu. Segala sisa rasa manisnya telah hangus terbakar menjadi gumpalan pahit dan gosong karena api oven yang membara. Walaupun lapisan krim asamnya memberikan rasa asam dengan sempurna, rasanya terasa sama sekali tidak seimbang tanpa adanya rasa manis untuk mengimbanginya ....",
+      "effect": "Memulihkan 26% Max HP Karakter yang dipilih dan memberikan regenerasi 450 HP setiap 5 detik selama 30 detik."
+    },
+    "normal": {
+      "_id": 132008,
+      "name": "Medovik",
+      "description": "Kue yang terbuat dari madu. Lembaran tipis adonan madu dipanggang, lalu disusun lapis demi lapis dengan olesan krim asam di antara setiap lembarnya. Sebagai sentuhan akhir, kue ini diberi taburan remahan dan siraman sirup madu. Setiap langkah harus dilakukan dengan teliti untuk mendapatkan hasil yang rapi dan merata.",
+      "effect": "Memulihkan 28% Max HP Karakter yang dipilih dan memberikan regenerasi 620 HP setiap 5 detik selama 30 detik."
+    },
+    "delicious": {
+      "_id": 132009,
+      "name": "Delicious Medovik",
+      "description": "Kue yang dibuat dengan madu. Pastri berwarna ambar dan krim seputih salju berpadu lapis demi lapis dalam harmoni yang sempurna. Melihatnya bagaikan membalik lembaran kronik, setiap halamannya menyingkap sebuah kisah yang sama gemilang dan memesonanya.",
+      "effect": "Memulihkan 30% Max HP Karakter yang dipilih dan memberikan regenerasi 790 HP setiap 5 detik selama 30 detik."
+    }
+  }
+}

@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 3,
+    "element": "Nguyên Tố Lôi",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null
+      "Ma Vật"
     ]
   },
   "skills": [
     {
       "id": "cankering_claws",
       "name": "Móng Vuốt Xói Mòn",
-      "desc": "Gây ? điểm ?, sinh ra <span style=\"color:#FFFFFFFF\">Ăn Mòn</span> trong khu vực phe địch.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm <span style=\"color:#FFACFFFF\">Sát Thương Nguyên Tố Lôi</span>, sinh ra <span style=\"color:#FFFFFFFF\">Ăn Mòn</span> trong khu vực phe địch.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -36,8 +40,10 @@
     {
       "id": "corrosive_electro_crystal",
       "name": "Lôi Tinh Xói Mòn",
-      "desc": "Gây ? điểm ?, sinh ra <span style=\"color:#FFFFFFFF\">Ăn Mòn</span> trong khu vực phe địch.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#FFACFFFF\">Sát Thương Nguyên Tố Lôi</span>, sinh ra <span style=\"color:#FFFFFFFF\">Ăn Mòn</span> trong khu vực phe địch.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,8 +56,10 @@
     {
       "id": "devouring_bite",
       "name": "Thị Ma Cắn Xé",
-      "desc": "Gây ? điểm ?, sinh ra <span style=\"color:#FFFFFFFF\">Ăn Mòn</span> trong khu vực phe địch.",
-      "skillTag": [],
+      "desc": "Gây 6 điểm <span style=\"color:#FFACFFFF\">Sát Thương Nguyên Tố Lôi</span>, sinh ra <span style=\"color:#FFFFFFFF\">Ăn Mòn</span> trong khu vực phe địch.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -71,7 +79,9 @@
       "id": "elemental_devourer",
       "name": "Thị Ma",
       "desc": "(Bị động) Khi bắt đầu chiến đấu, ban đầu áp dụng <span style=\"color:#FFFFFFFF\">Thị Ma</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Bị Động"
+      ],
       "points": []
     }
   ]

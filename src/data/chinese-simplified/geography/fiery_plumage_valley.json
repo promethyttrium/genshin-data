@@ -1,0 +1,13 @@
+{
+  "_id": 70800041,
+  "id": "fiery_plumage_valley",
+  "name": "叶如火羽的山谷",
+  "areaName": "焰羽谷",
+  "areaId": 80400,
+  "description": "传说某一日此处的冰雪消融，长着如火般叶子的树自土中生长。\n然后，追逐永恒者在此处用他的永恒开始等待期望之人的归来。",
+  "regionName": "至冬",
+  "regionId": 8,
+  "sortOrder": 641,
+  "filename_image": "UI_Codex_Scenery_ZDHuoNiaoHeZhuView",
+  "showOnlyUnlocked": true
+}

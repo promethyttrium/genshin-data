@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "전사의 금속 호루라기",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "수습 전사의 나무 호루라기",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "기타 인간 세력",
   "filename_icon": "UI_MonsterIcon_Human_Female_Sword_Flamingo",
   "description": "절벽에서 온 용사이자 험준한 산봉우리를 순찰하는 부족의 파수꾼.\\n고고한 무사가 날갯짓하는 깃룡처럼 검을 휘두르면 깃털 같은 피가 흩날린다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

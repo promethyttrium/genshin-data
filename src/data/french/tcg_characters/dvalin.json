@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Anémo",
+    "weapon": "Autre arme",
     "faction": [
-      null
+      "Monstre"
     ],
     "talent_card": {
       "_id": 4771,
@@ -27,8 +29,10 @@
     {
       "id": "lacerating_slash",
       "name": "Lacération transversale",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -47,8 +51,10 @@
     {
       "id": "tempestuous_barrage",
       "name": "Bombardement orageux",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et applique un <span style=\"color:#FFFFFFFF\">effondrement total</span> au personnage choisi.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#80FFD7FF\">DGT Anémo</span> et applique un <span style=\"color:#FFFFFFFF\">effondrement total</span> au personnage choisi.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -61,8 +67,10 @@
     {
       "id": "dvalins_cleansing",
       "name": "Ablution de Dvalin",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et <span style=\"color:#FFFFFFFF\">prépare séparément les capacités</span> : <span style=\"color:#FFFFFFFF\">Ablution extensive</span> et <span style=\"color:#FFFFFFFF\">Ablution ultime</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#80FFD7FF\">DGT Anémo</span> et <span style=\"color:#FFFFFFFF\">prépare séparément les capacités</span> : <span style=\"color:#FFFFFFFF\">Ablution extensive</span> et <span style=\"color:#FFFFFFFF\">Ablution ultime</span>.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -75,8 +83,10 @@
     {
       "id": "caelestinum_finale_termini",
       "name": "Caelestinum Finale Termini",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et applique un <span style=\"color:#FFFFFFFF\">effondrement total</span> à tous les personnages adverses en attente.",
-      "skillTag": [],
+      "desc": "Inflige 5 pts de <span style=\"color:#80FFD7FF\">DGT Anémo</span> et applique un <span style=\"color:#FFFFFFFF\">effondrement total</span> à tous les personnages adverses en attente.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1105,

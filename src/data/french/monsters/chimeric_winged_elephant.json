@@ -1,0 +1,39 @@
+{
+  "_id": 26310301,
+  "id": "chimeric_winged_elephant",
+  "monsterId": 26310302,
+  "name": "Éléphant ailé chimérique",
+  "specialNames": [
+    "Éléphant ailé chimérique"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bêtes mystiques",
+  "filename_icon": "UI_MonsterIcon_Chimera_ElephantBird",
+  "description": "Une bête chimérique mystique, produit d'une bio-alchimie jadis répandue sur les terres gelées.\\nUn éléphant à pattes courtes doté d'ailes pourrait sans doute migrer sans être limité par le terrain et atteindre les fruits poussant en altitude.\\nC'est dans ce seul but que son créateur donna naissance à une telle créature. Plus tard, durant la guerre contre la marée noire, les éléphants ailés chimériques collaborèrent avec les vila dans les domaines du renseignement et des communications, assurant ainsi la transmission rapide et sans encombre des ordres du Tsar Belyi à mesure que son armée avançait.",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.2,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 5.486268,
+      "attack": 54.069954,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

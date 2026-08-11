@@ -15,14 +15,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "丘丘部族",
   "filename_icon": "UI_MonsterIcon_Shaman_Ice_01",
   "description": "嘟嘟囔囔的老年丘丘人，冰元素的呼求者。\\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。这些萨满熟忆寒霜的低语，更精通将之用于制敌的技艺。",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

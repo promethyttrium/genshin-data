@@ -55,6 +55,11 @@
       "name": "Lohikeitto"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Bortsch"
+    },
+    {
       "_id": 3007,
       "id": "mondstadt_hash_brown",
       "name": "Galette de pomme de terre mondstadtoise"
@@ -135,6 +140,11 @@
       "name": "Travers de porc à la vapeur de bouleau"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
       "_id": 4402,
       "id": "haggis",
       "name": "Haggis"
@@ -142,6 +152,5 @@
   ],
   "source": [
     "Épiceries"
-  ],
-  "rarity": 0
+  ]
 }

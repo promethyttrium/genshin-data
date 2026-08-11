@@ -37,7 +37,7 @@
       "_id": 113036,
       "id": "majestic_hooked_beak",
       "name": "Becco adunco maestoso",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104134,
@@ -120,7 +120,6 @@
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Fungus_Raptor",
   "description": "Questa bestia fungina dalle notevoli dimensioni ha subito varie mutazioni nel corso degli anni fino ad assumere una sua forma caratteristica.\\nLa sua intelligenza ha già raggiunto, e forse superato, quella dei comuni animali, e vede nella caccia la sua principale fonte di sostentamento. La sua coda è caratterizzata da uno splendido piumaggio color giada, molto simile a quello dell'antica bestia sacra onorata dalla scuola di Spantamad. Stando ai principi della mimesi, sembra molto probabile che, anticamente, entrambi gli esseri camminassero sulla terra insieme.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

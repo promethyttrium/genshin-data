@@ -103,6 +103,11 @@
       "name": "Carne frita con bayas"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borsch"
+    },
+    {
       "_id": 3004,
       "id": "sticky_honey_roast",
       "name": "Asado a la miel"
@@ -248,6 +253,16 @@
       "name": "Costillas al abedul"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Shashliks de Snezhnaya"
+    },
+    {
       "_id": 4001,
       "id": "moon_pie",
       "name": "Pastelillo de luna"
@@ -307,6 +322,5 @@
   ],
   "source": [
     "Recolectado de animales"
-  ],
-  "rarity": 0
+  ]
 }

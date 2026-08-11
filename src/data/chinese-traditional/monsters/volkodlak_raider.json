@@ -1,0 +1,133 @@
+{
+  "_id": 25131401,
+  "id": "volkodlak_raider",
+  "monsterId": 25131503,
+  "name": "獸怪捷掠者",
+  "specialNames": [
+    "捷掠者"
+  ],
+  "investigation": {
+    "investigationId": 101,
+    "name": "獸怪暴徒",
+    "categoryType": "Elite",
+    "categoryText": "精英",
+    "description": "在至冬的妖精中，數量最為龐大的便是不同形貌但統一稱為「獸怪」的種族。\\n或許他們被製造而出，本就是為了在他們身上找到「人類之所以為人類」的答案。"
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "rewardPreviewId": 15543,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "摩拉"
+    },
+    {
+      "_id": 112154,
+      "id": "accreted_growth",
+      "name": "沉積增生物",
+      "count": 0.131
+    },
+    {
+      "_id": 112153,
+      "id": "accreted_mass",
+      "name": "沉積結塊",
+      "count": 0.525
+    },
+    {
+      "_id": 112152,
+      "id": "accreted_fragment",
+      "name": "沉積殘片",
+      "count": 1.97
+    },
+    {
+      "_id": 112148,
+      "id": "ethereal_crystalscale_stone",
+      "name": "幻造晶鱗石",
+      "count": 0.035
+    },
+    {
+      "_id": 112147,
+      "id": "ethereal_crystal",
+      "name": "幻造裂晶",
+      "count": 0.14
+    },
+    {
+      "_id": 112146,
+      "id": "ethereal_glimmershard",
+      "name": "幻造螢屑",
+      "count": 0.525
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "戰狂",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "教官",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "流放者",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "戰狂",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "教官",
+      "rarity": 3
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "流放者",
+      "rarity": 3
+    },
+    {
+      "_id": 400062,
+      "id": "traveling_doctor",
+      "name": "遊醫",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種魔獸",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Thin_Sword",
+  "description": "在至冬的諸多獸怪之中，相對小巧和敏捷的那類。\\n正是因為行為敏捷，而五感要比人類更為敏銳，在戰鬥中可以依靠直覺躲避很多攻擊，在近距離纏鬥時是相當麻煩的對手。",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 17.6592,
+      "attack": 20.096,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

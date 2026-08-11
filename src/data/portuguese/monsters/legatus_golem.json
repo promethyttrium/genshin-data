@@ -13,7 +13,6 @@
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Golem_Centaur",
   "description": "Um golem em formato de centauro forjado em mármore e latão. Sob aquele exterior de rocha rígido, flui sangue de Ichor. Imponente como um que comanda uma legião, está pronto para pisotear qualquer inimigo que possa transgredir contra sua honra.\\nA civilização agora afundada acreditou que guerra era música, uma arte de ritmos a ser seguida. Portanto, aquele que lidera uma legião deve ser como um regente, cujo escudo e espada são com as cordas e vara de uma lira.\\n\"Guerra é um mal necessário no caminho para paz abrangente.\" Assim falou um Harmosta, um que já liderou as legiões de golens na conquista de todo mar.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

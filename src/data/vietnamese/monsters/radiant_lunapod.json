@@ -13,7 +13,6 @@
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Magbeast_Squid",
   "description": "Ma thú đã trải qua một quá trình tiến hóa độc đáo do được hấp thụ sức mạnh của mặt trăng cổ xưa trong thời gian dài.\\nTương truyền vào thời đại tai ương tràn vào đất liền, những loài sinh vật sống ở vùng biển cũng không thể may mắn thoát khỏi, những loài không thể tiếp nhận ánh trăng đều tan biến giống như bọt biển, bất luận là loài rắn biển khổng lồ tạo nên những ngọn sóng lớn, hay là quái thú một mắt vọng tưởng nuốt chửng mọi thứ.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

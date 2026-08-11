@@ -1,0 +1,39 @@
+{
+  "_id": 215047,
+  "id": "scarlet_proof",
+  "name": "Testimonio Escarlata",
+  "min_rarity": 4,
+  "max_rarity": 5,
+  "two_pc": "ATQ +18%.",
+  "four_pc": "Durante 10 s después de que el portador de este conjunto de artefactos cause una reacción de Torbellino Estelar, su Prob. CRIT aumentará en un 16% y su daño de Torbellino Estelar aumentará en un 40%.",
+  "goblet": {
+    "_id": 47412,
+    "id": "chalice_of_your_blood_and_sorrow",
+    "name": "Libación de tu Sangre y tus Lágrimas",
+    "description": "Una licorera de un color rojo intenso. Mejor que no sepas qué es lo que solía contener."
+  },
+  "plume": {
+    "_id": 47422,
+    "id": "glory_to_your_legacy",
+    "name": "Gloria a tus Hazañas",
+    "description": "Una pluma de escribir de un color rojo intenso. Le fue entregada a la sangre más joven."
+  },
+  "circlet": {
+    "_id": 47432,
+    "id": "testament_to_your_faith",
+    "name": "Homenaje a tu Fe",
+    "description": "Un casco de un color rojo intenso. Ojalá haya protegido a alguien."
+  },
+  "flower": {
+    "_id": 47442,
+    "id": "honor_to_your_devotion",
+    "name": "Agradecimiento por tu Devoción",
+    "description": "Un adorno floral de un color rojo intenso. Simboliza una gloria tan ardiente como el fuego."
+  },
+  "sands": {
+    "_id": 47452,
+    "id": "time_gifted_unto_you",
+    "name": "Tiempo Concedido a Ti",
+    "description": "Un reloj de bolsillo de un color rojo intenso. Registra el tiempo límite de una conversación."
+  }
+}

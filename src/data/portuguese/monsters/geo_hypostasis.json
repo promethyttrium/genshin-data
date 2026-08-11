@@ -13,7 +13,6 @@
   "categoryText": "Vida Elemental",
   "filename_icon": "UI_MonsterIcon_Effigy_Rock",
   "description": "Codinome: Gímel. Uma entidade Geo de alta pureza. \\nAs Hypostasis Elementais são construções ultracompactas com alta massa.\\nA energia elemental concentrada forma uma concha sólida endurecida em torno de seu núcleo, deixando apenas o núcleo reativo a estímulos elementares.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

@@ -41,7 +41,7 @@
       "_id": 11331,
       "id": "formule_phenomenale_selfevident_proposition",
       "name": "Formula fenomenale: Proposizione autoevidente",
-      "description": "<span style=\"color:#FFD780FF\">Attacco normale</span><br/>Genera fili tramite formule che controllano la sua arma, sferrando fino a 3 colpi consecutivi.<br/><br/><span style=\"color:#FFD780FF\">Attacco caricato</span><br/>Evoca la Facilitatrice Automatisée Généraliste Interactive et Omnitâche, anche detta \"<span style=\"color:#FFD780FF\">Fagio</span>\", che entra in modalità <color=#FFD780FF><b>Decodifica</b></color>, durante la quale scatena una Raffica di fuoco contro i nemici di fronte a sé e spara periodicamente Raggi condensati che infliggono <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span>.<br/>Nello stato di <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span>, i <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span> inflitti dai Raggi condensati sono considerati DAN da Astroconduzione.<br/>In modalità <span style=\"color:#FFD780FF\">Decodifica</span>, la <color=#FFD780FF><b>Potenza di decodifica</b></color> di Fagio aumenta costantemente. Sparare Raggi condensati incrementa la Potenza di decodifica in maniera ulteriore.<br/>Quando la Potenza di decodifica di Fagio raggiunge il massimo di 100 punti, Fagio passa alla modalità <span style=\"color:#FFD780FF\">Overdrive di potenza</span>, durante la quale spara agli avversari a intervalli più lunghi infliggendo <span style=\"color:#99FFFFFF\">DAN da Cryo</span>, e non può rientrare in modalità Decodifica.<br/>Quando non è in modalità <span style=\"color:#FFD780FF\">Decodifica</span>, la <span style=\"color:#FFD780FF\">Potenza di decodifica</span> di Fagio si riduce gradualmente. Quando Sandrone non è in campo, quest'ultima si concentra sul mantenimento di Fagio, e la Potenza di decodifica si riduce a un 300% del tasso di riduzione originale.<br/>Fagio esce dalla modalità <span style=\"color:#FFD780FF\">Overdrive di potenza</span> quando la <span style=\"color:#FFD780FF\">Potenza di decodifica</span> scende al di sotto dei 50 punti.<br/><br/><span style=\"color:#FFD780FF\">Attacco in picchiata</span><br/>Attacca scagliandosi contro il suolo da mezz'aria, infliggendo DAN agli avversari lungo la traiettoria e DAN ad area all'impatto.",
+      "description": "<span style=\"color:#FFD780FF\">Attacco normale</span><br/>Genera fili tramite formule che controllano la sua arma, sferrando fino a 3 colpi consecutivi.<br/><br/><span style=\"color:#FFD780FF\">Attacco caricato</span><br/>Evoca la Facilitatrice Automatisée Généraliste Interactive et Omnitâche, anche detta \"<span style=\"color:#FFD780FF\">Fagio</span>\", che entra in modalità <color=#FFD780FF><b>Decodifica</b></color>, durante la quale scatena una Raffica di fuoco contro i nemici di fronte a sé e spara periodicamente Raggi condensati che infliggono <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span>.<br/>Nello stato di <b><span style=\"color:#FFD780FF\">Splendore: Barlume astrale</span></b>, i <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span> inflitti dai Raggi condensati sono considerati DAN della reazione di Barlume astrale corrispondente.<br/>In modalità <span style=\"color:#FFD780FF\">Decodifica</span>, la <color=#FFD780FF><b>Potenza di decodifica</b></color> di Fagio aumenta costantemente. Sparare Raggi condensati incrementa la Potenza di decodifica in maniera ulteriore.<br/>Quando la Potenza di decodifica di Fagio raggiunge il massimo di 100 punti, Fagio passa alla modalità <span style=\"color:#FFD780FF\">Overdrive di potenza</span>, durante la quale spara agli avversari a intervalli più lunghi infliggendo <span style=\"color:#99FFFFFF\">DAN da Cryo</span>, e non può rientrare in modalità Decodifica.<br/>Quando non è in modalità <span style=\"color:#FFD780FF\">Decodifica</span>, la <span style=\"color:#FFD780FF\">Potenza di decodifica</span> di Fagio si riduce gradualmente. Quando Sandrone non è in campo, quest'ultima si concentra sul mantenimento di Fagio, e la Potenza di decodifica si riduce a un 300% del tasso di riduzione originale.<br/>Fagio esce dalla modalità <span style=\"color:#FFD780FF\">Overdrive di potenza</span> quando la <span style=\"color:#FFD780FF\">Potenza di decodifica</span> scende al di sotto dei 50 punti.<br/><br/><span style=\"color:#FFD780FF\">Attacco in picchiata</span><br/>Attacca scagliandosi contro il suolo da mezz'aria, infliggendo DAN agli avversari lungo la traiettoria e DAN ad area all'impatto.",
       "info": "",
       "attributes": [
         {
@@ -165,6 +165,26 @@
           ]
         },
         {
+          "label": "DAN da Turbinio astrale ATT caricato Raggio condensato",
+          "values": [
+            "122.5%",
+            "132.5%",
+            "142.5%",
+            "156.8%",
+            "166.7%",
+            "178.1%",
+            "193.8%",
+            "209.5%",
+            "225.2%",
+            "242.3%",
+            "259.4%",
+            "276.4%",
+            "293.6%",
+            "310.6%",
+            "327.8%"
+          ]
+        },
+        {
           "label": "DAN durante Overdrive di potenza",
           "values": [
             "43%",
@@ -274,6 +294,26 @@
           ]
         },
         {
+          "label": "DAN da Turbinio astrale Colpo prismatico",
+          "values": [
+            "32.4%",
+            "34.8%",
+            "37.3%",
+            "40.5%",
+            "42.9%",
+            "45.4%",
+            "48.6%",
+            "51.8%",
+            "55.1%",
+            "58.3%",
+            "61.6%",
+            "64.8%",
+            "68.8%",
+            "72.9%",
+            "77%"
+          ]
+        },
+        {
           "label": "TdR",
           "values": [
             "4s",
@@ -299,7 +339,7 @@
       "_id": 11335,
       "id": "formule_phenomenale_qed",
       "name": "Formula fenomenale: Quod erat demonstrandum",
-      "description": "In linea con l'etichetta di una vera dama, Sandrone evoca un gran numero di Cannoni a risonanza prismatica per sferrare un Bombardamento frontale, per poi colpire i nemici con un Raggio a inibizione convettiva, infliggendo <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span>.<br/>Nello stato di <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span>, il Raggio a inibizione convettiva infligge <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span> considerati DAN da Astroconduzione.",
+      "description": "In linea con l'etichetta di una vera dama, Sandrone evoca un gran numero di Cannoni a risonanza prismatica per sferrare un Bombardamento frontale, per poi colpire i nemici con un Raggio a inibizione convettiva, infliggendo <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span>.<br/>Nello stato di <b><span style=\"color:#FFD780FF\">Splendore: Barlume astrale</span></b>, il Raggio a inibizione convettiva infligge <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span> considerati DAN della reazione di Barlume astrale corrispondente.",
       "info": "",
       "attributes": [
         {
@@ -363,6 +403,26 @@
           ]
         },
         {
+          "label": "DAN da Turbinio astrale Raggio a inibizione convettiva",
+          "values": [
+            "330.8%",
+            "355.6%",
+            "380.4%",
+            "413.5%",
+            "438.3%",
+            "463.1%",
+            "496.2%",
+            "529.3%",
+            "562.4%",
+            "595.4%",
+            "628.5%",
+            "661.6%",
+            "702.9%",
+            "744.3%",
+            "785.6%"
+          ]
+        },
+        {
           "label": "TdR",
           "values": [
             "15s",
@@ -409,7 +469,7 @@
     {
       "id": "eternal_speculation_engine",
       "name": "Motore di calcolo eterno",
-      "description": "Nello stato di <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span>, quando Sandrone utilizza l'abilità elementale <b><span style=\"color:#FFD780FF\">Formula fenomenale: Analisi differenziale</span></b>, se la <color=#FFD780FF><b>Potenza di decodifica</b></color> di Fagio è superiore a 50 punti, il secondo Colpo prismatico di Fagio scagliato agli avversari vicini infligge un 400% dei suoi DAN originali, comportando al contempo una riduzione della Potenza di decodifica.<br/>In più, per ogni 10 punti di <span style=\"color:#FFD780FF\">Potenza di decodifica</span> persi, Fagio ottiene 1 accumulo di <span style=\"color:#FFD780FF\">Tattiche sofisticate</span> per 60 s (massimo 10 accumuli). Quando Sandrone utilizza il Tripudio elementale <b><span style=\"color:#FFD780FF\">Formula fenomenale: Quod erat demonstrandum</span></b> mentre è nello stato di <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span>, tutti gli accumuli di Tattiche sofisticate vengono rimossi, permettendo al Raggio a inibizione convettiva di infliggere un 100% + (numero di accumuli rimossi) × 10% dei suoi DAN originali.",
+      "description": "Nello stato di <b><span style=\"color:#FFD780FF\">Splendore: Barlume astrale</span></b>, quando Sandrone utilizza l'abilità elementale <b><span style=\"color:#FFD780FF\">Formula fenomenale: Analisi differenziale</span></b>, se la <color=#FFD780FF><b>Potenza di decodifica</b></color> di Fagio è superiore a 50 punti, il secondo Colpo prismatico di Fagio scagliato agli avversari vicini infligge un 400% dei suoi DAN originali, comportando al contempo una riduzione della Potenza di decodifica.<br/>In più, per ogni 10 punti di <span style=\"color:#FFD780FF\">Potenza di decodifica</span> persi, Fagio ottiene 1 accumulo di <span style=\"color:#FFD780FF\">Tattiche sofisticate</span> per 60 s (massimo 10 accumuli). Quando Sandrone utilizza il Tripudio elementale <b><span style=\"color:#FFD780FF\">Formula fenomenale: Quod erat demonstrandum</span></b> mentre è nello stato di <span style=\"color:#FFD780FF\">Splendore: Barlume astrale</span>, tutti gli accumuli di Tattiche sofisticate vengono rimossi, permettendo al Raggio a inibizione convettiva di infliggere un 100% + (numero di accumuli rimossi) × 10% dei suoi DAN originali.",
       "level": 1
     },
     {
@@ -419,9 +479,9 @@
       "level": 4
     },
     {
-      "id": "light_of_rationalisme",
-      "name": "Luce del razionalismo",
-      "description": "Quando i membri del gruppo innescano una reazione di Superconduzione, questa si trasforma in Astroconduzione, e i DAN base da Astroconduzione dei membri del gruppo vengono aumentati in base all'ATT di Sandrone. Per ogni 100 di ATT di Sandrone, i suddetti DAN base aumentano di uno 0,7%, fino a un 14% massimo.<br/>Inoltre, quando Sandrone si trova in un <b><span style=\"color:#FFD780FF\">Campo astropolare</span></b>, entra nello stato di <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span>.",
+      "id": "stellar_jubilee_light_of_rationalisme",
+      "name": "Giubileo astrale: Luce del razionalismo",
+      "description": "Sandrone entra nello stato di <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span> quando si trova all'interno di un <b><span style=\"color:#FFD780FF\">Campo astropolare</span></b> o nello stato di <span style=\"color:#FFD780FF\">Splendore: Turbinio astrale</span> per 8 s dopo che un membro vicino del gruppo ha innescato una reazione di Turbinio astrale.<br/>Quando un membro del gruppo innesca una reazione di Superconduzione o Turbinio di Cryo, questa diventa una reazione di Astroconduzione o di Turbinio astrale, e i DAN base di tale reazione aumentano di un ulteriore 0,7% per ogni 100 di ATT di Sandrone. In questo modo è possibile ottenere fino a un 14% di aumento massimo.",
       "level": 0
     },
     {
@@ -436,14 +496,14 @@
       "_id": 1331,
       "id": "morrow_after_the_golden_dusk",
       "name": "L'indomani di un tramonto dorato",
-      "description": "Quando è in modalità <color=#FFD780FF><b>Decodifica</b></color>, il tasso di aumento della <color=#FFD780FF><b>Potenza di decodifica</b></color> di Fagio si riduce di un 50%, e tutti i membri del gruppo infliggono un 30% di DAN da Astroconduzione in più.",
+      "description": "Quando è in modalità <color=#FFD780FF><b>Decodifica</b></color>, il tasso di aumento della <color=#FFD780FF><b>Potenza di decodifica</b></color> di Fagio si riduce di un 50%, e tutti i membri del gruppo infliggono un 30% di DAN da reazione di Barlume astrale in più.",
       "level": 1
     },
     {
       "_id": 1332,
       "id": "an_heiress_gazed_into_the_lookingglass",
       "name": "Attraverso lo specchio e quel che l'ereditiera vi trovò",
-      "description": "Nello stato di <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span>, i DAN da CRIT dei Raggi condensati degli attacchi caricati aumentano di un 40%. Inoltre, a ogni raggio sparato, i DAN da CRIT inflitti da tutti i Raggi condensati sparati durante la modalità <color=#FFD780FF><b>Decodifica</b></color> aumentano di un ulteriore 20%. Massimo 3 accumuli.",
+      "description": "Nello stato di <span style=\"color:#FFD780FF\">Splendore: Barlume astrale</span>, i DAN da CRIT dei Raggi condensati degli attacchi caricati aumentano di un 40%. Inoltre, a ogni raggio sparato, i DAN da CRIT inflitti da tutti i Raggi condensati sparati durante la modalità <color=#FFD780FF><b>Decodifica</b></color> aumentano di un ulteriore 20%. Massimo 3 accumuli.",
       "level": 2
     },
     {
@@ -457,7 +517,7 @@
       "_id": 1334,
       "id": "in_knowledge_lies_the_worlds_true_ground",
       "name": "La conoscenza è il vero fondamento del mondo",
-      "description": "Quando Sandrone infligge DAN da Astroconduzione a un avversario, evoca anche un Cannone a risonanza prismatica aggiuntivo per sparare un attacco coordinato che infligge <span style=\"color:#99FFFFFF\">DAN da Cryo</span> pari a un 125% del suo ATT. Tali DAN sono considerati DAN da Astroconduzione. Quest'effetto può verificarsi una volta ogni 4 s.",
+      "description": "Quando Sandrone infligge DAN da Astroconduzione o Turbinio astrale a un avversario, evoca anche un Cannone a risonanza prismatica aggiuntivo per sparare un attacco coordinato che infligge <span style=\"color:#99FFFFFF\">DAN da Cryo</span> pari rispettivamente a un 125% o a un 187,5% del suo ATT. Tali DAN sono considerati DAN della reazione di Barlume astrale corrispondente. Quest'effetto può verificarsi una volta ogni 4 s.",
       "level": 4
     },
     {
@@ -471,7 +531,7 @@
       "_id": 1336,
       "id": "narcissus_wakes_her_eyes_upon_the_dawn",
       "name": "Narcissus si desta, i suoi occhi sull'alba",
-      "description": "Mentre è nella modalità <color=#FFD780FF><b>Decodifica</b></color>, quando Fagio spara un Raggio condensato per la terza volta, quest'ultimo viene convertito in un più potente <span style=\"color:#FFD780FF\">Raggio a grappolo condensato</span> che spara continuamente. Quest'ultimo infligge fino a 4 iterazioni aggiuntive di <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span>, pari a un 100% dell'ATT di Sandrone, oltre a qualsiasi raggio originale successivo sparato.<br/>Nello stato di <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span>, invece, il <span style=\"color:#FFD780FF\">Raggio a grappolo condensato</span> infligge 4 iterazioni aggiuntive di <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span>, pari a un 80% dell'ATT di Sandrone, considerati come DAN da Astroconduzione.<br/>Inoltre, tutti i DAN da Astroconduzione inflitti da Sandrone vengono <b><span style=\"color:#FFD780FF\">innalzati</span></b> di un 20%.",
+      "description": "Mentre è nella modalità <color=#FFD780FF><b>Decodifica</b></color>, quando Fagio spara un Raggio condensato per la terza volta, quest'ultimo viene convertito in un più potente <span style=\"color:#FFD780FF\">Raggio a grappolo condensato</span> che spara continuamente. Quest'ultimo infligge fino a 4 iterazioni aggiuntive di <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span>, pari a un 100% dell'ATT di Sandrone, oltre a qualsiasi raggio originale successivo sparato.<br/>Nello stato di <span style=\"color:#FFD780FF\">Splendore: Barlume astrale</span>, il <span style=\"color:#FFD780FF\">Raggio a grappolo condensato</span> infligge 4 iterazioni aggiuntive di <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span>. I DAN inflitti con questo attacco, che sono considerati DAN della reazione di Barlume astrale corrispondente, variano in base allo stato di Splendore di Sandrone.<br/>· <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span>: 80% dell'ATT di Sandrone.<br/>· <span style=\"color:#FFD780FF\">Splendore: Turbinio astrale</span>: 120% dell'ATT di Sandrone.<br/>Inoltre, tutti i DAN da Barlume astrale inflitti da Sandrone vengono <b><span style=\"color:#FFD780FF\">innalzati</span></b> di un 20%.",
       "level": 6
     }
   ],

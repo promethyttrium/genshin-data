@@ -1,0 +1,54 @@
+{
+  "_id": 4906,
+  "id": "sweet_scoops",
+  "name": "Sweet Scoops",
+  "description": "Aneka ragam bola es krim. Empat rasa berbeda disajikan di mangkuk kertas terpisah dan dikemas bersama di dalam satu kotak. Para penikmatnya biasanya terbagi menjadi dua kubu: mereka yang menyantap rasa apa pun yang mereka inginkan, dan mereka yang menghabiskan setiap mangkuk secara berurutan. Bagaimanapun juga, pada akhirnya tidak akan pernah ada yang tersisa di dasar kotak.",
+  "rarity": 4,
+  "ingredients": [
+    {
+      "_id": 101265,
+      "id": "midsommar_berry",
+      "name": "Midsommar Berry",
+      "amount": 3
+    },
+    {
+      "_id": 101264,
+      "id": "lakkaberry",
+      "name": "Lakkaberry",
+      "amount": 3
+    },
+    {
+      "_id": 101281,
+      "id": "rimecurrant",
+      "name": "Rimecurrant",
+      "amount": 3
+    },
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Red Beet",
+      "amount": 3
+    }
+  ],
+  "dish_type": "Makanan Penyerangan",
+  "results": {
+    "suspicious": {
+      "_id": 132018,
+      "name": "Suspicious Sweet Scoops",
+      "description": "Aneka ragam bola es krim. Permukaannya yang berlubang-lubang terlihat seperti bola kertas kusut yang berjuang untuk mempertahankan bentuk aslinya. Begitu masuk ke dalam mulut, lapisan serpihan es yang kasar sepenuhnya menutupi rasanya, tidak menyisakan sedikit pun ruang untuk menikmati cita rasa kulinernya. Sekarang, kamu hanya ingin memejamkan mata dan bertanya-tanya kenapa kamu memutuskan untuk menantangnya ....",
+      "effect": "Meningkatkan 224 ATK dan 6% CRIT Rate seluruh anggota party selama 300 detik. Dalam Mode Co-Op, efek ini hanya berlaku untuk Karaktermu sendiri."
+    },
+    "normal": {
+      "_id": 132019,
+      "name": "Sweet Scoops",
+      "description": "Aneka ragam bola es krim. Empat rasa berbeda disajikan di mangkuk kertas terpisah dan dikemas bersama di dalam satu kotak. Para penikmatnya biasanya terbagi menjadi dua kubu: mereka yang menyantap rasa apa pun yang mereka inginkan, dan mereka yang menghabiskan setiap mangkuk secara berurutan. Bagaimanapun juga, pada akhirnya tidak akan pernah ada yang tersisa di dasar kotak.",
+      "effect": "Meningkatkan 272 ATK dan 8% CRIT Rate seluruh anggota party selama 300 detik. Dalam Mode Co-Op, efek ini hanya berlaku untuk Karaktermu sendiri."
+    },
+    "delicious": {
+      "_id": 132020,
+      "name": "Delicious Sweet Scoops",
+      "description": "Aneka ragam bola es krim. Lembut dan padat, setiap sendoknya meleleh dengan anggun di langit-langit mulut, memberikan rasa manis yang menyegarkan dan menyelimuti indra dengan lembutnya. Bahkan lama setelah wadahnya kosong, kamu masih merasa enggan untuk meletakkannya, memejamkan mata untuk menikmati rasa nikmat yang masih melingkupi ....",
+      "effect": "Meningkatkan 320 ATK dan 10% CRIT Rate seluruh anggota party selama 300 detik. Dalam Mode Co-Op, efek ini hanya berlaku untuk Karaktermu sendiri."
+    }
+  }
+}

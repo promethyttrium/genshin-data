@@ -1,0 +1,21 @@
+{
+  "_id": 110017,
+  "id": "honey",
+  "name": "Honey",
+  "description": "Cairan berwarna kuning keemasan dengan rasa manis ini tersedia sepanjang tahun di toko-toko. Dapat digunakan untuk membuat minuman dan saus, serta untuk memarinasi daging.",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Rimecurrant Ice Cream"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
+    }
+  ],
+  "source": [
+    "Dijual di toko barang kebutuhan Snezhnaya"
+  ]
+}

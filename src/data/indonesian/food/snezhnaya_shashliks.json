@@ -1,0 +1,65 @@
+{
+  "_id": 3705,
+  "id": "snezhnaya_shashliks",
+  "name": "Snezhnaya Shashliks",
+  "description": "Tusukan daging panggang dengan potongan yang besar. Potongan daging yang telah dimarinasi ditusukkan ke batang besi dan dipanggang di atas bara panas, lalu dibolak-balik sampai luarnya hangus namun di dalamnya tetap empuk. Baik di acara kumpul-kumpul di halaman, saat berburu, atau di sepetak salju yang disingkirkan sekadar cukup untuk menyalakan api, tusukan daging ini bisa ditemukan di mana saja di Snezhnaya tempat api bisa dinyalakan.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Raw Meat",
+      "amount": 3
+    },
+    {
+      "_id": 100064,
+      "id": "fowl",
+      "name": "Fowl",
+      "amount": 3
+    },
+    {
+      "_id": 101281,
+      "id": "rimecurrant",
+      "name": "Rimecurrant",
+      "amount": 1
+    },
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Red Beet",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Makanan Petualangan",
+  "results": {
+    "suspicious": {
+      "_id": 132010,
+      "name": "Suspicious Snezhnaya Shashliks",
+      "description": "Potongan besar daging panggang yang disate. Keraknya yang menghitam begitu pahit dan keras, rasanya seperti sedang mengunyah arang. Parahnya lagi, bagian dalamnya yang terlalu matang terasa sangat kering dan alot, seolah-olah sari dagingnya sudah hilang bahkan sebelum diangkat dari panggangan ....",
+      "effect": "Stamina yang digunakan untuk memanjat dan berlari seluruh anggota party -15% selama 900 detik, hanya berlaku untuk Karakter sendiri dalam mode Co-op."
+    },
+    "normal": {
+      "_id": 132011,
+      "name": "Snezhnaya Shashliks",
+      "description": "Tusukan daging panggang dengan potongan yang besar. Potongan daging yang telah dimarinasi ditusukkan ke batang besi dan dipanggang di atas bara panas, lalu dibolak-balik sampai luarnya hangus namun di dalamnya tetap empuk. Baik di acara kumpul-kumpul di halaman, saat berburu, atau di sepetak salju yang disingkirkan sekadar cukup untuk menyalakan api, tusukan daging ini bisa ditemukan di mana saja di Snezhnaya tempat api bisa dinyalakan.",
+      "effect": "Stamina yang digunakan untuk memanjat dan berlari seluruh anggota party -20% selama 900 detik, hanya berlaku untuk Karakter sendiri dalam mode Co-op."
+    },
+    "delicious": {
+      "_id": 132012,
+      "name": "Delicious Snezhnaya Shashliks",
+      "description": "Potongan besar daging panggang yang disate. Bagian luarnya yang garing memberikan sensasi renyah yang memuaskan saat digigit, diikuti dengan semburan sari daging yang gurih. Saat daging dipanggang di atas api, bumbu perendamnya meresap dan memberikan sentuhan rasa gurih yang menonjolkan rasa manis dan segar dari daging. Mulutmu akan dipenuhi minyak dan sari daging, tetapi kenikmatannya membuatmu sama sekali melupakan etika makan ....",
+      "effect": "Stamina yang digunakan untuk memanjat dan berlari seluruh anggota party -25% selama 900 detik, hanya berlaku untuk Karakter sendiri dalam mode Co-op."
+    },
+    "special": {
+      "_id": 132016,
+      "id": "the_bullseye_roast",
+      "name": "The Bullseye Roast",
+      "description": "Masakan andalan Alyosha. Dia menyerahkan setusuk daging raksasa diiringi gonggongan Tugarin yang antusias. Dengan lemak panas yang mendesis, dagingnya dipotong jauh lebih tebal daripada daging tusuk pada umumnya. Satu gigitan memunculkan cita rasa daging buruan yang kaya, yang dijinakkan dengan sempurna oleh api. Jelas sekali, kemahirannya dalam mengendalikan panggangan sama sempurnanya dengan keahlian menembaknya!",
+      "effect": "Mengurangi 25% konsumsi Stamina seluruh anggota party saat memanjat atau berlari selama 1.500 detik. Dalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
+      "character": {
+        "id": "alyosha",
+        "name": "Alyosha"
+      }
+    }
+  }
+}

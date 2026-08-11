@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "角色牌",
     "energy": 2,
+    "element": "冰元素",
+    "weapon": "單手劍",
     "faction": [
-      null
+      "須彌"
     ],
     "talent_card": {
       "_id": 4760,
@@ -29,8 +31,10 @@
     {
       "id": "sword_of_the_radiant_path",
       "name": "熠輝軌度劍",
-      "desc": "造成?點?。",
-      "skillTag": [],
+      "desc": "造成2點?。",
+      "skillTag": [
+        "普通攻擊"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,7 +54,9 @@
       "id": "nights_of_formal_focus",
       "name": "垂裳端凝之夜",
       "desc": "生成<span style=\"color:#FFFFFFFF\">安眠帷幕護盾</span>和<span style=\"color:#FFFFFFFF\">飛星</span>。",
-      "skillTag": [],
+      "skillTag": [
+        "元素戰技"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "dream_of_the_starstream_shaker",
       "name": "星流搖床之夢",
-      "desc": "造成?點?，召喚<span style=\"color:#FFFFFFFF\">飾夢天球</span>。",
-      "skillTag": [],
+      "desc": "造成3點<span style=\"color:#99FFFFFF\">冰元素傷害</span>，召喚<span style=\"color:#FFFFFFFF\">飾夢天球</span>。",
+      "skillTag": [
+        "元素爆發"
+      ],
       "points": [
         {
           "_id": 1101,

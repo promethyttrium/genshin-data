@@ -1,0 +1,18 @@
+{
+  "_id": 104365,
+  "id": "teachings_of_charity",
+  "name": "Ensinamentos da Caridade",
+  "description": "Material de Elevação de Talento.\\nCaridade é a salvação do reino congelado.\\nSão o amor e o cuidado vigilante compartilhados entre mortais. Por vastas terras sem fim, é ao lado do calor que as pessoas suportam o frio extremo, acalmando cicatrizes profundas marcadas em suas memórias.",
+  "source": [
+    "Obtido na Loja de Presentes"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Domínio da Proficiência: Contemplação IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ]
+}

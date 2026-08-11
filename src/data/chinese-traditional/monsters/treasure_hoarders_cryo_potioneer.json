@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人類勢力",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Ice_01",
   "description": "足跡遍佈大陸各處，甚至深入未知秘境的鬆散盜賊組織中的一員。\\n冰之藥劑師在盜寶團當中相當受歡迎，因為他們調配的冰之靈藥有快速降溫的作用。即使是在沒有冰霧花的野外，也可以製作冰鎮酒類飲料。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

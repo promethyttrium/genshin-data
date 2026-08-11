@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Male_Fat_CannonShield",
   "description": "Um sargento de elite que comanda os Oprichniki Fatui, ele usa um canhão pesado para acabar com a formação inimiga enquanto usando seu escudo poderoso para defender seus companheiros.\\nAs batalhas amargas tingiram o escudo de branco gélido, enquanto o sangue acumulado tingiu as bordas de preto. Oficiais Oprichniki sabem que palavras vazias não trará de volta aqueles que inevitavelmente foram sacrificados — somente um bombardeio parecido com uma chuva de granizo pode abalar esse Mundo Antigo profanado.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

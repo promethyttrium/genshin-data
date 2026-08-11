@@ -595,7 +595,7 @@
     {
       "id": "winds_vanguard",
       "name": "Avant-garde du vent",
-      "description": "Lorsqu'un membre de l'équipe à proximité déclenche une réaction de Dispersion, Varka obtient un cumul de <span style=\"color:#FFD780FF\">serment de croc azur</span>, augmentant les DGT de ses attaques normales, de ses attaques chargées, de ses attaques chargées spéciales <span style=\"color:#FFD780FF\">Dévoreur azur</span> et de ses compétences élémentaires spéciales <b><span style=\"color:#FFD780FF\">Ascension des quatre vents</span></b> de 7,5 % pendant 8 s, cet effet pouvant être cumulé 4 fois maximum. Chaque personnage peut accorder un cumul de <span style=\"color:#FFD780FF\">serment de croc azur</span> toutes les secondes à Varka de cette manière.",
+      "description": "Lorsqu'un membre de l'équipe à proximité déclenche une réaction de Dispersion ou d'Astrodispersion, Varka obtient un cumul de <span style=\"color:#FFD780FF\">serment de croc azur</span>, augmentant les DGT de ses attaques normales, de ses attaques chargées, de ses attaques chargées spéciales <span style=\"color:#FFD780FF\">Dévoreur azur</span> et de ses compétences élémentaires spéciales <b><span style=\"color:#FFD780FF\">Ascension des quatre vents</span></b> de 7,5 % pendant 8 s, cet effet pouvant être cumulé 4 fois maximum. Chaque personnage peut accorder un cumul de <span style=\"color:#FFD780FF\">serment de croc azur</span> toutes les secondes à Varka de cette manière.",
       "level": 4
     },
     {
@@ -631,7 +631,7 @@
       "_id": 1284,
       "id": "for_none_may_take_from_us_our_freedom_of_song",
       "name": "« Car personne ne peut nous priver de notre liberté de chanter... »",
-      "description": "Lorsque Varka déclenche une réaction de Dispersion, tous les personnages de l'équipe à proximité bénéficient d'un <span style=\"color:#80FFD7FF\">bonus de DGT Anémo</span> et de l'élément correspondant de 20 % pendant 10 s.",
+      "description": "Lorsque Varka déclenche une réaction de Dispersion ou d'Astrodispersion, tous les personnages de l'équipe à proximité bénéficient d'un <span style=\"color:#80FFD7FF\">bonus de DGT Anémo</span> et de l'élément correspondant de 20 % pendant 10 s.",
       "level": 4
     },
     {

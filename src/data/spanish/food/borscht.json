@@ -1,0 +1,54 @@
+{
+  "_id": 2703,
+  "id": "borscht",
+  "name": "Borsch",
+  "description": "Una sopa de un intenso color rojo. Se prepara un caldo base al que se van añadiendo los ingredientes por tandas, mientras se deja cocer a fuego lento hasta que todos los sabores se fusionan. Justo antes de servir, se añade una cucharada de smetana. Al beberla, se genera un calor constante y duradero en el cuerpo, suficiente para hacer frente al frío extremo del exterior.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Remolacha roja",
+      "amount": 2
+    },
+    {
+      "_id": 100080,
+      "id": "potato",
+      "name": "Papa",
+      "amount": 1
+    },
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Carne cruda",
+      "amount": 1
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Platos para aventuras",
+  "results": {
+    "suspicious": {
+      "_id": 108997,
+      "name": "Borsch extraño",
+      "description": "Una sopa de un intenso color rojo. Todo en este plato parece hecho a medias, como si alguien simplemente hubiera vaciado los ingredientes sobrantes de una comida anterior en la olla. Terminarlo sí te hace sentir algo más de calor que antes, pero es como encender una sola cerilla: no trae más que un fugaz instante de calidez.",
+      "effect": "Disminuye muy ligeramente la velocidad con que se acumula frío extremo para todos los miembros del equipo durante 900 s. En modo multijugador, solo tendrá efecto en tus propios personajes."
+    },
+    "normal": {
+      "_id": 108998,
+      "name": "Borsch",
+      "description": "Una sopa de un intenso color rojo. Se prepara un caldo base al que se van añadiendo los ingredientes por tandas, mientras se deja cocer a fuego lento hasta que todos los sabores se fusionan. Justo antes de servir, se añade una cucharada de smetana. Al beberla, se genera un calor constante y duradero en el cuerpo, suficiente para hacer frente al frío extremo del exterior.",
+      "effect": "Disminuye ligeramente la velocidad con que se acumula frío extremo para todos los miembros del equipo durante 900 s. En modo multijugador, solo tendrá efecto en tus propios personajes."
+    },
+    "delicious": {
+      "_id": 108999,
+      "name": "Borsch delicioso",
+      "description": "Una sopa de un intenso color rojo. En cuanto el caldo caliente se desliza por la garganta, una profunda calidez se extiende hasta el fondo, como si alguien hubiera encendido una hoguera justo en el pecho. El calor se propaga en silencio hasta que incluso las puntas de las orejas se calientan. ¡Al adentrarse en una ventisca furiosa, este tazón de sopa vale mucho más que abrigarse con una capa extra!",
+      "effect": "Disminuye la velocidad con que se acumula frío extremo para todos los miembros del equipo durante 900 s. En modo multijugador, solo tendrá efecto en tus propios personajes."
+    }
+  }
+}

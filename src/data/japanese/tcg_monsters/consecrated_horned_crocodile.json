@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "キャラカード",
     "energy": 2,
+    "element": "水元素",
+    "weapon": "他の武器",
     "faction": [
-      null
+      "魔物"
     ],
     "talent_card": {
       "_id": 9242,
@@ -27,8 +29,10 @@
     {
       "id": "fang_bite",
       "name": "鋭牙噛砕",
-      "desc": "?を?与える。",
-      "skillTag": [],
+      "desc": "?を2与える。",
+      "skillTag": [
+        "通常攻撃"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -47,8 +51,10 @@
     {
       "id": "sawtoothed_surge",
       "name": "鰐歯の如き刺波",
-      "desc": "?を?与え、<span style=\"color:#FFFFFFFF\">現在の元素サイコロのコスト</span>が最も高い手札を最大1枚山札の一番下に戻し、手札に<span style=\"color:#FFFFFFFF\">喰骸エネルギークラスター</span>を生成する。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#80C0FFFF\">水元素ダメージ</span>を3与え、<span style=\"color:#FFFFFFFF\">現在の元素サイコロのコスト</span>が最も高い手札を最大1枚山札の一番下に戻し、手札に<span style=\"color:#FFFFFFFF\">喰骸エネルギークラスター</span>を生成する。",
+      "skillTag": [
+        "元素スキル"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -61,8 +67,10 @@
     {
       "id": "reptilian_rage",
       "name": "凶鰐の如き荒波",
-      "desc": "?を?与え、<span style=\"color:#FFFFFFFF\">喰骸エネルギークラスター</span>を最大3枚<span style=\"color:#FFFFFFFF\">破棄</span>する。1枚<span style=\"color:#FFFFFFFF\">破棄</span>するごとに、HPを最も失っている味方キャラのHPを1回復し、そのキャラのHP上限を1上昇させる。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#80C0FFFF\">水元素ダメージ</span>を4与え、<span style=\"color:#FFFFFFFF\">喰骸エネルギークラスター</span>を最大3枚<span style=\"color:#FFFFFFFF\">破棄</span>する。1枚<span style=\"color:#FFFFFFFF\">破棄</span>するごとに、HPを最も失っている味方キャラのHPを1回復し、そのキャラのHP上限を1上昇させる。",
+      "skillTag": [
+        "元素爆発"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -82,7 +90,9 @@
       "id": "consecrated_senses",
       "name": "聖骸感応",
       "desc": "【固有】味方が<span style=\"color:#FFFFFFFF\">喰骸エネルギークラスター</span>を使用または<span style=\"color:#FFFFFFFF\">破棄</span>した後、HPを最も失っている味方キャラのHPを1回復させる。",
-      "skillTag": [],
+      "skillTag": [
+        "固有スキル"
+      ],
       "points": []
     }
   ]

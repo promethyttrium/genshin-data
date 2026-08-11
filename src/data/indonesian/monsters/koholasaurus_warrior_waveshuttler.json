@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
   "description": "Seorang petarung tangguh dari sumber mata air yang keberaniannya telah diakui hingga pantas mengenakan Mahkota Saurian.\\nSeorang petarung yang bisa memanfaatkan kekuatan ombak untuk bergerak maju dan mundur. Menurut legenda, para pahlawan dari suku ini bisa melintasi ombak tanpa alat bantuan apa pun, hanya menggunakan kecepatannya. Sekarang ini para penduduk suku percaya bahwa ini adalah sebuah teknik canggih dan rumit untuk menggerakkan ombak yang fokusnya terletak pada cara seseorang bergerak.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

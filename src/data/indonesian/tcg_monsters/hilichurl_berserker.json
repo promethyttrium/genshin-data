@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Senjata Lain",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "torch_strike",
       "name": "Torch Strike",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#FF9999FF\">Pyro DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -37,8 +41,10 @@
     {
       "id": "hit_and_run",
       "name": "Hit and Run",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#FF9999FF\">Pyro DMG</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -51,8 +57,10 @@
     {
       "id": "scorching_combo",
       "name": "Scorching Combo",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 4 poin <span style=\"color:#FF9999FF\">Pyro DMG</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1103,

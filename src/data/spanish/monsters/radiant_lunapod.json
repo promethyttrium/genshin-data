@@ -13,7 +13,6 @@
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Magbeast_Squid",
   "description": "Una bestia que ha terminado evolucionando de una forma única debido a la irradiación continuada del antiguo poder de la luna.\\nCuenta la leyenda que, cuando la catástrofe arrasó con todo sobre la tierra, ni siquiera se libraron de la desgracia los animales que habitaban el Mar Desamparado. Aquellos que no pudieron aceptar la luz de la luna en su interior se desvanecieron como la espuma, ya fueran grandes serpientes marinas capaces de levantar olas terribles o los monstruos de un solo ojo que habían anhelado engullirlo todo.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

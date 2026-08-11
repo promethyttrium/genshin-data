@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_JellyFish_Larva_02",
   "description": "Hewan air yang berburu dengan menembakkan air.\\nMeskipun penampilannya terlihat seperti sebuah topi, tetapi sebenarnya mulutnya berada di bagian dasar topi, maka itu tidaklah bijak untuk mengenakannya di kepala. Pernah ada orang yang membuktikan hal ini, bahwa \"setelah dipikir-pikir kembali, sungguh memang bukanlah suatu tindakan yang bijaksana.\"",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 65.15,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

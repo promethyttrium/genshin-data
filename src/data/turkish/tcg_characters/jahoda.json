@@ -1,0 +1,90 @@
+{
+  "_id": 1516,
+  "id": "jahoda",
+  "shareId": 609,
+  "name": "Jahoda",
+  "title": "\"Rüzgar Ören Gölge\" Jahoda",
+  "desc": "Israrlı düşünceler en derin sırları bile açığa çıkarır.",
+  "attributes": {
+    "hp": 10,
+    "card_type": "Karakter Kartı",
+    "energy": 2,
+    "element": "Rüzgar",
+    "weapon": "Yay",
+    "faction": [
+      "Nod-Krai"
+    ],
+    "source": "Jahoda'yı Kedi Kuyruğu'nda bir düelloya davet etme ve onunla yaptığın Dostluk Düellosunu kazanma ödülü."
+  },
+  "skills": [
+    {
+      "id": "strike_while_the_arrows_hot",
+      "name": "Ok Kızgınken Atılır",
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Rüzgar",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Nötr Element",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "savvy_strategy_splitting_the_spoils",
+      "name": "Kurnaz Strateji: Ganimet Paylaşımı",
+      "desc": "2 <span style=\"color:#80FFD7FF\">Rüzgar Hasarı</span> verir, 1 kademe <span style=\"color:#FFFFFFFF\">Hızlı Değişim</span> oluşturur ve bir sonraki karakterine geçiş yapar. Eğer elinde herhangi bir elementten <span style=\"color:#FFFFFFFF\">Miyavtastik Hazine Şişesi</span> kartı yoksa elinde 1 <span style=\"color:#FFFFFFFF\">Miyavtastik Hazine Şişesi</span> oluşur. Aksi takdirde elindeki tüm <span style=\"color:#FFFFFFFF\">Miyavtastik Hazine Şişesi</span> kartları için <span style=\"color:#FFFFFFFF\">Maliyet Azaltma</span> uygulanır.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Rüzgar",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "hidden_aces_seven_tools_of_the_hunter",
+      "name": "Gizli Yetenekler: Avcının Yedi Aleti",
+      "desc": "3 <span style=\"color:#80FFD7FF\">Rüzgar Hasarı</span> verir ve <span style=\"color:#FFFFFFFF\">Kedisel Koordineli Destek Robotları</span> oluşturur.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Rüzgar",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Enerji",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "moonsign_benediction_rooftop_dash",
+      "name": "Ay Sembolü Kutsaması: Çatı Koşuşturması",
+      "desc": "(Pasif) Savaş başladığında elinde 1 <span style=\"color:#FFFFFFFF\">Miyavtastik Hazine Şişesi</span> kartı oluşur.<br/>Bir Ay Tepkimesi veya Girdap Tepkimesi tetikledikten sonra elindeki tüm <span style=\"color:#FFFFFFFF\">Miyavtastik Hazine Şişesi</span> kartlarına <span style=\"color:#FFFFFFFF\">Maliyet Azaltma</span> uygulanır. (Her Turda iki defa)",
+      "skillTag": [
+        "Pasif Beceri"
+      ],
+      "points": []
+    }
+  ]
+}

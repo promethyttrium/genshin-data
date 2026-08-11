@@ -1,0 +1,54 @@
+{
+  "_id": 4906,
+  "id": "sweet_scoops",
+  "name": "Tatlı Toplar",
+  "description": "Çeşit çeşit dondurma topları. Dört farklı aroma ayrı kağıt kaselere konup tek bir kutuda bir araya getirilir. Sevenleri genellikle iki gruba ayrılır: istedikleri tattan başlayarak yiyenler ve her kaseyi sırayla bitirenler. Her ikisinde de sonunda kutunun dibinde hiçbir şey kalmaz.",
+  "rarity": 4,
+  "ingredients": [
+    {
+      "_id": 101265,
+      "id": "midsommar_berry",
+      "name": "Yazdönümü Böğürtleni",
+      "amount": 3
+    },
+    {
+      "_id": 101264,
+      "id": "lakkaberry",
+      "name": "Lakka Böğürtleni",
+      "amount": 3
+    },
+    {
+      "_id": 101281,
+      "id": "rimecurrant",
+      "name": "Buz Yemişi",
+      "amount": 3
+    },
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Kırmızı Pancar",
+      "amount": 3
+    }
+  ],
+  "dish_type": "Saldırı Artırıcı Yemek",
+  "results": {
+    "suspicious": {
+      "_id": 132018,
+      "name": "Tatlı Toplar (Tuhaf)",
+      "description": "Çeşit çeşit dondurma topları. Çukurlu yüzeyleri, orijinal şekillerini korumakta zorlanan buruşuk kağıt toplarına benziyor. Ağzındayken pütürlü bir buz parçacığı tabakası tadı tamamen bastırıyor ve lezzet adına hiçbir inceliğe yer bırakmıyor. Şu an tek istediğin, gözlerini yumup neden buna meydan okumaya kalkıştığını sorgulamak...",
+      "effect": "300 saniyeliğine tüm grup üyelerinin Saldırısını 224, Kritik Oranını %6 artırır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    },
+    "normal": {
+      "_id": 132019,
+      "name": "Tatlı Toplar",
+      "description": "Çeşit çeşit dondurma topları. Dört farklı aroma ayrı kağıt kaselere konup tek bir kutuda bir araya getirilir. Sevenleri genellikle iki gruba ayrılır: istedikleri tattan başlayarak yiyenler ve her kaseyi sırayla bitirenler. Her ikisinde de sonunda kutunun dibinde hiçbir şey kalmaz.",
+      "effect": "300 saniyeliğine tüm grup üyelerinin Saldırısını 272, Kritik Oranını %8 artırır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    },
+    "delicious": {
+      "_id": 132020,
+      "name": "Tatlı Toplar (Lezzetli)",
+      "description": "Çeşit çeşit dondurma topları. İpeksi ve yoğun dokusuyla damakta zarifçe eriyen her bir top, duyuları şefkatle sarmalayan canlı ve ferahlatıcı bir tatlılığa bırakır yerini. Kutu çoktan bitmiş olsa bile onu elinden bırakmak istemiyorsun ve saf mutluluğun damakta kalan tadını doyasıya çıkarmak için gözlerini yumuyorsun...",
+      "effect": "300 saniyeliğine tüm grup üyelerinin Saldırısını 320, Kritik Oranını %10 artırır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    }
+  }
+}

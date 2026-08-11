@@ -108,6 +108,11 @@
       "name": "Bánh Mì Đen Nhân Thịt"
     },
     {
+      "_id": 2701,
+      "id": "stroganina",
+      "name": "Cá Bào"
+    },
+    {
       "_id": 3012,
       "id": "sunshine_sprat",
       "name": "Cá Chiên Bơ"
@@ -198,6 +203,11 @@
       "name": "Khúc Ca Đá Lửa"
     },
     {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "Hoa Tuyết Cầu Trên Tuyết Nguyên"
+    },
+    {
       "_id": 4105,
       "id": "eighttreasure_duck",
       "name": "Vịt Bát Bửu"
@@ -215,6 +225,5 @@
   ],
   "source": [
     "Bắt Cá để thu thập"
-  ],
-  "rarity": 0
+  ]
 }

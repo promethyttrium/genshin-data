@@ -25,29 +25,27 @@
       "_id": 112103,
       "id": "tyrants_fang",
       "name": "覇道の牙",
-      "count": 0.0616
+      "count": 0.062
     },
     {
       "_id": 112102,
       "id": "seasoned_fang",
       "name": "熟練の牙",
-      "count": 0.2465
+      "count": 0.246
     },
     {
       "_id": 112101,
       "id": "juvenile_fang",
       "name": "未熟な牙",
-      "count": 0.9244
+      "count": 0.924
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Flamingo_Small",
   "description": "幼いクク竜。軽やかな身のこなしをする。\\n首周りや翼はまだ発達しきっておらず、気体燃素の扱いにも慣れていない。飛行能力を身につけさせるため、年長のクク竜が仔竜を崖から突き落とすという逸話もある。その真偽は定かではないが、日々の訓練を経て、その柔らかい翼もいずれ硬くなっていくだろう。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

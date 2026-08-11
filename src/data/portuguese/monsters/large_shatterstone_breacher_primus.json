@@ -13,7 +13,6 @@
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_01",
   "description": "Um estranho tipo de criatura que habita principalmente no corpo de Elynas. De acordo com a experiência das Melusines, os Primofissuradores não são criaturas perigosas. Pelo contrário, as Melusines os consideram adoráveis.\\nAparentemente, a percepção visual das Melusines difere bastante da dos humanos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

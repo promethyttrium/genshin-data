@@ -8,16 +8,20 @@
     "hp": 24,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Autre arme",
     "faction": [
-      null
+      "Monstre"
     ]
   },
   "skills": [
     {
       "id": "wingcleave",
       "name": "Coupe d'aile",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -36,8 +40,10 @@
     {
       "id": "rising_scorchwind",
       "name": "Vent chaud ascendant",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et accorde 2 cumuls de <span style=\"color:#FFFFFFFF\">tourbillon volant</span> au personnage affecté.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#FF9999FF\">DGT Pyro</span> et accorde 2 cumuls de <span style=\"color:#FFFFFFFF\">tourbillon volant</span> au personnage affecté.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,8 +56,10 @@
     {
       "id": "goldflame_detonation",
       "name": "Explosion de flamme dorée",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?, inflige 1 pt de <span style=\"color:#FFFFFFFF\">DGT de perforation</span> à tous les personnages adverses en attente et accorde 1 cumul de <span style=\"color:#FFFFFFFF\">flamme dorée</span> au personnage affecté.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts de <span style=\"color:#FF9999FF\">DGT Pyro</span>, inflige 1 pt de <span style=\"color:#FFFFFFFF\">DGT de perforation</span> à tous les personnages adverses en attente et accorde 1 cumul de <span style=\"color:#FFFFFFFF\">flamme dorée</span> au personnage affecté.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -71,7 +79,9 @@
       "id": "ancient_bloodline",
       "name": "Lignée ancienne",
       "desc": "(Passif) <span style=\"color:#FFFFFFFF\">Au début de la phase d'action : </span>Accorde 1 cumul de <span style=\"color:#FFFFFFFF\">flamme dorée</span> au personnage affecté et crée aléatoirement 1 carte avec un coût de dés élémentaires de 2 dans votre main.",
-      "skillTag": [],
+      "skillTag": [
+        "Capacité passive"
+      ],
       "points": []
     }
   ]

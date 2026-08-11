@@ -1,0 +1,133 @@
+{
+  "_id": 25132701,
+  "id": "longeared_striker",
+  "monsterId": 25132701,
+  "name": "長耳強襲者",
+  "specialNames": [
+    "長耳強襲者"
+  ],
+  "investigation": {
+    "investigationId": 101,
+    "name": "獸怪暴徒",
+    "categoryType": "Elite",
+    "categoryText": "精英",
+    "description": "在至冬的妖精中，數量最為龐大的便是不同形貌但統一稱為「獸怪」的種族。\\n或許他們被製造而出，本就是為了在他們身上找到「人類之所以為人類」的答案。"
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "rewardPreviewId": 15543,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "摩拉"
+    },
+    {
+      "_id": 112154,
+      "id": "accreted_growth",
+      "name": "沉積增生物",
+      "count": 0.131
+    },
+    {
+      "_id": 112153,
+      "id": "accreted_mass",
+      "name": "沉積結塊",
+      "count": 0.525
+    },
+    {
+      "_id": 112152,
+      "id": "accreted_fragment",
+      "name": "沉積殘片",
+      "count": 1.97
+    },
+    {
+      "_id": 112148,
+      "id": "ethereal_crystalscale_stone",
+      "name": "幻造晶鱗石",
+      "count": 0.035
+    },
+    {
+      "_id": 112147,
+      "id": "ethereal_crystal",
+      "name": "幻造裂晶",
+      "count": 0.14
+    },
+    {
+      "_id": 112146,
+      "id": "ethereal_glimmershard",
+      "name": "幻造螢屑",
+      "count": 0.525
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "戰狂",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "教官",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "流放者",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "戰狂",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "教官",
+      "rarity": 3
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "流放者",
+      "rarity": 3
+    },
+    {
+      "_id": 400062,
+      "id": "traveling_doctor",
+      "name": "遊醫",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種魔獸",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Arctichare",
+  "description": "平時將纖細的身軀藏在斗篷之下隱秘行動的獸怪。\\n據說從前，掌握了創生權能的黃金城工匠為諸多目的打造妖靈的身軀，而此等類型的獸怪本為測試繁育能力的極限所造。\\n只不過在經歷令那黃金的國度都化作遺蹟的打擊之後，長耳的一族因族眾甚多殘留到了今日。\\n如今，他們已是自己身軀的主人。而在雪地也能靈巧活動的敏捷，令他們成為了穿越雪原的人們需要小心應對的威脅。",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 25.8096,
+      "attack": 27.632,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "จักรกลอัตโนมัติ",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Probe",
   "description": "กลไกเครื่องลานที่ออกแบบและผลิตขึ้นเพื่อการสำรวจทรัพยากรใต้ดินและแร่พิเศษ\\nเนื่องจากสามารถตั้งค่าประเภทโลหะที่สามารถค้นหาได้ จึงเป็นที่นิยมอย่างมากในหมู่กองโจรล่าสมบัติและนักผจญภัย",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

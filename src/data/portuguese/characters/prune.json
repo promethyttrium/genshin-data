@@ -190,7 +190,7 @@
       "_id": 11322,
       "id": "ringadingding_hexhunter_chime",
       "name": "Ding-ding! Tilintar Caçador de Magia!",
-      "description": "Lance o poder do vento para derrotar as bruxas maléficas e salvar Descartes! Prune usa o Martelo do Juramento Livrador para golpear o Sino Chama-Bruxa, causando <span style=\"color:#80FFD7FF\">Dano Anemo</span>.<br/>Se esse ataque de Prune causar uma reação de Redemoinho no inimigo, <span style=\"color:#FFD780FF\">Ding-ding! Tilintar Caçador de Magia!</span> será substituído por <span style=\"color:#FFD780FF\">Ting-Ting! Retribuição das Bruxas!</span> pelos próximos 6s.<br/><br/><span style=\"color:#FFD780FF\">Ting-Ting! Retribuição das Bruxas!</span><br/>Envolve o martelo com o Tipo Elemental do Redemoinho, e faz o <b><span style=\"color:#FFD780FF\">Martelo do Juramento Livrador</span></b> passar por uma Conversão Elemental. Ao pressionar para lançar, Prune salta em frente com seu Martelo do Juramento Livrador, causando Dano Elemental correspondente contra os inimigos em frente.",
+      "description": "Lance o poder do vento para derrotar as bruxas maléficas e salvar Descartes! Prune usa o Martelo do Juramento Livrador para golpear o Sino Chama-Bruxa, causando <span style=\"color:#80FFD7FF\">Dano Anemo</span>.<br/>Se esse ataque de Prune causar uma reação de Redemoinho ou Redemoinho Estelar no inimigo, <span style=\"color:#FFD780FF\">Ding-ding! Tilintar Caçador de Magia!</span> será substituído por <span style=\"color:#FFD780FF\">Ting-Ting! Retribuição das Bruxas!</span> pelos próximos 6s.<br/><br/><span style=\"color:#FFD780FF\">Ting-Ting! Retribuição das Bruxas!</span><br/>Envolve o martelo com o Tipo Elemental do Redemoinho ou Redemoinho Estelar, e faz o <b><span style=\"color:#FFD780FF\">Martelo do Juramento Livrador</span></b> passar por uma Conversão Elemental. Ao pressionar para lançar, Prune salta em frente com seu Martelo do Juramento Livrador, causando Dano Elemental correspondente contra os inimigos em frente.",
       "info": "",
       "attributes": [
         {
@@ -369,7 +369,7 @@
     {
       "id": "verdict_and_punishment",
       "name": "Veredito e Punição",
-      "description": "Quando causar Dano contra o inimigo no Modo Caçador do Sino Chama-Bruxa do Supremo <color=#FFD780FF><b>O Sino Toca! A Caçada Chegou!</b></color>, se esse Dano desencadear Redemoinho, invoca um <b><span style=\"color:#FFD780FF\">Martelo do Juramento Livrador</span></b> que passou por Conversão Elemental do tipo de Redemoinho para golpear o inimigo em frente, causando 150% do ATQ de Prune como Dano Elemental correspondente. Esse Dano é considerado Dano de Supremo.",
+      "description": "Quando causar Dano contra o inimigo no Modo Caçador do Sino Chama-Bruxa do Supremo <color=#FFD780FF><b>O Sino Toca! A Caçada Chegou!</b></color>, se esse Dano desencadear Redemoinho ou Redemoinho Estelar, invoca um <b><span style=\"color:#FFD780FF\">Martelo do Juramento Livrador</span></b> que passou por Conversão Elemental do tipo de Redemoinho ou Redemoinho Estelar para golpear o inimigo em frente, causando 150% do ATQ de Prune como Dano Elemental correspondente. Esse Dano é considerado Dano de Supremo.",
       "level": 1
     },
     {

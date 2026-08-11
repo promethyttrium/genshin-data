@@ -13,7 +13,6 @@
   "categoryText": "Abyss",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_02",
   "description": "Makhluk ajaib yang utamanya muncul di Elynas.\\nDi Fontaine, yang pertama mengamati Breacher Primus adalah tidak lama setelah malapetaka terjadi. Saat itu, juga ada catatan tentang Breacher Primus yang menyerang dan melindungi manusia.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

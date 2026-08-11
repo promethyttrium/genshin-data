@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Arco",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3715,
@@ -29,8 +31,10 @@
     {
       "id": "khanda_barrierbuster",
       "name": "Khanda rompibarriere",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -49,8 +53,10 @@
     {
       "id": "vijnanaphala_mine",
       "name": "Bomba Vijnana-Phala",
-      "desc": "Infligge ? ?, questo personaggio ottiene l'effetto <span style=\"color:#FFFFFFFF\">Effusione Vijnana</span>.",
-      "skillTag": [],
+      "desc": "Infligge 2 <span style=\"color:#7EC236FF\">DAN da Dendro</span>, questo personaggio ottiene l'effetto <span style=\"color:#FFFFFFFF\">Effusione Vijnana</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "fashioners_tanglevine_shaft",
       "name": "Frecce a groviglio",
-      "desc": "Infligge ? ?, infligge <span style=\"color:#FFFFFFFF\">1 <span style=\"color:#FFFFFFFF\">DAN da perforazione</span></span> a tutti i personaggi avversari inattivi.",
-      "skillTag": [],
+      "desc": "Infligge 4 <span style=\"color:#7EC236FF\">DAN da Dendro</span>, infligge <span style=\"color:#FFFFFFFF\">1 <span style=\"color:#FFFFFFFF\">DAN da perforazione</span></span> a tutti i personaggi avversari inattivi.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1107,

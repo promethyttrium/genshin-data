@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Hookwalker_Normal",
   "description": "Un Saurico dalle possenti zampe posteriori e dalla coda soffice, in grado di sputare la pectina dei Vampagrani nascosta nelle sue guance, con cui avvolge oggetti distanti.\\nSecondo la leggenda, gli Yumkasauri originali non erano assolutamente come oggi, ma molto più piccoli, al punto che erano difficili da vedere. Potevano vagare liberamente trasportati dal vento, aggrapparsi ai corpi dei draghi più grandi o radunarsi in gruppi per poi spostarsi come nuvole. Tuttavia, a seguito della degenerazione delle loro abilità, non ebbero altra scelta che assumere la forma attuale.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 4,
   "stats": {
     "resistance": {

@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "돌연변이 마수",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Mature",
   "description": "성년이 된 수컷 방울 해마의 형태. 매우 강력한 공격성을 지니고 있다.\\n한때 해마의 왕을 본 사람이 있었는데, 가느다란 사지를 지닌 고고한 생령이었다고 한다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

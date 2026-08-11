@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Fungus_Trois_Gamma_Fire",
   "description": "Bir miktar zekaya sahip olan bir spor organizması. Ortama uyum sağlama konusunda oldukça yeteneklidir.\\nBu yaratıklar sahip oldukları yüksek Ateş miktarından ötürü kuru mevsimlerde orman yangınları başlatabilirler. Bu yüzden ormanlar için tehlikeli ve istilacı bir tür sayılırlar.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

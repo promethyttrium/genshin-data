@@ -1,0 +1,40 @@
+{
+  "_id": 25135101,
+  "id": "glacial_warden",
+  "monsterId": 25135106,
+  "name": "Стражник льдов",
+  "specialNames": [
+    "Стражник льдов"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Мистические звери",
+  "filename_icon": "UI_MonsterIcon_Snegurochka_Male",
+  "description": "Снеговик, рождённый среди льдов и снегов ради любви.\\nМужчины-снеговики - прирождённые рыцари. Большинство из них с рождения способны свободно конструировать собственное оружие изо льда и снега.\\nЛегенда гласит, что в битве, где Белый царь сражался с Чёрным потоком разложения, один из снеговиков, служивший его стражем, пробудил силу, не свойственную своему народу, и превратился в настоящего исполина.\\nЧем закончилась его история, неизвестно. Но нарушение запрета, надо полагать, не могло привести ни к чему хорошему.",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 81.504,
+      "attack": 75.36,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -1,0 +1,1393 @@
+{
+  "_id": 10000150,
+  "id": "odette",
+  "name": "Odette",
+  "title": "Schneewirbelnde Anmut",
+  "description": "Eine berühmte Balletttänzerin aus Snezhnaya – eine kühle Blume, inmitten von Eis und Schnee erblühend.",
+  "weapon_type": {
+    "id": "sword",
+    "name": "Einhänder"
+  },
+  "element": {
+    "id": "cryo",
+    "name": "Kryo"
+  },
+  "gender": {
+    "id": "female",
+    "name": "Weiblich"
+  },
+  "release": 1786395600,
+  "substat": "KSCH",
+  "affiliation": "Korolevskiy-Theaterkompanie",
+  "region": {
+    "id": "snezhnaya_star",
+    "name": "SNEZHNAYA_STAR"
+  },
+  "rarity": 5,
+  "birthday": [
+    20,
+    2
+  ],
+  "constellation": "Cygnus Olor",
+  "domain": "Sphäre des Verständnisses: Kontemplation",
+  "cv": {
+    "english": "Alexis Tipton",
+    "chinese": "潘丹妮",
+    "japanese": "上坂すみれ",
+    "korean": "Choi Hyun-ji"
+  },
+  "skills": [
+    {
+      "_id": 11501,
+      "id": "snow_swan_variation",
+      "name": "Variation des Schneeschwans",
+      "description": "<span style=\"color:#FFD780FF\">Standardangriff</span><br/>Führt bis zu 5 Schwerthiebe hintereinander aus.<br/><br/><span style=\"color:#FFD780FF\">Heftiger Schlag</span><br/>Verbraucht eine gewisse Menge Ausdauer und führt einen gleißenden Hieb nach vorn aus.<br/><br/><span style=\"color:#FFD780FF\">Angriff aus dem Fall</span><br/>Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "SCH Phase 1",
+          "values": [
+            "51.9%",
+            "56.1%",
+            "60.3%",
+            "66.3%",
+            "70.5%",
+            "75.4%",
+            "82%",
+            "88.6%",
+            "95.3%",
+            "102.5%",
+            "109.7%",
+            "117%",
+            "124.2%",
+            "131.5%",
+            "138.7%"
+          ]
+        },
+        {
+          "label": "SCH Phase 2",
+          "values": [
+            "51.5%",
+            "55.7%",
+            "59.9%",
+            "65.9%",
+            "70.1%",
+            "74.9%",
+            "81.5%",
+            "88%",
+            "94.6%",
+            "101.8%",
+            "109%",
+            "116.2%",
+            "123.4%",
+            "130.6%",
+            "137.8%"
+          ]
+        },
+        {
+          "label": "SCH Phase 3",
+          "values": [
+            "32.6% + 38.3%",
+            "35.3% + 41.4%",
+            "37.9% + 44.5%",
+            "41.7% + 49%",
+            "44.4% + 52.1%",
+            "47.4% + 55.6%",
+            "51.6% + 60.5%",
+            "55.7% + 65.4%",
+            "59.9% + 70.3%",
+            "64.5% + 75.7%",
+            "69% + 81%",
+            "73.6% + 86.3%",
+            "78.1% + 91.7%",
+            "82.7% + 97%",
+            "87.2% + 102.4%"
+          ]
+        },
+        {
+          "label": "SCH Phase 4",
+          "values": [
+            "74.6%",
+            "80.6%",
+            "86.7%",
+            "95.4%",
+            "101.5%",
+            "108.4%",
+            "117.9%",
+            "127.5%",
+            "137%",
+            "147.4%",
+            "157.8%",
+            "168.2%",
+            "178.6%",
+            "189%",
+            "199.4%"
+          ]
+        },
+        {
+          "label": "SCH Phase 5",
+          "values": [
+            "90.2%",
+            "97.6%",
+            "104.9%",
+            "115.4%",
+            "122.7%",
+            "131.1%",
+            "142.7%",
+            "154.2%",
+            "165.7%",
+            "178.3%",
+            "190.9%",
+            "203.5%",
+            "216.1%",
+            "228.7%",
+            "241.3%"
+          ]
+        },
+        {
+          "label": "SCH heftiger Schläge",
+          "values": [
+            "107.4%",
+            "116.2%",
+            "124.9%",
+            "137.4%",
+            "146.1%",
+            "156.1%",
+            "169.9%",
+            "183.6%",
+            "197.3%",
+            "212.3%",
+            "227.3%",
+            "242.3%",
+            "257.3%",
+            "272.3%",
+            "287.3%"
+          ]
+        },
+        {
+          "label": "Ausdauerverbrauch heftiger Schläge",
+          "values": [
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte"
+          ]
+        },
+        {
+          "label": "SCH beim Fallen",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "SCH beim Fallen aus niedriger/großer Höhe",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11502,
+      "id": "adagio_phantom_night_dancers",
+      "name": "Langsamer Tanz – Phantomnacht",
+      "description": "Verursacht mit sanften Tanzschritten <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span> und beschwört den eigenen <b><span style=\"color:#FFD780FF\">Solotanz-Schatten</span></b> herauf.<br/>Beschwört, wenn auf dem Feld bereits ein von Odette selbst beschworener <span style=\"color:#FFD780FF\">Solotanz-Schatten</span> existiert, diesen erneut herauf und setzt die Dauer zurück.<br/><br/><span style=\"color:#FFD780FF\">Solotanz-Schatten</span><br/>Wechselt zwischen den Tanzschritten <span style=\"color:#FFD780FF\">Federstreich</span> und <span style=\"color:#FFD780FF\">Flügelwirbel</span>, greift Gegner in der Nähe in regelmäßigen Abständen elegant und leichtfüßig an, und fügt diesen <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span> zu.<br/>Ersetzt zudem innerhalb von 6 s nach dem Anwenden von Odettes Elementarfähigkeit <span style=\"color:#FFD780FF\">Langsamer Tanz – Phantomnacht</span> diese durch die besondere Elementarfähigkeit <b><span style=\"color:#FFD780FF\">Langsamer Tanz – Finale bei Tagesanbruch</span></b><b></b>. Führt einen gemeinsamen Tanz auf, der Gegnern in der Nähe fortlaufend <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span> zufügt. Verursacht nach Ende des Tanzes einmalig <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span>, der als Schaden durch die Reaktion Stellar-Supraleiter oder Stellar-Verwirbelung gewertet wird.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Fähigkeits-SCH",
+          "values": [
+            "108.1%",
+            "116.2%",
+            "124.3%",
+            "135.1%",
+            "143.2%",
+            "151.3%",
+            "162.1%",
+            "172.9%",
+            "183.7%",
+            "194.5%",
+            "205.4%",
+            "216.2%",
+            "229.7%",
+            "243.2%",
+            "256.7%"
+          ]
+        },
+        {
+          "label": "Fortlaufender SCH durch „Finale bei Tagesanbruch“",
+          "values": [
+            "95.8%",
+            "103%",
+            "110.2%",
+            "119.8%",
+            "127%",
+            "134.2%",
+            "143.8%",
+            "153.3%",
+            "162.9%",
+            "172.5%",
+            "182.1%",
+            "191.7%",
+            "203.7%",
+            "215.6%",
+            "227.6%"
+          ]
+        },
+        {
+          "label": "SCH durch Stellar-Supraleiter/Stellar-Verwirbelung bei „Finale bei Tagesanbruch“",
+          "values": [
+            "305.8% / 458.6%",
+            "328.7% / 493%",
+            "351.6% / 527.4%",
+            "382.2% / 573.3%",
+            "405.1% / 607.7%",
+            "428.1% / 642.1%",
+            "458.6% / 688%",
+            "489.2% / 733.8%",
+            "519.8% / 779.7%",
+            "550.4% / 825.6%",
+            "580.9% / 871.4%",
+            "611.5% / 917.3%",
+            "649.7% / 974.6%",
+            "688% / 1031.9%",
+            "726.2% / 1089.3%"
+          ]
+        },
+        {
+          "label": "SCH durch „Federstreich“-Schritt",
+          "values": [
+            "43%",
+            "46.3%",
+            "49.5%",
+            "53.8%",
+            "57%",
+            "60.3%",
+            "64.6%",
+            "68.9%",
+            "73.2%",
+            "77.5%",
+            "81.8%",
+            "86.1%",
+            "91.5%",
+            "96.8%",
+            "102.2%"
+          ]
+        },
+        {
+          "label": "SCH durch „Federstreich“-Schritt bei Stellar-Supraleiter/Stellar-Verwirbelung",
+          "values": [
+            "27% / 40.5%",
+            "29.1% / 43.6%",
+            "31.1% / 46.6%",
+            "33.8% / 50.7%",
+            "35.8% / 53.7%",
+            "37.8% / 56.7%",
+            "40.5% / 60.8%",
+            "43.2% / 64.8%",
+            "45.9% / 68.9%",
+            "48.6% / 73%",
+            "51.3% / 77%",
+            "54% / 81.1%",
+            "57.4% / 86.1%",
+            "60.8% / 91.2%",
+            "64.2% / 96.3%"
+          ]
+        },
+        {
+          "label": "SCH durch „Flügelwirbel“-Schritt",
+          "values": [
+            "51.5%",
+            "55.3%",
+            "59.2%",
+            "64.3%",
+            "68.2%",
+            "72%",
+            "77.2%",
+            "82.3%",
+            "87.5%",
+            "92.6%",
+            "97.8%",
+            "102.9%",
+            "109.4%",
+            "115.8%",
+            "122.2%"
+          ]
+        },
+        {
+          "label": "SCH durch „Flügelwirbel“-Schritt bei Stellar-Supraleiter/Stellar-Verwirbelung",
+          "values": [
+            "32.3% / 48.5%",
+            "34.7% / 52.1%",
+            "37.2% / 55.7%",
+            "40.4% / 60.6%",
+            "42.8% / 64.2%",
+            "45.2% / 67.8%",
+            "48.5% / 72.7%",
+            "51.7% / 77.5%",
+            "54.9% / 82.4%",
+            "58.2% / 87.2%",
+            "61.4% / 92.1%",
+            "64.6% / 96.9%",
+            "68.7% / 103%",
+            "72.7% / 109%",
+            "76.7% / 115.1%"
+          ]
+        },
+        {
+          "label": "Abklingzeit von „Finale bei Tagesanbruch“",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Dauer von Solotanz-Schatten",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "Abklingzeit",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11505,
+      "id": "presto_bluebird_finale",
+      "name": "Schneller Tanz – Federntraum",
+      "description": "Führt schnelle Tanzschritte aus, verursacht mehrfach <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span>, beschwört den eigenen <b><span style=\"color:#FFD780FF\">Solotanz-Schatten</span></b> herauf und verleiht <span style=\"color:#FFD780FF\">Traum der Schneeschwänin</span>: Erhöht den durch Odettes Stellarfunkeln-Reaktionen verursachten Schaden.<br/>Ersetzt nach dem Anwenden der Spezialfähigkeit <span style=\"color:#FFD780FF\">Schneller Tanz – Federntraum</span> innerhalb von 6 s Odettes Elementarfähigkeit <span style=\"color:#FFD780FF\">Langsamer Tanz – Phantomnacht</span> durch die besondere Elementarfähigkeit <b><span style=\"color:#FFD780FF\">Langsamer Tanz – Finale bei Tagesanbruch</span></b><b></b>.<br/><br/>Ruft, wenn auf dem Feld ein von Odette selbst beschworener Solotanz-Schatten vorhanden ist, diesen herbei und setzt dessen Wirkungsdauer zurück.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Schwerthieb-SCH",
+          "values": [
+            "110.2% ×3",
+            "118.4% ×3",
+            "126.7% ×3",
+            "137.7% ×3",
+            "146% ×3",
+            "154.2% ×3",
+            "165.3% ×3",
+            "176.3% ×3",
+            "187.3% ×3",
+            "198.3% ×3",
+            "209.3% ×3",
+            "220.4% ×3",
+            "234.1% ×3",
+            "247.9% ×3",
+            "261.7% ×3"
+          ]
+        },
+        {
+          "label": "SCH des letzten Hiebs",
+          "values": [
+            "170.3%",
+            "183%",
+            "195.8%",
+            "212.8%",
+            "225.6%",
+            "238.4%",
+            "255.4%",
+            "272.4%",
+            "289.5%",
+            "306.5%",
+            "323.5%",
+            "340.5%",
+            "361.8%",
+            "383.1%",
+            "404.4%"
+          ]
+        },
+        {
+          "label": "SCH-Bonus von Stellarfunkeln-Reaktion bei „Traum der Schneeschwänin“",
+          "values": [
+            "14%",
+            "18%",
+            "22%",
+            "26%",
+            "30%",
+            "34%",
+            "38%",
+            "42%",
+            "46%",
+            "50%",
+            "54%",
+            "58%",
+            "62%",
+            "66%",
+            "70%"
+          ]
+        },
+        {
+          "label": "Dauer von „Traum der Schneeschwänin“",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "Dauer von Solotanz-Schatten",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "Abklingzeit",
+          "values": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "label": "Elementarenergie",
+          "values": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "spring_rite_of_the_chosen_one",
+      "name": "Frühling der Auserwählten",
+      "description": "Verleiht Odette, wenn sie einen <b><span style=\"color:#FFD780FF\">Solotanz-Schatten</span></b> beschwört, zusätzlich 4 Stapelungen <b><span style=\"color:#FFD780FF\">Farbenpracht</span></b>.",
+      "level": 1
+    },
+    {
+      "id": "pathetique_of_pateticheskaya",
+      "name": "Klage der Aufrichtigen",
+      "description": "Erhöht für den Anteil von Odettes ANG, der 1.000 überschreitet, den durch eine Stellarfunkeln-Reaktion verursachten Schaden pro 100 Punkte ANG zusätzlich um 1,5 % des ursprünglichen Schaden. Auf diese Weise kann der Schaden um maximal 30 % des ursprünglichen Schadens erhöht werden.",
+      "level": 4
+    },
+    {
+      "id": "stellar_jubilee_dance_of_aurore",
+      "name": "Sternensegnung – Tanz der Silberdämmerung",
+      "description": "Versetzt Odette, wenn sie sich im <b><span style=\"color:#FFD780FF\">Sternglanzfeld</span></b> befindet oder ein Truppenmitglied in der Nähe die Reaktion Stellar-Verwirbelung auslöst, innerhalb von 8 s in den Zustand <span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>/<span style=\"color:#FFD780FF\">Leuchten – Stellar-Verwirbelung</span>.<br/>Wandelt, wenn ein Truppenmitglied die Reaktion Supraleiter/Kryo-Verwirbelung auslöst, diese stattdessen in die Reaktion Stellar-Supraleiter/Stellar-Verwirbelung um und erhöht den Basis-Schaden der oben genannten Reaktionen von Truppenmitgliedern basierend auf Odettes ANG: Erhöht den Basis-SCH der oben genannten Reaktionen pro 100 Punkte um 0,7 %. Auf diese Weise kann der Schaden um bis zu 14 % erhöht werden.",
+      "level": 0
+    },
+    {
+      "id": "echo_of_winter_daydreams",
+      "name": "Widerhall des Wintertraums",
+      "description": "Zeigt alle <span style=\"color:#FFD780FF\">Besonderheiten Snezhnayas</span> in der Nähe auf der Minikarte an.<br/>Durch Tanzübungen in der Freizeit lassen sich vielleicht auch noch andere Effekte erzielen ...",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1501,
+      "id": "on_this_danceless_morn_she_gazes_at_her_reflection",
+      "name": "„Eines Morgens, an dem sie nicht tanzte, blickte sie auf ihr Spiegelbild“",
+      "description": "Odette verursacht nach Anwenden der besonderen Elementarfähigkeit <b><span style=\"color:#FFD780FF\">Langsamer Tanz – Finale bei Tagesanbruch</span></b> und beim Ende des Walzers einmalig zusätzlich <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span> bei Gegnern in der Nähe. Hierdurch verursachter Schaden gilt als:<br/>· <span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>, oder, wenn nicht im Leuchten-Zustand: Stellar-Supraleiter-Reaktionsschaden in Höhe von 300 % von Odettes ANG.<br/>· <span style=\"color:#FFD780FF\">Leuchten – Stellar-Verwirbelung</span>: Stellar-Verwirbelung-Reaktionsschaden in Höhe von 450 % von Odettes ANG.<br/><br/>Verstärkt zudem das Aufstiegstalent „Frühling der Auserwählten“: Verleiht Odette, wenn sie einen <b><span style=\"color:#FFD780FF\">Solotanz-Schatten</span></b> beschwört, zusätzlich 2 Stapelungen <b><span style=\"color:#FFD780FF\">Farbenpracht</span></b>. Ist Odette inaktiv in der Truppe, erhöht sich die Geschwindigkeit, mit der die Stapelungen von <span style=\"color:#FFD780FF\">Farbenpracht</span> abgebaut werden, auf 2 Stapelungen pro s.",
+      "level": 1
+    },
+    {
+      "_id": 1502,
+      "id": "i_must_see_the_snow_swans_unseen_dream_for_myself_she_thought",
+      "name": "„Sie dachte: ‚Ich möchte Zeugin des Traums werden, den die Schneeschwänin nie gesehen hat.‘“",
+      "description": "Verstärkt das Aufstiegstalent „Frühling der Auserwählten“: Erhöht für jede Stapelung <b><span style=\"color:#FFD780FF\">Farbenpracht</span></b> zudem den ANG der Figur um 7 %.<br/>Verringert außerdem, wenn der <b><span style=\"color:#FFD780FF\">Solotanz-Schatten</span></b> aktiv ist und Odette sich im Zustand <b><span style=\"color:#FFD780FF\">Leuchten – Stellarfunkeln</span></b> befindet, den entsprechenden Elementar-WDS von Gegnern in der Nähe des <span style=\"color:#FFD780FF\">Solotanz-Schattens</span> um 20 %:<br/>· <span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>: <span style=\"color:#99FFFFFF\">Kryo</span> und <span style=\"color:#FFACFFFF\">Elektro</span>.<br/>· <span style=\"color:#FFD780FF\">Leuchten – Stellar-Verwirbelung</span>: <span style=\"color:#99FFFFFF\">Kryo</span> und <span style=\"color:#80FFD7FF\">Anemo</span>.",
+      "level": 2
+    },
+    {
+      "_id": 1503,
+      "id": "ill_chase_the_shouting_wind_along_climbing_alone_as_i_go",
+      "name": "„Ich will dem heulenden Wind nachjagen und allein emporstreben.“",
+      "description": "Erhöht die Stufe der Elementarfähigkeit <color=#FFD780FF><b>Langsamer Tanz – Phantomnacht</b> </color> um 3.<br/>Höchststufe 15.",
+      "level": 3
+    },
+    {
+      "_id": 1504,
+      "id": "up_up_the_long_delirious_burning_blue",
+      "name": "„Aufwärts, hinab in den träumerischen, lodernden blauen Himmel“",
+      "description": "Verstärkt die Spezialfähigkeit <span style=\"color:#FFD780FF\">Schneller Tanz – Federntraum</span>: Erhöht, wenn Odette <span style=\"color:#FFD780FF\">Traum der Schneeschwänin</span> erhält, den von Truppenmitgliedern in der Nähe durch Stellarfunkeln-Reaktionen verursachten Schaden um 50 % des Effekts <span style=\"color:#FFD780FF\">Traum der Schneeschwänin</span>.<br/><br/>Wenn ein Truppenmitglied einem Gegner Schaden mit der Reaktion Stellarfunkeln zufügt, führt Odette einen abgestimmten Angriff auf den Gegner aus, der diesem einmalig <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span> zufügt, 3,5 s Abklingzeit. Hierdurch verursachter Schaden gilt als:<br/>· <span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>, oder, wenn nicht im Leuchten-Zustand: Stellar-Supraleiter-Reaktionsschaden in Höhe von 66 % von Odettes ANG.<br/>· <span style=\"color:#FFD780FF\">Leuchten – Stellar-Verwirbelung</span>: Stellar-Verwirbelung-Reaktionsschaden in Höhe von 99 % von Odettes ANG.",
+      "level": 4
+    },
+    {
+      "_id": 1505,
+      "id": "oh_i_have_slipped_the_surly_bonds_of_earth",
+      "name": "„Seht, denn ich habe mich vom irdischen Leiden verabschiedet“",
+      "description": "Erhöht die Stufe der Spezialfähigkeit <color=#FFD780FF><b>Schneller Tanz – Federntraum</b> </color> um 3.<br/>Höchststufe 15.",
+      "level": 5
+    },
+    {
+      "_id": 1506,
+      "id": "put_out_my_hand_and_touched_the_face_of_the_divine",
+      "name": "„Strecke deine Hand aus und berühre das ewige Antlitz des Himmels“",
+      "description": "Verstärkt das Aufstiegstalent „Frühling der Auserwählten“: Reduziert, wenn Odette allen Truppenmitgliedern in der Nähe <b><span style=\"color:#FFD780FF\">Farbenpracht</span></b> verleiht, ihre eigene Farbenpracht nicht mehr.<br/>Erhöht zudem den Schaden durch Stellarfunkeln-Reaktionen, den Figuren unter dem Einfluss von <span style=\"color:#FFD780FF\">Farbenpracht</span> Gegnern zufügen, um <b><span style=\"color:#FFD780FF\">25 %</span></b>. Steigert außerdem den Schaden durch Stellarfunkeln-Reaktionen, den Odette Gegnern zufügt, um weitere 20 %.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "-",
+            "1011"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "-",
+            "26"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "-",
+            "61"
+          ]
+        },
+        {
+          "label": "KSCH",
+          "values": [
+            "-",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "2621",
+            "3488"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "68",
+            "90"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "159",
+            "211"
+          ]
+        },
+        {
+          "label": "KSCH",
+          "values": [
+            "50.0%",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "5219",
+            "5834"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "135",
+            "151"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "316",
+            "354"
+          ]
+        },
+        {
+          "label": "KSCH",
+          "values": [
+            "50.0%",
+            "59.6%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104161,
+        "id": "shivada_jade_sliver",
+        "name": "Shivada-Jade-Splitter",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostspringkraut",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Ätherischer Glimmersplitter",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "6712",
+            "7533"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "173",
+            "194"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "407",
+            "457"
+          ]
+        },
+        {
+          "label": "KSCH",
+          "values": [
+            "59.6%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "Shivada-Jade-Bruchstück",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Unvergänglicher Blütenzweig in Flammen",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostspringkraut",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Ätherischer Glimmersplitter",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "8421",
+            "9036"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "217",
+            "233"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "511",
+            "548"
+          ]
+        },
+        {
+          "label": "KSCH",
+          "values": [
+            "69.2%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "Shivada-Jade-Bruchstück",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Unvergänglicher Blütenzweig in Flammen",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostspringkraut",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Ätherischer Kristall",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "9932",
+            "10547"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "256",
+            "272"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "602",
+            "639"
+          ]
+        },
+        {
+          "label": "KSCH",
+          "values": [
+            "69.2%",
+            "78.8%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "Shivada-Jade-Brocken",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Unvergänglicher Blütenzweig in Flammen",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostspringkraut",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Ätherischer Kristall",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "11453",
+            "12068"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "295",
+            "311"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "694",
+            "732"
+          ]
+        },
+        {
+          "label": "KSCH",
+          "values": [
+            "78.8%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "Shivada-Jade-Brocken",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Unvergänglicher Blütenzweig in Flammen",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostspringkraut",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "Ätherischer Kristallschuppenstein",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Aufstieg",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "Basis-LP",
+          "values": [
+            "12981",
+            "12981"
+          ]
+        },
+        {
+          "label": "Basis-ANG",
+          "values": [
+            "335",
+            "335"
+          ]
+        },
+        {
+          "label": "Basis-VTD",
+          "values": [
+            "787",
+            "787"
+          ]
+        },
+        {
+          "label": "KSCH",
+          "values": [
+            "88.4%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104164,
+        "id": "shivada_jade_gemstone",
+        "name": "Shivada-Jade",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Unvergänglicher Blütenzweig in Flammen",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Frostspringkraut",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "Ätherischer Kristallschuppenstein",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104365,
+          "id": "teachings_of_charity",
+          "name": "Lehren der „Güte“",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "Ätherischer Glimmersplitter",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Anleitung zur „Güte“",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Ätherischer Kristall",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Anleitung zur „Güte“",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Ätherischer Kristall",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Anleitung zur „Güte“",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Ätherischer Kristall",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Anleitung zur „Güte“",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Ätherischer Kristall",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Philosophie der „Güte“",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Ätherischer Kristallschuppenstein",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Verdrehter verdorrter Ast",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Philosophie der „Güte“",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Ätherischer Kristallschuppenstein",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Verdrehter verdorrter Ast",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Philosophie der „Güte“",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Ätherischer Kristallschuppenstein",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Verdrehter verdorrter Ast",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Philosophie der „Güte“",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Ätherischer Kristallschuppenstein",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Verdrehter verdorrter Ast",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Krone der Weisheit",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 215000,
+      "name": "Tanz des Schneeschwans",
+      "description": "Odettes Kleidung. Dieses gut gefertigte Ballettkostüm ist vom Schneeschwan inspiriert und hat die fleißige Balletttänzerin durch unzählige lange Nächte begleitet. Die Juwelen darauf brechen das Scheinwerferlicht stets zu einem ruhigen, eleganten Glanz – ganz wie die makellose Tänzerin selbst.",
+      "isDefault": true,
+      "characterName": "Odette",
+      "characterId": 10000150,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Odette_Circle"
+    }
+  ]
+}

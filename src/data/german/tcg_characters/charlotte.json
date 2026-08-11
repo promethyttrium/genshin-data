@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Kryo",
+    "weapon": "Katalysator",
     "faction": [
-      null
+      "Fontaine"
     ],
     "talent_card": {
       "_id": 5162,
@@ -29,8 +31,10 @@
     {
       "id": "coolcolor_capture",
       "name": "Erfassung der kalten Farben",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "framing_freezing_point_composition",
       "name": "Aufnahme – Gefrierpunkt-Komposition",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], verleiht dem Ziel den Zustand <span style=\"color:#FFFFFFFF\">Scharfe Silhouette</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>, verleiht dem Ziel den Zustand <span style=\"color:#FFFFFFFF\">Scharfe Silhouette</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "still_photo_comprehensive_confirmation",
       "name": "Standbild – Umfassende Bestätigung",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], stellt all deinen Figuren 1 LP wieder her, erschafft 1 <span style=\"color:#FFFFFFFF\">Feuilleton-Bereich</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>, stellt all deinen Figuren 1 LP wieder her, erschafft 1 <span style=\"color:#FFFFFFFF\">Feuilleton-Bereich</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,

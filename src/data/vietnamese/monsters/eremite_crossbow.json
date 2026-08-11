@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Eremite_Male_Standard_Crossbow",
   "description": "Đến từ sa mạc có màu của vàng, là một thành viên trong đoàn thể lính đánh thuê riêng lẻ. Vì thù lao, sẵn sàng ra sức cho bất kỳ ai.\\nTheo truyền thống, Eremite vốn thông thạo sử dụng cung tên để đối phó kẻ địch hơn. Nhưng từ khi Giáo Viện cho phép họ thu mua nỏ máy ở Bazaar thì chỉ còn lại các xạ thủ cừ khôi nhất mới sử dụng loại vũ khí cần phải luyện tập như cung tên thôi.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

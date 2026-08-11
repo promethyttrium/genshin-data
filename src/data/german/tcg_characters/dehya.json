@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Zweihänder",
     "faction": [
-      null,
-      null
+      "Sumeru",
+      "Goldbrigade"
     ],
     "talent_card": {
       "_id": 4367,
@@ -30,8 +32,10 @@
     {
       "id": "sandstorm_assault",
       "name": "Schwertkunst des Goldenen Sturms",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,8 +54,10 @@
     {
       "id": "molten_inferno",
       "name": "Inferno geschmolzenen Eisens",
-      "desc": "Erschafft 1 <span style=\"color:#FFFFFFFF\">Feld des Unzähmbaren Schwertjochs</span>; verursacht, wenn das Feld des Unzähmbaren Schwertjochs bereits besteht, vorerst ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Erschafft 1 <span style=\"color:#FFFFFFFF\">Feld des Unzähmbaren Schwertjochs</span>; verursacht, wenn das Feld des Unzähmbaren Schwertjochs bereits besteht, vorerst 1 Pkt. <span style=\"color:#FF9999FF\">Pyro-SCH</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -64,8 +70,10 @@
     {
       "id": "leonine_bite",
       "name": "Flammender Löwenbiss",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], <span style=\"color:#FFFFFFFF\">bereitet folgende Fähigkeiten vor</span>: <span style=\"color:#FFFFFFFF\">Versengender Tritt</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#FF9999FF\">Pyro-SCH</span>, <span style=\"color:#FFFFFFFF\">bereitet folgende Fähigkeiten vor</span>: <span style=\"color:#FFFFFFFF\">Versengender Tritt</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1103,

@@ -1,0 +1,65 @@
+{
+  "_id": 3705,
+  "id": "snezhnaya_shashliks",
+  "name": "Snezhnaya Usulü Şaşlık",
+  "description": "Büyük parçalar halinde ızgara edilen et şişleri. Marine edilmiş et parçaları demir şişlere dizilir ve kızgın kömür üzerinde, dışı kızarıp içi yumuşayana kadar çevrilerek pişirilir. İster avlu toplantılarında ister avda veya karların üzerinde ufak bir açıklıkta; özetle Snezhnaya'da ateş yakılabilen her yerde bu şişlere rastlanabilir.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Çiğ Et",
+      "amount": 3
+    },
+    {
+      "_id": 100064,
+      "id": "fowl",
+      "name": "Kuş Eti",
+      "amount": 3
+    },
+    {
+      "_id": 101281,
+      "id": "rimecurrant",
+      "name": "Buz Yemişi",
+      "amount": 1
+    },
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Kırmızı Pancar",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Maceracının Yemeği",
+  "results": {
+    "suspicious": {
+      "_id": 132010,
+      "name": "Snezhnaya Usulü Şaşlık (Tuhaf)",
+      "description": "Büyük parçalar halinde ızgara edilen et şişleri. Kararmış dış yüzeyi o kadar acı ve sert ki sanki bir kömür parçası çiğniyormuşsun gibi hissettiriyor. Daha da kötüsü, aşırı pişen içi o kadar kuru, o kadar kayış gibi ki sanki bütün suyu daha ızgaradan inmeden buhar olup uçmuş...",
+      "effect": "900 saniyeliğine tüm grup üyelerinin tırmanma ve depar esnasında harcadığı Dayanıklılık %15 azalır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    },
+    "normal": {
+      "_id": 132011,
+      "name": "Snezhnaya Usulü Şaşlık",
+      "description": "Büyük parçalar halinde ızgara edilen et şişleri. Marine edilmiş et parçaları demir şişlere dizilir ve kızgın kömür üzerinde, dışı kızarıp içi yumuşayana kadar çevrilerek pişirilir. İster avlu toplantılarında ister avda veya karların üzerinde ufak bir açıklıkta; özetle Snezhnaya'da ateş yakılabilen her yerde bu şişlere rastlanabilir.",
+      "effect": "900 saniyeliğine tüm grup üyelerinin tırmanma ve depar esnasında harcadığı Dayanıklılık %20 azalır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    },
+    "delicious": {
+      "_id": 132012,
+      "name": "Snezhnaya Usulü Şaşlık (Lezzetli)",
+      "description": "Büyük parçalar halinde ızgara edilen et şişleri. Gevrek dış yüzeyi ısırıldığında tatmin edici bir çıtırtı duyulur ve ardından iştah açıcı bir et suyu patlaması yaşanır. Şiş ateşte kızarırken marine sosu, etin taze tatlılığını öne çıkaran doyurucu bir alt notaya dönüşür. Ağzının kenarları yağ ve et suyuyla parlasa da bu eşsiz lezzet söz konusu olduğunda aklına gelecek en son şey sofra adabı olabilir...",
+      "effect": "900 saniyeliğine tüm grup üyelerinin tırmanma ve depar esnasında harcadığı Dayanıklılık %25 azalır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    },
+    "special": {
+      "_id": 132016,
+      "id": "the_bullseye_roast",
+      "name": "Tam İsabet Rostosu",
+      "description": "Alyosha'nın özel tarifi. Tugarin'in heyecanlı havlamaları eşliğinde kocaman bir şiş uzatıyor. Sıcak yağı cızırdayan et, standart bir şiştekinden çok daha kalın dilimlenmiş. Tek bir ısırık, açık ateşin mükemmel bir şekilde terbiye ettiği o zengin av eti lezzetini ortaya çıkarıyor. Belli ki ızgara başındaki ustalığı da nişancılığı kadar kusursuz!",
+      "effect": "1.500 saniyeliğine tüm grup üyelerinin tırmanma ve depar esnasında harcadığı Dayanıklılık %25 azalır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
+      "character": {
+        "id": "alyosha",
+        "name": "Alyosha"
+      }
+    }
+  }
+}

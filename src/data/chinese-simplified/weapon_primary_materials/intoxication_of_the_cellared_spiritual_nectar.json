@@ -1,0 +1,29 @@
+{
+  "_id": 114090,
+  "id": "intoxication_of_the_cellared_spiritual_nectar",
+  "name": "藏窖灵浆的酩酊",
+  "description": "在别处仅作为食粮丰收的馀庆，对于行于严寒之中的诸氏来说则是生存的必须。<br/>据说制酒技术最为精湛的矮灵们昔日就曾依靠此术为当时效忠的王者积累宝库中的财富。<br/>如是，妖精的酿造借由氏族之间的交易，如淌毒的蜜一般流经了整个冻土。",
+  "source": [
+    "占位-可合成数量:{0}"
+  ],
+  "location": "至冬",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114089,
+        "id": "measured_pour_of_the_cellared_spiritual_nectar",
+        "name": "藏窖灵浆的斟酌",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "炼武秘境·「妄念的创痕」",
+  "days": [
+    "周二",
+    "周五",
+    "周日"
+  ]
+}

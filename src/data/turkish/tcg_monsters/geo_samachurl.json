@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Toprak",
+    "weapon": "Diğer Silahlar",
     "faction": [
-      null,
-      null
+      "Canavar",
+      "Dağ Yabanisi"
     ]
   },
   "skills": [
     {
       "id": "staff_strike",
       "name": "Asa Saldırısı",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "1 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "summoning_of_stones",
       "name": "Taşlara Çağrı",
-      "desc": "? ? verir ve 1 <span style=\"color:#FFFFFFFF\">Taş Kaide</span> oluşturur.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#FFE699FF\">Toprak Hasarı</span> verir ve 1 <span style=\"color:#FFFFFFFF\">Taş Kaide</span> oluşturur.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -45,8 +51,10 @@
     {
       "id": "shockwave_smash",
       "name": "Şok Dalgası Darbesi",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "5 <span style=\"color:#FFE699FF\">Toprak Hasarı</span> verir.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1106,

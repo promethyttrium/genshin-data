@@ -1,0 +1,12 @@
+{
+  "_id": 70800033,
+  "id": "central_railway_hub",
+  "name": "Central Railway Hub",
+  "areaName": "Everfrozen Earth",
+  "areaId": 80200,
+  "description": "If the nation of Snezhnaya were envisioned as a titan of cold iron and steel, its sprawling railways would be its veins, and the Central Station of Snezhnograd undoubtedly serves as the titan's ever-pounding heart.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 633,
+  "filename_image": "UI_Codex_Scenery_ZDZhiDongBaoCheZhan"
+}

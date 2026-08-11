@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Épée à une main",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 5164,
@@ -29,8 +31,10 @@
     {
       "id": "boxcutter",
       "name": "Ouvre-colis",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -50,7 +54,9 @@
       "id": "meowteor_kick",
       "name": "Coup de patte miaou-téorite",
       "desc": "Crée un <span style=\"color:#FFFFFFFF\">neko-colis urgent</span> et 2 <span style=\"color:#FFFFFFFF\">boucliers de transport sécurisé</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "secret_art_surprise_dispatch",
       "name": "Art secret : Livraison surprise",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et crée une <span style=\"color:#FFFFFFFF\">noix de cataire</span> sur le terrain adverse.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts de <span style=\"color:#7EC236FF\">DGT Dendro</span> et crée une <span style=\"color:#FFFFFFFF\">noix de cataire</span> sur le terrain adverse.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1107,

@@ -1,0 +1,80 @@
+{
+  "_id": 72,
+  "id": "meetings_in_outrealm_series_vii",
+  "name": "Gặp Ở Thế Giới Khác - Phần VII",
+  "order": 37,
+  "achievements": [
+    {
+      "id": 86079,
+      "name": "Đắm Chìm Tại Đây",
+      "desc": "Cùng người chơi khác đánh bại Linh Chủ Đêm Sương.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9076
+    },
+    {
+      "id": 86080,
+      "name": "Hai Mươi Sáu, Xuyên Thủng",
+      "desc": "Cùng người chơi khác đánh bại Chiến Hạm Lục Chiến Hạng Nặng - Pháo Đài Di Động.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9077
+    },
+    {
+      "id": 86081,
+      "name": "Không Cần Phải Nói!",
+      "desc": "Cùng người chơi khác đánh bại Chúa Tể Ác Mộng U Ám.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9078
+    },
+    {
+      "id": 86082,
+      "name": "Trừ Gian Diệt Ác",
+      "desc": "Cùng người chơi khác đánh bại \"The Doctor\".",
+      "reward": 10,
+      "hidden": false,
+      "order": 9079
+    },
+    {
+      "id": 86083,
+      "name": "Bảo Vệ Cái Gì Vậy",
+      "desc": "Cùng người chơi khác đánh bại Thằn Lằn Ánh Trăng Bức Xạ.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9080
+    },
+    {
+      "id": 86084,
+      "name": "\"Nếu Tôi Mài Lưỡi Đao Lấp Lánh Của Mình...\"",
+      "desc": "Cùng người chơi khác đánh bại Người Canh Gác - Sa Ngã.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9081
+    },
+    {
+      "id": 86085,
+      "name": "Độc Sinh Vô Minh",
+      "desc": "Cùng người chơi khác đánh bại Il Dottore.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9082
+    },
+    {
+      "id": 86086,
+      "name": "Bất Diệt Đã Bị Chém",
+      "desc": "Cùng người chơi khác đánh bại Tạo Vật Phái Sinh Bất Diệt.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9083
+    },
+    {
+      "id": 86087,
+      "name": "Sinh Khí Đã Tận",
+      "desc": "Cùng người chơi khác đánh bại Sư Tử Cánh Lai Ghép.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9084
+    }
+  ]
+}

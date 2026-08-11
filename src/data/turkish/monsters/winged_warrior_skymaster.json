@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Flamingo",
   "description": "Sarp uçurumların tepelerinden gelen ve dağ sırtlarında devriye gezen kabile muhafızı savaşçı.\\nBu savaşçılar, uçan Sürüngenlerin pençe darbelerini inceleyip onları taklit ederek güçlerini artırmayı başarmıştır. Yüksekten indirdikleri tekme darbeleri yabana atılmamalıdır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -313,6 +313,11 @@
       "name": "雙果捲"
     },
     {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "千層蜂蜜糕"
+    },
+    {
       "_id": 3901,
       "id": "crisp_croissant_combo",
       "name": "酥酥羊角包"
@@ -400,6 +405,5 @@
   ],
   "source": [
     "烹飪加工獲得"
-  ],
-  "rarity": 0
+  ]
 }

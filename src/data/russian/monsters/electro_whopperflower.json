@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Mimik_Electric",
   "description": "Миметический растительный монстр, наполненный элементарной энергией, который атакует свою жертву с помощью энергии Электро.\\nКогда он полон элементарной энергии, то может выпускать её из своего венчика. По этой причине некоторые учёные также пытались использовать его для других целей...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

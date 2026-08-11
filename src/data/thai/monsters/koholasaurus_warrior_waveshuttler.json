@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "กองกำลังของมนุษย์อื่น ๆ",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
   "description": "นักรบผู้แข็งแกร่งจากต้นกำเนิดของน้ำพุไหลริน ได้รับการยอมรับในด้านความกล้าหาญ และได้รับมงกุฎ Saurian\\nนักรบที่สามารถควบคุมพลังของคลื่นได้ชั่วคราวเพื่อเคลื่อนที่ไปมา ตามตำนาน วีรบุรุษของเผ่าถึงขั้นสามารถตีลังกากลับไปกลับมาบนน้ำได้โดยไม่ต้องใช้เครื่องมือใด ๆ ในขณะแล่นด้วยความเร็วสูง ชาวเผ่าในปัจจุบันจึงเชื่อว่า นี่คือเทคนิคการแล่นไปบนคลื่นที่ค่อนข้างซับซ้อนอย่างหนึ่ง ซึ่งจุดสำคัญอยู่ที่วิธีการเคลื่อนไหว",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

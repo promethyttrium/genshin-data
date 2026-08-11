@@ -1,0 +1,21 @@
+{
+  "_id": 101280,
+  "id": "snowball_flower",
+  "name": "雪玉花",
+  "description": "花序が球形に近い可愛らしい花。雪が花びらに積もると、花全体がまるで雪玉のようになる。",
+  "recipes": [
+    {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "雪国スープ"
+    },
+    {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "白の雪玉花"
+    }
+  ],
+  "source": [
+    "推奨：スネージナヤで採集"
+  ]
+}

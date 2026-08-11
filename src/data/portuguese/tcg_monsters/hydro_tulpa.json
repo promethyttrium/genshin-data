@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Carta de Personagem",
     "energy": 3,
+    "element": "Hydro",
+    "weapon": "Outras Armas",
     "faction": [
-      null
+      "Monstro"
     ],
     "talent_card": {
       "_id": 8982,
@@ -27,8 +29,10 @@
     {
       "id": "savage_swell",
       "name": "Ímpeto da Maré",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#80C0FFFF\">Dano Hydro</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -47,8 +51,10 @@
     {
       "id": "storm_surge",
       "name": "Onda de Tempestade",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ? e ativa o efeito de Fase Final de 1 de suas Invocações aleatoriamente. Se a Vida do personagem for 2 ou maior, sofre 1 de <span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Dano Perfurante</span></span>.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de <span style=\"color:#80C0FFFF\">Dano Hydro</span> e ativa o efeito de Fase Final de 1 de suas Invocações aleatoriamente. Se a Vida do personagem for 2 ou maior, sofre 1 de <span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Dano Perfurante</span></span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -61,8 +67,10 @@
     {
       "id": "thundering_tide",
       "name": "Rugido Torrencial",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ? e ativa o efeito de Fase Final para todas as suas Invocações.",
-      "skillTag": [],
+      "desc": "Causa 4 pontos de <span style=\"color:#80C0FFFF\">Dano Hydro</span> e ativa o efeito de Fase Final para todas as suas Invocações.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -82,7 +90,9 @@
       "id": "branching_flow",
       "name": "Parte Fluxo",
       "desc": "<span style=\"color:#FFFFFFFF\">Quando a Vida deste personagem não é menor que 3, e quando todas as suas Invocações exceto Meia-Tulpa saem de campo:</span> O personagem sofre 2 de <span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Dano Perfurante</span></span> e invoca 1 <span style=\"color:#FFFFFFFF\">Meia-Tulpa</span> independente. (Uma vez por Turno)",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Passiva"
+      ],
       "points": []
     }
   ]

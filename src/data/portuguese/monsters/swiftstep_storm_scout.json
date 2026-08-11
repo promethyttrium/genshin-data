@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Apito de Metal do Guerreiro",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Apito de Madeira do Sentinela",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Hookwalker",
   "description": "Um guerreiro das Copas e guardião tribal que patrulha os vales da floresta e riachos da montanha.\\nDizem que esses guerreiros tribais que empunham espadas ficam sob árvores e cortam toda folha que cai ao longo do dia para aprimorar as habilidades de combate. Mas assim como as folhas caem em silêncio, os cortes desses velozes guerreiros não emitem sons.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -1,0 +1,90 @@
+{
+  "_id": 1317,
+  "id": "durin",
+  "shareId": 608,
+  "name": "Durin",
+  "title": "Durin, Fiamma perpetua",
+  "desc": "Nato dalla penna, ora vola tra le stelle.",
+  "attributes": {
+    "hp": 10,
+    "card_type": "Carta personaggio",
+    "energy": 2,
+    "element": "Pyro",
+    "weapon": "Spada",
+    "faction": [
+      "Mondstadt"
+    ],
+    "source": "Ricompensa ottenuta sfidando Durin a duello alla Coda di Gatto e battendolo in un duello amichevole"
+  },
+  "skills": [
+    {
+      "id": "radiant_wingslash",
+      "name": "Colpo d'ala splendente",
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Pyro",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Elemento indefinito",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "binary_form_convergence_and_division",
+      "name": "Forma binaria: Convergenza e divisione",
+      "desc": "Infligge 3 <span style=\"color:#FF9999FF\">DAN da Pyro</span>. Questo personaggio ottiene l'effetto <span style=\"color:#FFFFFFFF\">Trasmutazione essenziale</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Pyro",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "principle_of_purity_as_the_light_shifts",
+      "name": "Principio della purezza: Trasmutazione luminosa",
+      "desc": "Infligge 1 <span style=\"color:#FF9999FF\">DAN da Pyro</span> e crea <span style=\"color:#FFFFFFFF\">Conferma della purezza</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Pyro",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Energia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "light_manifest_of_the_divine_calculus",
+      "name": "Luce manifesta del calcolo divino",
+      "desc": "(Passiva) <span style=\"color:#FFFFFFFF\">Dopo che questo personaggio ha usato un attacco normale:</span> cambia il suo Tripudio elementale in <span style=\"color:#FFFFFFFF\">Principio dell'oscurità: Stelle quiescenti</span>.<br/><span style=\"color:#FFFFFFFF\">Dopo che questo personaggio ha usato un'abilità elementale:</span> cambia il suo Tripudio elementale in <span style=\"color:#FFFFFFFF\">Principio della purezza: Trasmutazione luminosa</span>.",
+      "skillTag": [
+        "Abilità passiva"
+      ],
+      "points": []
+    }
+  ]
+}

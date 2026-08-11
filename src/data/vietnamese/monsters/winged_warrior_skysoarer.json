@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Human_Female_NoWeapon_Flamingo",
   "description": "Dũng sĩ đến từ núi cao, bảo vệ bộ tộc tuần tra trên vách núi dựng đứng.\\nChiến binh bộ tộc tin tưởng vào đôi tay của mình hơn là vũ khí. Được mọi người khen ngợi bởi chính thân thủ thanh thoát nhẹ nhàng.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

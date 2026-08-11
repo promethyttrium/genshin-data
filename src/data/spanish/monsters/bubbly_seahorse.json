@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Larva_03",
   "description": "Una criatura acuática que caza gracias a los proyectiles que lanza.\\nEl Caballito Burbumarino es una de las grandes estrellas entre los amantes de las escasas especies de Engendros Fontamarinos. Claro está, al igual que ocurre con los amantes de los Mecabots, los de estas criaturas suelen mantener una tensa rivalidad con otros grupos de seguidores.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 5.34,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

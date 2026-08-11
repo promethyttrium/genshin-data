@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Polearm",
     "faction": [
-      null
+      "Fontaine"
     ],
     "talent_card": {
       "_id": 9075,
@@ -29,8 +31,10 @@
     {
       "id": "kitchen_skills",
       "name": "Kitchen Skills",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "lowtemperature_cooking",
       "name": "Low-Temperature Cooking",
-      "desc": "Mengakibatkan ? poin ? dan memanggil <span style=\"color:#FFFFFFFF\">Cooking Mek: Cold Storage Mode</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#99FFFFFF\">Cryo DMG</span> dan memanggil <span style=\"color:#FFFFFFFF\">Cooking Mek: Cold Storage Mode</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "scoring_cuts",
       "name": "Scoring Cuts",
-      "desc": "Mengakibatkan ? poin ? dan memulihkan 2 poin HP semua Karakter milikmu.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#99FFFFFF\">Cryo DMG</span> dan memulihkan 2 poin HP semua Karakter milikmu.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -84,7 +92,9 @@
       "id": "constant_offthecuff_cookery",
       "name": "Constant Off-the-Cuff Cookery",
       "desc": "[Pasif] Menciptakan <span style=\"color:#FFFFFFFF\">All-Spectrum Multi-Use Cooking Mek</span> saat duel dimulai.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Карты персонажей",
     "energy": 3,
+    "element": "Крио",
+    "weapon": "Двуручное",
     "faction": [
-      null
+      "Ли Юэ"
     ],
     "talent_card": {
       "_id": 3211,
@@ -29,8 +31,10 @@
     {
       "id": "demonbane",
       "name": "Искоренение зла",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "chonghuas_layered_frost",
       "name": "Холод Чунхуа",
-      "desc": "Наносит ?, ? ед. и создаёт <span style=\"color:#FFFFFFFF\">Область холода Чунхуа</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#99FFFFFF\">Крио урон</span>, 3 ед. и создаёт <span style=\"color:#FFFFFFFF\">Область холода Чунхуа</span>.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "cloudparting_star",
       "name": "Падение с небес",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#99FFFFFF\">Крио урон</span>, 7 ед.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1101,

@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Bisonsaurus_Small",
   "description": "Молодой татанказавр, который ещё не может полностью контролировать силу своего тела, поэтому несколько неуклюж.\\nВторая пара рогов выросла не полностью, а силы спины и брюха недостаточно, чтобы разрушать преграждающие путь камни. Но если малыш вырастет здоровым, однажды он будет вольготно бродить по плодородным равнинам.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

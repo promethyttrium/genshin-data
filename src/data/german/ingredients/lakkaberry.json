@@ -48,10 +48,14 @@
       "_id": 3612,
       "id": "birchsteamed_pork_ribs",
       "name": "Pinnekjøtt"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Zuckersüße Eiskugeln"
     }
   ],
   "source": [
     "In der freien Natur zu finden"
-  ],
-  "rarity": 0
+  ]
 }

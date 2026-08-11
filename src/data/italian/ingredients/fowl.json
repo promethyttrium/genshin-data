@@ -155,6 +155,11 @@
       "name": "Mari, monti... e cieli"
     },
     {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Saslyk alla snezhnayana"
+    },
+    {
       "_id": 4002,
       "id": "golden_fried_chicken",
       "name": "Pollo fritto dorato"
@@ -204,6 +209,5 @@
   ],
   "source": [
     "Ottenibile dagli animali"
-  ],
-  "rarity": 0
+  ]
 }

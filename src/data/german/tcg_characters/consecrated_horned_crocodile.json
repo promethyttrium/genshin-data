@@ -9,9 +9,11 @@
     "hp": 11,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Andere Waffen",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Bestie heiliger Knochen"
     ],
     "talent_card": {
       "_id": 9242,
@@ -28,8 +30,10 @@
     {
       "id": "fang_bite",
       "name": "Reißzahnbiss",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -48,8 +52,10 @@
     {
       "id": "sawtoothed_surge",
       "name": "Sägezahn-Sturm",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], legt dabei max. 1 deiner Karten mit den höchsten <span style=\"color:#FFFFFFFF\">Elementarwürfel-Kosten (aktuell)</span> ganz unten unter den Stapel und erschafft 1 <span style=\"color:#FFFFFFFF\">Energieblock des Knochenfressers</span> auf deiner Hand.",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#80C0FFFF\">Hydro-SCH</span>, legt dabei max. 1 deiner Karten mit den höchsten <span style=\"color:#FFFFFFFF\">Elementarwürfel-Kosten (aktuell)</span> ganz unten unter den Stapel und erschafft 1 <span style=\"color:#FFFFFFFF\">Energieblock des Knochenfressers</span> auf deiner Hand.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -62,8 +68,10 @@
     {
       "id": "reptilian_rage",
       "name": "Reptilische Wut",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], und es werden bis zu 3 <span style=\"color:#FFFFFFFF\">Energieblock des Knochenfressers</span> <span style=\"color:#FFFFFFFF\">abgeworfen</span>. Stellt dann für jede Karte, die <span style=\"color:#FFFFFFFF\">abgeworfen</span> wurde, der Figur von dir, die am meisten SCH erlitten hat, 1 LP wieder her und erhöht ihre max. LP um 1.",
-      "skillTag": [],
+      "desc": "Verursacht 4 Pkt. <span style=\"color:#80C0FFFF\">Hydro-SCH</span>, und es werden bis zu 3 <span style=\"color:#FFFFFFFF\">Energieblock des Knochenfressers</span> <span style=\"color:#FFFFFFFF\">abgeworfen</span>. Stellt dann für jede Karte, die <span style=\"color:#FFFFFFFF\">abgeworfen</span> wurde, der Figur von dir, die am meisten SCH erlitten hat, 1 LP wieder her und erhöht ihre max. LP um 1.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -83,7 +91,9 @@
       "id": "consecrated_senses",
       "name": "Geweihte Sinne",
       "desc": "Passiv – Stellt, nachdem du <span style=\"color:#FFFFFFFF\">Energieblock des Knochenfressers</span> ausgespielt oder <span style=\"color:#FFFFFFFF\">abgeworfen</span> hast, der Figur von dir, die den meisten SCH erlitten hat, 1 LP wieder her.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

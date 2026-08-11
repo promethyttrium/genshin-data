@@ -1,0 +1,21 @@
+{
+  "_id": 330001,
+  "id": "shattered_moon",
+  "name": "Luna infranta",
+  "description": "Una gloriosa lancia illusoria emersa dalle profondità delle linee geomantiche. Può cambiare aspetto in base al tipo elementale di chi l'impugna. Leggenda vuole che il nome di quest'arma fosse \"Barnstokkr\" quando era brandita da un peccatore che cacciava la luna in una terra antica.",
+  "rarity": 4,
+  "type": {
+    "id": "Polearm",
+    "name": "Lancia"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "Metamorfosi splendente: Trascendenza",
+    "priority": 1
+  },
+  "item_id": 341301,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphSpinifer_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphSpinifer"
+}

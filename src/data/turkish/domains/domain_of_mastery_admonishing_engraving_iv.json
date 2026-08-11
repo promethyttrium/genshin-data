@@ -18,6 +18,11 @@
     "Su",
     "Elektrik"
   ],
+  "daysOfWeek": [
+    "Salı",
+    "Cuma",
+    "Pazar"
+  ],
   "domainType": "UI_ABYSSUS_AVATAR_PROUD",
   "domainText": "Talent Level-Up Material",
   "rewardPreview": [

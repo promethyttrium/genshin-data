@@ -25,29 +25,27 @@
       "_id": 112103,
       "id": "tyrants_fang",
       "name": "난폭한 송곳니",
-      "count": 0.0616
+      "count": 0.062
     },
     {
       "_id": 112102,
       "id": "seasoned_fang",
       "name": "성숙한 송곳니",
-      "count": 0.2465
+      "count": 0.246
     },
     {
       "_id": 112101,
       "id": "juvenile_fang",
       "name": "미숙한 송곳니",
-      "count": 0.9244
+      "count": 0.924
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "돌연변이 마수",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Drillhead_Small",
   "description": "어린 산룡. 바위와 고체 열소 사이를 넘나들 수 있다.\\n어린 산룡의 이마에는 뿔이 없고 발굴 기술도 미숙하다. 심지어 훈련하다가 바위에 갇혔다는 소문도 자주 들린다. 하지만 언젠가 어린 산룡도 단단한 땅속을 자유롭게 넘나들 수 있는 모습으로 성장할 것이다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

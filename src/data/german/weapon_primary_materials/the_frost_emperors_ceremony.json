@@ -1,0 +1,29 @@
+{
+  "_id": 114094,
+  "id": "the_frost_emperors_ceremony",
+  "name": "Zeremonie des Frostkaisers",
+  "description": "Die Feen am Hofe verstanden nicht, warum die Geschenke für den Herrscher in solch einer Form gefertigt wurden. Sie legten lediglich Wert auf die kunstvolle Gestaltung der juwelenartigen Schmuckstücke.<br/>Nur der Herrscher auf dem Thron und der Geist aus Eis und Schnee kannten die wahre Bedeutung dieses Schmuckstücks.<br/>Wichtig war nie die Zeremonie selbst, sondern der wahre Sinn der Vergangenheit, der ihr innewohnte.",
+  "source": [
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114093,
+        "id": "the_frost_emperors_revival",
+        "name": "Wiederbelebung des Frostkaisers",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Sphäre der Kriegskunst – Narben einer verfluchten Besessenheit",
+  "days": [
+    "Mittwoch",
+    "Samstag",
+    "Sonntag"
+  ]
+}

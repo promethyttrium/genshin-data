@@ -1,0 +1,13 @@
+{
+  "_id": 70800041,
+  "id": "fiery_plumage_valley",
+  "name": "El valle de hojas como plumas de fuego",
+  "areaName": "Valle Plumaígnea",
+  "areaId": 80400,
+  "description": "Cuenta la leyenda que, un día, el hielo y la nieve de este lugar se derritieron, y de la tierra brotaron árboles con hojas como llamas.\nEntonces, aquel que perseguía la eternidad usó aquí su eternidad para esperar el regreso de la persona que anhelaba.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 641,
+  "filename_image": "UI_Codex_Scenery_ZDHuoNiaoHeZhuView",
+  "showOnlyUnlocked": true
+}

@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Mechanisches Stirnrad",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Greifendes Zahnrad",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automata",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Excavator",
   "description": "Ein großer Uhrwerk-Mecha, der für Bauarbeiten und archäologische Ausgrabungen von unschätzbar hohem Wert ist und dessen Name auf den Ingenieur zurückgeht, der beim Bau der Clémentine-Linie von Callas angeheuert wurde.\\nMit der finanziellen Unterstützung von Callas konstruierte dieser Ingenieur die legendäre riesige Baumaschine „Goldene Note“, um den Poisson-Tunnel zu graben. Nach Abschluss dieser Arbeiten nutzte er das Design dieser Maschine als Vorlage, um diesen typgleichen Uhrwerk-Mecha mit kleineren Abmessungen zu entwerfen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 2,
   "stats": {

@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 3,
+    "element": "Geo",
+    "weapon": "Otras armas",
     "faction": [
-      null
+      "Fatui"
     ]
   },
   "skills": [
     {
       "id": "rock_projectile",
       "name": "Proyectil pétreo",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#FFE699FF\">Daño Geo</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -36,8 +40,10 @@
     {
       "id": "geocrystal_beam",
       "name": "Perdigones prismáticos",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#FFE699FF\">Daño Geo</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -50,8 +56,10 @@
     {
       "id": "staff_of_geo",
       "name": "Culatazo Geo",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?, este personaje obtiene el efecto de <span style=\"color:#FFFFFFFF\">arsenal elemental: Geo</span> y crea una <span style=\"color:#FFFFFFFF\">protección de cristal</span>.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#FFE699FF\">Daño Geo</span>, este personaje obtiene el efecto de <span style=\"color:#FFFFFFFF\">arsenal elemental: Geo</span> y crea una <span style=\"color:#FFFFFFFF\">protección de cristal</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -71,7 +79,9 @@
       "id": "combat_resupply",
       "name": "Reabastecimiento de combate",
       "desc": "Pasiva: cuando comienza el duelo, este personaje obtiene Energía +2.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
       "points": []
     }
   ]

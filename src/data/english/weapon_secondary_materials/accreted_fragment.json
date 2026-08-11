@@ -1,0 +1,11 @@
+{
+  "_id": 112152,
+  "id": "accreted_fragment",
+  "name": "Accreted Fragment",
+  "description": "An accretion that has only just begun to attach to an internal organ or bone. As the Volkodlak's power grows, it may eventually cover an entire region of the body, or a whole organ.",
+  "source": [
+    "Dropped by Volkodlak Brutes",
+    "Stardust Exchange"
+  ],
+  "rarity": 2
+}

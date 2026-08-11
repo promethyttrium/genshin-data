@@ -1,0 +1,12 @@
+{
+  "_id": 70800043,
+  "id": "cavern_of_melodic_tides",
+  "name": "Caverna de la marea cantora",
+  "areaName": "Cumbre Muertescarcha",
+  "areaId": 80300,
+  "description": "La marea acaricia suavemente los acantilados al ritmo de la melodía que entona una cantora. En este lugar vasto y solitario, quizás solo las olas y los ecos melancólicos puedan brindarle una paz difícil de conseguir.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 643,
+  "filename_image": "UI_Codex_Scenery_ZDRenYu3"
+}

@@ -1,0 +1,18 @@
+{
+  "_id": 104371,
+  "id": "teachings_of_glory",
+  "name": "İhtişam Öğretisi",
+  "description": "Yetenek Seviyesi Yükseltme Malzemesi.\\nİhtişam, donmuş diyarın kutsal inancıdır.\\nO, donmuş toprağın derinliklerine gömülü bir kıvılcımdır; eğer ki bir kimse onun gerçek formunun izini sürebilirse, dondurucu soğuğa karşı duracak cesareti kendine bahşedecektir.",
+  "source": [
+    "Hediye Dükkanında takas edilir."
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Ustalık Zindanı: Ortak Vizyon IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Çarşamba",
+    "Cumartesi",
+    "Pazar"
+  ]
+}

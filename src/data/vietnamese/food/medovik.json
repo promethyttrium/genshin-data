@@ -1,0 +1,54 @@
+{
+  "_id": 3704,
+  "id": "medovik",
+  "name": "Medovik",
+  "description": "Bánh kem làm từ mật ong. Khối bột đã trộn với mật ong được cán mỏng rồi đem nướng, sau đó phết từng lớp kem làm từ Smetana rồi xếp chồng lên nhau, cuối cùng rắc vụn bánh và rưới thêm sốt mật ong. Để có được thành phẩm chỉn chu, mỗi bước đều không được qua loa.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 110017,
+      "id": "honey",
+      "name": "Mật Ong",
+      "amount": 4
+    },
+    {
+      "_id": 110001,
+      "id": "flour",
+      "name": "Bột Mì",
+      "amount": 4
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Trứng Chim",
+      "amount": 3
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Món Dạng Hồi Phục",
+  "results": {
+    "suspicious": {
+      "_id": 132007,
+      "name": "Medovik Kỳ Lạ",
+      "description": "Bánh kem làm từ mật ong. Vị ngọt vốn có của chiếc bánh đã biến thành vị đắng khét dưới ngọn lửa lò hừng hực. Tuy lớp kem phủ làm từ Smetana đã phát huy trọn vẹn vị chua, nhưng thiếu đi sự hòa quyện của vị ngọt, nó trở nên lạc lõng vô cùng...",
+      "effect": "Lập tức hồi 26% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 450 HP."
+    },
+    "normal": {
+      "_id": 132008,
+      "name": "Medovik",
+      "description": "Bánh kem làm từ mật ong. Khối bột đã trộn với mật ong được cán mỏng rồi đem nướng, sau đó phết từng lớp kem làm từ Smetana rồi xếp chồng lên nhau, cuối cùng rắc vụn bánh và rưới thêm sốt mật ong. Để có được thành phẩm chỉn chu, mỗi bước đều không được qua loa.",
+      "effect": "Lập tức hồi 28% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 620 HP."
+    },
+    "delicious": {
+      "_id": 132009,
+      "name": "Medovik Ngon",
+      "description": "Bánh kem làm từ mật ong. Những lớp bánh mật màu hổ phách và lớp kem trắng sữa xen kẽ chồng lên nhau, hết lớp này đến lớp khác, gắn kết chặt chẽ với nhau như một cuốn biên niên sử, mỗi trang đều là một câu chuyện đặc sắc và cuốn hút.",
+      "effect": "Lập tức hồi 30% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 790 HP."
+    }
+  }
+}

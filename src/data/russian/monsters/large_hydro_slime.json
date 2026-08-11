@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Элементальные существа",
   "filename_icon": "UI_MonsterIcon_Slime_Water_03",
   "description": "Монстр, созданный из скопления Гидро элемента, который рассеян по всему миру.\\nБолее крупный и сильный Гидро слайм. Умеет захватывать своих врагов в гигантские пузыри. Считается, что они могут достичь чудовищных размеров, если их среда обитания обеспечит их достаточным количеством энергии. Очевидцы утверждают, что в районе Вольфендома обитают слаймы размером с небольшую гору.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

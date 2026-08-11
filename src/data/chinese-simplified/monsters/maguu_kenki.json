@@ -13,7 +13,6 @@
   "categoryText": "自律机关",
   "filename_icon": "UI_MonsterIcon_Samurai_Ningyo",
   "description": "自律的人形机关剑士。\\n似乎没有说话的能力与意愿，只愿意用剑沟通。\\n据说在试作时，集成了某个剑道流派初代宗主的记忆，却又因为不明的原因而失控，最终被废弃了。\\n根据歌人的描述，剑鬼会徘徊在因缘断绝的地方，而守护它的凶恶之面似乎取自那个时代有名的鬼人。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 2,
   "stats": {

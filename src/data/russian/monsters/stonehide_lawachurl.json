@@ -13,7 +13,6 @@
   "categoryText": "Хиличурлы",
   "filename_icon": "UI_MonsterIcon_Brute_Rock_None",
   "description": "Загадочный «вождь», обитающий среди тысячи скал.\\nЭтого огромного хиличурла собратья называют «лава». Избыточная Гео энергия стала частью их плоти, поэтому они словно высечены из камня.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 8,
   "stats": {

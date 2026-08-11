@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "浮游幽核",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "浮游干核",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Sylph_Grass_01",
   "description": "高浓度的草元素孕育而生的魔物，能够飘浮在空中。\\n曾经有因论派的研究员对草飘浮灵的生态特征进行过研究，发现与传说中的「兰那罗」非常相似。他在一番考据后得出结论，所谓兰那罗其实就是草飘浮灵。后来这位研究员成为了籍籍无名的童话作家。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

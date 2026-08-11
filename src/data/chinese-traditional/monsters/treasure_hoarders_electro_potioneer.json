@@ -59,22 +59,21 @@
       "_id": 112036,
       "id": "silver_raven_insignia",
       "name": "藏銀鴉印",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112035,
       "id": "treasure_hoarder_insignia",
       "name": "尋寶鴉印",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人類勢力",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Electric_01",
   "description": "足跡遍佈大陸各處，甚至深入未知秘境的鬆散盜賊組織中的一員。\\n「藥劑師」是盜寶團成員當中，為這些具有調配危險化學物質知識的人物取的諢名。\\n<i>「嗯？這寶物上寫了你們冒險家協會的名字嗎？」</i>\\n——某名盜寶團的「藥劑師」與冒險家對峙時說的話",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

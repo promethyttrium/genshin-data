@@ -1,0 +1,21 @@
+{
+  "_id": 350002,
+  "id": "starpiercer_sublimation",
+  "name": "Traspasaestrellas: Culminación",
+  "description": "Un espléndido miraje de arco que reluce con el poder del “vacío” y procede de las profundidades de las líneas ley. Puede cambiar según el tipo elemental de su portador. Dicen que el nombre de este arco era “Gusisnautar” cuando aún pertenecía al pecador trascendental de un antiguo reino.",
+  "rarity": 5,
+  "type": {
+    "id": "Bow",
+    "name": "Arco"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Ilusión resplandeciente: Trascendencia (culminación)",
+    "priority": 1
+  },
+  "item_id": 341502,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Bow_MorphChrod_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Bow_MorphChrod_Great"
+}

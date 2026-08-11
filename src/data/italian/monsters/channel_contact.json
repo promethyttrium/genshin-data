@@ -1,0 +1,41 @@
+{
+  "_id": 25132801,
+  "id": "channel_contact",
+  "monsterId": 25132803,
+  "name": "Contatto del canale",
+  "specialNames": [
+    "Contatto del canale"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestie mistiche",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Beaver",
+  "description": "Un astuto Volkodlak che camuffa il suo cannone portatile come il tronco di un albero.\\nAbili nel celare le armi e i beni materiali che portano con sé, vengono spesso incaricati di trasportare merci o trasmettere informazioni.\\nIl cannone portatile in loro possesso è probabilmente qualcosa che hanno costruito nel loro tempo libero. A volte lo utilizzano anche per sparare colpi di segnalazione camuffati da fuochi d'artificio.\\nMeglio non farsi ingannare dal loro aspetto: queste Fate sono molto più scaltre e astute di quanto sembrino.",
+  "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 12.801292,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_id": 3706,
+  "id": "snowball_blooms_atop_snowfields",
+  "name": "Schneeballblumen auf Schneefeldern",
+  "description": "Ein klassischer Schichtsalat. Die Zutaten werden einzeln zubereitet und Schicht für Schicht übereinander gelegt. Zwischen jede Schicht kommt eine gewürzte Schmandsoße. Nach dem Zusammensetzen muss das Ganze eine Weile ruhen, damit sich die Aromen verbinden. Das fertige Gericht erinnert an Schneeballblumen, die auf schneebedeckten Feldern sprießen – daher der Name.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 101280,
+      "id": "snowball_flower",
+      "name": "Schneeballblume",
+      "amount": 3
+    },
+    {
+      "_id": 100084,
+      "id": "fish",
+      "name": "Fisch",
+      "amount": 2
+    },
+    {
+      "_id": 110009,
+      "id": "cheese",
+      "name": "Käse",
+      "amount": 1
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Vogelei",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Gerichte für Angriff",
+  "results": {
+    "suspicious": {
+      "_id": 132013,
+      "name": "Misslungene Schneeballblumen auf Schneefeldern",
+      "description": "Ein klassischer Schichtsalat. Nach langem Stehen droht die kunstvolle Schichtung, in sich zusammenzufallen. Schlimmer noch: Die Zutaten haben eine chaotische Völkerwanderung angetreten, sodass die Grenzen zwischen den einzelnen Schichten völlig verschwommen sind ... Er ist zwar noch genießbar, hat jedoch jegliches Mundgefühl verloren, das einen guten Salat ausmacht.",
+      "effect": "#Erhöht den ANG aller Truppenmitglieder 300 s lang um 160 Punkte. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt."
+    },
+    "normal": {
+      "_id": 132014,
+      "name": "Schneeballblumen auf Schneefeldern",
+      "description": "Ein klassischer Schichtsalat. Die Zutaten werden einzeln zubereitet und Schicht für Schicht übereinander gelegt. Zwischen jede Schicht kommt eine gewürzte Schmandsoße. Nach dem Zusammensetzen muss das Ganze eine Weile ruhen, damit sich die Aromen verbinden. Das fertige Gericht erinnert an Schneeballblumen, die auf schneebedeckten Feldern sprießen – daher der Name.",
+      "effect": "#Erhöht den ANG aller Truppenmitglieder 300 s lang um 194 Punkte. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt."
+    },
+    "delicious": {
+      "_id": 132015,
+      "name": "Leckere Schneeballblumen auf Schneefeldern",
+      "description": "Ein klassischer Schichtsalat. Die Schneeballblumen am Rand scheinen am Ende der Schneewüste zu sprießen, während das goldene Eigelb an eine untergehende Sonne erinnert, die das gesamte Panorama einfärbt. Man versinkt völlig in diesem Kunstwerk, das ein wahrer Augenschmaus ist ... bis der Löffel leise klirrend den leeren Tellerboden berührt und man jäh aus den Gedanken gerissen wird: Huch, ist es etwa schon aufgegessen?",
+      "effect": "#Erhöht den ANG aller Truppenmitglieder 300 s lang um 228 Punkte. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt."
+    },
+    "special": {
+      "_id": 132017,
+      "id": "lakeside_snow_swan",
+      "name": "„Schneeschwan am Seeufer“",
+      "description": "Odettes Spezialzubereitung. Eine kleine Portion Salat ruht in der Mitte des Tellers – wie im Scheinwerferlicht auf einer Bühne. Jede Schicht ist so präzise angerichtet wie ihre Tanzschritte. Auch die Zutaten hat sie genau berechnet: Selbst wenn man alles aufisst, hat das morgen absolut keinen Einfluss auf das Gewicht ... Genieße ihn also ganz unbesorgt!",
+      "effect": "#Erhöht den ANG aller Truppenmitglieder 300 s lang um 274 Punkte. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+      "character": {
+        "id": "odette",
+        "name": "Odette"
+      }
+    }
+  }
+}

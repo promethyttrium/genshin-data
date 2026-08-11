@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Alpha_Fire",
   "description": "Makhluk spora yang punya sedikit kecerdasan. Memiliki kemampuan yang sangat kuat untuk beradaptasi dengan lingkungannya.\\nMeskipun terlihat sangat membara, tapi sebenarnya sifatnya sangat lembut. Asal tidak terlalu dekat, harusnya tidak akan berbahaya ...?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Электро",
+    "weapon": "Стрелковое",
     "faction": [
-      null
+      "Инадзума"
     ],
     "source": "Награда за приглашение Кудзё Сары в «Кошкин хвост» и победу над ней в Дружеской дуэли",
     "character": {
@@ -24,8 +26,10 @@
     {
       "id": "tengu_bowmanship",
       "name": "Стрелковое искусство тэнгу",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -44,8 +48,10 @@
     {
       "id": "tengu_stormcall",
       "name": "Призыв грозы тэнгу",
-      "desc": "Наносит ?, ? ед. и призывает помощника: <span style=\"color:#FFFFFFFF\">Тэнгу дзюрай: Засада</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FFACFFFF\">Электро урон</span>, 1 ед. и призывает помощника: <span style=\"color:#FFFFFFFF\">Тэнгу дзюрай: Засада</span>.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -58,8 +64,10 @@
     {
       "id": "subjugation_koukou_sendou",
       "name": "Подчинение: Коко сэндо",
-      "desc": "Наносит ?, ? ед. и призывает помощника: <span style=\"color:#FFFFFFFF\">Тэнгу дзюрай: Громокластер</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FFACFFFF\">Электро урон</span>, 2 ед. и призывает помощника: <span style=\"color:#FFFFFFFF\">Тэнгу дзюрай: Громокластер</span>.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1104,

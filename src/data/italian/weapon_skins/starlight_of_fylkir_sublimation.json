@@ -1,0 +1,21 @@
+{
+  "_id": 330004,
+  "id": "starlight_of_fylkir_sublimation",
+  "name": "Luce stellare di Fylkir: Sublimazione",
+  "description": "Una gloriosa arma illusoria emersa dalle profondità delle linee geomantiche, scintillante della luce dell'\"Eternità\". Può cambiare aspetto in base al tipo elementale di chi la impugna. Si narra che, in un'epoca immemorabile, un'emissaria divina degli alti cieli donò questa lancia dorata alla somma sacerdotessa di Sal Vindagnyr, conferendole il diritto di guidare la città-stato prima che venisse sepolta dal gelo argenteo.",
+  "rarity": 5,
+  "type": {
+    "id": "Polearm",
+    "name": "Lancia"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1004,
+    "name": "Metamorfosi splendente: Eternità - Sublimazione",
+    "priority": 2
+  },
+  "item_id": 341304,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphFylkir_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphFylkir_Great"
+}

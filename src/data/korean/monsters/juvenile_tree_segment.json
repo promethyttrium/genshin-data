@@ -1,0 +1,40 @@
+{
+  "_id": 25138001,
+  "id": "juvenile_tree_segment",
+  "monsterId": 25138003,
+  "name": "묘목 요정",
+  "specialNames": [
+    "고목 요정"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "돌연변이 마수",
+  "filename_icon": "UI_MonsterIcon_Leshy_Normal_01",
+  "description": "숲과 들판에서 자라는 나무 요정.\\n나무 요정은 도시에 거의 나타나지 않고, 워낙 오래 살기 때문에 다른 요정들조차 이들의 일생을 끝까지 지켜보지 못한다. 대부분 사람들은 나무 요정 개체를 구별하지도 못한다",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.2,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

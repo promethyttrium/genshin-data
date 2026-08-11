@@ -31,22 +31,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Trimmed Red Silk",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Faded Red Satin",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Other Human Factions",
   "filename_icon": "UI_MonsterIcon_Eremite_Male_Strong_Katar",
   "description": "A person hailing from the loosely-organized mercenary bands of the desert. Will work for anyone as long as the pay is good.\\nIn ancient days, these heavily-equipped warriors were the domain of the personal, trusted guards of the Lord of the Blazing Sun. It is perhaps on this account that they gleam like the golden sun itself to this day.\\nOminous, fragmented spirits are sealed within the weapons they use, awakening in moments of peril. Once these weapons awaken, they can only be silenced by the cries of the vanquished — whether that be their wielders or their wielders' foes.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

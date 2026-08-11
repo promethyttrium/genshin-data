@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "戰士的鐵哨",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "衛從的木哨",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人類勢力",
   "filename_icon": "UI_MonsterIcon_Human_Female_Sword_Flamingo",
   "description": "來自山崖之上的勇士，在陡峭山峰巡遊的部族守衛者。\\n揮劍猶如翼龍展開翅膀般大開大闔的高傲劍士，被其劍刃劈開的傷口之中，鮮血將如飛羽般揮灑而出。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

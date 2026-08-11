@@ -13,7 +13,6 @@
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Effigy_Water",
   "description": "高純度の水元素生命体、コードネーム「ヒイ」。\\n無相元素は強大な排他本能があり、挑戦者を無情に追い払う。\\n排他の対象は天然の元素まで広がっているようだ。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

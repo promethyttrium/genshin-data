@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Elektro",
+    "weapon": "Einhänder",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 5590,
@@ -29,8 +31,10 @@
     {
       "id": "shinobus_shadowsword",
       "name": "Shinobus fliegender Schwerthieb",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,7 +54,9 @@
       "id": "sanctifying_ring",
       "name": "Grasring der Reinigung",
       "desc": "Erschafft 1 <span style=\"color:#FFFFFFFF\">Grasring</span>. Hat die Figur mindestens 6 LP, erleidet sie selbst 2 Pkt. <span style=\"color:#FFFFFFFF\">durchdringenden SCH</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "gyoei_narukami_kariyama_rite",
       "name": "Gyoei-Narukami-Kariyama-Ritual",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], stellt dieser Figur 2 LP wieder her.",
-      "skillTag": [],
+      "desc": "Verursacht 4 Pkt. <span style=\"color:#FFACFFFF\">Elektro-SCH</span>, stellt dieser Figur 2 LP wieder her.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1104,

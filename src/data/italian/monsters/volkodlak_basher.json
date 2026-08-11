@@ -1,0 +1,40 @@
+{
+  "_id": 25131201,
+  "id": "volkodlak_basher",
+  "monsterId": 25131306,
+  "name": "Volkodlak picchiatore",
+  "specialNames": [
+    "Picchiatore"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestie mistiche",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Strong_Sword",
+  "description": "Un tipo di Volkodlak relativamente grande e dalla corporatura possente, presente tra i molti che vagano per Snezhnaya.\\nCon la forza di una belva e la costituzione umanoide, possiedono un istinto ferino per sfruttare al massimo la propria potenza. Se un umano privo di addestramento si ritrovasse ad affrontare un simile Volkodlak dotato di armi, la vittoria spetterebbe senza dubbio a quest'ultimo.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 7.315024,
+      "attack": 49.564125,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -595,7 +595,7 @@
     {
       "id": "winds_vanguard",
       "name": "선봉의 바람 깃발",
-      "description": "주변에 있는 파티 내 캐릭터가 확산 반응 발동 시, 바르카가 <span style=\"color:#FFD780FF\">「푸른 송곳니」</span>를 1스택 획득하고, 바르카가 일반 공격, 강공격, 특수 강공격 <span style=\"color:#FFD780FF\">푸른 포식</span> 및 특수 원소전투 스킬 <b><span style=\"color:#FFD780FF\">사풍의 도래</span></b>로 주는 피해가 7.5% 증가한다. 지속 시간: 8초, 최대 중첩수: 4스택. 해당 방식을 통해 캐릭터당 바르카에게 1초마다 최대 1스택의 <span style=\"color:#FFD780FF\">「푸른 송곳니」</span> 효과를 부여할 수 있다",
+      "description": "주변에 있는 파티 내 캐릭터가 확산 또는 별 확산 반응 발동 시, 바르카가 <span style=\"color:#FFD780FF\">「푸른 송곳니」</span>를 1스택 획득하고, 바르카가 일반 공격, 강공격, 특수 강공격 <span style=\"color:#FFD780FF\">푸른 포식</span> 및 특수 원소전투 스킬 <b><span style=\"color:#FFD780FF\">사풍의 도래</span></b>로 주는 피해가 7.5% 증가한다. 지속 시간: 8초, 최대 중첩수: 4스택. 해당 방식을 통해 캐릭터당 바르카에게 1초마다 최대 1스택의 <span style=\"color:#FFD780FF\">「푸른 송곳니」</span> 효과를 부여할 수 있다",
       "level": 4
     },
     {
@@ -631,7 +631,7 @@
       "_id": 1284,
       "id": "for_none_may_take_from_us_our_freedom_of_song",
       "name": "「누구도 노래할 자유를 빼앗을 수 없으니」",
-      "description": "바르카가 확산 반응 발동 시, 반응에 참여한 원소 타입에 따라, 주변에 있는 파티 내 모든 캐릭터가 각각 <span style=\"color:#80FFD7FF\">바람 원소 피해 보너스</span>와 대응하는 원소 피해 보너스를 20% 획득한다. 지속 시간: 10초",
+      "description": "바르카가 확산 또는 별 확산 반응 발동 시, 반응에 참여한 원소 타입에 따라, 주변에 있는 파티 내 모든 캐릭터가 각각 <span style=\"color:#80FFD7FF\">바람 원소 피해 보너스</span>와 대응하는 원소 피해 보너스를 20% 획득한다. 지속 시간: 10초",
       "level": 4
     },
     {

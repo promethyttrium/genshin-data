@@ -13,6 +13,11 @@
   ],
   "recipes": [
     {
+      "_id": 1701,
+      "id": "podvorye_smoked_sausage",
+      "name": "老庭院熏肠"
+    },
+    {
       "_id": 2603,
       "id": "nodkrai_hot_dog",
       "name": "挪德卡莱热狗"
@@ -45,6 +50,5 @@
   ],
   "source": [
     "烹饪加工获得"
-  ],
-  "rarity": 0
+  ]
 }

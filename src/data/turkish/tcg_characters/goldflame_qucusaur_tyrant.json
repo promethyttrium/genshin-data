@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Ateş",
+    "weapon": "Diğer Silahlar",
     "faction": [
-      null
+      "Canavar"
     ],
     "source": "Kedi Kuyruğu'ndaki Han Mücadelesini kabul etme ve Altın Alevli Gukuzor Tiran ile olan Dostluk Düellosunu kazanma ödülü."
   },
@@ -18,8 +20,10 @@
     {
       "id": "wingcleave",
       "name": "Kanatkıran",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -38,8 +42,10 @@
     {
       "id": "rising_scorchwind",
       "name": "Yükselen Yangın Yeli",
-      "desc": "? ? verir ve kendine 2 kademe <span style=\"color:#FFFFFFFF\">Uçan Girdap</span> ekler.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir ve kendine 2 kademe <span style=\"color:#FFFFFFFF\">Uçan Girdap</span> ekler.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -52,8 +58,10 @@
     {
       "id": "goldflame_detonation",
       "name": "Altın Alev Patlaması",
-      "desc": "? ? verir ve rakibin tüm bekleyen karakterlerine 1 <span style=\"color:#FFFFFFFF\">Delme Hasarı</span> verir. Kendisine 1 kademe <span style=\"color:#FFFFFFFF\">Altın Alev Durumu</span> ekler.",
-      "skillTag": [],
+      "desc": "3 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir ve rakibin tüm bekleyen karakterlerine 1 <span style=\"color:#FFFFFFFF\">Delme Hasarı</span> verir. Kendisine 1 kademe <span style=\"color:#FFFFFFFF\">Altın Alev Durumu</span> ekler.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -73,7 +81,9 @@
       "id": "ancient_bloodline",
       "name": "Kadim Soy",
       "desc": "(Pasif) <span style=\"color:#FFFFFFFF\">Çift sayılı Hamle Aşamalarının başında</span> kendine 1 kademe <span style=\"color:#FFFFFFFF\">Altın Alev Durumu</span> ekler.",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

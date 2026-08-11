@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Warrior's Metal Whistle",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Sentry's Wooden Whistle",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Flamingo",
   "description": "Pejuang kuat dari puncak tebing yang keberaniannya telah diakui sehingga memungkinkannya mengenakan Mahkota Saurian.\\nBahkan di Natlan yang adalah Bangsa Pyro pun, anggota Suku Bunga Bersayap memiliki pendekatan yang unik dalam hal penggunaan api. Bagi para pejuang suku yang dipersenjatai dengan palu berat ini, api adalah sesuatu yang meledak dari benturan keras sebagai simbol dari gairah yang menggebu. Ketika mereka bertempur, pertarungan biasanya berakhir dalam sekejap — dan selalu, merekalah yang menang.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

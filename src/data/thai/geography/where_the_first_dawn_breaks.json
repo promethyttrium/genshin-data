@@ -1,0 +1,13 @@
+{
+  "_id": 70800044,
+  "id": "where_the_first_dawn_breaks",
+  "name": "ดินแดนที่แสงรุ่งอรุณสาดส่องอีกครา",
+  "areaName": "ทุ่งน้ำแข็งโวลโคดลัก",
+  "areaId": 80100,
+  "description": "แม้ในราตรีที่เหน็บหนาวที่สุด ก็ยังมีผู้คนที่ยอมฝ่าพายุหิมะก้าวเดินต่อไปข้างหน้า เหตุผลที่พวกเขาทำเช่นนั้น ก็เพื่อมุ่งหวังถึงวันพรุ่งนี้อันรุ่งโรจน์และเจิดจรัส",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 644,
+  "filename_image": "UI_Codex_Scenery_ZDQiChengCheZhan",
+  "showOnlyUnlocked": true
+}

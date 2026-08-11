@@ -21,6 +21,8 @@ const METHODS = [
   'weaponPrimaryMaterials',
   'weaponSecondaryMaterials',
   'domainsList',
+  'weaponSkins',
+  'domains',
 ];
 
 const data = languages.reduce((obj, key) => {

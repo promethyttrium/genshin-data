@@ -1,0 +1,21 @@
+{
+  "_id": 320001,
+  "id": "ardent_storm",
+  "name": "Öfkeli Fırtına",
+  "description": "Ley Hatlarının derinliklerinden ortaya çıkan yanılsamalı ve ihtişamlı bir çift elli kılıç. Kuşanan kişinin Element Türüne göre görüntüsü değişir. Efsanelere göre kadim bir ülkedeki bilge bir günahkar tarafından kullanılan bu çift elli kılıç, bir zamanlar \"Starkuthr\" adını taşırmış.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Çift Elli Kılıç"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "Işıltılı Dönüşüm: Aşkınlık",
+    "priority": 1
+  },
+  "item_id": 341201,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Claymore_MorphGravitas_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_MorphGravitas"
+}

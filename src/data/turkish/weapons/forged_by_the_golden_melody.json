@@ -1,0 +1,333 @@
+{
+  "_id": 12435,
+  "id": "forged_by_the_golden_melody",
+  "name": "Altın Melodiyle Dövülen",
+  "description": "Altınla süslenmiş bir büyük kılıç. Efsaneye göre uzak geçmişte ulu bir Harmostun en sevdiği silahmış.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Çift Elli Kılıç"
+  },
+  "domain": "Derin Dalgaların Yankıları",
+  "passive": "Gece ve Gündüz Karşıtlığı",
+  "bonus": "Kuşanan karakter her 10 saniyede bir ilgili türde \"Armonik Parça\" çalarak şu sırada güçlendirme kazanır: <span>+%18/+%22,5/+%27/+%31,5/+%36</span> Saldırı > <span>+120/+150/+180/+210/+240</span> Element Ustalığı > <span>+%28/+%35/+%42/+%49/+%56</span> Yıldız Parıltısı Tepkimesi Hasarı. Her bir Armonik Parça 10 saniye sürer. Bu etki, kuşanan karakter alanda olmasa da tetiklenebilir.<br/>Ayrıca bir Yıldız Parıltısı tepkimesi tetiklemek, bu tepkime tetiklendiğinde etkin olan Armonik Parça ile aynı etkileri kazandıran ve 12 saniye süren ek bir \"Armonik Parça: Kontrpuan\" etkisi verir. Bu etki orijinal Armonik Parça etkisiyle birikir ve 12 saniyede bir tetiklenebilir.",
+  "specialProp": "Kritik Oranı",
+  "stats": {
+    "primary": "Temel Saldırı",
+    "secondary": "Kritik Oranı",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 42,
+        "secondary": 6
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 109,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 135,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 205,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 231,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 266,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 292,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 327,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 353,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 388,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 414,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 449,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 475,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 510,
+        "secondary": 27.6
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114053,
+          "id": "dross_of_pure_sacred_dewdrop",
+          "name": "Saf Kutsal Çiy Damlası Kalıntısı",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112098,
+          "id": "ruined_hilt",
+          "name": "Yıpranmış Kabza",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112080,
+          "id": "transoceanic_pearl",
+          "name": "Okyanus Ötesi İncisi",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114054,
+          "id": "sublimation_of_pure_sacred_dewdrop",
+          "name": "Saf Kutsal Çiy Damlası Buharı",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112098,
+          "id": "ruined_hilt",
+          "name": "Yıpranmış Kabza",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112080,
+          "id": "transoceanic_pearl",
+          "name": "Okyanus Ötesi İncisi",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114054,
+          "id": "sublimation_of_pure_sacred_dewdrop",
+          "name": "Saf Kutsal Çiy Damlası Buharı",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112099,
+          "id": "splintered_hilt",
+          "name": "Ayrık Kabza",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112081,
+          "id": "transoceanic_chunk",
+          "name": "Okyanus Ötesi Parça",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114055,
+          "id": "spring_of_pure_sacred_dewdrop",
+          "name": "Saf Kutsal Çiy Damlası Kaynağı",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112099,
+          "id": "splintered_hilt",
+          "name": "Ayrık Kabza",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112081,
+          "id": "transoceanic_chunk",
+          "name": "Okyanus Ötesi Parça",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114055,
+          "id": "spring_of_pure_sacred_dewdrop",
+          "name": "Saf Kutsal Çiy Damlası Kaynağı",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112100,
+          "id": "stillsmoldering_hilt",
+          "name": "Yanmaya Devam Eden Kabza",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112082,
+          "id": "xenochromatic_crystal",
+          "name": "Alaca Kristal",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114056,
+          "id": "essence_of_pure_sacred_dewdrop",
+          "name": "Saf Kutsal Çiy Damlasının Özü",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112100,
+          "id": "stillsmoldering_hilt",
+          "name": "Yanmaya Devam Eden Kabza",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112082,
+          "id": "xenochromatic_crystal",
+          "name": "Alaca Kristal",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "Gece ve Gündüz Karşıtlığı",
+    "template": "Kuşanan karakter her 10 saniyede bir ilgili türde \"Armonik Parça\" çalarak şu sırada güçlendirme kazanır: <span style=\"color:#99FFFFFF\">{0}</span> Saldırı > <span style=\"color:#99FFFFFF\">{1}</span> Element Ustalığı > <span style=\"color:#99FFFFFF\">{2}</span> Yıldız Parıltısı Tepkimesi Hasarı. Her bir Armonik Parça 10 saniye sürer. Bu etki, kuşanan karakter alanda olmasa da tetiklenebilir.<br/>Ayrıca bir Yıldız Parıltısı tepkimesi tetiklemek, bu tepkime tetiklendiğinde etkin olan Armonik Parça ile aynı etkileri kazandıran ve 12 saniye süren ek bir \"Armonik Parça: Kontrpuan\" etkisi verir. Bu etki orijinal Armonik Parça etkisiyle birikir ve 12 saniyede bir tetiklenebilir.",
+    "params": [
+      [
+        "+%18",
+        "+120",
+        "+%28"
+      ],
+      [
+        "+%22,5",
+        "+150",
+        "+%35"
+      ],
+      [
+        "+%27",
+        "+180",
+        "+%42"
+      ],
+      [
+        "+%31,5",
+        "+210",
+        "+%49"
+      ],
+      [
+        "+%36",
+        "+240",
+        "+%56"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "Kuşanan karakter her 10 saniyede bir ilgili türde \"Armonik Parça\" çalarak şu sırada güçlendirme kazanır: <span>+%18</span> Saldırı > <span>+120</span> Element Ustalığı > <span>+%28</span> Yıldız Parıltısı Tepkimesi Hasarı. Her bir Armonik Parça 10 saniye sürer. Bu etki, kuşanan karakter alanda olmasa da tetiklenebilir.<br/>Ayrıca bir Yıldız Parıltısı tepkimesi tetiklemek, bu tepkime tetiklendiğinde etkin olan Armonik Parça ile aynı etkileri kazandıran ve 12 saniye süren ek bir \"Armonik Parça: Kontrpuan\" etkisi verir. Bu etki orijinal Armonik Parça etkisiyle birikir ve 12 saniyede bir tetiklenebilir."
+    },
+    {
+      "refinement": 2,
+      "desc": "Kuşanan karakter her 10 saniyede bir ilgili türde \"Armonik Parça\" çalarak şu sırada güçlendirme kazanır: <span>+%22,5</span> Saldırı > <span>+150</span> Element Ustalığı > <span>+%35</span> Yıldız Parıltısı Tepkimesi Hasarı. Her bir Armonik Parça 10 saniye sürer. Bu etki, kuşanan karakter alanda olmasa da tetiklenebilir.<br/>Ayrıca bir Yıldız Parıltısı tepkimesi tetiklemek, bu tepkime tetiklendiğinde etkin olan Armonik Parça ile aynı etkileri kazandıran ve 12 saniye süren ek bir \"Armonik Parça: Kontrpuan\" etkisi verir. Bu etki orijinal Armonik Parça etkisiyle birikir ve 12 saniyede bir tetiklenebilir."
+    },
+    {
+      "refinement": 3,
+      "desc": "Kuşanan karakter her 10 saniyede bir ilgili türde \"Armonik Parça\" çalarak şu sırada güçlendirme kazanır: <span>+%27</span> Saldırı > <span>+180</span> Element Ustalığı > <span>+%42</span> Yıldız Parıltısı Tepkimesi Hasarı. Her bir Armonik Parça 10 saniye sürer. Bu etki, kuşanan karakter alanda olmasa da tetiklenebilir.<br/>Ayrıca bir Yıldız Parıltısı tepkimesi tetiklemek, bu tepkime tetiklendiğinde etkin olan Armonik Parça ile aynı etkileri kazandıran ve 12 saniye süren ek bir \"Armonik Parça: Kontrpuan\" etkisi verir. Bu etki orijinal Armonik Parça etkisiyle birikir ve 12 saniyede bir tetiklenebilir."
+    },
+    {
+      "refinement": 4,
+      "desc": "Kuşanan karakter her 10 saniyede bir ilgili türde \"Armonik Parça\" çalarak şu sırada güçlendirme kazanır: <span>+%31,5</span> Saldırı > <span>+210</span> Element Ustalığı > <span>+%49</span> Yıldız Parıltısı Tepkimesi Hasarı. Her bir Armonik Parça 10 saniye sürer. Bu etki, kuşanan karakter alanda olmasa da tetiklenebilir.<br/>Ayrıca bir Yıldız Parıltısı tepkimesi tetiklemek, bu tepkime tetiklendiğinde etkin olan Armonik Parça ile aynı etkileri kazandıran ve 12 saniye süren ek bir \"Armonik Parça: Kontrpuan\" etkisi verir. Bu etki orijinal Armonik Parça etkisiyle birikir ve 12 saniyede bir tetiklenebilir."
+    },
+    {
+      "refinement": 5,
+      "desc": "Kuşanan karakter her 10 saniyede bir ilgili türde \"Armonik Parça\" çalarak şu sırada güçlendirme kazanır: <span>+%36</span> Saldırı > <span>+240</span> Element Ustalığı > <span>+%56</span> Yıldız Parıltısı Tepkimesi Hasarı. Her bir Armonik Parça 10 saniye sürer. Bu etki, kuşanan karakter alanda olmasa da tetiklenebilir.<br/>Ayrıca bir Yıldız Parıltısı tepkimesi tetiklemek, bu tepkime tetiklendiğinde etkin olan Armonik Parça ile aynı etkileri kazandıran ve 12 saniye süren ek bir \"Armonik Parça: Kontrpuan\" etkisi verir. Bu etki orijinal Armonik Parça etkisiyle birikir ve 12 saniyede bir tetiklenebilir."
+    }
+  ]
+}

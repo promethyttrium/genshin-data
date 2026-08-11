@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Sword",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 4760,
@@ -29,8 +31,10 @@
     {
       "id": "sword_of_the_radiant_path",
       "name": "Sword of the Radiant Path",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,7 +54,9 @@
       "id": "nights_of_formal_focus",
       "name": "Nights of Formal Focus",
       "desc": "Creates 1 <span style=\"color:#FFFFFFFF\">Curtain of Slumber Shield</span> and <span style=\"color:#FFFFFFFF\">Shooting Star</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "dream_of_the_starstream_shaker",
       "name": "Dream of the Star-Stream Shaker",
-      "desc": "Deals ? ?, summons 1 <span style=\"color:#FFFFFFFF\">Celestial Dreamsphere</span>.",
-      "skillTag": [],
+      "desc": "Deals 3 <span style=\"color:#99FFFFFF\">Cryo DMG</span>, summons 1 <span style=\"color:#FFFFFFFF\">Celestial Dreamsphere</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1101,

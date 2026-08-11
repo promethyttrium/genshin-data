@@ -1,0 +1,39 @@
+{
+  "_id": 215047,
+  "id": "scarlet_proof",
+  "name": "紅血の証",
+  "min_rarity": 4,
+  "max_rarity": 5,
+  "two_pc": "攻撃力+18%。",
+  "four_pc": "装備者が星拡散反応を起こした後の10秒間、会心率+16%、星拡散反応ダメージ+40%。",
+  "goblet": {
+    "_id": 47412,
+    "id": "chalice_of_your_blood_and_sorrow",
+    "name": "聖杯に血涙を",
+    "description": "鮮やかな赤い酒瓶。何が入っていたかは、知らないままでいたほうがいい。"
+  },
+  "plume": {
+    "_id": 47422,
+    "id": "glory_to_your_legacy",
+    "name": "功績に栄光を",
+    "description": "鮮やかな赤い羽根ペン。最も若き血に贈られる。"
+  },
+  "circlet": {
+    "_id": 47432,
+    "id": "testament_to_your_faith",
+    "name": "信仰に追悼を",
+    "description": "鮮やかな赤い被り物。誰かを守れた過去がありますように。"
+  },
+  "flower": {
+    "_id": 47442,
+    "id": "honor_to_your_devotion",
+    "name": "献身に感謝を",
+    "description": "鮮やかな赤い花飾り。炎のごとき栄光の象徴。"
+  },
+  "sands": {
+    "_id": 47452,
+    "id": "time_gifted_unto_you",
+    "name": "歳月の贈呈を",
+    "description": "鮮やかな赤い懐中時計。とある会話の終わりの時を刻んでいる。"
+  }
+}

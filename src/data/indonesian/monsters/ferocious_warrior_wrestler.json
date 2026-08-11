@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Bisonsaurus",
   "description": "Petarung dari dataran tinggi dan seorang penjaga suku yang berpatroli di ladang emas.\\nMereka terus melatih dirinya sejak dia mulai bercita-cita untuk menjadi seorang pejuang. Kekuatan ayunan kedua senjatanya memiliki kekuatan yang tak tertandingi.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -36,7 +36,7 @@
       "_id": 113067,
       "id": "ensnaring_gaze",
       "name": "Ánh Nhìn Trói Buộc",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -171,7 +171,6 @@
   "categoryText": "Vực Sâu",
   "filename_icon": "UI_MonsterIcon_TheAbyss_Dendrite",
   "description": "Ma vật Vực Sâu đến từ thế giới méo mó u ám, có vẻ ngoài trông giống thực vật.\\nLoại ma vật méo mó này đã xâm nhập sâu vào lòng đất, trích xuất những ký ức trong đó để mô phỏng và điều khiển. Hồi ức trong quá khứ bị bóp méo, biến thành dáng vẻ sâu thẳm và ô uế hơn. Chúng đã mượn hành động này để từng bước tiếp cận phần lõi của Cây Thế Giới, nhằm phá hoại gốc rễ tồn tại của nó.\\nNghe nói loại ma vật này luôn cố gắng bóp méo các sắc độ của ánh sáng, biến chúng thành thông tin đen tối, và chính những nhánh cây vươn ra tựa như xuyên thủng hư không của chúng có vẻ đã chứng minh cho điều này...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

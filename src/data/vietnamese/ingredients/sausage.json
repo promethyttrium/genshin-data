@@ -13,6 +13,11 @@
   ],
   "recipes": [
     {
+      "_id": 1701,
+      "id": "podvorye_smoked_sausage",
+      "name": "Xúc Xích Hun Khói Podvorye"
+    },
+    {
       "_id": 2603,
       "id": "nodkrai_hot_dog",
       "name": "Hot Dog Nod-Krai"
@@ -45,6 +50,5 @@
   ],
   "source": [
     "Nhận khi gia công nấu nướng"
-  ],
-  "rarity": 0
+  ]
 }

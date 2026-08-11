@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Шестерня механизма",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Сцепляющаяся шестерня",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Автоматоны",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Excavator",
   "description": "Крупный мек, имеющий неоценимое значение при строительстве зданий и археологических раскопках. Был назван в честь инженера, нанятого Калласом для строительства линии Клементина.\\nПри финансовой поддержке Калласа этот инженер создал легендарного мека гигантских размеров под названием «Золотой корабль», чтобы проложить тоннель Пуассон, а после завершения строительства сконструировал мека аналогичной конструкции, но уменьшенного размера.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 2,
   "stats": {

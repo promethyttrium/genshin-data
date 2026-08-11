@@ -5,7 +5,6 @@
   "description": "Sinekten esinlenerek canlı renkli malzemelerle yapılan bir yemdir. Kokusuzdur ve keskin gözlere sahip büyük balıkları kendine çeker. İleri düzey oltacılık teknikleri için uygundur. Çeşitli bölgelerin balıkçılık derneklerinde bu yemin ustalıkla kullanılması, üyelerin rütbe atlaması için koyulan şartlardan biridir.<br/><br/>Ejder Balığı, Balon Balığı ve Vatoz yakalamak için uygundur.",
   "rarity": 2,
   "craft": {
-    "cost": 0,
     "items": [
       {
         "_id": 101202,

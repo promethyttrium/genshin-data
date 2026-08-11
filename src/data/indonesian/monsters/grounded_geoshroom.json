@@ -33,13 +33,13 @@
       "_id": 112063,
       "id": "dormant_fungal_nucleus",
       "name": "Dormant Fungal Nucleus",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112062,
       "id": "inactivated_fungal_nucleus",
       "name": "Inactivated Fungal Nucleus",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112061,
@@ -57,16 +57,15 @@
       "_id": 112059,
       "id": "fungal_spores",
       "name": "Fungal Spore",
-      "count": 0.2101
+      "count": 0.21
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Fungus_Amanita_Du_Udatta_Rock",
   "description": "Suatu bentuk kehidupan mimesis yang terbentuk dari spora yang memiliki kemampuan adaptasi yang ekstrem.\\nMakhluk ini telah mengalami keratinisasi yang hampir sempurna karena pengaruh Geo. Ketika orang menganggap bahwa Jamur berevolusi dari spora, mungkin yang satu ini bisa menjadi dasar untuk evolusi lebih lanjut menjadi beberapa bentuk kehidupan benar-benar baru — minimal kalau memang waktunya mencukupi.\\nDengan mendominasi bangsa jamur, ini menunjukkan bahwa ia memiliki kecerdasan yang lebih tinggi.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

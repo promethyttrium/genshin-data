@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Vida Elemental",
   "filename_icon": "UI_MonsterIcon_Slime_Grass_02",
   "description": "Um tipo de Slime formado por transformação devido ao seu elemento Dendro.\\nDe ponto de vista ecológica, possui algumas fraquezas do Elemento Dendro: irá queimar ferozmente ao entrar em contato com o fogo.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

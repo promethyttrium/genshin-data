@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 3,
+    "element": "Kryo",
+    "weapon": "Andere Waffen",
     "faction": [
-      null
+      "Fatui"
     ]
   },
   "skills": [
     {
       "id": "closerange_charge",
       "name": "Kurzstrecken-Rammung",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -36,8 +40,10 @@
     {
       "id": "freezing_spray",
       "name": "Gefrierspray",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,8 +56,10 @@
     {
       "id": "frost_cannon",
       "name": "Frostkanone",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erhält selbst <span style=\"color:#FFFFFFFF\">Elementarrüstung – Kryo</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>, erhält selbst <span style=\"color:#FFFFFFFF\">Elementarrüstung – Kryo</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -71,7 +79,9 @@
       "id": "combat_resupply",
       "name": "Einsatzversorgung",
       "desc": "Passiv – Erhält zu Beginn des Kampfes selbst 2 Pkt. Aufladung.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

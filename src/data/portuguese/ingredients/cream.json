@@ -68,6 +68,11 @@
       "name": "Fricassee de Poulet"
     },
     {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Sorvete de Groselha de Gelo"
+    },
+    {
       "_id": 4403,
       "id": "fontinalia_mousse",
       "name": "Mousse Fontinalia"
@@ -85,6 +90,5 @@
   ],
   "source": [
     "Processado"
-  ],
-  "rarity": 0
+  ]
 }

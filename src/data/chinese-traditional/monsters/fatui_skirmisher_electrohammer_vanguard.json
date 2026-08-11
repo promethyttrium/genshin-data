@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "愚人眾",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01",
   "description": "體格健壯的先遣隊士兵，裝備了附有雷元素的戰錘。\\n成為愚人眾的軍人意味著優渥的資源：軍餉、武裝與物資。\\n但與此同時，也意味著遠離故土與親眷，將餘命交給過去不曾謀面的戰友。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Vulture_Sacred_Fire",
   "description": "Un uccello rapace che ha subìto delle mutazioni dopo aver divorato delle forme di vita più grandi.\\nTali forme di vita hanno spesso una coscienza pressoché immorale, che non può mai essere completamente messa a tacere né estirpata. Il potere e la coscienza che le Bestie consacrate ottengono dopo aver divorato queste forme di vita le porterà a cercare sempre più violenza e sempre più carcasse.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

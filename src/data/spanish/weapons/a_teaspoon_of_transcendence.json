@@ -10,7 +10,7 @@
   },
   "domain": "Dominio de la forja: Oblación lunar",
   "passive": "Coronación del hada blanca",
-  "bonus": "El ATQ aumenta en un <span>28%/35%/42%/49%/56%</span>.<br/>Además, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un <span>16%/20%/24%/28%/32%</span> su daño de Superconductor Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s.",
+  "bonus": "El ATQ aumenta en un <span>28%/35%/42%/49%/56%</span>.<br/>Además, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un <span>16%/20%/24%/28%/32%</span> su daño de Superconductor Estelar y Torbellino Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s.",
   "specialProp": "Daño CRIT",
   "stats": {
     "primary": "ATQ Base",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Coronación del hada blanca",
-    "template": "El ATQ aumenta en un <span style=\"color:#99FFFFFF\">{0}</span>.<br/>Además, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un <span style=\"color:#99FFFFFF\">{1}</span> su daño de Superconductor Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s.",
+    "template": "El ATQ aumenta en un <span style=\"color:#99FFFFFF\">{0}</span>.<br/>Además, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un <span style=\"color:#99FFFFFF\">{1}</span> su daño de Superconductor Estelar y Torbellino Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s.",
     "params": [
       [
         "28%",
@@ -307,23 +306,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "El ATQ aumenta en un <span>28%</span>.<br/>Además, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un <span>16%</span> su daño de Superconductor Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s."
+      "desc": "El ATQ aumenta en un <span>28%</span>.<br/>Además, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un <span>16%</span> su daño de Superconductor Estelar y Torbellino Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s."
     },
     {
       "refinement": 2,
-      "desc": "El ATQ aumenta en un <span>35%</span>.<br/>Además, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un <span>20%</span> su daño de Superconductor Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s."
+      "desc": "El ATQ aumenta en un <span>35%</span>.<br/>Además, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un <span>20%</span> su daño de Superconductor Estelar y Torbellino Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s."
     },
     {
       "refinement": 3,
-      "desc": "El ATQ aumenta en un <span>42%</span>.<br/>Además, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un <span>24%</span> su daño de Superconductor Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s."
+      "desc": "El ATQ aumenta en un <span>42%</span>.<br/>Además, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un <span>24%</span> su daño de Superconductor Estelar y Torbellino Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s."
     },
     {
       "refinement": 4,
-      "desc": "El ATQ aumenta en un <span>49%</span>.<br/>Además, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un <span>28%</span> su daño de Superconductor Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s."
+      "desc": "El ATQ aumenta en un <span>49%</span>.<br/>Además, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un <span>28%</span> su daño de Superconductor Estelar y Torbellino Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s."
     },
     {
       "refinement": 5,
-      "desc": "El ATQ aumenta en un <span>56%</span>.<br/>Además, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un <span>32%</span> su daño de Superconductor Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s."
+      "desc": "El ATQ aumenta en un <span>56%</span>.<br/>Además, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un <span>32%</span> su daño de Superconductor Estelar y Torbellino Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s."
     }
   ]
 }

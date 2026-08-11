@@ -8,16 +8,20 @@
     "hp": 4,
     "card_type": "Thẻ Nhân Vật",
     "energy": 1,
+    "element": "Không Nguyên Tố",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null
+      "Ma Vật"
     ]
   },
   "skills": [
     {
       "id": "ram",
       "name": "Va Đập",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -30,8 +34,10 @@
     {
       "id": "brutal_ram",
       "name": "Va Chạm Mạnh Mẽ",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1108,
@@ -44,8 +50,10 @@
     {
       "id": "charging_up",
       "name": "Tích Lũy Năng Lượng",
-      "desc": "Gây ? điểm ?, nhân vật này khôi phục về hình thái Ousia/Pneuma vốn có.",
-      "skillTag": [],
+      "desc": "Gây 3 điểm ?, nhân vật này khôi phục về hình thái Ousia/Pneuma vốn có.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1108,

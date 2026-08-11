@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Samurai_Ronin_01",
   "description": "Herumwandernder Kampfkünstler, der, obwohl er als „Bandit“ bezeichnet wird, keiner solchen Gruppe angehört.\\nDadurch, dass sie seit vielen Jahren auf dem Kriegspfad wandern und über hervorragende Schwertkünste verfügen, verwenden sie diese heute nicht mehr so oft für Gutes.\\nFür Reichtum oder auch das pure Überleben arbeiten sie manchmal mit Schatzräubern und Fatui zusammen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

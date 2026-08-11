@@ -1,0 +1,92 @@
+{
+  "_id": 4689,
+  "id": "domain_of_blessing_flower_feast_iii",
+  "name": "Dominio de la bendición: Festín floral III",
+  "entranceId": 2003,
+  "entranceName": "Corona espinosa del viento de las montañas",
+  "description": "Un reino floral oculto entre las montañas al que apenas llegan visitantes debido a su remota ubicación.\nQuienes venzan a los seres que han ocupado este lugar podrán obtener valiosos artefactos.",
+  "regionId": 1,
+  "regionName": "Mondstadt",
+  "recommendedLevel": 80,
+  "unlockRank": 40,
+  "disorder": [
+    "When your active character's Normal or Charged Attack hits an opponent, the DMG dealt by their Charged Attack and Elemental Skill increases by 15% for 5s. Max 5 stacks. Each stack's duration is counted independently. This effect will be canceled when the character leaves the field."
+  ],
+  "filename_image": "UI_DungeonPic_MDDungeon_Cycle05",
+  "recommendedElements": [
+    "Anemo",
+    "Cryo",
+    "Pyro"
+  ],
+  "domainType": "UI_ABYSSUS_RELIC",
+  "domainText": "Artifacts",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP de Aventura",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "2200"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP de Amistad",
+      "count": "20"
+    },
+    {
+      "_id": 400401,
+      "id": "celestial_gift",
+      "name": "Celestial Gift",
+      "rarity": 5
+    },
+    {
+      "_id": 400411,
+      "id": "disenchantment_in_deep_shadow",
+      "name": "Disenchantment in Deep Shadow",
+      "rarity": 5
+    },
+    {
+      "_id": 400400,
+      "id": "celestial_gift",
+      "name": "Celestial Gift",
+      "rarity": 4
+    },
+    {
+      "_id": 400410,
+      "id": "disenchantment_in_deep_shadow",
+      "name": "Disenchantment in Deep Shadow",
+      "rarity": 4
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 3
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 3
+    }
+  ],
+  "monsterList": []
+}

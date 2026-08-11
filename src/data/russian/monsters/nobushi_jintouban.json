@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Прочие человеческие фракции",
   "filename_icon": "UI_MonsterIcon_Samurai_Ronin_01",
   "description": "Самураи, вступившие на путь бандитизма. Хотя они называются Нобуси, у них нет централизованной организации. \\nПоскольку они уже много лет находятся на тропе войны и отлично владеют мечом, они не часто используют его во благо.\\nИногда они даже вступают в сговор с Похитителями сокровищ или Фатуи, для получения прибыли или просто в целях выживания.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

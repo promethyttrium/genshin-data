@@ -1,7 +1,7 @@
 {
   "_id": 22020101,
   "id": "abyss_herald_wicked_torrents",
-  "monsterId": 22020103,
+  "monsterId": 84202012,
   "name": "Abgrundbote – Reißender Strom",
   "specialNames": [
     "Abgrundbote Wynfled",
@@ -22,9 +22,8 @@
   "categoryText": "Der Abgrund",
   "filename_icon": "UI_MonsterIcon_Invoker_Herald_Water_01",
   "description": "Monster des Orden des Abgrunds, die Hydro-Kraft im Kampf einsetzen.\\nDiese stummen Gestalten sind die Vorhut des Abgrunds und schwingen Gezeitenklingen, die alles in einem Augenblick verschlingen, Rüstungen zerquetschen und Ketzer auslöschen können. Die törichten Massen können dem vorbestimmten Schicksal nicht entkommen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

@@ -25,19 +25,19 @@
       "_id": 112079,
       "id": "wanderers_blooming_flower",
       "name": "나그네의 만개한 꽃",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112078,
       "id": "treasured_flower",
       "name": "누군가가 간직한 꽃",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112077,
       "id": "a_flower_yet_to_bloom",
       "name": "어딘가에서 온 못다 핀 꽃",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "츄츄 부족",
   "filename_icon": "UI_MonsterIcon_Hilistray_Wind",
   "description": "어떤 부족에도 속하지 않은 츄츄족 방랑자. 일족의 화려했던 운명의 시작점을 찾고 있는 것 같다.\\n단순한 언어만 가지고 있을 뿐, 문자로 무언가를 전승할 수는 없는 마물들에게 전설과 서사시가 존재한다면, 그 주인공은 바로 이들일 것이다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

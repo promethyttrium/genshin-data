@@ -1,0 +1,21 @@
+{
+  "_id": 310001,
+  "id": "serpent_devourer",
+  "name": "Serpent Devourer",
+  "description": "A glorious, illusory sword that emerged from the depths of the Ley Lines. It can change its appearance based on the Elemental Type of its wielder. Legend has it that this sword once held the name \"Logseims\" when it was wielded by a golden sinner in an ancient land.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Sword"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "Radiant Metamorphosis: Transcendence",
+    "priority": 1
+  },
+  "item_id": 341101,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphVinces_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphVinces"
+}

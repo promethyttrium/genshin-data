@@ -8,13 +8,12 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Mosasaurus_Normal",
   "description": "Dieser Saurier mit kräftigen Flossen und langem Schwanz ist in der Lage, sowohl im Wasser als auch flüssigem Phlogiston zu schwimmen.\\nDie Legende besagt, dass die Drachen ältester Zeitalter wahre Meister darin gewesen sein sollen, sich ihren Umweltbedingungen entsprechend anzupassen. So sollen die gigantischen Drachen des Meeres kaum von einer Insel zu unterscheiden gewesen sein, wenn sie sich einmal faul auf der Meeresoberfläche haben treiben lassen. So heißt es auch, dass unsere heutigen Koholasaurier von eben jenen gigantischen Seedrachen abstammen sollen; ihre breiten Rücken könnten jedenfalls einen Hinweis auf die Form ihrer uralten Vorfahren geben.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {

@@ -25,19 +25,19 @@
       "_id": 112112,
       "id": "ignited_seeing_eye",
       "name": "Ignited Seeing Eye",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112111,
       "id": "ignited_seed_of_life",
       "name": "Ignited Seed of Life",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112110,
       "id": "ignited_stone",
       "name": "Ignited Stone",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Lava_Liquid",
   "description": "Monster aneh yang perlu menyerap panas terus-menerus agar bisa tetap aktif.\\nDahulu kala, api yang lebih kuno dan mendalam pernah berkobar di seluruh Natlan dengan bentuk yang berbeda-beda. Pada masa itu, para penduduk primitif yang pandai memanfaatkan api-api ini untuk menyalurkan cahaya, panas, dan juga pengetahuan. Mereka percaya bahwa kehidupan dan nyawa juga bermula dari percikan api yang muncul saat dua batu api saling bertabrakan.\\nJika ada sebuah inti yang membara abadi, maka sebuah batu yang keras pun juga bisa menciptakan kehidupan. Sisa-sisa bara api yang ada di dalam tubuh Avatar of Lava terlihat seperti sisa-sisa yang tertinggal dari masa lalu itu.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

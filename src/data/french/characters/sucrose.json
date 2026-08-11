@@ -369,7 +369,7 @@
     {
       "id": "catalyst_conversion",
       "name": "Permutation de catalyste",
-      "description": "Tous les personnages de l'équipe du type élémentaire concerné (hormis Sucrose) obtiennent un bonus de 50 pts de maîtrise élémentaire pendant 8 s lorsque Sucrose déclenche une réaction de Dispersion.",
+      "description": "Tous les personnages de l'équipe du type élémentaire concerné (hormis Sucrose) obtiennent un bonus de 50 pts de maîtrise élémentaire pendant 8 s lorsque Sucrose déclenche une réaction de Dispersion ou d'Astrodispersion.",
       "level": 1
     },
     {

@@ -1,0 +1,39 @@
+{
+  "_id": 213171,
+  "id": "adamahs_redemption",
+  "shareId": 611,
+  "name": "Adamah's Redemption",
+  "title": "Durin: Adamah's Redemption",
+  "desc": "\"Titik balik takdir.\"",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Setelah Karakter yang terpengaruh menggunakan Principle of Purity: As the Light Shifts: </span>4 kali DMG yang diakibatkan olehmu selanjutnya +1.<br/><span style=\"color:#FFFFFFFF\">Setelah Karakter yang terpengaruh menggunakan Principle of Darkness: As the Stars Smolder: </span>DMG yang diakibatkan oleh <span style=\"color:#FFFFFFFF\">Durin</span> dan <span style=\"color:#FFFFFFFF\">Denial of Darkness</span> milikmu +2.",
+  "attributes": {
+    "cost": 4,
+    "cost_type": "Pyro",
+    "card_type": "Kartu Equipment",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "Pyro",
+        "count": 4
+      },
+      {
+        "_id": 1110,
+        "id": "energy",
+        "type": "Energy",
+        "count": 2
+      }
+    ],
+    "source": "Hadiah yang didapatkan setelah mengundang Durin ke Cat's Tail untuk bertanding dan menyelesaikan target tantangan yang bersangkutan",
+    "tags": [
+      "Talenta",
+      "Aksi Tempur"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Aksi Tempur</span>: Kartu ini dapat dikenakan saat menggunakan <span style=\"color:#FFFFFFFF\">Durin</span> sebagai Karakter Aktif.<br/>Durin akan langsung menggunakan <span style=\"color:#FFD780FF\">Principle of Purity: As the Light Shifts</span> atau <span style=\"color:#FFD780FF\">Principle of Darkness: As the Stars Smolder</span> satu kali setelah mengenakannya berdasarkan Elemental Burst saat ini milik diri sendiri.<br/><span style=\"color:#FFFFFFFF\">Setelah Karakter yang terpengaruh menggunakan Principle of Purity: As the Light Shifts: </span>4 kali DMG yang diakibatkan olehmu selanjutnya +1.<br/><span style=\"color:#FFFFFFFF\">Setelah Karakter yang terpengaruh menggunakan Principle of Darkness: As the Stars Smolder: </span>DMG yang diakibatkan oleh <span style=\"color:#FFFFFFFF\">Durin</span> dan <span style=\"color:#FFFFFFFF\">Denial of Darkness</span> milikmu +2.<br/>(Kamu harus punya Durin di dalam Dek-mu untuk menambahkan kartu ini ke dalam Dek)"
+    }
+  ]
+}

@@ -48,10 +48,14 @@
       "_id": 3612,
       "id": "birchsteamed_pork_ribs",
       "name": "Travers de porc à la vapeur de bouleau"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Coupes sucrées"
     }
   ],
   "source": [
     "Dans la nature"
-  ],
-  "rarity": 0
+  ]
 }

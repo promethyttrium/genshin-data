@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Mature",
   "description": "オスのアワアワタツノコの成魚後の形態。攻撃性が非常に強い。\\nかつてタツノコの王者に出会った人がいたが、長い四肢を持つ高慢な生き物だったという。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

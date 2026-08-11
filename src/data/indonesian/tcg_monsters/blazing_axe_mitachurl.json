@@ -8,17 +8,21 @@
     "hp": 8,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Senjata Lain",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "du_plama",
       "name": "Du Plama",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -37,8 +41,10 @@
     {
       "id": "upa",
       "name": "Upa",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin ?.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -51,8 +57,10 @@
     {
       "id": "oto_tiga",
       "name": "Oto Tiga",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 5 poin ?.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -72,7 +80,9 @@
       "id": "flowfire_edge",
       "name": "Flowfire Edge",
       "desc": "[Pasif] Saat pertandingan dimulai, Karakter ini memperoleh <span style=\"color:#FFFFFFFF\">Flowfire Edge</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

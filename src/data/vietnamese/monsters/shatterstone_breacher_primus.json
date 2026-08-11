@@ -13,7 +13,6 @@
   "categoryText": "Vực Sâu",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_02",
   "description": "Sinh mệnh kỳ lạ chủ yếu xuất hiện trong Elynas.\\nKhi gặp phải năng lượng ousia hoặc pneuma, hình như sẽ bị kích thích rất mạnh. Do đó cho dù không có đặc tính tấn công và xâm lược mạnh, nhưng cách này hình như sẽ rất hiệu quả trong việc xua đuổi Nguyên Thể Khe Nứt.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

@@ -13,7 +13,6 @@
   "categoryText": "Hilichurl-Stämme",
   "filename_icon": "UI_MonsterIcon_Brute_Ice_01",
   "description": "Ein mysteriöser „Herr“ der Hilichurle, der durch Eis und Nebel stapft.\\nDieser riesige Hilichurl wird von seinen Brüdern „Lawa“ genannt. Sein bis an die Grenze gestählter Körper verschmilzt förmlich mit der eisigen Umgebung. Mit seiner stoisch edlen Art gleicht er den gefrorenen Flüssen der Nordlande.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

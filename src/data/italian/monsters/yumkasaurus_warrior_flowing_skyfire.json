@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Altre fazioni umane",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Launcher_Hookwalker",
   "description": "Una potente guerriera dei Discendenti delle Vette, il cui coraggio è stato riconosciuto e che pertanto può indossare la corona saurica.\\nPuò usare una corda da arrampicata per espandere la portata del proprio attacco che, tramite un meccanismo sofisticato, può essere sparata dal suo cannone portatile. Per i guerrieri dalla corona saurica dei Discendenti delle Vette, affinare le abilità e il pensiero è più importante di allenare lo spirito e la volontà.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

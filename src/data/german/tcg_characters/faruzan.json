@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Bogen",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 5589,
@@ -29,8 +31,10 @@
     {
       "id": "parthian_shot",
       "name": "Drehschütze",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "wind_realm_of_nasamjnin",
       "name": "Windreich von Nasamjnin",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erhält selbst <span style=\"color:#FFFFFFFF\">Offenbarung des Sturms</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#80FFD7FF\">Anemo-SCH</span>, erhält selbst <span style=\"color:#FFFFFFFF\">Offenbarung des Sturms</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "the_winds_secret_ways",
       "name": "Geheime Pfade der Winde",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 1 <span style=\"color:#FFFFFFFF\">Gleißendes Polyeder</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#80FFD7FF\">Anemo-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Gleißendes Polyeder</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1105,

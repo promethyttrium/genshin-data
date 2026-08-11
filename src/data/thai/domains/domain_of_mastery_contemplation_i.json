@@ -1,0 +1,53 @@
+{
+  "_id": 4691,
+  "id": "domain_of_mastery_contemplation_i",
+  "name": "ดันเจี้ยนแห่งการพัฒนา: ทำสมาธิ I",
+  "entranceId": 2074,
+  "entranceName": "สถานศักดิ์สิทธิ์ที่เสื่อมสลาย",
+  "description": "สถานศักดิ์สิทธิ์ที่เหล่าภูตสร้างขึ้นในอดีต บัดนี้กลับถูกพวกคนพาลยึดครอง\nหากกำจัดศัตรูที่เพ่นพ่านอยู่ที่นี่ได้ อาจจะได้รับคำชี้แนะในการพัฒนาพรสวรรค์ขึ้นก็ได้",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 38,
+  "unlockRank": 25,
+  "disorder": [
+    "· When a character triggers Superconduct or Stellar-Conduct reactions, or deals Stellar-Conduct DMG, a shockwave will be unleashed at the target enemy's location, dealing Electro DMG."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_03",
+  "recommendedElements": [
+    "น้ำแข็ง",
+    "ไฟฟ้า"
+  ],
+  "daysOfWeek": [
+    "วันจันทร์",
+    "วันพฤหัสบดี",
+    "วันอาทิตย์"
+  ],
+  "domainType": "UI_ABYSSUS_AVATAR_PROUD",
+  "domainText": "Talent Level-Up Material",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Adventure EXP",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "1575"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Friendship EXP",
+      "count": "15"
+    },
+    {
+      "_id": 104365,
+      "id": "teachings_of_charity",
+      "name": "Teachings of Charity"
+    }
+  ],
+  "monsterList": []
+}

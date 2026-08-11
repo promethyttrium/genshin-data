@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Sem Tipo Elemental",
+    "weapon": "Outras Armas",
     "faction": [
-      null,
-      null
+      "Monstro",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "hit",
       "name": "Bordoada",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "jump_and_hit",
       "name": "Voadora",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -45,8 +51,10 @@
     {
       "id": "swing_that_club",
       "name": "Ataque Frenético",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 4 pontos de ?.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1108,

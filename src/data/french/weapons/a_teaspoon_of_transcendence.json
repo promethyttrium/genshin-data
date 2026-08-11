@@ -10,7 +10,7 @@
   },
   "domain": "Donjon d'entraînement : Oblation lunaire",
   "passive": "Promotion de la fée blanche",
-  "bonus": "Augmente l'ATQ du personnage équipé de l'arme de <span>28 %/35 %/42 %/49 %/56 %</span>.<br/>De plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction de <span>16 %/20 %/24 %/28 %/32 %</span> pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s.",
+  "bonus": "Augmente l'ATQ du personnage équipé de l'arme de <span>28 %/35 %/42 %/49 %/56 %</span>.<br/>De plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction et de réaction d'Astrodispersion de <span>16 %/20 %/24 %/28 %/32 %</span> pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s.",
   "specialProp": "DGT CRIT",
   "stats": {
     "primary": "ATQ de base",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Promotion de la fée blanche",
-    "template": "Augmente l'ATQ du personnage équipé de l'arme de <span style=\"color:#99FFFFFF\">{0}</span>.<br/>De plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction de <span style=\"color:#99FFFFFF\">{1}</span> pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s.",
+    "template": "Augmente l'ATQ du personnage équipé de l'arme de <span style=\"color:#99FFFFFF\">{0}</span>.<br/>De plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction et de réaction d'Astrodispersion de <span style=\"color:#99FFFFFF\">{1}</span> pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s.",
     "params": [
       [
         "28 %",
@@ -307,23 +306,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "Augmente l'ATQ du personnage équipé de l'arme de <span>28 %</span>.<br/>De plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction de <span>16 %</span> pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s."
+      "desc": "Augmente l'ATQ du personnage équipé de l'arme de <span>28 %</span>.<br/>De plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction et de réaction d'Astrodispersion de <span>16 %</span> pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s."
     },
     {
       "refinement": 2,
-      "desc": "Augmente l'ATQ du personnage équipé de l'arme de <span>35 %</span>.<br/>De plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction de <span>20 %</span> pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s."
+      "desc": "Augmente l'ATQ du personnage équipé de l'arme de <span>35 %</span>.<br/>De plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction et de réaction d'Astrodispersion de <span>20 %</span> pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s."
     },
     {
       "refinement": 3,
-      "desc": "Augmente l'ATQ du personnage équipé de l'arme de <span>42 %</span>.<br/>De plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction de <span>24 %</span> pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s."
+      "desc": "Augmente l'ATQ du personnage équipé de l'arme de <span>42 %</span>.<br/>De plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction et de réaction d'Astrodispersion de <span>24 %</span> pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s."
     },
     {
       "refinement": 4,
-      "desc": "Augmente l'ATQ du personnage équipé de l'arme de <span>49 %</span>.<br/>De plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction de <span>28 %</span> pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s."
+      "desc": "Augmente l'ATQ du personnage équipé de l'arme de <span>49 %</span>.<br/>De plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction et de réaction d'Astrodispersion de <span>28 %</span> pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s."
     },
     {
       "refinement": 5,
-      "desc": "Augmente l'ATQ du personnage équipé de l'arme de <span>56 %</span>.<br/>De plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction de <span>32 %</span> pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s."
+      "desc": "Augmente l'ATQ du personnage équipé de l'arme de <span>56 %</span>.<br/>De plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction et de réaction d'Astrodispersion de <span>32 %</span> pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s."
     }
   ]
 }

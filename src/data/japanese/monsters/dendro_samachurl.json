@@ -14,14 +14,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "ヒルチャール部族",
   "filename_icon": "UI_MonsterIcon_Shaman_Grass_01",
   "description": "ブツブツとよく独り言を言う年老いたヒルチャール、草元素の詠唱者。\\n元素コントロールに長けるヒルチャールは、年を取ると力がピークに達する傾向がある。仮面の下には悔しさが潜み、人を憎しむ毒ツタは土から生え上がって来る。",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

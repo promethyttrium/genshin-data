@@ -10,7 +10,7 @@
   },
   "domain": "Uralter Ausguck",
   "passive": "Der gesichtete Mondhalo",
-  "bonus": "Erhöht den ANG nach Auslösen der Reaktion Verwirbelung 12 s lang um <span>24 %/30 %/36 %/42 %/48 %</span>. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, den mit heftigen Schlägen des Trägers verursachten Schaden um <span>20/48 %/25/60 %/30/72 %/35/84 %/40/96 %</span> und den mit Spezialfähigkeiten des Trägers verursachten Schaden um <span>10/24 %/12,5/30 %/15/36 %/17,5/42 %/20/48 %</span>.",
+  "bonus": "Erhöht den ANG nach Auslösen der Reaktion Verwirbelung oder Stellar-Verwirbelung 12 s lang um <span>24 %/30 %/36 %/42 %/48 %</span>. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, den mit heftigen Schlägen des Trägers verursachten Schaden um <span>20/48 %/25/60 %/30/72 %/35/84 %/40/96 %</span> und den mit Spezialfähigkeiten des Trägers verursachten Schaden um <span>10/24 %/12,5/30 %/15/36 %/17,5/42 %/20/48 %</span>.",
   "specialProp": "KSCH",
   "stats": {
     "primary": "Basis-ANG",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Der gesichtete Mondhalo",
-    "template": "Erhöht den ANG nach Auslösen der Reaktion Verwirbelung 12 s lang um <span style=\"color:#99FFFFFF\">{0}</span>. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, werden den mit heftigen Schlägen des Trägers verursachten Schaden um <span style=\"color:#99FFFFFF\">{1}</span> und den mit Spezialfähigkeiten des Trägers verursachten Schaden um <span style=\"color:#99FFFFFF\">{2}</span>.",
+    "template": "Erhöht den ANG nach Auslösen der Reaktion Verwirbelung oder Stellar-Verwirbelung 12 s lang um <span style=\"color:#99FFFFFF\">{0}</span>. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, den mit heftigen Schlägen des Trägers verursachten Schaden um <span style=\"color:#99FFFFFF\">{1}</span> und den mit Spezialfähigkeiten des Trägers verursachten Schaden um <span style=\"color:#99FFFFFF\">{2}</span>.",
     "params": [
       [
         "24%",
@@ -312,23 +311,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "Erhöht den ANG nach Auslösen der Reaktion Verwirbelung 12 s lang um <span>24 %</span>. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, den mit heftigen Schlägen des Trägers verursachten Schaden um <span>20/48 %</span> und den mit Spezialfähigkeiten des Trägers verursachten Schaden um <span>10/24 %</span>."
+      "desc": "Erhöht den ANG nach Auslösen der Reaktion Verwirbelung oder Stellar-Verwirbelung 12 s lang um <span>24 %</span>. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, den mit heftigen Schlägen des Trägers verursachten Schaden um <span>20/48 %</span> und den mit Spezialfähigkeiten des Trägers verursachten Schaden um <span>10/24 %</span>."
     },
     {
       "refinement": 2,
-      "desc": "Erhöht den ANG nach Auslösen der Reaktion Verwirbelung 12 s lang um <span>30 %</span>. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, den mit heftigen Schlägen des Trägers verursachten Schaden um <span>25/60 %</span> und den mit Spezialfähigkeiten des Trägers verursachten Schaden um <span>12,5/30 %</span>."
+      "desc": "Erhöht den ANG nach Auslösen der Reaktion Verwirbelung oder Stellar-Verwirbelung 12 s lang um <span>30 %</span>. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, den mit heftigen Schlägen des Trägers verursachten Schaden um <span>25/60 %</span> und den mit Spezialfähigkeiten des Trägers verursachten Schaden um <span>12,5/30 %</span>."
     },
     {
       "refinement": 3,
-      "desc": "Erhöht den ANG nach Auslösen der Reaktion Verwirbelung 12 s lang um <span>36 %</span>. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, den mit heftigen Schlägen des Trägers verursachten Schaden um <span>30/72 %</span> und den mit Spezialfähigkeiten des Trägers verursachten Schaden um <span>15/36 %</span>."
+      "desc": "Erhöht den ANG nach Auslösen der Reaktion Verwirbelung oder Stellar-Verwirbelung 12 s lang um <span>36 %</span>. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, den mit heftigen Schlägen des Trägers verursachten Schaden um <span>30/72 %</span> und den mit Spezialfähigkeiten des Trägers verursachten Schaden um <span>15/36 %</span>."
     },
     {
       "refinement": 4,
-      "desc": "Erhöht den ANG nach Auslösen der Reaktion Verwirbelung 12 s lang um <span>42 %</span>. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, werden den mit heftigen Schlägen des Trägers verursachten Schaden um <span>35/84 %</span> und den mit Spezialfähigkeiten des Trägers verursachten Schaden um <span>17,5/42 %</span>."
+      "desc": "Erhöht den ANG nach Auslösen der Reaktion Verwirbelung oder Stellar-Verwirbelung 12 s lang um <span>42 %</span>. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, den mit heftigen Schlägen des Trägers verursachten Schaden um <span>35/84 %</span> und den mit Spezialfähigkeiten des Trägers verursachten Schaden um <span>17,5/42 %</span>."
     },
     {
       "refinement": 5,
-      "desc": "Erhöht den ANG nach Auslösen der Reaktion Verwirbelung 12 s lang um <span>48 %</span>. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, werden den mit heftigen Schlägen des Trägers verursachten Schaden um <span>40/96 %</span> und den mit Spezialfähigkeiten des Trägers verursachten Schaden um <span>20/48 %</span>."
+      "desc": "Erhöht den ANG nach Auslösen der Reaktion Verwirbelung oder Stellar-Verwirbelung 12 s lang um <span>48 %</span>. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, den mit heftigen Schlägen des Trägers verursachten Schaden um <span>40/96 %</span> und den mit Spezialfähigkeiten des Trägers verursachten Schaden um <span>20/48 %</span>."
     }
   ]
 }

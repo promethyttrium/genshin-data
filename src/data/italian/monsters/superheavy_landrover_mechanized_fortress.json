@@ -13,8 +13,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuimecha_AMP",
   "description": "Conosciuto internamente come Tipo Drzislav, questo meccanismo super pesante è stato sviluppato dal Palazzo dell'Armeria e dall'Istituto di Progettazione sperimentale del Kuuvahki.\\nIl massiccio trasportatore fuoristrada era stato costruito inizialmente per l'uso civile, in particolare per il trasporto pesante, come dimostrano le trivelle di cui è equipaggiato. Tuttavia, i modelli di produzione successivi furono modificati in versioni militari dotate di armi pesanti.\\nDopotutto, in questo mondo mortale ai piedi della luna, anche i progetti più perfetti e divini possono deviare dal loro intento originale, figuriamoci le macchine nate da mani mortali, forgiate con umili intenzioni e imperfette sin dall'inizio.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 1,
   "stats": {
     "resistance": {

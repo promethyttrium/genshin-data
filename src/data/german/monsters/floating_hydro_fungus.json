@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Fungus_Un_Gamma_Water",
   "description": "Sporengeschöpf mit einer gewissen Intelligenz. Hat eine starke Fähigkeit zur Anpassung an die Umwelt.\\nEs wird gesagt, dass sie nicht gut schmeckt. Aber diese Pilzbestie kann wegen ihres hohen Wassergehalts auch eine Notwasserquelle sein ...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

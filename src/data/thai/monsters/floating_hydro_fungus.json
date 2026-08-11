@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "สัตว์อสูรลึกลับ",
   "filename_icon": "UI_MonsterIcon_Fungus_Un_Gamma_Water",
   "description": "สิ่งมีชีวิตสปอร์ที่มีสติปัญญา มีความสามารถในการปรับตัวสูง\\nแต่ว่ากันว่ารสชาติแย่มาก อย่างไรก็ตาม Fungus ประเภทนี้มีความชื้นอยู่ภายในจำนวนมาก จึงสามารถใช้เป็นแหล่งน้ำฉุกเฉินได้...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

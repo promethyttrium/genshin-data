@@ -1,0 +1,12 @@
+{
+  "_id": 70800035,
+  "id": "everburning_hearth_core",
+  "name": "แกนเตาหลอมที่ลุกโชนชั่วนิรันดร์",
+  "areaName": "แดนเยือกแข็งนิรันดร์",
+  "areaId": 80200,
+  "description": "ว่ากันว่าสิทธิ์ในการใช้ผลึกแก้ว Kresnik สำหรับภาคประชาชนนั้น Belyi Tsar เป็นผู้อนุมัติลงมา\nสำหรับ Snezhnaya แล้ว พระองค์เป็นทั้งพายุหิมะอันหนาวเหน็บ และเป็นดวงอาทิตย์ยามเช้าที่นำพาความอบอุ่นมาให้",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 635,
+  "filename_image": "UI_Codex_Scenery_ZDGuoLuFang"
+}

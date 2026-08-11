@@ -68,6 +68,11 @@
       "name": "粒果膨膨棒"
     },
     {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "格鲁波夫黑列巴"
+    },
+    {
       "_id": 3004,
       "id": "sticky_honey_roast",
       "name": "蜜酱胡萝卜煎肉"
@@ -282,6 +287,5 @@
   ],
   "source": [
     "烹饪加工获得"
-  ],
-  "rarity": 0
+  ]
 }

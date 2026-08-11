@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Arco",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3234,
@@ -29,8 +31,10 @@
     {
       "id": "supplicants_bowmanship",
       "name": "Freccia del supplicante",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -49,8 +53,10 @@
     {
       "id": "floral_brush",
       "name": "Pennello floreale",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#7EC236FF\">DAN da Dendro</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "trumpcard_kitty",
       "name": "Micio asso vincente",
-      "desc": "Infligge ? ?, invoca 1 <span style=\"color:#FFFFFFFF\">Cuilein-Anbar</span>.",
-      "skillTag": [],
+      "desc": "Infligge 2 <span style=\"color:#7EC236FF\">DAN da Dendro</span>, invoca 1 <span style=\"color:#FFFFFFFF\">Cuilein-Anbar</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1107,

@@ -1,0 +1,21 @@
+{
+  "_id": 310003,
+  "id": "golden_bough_of_nemorensis",
+  "name": "Rama Dorada de Nemorense",
+  "description": "Un espléndido miraje de espada ligera procedente de las profundidades de las líneas ley. Puede cambiar según el tipo elemental de su portador. Dicen que, en una época tan remota que ya nadie puede recordar, una emisaria de los cielos otorgó esta espada a la suma sacerdotisa de Arcadia para concederle el derecho de guiar a la ciudad sagrada bendecida por los mil vientos.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Espada ligera"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "Ilusión resplandeciente: Eternidad",
+    "priority": 2
+  },
+  "item_id": 341103,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphNemorensis_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphNemorensis"
+}

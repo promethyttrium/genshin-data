@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Female_Slim_MachineGun",
   "description": "Seorang tentara elit dari Oprichniki Fatui, ahli dalam menggunakan pistol ganda di dalam pertempuran.\\nBerbeda dengan Skirmisher, hampir semua tentara elit Oprichniki merupakan lulusan Akademi Militer Kerajaan Snezhnaya, baik kalangan bangsawan maupun warga sipil. Lagi pula, dalam idealisme kebajikan Tsaritsa, tidak ada perbedaan di antara keduanya. Sebagaimana \"Gvardiya\" yang secara tradisi hanya dapat diemban oleh peri, kini juga telah berevolusi menjadi gelar kehormatan bagi para pemimpin Oprichniki, pembagian divisi yang lebih setara untuk membangun dunia baru.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

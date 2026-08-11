@@ -8,17 +8,21 @@
     "hp": 3,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Autre arme",
     "faction": [
-      null,
-      null
+      "Monstre",
+      "Brutocollinus"
     ]
   },
   "skills": [
     {
       "id": "ice_arrow",
       "name": "Flèche de glace",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#99FFFFFF\">DGT Cryo</span>.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -37,8 +41,10 @@
     {
       "id": "multishot",
       "name": "Multitir",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts de <span style=\"color:#99FFFFFF\">DGT Cryo</span>.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -58,7 +64,9 @@
       "id": "hide",
       "name": "Dissimulation",
       "desc": "(Passif) Bascule pour le prochain personnage après que ce personnage a attaqué.",
-      "skillTag": [],
+      "skillTag": [
+        "Capacité passive"
+      ],
       "points": []
     }
   ]

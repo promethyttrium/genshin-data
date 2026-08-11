@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Espada ligera",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3229,
@@ -29,8 +31,10 @@
     {
       "id": "strike_of_fortune",
       "name": "Espada de la suerte",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,8 +53,10 @@
     {
       "id": "passion_overload",
       "name": "Sobrecarga de pasión",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#FF9999FF\">Daño Pyro</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "fantastic_voyage",
       "name": "Aventura maravillosa",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y crea un <span style=\"color:#FFFFFFFF\">círculo de apoyo moral</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#FF9999FF\">Daño Pyro</span> y crea un <span style=\"color:#FFFFFFFF\">círculo de apoyo moral</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1103,

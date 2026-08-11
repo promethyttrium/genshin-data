@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Catalyseur",
     "faction": [
-      null
+      "Fontaine"
     ],
     "talent_card": {
       "_id": 5162,
@@ -29,8 +31,10 @@
     {
       "id": "coolcolor_capture",
       "name": "Phototype à froid",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#99FFFFFF\">DGT Cryo</span>.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "framing_freezing_point_composition",
       "name": "Cadrage : Composition gelée",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et applique une <span style=\"color:#FFFFFFFF\">silhouette instantanée</span> à la cible.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#99FFFFFF\">DGT Cryo</span> et applique une <span style=\"color:#FFFFFFFF\">silhouette instantanée</span> à la cible.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "still_photo_comprehensive_confirmation",
       "name": "Pose : Corroboration complète",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?, soigne tous vos personnages pour 1 pt et invoque un <span style=\"color:#FFFFFFFF\">champ de flash info</span>.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#99FFFFFF\">DGT Cryo</span>, soigne tous vos personnages pour 1 pt et invoque un <span style=\"color:#FFFFFFFF\">champ de flash info</span>.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1101,

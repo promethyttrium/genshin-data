@@ -1,7 +1,7 @@
 {
   "_id": 20080701,
   "id": "gilded_sunshard_frostnight_scion",
-  "monsterId": 20080702,
+  "monsterId": 84008072,
   "name": "Scheggia solare dorata: Erede della Notte gelata",
   "specialNames": [
     "Scheggia solare dorata"
@@ -13,9 +13,8 @@
   "categoryText": "Forme di vita elementali",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Rock",
   "description": "Un'elegante forma di vita elementale che possiede una grande affinità con gli elementi. Ha assunto la sua forma attuale dopo essere rimasta esposta a elevate concentrazioni di Geo per lunghi periodi di tempo.\\nQuasi tutto il suo corpo è ricoperto da strati di Geo solidificato, mentre le sue robuste corna brillano con la stessa lucentezza dell'ambra lucidata.\\nNelle preghiere dell'Estremo Nord ancora esistenti, si dice sia nata dalle benedizioni della Luna gelata, a simboleggiare l'origine pura e la luce primordiale. Questo spiegherebbe perché trova insopportabile essere macchiata con la pallida purezza dei sette colori del cielo, al punto da respingere ogni forma di vita che si avvicini a essa.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

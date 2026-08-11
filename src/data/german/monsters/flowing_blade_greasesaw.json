@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Eisenpfeife des Kriegers",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Holzpfeife des Wächters",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Mosasaurus",
   "description": "Ein Krieger der Menschen der Quellen, ein Stammeswächter, der die Gewässer und Ufer patrouilliert.\\nDiese Krieger findet man stets an vorderster Front, die Schwerter in ihren Händen wie Zähne, die selbst Knochen entzwei spalten können. Stammesangehörige, die sich im Schwertkampf üben, tun dies, indem sie ihre Kraft und Geschicklichkeit im Wasser unter Beweis stellen. Die Besten unter ihnen sind sogar in der Lage, einen schwimmenden Fisch im Wasser in zwei Hälften zu teilen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

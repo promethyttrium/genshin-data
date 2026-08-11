@@ -1,0 +1,40 @@
+{
+  "_id": 25137001,
+  "id": "rugged_elder_leshy",
+  "monsterId": 25137006,
+  "name": "Anciano Vigorarbóreo",
+  "specialNames": [
+    "Retoño Joven"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestias exóticas",
+  "filename_icon": "UI_MonsterIcon_Leshy_Mature_01",
+  "description": "Un leshi que crece en los bosques silvestres.\\nLos leshi que poseen una inteligencia incompleta y son incapaces de hablar parecen el resultado de los primeros experimentos de los artesanos del reino dorado. Sin embargo, es justo al revés: según los registros históricos, crearon a esta raza de hadas una vez que ya dominaban casi por completo la autoridad sobre la vida.\\nQuizás esto encierre un significado muy profundo que las hadas y los humanos de hoy en día son incapaces de comprender.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.3,
+      "hydro": 0.1,
+      "geo": 0.3,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 21.945072,
+      "attack": 94.62242,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

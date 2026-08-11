@@ -18,6 +18,11 @@
       "name": "Frango Recheado com Lakkabaga"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borscht"
+    },
+    {
       "_id": 3601,
       "id": "lakkaberry_krumkakes",
       "name": "Rolinho de Ovo de Lakkabaga"
@@ -41,10 +46,24 @@
       "_id": 3609,
       "id": "veggie_pot_soup",
       "name": "Sopa de Legumes"
+    },
+    {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Carne Braseada na Panela"
+    },
+    {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Okroshka do Reino da Neve"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
     }
   ],
   "source": [
     "Processado"
-  ],
-  "rarity": 0
+  ]
 }

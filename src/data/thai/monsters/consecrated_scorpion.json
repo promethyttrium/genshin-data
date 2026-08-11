@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "สัตว์อสูรลึกลับ",
   "filename_icon": "UI_MonsterIcon_Scorpion_Sacred_Electric",
   "description": "สัตว์ขาปล้องที่กัดกินซาก และกลายพันธุ์ด้วยการกลืนกินสิ่งมีชีวิตที่ยิ่งใหญ่กว่า\\nสิ่งมีชีวิตมีกฎการวิวัฒนาการของมันเอง และกฎของ Consecrated Beast ก็คือการมีโชคที่เพียงพอ ในการค้นพบซากของสิ่งมีชีวิตที่ยิ่งใหญ่ในอดีตอันไกลโพ้นก่อนเผ่าพันธุ์ของพวกมัน สัตว์และมนุษย์มักจะมีสิ่งที่เหมือนกันมากเกินกว่าที่มนุษย์จะยอมรับได้",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

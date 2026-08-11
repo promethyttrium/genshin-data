@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Other Weapons",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "torch_strike",
       "name": "Torch Strike",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#FF9999FF\">Pyro DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -37,8 +41,10 @@
     {
       "id": "hit_and_run",
       "name": "Hit and Run",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#FF9999FF\">Pyro DMG</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -51,8 +57,10 @@
     {
       "id": "scorching_combo",
       "name": "Scorching Combo",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 4 <span style=\"color:#FF9999FF\">Pyro DMG</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1103,

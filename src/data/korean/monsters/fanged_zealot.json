@@ -1,0 +1,40 @@
+{
+  "_id": 25133601,
+  "id": "fanged_zealot",
+  "monsterId": 25133602,
+  "name": "매머드 광전사",
+  "specialNames": [
+    "매머드 광전사"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "돌연변이 마수",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Mammoth",
+  "description": "위대한 혈통을 더 많이 이어받은 강력한 야수 요정.\\n거대한 매머드의 형상을 한 이들은 야수 요정 중에서도 가장 고귀한 혈통에 속한다. 이 씨족에서는 수많은 장군이 배출되었으며, 그중 상당수는 오랫동안 야수의 왕을 가까이에서 보좌했다.\\n하지만 강대한 힘과 긴 수명을 지닌 탓에 이들은 무리 생활을 선호하지 않는다. 그래서 오늘날 스네즈나야에서는 다른 야수 요정보다 훨씬 보기 드문 존재가 되었다",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 231.00076,
+      "attack": 112.64574,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -25,19 +25,19 @@
       "_id": 112043,
       "id": "fossilized_bone_shard",
       "name": "Frammento d'osso fossilizzato",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112042,
       "id": "sturdy_bone_shard",
       "name": "Frammento d'osso solido",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112041,
       "id": "fragile_bone_shard",
       "name": "Frammento d'osso fragile",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Drake_Deepsea_Water",
   "description": "Un Elementosauro che vive nelle profondità degli oceani.\\nUn tempo erano la razza dominante negli abissi... E, in effetti, i draghi erano i signori del mondo intero in un'era ancor più antica. Ma i loro Sette sovrani furono sconfitti da un potere proveniente dal cielo, che li fece estinguere uno dopo l'altro.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

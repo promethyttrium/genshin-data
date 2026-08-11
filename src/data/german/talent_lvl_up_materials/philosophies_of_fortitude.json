@@ -1,0 +1,30 @@
+{
+  "_id": 104370,
+  "id": "philosophies_of_fortitude",
+  "name": "Philosophie der „Beharrlichkeit“",
+  "description": "Material zur Verbesserung von Talenten.\\n„Beharrlichkeit“ ist eine Tugend des Reiches des Eises.\\nBeharrlichkeit bringt das Gedeihen des Lebens hervor. Die Menschen haben sich nie der bitteren Kälte gebeugt, so wie ein schwacher Samen trotz allem im Wind und Schnee erblüht. Die Zivilisation überdauert alle Prüfungen und gedeiht fortwährend, so wie das Frostspringkraut Winter für Winter aufs Neue blüht.",
+  "source": [
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104369,
+        "id": "guide_to_fortitude",
+        "name": "Anleitung zur „Beharrlichkeit“",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Sphäre des Verständnisses: Eremitage IV",
+  "domainId": "domain_of_mastery_hermitage_iv",
+  "days": [
+    "Dienstag",
+    "Freitag",
+    "Sonntag"
+  ]
+}

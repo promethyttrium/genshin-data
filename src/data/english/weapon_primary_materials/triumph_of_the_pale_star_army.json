@@ -1,0 +1,29 @@
+{
+  "_id": 114088,
+  "id": "triumph_of_the_pale_star_army",
+  "name": "Triumph of the Pale Star Army",
+  "description": "\"All hail the Tsar, Protector of all fae, Heir to the Pale Star, sovereign born of sacred blood!\"<br/>\"Praise be, for the entire tundra now stands as one beneath the brilliance of the Polestar!\"<br/>\"Praise be, for His Majesty has slain the false king and embraced all fae. Such is his benevolence, such is his mercy!\"",
+  "source": [
+    "Placeholder - Craftable Amount: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114087,
+        "id": "clarion_of_the_pale_star_army",
+        "name": "Clarion of the Pale Star Army",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domain of Forgery: Scars of Cursed Obsession",
+  "days": [
+    "Monday",
+    "Thursday",
+    "Sunday"
+  ]
+}

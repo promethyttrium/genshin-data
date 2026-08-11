@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automatons",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Probe",
   "description": "A clockwork meka designed for surveying underground resources and certain minerals.\\nDue to the fact that the desired metal type can be set, this device has proven very popular among Treasure Hoarders and Adventurers alike.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

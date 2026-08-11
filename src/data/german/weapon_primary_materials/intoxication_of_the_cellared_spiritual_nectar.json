@@ -1,0 +1,29 @@
+{
+  "_id": 114090,
+  "id": "intoxication_of_the_cellared_spiritual_nectar",
+  "name": "Rausch des eingelagerten spirituellen Nektars",
+  "description": "Was andernorts nur als Segen einer reichen Ernte gilt, ist für die Klans, die durch die bittere Kälte wandern, eine Überlebensnotwendigkeit.<br/>Es heißt, die Domovoys, einst die geschicktesten Braumeister, hätten mit dieser Kunst die Schatzkammern der Könige gefüllt, denen sie dienten.<br/>So floss das Gebräu der Feen durch den Handel zwischen den Klans wie von Gift triefender Honig durch das gesamte Frostland.",
+  "source": [
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114089,
+        "id": "measured_pour_of_the_cellared_spiritual_nectar",
+        "name": "Abgemessenes Aufgießen des eingelagerten spirituellen Nektars",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Sphäre der Kriegskunst – Narben einer verfluchten Besessenheit",
+  "days": [
+    "Dienstag",
+    "Freitag",
+    "Sonntag"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "_id": 101281,
+  "id": "rimecurrant",
+  "name": "Rimecurrant",
+  "description": "ผลเบอร์รีรสชาติเข้มข้น ที่เติบโตบนกิ่งไม้ซึ่งปกคลุมไปด้วยน้ำแข็ง",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Rimecurrant Ice Cream"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Snezhnaya Shashliks"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Sweet Scoops"
+    }
+  ],
+  "source": [
+    "คำแนะนำ: หาได้ที่ Snezhnaya"
+  ]
+}

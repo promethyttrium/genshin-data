@@ -1,0 +1,130 @@
+{
+  "_id": 70,
+  "id": "land_of_surging_shadows",
+  "name": "Terra das Sombras em Movimento",
+  "order": 73,
+  "achievements": [
+    {
+      "id": 86059,
+      "name": "Restaurador da Tundra",
+      "desc": "Elimine um grande Reino das Sombras no solo congelado de Snezhnaya.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9056
+    },
+    {
+      "id": 86062,
+      "name": "Te Vejo no Reino das Sombras",
+      "desc": "Conclua um desafio Limiar da Sobrevivência.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9059
+    },
+    {
+      "id": 86063,
+      "name": "\"Veterano do Reino das Sombras\"",
+      "desc": "Eleve o Nível de Análise do Reino das Sombras para o máximo",
+      "reward": 10,
+      "hidden": false,
+      "order": 9060
+    },
+    {
+      "id": 86066,
+      "name": "Ás da Sobrevivência",
+      "desc": "Obtenha 9 Medalhas do Liminar da Sobrevivência.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9063
+    },
+    {
+      "id": 86067,
+      "name": "Armeiro da Tundra - I",
+      "desc": "Instale 1 componente em 1 arma de fogo",
+      "reward": 5,
+      "hidden": false,
+      "order": 9064
+    },
+    {
+      "id": 86068,
+      "name": "Armeiro da Tundra - II",
+      "desc": "Instale 2 componentes em 1 arma de fogo",
+      "reward": 10,
+      "hidden": false,
+      "order": 9065,
+      "preStage": 86067
+    },
+    {
+      "id": 86069,
+      "name": "Armeiro da Tundra - III",
+      "desc": "Instale 4 componentes em 1 arma de fogo",
+      "reward": 20,
+      "hidden": false,
+      "order": 9066,
+      "preStage": 86068
+    },
+    {
+      "id": 86071,
+      "name": "Equipamento Completo",
+      "desc": "Instale 4 acessórios cada em \"Prata Gelada de Shatanaya\", \"Roda Solar de Balsag\" e \"Trovão de Ashamez\".",
+      "reward": 20,
+      "hidden": false,
+      "order": 9068
+    },
+    {
+      "id": 86072,
+      "name": "Já É Meio-D...",
+      "desc": "Atinja pontos fracos 5 vezes seguidas em 30s.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9069
+    },
+    {
+      "id": 86073,
+      "name": "Diga Olá Para Minhas Amiguinhas!",
+      "desc": "Desencadeie 5 reações elementais com o Lança-Granadas dentro de 30 segundos.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9070
+    },
+    {
+      "id": 86074,
+      "name": "Mirar enquanto desliza é invenção",
+      "desc": "Derrote um total de 20 inimigos enquanto desliza.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9071
+    },
+    {
+      "id": 86075,
+      "name": "A Lança de Luz Sagrada Que Conecta a Todos",
+      "desc": "Obtenha o fuzil \"Prata Gelada de Shatanaya\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 9072
+    },
+    {
+      "id": 86076,
+      "name": "A Arte Marcial de Lançar Granadas!",
+      "desc": "Obtenha o Lança-granada \"Roda Solar de Balsag\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 9073
+    },
+    {
+      "id": 86077,
+      "name": "Aviso: Relâmpago Calamitoso Criado...",
+      "desc": "Obtenha o Fuzil \"Trovão de Ashamez\"",
+      "reward": 5,
+      "hidden": false,
+      "order": 9074
+    },
+    {
+      "id": 86078,
+      "name": "500 Gramas de Amor",
+      "desc": "Obtenha uma Granada Cristalina.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9075
+    }
+  ]
+}

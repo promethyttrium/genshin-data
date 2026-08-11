@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Toprak",
+    "weapon": "Yay",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 4764,
@@ -29,8 +31,10 @@
     {
       "id": "ripping_fang_fletching",
       "name": "Canavar Dişi Oku",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -49,8 +53,10 @@
     {
       "id": "inuzaka_allround_defense",
       "name": "Inuzaka Savunma Çemberi",
-      "desc": "? ? verir ve 1 <span style=\"color:#FFFFFFFF\">Generalin Savaş Sancağı</span> oluşturur.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#FFE699FF\">Toprak Hasarı</span> verir ve 1 <span style=\"color:#FFFFFFFF\">Generalin Savaş Sancağı</span> oluşturur.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -63,8 +69,10 @@
     {
       "id": "juuga_forward_unto_victory",
       "name": "Juuga: Zafere Doğru",
-      "desc": "? ? verir, 1 <span style=\"color:#FFFFFFFF\">Generalin Savaş Sancağı</span> oluşturur ve <span style=\"color:#FFFFFFFF\">Generalin Görkemi</span> çağırır.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#FFE699FF\">Toprak Hasarı</span> verir, 1 <span style=\"color:#FFFFFFFF\">Generalin Savaş Sancağı</span> oluşturur ve <span style=\"color:#FFFFFFFF\">Generalin Görkemi</span> çağırır.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1106,

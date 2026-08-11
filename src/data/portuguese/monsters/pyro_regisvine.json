@@ -38,7 +38,7 @@
       "_id": 113011,
       "id": "everflame_seed",
       "name": "Semente de Fogo Eterno",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -133,7 +133,6 @@
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Regisvine_Fire",
   "description": "Uma videira gigante que absorveu a chama flutuante e antiga dentro das Linhas Ley.\\nÉ inquieta, como se estivesse cheia de uma fúria sem fim.\\nPoetas, bardos e até alguns acadêmicos acreditam que os elementos também contêm emoções e desejos. Se isso for verdade, então só podemos imaginar que as emoções fazem com que as Árvores Queimadas queimem eternamente, contorcendo-se como alguém que deseja estar livre dos limites da terra...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

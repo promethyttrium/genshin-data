@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Staff_Rock_01",
   "description": "Toprak Tılsımı oluşturarak müttefiklerini koruyabilme yeteneğine sahip bir avcı eri.\\nFatui Avcı Erleri, seçkin Büyücülere ve Tefecilere kıyasla daha güçsüzdür.\\nBu avcı erleri, görevlerini tamamlarken hem insan hem de malzeme zayiatını azaltmak için takım çalışmasını tercih ederler.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

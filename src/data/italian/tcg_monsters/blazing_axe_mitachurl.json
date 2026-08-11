@@ -8,17 +8,21 @@
     "hp": 8,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Altre armi",
     "faction": [
-      null,
-      null
+      "Mostro",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "du_plama",
       "name": "Du Plama",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -37,8 +41,10 @@
     {
       "id": "upa",
       "name": "Upa",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 3 ?.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -51,8 +57,10 @@
     {
       "id": "oto_tiga",
       "name": "Oto Tiga",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 5 ?.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -72,7 +80,9 @@
       "id": "flowfire_edge",
       "name": "Lama delle fiamme",
       "desc": "(Passiva) All'inizio del duello ottiene <span style=\"color:#FFFFFFFF\">Lama delle fiamme</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

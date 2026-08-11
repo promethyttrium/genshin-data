@@ -13,12 +13,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Suku Hilichurl",
   "filename_icon": "UI_MonsterIcon_Shaman_Water_01",
   "description": "Hilichurl yang keriput dan sering komat-kamit, mereka melantunkan mantra Hydro.\\nHilichurl yang sangat berbakat menguasai elemen ini sering kali akan mencapai puncak kesaktiannya kala memasuki usia senja. Bagaimanakah masa lalu mereka hingga kini bisa memanggil air dan hujan seperti itu?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

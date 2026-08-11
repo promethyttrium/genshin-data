@@ -155,6 +155,11 @@
       "name": "Núi, Biển Và Bầu Trời"
     },
     {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Shashlik Snezhnaya"
+    },
+    {
       "_id": 4002,
       "id": "golden_fried_chicken",
       "name": "Gà Vàng Khổng Lồ"
@@ -204,6 +209,5 @@
   ],
   "source": [
     "Động Vật Rơi Ra"
-  ],
-  "rarity": 0
+  ]
 }

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Launcher_Hookwalker",
   "description": "Uma poderosa guerreira das Copas, cuja bravura foi reconhecida, a permitindo usar uma Coroa Sauriana.\\nUma guerreira que pode usar um gancho para estender seu alcance de ataque. Após juntar um mecanismo sofisticado, o canhão de mão que eles usam pode ser disparado usando o gancho. Para os Guerreiros de Coroa Sauriana dos Descendentes das Copas, acredita-se que refinar as habilidades é mais importante do que treinar a determinação.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

@@ -1,0 +1,12 @@
+{
+  "_id": 70800043,
+  "id": "cavern_of_melodic_tides",
+  "name": "Höhle des Gezeitenlieds",
+  "areaName": "Gipfel des Kältetods",
+  "areaId": 80300,
+  "description": "Sanft schlagen die Gezeiten im Rhythmus des Liedes, das die Sängerin summt, gegen die Klippen. An diesem weiten, einsamen Ort vermögen vielleicht nur die Wellen und das melancholische Echo ihr seltene Ruhe zu schenken.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 643,
+  "filename_image": "UI_Codex_Scenery_ZDRenYu3"
+}

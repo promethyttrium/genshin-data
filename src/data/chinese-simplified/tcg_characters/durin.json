@@ -1,0 +1,90 @@
+{
+  "_id": 1317,
+  "id": "durin",
+  "shareId": 608,
+  "name": "杜林",
+  "title": "不熄灭的火·杜林",
+  "desc": "启自笔下，翱于星间。",
+  "attributes": {
+    "hp": 10,
+    "card_type": "角色牌",
+    "energy": 2,
+    "element": "火元素",
+    "weapon": "单手剑",
+    "faction": [
+      "蒙德"
+    ],
+    "source": "在猫尾酒馆中邀请杜林进行对局，在友好对局难度中获得胜利后获取"
+  },
+  "skills": [
+    {
+      "id": "radiant_wingslash",
+      "name": "芒焰之翼斩",
+      "desc": "造成2点?。",
+      "skillTag": [
+        "普通攻击"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "火元素",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "无色元素",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "binary_form_convergence_and_division",
+      "name": "二元式·聚分熔炼",
+      "desc": "造成3点<span style=\"color:#FF9999FF\">火元素伤害</span>，自身附属<span style=\"color:#FFFFFFFF\">精质转变</span>。",
+      "skillTag": [
+        "元素战技"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "火元素",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "principle_of_purity_as_the_light_shifts",
+      "name": "白化法·如光流变",
+      "desc": "造成1点<span style=\"color:#FF9999FF\">火元素伤害</span>，生成<span style=\"color:#FFFFFFFF\">白化之是</span>。",
+      "skillTag": [
+        "元素爆发"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "火元素",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "充能",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "light_manifest_of_the_divine_calculus",
+      "name": "光灵遵神数显现",
+      "desc": "【被动】<span style=\"color:#FFFFFFFF\">自身使用「普通攻击」后：</span>将自身「元素爆发」切换为<span style=\"color:#FFFFFFFF\">黑度法·如星阴燃</span>。<br/><span style=\"color:#FFFFFFFF\">自身使用「元素战技」后：</span>将自身「元素爆发」切换为<span style=\"color:#FFFFFFFF\">白化法·如光流变</span>。",
+      "skillTag": [
+        "被动技能"
+      ],
+      "points": []
+    }
+  ]
+}

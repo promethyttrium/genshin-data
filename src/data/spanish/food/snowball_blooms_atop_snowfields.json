@@ -1,0 +1,65 @@
+{
+  "_id": 3706,
+  "id": "snowball_blooms_atop_snowfields",
+  "name": "Campohelado de flores bolaníveas",
+  "description": "Una ensalada a capas clásica. Cada ingrediente se prepara por separado, para luego colocarse en capas con una salsa a base de smetana entre cada una de ellas. Una vez terminada, la ensalada suele dejarse en reposo durante un tiempo para que los sabores puedan fusionarse. El plato final se parece a un conjunto de flores bolaníveas sobre un campo nevado, y de ahí procede su nombre.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 101280,
+      "id": "snowball_flower",
+      "name": "Flor bolanívea",
+      "amount": 3
+    },
+    {
+      "_id": 100084,
+      "id": "fish",
+      "name": "Pescado",
+      "amount": 2
+    },
+    {
+      "_id": 110009,
+      "id": "cheese",
+      "name": "Queso",
+      "amount": 1
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Huevo de pájaro",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Platos que mejoran el ATQ",
+  "results": {
+    "suspicious": {
+      "_id": 132013,
+      "name": "Campohelado de flores bolaníveas extraño",
+      "description": "Una ensalada a capas clásica. Tras haber estado expuesta durante mucho tiempo al aire libre, su forma se ha vuelto inestable. Para colmo, todos los ingredientes parecen haber emprendido una migración aleatoria que ha mezclado los sabores diferentes de cada capa... Aunque sigue siendo comestible, ha perdido la textura que debería tener una ensalada.",
+      "effect": "#Aumenta el ATQ de todos los miembros del equipo en 160 pts. durante 300 s. En modo multijugador, solo tendrá efecto en tus propios personajes."
+    },
+    "normal": {
+      "_id": 132014,
+      "name": "Campohelado de flores bolaníveas",
+      "description": "Una ensalada a capas clásica. Cada ingrediente se prepara por separado, para luego colocarse en capas con una salsa a base de smetana entre cada una de ellas. Una vez terminada, la ensalada suele dejarse en reposo durante un tiempo para que los sabores puedan fusionarse. El plato final se parece a un conjunto de flores bolaníveas sobre un campo nevado, y de ahí procede su nombre.",
+      "effect": "#Aumenta el ATQ de todos los miembros del equipo en 194 pts. durante 300 s. En modo multijugador, solo tendrá efecto en tus propios personajes."
+    },
+    "delicious": {
+      "_id": 132015,
+      "name": "Campohelado de flores bolaníveas delicioso",
+      "description": "Una ensalada a capas clásica. Las flores bolaníveas que adornan el borde parecen florecer al final de un páramo invernal, mientras la rica yema dorada hace de sol poniente que tiñe el horizonte con su luz. Admiras profundamente esta encantadora obra de arte culinaria, hasta que tu cuchara golpea el fondo de un plato vacío. Un momento... ¿cuándo te lo has terminado todo?",
+      "effect": "#Aumenta el ATQ de todos los miembros del equipo en 228 pts. durante 300 s. En modo multijugador, solo tendrá efecto en tus propios personajes."
+    },
+    "special": {
+      "_id": 132017,
+      "id": "lakeside_snow_swan",
+      "name": "Cisne níveo a la orilla",
+      "description": "La especialidad de Odette. Una pequeña porción de ensalada reposa en silencio en el centro del plato, como si estuviera iluminada por un foco en el centro del escenario. Cada capa meticulosa está dispuesta con la precisión de sus propios pasos de baile. Los ingredientes han sido calculados con tanto esmero que terminar la porción entera no afectará a tu peso mañana... Así que adelante, ¡disfrútala sin ningún remordimiento!",
+      "effect": "#Aumenta el ATQ de todos los miembros del equipo en 274 pts. durante 300 s. En modo Multijugador, solo tendrá efecto en tus propios personajes.",
+      "character": {
+        "id": "odette",
+        "name": "Odette"
+      }
+    }
+  }
+}

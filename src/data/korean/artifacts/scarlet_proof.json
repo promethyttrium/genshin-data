@@ -1,0 +1,39 @@
+{
+  "_id": 215047,
+  "id": "scarlet_proof",
+  "name": "핏빛 증표",
+  "min_rarity": 4,
+  "max_rarity": 5,
+  "two_pc": "공격력+18%",
+  "four_pc": "장착 캐릭터가 별 확산 반응 발동 후 10초 동안 치명타 확률이 16% 증가하고, 별 확산 반응 피해가 40% 증가한다",
+  "goblet": {
+    "_id": 47412,
+    "id": "chalice_of_your_blood_and_sorrow",
+    "name": "그대의 피눈물을 마시고",
+    "description": "선명한 빨간색 술병. 부디 그 안에 뭐가 담겨 있는지 모르길 바란다"
+  },
+  "plume": {
+    "_id": 47422,
+    "id": "glory_to_your_legacy",
+    "name": "그대의 공훈을 새기고",
+    "description": "선명한 빨간색 깃펜. 가장 젊은 피에게 물려준다"
+  },
+  "circlet": {
+    "_id": 47432,
+    "id": "testament_to_your_faith",
+    "name": "그대의 믿음을 기리리라",
+    "description": "선명한 빨간색 투구. 부디 누군가를 지켜줬기를"
+  },
+  "flower": {
+    "_id": 47442,
+    "id": "honor_to_your_devotion",
+    "name": "그대의 공헌에 감사하며",
+    "description": "선명한 빨간색 꽃장식. 불처럼 빛나는 영광을 상징한다"
+  },
+  "sands": {
+    "_id": 47452,
+    "id": "time_gifted_unto_you",
+    "name": "그대의 세월을 헤아리며",
+    "description": "선명한 빨간색 회중시계. 어떤 대화에 주어진 제한 시간이 기록되어 있다"
+  }
+}

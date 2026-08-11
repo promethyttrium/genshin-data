@@ -1,0 +1,39 @@
+{
+  "_id": 26310101,
+  "id": "chimeric_armored_beast",
+  "monsterId": 26310102,
+  "name": "갑각 키메라",
+  "specialNames": [
+    "갑각 키메라"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "돌연변이 마수",
+  "filename_icon": "UI_MonsterIcon_Chimera_BeetleLion",
+  "description": "동토에서 한때 성행했던 생물 연금술로 탄생한 키메라.\\n네 발 달린 맹수가 귀신풍뎅이를 닮은 갑각과 뿔을 지닌다면, 적의 군세를 돌파하는 훌륭한 돌격 병기가 될 수 있을지도 모른다.\\n본래 이처럼 하나의 기능만을 추구하도록 만들어진 키메라가 자연계에서 살아남는 경우는 극히 드물다. 대부분은 활용처를 잃은 뒤 자연의 섭리를 거스른 존재로서 소멸하기 마련이지만, 갑각 키메라는 예외인 듯하다.\\n오늘날 스네즈나야의 동토에서는 갑각 키메라들이 무리 지어 사냥하는 모습을 심심치 않게 볼 수 있다",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 7.315024,
+      "attack": 58.575787,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Vida Elemental",
   "filename_icon": "UI_MonsterIcon_Sylph_Electric_01",
   "description": "Um monstro nascido de elementos Electro altamente concentrados que podem flutuar no ar.\\nUm certo pesquisador uma vez estudou estas criaturas. Ele acreditava que elas deveriam ser algum tipo de Hypostasis. Afinal de contas, ambos tinham peculiaridades elementais e eram nascidos de áreas saturadas com energia elemental. A propósito, ele foi posteriormente investigado por corrupção acadêmica.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

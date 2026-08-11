@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人類勢力",
   "filename_icon": "UI_MonsterIcon_Human_Female_NoWeapon_Flamingo",
   "description": "來自山崖之上的勇士，在陡峭山峰巡遊的部族守衛者。\\n比起武器更信任自己雙手的部族戰士。最為人稱道的是其輕盈的身姿。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

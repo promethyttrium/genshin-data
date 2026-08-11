@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ธาตุลม",
+    "weapon": "อาวุธอื่น ๆ",
     "faction": [
-      null
+      "มอนสเตอร์"
     ],
     "source": "ได้รับหลังจากเอาชนะ Black Serpent Knight: Windcutter ระดับความยากฉันมิตร จากการดูเอลในร้านเหล้าที่ Prince ใน Cat's Tail"
   },
@@ -18,8 +20,10 @@
     {
       "id": "halfsword_technique",
       "name": "Half-Sword Technique",
-      "desc": "สร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "สร้าง? 2 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -38,8 +42,10 @@
     {
       "id": "rising_slash",
       "name": "Rising Slash",
-      "desc": "สร้าง? ? หน่วย จั่วการ์ด 1 ใบ",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#80FFD7FF\">ความเสียหายลม</span> 3 หน่วย จั่วการ์ด 1 ใบ",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -53,7 +59,9 @@
       "id": "guard_stance",
       "name": "Guard Stance",
       "desc": "<span style=\"color:#FFFFFFFF\">เตรียมสกิล</span>: <span style=\"color:#FFFFFFFF\">Reckless Stance</span> จากนั้น <span style=\"color:#FFFFFFFF\">เตรียมสกิล</span>: <span style=\"color:#FFFFFFFF\">Gale Pursuit</span>",
-      "skillTag": [],
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -73,7 +81,9 @@
       "id": "vanguard_momentum",
       "name": "Vanguard Momentum",
       "desc": "[ติดตัว] เมื่อฝ่ายเราทำให้เกิดปฏิกิริยากระจาย หรือศัตรูสูญเสียสถานะ <span style=\"color:#FFFFFFFF\">โล่</span>, <span style=\"color:#FFFFFFFF\">ต้านทานความเสียหาย</span> และสถานะต่อสู้ จะจั่วการ์ด 1 ใบ (เทิร์นละ 2 ครั้ง)",
-      "skillTag": [],
+      "skillTag": [
+        "สกิลติดตัว"
+      ],
       "points": []
     }
   ]

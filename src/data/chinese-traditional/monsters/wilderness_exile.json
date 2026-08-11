@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "深淵",
   "filename_icon": "UI_MonsterIcon_WildHunt",
   "description": "伴隨著漆黑的迷霧，徘徊在荒原凍土上的幽魂。他們的出現似乎預兆著更可怕的災難。\\n月下的人們懷揣著各自的願望踏上旅途，但並非所有願望都能得到注視。怨憎會、愛別離、求不得，因此而無法安息的靈魂，若是被深淵所汙染，或許便會化作幽魂，永遠迷失在狂獵的濃霧中。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

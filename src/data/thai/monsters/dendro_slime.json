@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "สิ่งมีชีวิตธาตุ",
   "filename_icon": "UI_MonsterIcon_Slime_Grass_02",
   "description": "Slime ที่เกิดการเปลี่ยนแปลงพื้นฐานทางนิเวศวิทยาเพราะอุดมไปด้วยธาตุไม้\\nจากมุมมองทางนิเวศวิทยาแล้ว ดูเหมือนว่ามันจะได้รับจุดอ่อนของธาตุไม้มาด้วย ซึ่งทันทีที่เจอเปลวไฟที่ลุกโชน มันก็จะติดไฟและลุกไหม้อย่างรุนแรง",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

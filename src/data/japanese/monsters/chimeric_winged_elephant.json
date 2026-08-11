@@ -1,0 +1,39 @@
+{
+  "_id": 26310301,
+  "id": "chimeric_winged_elephant",
+  "monsterId": 26310302,
+  "name": "合成獣・ウィングエレファント",
+  "specialNames": [
+    "合成獣・ウィングエレファント"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種の魔獣",
+  "filename_icon": "UI_MonsterIcon_Chimera_ElephantBird",
+  "description": "凍土でかつて盛んに行われていた生物錬金術の産物である、異種合成獣。\\n翼を持つ短足象ならば、おそらく地理的条件に制限されずに移動でき、より高いところにある果実を採るという需要も満たせるだろう。\\nたったそれだけの目的のために、製造者はこのような合成魔獣を作り出した。後に漆黒の獣潮に抗う戦争において、合成獣・ウィングエレファントは風の精と共に情報活動を行い、ツァーリ・ベールイ進軍時の軍令の円滑な伝達を確保した。",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.2,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 5.486268,
+      "attack": 54.069954,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

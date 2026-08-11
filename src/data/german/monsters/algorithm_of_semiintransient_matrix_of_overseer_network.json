@@ -36,7 +36,7 @@
       "_id": 113039,
       "id": "light_guiding_tetrahedron",
       "name": "Lichtgesteuerter Tetraeder",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -151,7 +151,6 @@
   "categoryText": "Automata",
   "filename_icon": "UI_MonsterIcon_Monolith_Starchild",
   "description": "Eine ewige Maschine, unter deren Kontrolle die zahlreichen im Sand zurückgelassenen Ruinenkonstrukte stehen. In ihr scheint immer noch der Wille des einsamen Herrschers zu weilen.\\nVielleicht lag es an den Anweisungen der Freunde aus seinen Träumen oder an seiner Gier nach der Macht der Heiligen des Himmels. Der König schuf diese rätselhafte Maschine, die nicht auf die Erde gehörte, und schuf damit das Königreich auf dem Sand.\\nAuf den Ruinen der Stadt der Tausend Säulen bricht sich auf den Kristallen noch immer das Licht des wunderbaren Anblicks des goldenen Paradieses, auch wenn sich schon lange niemand mehr an den Traum des Königs erinnert.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

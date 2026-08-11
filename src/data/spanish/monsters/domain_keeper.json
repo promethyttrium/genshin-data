@@ -25,19 +25,19 @@
       "_id": 112142,
       "id": "jeweled_flaming_hilt",
       "name": "Empuñadura flamígera engarzada",
-      "count": 0.2626
+      "count": 0.262
     },
     {
       "_id": 112141,
       "id": "fractured_flaming_hilt",
       "name": "Empuñadura flamígera fracturada",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112140,
       "id": "faded_flaming_hilt",
       "name": "Empuñadura flamígera apagada",
-      "count": 3.9394
+      "count": 3.939
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Autómatas",
   "filename_icon": "UI_MonsterIcon_Watcher_Normal_01",
   "description": "Una creación de una de las sombras que emanó del todopoderoso ser primordial, así como el guardián que protege el Salón de Columnas del cielo.\\nComo guardián del Salón de Columnas del Espacio, aunque se le concedió un “ojo”, solo puede alabar las “formas ideales” eternas y verdaderas, incapaz de percibir la complejidad del mundo fenoménico, por lo que no se le considera igual a los ángeles. Si esta contradicción intrínseca fue un diseño racional de su creadora o si aquella a la que sirve tampoco comprende la voluntad del ser primordial, es algo que ya no se puede saber.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

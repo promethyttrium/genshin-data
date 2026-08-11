@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_Hound_Kanis_Rock",
   "description": "Damarlarında uğursuz kan akan bu canavar, dünyanın sınırlarını aşındırabilir. \"Altın\", bu canavarları \"Alfisol\" olarak sınıflandırmıştır.\\nElementleri silip süpürmek için sınır tanımayan hiçliği takip ederler. Neyse ki bu canavarların sayısı oldukça azalmıştır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

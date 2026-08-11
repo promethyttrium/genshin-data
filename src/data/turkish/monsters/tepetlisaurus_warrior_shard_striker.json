@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Drillhead",
   "description": "Vadiden gelen ve yiğitliğiyle tanınan, bundan dolayı Sürüngen Tacına layık görülen güçlü bir savaşçı.\\nDüşen kayaların gücünden yararlanarak saldırır. Sürüngen Taçlı Savaşçılar, kayalarla ve kristallerle yatıp kalkan Yankıların Çocuklarının arasında bile kayalardan ve taşlardan en iyi anlayan ustalardır. Hatta bir ham cevherin sadece dışına kabaca bakarak cevherin içindeki saflığı ve tanecikleri görebildikleri söylenir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

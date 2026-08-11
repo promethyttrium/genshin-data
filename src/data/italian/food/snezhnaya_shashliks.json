@@ -1,0 +1,65 @@
+{
+  "_id": 3705,
+  "id": "snezhnaya_shashliks",
+  "name": "Saslyk alla snezhnayana",
+  "description": "Degli spiedini con grossi pezzi di carne grigliata. I pezzi di carne marinata, infilzati su spiedini di ferro, vengono grigliati sui carboni ardenti e girati finché non risultano abbrustoliti all'esterno e teneri all'interno. Che si tratti di un ritrovo in cortile, di una battuta di caccia o di un falò su uno spiazzo di neve appena sgombrato, questi spiedini si possono trovare ovunque sia possibile accendere un fuoco a Snezhnaya.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Pezzo di carne cruda",
+      "amount": 3
+    },
+    {
+      "_id": 100064,
+      "id": "fowl",
+      "name": "Pollame",
+      "amount": 3
+    },
+    {
+      "_id": 101281,
+      "id": "rimecurrant",
+      "name": "Ribes artico",
+      "amount": 1
+    },
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Barbabietola rossa",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Piatto dell'avventuriere",
+  "results": {
+    "suspicious": {
+      "_id": 132010,
+      "name": "Saslyk alla snezhnayana sospetti",
+      "description": "Degli spiedini con grossi pezzi di carne grigliata. La crosta annerita è così dura e amara che sembra di masticare un pezzo di carbone. A peggiorare le cose, l'interno stracotto è asciutto e coriaceo, come se i succhi fossero svaniti ancor prima di lasciare la griglia...",
+      "effect": "#Riduce di un 15% il consumo di vigore di tutti i membri del gruppo durante le arrampicate e gli scatti per 900 s. In modalità cooperativa, si applica solo ai tuoi personaggi."
+    },
+    "normal": {
+      "_id": 132011,
+      "name": "Saslyk alla snezhnayana",
+      "description": "Degli spiedini con grossi pezzi di carne grigliata. I pezzi di carne marinata, infilzati su spiedini di ferro, vengono grigliati sui carboni ardenti e girati finché non risultano abbrustoliti all'esterno e teneri all'interno. Che si tratti di un ritrovo in cortile, di una battuta di caccia o di un falò su uno spiazzo di neve appena sgombrato, questi spiedini si possono trovare ovunque sia possibile accendere un fuoco a Snezhnaya.",
+      "effect": "#Riduce di un 20% il consumo di vigore di tutti i membri del gruppo durante le arrampicate e gli scatti per 900 s. In modalità cooperativa, si applica solo ai tuoi personaggi."
+    },
+    "delicious": {
+      "_id": 132012,
+      "name": "Saslyk alla snezhnayana deliziosi",
+      "description": "Spiedini con grossi pezzi di carne grigliata. Morderne l'esterno croccante produce uno scricchiolio appagante, seguito da un'esplosione di succhi saporiti. Mentre lo spiedino arrostisce sul fuoco, la marinatura si intensifica con una nota di fondo corposa che esalta la fresca dolcezza della carne. La tua bocca luccica di grasso e succhi, ma la pura intensità del sapore rende le buone maniere a tavola l'ultimo dei tuoi pensieri...",
+      "effect": "#Riduce di un 25% il consumo di vigore di tutti i membri del gruppo durante le arrampicate e gli scatti per 900 s. In modalità cooperativa, si applica solo ai tuoi personaggi."
+    },
+    "special": {
+      "_id": 132016,
+      "id": "the_bullseye_roast",
+      "name": "Spiedino del cecchino",
+      "description": "La specialità di Alyosha. Ti porge un enorme spiedino accompagnato dagli eccitati latrati di Tugarin. Senti il grasso rovente sfrigolare, e la carne è tagliata in modo molto più spesso rispetto a uno spiedino normale. Il primo morso rivela un sapore ricco e selvatico, perfettamente domato dal fuoco vivo. È evidente che la padronanza della griglia del nostro cacciatore è impeccabile tanto quanto la sua mira!",
+      "effect": "#Riduce di un 25% il consumo di vigore di tutti i membri del gruppo durante le arrampicate e gli scatti per 1.500 s. In modalità cooperativa, si applica solo ai tuoi personaggi.",
+      "character": {
+        "id": "alyosha",
+        "name": "Alyosha"
+      }
+    }
+  }
+}

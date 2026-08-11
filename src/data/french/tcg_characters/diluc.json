@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 3,
+    "element": "Pyro",
+    "weapon": "Épée à deux mains",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3231,
@@ -29,8 +31,10 @@
     {
       "id": "tempered_sword",
       "name": "Épée trempée",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,8 +53,10 @@
     {
       "id": "searing_onslaught",
       "name": "Assaut brûlant",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?. Lors de la troisième utilisation de cette capacité à chaque manche, DGT +2.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts de <span style=\"color:#FF9999FF\">DGT Pyro</span>. Lors de la troisième utilisation de cette capacité à chaque manche, DGT +2.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "dawn",
       "name": "Aurore",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et accorde un <span style=\"color:#FFFFFFFF\">enchantement Pyro</span> au personnage.",
-      "skillTag": [],
+      "desc": "Inflige 8 pts de <span style=\"color:#FF9999FF\">DGT Pyro</span> et accorde un <span style=\"color:#FFFFFFFF\">enchantement Pyro</span> au personnage.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1103,

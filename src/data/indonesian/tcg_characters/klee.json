@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 3,
+    "element": "Pyro",
+    "weapon": "Catalyst",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3458,
@@ -29,8 +31,10 @@
     {
       "id": "kaboom",
       "name": "Kaboom!",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#FF9999FF\">Pyro DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,8 +53,10 @@
     {
       "id": "jumpy_dumpty",
       "name": "Jumpy Dumpty",
-      "desc": "Mengakibatkan ? poin ?.<br/>Karakter ini memperoleh status <span style=\"color:#FFFFFFFF\">Explosive Spark</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#FF9999FF\">Pyro DMG</span>.<br/>Karakter ini memperoleh status <span style=\"color:#FFFFFFFF\">Explosive Spark</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "sparks_n_splash",
       "name": "Sparks 'n' Splash",
-      "desc": "Mengakibatkan ? poin ? dan menciptakan <span style=\"color:#FFFFFFFF\">Sparks 'n' Splash</span> di area bermain lawan.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#FF9999FF\">Pyro DMG</span> dan menciptakan <span style=\"color:#FFFFFFFF\">Sparks 'n' Splash</span> di area bermain lawan.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1103,

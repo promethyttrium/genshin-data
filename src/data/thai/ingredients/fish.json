@@ -108,6 +108,11 @@
       "name": "Meat-Filled Rye Bun"
     },
     {
+      "_id": 2701,
+      "id": "stroganina",
+      "name": "Stroganina"
+    },
+    {
       "_id": 3012,
       "id": "sunshine_sprat",
       "name": "Sunshine Sprat"
@@ -198,6 +203,11 @@
       "name": "Magmic Ode"
     },
     {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "Snowball Blooms Atop Snowfields"
+    },
+    {
       "_id": 4105,
       "id": "eighttreasure_duck",
       "name": "Eight-Treasure Duck"
@@ -215,6 +225,5 @@
   ],
   "source": [
     "หาได้จากการจับปลา"
-  ],
-  "rarity": 0
+  ]
 }

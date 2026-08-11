@@ -13,7 +13,6 @@
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Effigy_Grass",
   "description": "代号为「扎因」的高级草元素生命。\\n依据学者的推想，无相元素具有「学习」的智慧，进而产生了利用「拟态」进行攻击的能力。但能够摄入信息、产生变化，就可能遭受信息的污染。在学习、变化的过程中，原本诞生的目的——尽管如今在学界中仍是未解之谜——或许也会被歪曲、变得无关紧要吧。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Фатуи",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Male_Fat_CannonShield",
   "description": "Элитный офицер опричников Фатуи, взрывающий вражеские ряды тяжёлой пушкой и защищающий товарищей мощным щитом.\\nЩит побелел в ожесточённых боях, а края его почернели от запёкшейся крови. Офицеры опричников знают, что пустые слова не вернут тех, кто неизбежно был принесён в жертву. Лишь бомбардировка, подобная граду, способна потрясти этот осквернённый Старый Свет.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

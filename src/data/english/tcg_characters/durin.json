@@ -1,0 +1,90 @@
+{
+  "_id": 1317,
+  "id": "durin",
+  "shareId": 608,
+  "name": "Durin",
+  "title": "\"The Undying Fire\" Durin",
+  "desc": "Born from ink, he soars among the stars.",
+  "attributes": {
+    "hp": 10,
+    "card_type": "Character Card",
+    "energy": 2,
+    "element": "Pyro",
+    "weapon": "Sword",
+    "faction": [
+      "Mondstadt"
+    ],
+    "source": "Reward for inviting Durin to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him"
+  },
+  "skills": [
+    {
+      "id": "radiant_wingslash",
+      "name": "Radiant Wingslash",
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Pyro",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Unaligned Element",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "binary_form_convergence_and_division",
+      "name": "Binary Form: Convergence and Division",
+      "desc": "Deals 3 <span style=\"color:#FF9999FF\">Pyro DMG</span>. This character gains <span style=\"color:#FFFFFFFF\">Essential Transmutation</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Pyro",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "principle_of_purity_as_the_light_shifts",
+      "name": "Principle of Purity: As the Light Shifts",
+      "desc": "Deals 1 <span style=\"color:#FF9999FF\">Pyro DMG</span> and create <span style=\"color:#FFFFFFFF\">Confirmation of Purity</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Pyro",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Energy",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "light_manifest_of_the_divine_calculus",
+      "name": "Light Manifest of the Divine Calculus",
+      "desc": "(Passive) <span style=\"color:#FFFFFFFF\">After this character uses a Normal Attack:</span> Switch their Elemental Burst to <span style=\"color:#FFFFFFFF\">Principle of Darkness: As the Stars Smolder</span>.<br/><span style=\"color:#FFFFFFFF\">After this character uses an Elemental Skill:</span> Switch their Elemental Burst to <span style=\"color:#FFFFFFFF\">Principle of Purity: As the Light Shifts</span>.",
+      "skillTag": [
+        "Passive Skill"
+      ],
+      "points": []
+    }
+  ]
+}

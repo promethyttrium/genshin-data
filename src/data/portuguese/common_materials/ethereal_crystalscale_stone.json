@@ -1,0 +1,24 @@
+{
+  "_id": 112148,
+  "id": "ethereal_crystalscale_stone",
+  "name": "Escama Cristalina Etérea",
+  "description": "Uma escama cristalina que outrora crescia no corpo de um feérico. Dizem que feéricos que possuem uma abundância dessas escamas dominam um poder muito maior. Todavia, ninguém pode dizer se essa mágica realmente se origina no interior de suas formas, meramente canalizadas para fora pelos pedaços de cristal, ou se os cristais em si fossem os receptáculos do poder.",
+  "source": [
+    "Dropado por Feérico de Carne Cristalina Nv.60+",
+    "Resgate de Poeira Estrelar: Sintetize após o resgate",
+    "Quantidade a ser fabricada: {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Cristal Etéreo",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

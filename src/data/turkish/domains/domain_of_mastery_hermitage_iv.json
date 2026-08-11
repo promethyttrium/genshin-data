@@ -1,0 +1,63 @@
+{
+  "_id": 4698,
+  "id": "domain_of_mastery_hermitage_iv",
+  "name": "Ustalık Zindanı: İnziva IV",
+  "entranceId": 2074,
+  "entranceName": "Kaybedilen Lütfun Yadigarları",
+  "description": "Bir zamanlar kadim Feyler tarafından inşa edilen, şimdi ise ucuz haydutlar tarafından yağmalanmış bir mabet.\nBurada barınan düşmanları yok edebilirsen, Yeteneklerini geliştirebilecek içgörü ve aydınlanmaya ulaşabilirsin.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 88,
+  "unlockRank": 45,
+  "disorder": [
+    "· When a character triggers Superconduct or Stellar-Conduct reactions, or deals Stellar-Conduct DMG, a shockwave will be unleashed at the target enemy's location, dealing Electro DMG."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_03",
+  "recommendedElements": [
+    "Buz",
+    "Elektrik"
+  ],
+  "daysOfWeek": [
+    "Salı",
+    "Cuma",
+    "Pazar"
+  ],
+  "domainType": "UI_ABYSSUS_AVATAR_PROUD",
+  "domainText": "Talent Level-Up Material",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Macera TP",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "2375"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Yoldaşlık TP",
+      "count": "20"
+    },
+    {
+      "_id": 104370,
+      "id": "philosophies_of_fortitude",
+      "name": "Metanet Felsefesi"
+    },
+    {
+      "_id": 104369,
+      "id": "guide_to_fortitude",
+      "name": "Metanet Rehberi"
+    },
+    {
+      "_id": 104368,
+      "id": "teachings_of_fortitude",
+      "name": "Metanet Öğretisi"
+    }
+  ],
+  "monsterList": []
+}

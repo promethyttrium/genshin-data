@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Sifflet en métal de guerrier",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Sifflet en bois de sentinelle",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humains",
   "filename_icon": "UI_MonsterIcon_Human_Male_Claymore_Hookwalker",
   "description": "Un guerrier des canopées et un gardien tribal qui patrouille dans les vallées forestières et les ruisseaux de montagne.\\nBeaucoup se demandent si les épées à deux mains sont trop lourdes pour être maniées par les coursiers des Êtres des canopées, mais c'est peut-être précisément parce que leurs tâches sont encore plus lourdes qu'une arme plus dissuasive est une nécessité.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

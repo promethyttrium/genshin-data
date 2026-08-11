@@ -1,0 +1,20 @@
+{
+  "_id": 332066,
+  "id": "feasting_in_a_shared_toast",
+  "shareId": 619,
+  "name": "Feasting in a Shared Toast",
+  "title": "Feasting in a Shared Toast",
+  "desc": "Always the last one, as usual! Grab a seat, we've been waiting ages for you!",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 0,
+    "card_type": "Event Card",
+    "energy": []
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">When the next Round begins:</span> Both sides draw 2 cards and gain 2 random Elemental Dice."
+    }
+  ]
+}

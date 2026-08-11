@@ -1,0 +1,20 @@
+{
+  "_id": 332066,
+  "id": "feasting_in_a_shared_toast",
+  "shareId": 619,
+  "name": "Anstoßen und feiern",
+  "title": "Anstoßen und feiern",
+  "desc": "„Endlich! Du bist immer der Langsamste. Setz dich doch endlich hin – wir warten schon ewig auf dich!“",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 0,
+    "card_type": "Ereigniskarte",
+    "energy": []
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Zu Beginn der nächsten Runde:</span> Beide Seiten ziehen 2 Karten und erhalten jeweils 2 zufällige Elementarwürfel."
+    }
+  ]
+}

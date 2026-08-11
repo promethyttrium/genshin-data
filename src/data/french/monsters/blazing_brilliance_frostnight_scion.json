@@ -13,7 +13,6 @@
   "categoryText": "Entités élémentaires",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Fire",
   "description": "Une élégante entité élémentaire qui possède une très grande affinité élémentaire. De longues années l'ont exposée à de fortes concentrations d'élément Pyro, ce qui lui a donné sa forme actuelle.\\nCes entités possèdent un tempérament extrêmement violent. Même aux confins glacés du monde, elles sont enveloppées d'une flamme inextinguible.\\nD'après les prières encore récitées dans le grand nord, elles naissent grâce à la bénédiction de la lune de givre. Ce sont des témoignages vivants de sa pureté et de sa lumière originelles. Peut-être est-ce pour cela qu'elles ne supportent pas que leur pureté soit entachée par les sept couleurs de la lumière céleste. Ou bien encore qu'elles rejettent toute forme de vie qui les approcherait d'un peu trop près.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

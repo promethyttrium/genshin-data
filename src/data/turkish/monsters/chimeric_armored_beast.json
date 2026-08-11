@@ -1,0 +1,39 @@
+{
+  "_id": 26310101,
+  "id": "chimeric_armored_beast",
+  "monsterId": 26310102,
+  "name": "Kimerik Zırhlı Canavar",
+  "specialNames": [
+    "Kimerik Zırhlı Canavar"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Efsanevi Canavarlar",
+  "filename_icon": "UI_MonsterIcon_Chimera_BeetleLion",
+  "description": "Bir zamanlar donmuş topraklarda yaygın olarak bulunan, biyosimya sonucu oluşmuş bir sapkın kimerik canavar.\\nDört ayaklı bir canavara Hayalet Böceğinkine benzer bir kabuk ve saldırı boynuzu verilirse düşman hattını birden yarıp geçebilecek bir güç haline gelebilir.\\nTeoride, tek bir işlev baz alınarak tasarlanan yapay canavarlar vahşi doğada nadiren hayatta kalır. Yaratıldıkları yeri veya amacı kaybettiklerinde, doğa kanunlarına karşı geldikleri için çoğu yok olurlar. Ancak Zırhlı Canavarın onlardan biri olmadığı çok açıktır.\\nGünümüzde Snezhnaya'nın donmuş topraklarında Zırhlı Canavarların sık sık sürüler halinde avlandığı görülebilir.",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 7.315024,
+      "attack": 58.575787,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

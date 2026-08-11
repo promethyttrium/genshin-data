@@ -13,7 +13,6 @@
   "categoryText": "Automatons",
   "filename_icon": "UI_MonsterIcon_Apparatus_Perpetual",
   "description": "A strange, alien machine.\\nThey say that it is a war machine left behind by a nation that has already been destroyed. Composed of several different parts, it can adapt to its combat environment and employ a variety of attacks.\\nThis machine, comprised of cubic shapes, is on some level very much like the elemental hypostases.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

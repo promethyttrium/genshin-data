@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Kartu Karakter",
     "energy": 3,
+    "element": "Electro",
+    "weapon": "Claymore",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3459,
@@ -29,8 +31,10 @@
     {
       "id": "oceanborne",
       "name": "Oceanborne",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,7 +54,9 @@
       "id": "tidecaller",
       "name": "Tidecaller",
       "desc": "Karakter ini memperoleh status <span style=\"color:#FFFFFFFF\">Tidecaller: Surf Embrace</span> dan <span style=\"color:#FFFFFFFF\">mempersiapkan Skill</span>: <span style=\"color:#FFFFFFFF\">Wavestrider</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "stormbreaker",
       "name": "Stormbreaker",
-      "desc": "Mengakibatkan ? poin ? dan menciptakan <span style=\"color:#FFFFFFFF\">Thunderbeast's Targe</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#FFACFFFF\">Electro DMG</span> dan menciptakan <span style=\"color:#FFFFFFFF\">Thunderbeast's Targe</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1104,

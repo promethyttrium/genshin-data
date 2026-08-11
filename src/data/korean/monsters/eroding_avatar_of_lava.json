@@ -25,19 +25,19 @@
       "_id": 112112,
       "id": "ignited_seeing_eye",
       "name": "불뭉치의 눈",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112111,
       "id": "ignited_seed_of_life",
       "name": "불뭉치의 씨앗",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112110,
       "id": "ignited_stone",
       "name": "불뭉치의 돌",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "돌연변이 마수",
   "filename_icon": "UI_MonsterIcon_Lava_Solid",
   "description": "지속적으로 열에너지를 흡수해야 활동 상태를 유지할 수 있는 기이한 마물.\\n고대 문명은 빛을 새긴 다양한 종류의 금빛 문양으로 열소의 흐름을 제어했고, 거대한 피조물과 웅장한 도시는 금빛 문양에서 탄생한 지혜로 작동했다. 고정 구조의 기계뿐만 아니라, 용암 형상이라는 마물도 사실은 이런 방법으로 창조된 불완전한 생명체라고 한다. 다만 신성한 산의 불이 꺼진 후 그들은 대부분 목적과 방향을 잃었다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

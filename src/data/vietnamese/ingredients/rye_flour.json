@@ -23,6 +23,11 @@
       "name": "Bánh Mì Đen Nhân Thịt"
     },
     {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "Bánh Mì Đen Glupov"
+    },
+    {
       "_id": 3607,
       "id": "lakkaberry_pie",
       "name": "Bánh Lakka"
@@ -35,6 +40,5 @@
   ],
   "source": [
     "Nhận khi gia công nấu nướng"
-  ],
-  "rarity": 0
+  ]
 }

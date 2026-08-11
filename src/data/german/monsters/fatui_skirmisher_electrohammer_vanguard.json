@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01",
   "description": "Ein kräftig gebauter Plänkler mit einem Kriegshammer, der mit Elektro-Kraft betrieben wird.\\nAls Teil der Armee der Fatui hat man schier unerschöpfliche Ressourcen: Sold, Ausrüstung und Nachschub.\\nDoch zur selben Zeit muss man sein Leben fernab seiner Heimat Kameraden anvertrauen, die man noch nie zuvor gesehen hat.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

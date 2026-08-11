@@ -14,7 +14,6 @@
   "filename_icon": "UI_MonsterIcon_WildHunt_Elite",
   "description": "Roh-roh yang berkeliaran di gurun beku ditemani kabut gelap. Kemunculan mereka seolah menjadi pertanda bencana yang lebih dahsyat.\\nDi bawah hamparan tanah beku Bentang Utara, terkubur para pejuang agung dari negeri kuno yang telah lama hilang. Meski jejak keberadaan mereka telah lama terhapus, jiwa-jiwa heroik para pejuang masih menjaga tanah air keemasan mereka. Kini, jiwa-jiwa ini telah bangkit karena kontaminasi Abyss. Siapa pun yang berani menyerbu akan dianggap sebagai mangsa mereka.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

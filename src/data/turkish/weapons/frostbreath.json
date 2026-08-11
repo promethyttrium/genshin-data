@@ -1,0 +1,328 @@
+{
+  "_id": 13435,
+  "id": "frostbreath",
+  "name": "Buznefes",
+  "description": "Dondurucu soğukla kaplı bir buz mızrağı. Uzak geçmişte Snezhnaya'ya hükmeden Çar Belyi'ye ait olduğu söylenir.",
+  "rarity": 4,
+  "type": {
+    "id": "Polearm",
+    "name": "Mızrak"
+  },
+  "domain": "Döküm Zindanı: Lanetli Saplantının Yara İzleri",
+  "passive": "Uzaklardan Bir Atış",
+  "bonus": "Buz veya Su ile ilgili bir Element Tepkimesi tetiklediğinde, 15sn boyunca kuşanan karakterin Saldırısı <span>%20/%25/%30/%35/%40</span> artar ve gruptaki diğer üyeler için <span>6/7,5/9/10,5/12</span> Element Enerjisi yenilenir. Bu etki her 16 saniyede bir tetiklenebilir.",
+  "specialProp": "Enerji Yüklemesi",
+  "stats": {
+    "primary": "Temel Saldırı",
+    "secondary": "Enerji Yüklemesi",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 42,
+        "secondary": 10
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 109,
+        "secondary": 17.7
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 135,
+        "secondary": 17.7
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 205,
+        "secondary": 25.8
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 231,
+        "secondary": 25.8
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 266,
+        "secondary": 29.8
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 292,
+        "secondary": 29.8
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 327,
+        "secondary": 33.8
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 353,
+        "secondary": 33.8
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 388,
+        "secondary": 37.9
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 414,
+        "secondary": 37.9
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 449,
+        "secondary": 41.9
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 475,
+        "secondary": 41.9
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 510,
+        "secondary": 45.9
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114089,
+          "id": "measured_pour_of_the_cellared_spiritual_nectar",
+          "name": "Tadımlık Yıllanmış Ruhani Nektar",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112152,
+          "id": "accreted_fragment",
+          "name": "Ufak Kitle",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Kimerik Çekirdek",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114090,
+          "id": "intoxication_of_the_cellared_spiritual_nectar",
+          "name": "Mest Eden Yıllanmış Ruhani Nektar",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112152,
+          "id": "accreted_fragment",
+          "name": "Ufak Kitle",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Kimerik Çekirdek",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114090,
+          "id": "intoxication_of_the_cellared_spiritual_nectar",
+          "name": "Mest Eden Yıllanmış Ruhani Nektar",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112153,
+          "id": "accreted_mass",
+          "name": "Öbeklenmiş Kitle",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Simbiyotik Kimerik Çekirdek",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114091,
+          "id": "exhilaration_of_the_cellared_spiritual_nectar",
+          "name": "Coşturan Yıllanmış Ruhani Nektar",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112153,
+          "id": "accreted_mass",
+          "name": "Öbeklenmiş Kitle",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Simbiyotik Kimerik Çekirdek",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114091,
+          "id": "exhilaration_of_the_cellared_spiritual_nectar",
+          "name": "Coşturan Yıllanmış Ruhani Nektar",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112154,
+          "id": "accreted_growth",
+          "name": "Büyümüş Kitle",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Asal Kimerik Düğüm",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114092,
+          "id": "revelry_of_the_cellared_spiritual_nectar",
+          "name": "Yıllanmış Ruhani Nektar Neşesi",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112154,
+          "id": "accreted_growth",
+          "name": "Büyümüş Kitle",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Asal Kimerik Düğüm",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "Uzaklardan Bir Atış",
+    "template": "Buz veya Su ile ilgili bir Element Tepkimesi tetiklediğinde, 15sn boyunca kuşanan karakterin Saldırısı <span style=\"color:#99FFFFFF\">{0}</span> artar ve gruptaki diğer üyeler için <span style=\"color:#99FFFFFF\">{1}</span> Element Enerjisi yenilenir. Bu etki her 16 saniyede bir tetiklenebilir.",
+    "params": [
+      [
+        "%20",
+        "6"
+      ],
+      [
+        "%25",
+        "7,5"
+      ],
+      [
+        "%30",
+        "9"
+      ],
+      [
+        "%35",
+        "10,5"
+      ],
+      [
+        "%40",
+        "12"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "Buz veya Su ile ilgili bir Element Tepkimesi tetiklediğinde, 15sn boyunca kuşanan karakterin Saldırısı <span>%20</span> artar ve gruptaki diğer üyeler için <span>6</span> Element Enerjisi yenilenir. Bu etki her 16 saniyede bir tetiklenebilir."
+    },
+    {
+      "refinement": 2,
+      "desc": "Buz veya Su ile ilgili bir Element Tepkimesi tetiklediğinde, 15sn boyunca kuşanan karakterin Saldırısı <span>%25</span> artar ve gruptaki diğer üyeler için <span>7,5</span> Element Enerjisi yenilenir. Bu etki her 16 saniyede bir tetiklenebilir."
+    },
+    {
+      "refinement": 3,
+      "desc": "Buz veya Su ile ilgili bir Element Tepkimesi tetiklediğinde, 15sn boyunca kuşanan karakterin Saldırısı <span>%30</span> artar ve gruptaki diğer üyeler için <span>9</span> Element Enerjisi yenilenir. Bu etki her 16 saniyede bir tetiklenebilir."
+    },
+    {
+      "refinement": 4,
+      "desc": "Buz veya Su ile ilgili bir Element Tepkimesi tetiklediğinde, 15sn boyunca kuşanan karakterin Saldırısı <span>%35</span> artar ve gruptaki diğer üyeler için <span>10,5</span> Element Enerjisi yenilenir. Bu etki her 16 saniyede bir tetiklenebilir."
+    },
+    {
+      "refinement": 5,
+      "desc": "Buz veya Su ile ilgili bir Element Tepkimesi tetiklediğinde, 15sn boyunca kuşanan karakterin Saldırısı <span>%40</span> artar ve gruptaki diğer üyeler için <span>12</span> Element Enerjisi yenilenir. Bu etki her 16 saniyede bir tetiklenebilir."
+    }
+  ]
+}

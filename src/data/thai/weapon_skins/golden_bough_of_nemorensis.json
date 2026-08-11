@@ -1,0 +1,21 @@
+{
+  "_id": 310003,
+  "id": "golden_bough_of_nemorensis",
+  "name": "กิ่งทองคำแห่ง Nemorensis",
+  "description": "อาวุธลวงตาอันเปล่งประกายที่ปรากฏขึ้นจากส่วนลึกของกระแสพลัง สามารถเปลี่ยนรูปร่างตามประเภทธาตุของผู้ถือครอง กล่าวกันว่าในยุคสมัยอันเก่าแก่ที่ไม่อาจหวนนึกถึง ทูตเบื้องบนเคยประทานดาบยาวเล่มนี้ให้แก่ผู้นำพิธีแห่ง Arcadia เพื่อชี้นำเมืองศักดิ์สิทธิ์ที่ได้รับพรจากสายลมนับพันให้คงอยู่สืบไป",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "ดาบ"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "ร่างมายาเจิดจรัส - นิรันดร์",
+    "priority": 2
+  },
+  "item_id": 341103,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphNemorensis_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphNemorensis"
+}

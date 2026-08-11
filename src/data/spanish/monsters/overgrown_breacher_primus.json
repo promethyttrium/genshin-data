@@ -13,7 +13,6 @@
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_02",
   "description": "Una extraña criatura que mora principalmente en el cuerpo de Elynas.\\nLos primeros Protofisuradores registrados en Fontaine aparecieron poco después de la catástrofe que ocurrió. Fue entonces también cuando se registraron los primeros casos de Protofisuradores atacando y protegiendo a los humanos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

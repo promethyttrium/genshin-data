@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Mimik_Fire",
   "description": "Un monstre végétal mimétique qui attaque sans prévenir et utilise l'élément Pyro pour chasser ses proies.\\nLe monde de Teyvat abrite des plantes imprégnées d'éléments. Ayant acquis une certaine intelligence, leurs « besoins nutritionnels » ont également fortement augmenté...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

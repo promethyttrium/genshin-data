@@ -23,6 +23,11 @@
       "name": "Bollo de centeno relleno"
     },
     {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "Pan de centeno de Glupov"
+    },
+    {
       "_id": 3607,
       "id": "lakkaberry_pie",
       "name": "Pastel de lakka"
@@ -35,6 +40,5 @@
   ],
   "source": [
     "Procesar comida"
-  ],
-  "rarity": 0
+  ]
 }

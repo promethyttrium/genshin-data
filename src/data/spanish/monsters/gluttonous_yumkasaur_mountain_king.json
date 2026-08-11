@@ -1,7 +1,7 @@
 {
   "_id": 26220301,
   "id": "gluttonous_yumkasaur_mountain_king",
-  "monsterId": 26220303,
+  "monsterId": 84622032,
   "name": "Rey Yumkasaurio Glotón",
   "specialNames": [
     "El colosal Rey de la Montaña"
@@ -15,7 +15,7 @@
   "description": "Un poderoso Yumkasaurio que ha sobrevivido hasta hoy desde una época muy antigua tras haber luchado en incontables batallas.\\nEste Rey de la Montaña se enfrentó a la marea oscura junto a los héroes de la antigüedad, razón por la cual goza de un gran estatus entre los Retoños Arbóreos. Entre estos últimos, hay quienes creen que, al igual que ocurre con el tirano de los Qucusaurios, este saurio simplemente tiene una complexión física especial. Sin embargo, tal vez sea tan simple como que ha vivido mucho tiempo y comido demasiado.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 7,
-  "budget": 1,
+  "budget": 2,
   "stats": {
     "resistance": {
       "physical": 0.1,

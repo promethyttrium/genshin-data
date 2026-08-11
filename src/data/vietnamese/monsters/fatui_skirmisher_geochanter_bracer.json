@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Staff_Rock_01",
   "description": "Binh sĩ đội tiên phong có thể điều khiển lá chắn có Nguyên Tố Nham để bảo vệ đồng đội.\\nKhác với người xử lý nợ và thuật sĩ Cicin ưu tú, thực lực và trang bị của đội tiên phong có phần yếu kém.\\nĐể hoàn thành nhiệm vụ và giảm tổn thất về vật tư cũng như con người, chiến thuật của đội tiên phong chú trọng đến sự hợp tác chiến đấu.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

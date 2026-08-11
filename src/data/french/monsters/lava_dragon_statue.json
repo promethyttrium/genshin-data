@@ -13,7 +13,6 @@
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_LavaTitan",
   "description": "Un monstre qui peut générer de la chaleur en continu pour se maintenir en activité.\\nSelon les légendes, les monstres au noyau de lave seraient issus d'une recherche orientée dans une différente direction que celle des mécanismes de source secrète qui les ont suivis. Cette recherche avait pour objectif de déterminer si le feu primal pouvait servir à la création d'une nouvelle race basée sur les humains. Celle-ci s'avéra être un échec. Lorsque les bandits venus du ciel arrivèrent avec leur trône, tout ce que le feu primal put faire naître était des coquilles vides dont la force vitale innée ne leur accordait pas plus de conscience qu'un caillou.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

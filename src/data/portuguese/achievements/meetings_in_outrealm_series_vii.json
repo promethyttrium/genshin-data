@@ -1,0 +1,80 @@
+{
+  "_id": 72,
+  "id": "meetings_in_outrealm_series_vii",
+  "name": "Encontros Fora Deste Mundo - Série VII",
+  "order": 37,
+  "achievements": [
+    {
+      "id": 86079,
+      "name": "A Queda do Ser",
+      "desc": "Derrote um Nobre da Noite Gelada no modo multijogador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9076
+    },
+    {
+      "id": 86080,
+      "name": "Vinte e Seis. Penetração!",
+      "desc": "Derrote um Cruzador Terrestre Superpesado: Fortaleza Mecânica no modo multijogador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9077
+    },
+    {
+      "id": 86081,
+      "name": "Então Não Diga!",
+      "desc": "Derrote um Lorde das Profundezas Desconhecidas: Sussurrador de Pesadelos no Modo Multijogador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9078
+    },
+    {
+      "id": 86082,
+      "name": "Rejeite a Falsidade, Revele a Verdade",
+      "desc": "Derrote o Dottore no Modo Multijogador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9079
+    },
+    {
+      "id": 86083,
+      "name": "O Que Você Protegeu, Afinal?",
+      "desc": "Derrote uma Lagartixa Radiante Lunar no Modo Multijogador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9080
+    },
+    {
+      "id": 86084,
+      "name": "\"Se Eu Afiar Minha Espada Reluzente...\"",
+      "desc": "Derrote o Guardião: Vigia Caída no Modo Multijogador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9081
+    },
+    {
+      "id": 86085,
+      "name": "Ignorância Independente",
+      "desc": "Derrote Il Dottore no Modo Multijogador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9082
+    },
+    {
+      "id": 86086,
+      "name": "Imortalidade Interrompida",
+      "desc": "Derrote uma Criação Derivada Imortal no Modo Multijogador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9083
+    },
+    {
+      "id": 86087,
+      "name": "Vitalidade Infinita",
+      "desc": "Derrote um Leão Alado Quimérico no Modo Multijogador.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9084
+    }
+  ]
+}

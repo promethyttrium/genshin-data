@@ -13,7 +13,6 @@
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_01",
   "description": "Una extraña criatura que mora principalmente en el cuerpo de Elynas.\\nLos Protofisuradores superan los límites del conocimiento actual, ya que, basándose en sus características biológicas, no pertenecen a ninguna especie animal, vegetal, fúngica o elemental. Por ello, los eruditos de Sumeru se hallan absortos en un acalorado debate sobre la verdadera naturaleza de estas criaturas. Tal fue el desconcierto que la Academia prohibió por completo el estudio de este tema. El motivo fue que, al igual que ocurre con la definición y esencia del lenguaje, los Protofisuradores escapan a la compresión actual del ser humano y, por tanto, no sería posible llegar a una conclusión precisa sobre ellos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

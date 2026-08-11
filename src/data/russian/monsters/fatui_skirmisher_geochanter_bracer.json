@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Фатуи",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Staff_Rock_01",
   "description": "Застрельщик Фатуи, способный генерировать барьер Гео для защиты своих товарищей. Застрельщики Фатуи, в отличие от элитных агентов и магов, обладают гораздо меньшей боевой силой. Для выполнения поставленных задач им приходится чаще полагаться на командную работу.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

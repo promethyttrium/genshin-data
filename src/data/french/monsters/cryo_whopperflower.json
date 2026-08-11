@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Mimik_Ice",
   "description": "Un monstre végétal mimétique qui apparaît de nulle part et utilise l'élément Cryo au combat.\\nCes plantes se cachent sous la surface et embusquent les proies sans méfiance. Avec le temps, une nutrition suffisante et le bon environnement, elles peuvent prendre racine et se transformer en Arbre congelé géant...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

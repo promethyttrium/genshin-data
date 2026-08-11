@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Fungus_Trois_Epsilon_Electric",
   "description": "Une spore dotée d'un certain degré d'intelligence qui possède une excellente capacité d'adaptation à son environnement.\\nLes recherches ont montré que le courant électrique interne de ce genre de créature fongique variait périodiquement. Si des études plus approfondies étaient menées, elles trouveraient sans doute un large éventail d'utilisations pratiques...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

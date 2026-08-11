@@ -61,7 +61,6 @@
   "categoryText": "Seres elementales",
   "filename_icon": "UI_MonsterIcon_Elemental_Wind_01",
   "description": "Una forma generada a partir de nódulos Anemo de alta calidad.\\nLa formación del Ojo de la Tormenta indica las obstrucciones de las líneas ley elementales de un lugar, ya que se condensa a partir de ellas. El Ojo de la Tormenta blande el poder de las tempestades y puede hacer volar por los aires a todos aquellos a su alrededor. Tal vez también simboliza las enfermedades del cielo y la tierra.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 2,
   "stats": {

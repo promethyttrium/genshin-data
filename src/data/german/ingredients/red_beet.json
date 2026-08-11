@@ -1,0 +1,26 @@
+{
+  "_id": 101278,
+  "id": "red_beet",
+  "name": "Rote Beete",
+  "description": "Eine krautartige Pflanze, die selbst im eisigen Permafrostboden gedeiht. Um in dieser rauen Umgebung zu überleben, hat sie eine dicke, fleischige Wurzel ausgebildet.",
+  "recipes": [
+    {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borschtsch"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Schaschlik"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Zuckersüße Eiskugeln"
+    }
+  ],
+  "source": [
+    "Empfohlen: In Snezhnaya zu finden"
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "_id": 25132601,
+  "id": "leomastiff_guard",
+  "monsterId": 25132601,
+  "name": "Löwenmastiff-Wächter",
+  "specialNames": [
+    "Löwenmastiff-Wächter"
+  ],
+  "investigation": {
+    "investigationId": 101,
+    "name": "Volkodlak-Raufbold",
+    "categoryType": "Elite",
+    "categoryText": "Elite",
+    "description": "Unter den Feen von Snezhnaya bildet das zahlreichste Volk eine Gruppe vielfältiger Wesen, die zusammen als „Volkodlak“ bekannt sind.\\nVielleicht wurden sie einzig und allein zu dem Zweck ins Leben gerufen, die Antwort darauf zu finden, was einen Menschen wirklich, also, na ja ... zum Menschen macht."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "rewardPreviewId": 15543,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 112154,
+      "id": "accreted_growth",
+      "name": "Abgelagerte Wucherung",
+      "count": 0.131
+    },
+    {
+      "_id": 112153,
+      "id": "accreted_mass",
+      "name": "Abgelagerte Masse",
+      "count": 0.525
+    },
+    {
+      "_id": 112152,
+      "id": "accreted_fragment",
+      "name": "Abgelagertes Fragment",
+      "count": 1.97
+    },
+    {
+      "_id": 112148,
+      "id": "ethereal_crystalscale_stone",
+      "name": "Ätherischer Kristallschuppenstein",
+      "count": 0.035
+    },
+    {
+      "_id": 112147,
+      "id": "ethereal_crystal",
+      "name": "Ätherischer Kristall",
+      "count": 0.14
+    },
+    {
+      "_id": 112146,
+      "id": "ethereal_glimmershard",
+      "name": "Ätherischer Glimmersplitter",
+      "count": 0.525
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Ausbilder",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "Verbannter",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Ausbilder",
+      "rarity": 3
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "Verbannter",
+      "rarity": 3
+    },
+    {
+      "_id": 400062,
+      "id": "traveling_doctor",
+      "name": "Wanderarzt",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystische Bestien",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Sheepdog",
+  "description": "Ein Volkodlak des Hundeklans. Für gewöhnlich ist er eher von der trägen Sorte.\\nUnter den vielen verschiedenen Klans der Volkodlaks genoß der der Hunde stets einen besseren Ruf. Sie sind treu, freundlich und meistens recht sanftmütig. Doch wenn jemand, dem sie Treue geschworen haben, oder ein vertrauter Freund in Gefahr gerät, sollten die, die sie als Gegner betrachten, sich warm anziehen.\\nEs heißt, in einem früheren Krieg habe ihr Klan bis zum Schluss für ihren König gegen Seine Majestät den Zaren Widerstand geleistet und gerade dadurch dessen Gunst erhalten.",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 35.3184,
+      "attack": 22.608,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

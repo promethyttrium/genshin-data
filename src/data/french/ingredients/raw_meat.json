@@ -103,6 +103,11 @@
       "name": "Fricassée de viande aux baies"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Bortsch"
+    },
+    {
       "_id": 3004,
       "id": "sticky_honey_roast",
       "name": "Délice de viande et carottes au miel"
@@ -248,6 +253,16 @@
       "name": "Travers de porc à la vapeur de bouleau"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Chachlyks snezhnayiens"
+    },
+    {
       "_id": 4001,
       "id": "moon_pie",
       "name": "Tourte de lune"
@@ -307,6 +322,5 @@
   ],
   "source": [
     "Butin d'animal"
-  ],
-  "rarity": 0
+  ]
 }

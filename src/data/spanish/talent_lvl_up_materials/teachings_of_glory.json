@@ -1,0 +1,18 @@
+{
+  "_id": 104371,
+  "id": "teachings_of_glory",
+  "name": "Enseñanzas de la gloria",
+  "description": "Material de mejora de talento.\\nLa gloria es la fe de la Nación del Hielo.\\nEs una llama enterrada profundamente bajo las tierras heladas. Quien logre trazar su forma obtendrá el valor necesario para hacer frente al frío gélido.",
+  "source": [
+    "Canjear en la Tienda de paquetes"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Dominio de la maestría: Contemplación conjunta IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Miércoles",
+    "Sábado",
+    "Domingo"
+  ]
+}

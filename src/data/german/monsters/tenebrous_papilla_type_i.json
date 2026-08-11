@@ -36,7 +36,7 @@
       "_id": 113067,
       "id": "ensnaring_gaze",
       "name": "Fesselnder Blick",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -171,7 +171,6 @@
   "categoryText": "Der Abgrund",
   "filename_icon": "UI_MonsterIcon_TheAbyss_Dendrite",
   "description": "Aus den finsteren Tiefen einer verzerrten und fremden Welt in diese Welt hinabgestiegen, hat dieses Monster ein pflanzenähnliches Aussehen.\\nDiese entstellten Kreaturen sind in der Lage, in die Tiefen der Erde vorzudringen und sich Erinnerungen zu eigen zu machen, die sie dann nachahmen und manipulieren können. Diese Erinnerungen an die Vergangenheit verwandeln sie dann in etwas Verdorbenes und Abgründiges, wodurch sie sich allmählich dem Kern des Weltenbaums nähern und so die Grundfesten seiner Existenz erschüttern können.\\nEs wird behauptet, dass diese dämonischen Bestien kontinuierlich die im Licht enthaltenen Farben verzerren und sie in pechschwarze Informationen transformieren. Die sich beim Öffnen in die Leere hineinragenden Äste scheinen dies nur zu bestätigen ...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

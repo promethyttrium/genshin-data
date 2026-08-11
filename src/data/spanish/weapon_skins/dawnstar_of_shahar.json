@@ -1,0 +1,21 @@
+{
+  "_id": 340003,
+  "id": "dawnstar_of_shahar",
+  "name": "Estrella del Alba de Shahar",
+  "description": "Un espléndido miraje de catalizador procedente de las profundidades de las líneas ley. Puede cambiar según el tipo elemental de su portador. Dicen que, en una época tan remota que ya nadie puede recordar, la primera emisaria otorgó su insignia sagrada a la suma sacerdotisa de Hiperbórea para concederle el derecho de guiar a la grandiosa ciudad dorada.",
+  "rarity": 4,
+  "type": {
+    "id": "Catalyst",
+    "name": "Catalizador"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "Ilusión resplandeciente: Eternidad",
+    "priority": 2
+  },
+  "item_id": 341403,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphShahar_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphShahar"
+}

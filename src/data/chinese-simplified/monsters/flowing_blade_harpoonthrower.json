@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "战士的铁哨",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "卫从的木哨",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人类势力",
   "filename_icon": "UI_MonsterIcon_Human_Fat_NoWeapon_Mosasaurus",
   "description": "来自流泉之源的勇士，在临水流域巡游的部族守卫者。\\n手中常握着长叉的勇士，他们在渔猎中习得的本领不容小觑。据说，从前的部族人就是凭借这手技巧，在海面上追逐鳍鳞坚韧的巨兽。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

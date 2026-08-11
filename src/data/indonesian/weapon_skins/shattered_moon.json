@@ -1,0 +1,21 @@
+{
+  "_id": 330001,
+  "id": "shattered_moon",
+  "name": "Shattered Moon",
+  "description": "Tombak ilusi yang muncul dari kedalaman Ley Line. Tombak ini dapat berubah-ubah sesuai dengan jenis elemen pemiliknya. Konon menurut legenda, senjata ini dimiliki oleh seorang pendosa pemburu bulan yang bernama \"Barnstokkr\" dari sebuah bangsa kuno.",
+  "rarity": 4,
+  "type": {
+    "id": "Polearm",
+    "name": "Polearm"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "Radiant Metamorphosis: Transcendence",
+    "priority": 1
+  },
+  "item_id": 341301,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphSpinifer_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphSpinifer"
+}

@@ -19,6 +19,11 @@
     "Крио",
     "Гидро"
   ],
+  "daysOfWeek": [
+    "Среда",
+    "Суббота",
+    "Воскресенье"
+  ],
   "domainType": "UI_ABYSSUS_AVATAR_PROUD",
   "domainText": "Talent Level-Up Material",
   "rewardPreview": [

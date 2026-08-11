@@ -1,0 +1,90 @@
+{
+  "_id": 1516,
+  "id": "jahoda",
+  "shareId": 609,
+  "name": "Jahoda",
+  "title": "Jahoda, Ombra tessivento",
+  "desc": "Un pensiero persistente porta alla luce persino i segreti più reconditi.",
+  "attributes": {
+    "hp": 10,
+    "card_type": "Carta personaggio",
+    "energy": 2,
+    "element": "Anemo",
+    "weapon": "Arco",
+    "faction": [
+      "Nod-Krai"
+    ],
+    "source": "Ricompensa ottenuta sfidando Jahoda a duello alla Coda di Gatto e battendola in un duello amichevole"
+  },
+  "skills": [
+    {
+      "id": "strike_while_the_arrows_hot",
+      "name": "Fai breccia scagliando una freccia",
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anemo",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Elemento indefinito",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "savvy_strategy_splitting_the_spoils",
+      "name": "Strategia ingegnosa: Condivisione del bottino",
+      "desc": "Infliggi 2 <span style=\"color:#80FFD7FF\">DAN da Anemo</span>, crea 1 accumulo di <span style=\"color:#FFFFFFFF\">Cambio rapido</span> e passa al tuo personaggio successivo. Se non hai nessuna <span style=\"color:#FFFFFFFF\">Fiaschetta preziosa Purr purr</span> di alcun elemento nella tua mano, crea 1 <span style=\"color:#FFFFFFFF\">Fiaschetta preziosa Purr purr</span> nella tua mano. Altrimenti, conferisce <span style=\"color:#FFFFFFFF\">Riduzione del costo</span> a ogni <span style=\"color:#FFFFFFFF\">Fiaschetta preziosa Purr purr</span> nella tua mano.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anemo",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "hidden_aces_seven_tools_of_the_hunter",
+      "name": "Assi segreti: Sette strumenti della cacciatrice",
+      "desc": "Infligge 3 <span style=\"color:#80FFD7FF\">DAN da Anemo</span> e crea <span style=\"color:#FFFFFFFF\">Robot di assistenza coordinata purrsonali</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anemo",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Energia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "moonsign_benediction_rooftop_dash",
+      "name": "Benedizione del Presagio lunare: Scatto sui tetti",
+      "desc": "(Passiva) All'inizio del duello, crea 1 <span style=\"color:#FFFFFFFF\">Fiaschetta preziosa Purr purr</span> nella tua mano.<br/>Dopo aver innescato una reazione lunare o una reazione di Turbinio, applica <span style=\"color:#FFFFFFFF\">Riduzione del costo</span> a tutte le carte <span style=\"color:#FFFFFFFF\">Fiaschetta preziosa Purr purr</span> nella tua mano (due volte per turno).",
+      "skillTag": [
+        "Abilità passiva"
+      ],
+      "points": []
+    }
+  ]
+}

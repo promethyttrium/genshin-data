@@ -1,0 +1,40 @@
+{
+  "_id": 25133701,
+  "id": "voywolf_hunter",
+  "monsterId": 25133702,
+  "name": "嗥狼追猎者",
+  "specialNames": [
+    "嗥狼追猎者"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "异种魔兽",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Greyhound",
+  "description": "由于继承更多的血脉中的伟力，变得极为强大的兽怪。\\n其曾经的氏族曾一度昌盛到能够在兽之王的麾下独立成军，而在白沙皇作为苍星王廷的主人统一冻土全境之后，在战争中没有太大损失的氏族却不被信任，逐渐衰落，于冰之女皇登临王座时期离开了至冬权力的中心。如今群狼的兽怪大多寓居于雪原与山林之中。",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 18.287561,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

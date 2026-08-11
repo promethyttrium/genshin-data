@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Sword",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3959,
@@ -29,8 +31,10 @@
     {
       "id": "garyuu_bladework",
       "name": "Garyuu Bladework",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "chihayaburu",
       "name": "Chihayaburu",
-      "desc": "Deals ? ?, attaches <span style=\"color:#FFFFFFFF\">Midare Ranzan</span> to this character. <br/>If this skill triggers Swirl, <span style=\"color:#FFFFFFFF\">Midare Ranzan</span> is converted to the Swirled Element.<br/><span style=\"color:#FFFFFFFF\">After the Skill DMG is finalized:</span> Your team switches to the next character.",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#80FFD7FF\">Anemo DMG</span>, attaches <span style=\"color:#FFFFFFFF\">Midare Ranzan</span> to this character. <br/>If this skill triggers Swirl, <span style=\"color:#FFFFFFFF\">Midare Ranzan</span> is converted to the Swirled Element.<br/><span style=\"color:#FFFFFFFF\">After the Skill DMG is finalized:</span> Your team switches to the next character.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "kazuha_slash",
       "name": "Kazuha Slash",
-      "desc": "Deals ? ? and summons <span style=\"color:#FFFFFFFF\">Autumn Whirlwind</span>.",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#80FFD7FF\">Anemo DMG</span> and summons <span style=\"color:#FFFFFFFF\">Autumn Whirlwind</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1105,

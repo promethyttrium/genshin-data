@@ -1,0 +1,130 @@
+{
+  "_id": 70,
+  "id": "land_of_surging_shadows",
+  "name": "浮涌的阴影之地",
+  "order": 73,
+  "achievements": [
+    {
+      "id": 86059,
+      "name": "冻原的修复师",
+      "desc": "在至冬冻土清剿一个大型影域。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9056
+    },
+    {
+      "id": 86062,
+      "name": "我们影域里见",
+      "desc": "完成一次「绝境攻炼」的挑战。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9059
+    },
+    {
+      "id": 86063,
+      "name": "「影域老司机」",
+      "desc": "将「影域解析等级」提升至满级。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9060
+    },
+    {
+      "id": 86066,
+      "name": "绝境的击坠王",
+      "desc": "获得9枚攻炼武勋。",
+      "reward": 20,
+      "hidden": false,
+      "order": 9063
+    },
+    {
+      "id": 86067,
+      "name": "冻原的枪匠·其一",
+      "desc": "为1把枪械安装1个配件。",
+      "reward": 5,
+      "hidden": false,
+      "order": 9064
+    },
+    {
+      "id": 86068,
+      "name": "冻原的枪匠·其二",
+      "desc": "为1把枪械安装2个配件。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9065,
+      "preStage": 86067
+    },
+    {
+      "id": 86069,
+      "name": "冻原的枪匠·其三",
+      "desc": "为1把枪械安装4个配件。",
+      "reward": 20,
+      "hidden": false,
+      "order": 9066,
+      "preStage": 86068
+    },
+    {
+      "id": 86071,
+      "name": "搭枪卡",
+      "desc": "为「莎塔娜娅的苍银」、「瓦尔萨格的日轮」与「阿夏梅兹的千光」均安装4个配件。",
+      "reward": 20,
+      "hidden": false,
+      "order": 9068
+    },
+    {
+      "id": 86072,
+      "name": "午时已…",
+      "desc": "在30秒内连续命中敌人弱点部位5次。",
+      "reward": 5,
+      "hidden": false,
+      "order": 9069
+    },
+    {
+      "id": 86073,
+      "name": "跟我的伙计们打个招呼吧！",
+      "desc": "在30秒内使用榴弹发射器触发5次元素反应。",
+      "reward": 5,
+      "hidden": false,
+      "order": 9070
+    },
+    {
+      "id": 86074,
+      "name": "滑铲瞄准根本就是天方夜谭",
+      "desc": "在滑铲状态下累计击败20名敌人。",
+      "reward": 5,
+      "hidden": false,
+      "order": 9071
+    },
+    {
+      "id": 86075,
+      "name": "链接着所有人的神圣光矛",
+      "desc": "获得突击步枪：「莎塔娜娅的苍银」。",
+      "reward": 5,
+      "hidden": false,
+      "order": 9072
+    },
+    {
+      "id": 86076,
+      "name": "百般武艺，此乃榴弹发射器！",
+      "desc": "获得榴弹发射器：「瓦尔萨格的日轮」。",
+      "reward": 5,
+      "hidden": false,
+      "order": 9073
+    },
+    {
+      "id": 86077,
+      "name": "警告，闪电灾厄正在生成…",
+      "desc": "获得突击步枪：「阿夏梅兹的千光」",
+      "reward": 5,
+      "hidden": false,
+      "order": 9074
+    },
+    {
+      "id": 86078,
+      "name": "500克的爱",
+      "desc": "获得榴晶。",
+      "reward": 5,
+      "hidden": false,
+      "order": 9075
+    }
+  ]
+}

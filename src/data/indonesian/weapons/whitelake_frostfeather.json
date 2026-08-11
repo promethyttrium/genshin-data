@@ -1,0 +1,333 @@
+{
+  "_id": 11520,
+  "id": "whitelake_frostfeather",
+  "name": "Whitelake Frostfeather",
+  "description": "Pedang panjang seringan bulu angsa putih yang selalu terjaga kemurniannya tanpa noda.",
+  "rarity": 5,
+  "type": {
+    "id": "Sword",
+    "name": "Sword"
+  },
+  "domain": "Domain of Forgery: Scars of Cursed Obsession",
+  "passive": "Snow Swan's Finale",
+  "bonus": "Saat Elemental Skill karakter yang mengenakan mengenai musuh, mendapatkan \"Lake-Hued Lament\": ATK +<span>8%/10%/12%/14%/16%</span> selama 8 detik, dapat ditumpuk sampai 3 lapis dan terpicu sekali setiap 0,1 detik, durasi setiap lapisnya dihitung secara terpisah. Saat memiliki 3 lapis, CRIT DMG dari reaksi Stellar Glimmer yang diakibatkan Karakter yang mengenakan +<span>50%/65%/80%/95%/110%</span>, dan saat memicu reaksi Stellar Glimmer atau mengakibatkan DMG reaksi Stellar Glimmer, Karakter yang mengenakan juga akan memulihkan <span>4/4,5/5/5,5/6</span> poin Energy. Efek pemulihan Energy di atas dapat terpicu sekali setiap 3,5 detik. Efek di atas tetap dapat dipicu saat karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+  "specialProp": "CRIT Rate",
+  "stats": {
+    "primary": "Base ATK",
+    "secondary": "CRIT Rate",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 48,
+        "secondary": 4.8
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 133,
+        "secondary": 8.5
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 164,
+        "secondary": 8.5
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 261,
+        "secondary": 12.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 292,
+        "secondary": 12.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 341,
+        "secondary": 14.3
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 373,
+        "secondary": 14.3
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 423,
+        "secondary": 16.2
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 455,
+        "secondary": 16.2
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 506,
+        "secondary": 18.2
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 537,
+        "secondary": 18.2
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 590,
+        "secondary": 20.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 621,
+        "secondary": 20.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 674,
+        "secondary": 22.1
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 10000,
+      "materials": [
+        {
+          "_id": 114089,
+          "id": "measured_pour_of_the_cellared_spiritual_nectar",
+          "name": "Measured Pour of the Cellared Spiritual Nectar",
+          "amount": 5,
+          "rarity": 2
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "Hollow Root of Life",
+          "amount": 5,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Chimeric Core",
+          "amount": 3,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114090,
+          "id": "intoxication_of_the_cellared_spiritual_nectar",
+          "name": "Intoxication of the Cellared Spiritual Nectar",
+          "amount": 5,
+          "rarity": 3
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "Hollow Root of Life",
+          "amount": 18,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Chimeric Core",
+          "amount": 12,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114090,
+          "id": "intoxication_of_the_cellared_spiritual_nectar",
+          "name": "Intoxication of the Cellared Spiritual Nectar",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "Sprout Node of Life",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiotic Chimeric Nucleus",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114091,
+          "id": "exhilaration_of_the_cellared_spiritual_nectar",
+          "name": "Exhilaration of the Cellared Spiritual Nectar",
+          "amount": 5,
+          "rarity": 4
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "Sprout Node of Life",
+          "amount": 18,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiotic Chimeric Nucleus",
+          "amount": 14,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 55000,
+      "materials": [
+        {
+          "_id": 114091,
+          "id": "exhilaration_of_the_cellared_spiritual_nectar",
+          "name": "Exhilaration of the Cellared Spiritual Nectar",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "Coiled Core of Life",
+          "amount": 14,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Prime Chimeric Nexus",
+          "amount": 9,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 65000,
+      "materials": [
+        {
+          "_id": 114092,
+          "id": "revelry_of_the_cellared_spiritual_nectar",
+          "name": "Revelry of the Cellared Spiritual Nectar",
+          "amount": 6,
+          "rarity": 5
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "Coiled Core of Life",
+          "amount": 27,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Prime Chimeric Nexus",
+          "amount": 18,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "Snow Swan's Finale",
+    "template": "Saat Elemental Skill karakter yang mengenakan mengenai musuh, mendapatkan \"Lake-Hued Lament\": ATK +<span style=\"color:#99FFFFFF\">{0}</span> selama 8 detik, dapat ditumpuk sampai 3 lapis dan terpicu sekali setiap 0,1 detik, durasi setiap lapisnya dihitung secara terpisah. Saat memiliki 3 lapis, CRIT DMG dari reaksi Stellar Glimmer yang diakibatkan Karakter yang mengenakan +<span style=\"color:#99FFFFFF\">{1}</span>, dan saat memicu reaksi Stellar Glimmer atau mengakibatkan DMG reaksi Stellar Glimmer, Karakter yang mengenakan juga akan memulihkan <span style=\"color:#99FFFFFF\">{2}</span> poin Energy. Efek pemulihan Energy di atas dapat terpicu sekali setiap 3,5 detik. Efek di atas tetap dapat dipicu saat karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+    "params": [
+      [
+        "8%",
+        "50%",
+        "4"
+      ],
+      [
+        "10%",
+        "65%",
+        "4,5"
+      ],
+      [
+        "12%",
+        "80%",
+        "5"
+      ],
+      [
+        "14%",
+        "95%",
+        "5,5"
+      ],
+      [
+        "16%",
+        "110%",
+        "6"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "Saat Elemental Skill karakter yang mengenakan mengenai musuh, mendapatkan \"Lake-Hued Lament\": ATK +<span>8%</span> selama 8 detik, dapat ditumpuk sampai 3 lapis dan terpicu sekali setiap 0,1 detik, durasi setiap lapisnya dihitung secara terpisah. Saat memiliki 3 lapis, CRIT DMG dari reaksi Stellar Glimmer yang diakibatkan Karakter yang mengenakan +<span>50%</span>, dan saat memicu reaksi Stellar Glimmer atau mengakibatkan DMG reaksi Stellar Glimmer, Karakter yang mengenakan juga akan memulihkan <span>4</span> poin Energy. Efek pemulihan Energy di atas dapat terpicu sekali setiap 3,5 detik. Efek di atas tetap dapat dipicu saat karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
+    },
+    {
+      "refinement": 2,
+      "desc": "Saat Elemental Skill karakter yang mengenakan mengenai musuh, mendapatkan efek \"Lake-Hued Lament\": ATK +<span>10%</span> selama 8 detik. Efek ini dapat ditumpuk sampai 3 lapis dan dapat terpicu sekali setiap 0,1 detik, durasi setiap lapisnya dihitung secara terpisah. Saat memiliki 3 lapis, CRIT DMG dari reaksi Stellar Glimmer yang diakibatkan Karakter yang mengenakan +<span>65%</span>, dan saat memicu reaksi Stellar Glimmer atau mengakibatkan DMG reaksi Stellar Glimmer, Karakter yang mengenakan juga akan memulihkan <span>4,5</span> poin Energy untuk Karakter yang mengenakan. Efek pemulihan Energy di atas dapat terpicu sekali setiap 3,5 detik. Efek di atas tetap dapat dipicu saat karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
+    },
+    {
+      "refinement": 3,
+      "desc": "Saat Elemental Skill karakter yang mengenakan mengenai musuh, mendapatkan \"Lake-Hued Lament\": ATK +<span>12%</span> selama 8 detik, dapat ditumpuk sampai 3 lapis dan terpicu sekali setiap 0,1 detik, durasi setiap lapisnya dihitung secara terpisah. Saat memiliki 3 lapis, CRIT DMG dari reaksi Stellar Glimmer yang diakibatkan Karakter yang mengenakan +<span>80%</span>, dan saat memicu reaksi Stellar Glimmer atau mengakibatkan DMG reaksi Stellar Glimmer, Karakter yang mengenakan juga akan memulihkan <span>5</span> poin Energy. Efek pemulihan Energy di atas dapat terpicu sekali setiap 3,5 detik. Efek di atas tetap dapat dipicu saat karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
+    },
+    {
+      "refinement": 4,
+      "desc": "Saat Elemental Skill karakter yang mengenakan mengenai musuh, mendapatkan \"Lake-Hued Lament\": ATK +<span>14%</span> selama 8 detik, dapat ditumpuk sampai 3 lapis dan terpicu sekali setiap 0,1 detik, durasi setiap lapisnya dihitung secara terpisah. Saat memiliki 3 lapis, CRIT DMG dari reaksi Stellar Glimmer yang diakibatkan Karakter yang mengenakan +<span>95%</span>, dan saat memicu reaksi Stellar Glimmer atau mengakibatkan DMG reaksi Stellar Glimmer, Karakter yang mengenakan juga akan memulihkan <span>5,5</span> poin Energy. Efek pemulihan Energy di atas dapat terpicu sekali setiap 3,5 detik. Efek di atas tetap dapat dipicu saat karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
+    },
+    {
+      "refinement": 5,
+      "desc": "Saat Elemental Skill karakter yang mengenakan mengenai musuh, mendapatkan \"Lake-Hued Lament\": ATK +<span>16%</span> selama 8 detik, dapat ditumpuk sampai 3 lapis dan terpicu sekali setiap 0,1 detik, durasi setiap lapisnya dihitung secara terpisah. Saat memiliki 3 lapis, CRIT DMG dari reaksi Stellar Glimmer yang diakibatkan Karakter yang mengenakan +<span>110%</span>, dan saat memicu reaksi Stellar Glimmer atau mengakibatkan DMG reaksi Stellar Glimmer, Karakter yang mengenakan juga akan memulihkan <span>6</span> poin Energy. Efek pemulihan Energy di atas dapat terpicu sekali setiap 3,5 detik. Efek di atas tetap dapat dipicu saat karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
+    }
+  ]
+}

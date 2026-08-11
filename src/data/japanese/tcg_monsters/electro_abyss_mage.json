@@ -8,16 +8,20 @@
     "hp": 4,
     "card_type": "キャラカード",
     "energy": 3,
+    "element": "雷元素",
+    "weapon": "他の武器",
     "faction": [
-      null
+      "魔物"
     ]
   },
   "skills": [
     {
       "id": "thunderbolt",
       "name": "雷弾",
-      "desc": "?を?与える。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#FFACFFFF\">雷元素ダメージ</span>を1与える。",
+      "skillTag": [
+        "通常攻撃"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -37,7 +41,9 @@
       "id": "lingering_light",
       "name": "光纏の祭法",
       "desc": "<span style=\"color:#FFFFFFFF\">雷纏の輪</span>を召喚する。",
-      "skillTag": [],
+      "skillTag": [
+        "元素スキル"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,8 +56,10 @@
     {
       "id": "rite_of_rolling_thunder",
       "name": "転雷疾駆の儀",
-      "desc": "?を?与え、<span style=\"color:#FFFFFFFF\">雷纏の輪</span>を召喚する。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#FFACFFFF\">雷元素ダメージ</span>を4与え、<span style=\"color:#FFFFFFFF\">雷纏の輪</span>を召喚する。",
+      "skillTag": [
+        "元素爆発"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -71,7 +79,9 @@
       "id": "electro_ward",
       "name": "雷元素バリア",
       "desc": "【固有】戦闘開始時、<span style=\"color:#FFFFFFFF\">雷元素バリア</span>が付与される。",
-      "skillTag": [],
+      "skillTag": [
+        "固有スキル"
+      ],
       "points": []
     }
   ]

@@ -63,6 +63,11 @@
       "name": "타코"
     },
     {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "설원 위 눈덩이꽃"
+    },
+    {
       "_id": 4205,
       "id": "super_magnificent_pizza",
       "name": "슈퍼 로열 피자"
@@ -95,6 +100,5 @@
   ],
   "source": [
     "요리 가공 획득"
-  ],
-  "rarity": 0
+  ]
 }

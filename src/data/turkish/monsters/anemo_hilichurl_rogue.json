@@ -25,19 +25,19 @@
       "_id": 112079,
       "id": "wanderers_blooming_flower",
       "name": "Göçebenin Çiçeği",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112078,
       "id": "treasured_flower",
       "name": "Değerli Çiçek",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112077,
       "id": "a_flower_yet_to_bloom",
       "name": "Henüz Açmamış Çiçek",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Dağ Yabanileri",
   "filename_icon": "UI_MonsterIcon_Hilistray_Wind",
   "description": "Herhangi bir dağ yabanisi kabilesine ait olmayan, kendi türüne ait kaderin kökenlerini ve uzun zamandır kayıp olan ihtişamını arayan dağ yabanisi gezginleri.\\nCanavarlar arasında yalnızca basit bir dil olmasa ve hikayeleriyle efsanelerini kayıt altına alabilseler dağ yabanisi gezginleri bu hikayelerin kahramanı olurdu.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

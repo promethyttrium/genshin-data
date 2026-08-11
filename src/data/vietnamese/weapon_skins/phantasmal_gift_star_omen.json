@@ -1,0 +1,16 @@
+{
+  "_id": 380001,
+  "id": "phantasmal_gift_star_omen",
+  "name": "Ảo Lễ - Tinh Tượng",
+  "description": "\"Về nguyên lý mà nói, rất nhiều sự vật hiện tượng trên đời này đều có thể được gọi là 'Tượng'. Vì thế, 'Tượng' mà ta thoáng thấy trong quả cầu pha lê, theo một nghĩa nào đó cũng được coi là phần mở rộng của vật chất thực tại. Tóm lại, dù Alice hay Nicole có không thừa nhận đi chăng nữa, thì tính chính thống của thuật bói nước cũng vẫn rất thực tế!\"",
+  "rarity": 4,
+  "type": {
+    "id": "Catalyst",
+    "name": "Pháp Khí"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341801,
+  "icon_path": "UI_EquipIcon_Catalyst_Kristall",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_Kristall"
+}

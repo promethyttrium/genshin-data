@@ -13,7 +13,6 @@
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_LavaTitan",
   "description": "A monster that can continuously generate heat to sustain its activities.\\nLegends say these monsters with lava at their cores are the products of a distinct line of research to the Source Mechanisms that followed them — research into whether the primal flame could be used to create a new race based on humans. This research undoubtedly failed, for once the reaver arrived with their throne from beyond the skies, all that the primal flame could birth were hollow shells whose nominal lifeforce granted them no more consciousness than a stone.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

@@ -155,6 +155,11 @@
       "name": "山と海と空"
     },
     {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "スネージナヤ串焼き"
+    },
+    {
       "_id": 4002,
       "id": "golden_fried_chicken",
       "name": "黄金のジャンボチキン"
@@ -204,6 +209,5 @@
   ],
   "source": [
     "動物がドロップ"
-  ],
-  "rarity": 0
+  ]
 }

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Human_Male_Claymore_Shamansaurus",
   "description": "Un centinela tribal del viento nocturno que patrulla los cañones brumosos.\\nSolo aquellos centinelas que han demostrado su fuerza pueden adornar sus cuerpos con estas pintadas infundidas con un misterioso poder. Estas también simbolizan que los guerreros han alcanzado una nueva fase en su entrenamiento mental.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

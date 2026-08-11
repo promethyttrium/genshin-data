@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 3,
+    "element": "Hydro",
+    "weapon": "Other Weapons",
     "faction": [
-      null
+      "Monster"
     ],
     "talent_card": {
       "_id": 8982,
@@ -27,8 +29,10 @@
     {
       "id": "savage_swell",
       "name": "Savage Swell",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#80C0FFFF\">Hydro DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -47,8 +51,10 @@
     {
       "id": "storm_surge",
       "name": "Storm Surge",
-      "desc": "Deals ? ?, and randomly triggers the End Phase effect for 1 of your Summons. If this character's HP is not lower than 2, they will receive 1 <span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Piercing DMG</span></span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#80C0FFFF\">Hydro DMG</span>, and randomly triggers the End Phase effect for 1 of your Summons. If this character's HP is not lower than 2, they will receive 1 <span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Piercing DMG</span></span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -61,8 +67,10 @@
     {
       "id": "thundering_tide",
       "name": "Thundering Tide",
-      "desc": "Deals ? ?, triggers the End Phase effect for all of your Summons.",
-      "skillTag": [],
+      "desc": "Deals 4 <span style=\"color:#80C0FFFF\">Hydro DMG</span>, triggers the End Phase effect for all of your Summons.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -82,7 +90,9 @@
       "id": "branching_flow",
       "name": "Branching Flow",
       "desc": "<span style=\"color:#FFFFFFFF\">When this character's HP is not lower than 3, and your Summon apart from Half-Tulpa leaves play:</span> This character receives 2 <span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Piercing DMG</span></span> and summons 1 independent <span style=\"color:#FFFFFFFF\">Half-Tulpa</span>. (Once per Round)",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

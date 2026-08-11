@@ -33,13 +33,13 @@
       "_id": 112063,
       "id": "dormant_fungal_nucleus",
       "name": "Dormant Fungal Nucleus",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112062,
       "id": "inactivated_fungal_nucleus",
       "name": "Inactivated Fungal Nucleus",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112061,
@@ -57,16 +57,15 @@
       "_id": 112059,
       "id": "fungal_spores",
       "name": "Fungal Spore",
-      "count": 0.2101
+      "count": 0.21
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Fungus_Amanita_Unu_Anudatta_Grass",
   "description": "Tumbuhan penyamar yang terdiri dari spora. Memiliki kemampuan beradaptasi yang sangat kuat.\\nSelain bentuknya mirip, kelakuannya juga meniru burung. Sayap sporanya bisa dipakai untuk terbang dan menyebarkan spora ke tempat yang lebih jauh.\\nMemegang posisi puncak dalam hierarki komando Fungus, dan lebih cerdas dibandingkan dengan yang lainnya.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

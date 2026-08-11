@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Elektro",
+    "weapon": "Zweihänder",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 4568,
@@ -29,8 +31,10 @@
     {
       "id": "marvelous_sworddance_modified",
       "name": "Himmlischer Schwerttanz – Abwechslung",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -49,8 +53,10 @@
     {
       "id": "spiritwarding_lamp_troubleshooter_cannon",
       "name": "Lampe des Dschinns – Sorgenbefreiende Kanone",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 1 <span style=\"color:#FFFFFFFF\">Kundendienst-Kanone</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. <span style=\"color:#FFACFFFF\">Elektro-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Kundendienst-Kanone</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "alcazarzarays_exactitude",
       "name": "Zuneigung von Alcazarzaray",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 1 <span style=\"color:#FFFFFFFF\">Flaschengeist</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#FFACFFFF\">Elektro-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Flaschengeist</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1104,

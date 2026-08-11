@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Sword",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3712,
@@ -29,8 +31,10 @@
     {
       "id": "kamisato_art_marobashi",
       "name": "Kamisato Art: Marobashi",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "kamisato_art_kyouka",
       "name": "Kamisato Art: Kyouka",
-      "desc": "Deals ? ?. This character gains <span style=\"color:#FFFFFFFF\">Takimeguri Kanka</span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#80C0FFFF\">Hydro DMG</span>. This character gains <span style=\"color:#FFFFFFFF\">Takimeguri Kanka</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "kamisato_art_suiyuu",
       "name": "Kamisato Art: Suiyuu",
-      "desc": "Deals ? ?, summons 1 <span style=\"color:#FFFFFFFF\">Garden of Purity</span>.",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#80C0FFFF\">Hydro DMG</span>, summons 1 <span style=\"color:#FFFFFFFF\">Garden of Purity</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1102,

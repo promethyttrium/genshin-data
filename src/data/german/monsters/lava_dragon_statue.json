@@ -13,7 +13,6 @@
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_LavaTitan",
   "description": "Dieses Monster ist in der Lage, aus eigener Kraft kontinuierlich Wärme zu erzeugen, um aktiv zu bleiben.\\nMit seinem aus Lava bestehenden Kern soll er als Nebenprodukt eines anderen Forschungszweigs entstanden sein, der sich von den später aufgetauchten Quellapparaten unterscheidet. Besagte Forschung drehte sich wohl darum, ob man das Urfeuer dazu nutzen könnte, eine neue Ethnie zu erschaffen, die den Menschen nachempfunden ist ... Zweifellos ist dieses Vorhaben gescheitert. Denn als die Plünderer mitsamt ihrem Thron vom Himmel stiegen, war das, was da letztendlich aus dem Urfeuer geboren werden konnte, nichts weiter als leere Hüllen, zwar mit Gestalt und Lebenskraft, aber bar jedes Bewusstseins.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

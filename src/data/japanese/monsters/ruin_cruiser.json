@@ -28,7 +28,6 @@
   "categoryText": "自律装置",
   "filename_icon": "UI_MonsterIcon_Apparatus_Enigma_BionicDrone",
   "description": "特殊な標的に対応するため、特定の形と機能が備わった異形の機械。\\n伝説によると、これはすでに滅びた国が残した戦争機械だという。広く普及している「遺跡守衛」と比べ、より高い生体工学的意義を兼ね備えている。分散化する設計と蜂を模した戦闘モードは、あらゆる形態に変化して異なる方向から攻撃することができる。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

@@ -1,0 +1,16 @@
+{
+  "_id": 380002,
+  "id": "super_awesome_magic_key",
+  "name": "Super clé magique géniale",
+  "description": "Un cadeau du Petit Hexenzirkel à quelqu'un de cher. Faute de matériaux suffisants, sa conception s'inspire d'un objet magique du texte fontainois « Conte d'une oie aux ailes enneigées ».\\nVous ne pourrez pas ouvrir de portes vers différents espaces comme dans les contes de fées, mais cet objet est suffisamment résistant pour accompagner vos amis à travers d'innombrables mondes.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Épée à deux mains"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341802,
+  "icon_path": "UI_EquipIcon_Claymore_LoliFriend",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_LoliFriend"
+}

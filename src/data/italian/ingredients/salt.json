@@ -45,6 +45,16 @@
       "name": "Panino di segale ripieno di carne"
     },
     {
+      "_id": 2701,
+      "id": "stroganina",
+      "name": "Stroganina"
+    },
+    {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "Pagnotta di segale alla Glupov"
+    },
+    {
       "_id": 3012,
       "id": "sunshine_sprat",
       "name": "Spratto al burro saltato"
@@ -119,6 +129,5 @@
   ],
   "source": [
     "Acquistabile negli empori"
-  ],
-  "rarity": 0
+  ]
 }

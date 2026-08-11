@@ -1,0 +1,39 @@
+{
+  "_id": 213171,
+  "id": "adamahs_redemption",
+  "shareId": 611,
+  "name": "Đất Đỏ Nghịch Chuyển",
+  "title": "Durin - Đất Đỏ Nghịch Chuyển",
+  "desc": "\"Bước ngoặt của số phận.\"",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Sau khi nhân vật áp dụng dùng Thuật Hóa Trắng - Ánh Sáng Uyển Chuyển:</span> Sát thương phe ta gây ra trong 4 lần sau +1.<br/><span style=\"color:#FFFFFFFF\">Sau khi nhân vật áp dụng dùng Thuật Độ Đen - Âm Ỉ Sao Trời:</span> Sát thương do <span style=\"color:#FFFFFFFF\">Durin</span> và <span style=\"color:#FFFFFFFF\">Phủ Nhận Độ Đen</span> phe ta gây ra +2.",
+  "attributes": {
+    "cost": 4,
+    "cost_type": "Nguyên Tố Hỏa",
+    "card_type": "Thẻ Trang Bị",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "Nguyên Tố Hỏa",
+        "count": 4
+      },
+      {
+        "_id": 1110,
+        "id": "energy",
+        "type": "Năng Lượng",
+        "count": 2
+      }
+    ],
+    "source": "Nhận được sau khi mời Durin giao đấu trong Quán Rượu Đuôi Mèo, và hoàn thành mục tiêu khiêu chiến tương ứng",
+    "tags": [
+      "Thiên Phú",
+      "Hành Động Chiến Đấu"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Hành Động Chiến Đấu</span>: Trang bị thẻ bài này khi nhân vật xuất chiến phe ta là <span style=\"color:#FFFFFFFF\">Durin</span>.<br/>Durin sau khi trang bị thẻ bài này, dựa vào Kỹ Năng Nộ hiện tại của bản thân, lập tức dùng 1 lần <span style=\"color:#FFD780FF\">Thuật Hóa Trắng - Ánh Sáng Uyển Chuyển</span> hoặc <span style=\"color:#FFD780FF\">Thuật Độ Đen - Âm Ỉ Sao Trời</span>.<br/><span style=\"color:#FFFFFFFF\">Sau khi nhân vật áp dụng dùng Thuật Hóa Trắng - Ánh Sáng Uyển Chuyển:</span> Sát thương phe ta gây ra trong 4 lần sau +1.<br/><span style=\"color:#FFFFFFFF\">Sau khi nhân vật áp dụng dùng Thuật Độ Đen - Âm Ỉ Sao Trời:</span> Sát thương do <span style=\"color:#FFFFFFFF\">Durin</span> và <span style=\"color:#FFFFFFFF\">Phủ Nhận Độ Đen</span> phe ta gây ra +2.<br/>(Bộ bài có Durin mới có thể thêm)"
+    }
+  ]
+}

@@ -8,17 +8,21 @@
     "hp": 3,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Không Nguyên Tố",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null,
-      null
+      "Ma Vật",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "shooting",
       "name": "Bắn",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "multishot",
       "name": "Bắn Liên Tục",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 5 điểm ?.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1108,
@@ -52,7 +58,9 @@
       "id": "hide",
       "name": "Nấp",
       "desc": "(Bị Động) Nhân vật này khi dùng kỹ năng sẽ tự động đổi đến nhân vật tiếp theo.",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Bị Động"
+      ],
       "points": []
     }
   ]

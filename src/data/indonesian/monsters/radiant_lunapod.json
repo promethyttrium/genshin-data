@@ -13,7 +13,6 @@
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Magbeast_Squid",
   "description": "Monster yang telah berevolusi menjadi ekosistem unik karena terendam jangka panjang dalam kekuatan bulan purba.\\nKonon, di era saat bencana melanda bumi, spesies yang hidup di lautan luas pun tak bisa selamat. Mereka yang tak mampu menerima cahaya bulan lenyap seperti gelembung pecah, entah itu ular yang memanggil ombak besar atau monster bermata satu yang berusaha melahap segalanya.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

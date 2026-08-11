@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Arco",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3234,
@@ -29,8 +31,10 @@
     {
       "id": "supplicants_bowmanship",
       "name": "Elogio de la arquería",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -49,8 +53,10 @@
     {
       "id": "floral_brush",
       "name": "Caricia de las flores",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#7EC236FF\">Daño Dendro</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "trumpcard_kitty",
       "name": "Secreto miauravilloso",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? e invoca a <span style=\"color:#FFFFFFFF\">Colleámbar</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#7EC236FF\">Daño Dendro</span> e invoca a <span style=\"color:#FFFFFFFF\">Colleámbar</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1107,

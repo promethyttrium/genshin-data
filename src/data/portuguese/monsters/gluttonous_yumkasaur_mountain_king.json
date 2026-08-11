@@ -1,7 +1,7 @@
 {
   "_id": 26220301,
   "id": "gluttonous_yumkasaur_mountain_king",
-  "monsterId": 26220303,
+  "monsterId": 84622032,
   "name": "Yumkassauro Guloso Lorde da Montanha",
   "specialNames": [
     "Lorde da Montanha"
@@ -15,7 +15,7 @@
   "description": "Um poderoso Yumkassauro que sobreviveu tanto às devastações do tempo e incontáveis batalhas, sobrevivendo até o presente.\\nEsse \"Rei da Montanha\", que já uniu forças com os grandes heróis contra a Maré Negra, possui um lugar especial nos corações dos Descendentes das Copas. Alguns da tribo acreditam que ele possui sua atual forma corporal por causa de seu físico único, como o Qucussauro \"Tirano\"... Na verdade, é simplesmente porque ele viveu por tanto tempo e comeu demais, DEMAIS mesmo.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 7,
-  "budget": 1,
+  "budget": 2,
   "stats": {
     "resistance": {
       "physical": 0.1,

@@ -8,17 +8,21 @@
     "hp": 8,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Other Weapons",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "du_plama",
       "name": "Du Plama",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -37,8 +41,10 @@
     {
       "id": "upa",
       "name": "Upa",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 3 ?.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -51,8 +57,10 @@
     {
       "id": "oto_tiga",
       "name": "Oto Tiga",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 5 ?.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -72,7 +80,9 @@
       "id": "flowfire_edge",
       "name": "Flowfire Edge",
       "desc": "(Passive) When the battle begins, this character gains <span style=\"color:#FFFFFFFF\">Flowfire Edge</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

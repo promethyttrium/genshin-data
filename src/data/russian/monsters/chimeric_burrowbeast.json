@@ -1,0 +1,72 @@
+{
+  "_id": 26310201,
+  "id": "chimeric_burrowbeast",
+  "monsterId": 26310201,
+  "name": "Химера-землерой",
+  "specialNames": [
+    "Химера-землерой"
+  ],
+  "investigation": {
+    "investigationId": 100,
+    "name": "Мутировавшие химеры",
+    "categoryType": "Common",
+    "categoryText": "Обычные",
+    "description": "Многочисленные создания, порождённые технологиями биоалхимии, некогда процветавшей в Снежной, прежде чем её запретили.\\nБольшинство из них погибло в войне против Полчищ чёрных зверей, а до наших дней дожили лишь считаные единицы."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Chimera_BeetleLion",
+  "rewardPreviewId": 16029,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Мора"
+    },
+    {
+      "_id": 112151,
+      "id": "prime_chimeric_nexus",
+      "name": "Сердцевина химеры",
+      "count": 0.084
+    },
+    {
+      "_id": 112150,
+      "id": "symbiotic_chimeric_nucleus",
+      "name": "Симбиотическое ядро химеры",
+      "count": 0.336
+    },
+    {
+      "_id": 112149,
+      "id": "chimeric_core",
+      "name": "Ядро химеры",
+      "count": 1.26
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Мистические звери",
+  "filename_icon": "UI_MonsterIcon_Chimera_OwlPangolin",
+  "description": "Продукт биоалхимии, некогда распространённый на землях вечной мерзлоты. Мутировавшая химера.\\nЕсли чудовище, свободно передвигающееся под землёй и снегом, обретёт зрение, позволяющее видеть даже во тьме, станет ли оно ещё более грозным хищником?\\nРезультат эксперимента превзошёл все ожидания. Эти землеройные звери по ночам бродят под поверхностью земли, устраивая во тьме ловушки и подстерегая добычу из засады.\\nПо сообщению «Вестника», рабочие из Светлолёдовки якобы видели гигантского землеройного зверя ростом почти с двух человек... Впрочем, это всего лишь слухи.",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.2
+    },
+    "base": {
+      "hp": 27.168,
+      "attack": 30.144,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Thảo",
+    "weapon": "Pháp Khí",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3854,
@@ -29,8 +31,10 @@
     {
       "id": "akara",
       "name": "Akara",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm <span style=\"color:#7EC236FF\">Sát Thương Nguyên Tố Thảo</span>.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -49,8 +53,10 @@
     {
       "id": "all_schemes_to_know",
       "name": "Lắng Nghe Thế Gian",
-      "desc": "Gây ? điểm ?, nhân vật mục tiêu bị áp dụng <span style=\"color:#FFFFFFFF\">Hạt Giống Skandha</span>; Nếu trước đó mà nhân vật mục tiêu đã bị áp dụng <span style=\"color:#FFFFFFFF\">Hạt Giống Skandha</span>, thì sẽ đổi thành áp dụng <span style=\"color:#FFFFFFFF\">Hạt Giống Skandha</span> cho tất cả nhân vật phe địch.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#7EC236FF\">Sát Thương Nguyên Tố Thảo</span>, nhân vật mục tiêu bị áp dụng <span style=\"color:#FFFFFFFF\">Hạt Giống Skandha</span>; Nếu trước đó mà nhân vật mục tiêu đã bị áp dụng <span style=\"color:#FFFFFFFF\">Hạt Giống Skandha</span>, thì sẽ đổi thành áp dụng <span style=\"color:#FFFFFFFF\">Hạt Giống Skandha</span> cho tất cả nhân vật phe địch.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "all_schemes_to_know_tathata",
       "name": "Lắng Nghe Thế Gian - Tathata",
-      "desc": "Gây ? điểm ?, tất cả nhân vật phe địch bị áp dụng <span style=\"color:#FFFFFFFF\">Hạt Giống Skandha</span>.",
-      "skillTag": [],
+      "desc": "Gây 3 điểm <span style=\"color:#7EC236FF\">Sát Thương Nguyên Tố Thảo</span>, tất cả nhân vật phe địch bị áp dụng <span style=\"color:#FFFFFFFF\">Hạt Giống Skandha</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -77,8 +85,10 @@
     {
       "id": "illusory_heart",
       "name": "Ảo Ảnh Tâm Can",
-      "desc": "Gây ? điểm ?, tạo 1 <span style=\"color:#FFFFFFFF\">Cung Điện Maya</span>.",
-      "skillTag": [],
+      "desc": "Gây 4 điểm <span style=\"color:#7EC236FF\">Sát Thương Nguyên Tố Thảo</span>, tạo 1 <span style=\"color:#FFFFFFFF\">Cung Điện Maya</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1107,

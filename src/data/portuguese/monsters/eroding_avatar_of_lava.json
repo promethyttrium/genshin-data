@@ -25,19 +25,19 @@
       "_id": 112112,
       "id": "ignited_seeing_eye",
       "name": "Olho Que Tudo Vê em Chamas",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112111,
       "id": "ignited_seed_of_life",
       "name": "Semente da Vida em Chamas",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112110,
       "id": "ignited_stone",
       "name": "Pedra em Chamas",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Lava_Solid",
   "description": "Um monstro estranho que deve absorver calor continuamente para continuar num estado ativo.\\nA antiga civilização usava muitos tipos de padrões dourados para conduzir o fluxo do Flogisto, permitindo que construtos enormes e cidades magníficas operassem sob a sabedoria dos padrões dourados. Dizem que além das máquinas com estruturas fixas, os monstros conhecidos como Avatares de Lava são, na verdade, formas de vida muito danificadas criadas da mesma forma. Contudo, após as chamas da montanha sagrada serem apagadas, a maioria deles perdeu seu senso de propósito e direção.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

@@ -8,14 +8,18 @@
     "hp": 6,
     "card_type": "キャラカード",
     "energy": 2,
+    "element": "雷元素",
+    "weapon": "他の武器",
     "faction": []
   },
   "skills": [
     {
       "id": "combo_slash",
       "name": "連続斬り",
-      "desc": "?を?与える。",
-      "skillTag": [],
+      "desc": "?を2与える。",
+      "skillTag": [
+        "通常攻撃"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -34,8 +38,10 @@
     {
       "id": "mechanical_thunderbow",
       "name": "機工雷弩",
-      "desc": "?を?与える。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#FFACFFFF\">雷元素ダメージ</span>を3与える。",
+      "skillTag": [
+        "元素スキル"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -49,7 +55,9 @@
       "id": "iai_sheathed",
       "name": "居合·納刀",
       "desc": "本キャラは<span style=\"color:#FFFFFFFF\">スキル準備</span>に入る：<span style=\"color:#FFFFFFFF\">居合·前</span>。",
-      "skillTag": [],
+      "skillTag": [
+        "元素爆発"
+      ],
       "points": [
         {
           "_id": 1108,
@@ -69,7 +77,9 @@
       "id": "zanshin",
       "name": "残心",
       "desc": "【固有】エンドフェーズ：このキャラは「出撃キャラ」の場合、チャージを1獲得する。",
-      "skillTag": [],
+      "skillTag": [
+        "固有スキル"
+      ],
       "points": []
     }
   ]

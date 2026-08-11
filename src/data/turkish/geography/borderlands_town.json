@@ -1,0 +1,12 @@
+{
+  "_id": 70800031,
+  "id": "borderlands_town",
+  "name": "Uç Diyar Kasabası",
+  "areaName": "Volkodlak Tundrası",
+  "areaId": 80100,
+  "description": "Gelişim döneminde zenginleşmiş bir kasaba. Geçmişte ardı arkası kesilmeyen yolcular, Snezhnaya ve Nod-Krai arasında düzenli bir şekilde buradan geçerek seyahat ederdi.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 631,
+  "filename_image": "UI_Codex_Scenery_ZDYingKeZhen"
+}

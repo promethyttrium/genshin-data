@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "丘丘部族",
   "filename_icon": "UI_MonsterIcon_Hili_None_01",
   "description": "提瓦特荒野中游荡的原始住民。\\n与人类轮廓相似，却失去了智能与灵性。据记载，在大地上出没超过千年，却没有历史与文明。\\n自五百年前漆黑的灾祸以来，便广泛地分布在大地各处。虽然力量弱小，缺乏组织，但有时也能给人们带来不小的麻烦。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

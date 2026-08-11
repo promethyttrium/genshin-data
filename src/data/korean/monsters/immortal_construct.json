@@ -1,0 +1,158 @@
+{
+  "_id": 25140101,
+  "id": "immortal_construct",
+  "monsterId": 25140101,
+  "name": "불멸의 부산물",
+  "specialNames": [
+    "타오르는 결함체"
+  ],
+  "investigation": {
+    "investigationId": 97,
+    "name": "불멸의 부산물",
+    "categoryType": "Boss",
+    "categoryText": "우두머리",
+    "description": "어떤 이기적인 계획을 실현하기 위해 만들어진 부산물.\\n기존에 매개체로 쓰이던 육체가 이미 제 기능을 잃었기에, 지금은 그저 지성 없는 불완전한 야수가 되어 사방을 배회할 뿐이다"
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Zharptitsa_02",
+  "rewardPreviewId": 15213,
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "모험 경력",
+      "count": 200
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "모라"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "호감도 경험치"
+    },
+    {
+      "_id": 113090,
+      "id": "unscorched_blossom_branch",
+      "name": "불멸의 꽃가지",
+      "count": 2.556
+    },
+    {
+      "_id": 104114,
+      "id": "agnidus_agate_gemstone",
+      "name": "불타오르는 마노"
+    },
+    {
+      "_id": 104113,
+      "id": "agnidus_agate_chunk",
+      "name": "불타오르는 마노 덩이"
+    },
+    {
+      "_id": 104112,
+      "id": "agnidus_agate_fragment",
+      "name": "불타오르는 마노 조각"
+    },
+    {
+      "_id": 104111,
+      "id": "agnidus_agate_sliver",
+      "name": "불타오르는 마노 가루"
+    },
+    {
+      "_id": 400089,
+      "id": "gladiators_finale",
+      "name": "검투사의 피날레",
+      "rarity": 5
+    },
+    {
+      "_id": 400099,
+      "id": "wanderers_troupe",
+      "name": "대지를 유랑하는 악단",
+      "rarity": 5
+    },
+    {
+      "_id": 400088,
+      "id": "gladiators_finale",
+      "name": "검투사의 피날레",
+      "rarity": 4
+    },
+    {
+      "_id": 400098,
+      "id": "wanderers_troupe",
+      "name": "대지를 유랑하는 악단",
+      "rarity": 4
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "전투광",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "교관",
+      "rarity": 4
+    },
+    {
+      "_id": 400128,
+      "id": "prayers_for_illumination",
+      "name": "불을 모시는 자",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "전투광",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "교관",
+      "rarity": 3
+    },
+    {
+      "_id": 400127,
+      "id": "prayers_for_illumination",
+      "name": "불을 모시는 자",
+      "rarity": 3
+    },
+    {
+      "_id": 400047,
+      "id": "adventurer",
+      "name": "모험가",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "돌연변이 마수",
+  "filename_icon": "UI_MonsterIcon_Zharptitsa_02",
+  "description": "코셰이라는 연금술사가 불새라는 개체를 만드는 과정에서 생겨난 부산물.\\n이 음침한 연금술사는 같은 실험에서 하나의 개체가 성공하면 나머지를 모조리 폐기하거나 마음대로 처분하는 습관이 있다.\\n이 파생 피조물도 어떤 힘과 융합해 완성체가 될 예정이었지만, 지금은 지성조차 없는 결함투성이가 되어 산골짜기를 배회할 뿐이다",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.5,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 421.104,
+      "attack": 100.48,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

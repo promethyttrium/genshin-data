@@ -1,0 +1,1307 @@
+{
+  "_id": 10000007,
+  "id": "traveler_cryo",
+  "name": "Viajante (Cryo)",
+  "description": "Um Viajante de outro mundo que teve seu ente querido levado e foi forçado a embarcar em uma jornada em busca dos Sete.",
+  "weapon_type": {
+    "id": "sword",
+    "name": "Espada"
+  },
+  "element": {
+    "id": "cryo",
+    "name": "Cryo"
+  },
+  "gender": {
+    "id": "malefemale",
+    "name": "Masculino/Feminino"
+  },
+  "release": 1786561200,
+  "substat": "ATQ%",
+  "affiliation": "——",
+  "region": {
+    "id": "mainactor",
+    "name": "MAINACTOR"
+  },
+  "rarity": 5,
+  "birthday": [
+    null,
+    null
+  ],
+  "constellation": "Viatrix",
+  "domain": "Domínio da Proficiência: Eremitério",
+  "cv": {
+    "english": "Sarah Miller-Crews & Outros",
+    "chinese": "宴宁&多多poi",
+    "japanese": "悠木碧&古賀葵",
+    "korean": "Lee Sae-ah & Kim Ka-ryoung"
+  },
+  "skills": [
+    {
+      "_id": 100554,
+      "id": "foreign_frostglint",
+      "name": "Gelo Estrangeiro",
+      "description": "<span style=\"color:#FFD780FF\">Ataque Normal</span><br/>Realiza até 5 golpes rápidos.<br/><br/><span style=\"color:#FFD780FF\">Ataque Carregado</span><br/>Consome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.<br/><br/><span style=\"color:#FFD780FF\">Ataque Imersivo</span><br/>Mergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE no impacto.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Dano do 1° Golpe",
+          "values": [
+            "44.5%",
+            "48.1%",
+            "51.7%",
+            "56.9%",
+            "60.5%",
+            "64.6%",
+            "70.3%",
+            "76%",
+            "81.7%",
+            "87.9%",
+            "94.1%",
+            "100.3%",
+            "106.5%",
+            "112.7%",
+            "118.9%"
+          ]
+        },
+        {
+          "label": "Dano do 2° Golpe",
+          "values": [
+            "43.4%",
+            "47%",
+            "50.5%",
+            "55.5%",
+            "59.1%",
+            "63.1%",
+            "68.7%",
+            "74.2%",
+            "79.8%",
+            "85.9%",
+            "91.9%",
+            "98%",
+            "104%",
+            "110.1%",
+            "116.1%"
+          ]
+        },
+        {
+          "label": "Dano do 3° Golpe",
+          "values": [
+            "53%",
+            "57.3%",
+            "61.6%",
+            "67.8%",
+            "72.1%",
+            "77%",
+            "83.8%",
+            "90.6%",
+            "97.3%",
+            "104.7%",
+            "112.1%",
+            "119.5%",
+            "126.9%",
+            "134.3%",
+            "141.7%"
+          ]
+        },
+        {
+          "label": "Dano do 4° Golpe",
+          "values": [
+            "58.3%",
+            "63.1%",
+            "67.8%",
+            "74.6%",
+            "79.3%",
+            "84.8%",
+            "92.2%",
+            "99.7%",
+            "107.1%",
+            "115.3%",
+            "123.4%",
+            "131.5%",
+            "139.7%",
+            "147.8%",
+            "155.9%"
+          ]
+        },
+        {
+          "label": "Dano do 5° Golpe",
+          "values": [
+            "70.8%",
+            "76.5%",
+            "82.3%",
+            "90.5%",
+            "96.3%",
+            "102.9%",
+            "111.9%",
+            "121%",
+            "130%",
+            "139.9%",
+            "149.8%",
+            "159.7%",
+            "169.5%",
+            "179.4%",
+            "189.3%"
+          ]
+        },
+        {
+          "label": "Dano de Ataque Carregado",
+          "values": [
+            "55.9% + 72.2%",
+            "60.5% + 78.1%",
+            "65% + 84%",
+            "71.5% + 92.4%",
+            "76% + 98.3%",
+            "81.3% + 105%",
+            "88.4% + 114.2%",
+            "95.5% + 123.5%",
+            "102.7% + 132.7%",
+            "110.5% + 142.8%",
+            "118.3% + 152.9%",
+            "126.1% + 163%",
+            "133.9% + 173%",
+            "141.7% + 183.1%",
+            "149.5% + 193.2%"
+          ]
+        },
+        {
+          "label": "Consumo de Stamina de Ataque Carregado",
+          "values": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "label": "Dano Durante a Queda",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "Dano de Queda de Baixa/Alta Altitude",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 10128,
+      "id": "frostbound_javelin",
+      "name": "Dardo Gelado",
+      "description": "Gera dardos de gelo com o poder de Cryo, e então os joga nos inimigos para causar <span style=\"color:#99FFFFFF\">Dano Cryo</span> várias vezes.<br/>Ao lançar, o Viajante consumirá todos os acúmulos de <b><span style=\"color:#FFD780FF\">Brilho Gélido</span></b> para aumentar o Dano de Supremo dessa instância. Se consumir 8 acúmulos de <span style=\"color:#FFD780FF\">Brilho Gélido</span>, aumentará o número de instâncias de Dano causadas pelos dardos arremessados.<br/><br/><b><span style=\"color:#FFD780FF\">Brilho Reluzente: Brilho Estelar</span></b>: Dano da instância atual do Supremo é mudado para <span style=\"color:#99FFFFFF\">Dano Cryo</span> da reação de Brilho Estelar correspondente.",
+      "info": "Você e Paimon sentiram a lâmina penetrante do gelo.",
+      "attributes": [
+        {
+          "label": "Dano de Dardo de Gelo por Golpe",
+          "values": [
+            "55.1%",
+            "59.3%",
+            "63.4%",
+            "68.9%",
+            "73%",
+            "77.2%",
+            "82.7%",
+            "88.2%",
+            "93.7%",
+            "99.2%",
+            "104.7%",
+            "110.3%",
+            "117.2%",
+            "124%",
+            "130.9%"
+          ]
+        },
+        {
+          "label": "Aumento de Dano de Brilho Gélido",
+          "values": [
+            "2.8%",
+            "3%",
+            "3.2%",
+            "3.4%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%",
+            "4.7%",
+            "5%",
+            "5.2%",
+            "5.5%",
+            "5.9%",
+            "6.2%",
+            "6.5%"
+          ]
+        },
+        {
+          "label": "Dano do Dardo de Gelo do Supercondutor Estelar",
+          "values": [
+            "36.8%",
+            "39.5%",
+            "42.3%",
+            "45.9%",
+            "48.7%",
+            "51.5%",
+            "55.1%",
+            "58.8%",
+            "62.5%",
+            "66.2%",
+            "69.8%",
+            "73.5%",
+            "78.1%",
+            "82.7%",
+            "87.3%"
+          ]
+        },
+        {
+          "label": "Aumento de Dano de Supercondutor Estelar de Brilho Gélido",
+          "values": [
+            "1.8%",
+            "2%",
+            "2.1%",
+            "2.3%",
+            "2.4%",
+            "2.6%",
+            "2.8%",
+            "2.9%",
+            "3.1%",
+            "3.3%",
+            "3.5%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%"
+          ]
+        },
+        {
+          "label": "Dano do Dardo de Gelo do Redemoinho Estelar",
+          "values": [
+            "55.1%",
+            "59.3%",
+            "63.4%",
+            "68.9%",
+            "73%",
+            "77.2%",
+            "82.7%",
+            "88.2%",
+            "93.7%",
+            "99.2%",
+            "104.7%",
+            "110.3%",
+            "117.2%",
+            "124%",
+            "130.9%"
+          ]
+        },
+        {
+          "label": "Aumento de Dano de Redemoinho Estelar de Brilho Gélido",
+          "values": [
+            "2.8%",
+            "3%",
+            "3.2%",
+            "3.4%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%",
+            "4.7%",
+            "5%",
+            "5.2%",
+            "5.5%",
+            "5.9%",
+            "6.2%",
+            "6.5%"
+          ]
+        },
+        {
+          "label": "Número de Golpes",
+          "values": [
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3"
+          ]
+        },
+        {
+          "label": "Golpes Adicionais de Brilho Gélido no Acúmulo Máximo",
+          "values": [
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2"
+          ]
+        },
+        {
+          "label": "Tempo de Recarga",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Energia Elemental",
+          "values": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 10127,
+      "id": "ice_fog_piercer",
+      "name": "Lâmina da Neblina Gelada",
+      "description": "Perfura o oponente com a arma, que libera uma neblina gelada, causando <span style=\"color:#99FFFFFF\">Dano Cryo</span> em frente e formando um condensado de Estrela do Gelo Feroz ao seu lado.<br/><br/><span style=\"color:#FFD780FF\">Estrela do Gelo Feroz</span><br/>· Segue o personagem da equipe e periodicamente dispara um ataque de Cristal Cryo contra os inimigos próximos, causando <span style=\"color:#99FFFFFF\">Dano Cryo</span>.<br/><span style=\"color:#FFD780FF\">Brilho Reluzente: Supercondutor Estelar</span>: Estrela do Gelo Feroz não disparará mais os Cristais Cryo periodicamente, mas quando o Ataque Normal, Carregado ou Imersivo do Viajante atingir um inimigo, dispara um Cristal Cryo para realizar um Ataque Coordenado contra o inimigo. Pode ser desencadeado uma vez a cada 0.2s<br/>· Quando o Cristal Cryo atingir um inimigo, o Viajante acumula 1 de <b><span style=\"color:#FFD780FF\">Brilho Gélido</span></b>. Pode ser acumulado até 8 vezes.<br/>· Quando não está em combate, <span style=\"color:#FFD780FF\">Brilho Gélido</span> será removido depois de 30s.",
+      "info": "Você e Paimon observaram juntos a condensação da névoa.",
+      "attributes": [
+        {
+          "label": "Dano de Habilidade",
+          "values": [
+            "91.7%",
+            "98.6%",
+            "105.4%",
+            "114.6%",
+            "121.5%",
+            "128.4%",
+            "137.5%",
+            "146.7%",
+            "155.9%",
+            "165%",
+            "174.2%",
+            "183.4%",
+            "194.8%",
+            "206.3%",
+            "217.7%"
+          ]
+        },
+        {
+          "label": "Dano de Cristal Cryo",
+          "values": [
+            "21.4%",
+            "23%",
+            "24.6%",
+            "26.7%",
+            "28.3%",
+            "29.9%",
+            "32.1%",
+            "34.2%",
+            "36.4%",
+            "38.5%",
+            "40.6%",
+            "42.8%",
+            "45.5%",
+            "48.1%",
+            "50.8%"
+          ]
+        },
+        {
+          "label": "Duração de Estrela do Gelo Feroz",
+          "values": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "label": "Recarga",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "everkeen_frost",
+      "name": "Gelo Eternamente Afiado",
+      "description": "<span style=\"color:#FFD780FF\">Brilho Reluzente: Supercondutor Estelar</span>: na duração de <span style=\"color:#FFD780FF\">Estrela do Gelo Feroz</span>, o Ataque Normal, Carregado e Imersivo do Viajante serão convertidos para <span style=\"color:#99FFFFFF\">Dano Cryo</span> que não pode ser substituído, e aumenta o Dano causado em 80% do ATQ do Viajante.",
+      "level": 1
+    },
+    {
+      "id": "lucent_ice",
+      "name": "Gelo Translúcido",
+      "description": "Aumenta a Proficiência Elemental do Viajante em 8% de seu ATQ. É possível aumentar sua Proficiência Elemental em até 160 dessa forma.",
+      "level": 4
+    },
+    {
+      "id": "stellar_jubilee_illusory_frostmirror",
+      "name": "Bênção das Estrelas: Espelho Ilusório Gelado",
+      "description": "Quando estiver dentro de um <b><span style=\"color:#FFD780FF\">Campo da Estrela Polar</span></b> nos 8s após um personagem próximo da equipe desencadear Redemoinho Estelar, o Viajante entrará respectivamente nos estados <span style=\"color:#FFD780FF\">Brilho Reluzente: Supercondutor Estelar</span>/<span style=\"color:#FFD780FF\">Brilho Reluzente: Redemoinho Estelar</span>.<br/>Quando um personagem desencadear Supercondutor/Redemoinho Cryo, converterá para desencadear Supercondutor Estelar/Redemoinho Estelar, e aumenta o Dano Básico dessa reação com base no ATQ do Viajante: cada 100 de ATQ aumenta o Dano Básico em 0.35%. É possível acumular até 7% dessa forma.",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 81,
+      "id": "somber_freeze",
+      "name": "Congelamento Sombrio",
+      "description": "Quando o Viajante causar Dano de Brilho Estelar, regenera 5 de Energia Elemental para si. Pode ser desencadeado uma vez a cada 0.5s.",
+      "level": 1
+    },
+    {
+      "_id": 82,
+      "id": "frostfall_reverberation",
+      "name": "Reverberação Gelada",
+      "description": "Quando o <span style=\"color:#FFD780FF\">Cristal Cryo</span> disparado pela Habilidade Elemental <color=#FFD780FF><b>Lâmina da Neblina Gelada</b></color> atingir um inimigo, aumenta a Proficiência Elemental do personagem ativo em 60 por 5s.<br/>Além disso, se o personagem sob esse efeito desencadear uma reação de Brilho Estelar, ou causar Dano de Brilho Estelar, aumenta sua Proficiência Elemental em 120 na duração desse efeito.",
+      "level": 2
+    },
+    {
+      "_id": 83,
+      "id": "glacial_shard",
+      "name": "Fragmento Glacial",
+      "description": "Aumenta o nível do Supremo <color=#FFD780FF><b>Dardo Gelado</b></color> em 3.<br/>O nível máximo de elevação é 15.",
+      "level": 3
+    },
+    {
+      "_id": 84,
+      "id": "enduring_ice",
+      "name": "Gelo Persistente",
+      "description": "Prolonga a duração da <span style=\"color:#FFD780FF\">Estrela do Gelo Feroz</span> criada pela Habilidade Elemental <color=#FFD780FF><b>Lâmina da Neblina Gelada</b></color> em 25%.",
+      "level": 4
+    },
+    {
+      "_id": 85,
+      "id": "bittercold_fog",
+      "name": "Neblina Glacial",
+      "description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF><b>Lâmina da Neblina Gelada</b></color> em 3 níveis. <br/>O nível máximo de elevação é 15.",
+      "level": 5
+    },
+    {
+      "_id": 86,
+      "id": "brumal_grimfrost",
+      "name": "Bruma Glacial",
+      "description": "Ao lançar o Supremo <color=#FFD780FF><b>Dardo Gelado</b></color>, cada acúmulo de <b><span style=\"color:#FFD780FF\">Brilho Gélido</span></b> consumido aumenta o Dano causado de Brilho Estelar pelos outros personagens em 5%. É possível aumentar o Dano até 40% dessa forma por 15s.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "-",
+            "912"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "-",
+            "18"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "-",
+            "57"
+          ]
+        },
+        {
+          "label": "ATQ%",
+          "values": [
+            "-",
+            "0.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "2342",
+            "3024"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "46",
+            "59"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "147",
+            "190"
+          ]
+        },
+        {
+          "label": "ATQ%",
+          "values": [
+            "0.0%",
+            "0.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "4529",
+            "5013"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "88",
+            "98"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "284",
+            "315"
+          ]
+        },
+        {
+          "label": "ATQ%",
+          "values": [
+            "0.0%",
+            "6.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104101,
+        "id": "brilliant_diamond_sliver",
+        "name": "Lasca de Diamante Brilhante",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Margaridas Voadoras",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112005,
+        "id": "damaged_mask",
+        "name": "Máscara Danificada",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "5766",
+            "6411"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "113",
+            "125"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "362",
+            "402"
+          ]
+        },
+        {
+          "label": "ATQ%",
+          "values": [
+            "6.0%",
+            "12.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104102,
+        "id": "brilliant_diamond_fragment",
+        "name": "Fragmento de Diamante Brilhante",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Margaridas Voadoras",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112005,
+        "id": "damaged_mask",
+        "name": "Máscara Danificada",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "7164",
+            "7648"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "140",
+            "149"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "450",
+            "480"
+          ]
+        },
+        {
+          "label": "ATQ%",
+          "values": [
+            "12.0%",
+            "12.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104102,
+        "id": "brilliant_diamond_fragment",
+        "name": "Fragmento de Diamante Brilhante",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Margaridas Voadoras",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112006,
+        "id": "stained_mask",
+        "name": "Máscara Suja",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "8401",
+            "8885"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "164",
+            "174"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "527",
+            "558"
+          ]
+        },
+        {
+          "label": "ATQ%",
+          "values": [
+            "12.0%",
+            "18.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104103,
+        "id": "brilliant_diamond_chunk",
+        "name": "Pedaço de Diamante Brilhante",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Margaridas Voadoras",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112006,
+        "id": "stained_mask",
+        "name": "Máscara Suja",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "9638",
+            "10122"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "188",
+            "198"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "605",
+            "635"
+          ]
+        },
+        {
+          "label": "ATQ%",
+          "values": [
+            "18.0%",
+            "24.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104103,
+        "id": "brilliant_diamond_chunk",
+        "name": "Pedaço de Diamante Brilhante",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Margaridas Voadoras",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112007,
+        "id": "ominous_mask",
+        "name": "Máscara Ominosa",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "10875",
+            "10875"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "212",
+            "212"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "683",
+            "683"
+          ]
+        },
+        {
+          "label": "ATQ%",
+          "values": [
+            "24.0%",
+            "24.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104104,
+        "id": "brilliant_diamond_gemstone",
+        "name": "Gema de Diamante Brilhante",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Margaridas Voadoras",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112007,
+        "id": "ominous_mask",
+        "name": "Máscara Ominosa",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104365,
+          "id": "teachings_of_charity",
+          "name": "Ensinamentos da Caridade",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Núcleo Quimérico",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guia da Tenacidade",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Núcleo Quimérico Simbiótico",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104372,
+          "id": "guide_to_glory",
+          "name": "Guia da Glória",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Núcleo Quimérico Simbiótico",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guia da Caridade",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Núcleo Quimérico Simbiótico",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guia da Tenacidade",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Núcleo Quimérico Simbiótico",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104373,
+          "id": "philosophies_of_glory",
+          "name": "Filosofia da Glória",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nexo Quimérico Primordial",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Amostra Ascendida: Rainha",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Filosofia da Caridade",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nexo Quimérico Primordial",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Amostra Ascendida: Rainha",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Filosofia da Tenacidade",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nexo Quimérico Primordial",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Amostra Ascendida: Rainha",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104373,
+          "id": "philosophies_of_glory",
+          "name": "Filosofia da Glória",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nexo Quimérico Primordial",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Amostra Ascendida: Rainha",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Coroa da Sabedoria",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 200701,
+      "name": "Conforme Céu e Terra São Renovados",
+      "description": "Um Vestuário usado pelo Viajante, um companheiro nas jornadas pelas estrelas. Ele já testemunhou incontáveis mundos, mas ainda não consegue compreender o verdadeiro propósito do cosmos. Mesmo assim, cada pergunta o aproxima um pouco mais da resposta final.",
+      "isDefault": false,
+      "characterName": "Lumine",
+      "characterId": 10000007,
+      "source": [
+        "Conclua a Missão do Arconte \"Lua Verdadeira\" para obter"
+      ],
+      "filename_card": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Card",
+      "filename_icon": "UI_AvatarIcon_PlayerGirlCostumeCWXR",
+      "filename_iconCircle": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Circle",
+      "filename_splash": "UI_Costume_PlayerGirlCostumeCWXR",
+      "filename_sideIcon": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR"
+    },
+    {
+      "id": 200700,
+      "name": "Estrela Ascendente",
+      "description": "O Vestuário {F#da}{M#do} Viajante. Uma roupa prática para acompanhar {F#a}{M#o} Viajante em suas longas jornadas.",
+      "isDefault": true,
+      "characterName": "Lumine",
+      "characterId": 10000007,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_PlayerGirl_Circle"
+    }
+  ]
+}

@@ -161,7 +161,6 @@
   "categoryText": "Automaton",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Nutcracker",
   "description": "Penari roda gigi yang dikembangkan oleh Institut Penelitian Fontaine.\\nDalam desain awal Bossuet, penari roda gigi adalah karya seni yang melampaui era replika mesin. Namun setelah Bossuet dipaksa untuk meninggalkan jabatannya, proyek ini kemudian diambil alih oleh Maillardet. Maillardet punya pemahamannya tersendiri tentang mesin dan penari. Oleh karena itu, berbagai fungsi penari roda gigi secara bertahap menyimpang dari desain awal Bossuet sepanjang proses penyempurnaannya.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

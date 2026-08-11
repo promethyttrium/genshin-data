@@ -1,7 +1,7 @@
 {
   "_id": 26220301,
   "id": "gluttonous_yumkasaur_mountain_king",
-  "monsterId": 26220303,
+  "monsterId": 84622032,
   "name": "Gluttonous Yumkasaur Mountain King",
   "specialNames": [
     "Lord of the Mountain"
@@ -15,7 +15,7 @@
   "description": "A powerful Yumkasaur that has survived both the ravages of time and countless battles, surviving until the present day.\\nThis \"Mountain King,\" who once joined forces with the great heroes against the Black Tide, holds a special place in the hearts of the Scions of the Canopy. Some tribe members believe that it has its current body shape because it has a unique physique, like the Qucusaurus \"Tyrant\"... Though in fact, this is simply because it's lived for so long, and eaten way, WAY too much.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 7,
-  "budget": 1,
+  "budget": 2,
   "stats": {
     "resistance": {
       "physical": 0.1,

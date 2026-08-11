@@ -197,7 +197,6 @@
   "categoryText": "Musuh Kuat",
   "filename_icon": "UI_MonsterIcon_Tartaglia",
   "description": "\"Childe\" Tartaglia, Fatui Harbinger ke-11.\\nTartaglia bertarung dengan kekuatan Delusion yang mengerikan dan dengan ilmu bela diri yang dia pelajari dalam suatu tempat penuh kegelapan.\\n\\nDia adalah seorang petarung sejati yang selalu haus akan pertarungan.\\nSetiap pertumpahan darah, setiap tantangan hidup dan mati, adalah cobaan yang menyenangkan bagi dirinya.\\nOrang-orang mengatakan bahwa sejak muda, kemampuan bertarung Tartaglia sudah dikenal di seluruh penjuru.\\nTetapi dia sendiri tidak pernah memamerkan dirinya seperti itu.\\n\\nKarena dia percaya...\\n<i>\"Kamu ditakdirkan untuk menjadi pusat angin topan,\" </i>\\n<i>\"suara pedang yang saling beradu akan senantiasa menemanimu.\"</i>\\n<i>\"Ingatan saat kamu menginjakkan kaki ke dalam kegelapan pekat itu,\"</i>\\n<i>\"akhirnya akan menjadi kekuatanmu untuk menguasai dunia.\"</i>",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

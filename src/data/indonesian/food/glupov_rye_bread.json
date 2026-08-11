@@ -1,0 +1,48 @@
+{
+  "_id": 2702,
+  "id": "glupov_rye_bread",
+  "name": "Glupov Rye Bread",
+  "description": "Sepotong roti yang padat dan mengenyangkan. Adonannya harus melalui proses fermentasi dingin yang panjang. Setelah dipanggang, roti ini akan membentuk kerak yang keras dengan bagian dalam yang padat dan bertekstur halus. Roti yang sudah jadi dapat disimpan untuk waktu yang lama, menjadikannya ransum yang umum di kalangan pedagang keliling, prajurit, dan pemburu Snezhnaya.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 110016,
+      "id": "rye_flour",
+      "name": "Rye Flour",
+      "amount": 2
+    },
+    {
+      "_id": 100075,
+      "id": "salt",
+      "name": "Salt",
+      "amount": 1
+    },
+    {
+      "_id": 110006,
+      "id": "sugar",
+      "name": "Sugar",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Makanan Pemulihan",
+  "results": {
+    "suspicious": {
+      "_id": 132004,
+      "name": "Suspicious Glupov Rye Bread",
+      "description": "Sepotong roti yang padat dan mengenyangkan. Roti ini terasa sangat berat, sampai-sampai membuat orang bertanya-tanya apakah proses fermentasinya kelewatan total. Bahkan direndam di dalam sup pun tidak membuat roti ini empuk sedikit pun ... Mungkinkah ini sebenarnya adalah alat latihan yang ditujukan untuk menempa tekad seorang prajurit?",
+      "effect": "Memulihkan 18% Max HP Karakter yang dipilih dan memberikan regenerasi 300 HP setiap 5 detik selama 30 detik."
+    },
+    "normal": {
+      "_id": 132005,
+      "name": "Glupov Rye Bread",
+      "description": "Sepotong roti yang padat dan mengenyangkan. Adonannya harus melalui proses fermentasi dingin yang panjang. Setelah dipanggang, roti ini akan membentuk kerak yang keras dengan bagian dalam yang padat dan bertekstur halus. Roti yang sudah jadi dapat disimpan untuk waktu yang lama, menjadikannya ransum yang umum di kalangan pedagang keliling, prajurit, dan pemburu Snezhnaya.",
+      "effect": "Memulihkan 20% Max HP Karakter yang dipilih dan memberikan regenerasi 390 HP setiap 5 detik selama 30 detik."
+    },
+    "delicious": {
+      "_id": 132006,
+      "name": "Delicious Glupov Rye Bread",
+      "description": "Sepotong roti yang padat dan mengenyangkan. Satu gigitan memberikan rasa asam yang stabil dan lembut, diikuti oleh aroma biji gandum hitam yang unik dan bersahaja. Roti ini memiliki cita rasa kaya dan pekat, membuat setiap kunyahannya terasa sangat memuaskan, diakhiri dengan rasa manis yang membekas di tenggorokan bagaikan percikan kehidupan menyala yang terkubur di bawah tanah beku.",
+      "effect": "Memulihkan 22% Max HP Karakter yang dipilih dan memberikan regenerasi 470 HP setiap 5 detik selama 30 detik."
+    }
+  }
+}

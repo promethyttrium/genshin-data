@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Beta_Rock",
   "description": "Makhluk spora yang punya sedikit kecerdasan. Memiliki kemampuan beradaptasi yang sangat kuat.\\nBagian topinya telah mengumpulkan banyak elemen Geo sehingga membuatnya menjadi cangkang yang keras. Agar bisa mengayunkan kepalanya yang berat, struktur tubuhnya harus bergerak secara lebih terkoordinasi.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

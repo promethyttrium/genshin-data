@@ -1,0 +1,42 @@
+{
+  "_id": 2701,
+  "id": "stroganina",
+  "name": "Stroganina",
+  "description": "Dilimlenmiş balık şeritleri. Donuk haldeki balık, yüzeyi boyunca keskin bir bıçakla açılı kesimler yapılarak ince, kıvrık şeritler halinde kesilir. Genellikle iri parçalı tuz ile servis edilen bu yemek, Snezhnaya'da yaygın tüketilen bir soğuk çiğ meze tabağıdır.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 100084,
+      "id": "fish",
+      "name": "Balık",
+      "amount": 3
+    },
+    {
+      "_id": 100075,
+      "id": "salt",
+      "name": "Tuz",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Saldırı Artırıcı Yemek",
+  "results": {
+    "suspicious": {
+      "_id": 108991,
+      "name": "Stroganina (Tuhaf)",
+      "description": "Dilimlenmiş balık şeritleri. Kalın kısımları diş kıracak kadar donmuşken ince kısımları çoktan eriyip lapa olmuş... En azından Snezhnaya'nın dondurucu soğuğunda muhtemelen mideni bozma konusunda endişelenmene gerek kalmayacak.",
+      "effect": "300 saniyeliğine tüm grup üyelerinin Saldırısını 66 artırır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    },
+    "normal": {
+      "_id": 108992,
+      "name": "Stroganina",
+      "description": "Dilimlenmiş balık şeritleri. Donuk haldeki balık, yüzeyi boyunca keskin bir bıçakla açılı kesimler yapılarak ince, kıvrık şeritler halinde kesilir. Genellikle iri parçalı tuz ile servis edilen bu yemek, Snezhnaya'da yaygın tüketilen bir soğuk çiğ meze tabağıdır.",
+      "effect": "300 saniyeliğine tüm grup üyelerinin Saldırısını 81 artırır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    },
+    "delicious": {
+      "_id": 108993,
+      "name": "Stroganina (Lezzetli)",
+      "description": "Dilimlenmiş balık şeritleri. Kağıt inceliğindeki et şeritleri, buzdan yontulmuş küçük bir taç yaprağı kümesi gibi tabakta üst üste yığılır. Ağzına bir parça attığında taze ve duru bir tatlılık, eriyen karın ferah kucaklayışıyla dilinin ucunu sarar.",
+      "effect": "300 saniyeliğine tüm grup üyelerinin Saldırısını 95 artırır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    }
+  }
+}

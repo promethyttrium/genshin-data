@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人类势力",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Flamingo",
   "description": "来自山崖之上的勇士，在陡峭山峰巡游的部族守卫者。\\n从飞龙爪击的动作中体悟到运用力量真谛的战士，自高处使用的踢击不容小觑。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

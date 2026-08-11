@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Catalisador",
     "faction": [
-      null
+      "Natlan"
     ],
     "talent_card": {
       "_id": 7357,
@@ -29,8 +31,10 @@
     {
       "id": "cooling_treatment",
       "name": "Tratamento Esfriante",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#80C0FFFF\">Dano Hydro</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -50,7 +54,9 @@
       "id": "surfshark_wavebreaker",
       "name": "Tubarão Surfista das Ondas",
       "desc": "Aplica <span style=\"color:#FFFFFFFF\">Mordida do Tubarão</span> a si, entra em <span style=\"color:#FFFFFFFF\">Bênção do Espírito da Noite</span>, então ganha 2 <span style=\"color:#FFFFFFFF\">\"pontos de Espírito da Noite\".</span> (Essa habilidade não pode ser usada após o personagem entrar em <span style=\"color:#FFFFFFFF\">Bênção do Espírito da Noite</span>)<br/>(Personagens com <span style=\"color:#FFFFFFFF\">Mordida do Tubarão</span> aplicado podem usar a Técnica: <span style=\"color:#FFFFFFFF\">Prancha Tubarão</span>)",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "boomsharkalaka",
       "name": "Disparo da Tempestade Explosiva",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, invoca <span style=\"color:#FFFFFFFF\">Míssil Tubarão</span>.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de <span style=\"color:#80C0FFFF\">Dano Hydro</span>, invoca <span style=\"color:#FFFFFFFF\">Míssil Tubarão</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1102,

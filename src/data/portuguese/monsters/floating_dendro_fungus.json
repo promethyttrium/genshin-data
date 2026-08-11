@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Fungus_Un_Delta_Grass",
   "description": "Um organismo fúngico que possui uma certa inteligência. Ele tem uma grande adaptabilidade.\\nCerta vez, um pesquisador disse que esses são uma espécie de Espectros Dendro. Depois que sua visão foi criticada, ele mudou de ideia, dizendo que havia sido interpretado de maneira literal.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

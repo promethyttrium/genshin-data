@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Arme d'hast",
     "faction": [
-      null
+      "Fontaine"
     ],
     "talent_card": {
       "_id": 9075,
@@ -29,8 +31,10 @@
     {
       "id": "kitchen_skills",
       "name": "Aisance culinaire",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "lowtemperature_cooking",
       "name": "Cuisson à basse température",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et invoque un <span style=\"color:#FFFFFFFF\">mek cuistot en mode « Stockage à froid »</span>.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#99FFFFFF\">DGT Cryo</span> et invoque un <span style=\"color:#FFFFFFFF\">mek cuistot en mode « Stockage à froid »</span>.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "scoring_cuts",
       "name": "Art de la découpe",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et soigne tous vos personnages pour 2 pts.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#99FFFFFF\">DGT Cryo</span> et soigne tous vos personnages pour 2 pts.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -84,7 +92,9 @@
       "id": "constant_offthecuff_cookery",
       "name": "Cuisson impromptue constante",
       "desc": "(Passif) Crée un <span style=\"color:#FFFFFFFF\">mek cuistot multi-usages à palette complète</span> au début du combat.",
-      "skillTag": [],
+      "skillTag": [
+        "Capacité passive"
+      ],
       "points": []
     }
   ]

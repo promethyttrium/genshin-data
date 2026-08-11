@@ -1,0 +1,32 @@
+{
+  "_id": 71,
+  "id": "mortal_travails_series_vii",
+  "name": "Tuần Du Trần Thế - Phần VII",
+  "order": 9,
+  "achievements": [
+    {
+      "id": 80525,
+      "name": "Khúc Trấn Hồn Băng Giá",
+      "desc": "Nắm bắt sức mạnh nguyên tố \"Băng\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 484
+    },
+    {
+      "id": 80526,
+      "name": "Khi Tiếng Hát Xé Tan Màn Đêm",
+      "desc": "Thu thập trọn bộ \"Tuyển Tập Kịch Múa Sao Cực\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 485
+    },
+    {
+      "id": 80528,
+      "name": "Câu Chuyện Của Những Người Chết",
+      "desc": "Thu thập trọn bộ \"Lịch Sử Snezhnaya\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 487
+    }
+  ]
+}

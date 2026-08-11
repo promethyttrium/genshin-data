@@ -13,8 +13,6 @@
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_VolcanoWeasel",
   "description": "Loài chồn núi cổ đại có hình dạng đặc biệt do sống trong môi trường Phlogiston đặc thù tách biệt với thế giới bên ngoài.\\nLoài thú cổ đại này thường ăn các sinh vật giàu Phlogiston, không ngừng tích lũy năng lượng trong lớp vỏ. Trong thời gian dài sinh sống tại phế tích Núi Thánh, dường như do tính chất đặc biệt gần gũi với Phlogiston, nên dần bị ảnh hưởng bởi Thiết Bị Nguồn trong phế tích, hình thành trạng thái cộng sinh đặc biệt với Thiết Bị Nguồn.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

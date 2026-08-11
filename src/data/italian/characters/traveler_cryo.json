@@ -1,0 +1,1307 @@
+{
+  "_id": 10000007,
+  "id": "traveler_cryo",
+  "name": "Viaggiatore (Cryo)",
+  "description": "Un viaggiatore di un altro mondo. Qualcuno gli ha strappato via la sua unica parente, e ora è costretto a intraprendere un viaggio alla ricerca dei Sette.",
+  "weapon_type": {
+    "id": "sword",
+    "name": "Spada"
+  },
+  "element": {
+    "id": "cryo",
+    "name": "Cryo"
+  },
+  "gender": {
+    "id": "malefemale",
+    "name": "Maschio/Femmina"
+  },
+  "release": 1786561200,
+  "substat": "ATT%",
+  "affiliation": "-",
+  "region": {
+    "id": "mainactor",
+    "name": "MAINACTOR"
+  },
+  "rarity": 5,
+  "birthday": [
+    null,
+    null
+  ],
+  "constellation": "Viatrix",
+  "domain": "Dominio della maestria: Eremo",
+  "cv": {
+    "english": "Sarah Miller-Crews e altri",
+    "chinese": "宴宁 & 多多poi",
+    "japanese": "悠木碧 & 古賀葵",
+    "korean": "Lee Sae-ah & Kim Ka-ryoung"
+  },
+  "skills": [
+    {
+      "_id": 100554,
+      "id": "foreign_frostglint",
+      "name": "Gelobarlume straniero",
+      "description": "<span style=\"color:#FFD780FF\">Attacco normale</span><br/>Sferra fino a 5 colpi rapidi.<br/><br/><span style=\"color:#FFD780FF\">Attacco caricato</span><br/>Consuma una determinata quantità di vigore per sferrare 2 colpi di spada rapidi.<br/><br/><span style=\"color:#FFD780FF\">Attacco in picchiata</span><br/>Attacca scagliandosi contro il suolo da mezz'aria, infliggendo DAN agli avversari lungo la traiettoria e DAN ad area all'impatto.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "DAN da 1º colpo",
+          "values": [
+            "44.5%",
+            "48.1%",
+            "51.7%",
+            "56.9%",
+            "60.5%",
+            "64.6%",
+            "70.3%",
+            "76%",
+            "81.7%",
+            "87.9%",
+            "94.1%",
+            "100.3%",
+            "106.5%",
+            "112.7%",
+            "118.9%"
+          ]
+        },
+        {
+          "label": "DAN da 2º colpo",
+          "values": [
+            "43.4%",
+            "47%",
+            "50.5%",
+            "55.5%",
+            "59.1%",
+            "63.1%",
+            "68.7%",
+            "74.2%",
+            "79.8%",
+            "85.9%",
+            "91.9%",
+            "98%",
+            "104%",
+            "110.1%",
+            "116.1%"
+          ]
+        },
+        {
+          "label": "DAN da 3º colpo",
+          "values": [
+            "53%",
+            "57.3%",
+            "61.6%",
+            "67.8%",
+            "72.1%",
+            "77%",
+            "83.8%",
+            "90.6%",
+            "97.3%",
+            "104.7%",
+            "112.1%",
+            "119.5%",
+            "126.9%",
+            "134.3%",
+            "141.7%"
+          ]
+        },
+        {
+          "label": "DAN da 4º colpo",
+          "values": [
+            "58.3%",
+            "63.1%",
+            "67.8%",
+            "74.6%",
+            "79.3%",
+            "84.8%",
+            "92.2%",
+            "99.7%",
+            "107.1%",
+            "115.3%",
+            "123.4%",
+            "131.5%",
+            "139.7%",
+            "147.8%",
+            "155.9%"
+          ]
+        },
+        {
+          "label": "DAN da 5º colpo",
+          "values": [
+            "70.8%",
+            "76.5%",
+            "82.3%",
+            "90.5%",
+            "96.3%",
+            "102.9%",
+            "111.9%",
+            "121%",
+            "130%",
+            "139.9%",
+            "149.8%",
+            "159.7%",
+            "169.5%",
+            "179.4%",
+            "189.3%"
+          ]
+        },
+        {
+          "label": "DAN da ATT caricato",
+          "values": [
+            "55.9% + 72.2%",
+            "60.5% + 78.1%",
+            "65% + 84%",
+            "71.5% + 92.4%",
+            "76% + 98.3%",
+            "81.3% + 105%",
+            "88.4% + 114.2%",
+            "95.5% + 123.5%",
+            "102.7% + 132.7%",
+            "110.5% + 142.8%",
+            "118.3% + 152.9%",
+            "126.1% + 163%",
+            "133.9% + 173%",
+            "141.7% + 183.1%",
+            "149.5% + 193.2%"
+          ]
+        },
+        {
+          "label": "Costo vigore ATT caricato",
+          "values": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "label": "DAN da ATT in picchiata",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "DAN da ATT in picchiata basso/alto",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 10128,
+      "id": "frostbound_javelin",
+      "name": "Giavellotto glaciale",
+      "description": "Genera un giavellotto di ghiaccio infuso di Cryo, scagliandolo contro i nemici per infliggere più iterazioni di <span style=\"color:#99FFFFFF\">DAN da Cryo</span>.<br/>All'attivazione, il viaggiatore consuma tutti gli accumuli di <span style=\"color:#FFD780FF\">Gelobagliore</span> a disposizione, aumentando a sua volta i DAN inflitti dall'attuale iterazione del Tripudio elementale. Quando vengono consumati 8 accumuli di <b><span style=\"color:#FFD780FF\">Gelobagliore</span></b>, aumenta anche il numero di iterazioni di DAN causate dai giavellotti.<br/><br/>Nello stato di <b><span style=\"color:#FFD780FF\">Splendore: Barlume astrale</span></b>, i DAN dell'attuale iterazione del Tripudio elementale si convertono in <span style=\"color:#99FFFFFF\">DAN da Cryo</span> del tipo di reazione Barlume astrale corrispondente.",
+      "info": "Hai percepito la lama affilata delle stalattiti insieme a Paimon.",
+      "attributes": [
+        {
+          "label": "DAN da giavellotto di ghiaccio",
+          "values": [
+            "55.1% / colpo",
+            "59.3% / colpo",
+            "63.4% / colpo",
+            "68.9% / colpo",
+            "73% / colpo",
+            "77.2% / colpo",
+            "82.7% / colpo",
+            "88.2% / colpo",
+            "93.7% / colpo",
+            "99.2% / colpo",
+            "104.7% / colpo",
+            "110.3% / colpo",
+            "117.2% / colpo",
+            "124% / colpo",
+            "130.9% / colpo"
+          ]
+        },
+        {
+          "label": "Bonus DAN da Gelobagliore",
+          "values": [
+            "2.8%",
+            "3%",
+            "3.2%",
+            "3.4%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%",
+            "4.7%",
+            "5%",
+            "5.2%",
+            "5.5%",
+            "5.9%",
+            "6.2%",
+            "6.5%"
+          ]
+        },
+        {
+          "label": "DAN da Astroconduzione giavellotto di ghiaccio",
+          "values": [
+            "36.8% / colpo singolo",
+            "39.5% / colpo singolo",
+            "42.3% / colpo singolo",
+            "45.9% / colpo singolo",
+            "48.7% / colpo singolo",
+            "51.5% / colpo singolo",
+            "55.1% / colpo singolo",
+            "58.8% / colpo singolo",
+            "62.5% / colpo singolo",
+            "66.2% / colpo singolo",
+            "69.8% / colpo singolo",
+            "73.5% / colpo singolo",
+            "78.1% / colpo singolo",
+            "82.7% / colpo singolo",
+            "87.3% / colpo singolo"
+          ]
+        },
+        {
+          "label": "Bonus DAN da Astroconduzione Gelobagliore",
+          "values": [
+            "1.8%",
+            "2%",
+            "2.1%",
+            "2.3%",
+            "2.4%",
+            "2.6%",
+            "2.8%",
+            "2.9%",
+            "3.1%",
+            "3.3%",
+            "3.5%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%"
+          ]
+        },
+        {
+          "label": "DAN da Turbinio astrale giavellotto di ghiaccio",
+          "values": [
+            "55.1% / colpo singolo",
+            "59.3% / colpo singolo",
+            "63.4% / colpo singolo",
+            "68.9% / colpo singolo",
+            "73% / colpo singolo",
+            "77.2% / colpo singolo",
+            "82.7% / colpo singolo",
+            "88.2% / colpo singolo",
+            "93.7% / colpo singolo",
+            "99.2% / colpo singolo",
+            "104.7% / colpo singolo",
+            "110.3% / colpo singolo",
+            "117.2% / colpo singolo",
+            "124% / colpo singolo",
+            "130.9% / colpo singolo"
+          ]
+        },
+        {
+          "label": "Bonus DAN da Turbinio astrale Gelobagliore",
+          "values": [
+            "2.8%",
+            "3%",
+            "3.2%",
+            "3.4%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%",
+            "4.7%",
+            "5%",
+            "5.2%",
+            "5.5%",
+            "5.9%",
+            "6.2%",
+            "6.5%"
+          ]
+        },
+        {
+          "label": "Nº colpi nell'attacco",
+          "values": [
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3"
+          ]
+        },
+        {
+          "label": "Colpi Gelobagliore aggiuntivi ad accumuli massimi",
+          "values": [
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2"
+          ]
+        },
+        {
+          "label": "TdR",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Costo energia",
+          "values": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 10127,
+      "id": "ice_fog_piercer",
+      "name": "Perforazione della Nebbia glaciale",
+      "description": "Il viaggiatore attacca l'avversario sferrando un affondo con la sua arma e rilascia una nebbia glaciale, infliggendo <span style=\"color:#99FFFFFF\">DAN da Cryo</span> agli avversari di fronte e creando una Stella perforagelo accanto a sé.<br/><br/><span style=\"color:#FFD780FF\">Stella perforagelo</span><br/>· Segue i membri del tuo gruppo per il campo e scaglia periodicamente cristalli di ghiaccio contro gli avversari vicini, infliggendo <span style=\"color:#99FFFFFF\">DAN da Cryo</span>.<br/>Nello stato di <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span>, la Stella perforagelo non scaglia più cristalli di ghiaccio contro l'avversario periodicamente, bensì come attacco coordinato ogni volta che il viaggiatoreil viaggiatore non è in un combattimento, <span style=\"color:#FFD780FF\">Gelobagliore</span> si esaurisce dopo 30 s.",
+      "info": "Hai esaminato la formazione del gelo insieme a Paimon.",
+      "attributes": [
+        {
+          "label": "DAN da abilità",
+          "values": [
+            "91.7%",
+            "98.6%",
+            "105.4%",
+            "114.6%",
+            "121.5%",
+            "128.4%",
+            "137.5%",
+            "146.7%",
+            "155.9%",
+            "165%",
+            "174.2%",
+            "183.4%",
+            "194.8%",
+            "206.3%",
+            "217.7%"
+          ]
+        },
+        {
+          "label": "DAN da cristallo di ghiaccio",
+          "values": [
+            "21.4%",
+            "23%",
+            "24.6%",
+            "26.7%",
+            "28.3%",
+            "29.9%",
+            "32.1%",
+            "34.2%",
+            "36.4%",
+            "38.5%",
+            "40.6%",
+            "42.8%",
+            "45.5%",
+            "48.1%",
+            "50.8%"
+          ]
+        },
+        {
+          "label": "Durata Stella perforagelo",
+          "values": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "label": "TdR",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "everkeen_frost",
+      "name": "Gelo perpetuo",
+      "description": "Nello stato di <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span>, quando una <span style=\"color:#FFD780FF\">Stella perforagelo</span> è in campo, i DAN di attacchi normali, caricati e in picchiata del viaggiatore vengono convertiti in <span style=\"color:#99FFFFFF\">DAN da Cryo</span> che non possono essere influenzati da altre infusioni elementali. In più, i DAN inflitti aumentano di un 80% dell'ATT del viaggiatore.",
+      "level": 1
+    },
+    {
+      "id": "lucent_ice",
+      "name": "Ghiaccio lucente",
+      "description": "La maestria elementale del viaggiatore aumenta di un 8% del suo ATT. L'incremento massimo ottenibile in questo modo è di 160.",
+      "level": 4
+    },
+    {
+      "id": "stellar_jubilee_illusory_frostmirror",
+      "name": "Giubileo astrale: Specchio del gelo illusorio",
+      "description": "Il viaggiatore entra nello stato di <b><span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span></b> quando si trova all'interno di un <span style=\"color:#FFD780FF\">Campo astropolare</span> o nello stato di <span style=\"color:#FFD780FF\">Splendore: Turbinio astrale</span> per 8 s dopo che un membro vicino del gruppo ha innescato una reazione di Turbinio astrale.<br/>Quando un membro del gruppo innesca una reazione di Superconduzione o Turbinio di Cryo, quest'ultima diventa una reazione di Astroconduzione o di Turbinio astrale, e i DAN base di tale reazione aumentano di un ulteriore 0,35% per ogni 100 di ATT del viaggiatore. In questo modo è possibile ottenere fino a un 7% di aumento massimo.",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 81,
+      "id": "somber_freeze",
+      "name": "Freddo tetro",
+      "description": "L'energia elementale del viaggiatore si rigenera di 5 quando infligge DAN da Barlume astrale. Quest'effetto può attivarsi una volta ogni 0,5 s.",
+      "level": 1
+    },
+    {
+      "_id": 82,
+      "id": "frostfall_reverberation",
+      "name": "Riverbero della cascata di gelo",
+      "description": "La maestria elementale del personaggio attivo aumenta di 60 per 5 s quando un avversario viene colpito da un <span style=\"color:#FFD780FF\">cristallo di ghiaccio</span> scagliato dall'abilità elementale <color=#FFD780FF><b>Perforazione della Nebbia glaciale</b></color>.<br/>Inoltre, quando un personaggio influenzato dal suddetto effetto innesca una reazione di Barlume astrale o infligge DAN da reazione di Barlume astrale, l'aumento di maestria elementale sopracitato aumenta a 120 per la sua durata.",
+      "level": 2
+    },
+    {
+      "_id": 83,
+      "id": "glacial_shard",
+      "name": "Scheggia glaciale",
+      "description": "Aumenta di 3 il livello del Tripudio elementale <color=#FFD780FF><b>Giavellotto glaciale</b></color>.<br/>Il livello di potenziamento massimo è 15.",
+      "level": 3
+    },
+    {
+      "_id": 84,
+      "id": "enduring_ice",
+      "name": "Ghiaccio perenne",
+      "description": "La durata della <span style=\"color:#FFD780FF\">Stella perforagelo</span> creata dall'abilità elementale <color=#FFD780FF><b>Perforazione della Nebbia glaciale</b></color> aumenta di un 25%.",
+      "level": 4
+    },
+    {
+      "_id": 85,
+      "id": "bittercold_fog",
+      "name": "Nebbia gelida",
+      "description": "Aumenta di 3 il livello dell'abilità elementale <color=#FFD780FF><b>Perforazione della Nebbia glaciale</b></color>.<br/>Il livello di potenziamento massimo è 15.",
+      "level": 5
+    },
+    {
+      "_id": 86,
+      "id": "brumal_grimfrost",
+      "name": "Bruma del gelo cupo",
+      "description": "Ogni accumulo di <b><span style=\"color:#FFD780FF\">Gelobagliore</span></b> consumato quando si usa il Tripudio elementale <color=#FFD780FF><b>Giavellotto glaciale</b></color> aumenta i DAN da reazione di Barlume astrale inflitti dagli altri membri del gruppo di un 5% per 15 s. In questo modo è possibile ottenere un 40% di aumento massimo.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "-",
+            "912"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "-",
+            "18"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "-",
+            "57"
+          ]
+        },
+        {
+          "label": "ATT%",
+          "values": [
+            "-",
+            "0.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "2342",
+            "3024"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "46",
+            "59"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "147",
+            "190"
+          ]
+        },
+        {
+          "label": "ATT%",
+          "values": [
+            "0.0%",
+            "0.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "4529",
+            "5013"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "88",
+            "98"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "284",
+            "315"
+          ]
+        },
+        {
+          "label": "ATT%",
+          "values": [
+            "0.0%",
+            "6.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104101,
+        "id": "brilliant_diamond_sliver",
+        "name": "Scheggia di diamante brillante",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Asteria del vento",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112005,
+        "id": "damaged_mask",
+        "name": "Maschera danneggiata",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "5766",
+            "6411"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "113",
+            "125"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "362",
+            "402"
+          ]
+        },
+        {
+          "label": "ATT%",
+          "values": [
+            "6.0%",
+            "12.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104102,
+        "id": "brilliant_diamond_fragment",
+        "name": "Frammento di diamante brillante",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Asteria del vento",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112005,
+        "id": "damaged_mask",
+        "name": "Maschera danneggiata",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "7164",
+            "7648"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "140",
+            "149"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "450",
+            "480"
+          ]
+        },
+        {
+          "label": "ATT%",
+          "values": [
+            "12.0%",
+            "12.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104102,
+        "id": "brilliant_diamond_fragment",
+        "name": "Frammento di diamante brillante",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Asteria del vento",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112006,
+        "id": "stained_mask",
+        "name": "Maschera sporca",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "8401",
+            "8885"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "164",
+            "174"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "527",
+            "558"
+          ]
+        },
+        {
+          "label": "ATT%",
+          "values": [
+            "12.0%",
+            "18.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104103,
+        "id": "brilliant_diamond_chunk",
+        "name": "Pezzo di diamante brillante",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Asteria del vento",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112006,
+        "id": "stained_mask",
+        "name": "Maschera sporca",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "9638",
+            "10122"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "188",
+            "198"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "605",
+            "635"
+          ]
+        },
+        {
+          "label": "ATT%",
+          "values": [
+            "18.0%",
+            "24.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104103,
+        "id": "brilliant_diamond_chunk",
+        "name": "Pezzo di diamante brillante",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Asteria del vento",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112007,
+        "id": "ominous_mask",
+        "name": "Maschera nefasta",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "10875",
+            "10875"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "212",
+            "212"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "683",
+            "683"
+          ]
+        },
+        {
+          "label": "ATT%",
+          "values": [
+            "24.0%",
+            "24.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104104,
+        "id": "brilliant_diamond_gemstone",
+        "name": "Gemma di diamante brillante",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Asteria del vento",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112007,
+        "id": "ominous_mask",
+        "name": "Maschera nefasta",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104365,
+          "id": "teachings_of_charity",
+          "name": "Insegnamenti della benevolenza",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Nucleo chimerico",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guida alla fermezza",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Nucleo chimerico simbiotico",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104372,
+          "id": "guide_to_glory",
+          "name": "Guida alla gloria",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Nucleo chimerico simbiotico",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guida alla benevolenza",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Nucleo chimerico simbiotico",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guida alla fermezza",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Nucleo chimerico simbiotico",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104373,
+          "id": "philosophies_of_glory",
+          "name": "Filosofie della gloria",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nucleo chimerico primordiale",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Campione asceso: Regina",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Filosofie della benevolenza",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nucleo chimerico primordiale",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Campione asceso: Regina",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Filosofie della fermezza",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nucleo chimerico primordiale",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Campione asceso: Regina",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104373,
+          "id": "philosophies_of_glory",
+          "name": "Filosofie della gloria",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nucleo chimerico primordiale",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Campione asceso: Regina",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Corona della saggezza",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 200701,
+      "name": "Rinascita di cielo e terra",
+      "description": "Un completo indossato {F#dalla viaggiatrice}{M#dal viaggiatore}, che ha accompagnato le \"stelle\" gemelle nei loro viaggi alla scoperta di innumerevoli mondi. Non riescono ancora a comprendere il vero scopo del cosmo, ma ogni domanda posta li porta sicuramente un passo più vicini alla risposta finale.",
+      "isDefault": false,
+      "characterName": "Lumine",
+      "characterId": 10000007,
+      "source": [
+        "Completa la missione dell'Archon \"Luna vera\" per ottenere"
+      ],
+      "filename_card": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Card",
+      "filename_icon": "UI_AvatarIcon_PlayerGirlCostumeCWXR",
+      "filename_iconCircle": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Circle",
+      "filename_splash": "UI_Costume_PlayerGirlCostumeCWXR",
+      "filename_sideIcon": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR"
+    },
+    {
+      "id": 200700,
+      "name": "Astro nascente",
+      "description": "Il completo del{M# viaggiatore}{F#la viaggiatrice}. Comodo e perfetto per un lungo viaggio.",
+      "isDefault": true,
+      "characterName": "Lumine",
+      "characterId": 10000007,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_PlayerGirl_Circle"
+    }
+  ]
+}

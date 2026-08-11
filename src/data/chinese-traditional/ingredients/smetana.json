@@ -18,6 +18,11 @@
       "name": "白靈果釀雞"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "紅菜湯"
+    },
+    {
       "_id": 3601,
       "id": "lakkaberry_krumkakes",
       "name": "白靈蛋捲"
@@ -41,10 +46,24 @@
       "_id": 3609,
       "id": "veggie_pot_soup",
       "name": "蔬菜罐罐湯"
+    },
+    {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "罐罐燜肉"
+    },
+    {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "雪國冷湯"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "千層蜂蜜糕"
     }
   ],
   "source": [
     "烹飪加工獲得"
-  ],
-  "rarity": 0
+  ]
 }

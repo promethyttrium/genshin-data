@@ -1,0 +1,16 @@
+{
+  "_id": 380001,
+  "id": "phantasmal_gift_star_omen",
+  "name": "Dono fantasmico: Presagio stellare",
+  "description": "\"In linea di principio, molti fenomeni di questo mondo possono essere definiti 'immagini'. Pertanto, l'immagine che hai intravisto nella sfera di cristallo può, in un certo senso, essere considerata un'estensione della realtà fisica. In breve, anche se Alice e Nicole si rifiutano di ammetterlo, la legittimità dell'idromanzia è innegabile!\"",
+  "rarity": 4,
+  "type": {
+    "id": "Catalyst",
+    "name": "Catalizzatore"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341801,
+  "icon_path": "UI_EquipIcon_Catalyst_Kristall",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_Kristall"
+}

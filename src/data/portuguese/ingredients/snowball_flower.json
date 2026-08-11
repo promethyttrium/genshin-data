@@ -1,0 +1,21 @@
+{
+  "_id": 101280,
+  "id": "snowball_flower",
+  "name": "Flor Bola de Neve",
+  "description": "Uma flor charmosa com um aglomerado esférico de pétalas. Quando a neve cai sobre ela, a flor inteira parece uma bola de neve minúscula.",
+  "recipes": [
+    {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Okroshka do Reino da Neve"
+    },
+    {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "Flores Nevadas Sobre Campos de Neve"
+    }
+  ],
+  "source": [
+    "Recomendação: Coletável em Snezhnaya"
+  ]
+}

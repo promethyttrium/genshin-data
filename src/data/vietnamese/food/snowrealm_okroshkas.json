@@ -1,0 +1,54 @@
+{
+  "_id": 3702,
+  "id": "snowrealm_okroshkas",
+  "name": "Okroshka Xứ Tuyết",
+  "description": "Món súp dùng lạnh. Xếp đều các nguyên liệu đã được nấu chín vào bát, sau đó rưới phần nước súp được pha từ Smetana lên trên. Trong những ngày lạnh nhất, một số người Snezhnaya sẽ thử thách bằng cách uống một hơi cạn sạch bát súp lạnh lớn, để chứng minh mình là dũng sĩ chiến thắng cái lạnh khắc nghiệt.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 101280,
+      "id": "snowball_flower",
+      "name": "Hoa Tuyết Cầu",
+      "amount": 3
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Trứng Chim",
+      "amount": 2
+    },
+    {
+      "_id": 110005,
+      "id": "ham",
+      "name": "Giăm Bông",
+      "amount": 1
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Món Dạng Phòng Ngự",
+  "results": {
+    "suspicious": {
+      "_id": 108994,
+      "name": "Okroshka Xứ Tuyết Kỳ Lạ",
+      "description": "Món súp dùng lạnh. Từ thứ nước đục ngầu ấy, phải cố gắng lắm mới nhận ra được vài nguyên liệu. Rau củ nát như vụn giấy, nhưng lại có những miếng giăm bông cắt to một cách bất thường. Bởi vì đến phút cuối mới chợt nhớ ra nên đành phải cuống quýt cho tạm vào thôi...",
+      "effect": "Phòng ngự cả đội tăng 165 điểm, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    },
+    "normal": {
+      "_id": 108995,
+      "name": "Okroshka Xứ Tuyết",
+      "description": "Món súp dùng lạnh. Xếp đều các nguyên liệu đã được nấu chín vào bát, sau đó rưới phần nước súp được pha từ Smetana lên trên. Trong những ngày lạnh nhất, một số người Snezhnaya sẽ thử thách bằng cách uống một hơi cạn sạch bát súp lạnh lớn, để chứng minh mình là dũng sĩ chiến thắng cái lạnh khắc nghiệt.",
+      "effect": "Phòng ngự cả đội tăng 200 điểm, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    },
+    "delicious": {
+      "_id": 108996,
+      "name": "Okroshka Xứ Tuyết Ngon",
+      "description": "Món súp dùng lạnh. Nước súp màu trắng sữa ánh lên sắc dịu nhẹ. Khi dùng mang lại cảm giác thanh mát như tuyết trắng, ngay sau đó là vị béo ngậy của Smetana khiến tinh thần càng thêm phấn chấn. Rau củ giòn tan, vị thơm ngậy lòng đỏ trứng, giăm bông thái hạt lựu tươi ngon, mỗi muỗng súp đều đem đến một cảm nhận khác biệt, như đang khui hộp mù chứa đầy bất ngờ vậy.",
+      "effect": "Phòng ngự cả đội tăng 235 điểm, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    }
+  }
+}

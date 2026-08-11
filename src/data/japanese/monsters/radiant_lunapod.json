@@ -13,7 +13,6 @@
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_Magbeast_Squid",
   "description": "長い間古き月の力に浸されて独特な生態へと進化した魔獣。\\n災厄が大地を覆った時代、絶海に生息していた種族も災厄から逃れることはできなかった。月光を受け入れられなかった者たちは、たとえ天にも届く巨大な波を起こす大海蛇であろうと、すべてを呑み込もうとする独眼の怪獣であろうと例外なく、泡沫のように消えてしまった…",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

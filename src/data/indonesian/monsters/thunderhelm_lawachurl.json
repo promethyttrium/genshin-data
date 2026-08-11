@@ -13,7 +13,6 @@
   "categoryText": "Suku Hilichurl",
   "filename_icon": "UI_MonsterIcon_Brute_Electric_01",
   "description": "Seekor \"raja\" Hilichurl yang berjalan di tengah badai petir.\\nHilichurl raksasa ini disebut dengan julukan \"Lawa\" oleh kawan sejenisnya. Tubuh besarnya penuh dengan elemen Electro, dan Energi Elemental tumbuh di antara celah-celah tubuhnya dalam bentuk Electro Crystal.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

@@ -429,7 +429,7 @@
     {
       "id": "paradoxical_practice",
       "name": "Çelişkili Eğitim",
-      "description": "Shikanoin Heizou savaş alanındayken Girdap tepkimesi etkinleştirirse <span style=\"color:#FFD780FF\">Nabız Kesen Vuruş</span> için 1 Bakış Açısı biriktirir. Bu etki 0,1 saniyede bir tetiklenebilir.",
+      "description": "Shikanoin Heizou savaş alanındayken Girdap veya Yıldız Girdabı tepkimesi tetiklerse <span style=\"color:#FFD780FF\">Nabız Kesen Vuruş</span> için 1 Bakış Açısı biriktirir. Bu etki 0,1 saniyede bir tetiklenebilir.",
       "level": 1
     },
     {

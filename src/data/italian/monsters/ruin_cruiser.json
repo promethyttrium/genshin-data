@@ -28,7 +28,6 @@
   "categoryText": "Automi",
   "filename_icon": "UI_MonsterIcon_Apparatus_Enigma_BionicDrone",
   "description": "Varie macchine dalla forma bizzarra che hanno assunto forme e funzioni differenti per adattarsi a obiettivi diversi.\\nLa leggenda narra che siano macchine da guerra di una nazione che è già stata distrutta. Rispetto alle più comuni Guardie delle rovine, le loro forme hanno un valore maggiore per lo studio della biomimesi. L'ispirazione per il design decentralizzato e le modalità di combattimento sembrano derivare da quello degli alveari, e consentono di cambiare forma e di attaccare da diverse direzioni.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

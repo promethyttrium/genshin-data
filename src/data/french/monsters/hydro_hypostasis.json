@@ -13,7 +13,6 @@
   "categoryText": "Entités élémentaires",
   "filename_icon": "UI_MonsterIcon_Effigy_Water",
   "description": "Nom de code « He », une entité Hydro de niveau supérieur.\\nLes Hypostases ont de grandes capacités de rejet et expulseront sans pitié tous ceux qui les testent.\\nSon comportement de rejet s'étend même aux éléments naturels.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

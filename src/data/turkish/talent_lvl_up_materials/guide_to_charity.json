@@ -1,0 +1,30 @@
+{
+  "_id": 104366,
+  "id": "guide_to_charity",
+  "name": "Merhamet Rehberi",
+  "description": "Yetenek Seviyesi Yükseltme Malzemesi.\\nMerhamet, donmuş diyarın kurtuluşudur.\\nBaşkalarına karşı insafı besler. Rüzgar ve kar diyarında, ruhunun günahları için içtenlikle tövbe eden herkesin günahları Merhamet adına bağışlanacaktır.",
+  "source": [
+    "Yer Tutucu - Üretilebilir Miktar: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104365,
+        "id": "teachings_of_charity",
+        "name": "Merhamet Öğretisi",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Ustalık Zindanı: Tefekkür IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Pazartesi",
+    "Perşembe",
+    "Pazar"
+  ]
+}

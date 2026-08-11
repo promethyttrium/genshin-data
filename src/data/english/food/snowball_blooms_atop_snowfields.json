@@ -1,0 +1,65 @@
+{
+  "_id": 3706,
+  "id": "snowball_blooms_atop_snowfields",
+  "name": "Snowball Blooms Atop Snowfields",
+  "description": "A classic layered salad. Each ingredient is prepared separately, then stacked in layers with seasoned sour cream dressing spread between them. Once assembled, the salad is usually left to rest for a while so the flavors can fully meld. The finished dish resembles clusters of snowball blooms blooming over a snowy field, which is how it earned its name.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 101280,
+      "id": "snowball_flower",
+      "name": "Snowball Flower",
+      "amount": 3
+    },
+    {
+      "_id": 100084,
+      "id": "fish",
+      "name": "Fish",
+      "amount": 2
+    },
+    {
+      "_id": 110009,
+      "id": "cheese",
+      "name": "Cheese",
+      "amount": 1
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Bird Egg",
+      "amount": 1
+    }
+  ],
+  "dish_type": "ATK-Boosting Dish",
+  "results": {
+    "suspicious": {
+      "_id": 132013,
+      "name": "Suspicious Snowball Blooms Atop Snowfields",
+      "description": "A classic layered salad. After sitting out for a long time, its shape has become unstable. Worse yet, all the ingredients seem to have pulled off a chaotic migration that muddle the distinct flavors of each layer... Though it is still edible, it has lost the crisp texture a salad should have.",
+      "effect": "Increases all party members' ATK by 160 for 300s. In Co-Op Mode, this effect only applies to your own character(s)."
+    },
+    "normal": {
+      "_id": 132014,
+      "name": "Snowball Blooms Atop Snowfields",
+      "description": "A classic layered salad. Each ingredient is prepared separately, then stacked in layers with seasoned sour cream dressing spread between them. Once assembled, the salad is usually left to rest for a while so the flavors can fully meld. The finished dish resembles clusters of snowball blooms blooming over a snowy field, which is how it earned its name.",
+      "effect": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s)."
+    },
+    "delicious": {
+      "_id": 132015,
+      "name": "Delicious Snowball Blooms Atop Snowfields",
+      "description": "A classic layered salad. The snowball flowers lining the rim seem to bloom at the very end of a winter wasteland, and the rich, golden yolk serves as a setting sun painting the horizon with its light. You remain entirely lost in this delightful culinary artwork, until your spoon taps the bottom of an empty plate. Wait... when did I finish the whole thing?",
+      "effect": "Increases all party members' ATK by 228 for 300s. In Co-Op Mode, this effect only applies to your own character(s)."
+    },
+    "special": {
+      "_id": 132017,
+      "id": "lakeside_snow_swan",
+      "name": "Lakeside Snow Swan",
+      "description": "Odette's specialty. A small portion of salad rests quietly at the center of the plate as if illuminated by a spotlight on center stage, each meticulous layer arranged as precise as her own dance steps. The ingredients have been so carefully calculated that finishing the entire portion won't affect your weight tomorrow... So go ahead, enjoy it completely guilt-free!",
+      "effect": "Increases all party members' ATK by 274 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+      "character": {
+        "id": "odette",
+        "name": "Odette"
+      }
+    }
+  }
+}

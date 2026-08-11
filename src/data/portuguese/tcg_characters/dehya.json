@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Espadão",
     "faction": [
-      null,
-      null
+      "Sumeru",
+      "Eremitas"
     ],
     "talent_card": {
       "_id": 4367,
@@ -30,8 +32,10 @@
     {
       "id": "sandstorm_assault",
       "name": "Técnica da Espada Dourada",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,8 +54,10 @@
     {
       "id": "molten_inferno",
       "name": "Inferno Derretido",
-      "desc": "Invoca <span style=\"color:#FFFFFFFF\">Prisão Flamejante</span>; Se Prisão Flamejante já existir, então primeiramente causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Invoca <span style=\"color:#FFFFFFFF\">Prisão Flamejante</span>; Se Prisão Flamejante já existir, então primeiramente causa 1 ponto de <span style=\"color:#FF9999FF\">Dano Pyro</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -64,8 +70,10 @@
     {
       "id": "leonine_bite",
       "name": "Mordida da Leoa",
-      "desc": "Causa ? pontos de ? e depois realiza \"<span style=\"color:#FFFFFFFF\">Preparar Habilidade</span>\" para <span style=\"color:#FFFFFFFF\">Chute-Labareda</span>.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#FF9999FF\">Dano Pyro</span> e depois realiza \"<span style=\"color:#FFFFFFFF\">Preparar Habilidade</span>\" para <span style=\"color:#FFFFFFFF\">Chute-Labareda</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1103,

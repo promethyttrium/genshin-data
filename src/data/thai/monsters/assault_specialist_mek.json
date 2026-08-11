@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Mechanical Spur Gear",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Meshing Gear",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "จักรกลอัตโนมัติ",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01",
   "description": "เช่นเดียวกับ \"จักรกลสอดแนม\" มันเป็นหนึ่งในจักรกลของกลไกเครื่องลานชนิดใหม่ ที่ออกแบบและผลิตตั้งแต่เริ่มแรก (หลายร้อยปีต่อมา ไม่มีใครเรียกมันว่า \"ชนิดใหม่\" อีกแล้ว ชื่อนี้ใช้เพื่อแยกแยะกลไกเครื่องลานแบบดั้งเดิม ที่มีพลังงานศักย์ในเวลานั้น)\\nฉายานี้ใช้เพื่อรำลึกถึงเพื่อนของนักประดิษฐ์ และจุดประสงค์เดิมของการออกแบบ คือ เพื่อช่วยเหลือผู้คน อย่างไรก็ตาม ในภายหลังผู้คนมักเชื่อว่าการใช้มันเพื่อโจมตีคน มีข้อได้เปรียบกว่าการใช้คนเพื่อโจมตีคน",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 3,
   "stats": {

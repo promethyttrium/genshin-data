@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Анемо",
+    "weapon": "Стрелковое",
     "faction": [
-      null
+      "Сумеру"
     ],
     "talent_card": {
       "_id": 5589,
@@ -29,8 +31,10 @@
     {
       "id": "parthian_shot",
       "name": "Парфянский выстрел",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "wind_realm_of_nasamjnin",
       "name": "Царство ветров насамджнин",
-      "desc": "Наносит ?, ? ед. У персонажа возникает <span style=\"color:#FFFFFFFF\">Проявление бури</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80FFD7FF\">Анемо урон</span>, 3 ед. У персонажа возникает <span style=\"color:#FFFFFFFF\">Проявление бури</span>.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "the_winds_secret_ways",
       "name": "Тайные тропы ветров",
-      "desc": "Наносит ?, ? ед. Призывает помощника: <span style=\"color:#FFFFFFFF\">Ослепительный многогранник</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80FFD7FF\">Анемо урон</span>, 1 ед. Призывает помощника: <span style=\"color:#FFFFFFFF\">Ослепительный многогранник</span>.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1105,

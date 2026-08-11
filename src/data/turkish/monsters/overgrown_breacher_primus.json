@@ -13,7 +13,6 @@
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_02",
   "description": "Genelde Elynas'ta ortaya çıkan tuhaf bir yaşam formu.\\nFontaine'de kaydedilen ilk Patojen gözlem sonuçları felaketten kısa bir süre sonradır. İlgili kayıtlara bakıldığında Patojenlerin hem insanlara saldıran hem de onları koruyan farklı türleri olduğu görülüyor.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01",
   "description": "Elektrikle güçlendirilmiş bir savaş çekici kullanan iri yapılı bir avcı eri.\\nFatui askerleri; maaş, cephane ve malzeme olmak üzere bu üç verimli kaynağı da temin edebilir.\\nAncak bunun karşılığında gurbette ailelerini görmeden sayısız gün geçirirler ve hiç tanımadıkları yoldaşlarına canlarını emanet ederler.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

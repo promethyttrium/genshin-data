@@ -8,17 +8,21 @@
     "hp": 3,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ไม่มีธาตุ",
+    "weapon": "อาวุธอื่น ๆ",
     "faction": [
-      null,
-      null
+      "มอนสเตอร์",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "shooting",
       "name": "Shooting",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง? 1 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "multishot",
       "name": "Multishot",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง? 5 หน่วย",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1108,
@@ -52,7 +58,9 @@
       "id": "hide",
       "name": "Hide",
       "desc": "[ติดตัว] หลังจากที่ตัวละครนี้ใช้สกิล จะเปลี่ยนเป็นตัวละครถัดไปโดยอัตโนมัติ",
-      "skillTag": [],
+      "skillTag": [
+        "สกิลติดตัว"
+      ],
       "points": []
     }
   ]

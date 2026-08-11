@@ -13,7 +13,6 @@
   "categoryText": "Dağ Yabanileri",
   "filename_icon": "UI_MonsterIcon_Brute_Ice_01",
   "description": "Karın ve sisin içinde azametle yürüyen gizemli bir dağ yabanisi \"lordu\".\\nKabiledekiler bu devasa dağ yabanisine \"reis\" der. Tepeden tırnağa bilenmiş bedeniyle Buzla çevrili doğanın adeta bir parçası gibi görünür ve metanetli duruşu, kuzey diyarındaki donmuş nehirlerin asaletini andırır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

@@ -1,0 +1,1253 @@
+{
+  "_id": 10000148,
+  "id": "alyosha",
+  "name": "Aliosha",
+  "title": "El Sabueso Veloz",
+  "description": "Un cazador profesional que conoce a la perfección las llanuras nevadas de Snezhnaya. Bajo su disposición tranquila, arde un distintivo y fiero ideal.",
+  "weapon_type": {
+    "id": "polearm",
+    "name": "Lanza"
+  },
+  "element": {
+    "id": "electro",
+    "name": "Electro"
+  },
+  "gender": {
+    "id": "male",
+    "name": "Masculino"
+  },
+  "release": 1786395600,
+  "substat": "Recarga de Energía",
+  "affiliation": "Snezhnaya",
+  "region": {
+    "id": "snezhnaya",
+    "name": "Snezhnaya"
+  },
+  "rarity": 4,
+  "birthday": [
+    9,
+    2
+  ],
+  "constellation": "Canis Borzoides",
+  "domain": "Dominio de la maestría: Ascetismo",
+  "cv": {
+    "english": "Kevin Andrew Rivera",
+    "chinese": "王辅平",
+    "japanese": "佐藤元",
+    "korean": "Kim Hye-sung"
+  },
+  "skills": [
+    {
+      "_id": 11481,
+      "id": "skirmishing_spear",
+      "name": "Lanza de escaramuza",
+      "description": "<span style=\"color:#FFD780FF\">Ataque Normal</span><br/>Realiza hasta 4 ataques rápidos con lanza y aplica el efecto de <b><span style=\"color:#FFD780FF\">marca de caza</span></b> al enemigo golpeado por el último ataque.<br/><br/><span style=\"color:#FFD780FF\">Ataque Cargado</span><br/>Consume una cierta cantidad de Aguante para lanzarse al frente e infligir daño a los enemigos en el camino.<br/><br/><span style=\"color:#FFD780FF\">Ataque Descendente</span><br/>Se lanza desde el aire para golpear el suelo, atacando a los enemigos que encuentre en su trayecto e infligiendo Daño en el AdE en el momento del impacto.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Daño de 1er golpe",
+          "values": [
+            "47.8%",
+            "51.7%",
+            "55.6%",
+            "61.2%",
+            "65.1%",
+            "69.5%",
+            "75.6%",
+            "81.7%",
+            "87.8%",
+            "94.5%",
+            "101.2%",
+            "107.9%",
+            "114.5%",
+            "121.2%",
+            "127.9%"
+          ]
+        },
+        {
+          "label": "Daño de 2.º golpe",
+          "values": [
+            "48.2%",
+            "52.1%",
+            "56%",
+            "61.6%",
+            "65.5%",
+            "70%",
+            "76.2%",
+            "82.3%",
+            "88.5%",
+            "95.2%",
+            "101.9%",
+            "108.6%",
+            "115.4%",
+            "122.1%",
+            "128.8%"
+          ]
+        },
+        {
+          "label": "Daño de 3er golpe",
+          "values": [
+            "34.2% + 31.8%",
+            "37% + 34.4%",
+            "39.8% + 37%",
+            "43.8% + 40.7%",
+            "46.6% + 43.3%",
+            "49.8% + 46.3%",
+            "54.1% + 50.3%",
+            "58.5% + 54.4%",
+            "62.9% + 58.5%",
+            "67.7% + 62.9%",
+            "72.4% + 67.3%",
+            "77.2% + 71.8%",
+            "82% + 76.2%",
+            "86.8% + 80.7%",
+            "91.5% + 85.1%"
+          ]
+        },
+        {
+          "label": "Daño de 4.º golpe",
+          "values": [
+            "75.9%",
+            "82%",
+            "88.2%",
+            "97%",
+            "103.2%",
+            "110.3%",
+            "120%",
+            "129.7%",
+            "139.4%",
+            "149.9%",
+            "160.5%",
+            "171.1%",
+            "181.7%",
+            "192.3%",
+            "202.9%"
+          ]
+        },
+        {
+          "label": "Daño de ATQ Cargado",
+          "values": [
+            "111%",
+            "120.1%",
+            "129.1%",
+            "142%",
+            "151%",
+            "161.4%",
+            "175.6%",
+            "189.8%",
+            "204%",
+            "219.5%",
+            "235%",
+            "250.5%",
+            "265.9%",
+            "281.4%",
+            "296.9%"
+          ]
+        },
+        {
+          "label": "Coste de Aguante de ATQ Cargado",
+          "values": [
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts."
+          ]
+        },
+        {
+          "label": "Daño de Caída",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "Daño de impacto de caída baja/alta",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11482,
+      "id": "thunderbolt_strike",
+      "name": "Emboscada fulminante",
+      "description": "Siguiendo su instinto de cazador, produce diferentes efectos dependiendo de si se Pulsar una vez</color><br/>Dispara hacia delante para infligir <span style=\"color:#FFACFFFF\">Daño Electro en el AdE</span>.<br/><br/><span style=\"color:#FFD780FF\">Mantener pulsado</span><br/>Entra en modo puntería y selecciona a los enemigos situados en cierta área frente a él. En este estado, la RES a interrupción de Aliosha aumenta.<br/>Al terminar de apuntar, inflige <span style=\"color:#FFACFFFF\">Daño Electro</span> a los enemigos seleccionados.",
+      "info": "Una vez, un cazador imprudente se acercó demasiado a la punta de una lanza. Tras haber tenido la suerte de sobrevivir a esa lección de sangre, comprendió la verdadera esencia de la supervivencia en las llanuras nevadas.",
+      "attributes": [
+        {
+          "label": "Daño al pulsar una vez",
+          "values": [
+            "286.7%",
+            "308.2%",
+            "329.7%",
+            "358.4%",
+            "379.9%",
+            "401.4%",
+            "430.1%",
+            "458.8%",
+            "487.4%",
+            "516.1%",
+            "544.8%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%"
+          ]
+        },
+        {
+          "label": "Daño al mantener pulsado",
+          "values": [
+            "358.4%",
+            "385.3%",
+            "412.2%",
+            "448%",
+            "474.9%",
+            "501.8%",
+            "537.6%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%",
+            "716.8%",
+            "761.6%",
+            "806.4%",
+            "851.2%"
+          ]
+        },
+        {
+          "label": "TdE",
+          "values": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "label": "Duración de la marca de caza",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Aumento de ATQ de precisión de cazador",
+          "values": [
+            "11.7%",
+            "12.7%",
+            "13.8%",
+            "14.8%",
+            "15.9%",
+            "17%",
+            "18%",
+            "19.1%",
+            "20.1%",
+            "21.2%",
+            "22.5%",
+            "23.7%",
+            "25%",
+            "26.3%",
+            "27.6%"
+          ]
+        },
+        {
+          "label": "Duración de precisión de cazador",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11485,
+      "id": "hunters_advance",
+      "name": "Avance depredador",
+      "description": "Invoca a su fiel compañero <span style=\"color:#FFD780FF\">Tugarin</span> para luchar junto a él y transforma brevemente el área de enfrente en un <span style=\"color:#FFD780FF\">coto de caza tronador</span>.<br/><br/><span style=\"color:#FFD780FF\">Coto de caza tronador</span><br/>·Provoca continuamente a los enemigos cercanos para atraer sus ataques.<br/>·Cada 2 s, inflige una vez <span style=\"color:#FFACFFFF\">Daño Electro en el AdE</span> a los enemigos que hayan entrado en él.<br/><br/><span style=\"color:#FFD780FF\">Tugarin</span><br/>·Si hay enemigos cerca, Tugarin se desplazará rápidamente hacia uno de ellos cada 2 s y le morderá para infligirle <span style=\"color:#FFD780FF\">Daño Electro</span>.<br/>·Si el enemigo golpeado está afectado por una <span style=\"color:#FFD780FF\">marca de caza</span>, dicha marca se activará.<br/>·Tugarin atacará prioritariamente a los enemigos afectados por una <span style=\"color:#FFD780FF\">marca de caza</span>.",
+      "info": "Espera. Espera hasta que no sientas nervios, y entonces el chorlito pechonaranja sobrevolará el bosque de abedules blancos para recibir el disparo.",
+      "attributes": [
+        {
+          "label": "Daño de coto de caza tronador",
+          "values": [
+            "75%",
+            "80.6%",
+            "86.2%",
+            "93.7%",
+            "99.3%",
+            "104.9%",
+            "112.4%",
+            "119.9%",
+            "127.4%",
+            "134.9%",
+            "142.4%",
+            "149.9%",
+            "159.3%",
+            "168.7%",
+            "178%"
+          ]
+        },
+        {
+          "label": "Daño de Tugarin",
+          "values": [
+            "50.2%",
+            "54%",
+            "57.8%",
+            "62.8%",
+            "66.5%",
+            "70.3%",
+            "75.3%",
+            "80.4%",
+            "85.4%",
+            "90.4%",
+            "95.4%",
+            "100.4%",
+            "106.7%",
+            "113%",
+            "119.3%"
+          ]
+        },
+        {
+          "label": "Duración",
+          "values": [
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s"
+          ]
+        },
+        {
+          "label": "TdE",
+          "values": [
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s"
+          ]
+        },
+        {
+          "label": "Energía Elemental",
+          "values": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "awakened_by_the_baying_hounds",
+      "name": "Despertado por los sabuesos aullantes",
+      "description": "Cuando <b><span style=\"color:#FFD780FF\">Tugarin</span></b> realice un ataque, también restaurará Vida al personaje en uso cercano del equipo en una cantidad equivalente al 120% del ATQ de Aliosha.",
+      "level": 1
+    },
+    {
+      "id": "suffer_the_winter_wheat_will",
+      "name": "Sufriendo la voluntad del trigo invernal",
+      "description": "El daño de la Habilidad Elemental y Definitiva de Aliosha aumenta en un 0.35% por cada 1% de Recarga de Energía que tenga. Como máximo, el daño puede aumentar hasta un 70%.",
+      "level": 4
+    },
+    {
+      "id": "into_the_fray",
+      "name": "A la batalla",
+      "description": "Cuando Aliosha esté dentro de un <b><span style=\"color:#FFD780FF\">campo estrellapolar</span></b>, entrará en el estado de <span style=\"color:#FFD780FF\">esplendor: Superconductor Estelar</span>.<br/><span style=\"color:#FFD780FF\">Esplendor: Superconductor Estelar</span><br/>El efecto de <span style=\"color:#FFD780FF\">precisión de cazador</span> obtenido al activar una <b><span style=\"color:#FFD780FF\">marca de caza</span></b> también aumentará en un 20% el daño de Superconductor Estelar infligido por los personajes mientras están en uso.",
+      "level": 0
+    },
+    {
+      "id": "treetop_watch",
+      "name": "Vigía arbóreo",
+      "description": "Muestra la ubicación de los <span style=\"color:#FFD780FF\">objetos típicos de Snezhnaya</span> cercanos en el minimapa.",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1481,
+      "id": "frostvale_thunderclap",
+      "name": "Trueno del valle gélido",
+      "description": "Cuando un personaje cercano del equipo causa una <span style=\"color:#FFACFFFF\">Reacción Elemental Electro</span> contra un enemigo, Aliosha recupera 15 pts. de Energía Elemental. Este efecto solo se puede activar una vez cada 18 s.",
+      "level": 1
+    },
+    {
+      "_id": 1482,
+      "id": "howl_from_afar",
+      "name": "Aullido lejano",
+      "description": "Aumenta en 6 s la duración de la Habilidad Definitiva, <span style=\"color:#FFD780FF\">Avance depredador</span>.<br/>Además, antes de atacar a un enemigo, <b><span style=\"color:#FFD780FF\">Tugarin</span></b> aplicará a un objetivo una <b><span style=\"color:#FFD780FF\">marca de caza</span></b>. Este efecto no activará las <span style=\"color:#FFD780FF\">marcas de caza</span> ya existentes.",
+      "level": 2
+    },
+    {
+      "_id": 1483,
+      "id": "friendly_call",
+      "name": "Llamada entre compañeros",
+      "description": "Aumenta el nivel de habilidad de <span style=\"color:#FFD780FF\">Emboscada fulminante</span> +3.<br/>Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "_id": 1484,
+      "id": "harvest_the_spoils",
+      "name": "Botín de caza",
+      "description": "Cuando <b><span style=\"color:#FFD780FF\">Tugarin</span></b> realice un ataque, también restaurará Vida al personaje cercano del equipo con el menor porcentaje de Vida en una cantidad equivalente al 60% del ATQ de Aliosha.",
+      "level": 4
+    },
+    {
+      "_id": 1485,
+      "id": "when_the_nightbird_falls_silent",
+      "name": "Cese del canto del ruiseñor",
+      "description": "Aumenta el nivel de habilidad de <span style=\"color:#FFD780FF\">Avance depredador</span> +3.<br/>Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "_id": 1486,
+      "id": "standard_reclaimed",
+      "name": "Estandarte reconquistado",
+      "description": "El efecto de <span style=\"color:#FFD780FF\">precisión de cazador</span> obtenido al activar una <b><span style=\"color:#FFD780FF\">marca de caza</span></b> se puede acumular hasta 2 veces. Al alcanzar 2 acumulaciones, también aumentará en 100 pts. la Maestría Elemental del personaje en uso que haya obtenido este efecto.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "Vida Base",
+          "values": [
+            "-",
+            "1003"
+          ]
+        },
+        {
+          "label": "ATQ Base",
+          "values": [
+            "-",
+            "22"
+          ]
+        },
+        {
+          "label": "DEF Base",
+          "values": [
+            "-",
+            "59"
+          ]
+        },
+        {
+          "label": "Recarga de Energía",
+          "values": [
+            "-",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "Vida Base",
+          "values": [
+            "2577",
+            "3326"
+          ]
+        },
+        {
+          "label": "ATQ Base",
+          "values": [
+            "57",
+            "74"
+          ]
+        },
+        {
+          "label": "DEF Base",
+          "values": [
+            "151",
+            "195"
+          ]
+        },
+        {
+          "label": "Recarga de Energía",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "Vida Base",
+          "values": [
+            "4982",
+            "5514"
+          ]
+        },
+        {
+          "label": "ATQ Base",
+          "values": [
+            "111",
+            "122"
+          ]
+        },
+        {
+          "label": "DEF Base",
+          "values": [
+            "293",
+            "324"
+          ]
+        },
+        {
+          "label": "Recarga de Energía",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104141,
+        "id": "vajrada_amethyst_sliver",
+        "name": "Pedacito de amatista vajrada",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Hierbalana",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Semilla quimérica",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "Vida Base",
+          "values": [
+            "6343",
+            "7052"
+          ]
+        },
+        {
+          "label": "ATQ Base",
+          "values": [
+            "141",
+            "157"
+          ]
+        },
+        {
+          "label": "DEF Base",
+          "values": [
+            "373",
+            "414"
+          ]
+        },
+        {
+          "label": "Recarga de Energía",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "Fragmento de amatista vajrada",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Cola cercenada del surcacielos",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Hierbalana",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Semilla quimérica",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "Vida Base",
+          "values": [
+            "7881",
+            "8413"
+          ]
+        },
+        {
+          "label": "ATQ Base",
+          "values": [
+            "175",
+            "187"
+          ]
+        },
+        {
+          "label": "DEF Base",
+          "values": [
+            "463",
+            "494"
+          ]
+        },
+        {
+          "label": "Recarga de Energía",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "Fragmento de amatista vajrada",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Cola cercenada del surcacielos",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Hierbalana",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Célula quimérica simbiótica",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "Vida Base",
+          "values": [
+            "9241",
+            "9773"
+          ]
+        },
+        {
+          "label": "ATQ Base",
+          "values": [
+            "205",
+            "217"
+          ]
+        },
+        {
+          "label": "DEF Base",
+          "values": [
+            "543",
+            "574"
+          ]
+        },
+        {
+          "label": "Recarga de Energía",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "Trozo de amatista vajrada",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Cola cercenada del surcacielos",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Hierbalana",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Célula quimérica simbiótica",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "Vida Base",
+          "values": [
+            "10602",
+            "11134"
+          ]
+        },
+        {
+          "label": "ATQ Base",
+          "values": [
+            "235",
+            "247"
+          ]
+        },
+        {
+          "label": "DEF Base",
+          "values": [
+            "623",
+            "654"
+          ]
+        },
+        {
+          "label": "Recarga de Energía",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "Trozo de amatista vajrada",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Cola cercenada del surcacielos",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Hierbalana",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "Organismo quimérico primigenio",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "Vida Base",
+          "values": [
+            "11962",
+            "11962"
+          ]
+        },
+        {
+          "label": "ATQ Base",
+          "values": [
+            "265",
+            "265"
+          ]
+        },
+        {
+          "label": "DEF Base",
+          "values": [
+            "703",
+            "703"
+          ]
+        },
+        {
+          "label": "Recarga de Energía",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104144,
+        "id": "vajrada_amethyst_gemstone",
+        "name": "Amatista vajrada",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Cola cercenada del surcacielos",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Hierbalana",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "Organismo quimérico primigenio",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104368,
+          "id": "teachings_of_fortitude",
+          "name": "Enseñanzas de la tenacidad",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Semilla quimérica",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guía de la tenacidad",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Célula quimérica simbiótica",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guía de la tenacidad",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Célula quimérica simbiótica",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guía de la tenacidad",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Célula quimérica simbiótica",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guía de la tenacidad",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Célula quimérica simbiótica",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Filosofía de la tenacidad",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Organismo quimérico primigenio",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixir herético",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Filosofía de la tenacidad",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Organismo quimérico primigenio",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixir herético",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Filosofía de la tenacidad",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Organismo quimérico primigenio",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixir herético",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Filosofía de la tenacidad",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Organismo quimérico primigenio",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixir herético",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Corona de la sabiduría",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 214800,
+      "name": "Emboscador escarchado",
+      "description": "Modelo de vestimenta de Aliosha. Un robusto atuendo de caza combinado con una gruesa capa interior y un gorro con un borde de felpa. Esto le permite a Aliosha permanecer oculto en la nieve durante largos periodos de tiempo hasta que atrapa a la presa que ha estado acechando. En cuanto a por qué el gorro tiene la forma de la cabeza de un cachorro, bueno, es porque se ve lindo. Además, a Tugarin le gusta mucho.",
+      "isDefault": true,
+      "characterName": "Aliosha",
+      "characterId": 10000148,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Alyosha_Circle"
+    }
+  ]
+}

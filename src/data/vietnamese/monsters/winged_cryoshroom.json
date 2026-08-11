@@ -10,12 +10,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Fungus_Amanita_Unu_Svarita_Ice",
   "description": "Sinh vật mô phỏng được cấu thành từ bào tử, có khả năng thích nghi hoàn cảnh rất tốt.\\nKhông chỉ nhìn có vẻ giống, mà ngay cả tập quán sinh hoạt cũng mô phỏng theo loài chim. Lúc bay lượn sẽ rải những đóa hoa băng nhẹ nhàng, những tinh hạt băng này thật ra cũng là bào tử.\\nCó địa vị cao trong quần thể Nấm Quỷ, cho thấy nó sở hữu trí tuệ khá cao.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

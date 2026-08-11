@@ -1,7 +1,7 @@
 {
   "_id": 26220301,
   "id": "gluttonous_yumkasaur_mountain_king",
-  "monsterId": 26220303,
+  "monsterId": 84622032,
   "name": "Vorace Yumkasauro Re della Montagna",
   "specialNames": [
     "Signore della Montagna"
@@ -15,7 +15,7 @@
   "description": "Un potente Yumkasauro che è sopravvissuto sia all'ingiuria del tempo che a innumerevoli battaglie fino ai giorni nostri.\\nQuesto \"Re della Montagna\", che un tempo unì le forze con i grandi eroi per affrontare la Marea nera, occupa un posto speciale nel cuore dei Discendenti delle Vette. Alcuni membri della tribù credono che il suo aspetto attuale sia dovuto alla sua fisicità unica, simile a quella del \"Tiranno\" dei Qucusauri... In realtà, è semplicemente perché ha vissuto talmente a lungo e ha mangiato DAVVERO troppo.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 7,
-  "budget": 1,
+  "budget": 2,
   "stats": {
     "resistance": {
       "physical": 0.1,

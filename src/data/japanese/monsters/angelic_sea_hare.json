@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_Aplysia_Larva_02",
   "description": "水弾を発射して狩りをする水生動物。\\n進化という観点から言えば、原海アベラントはフォンテーヌの特殊な環境に沿って変化した水生動物である。従って過去のある時点まで、フォンテーヌの原始的な水生動物は、テイワットの他の地域の水生動物とあまり変わらなかったと考えられる。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 13.49,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

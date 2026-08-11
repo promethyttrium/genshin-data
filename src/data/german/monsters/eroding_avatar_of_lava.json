@@ -25,19 +25,19 @@
       "_id": 112112,
       "id": "ignited_seeing_eye",
       "name": "Loderndes Gestaltauge",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112111,
       "id": "ignited_seed_of_life",
       "name": "Entzündete Saat des Lebens",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112110,
       "id": "ignited_stone",
       "name": "Lodernder Steinbrocken",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Lava_Solid",
   "description": "Dieses sonderbare Monster muss fortlaufend Hitze absorbieren, um aktiv bleiben zu können.\\nDie alte Zivilisation nutzte verschiedene Formen gravierter Goldmuster, um den Fluss des Phlogistons zu steuern, sodass riesige Konstruktionen und prächtige Städte in der Weisheit jener goldener Muster entstehen konnten. Es heißt, dass die magischen Kreaturen, auch als Lavagestalten bekannt, in Wirklichkeit entstellte Wesen sind, die auf diese Weise erschaffen wurden, nur dass die meisten von ihnen nach dem Erlöschen der Flammen des heiligen Berges ihre Bestimmung und Orientierung verloren.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

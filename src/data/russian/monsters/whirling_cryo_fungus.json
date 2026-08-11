@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Fungus_Trois_Alpha_Ice",
   "description": "Споры с зачатками интеллекта. Прекрасно умеют приспосабливаться к окружающей среде.\\nЕсли положить плесенника на лёд, он не станет вкуснее, но, по крайней мере, будет обладать охлаждающим эффектом.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

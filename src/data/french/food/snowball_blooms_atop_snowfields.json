@@ -1,0 +1,65 @@
+{
+  "_id": 3706,
+  "id": "snowball_blooms_atop_snowfields",
+  "name": "Viornes en fleurs sur champ de neige",
+  "description": "Une salade composée classique. Chaque ingrédient est préparé séparément, puis superposé en couches avec une vinaigrette à la crème fraîche assaisonnée. Une fois assemblée, la salade repose généralement un moment pour que les saveurs se mélangent harmonieusement. Le plat final évoque des viornes de neige épanouies sur un champ enneigé, d'où son nom.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 101280,
+      "id": "snowball_flower",
+      "name": "Viorne de neige",
+      "amount": 3
+    },
+    {
+      "_id": 100084,
+      "id": "fish",
+      "name": "Poisson",
+      "amount": 2
+    },
+    {
+      "_id": 110009,
+      "id": "cheese",
+      "name": "Fromage",
+      "amount": 1
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Œuf d'oiseau",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Attaque",
+  "results": {
+    "suspicious": {
+      "_id": 132013,
+      "name": "Viornes en fleurs sur champ de neige (suspectes)",
+      "description": "Une salade composée classique. Après avoir longtemps reposé à l'air libre, sa forme s'est affaissée. Pire encore, tous les ingrédients semblent avoir migré de façon chaotique, brouillant les saveurs distinctes de chaque couche... Bien qu'encore comestible, elle a perdu le croquant qu'une salade se doit d'avoir.",
+      "effect": "Augmente l'ATQ de tous les personnages de l'équipe de 160 pts pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur."
+    },
+    "normal": {
+      "_id": 132014,
+      "name": "Viornes en fleurs sur champ de neige",
+      "description": "Une salade composée classique. Chaque ingrédient est préparé séparément, puis superposé en couches avec une vinaigrette à la crème fraîche assaisonnée. Une fois assemblée, la salade repose généralement un moment pour que les saveurs se mélangent harmonieusement. Le plat final évoque des viornes de neige épanouies sur un champ enneigé, d'où son nom.",
+      "effect": "Augmente l'ATQ de tous les personnages de l'équipe de 194 pts pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur."
+    },
+    "delicious": {
+      "_id": 132015,
+      "name": "Viornes en fleurs sur champ de neige (délicieuses)",
+      "description": "Une salade composée classique. Les viornes blanches qui ornent le bord semblent éclore au bout d'un désert hivernal, et le jaune d'œuf doré et onctueux évoque un soleil couchant qui illumine l'horizon. On reste complètement absorbé par cette délicieuse œuvre d'art culinaire, jusqu'à ce que la cuillère touche le fond d'une assiette vide. Attendez... Quand ai-je fini ?",
+      "effect": "Augmente l'ATQ de tous les personnages de l'équipe de 228 pts pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur."
+    },
+    "special": {
+      "_id": 132017,
+      "id": "lakeside_snow_swan",
+      "name": "Cygne nivéal du lac",
+      "description": "Spécialité culinaire d'Odette. Une petite portion de salade repose délicatement au centre de l'assiette, comme illuminée par un projecteur, chaque couche soigneusement disposée avec la précision d'une danse. Les ingrédients ont été si minutieusement dosés que finir l'assiette n'aura aucune incidence sur votre poids demain... Alors faites-vous plaisir sans culpabiliser !",
+      "effect": "Augmente l'ATQ de tous les personnages de l'équipe de 274 pts pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+      "character": {
+        "id": "odette",
+        "name": "Odette"
+      }
+    }
+  }
+}

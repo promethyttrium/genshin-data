@@ -25,19 +25,19 @@
       "_id": 112019,
       "id": "deathly_statuette",
       "name": "Figur der Finsternis",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112018,
       "id": "dark_statuette",
       "name": "Figur der Nacht",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112017,
       "id": "gloomy_statuette",
       "name": "Figur der Dunkelheit",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Der Abgrund",
   "filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Chargebow_Ice",
   "description": "Dunkel gefärbter Soldat. Einst war er der stolze Soldat des alten unterirdischen Königreichs, doch jetzt ist er nur noch eine leere Hülle mit Erinnerungen an den Kampf.\\nAm Ende aller Dinge steht Verfall. Diese leere Hülle ist das, was der Schwarze Schlangenreiter unter dem Einfluss von Sünde, Fluch und Zeit geworden ist.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

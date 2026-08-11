@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Không Nguyên Tố",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null,
-      null
+      "Ma Vật",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "hit",
       "name": "Đánh",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "jump_and_hit",
       "name": "Nhảy Đánh",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -45,8 +51,10 @@
     {
       "id": "swing_that_club",
       "name": "Quơ Qua Quơ Lại",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 4 điểm ?.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1108,

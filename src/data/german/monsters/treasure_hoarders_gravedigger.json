@@ -59,22 +59,21 @@
       "_id": 112036,
       "id": "silver_raven_insignia",
       "name": "Krähenwappen der Silberschätze",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112035,
       "id": "treasure_hoarder_insignia",
       "name": "Krähenwappen der Schatzsuche",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_02",
   "description": "Ein Mitglied der kriminellen Gruppierung ohne Hauptquartier, die überall auf dem Kontinent ihre Spuren hinterlässt, selbst in unerkundeten Sphären.\\n<i>„Man sagt, wir stehen auf den Schultern von Riesen. Das bedeutet, wir profitieren vom angehäuften Reichtum unserer Vorväter und ... äh, bringen ihn zurück in den Wirtschaftskreislauf! Ein nobles Unterfangen, oder?“</i>\\nEin Totengräber der Schatzräuber, während er sich über eine Ruine hermachte.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

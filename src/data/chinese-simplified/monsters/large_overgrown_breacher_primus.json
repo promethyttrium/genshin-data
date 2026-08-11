@@ -13,7 +13,6 @@
   "categoryText": "深渊",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_01",
   "description": "主要出现在厄里那斯的奇异生命体。\\n隙境原体在基本的生物特征上超出了已知的范畴：不属于动物、植物、蕈类与元素类。须弥的学者因此关于它到底是什么的争论从未正式结束，直到它一同被禁止作为学术研究课题立项，因为就目前人类的知识体系而言，这个问题与「语言的定义与本质」一样，无法得出有意义的确切结论。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

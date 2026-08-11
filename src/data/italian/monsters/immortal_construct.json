@@ -1,0 +1,158 @@
+{
+  "_id": 25140101,
+  "id": "immortal_construct",
+  "monsterId": 25140101,
+  "name": "Costrutto immortale",
+  "specialNames": [
+    "Corpo residuo della Piumafiamma eterna"
+  ],
+  "investigation": {
+    "investigationId": 97,
+    "name": "Costrutto immortale",
+    "categoryType": "Boss",
+    "categoryText": "Boss",
+    "description": "Un mero sottoprodotto creato al solo scopo di portare a compimento un piano egoistico.\\nAvendo perso da tempo la sua funzione di recipiente biologico, il soggetto persiste come un'entità selvaggia e priva di coscienza, vagando per le terre selvagge."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Zharptitsa_02",
+  "rewardPreviewId": 15213,
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "ESP avventura",
+      "count": 200
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "ESP affinità"
+    },
+    {
+      "_id": 113090,
+      "id": "unscorched_blossom_branch",
+      "name": "Ramo fiorito incombusto",
+      "count": 2.556
+    },
+    {
+      "_id": 104114,
+      "id": "agnidus_agate_gemstone",
+      "name": "Gemma d'agata Agnidus"
+    },
+    {
+      "_id": 104113,
+      "id": "agnidus_agate_chunk",
+      "name": "Pezzo d'agata Agnidus"
+    },
+    {
+      "_id": 104112,
+      "id": "agnidus_agate_fragment",
+      "name": "Frammento d'agata Agnidus"
+    },
+    {
+      "_id": 104111,
+      "id": "agnidus_agate_sliver",
+      "name": "Scheggia d'agata Agnidus"
+    },
+    {
+      "_id": 400089,
+      "id": "gladiators_finale",
+      "name": "Ultimo atto del gladiatore",
+      "rarity": 5
+    },
+    {
+      "_id": 400099,
+      "id": "wanderers_troupe",
+      "name": "Compagnia del vagabondo",
+      "rarity": 5
+    },
+    {
+      "_id": 400088,
+      "id": "gladiators_finale",
+      "name": "Ultimo atto del gladiatore",
+      "rarity": 4
+    },
+    {
+      "_id": 400098,
+      "id": "wanderers_troupe",
+      "name": "Compagnia del vagabondo",
+      "rarity": 4
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Istruttore",
+      "rarity": 4
+    },
+    {
+      "_id": 400128,
+      "id": "prayers_for_illumination",
+      "name": "Sacrificio di Pyro",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Istruttore",
+      "rarity": 3
+    },
+    {
+      "_id": 400127,
+      "id": "prayers_for_illumination",
+      "name": "Sacrificio di Pyro",
+      "rarity": 3
+    },
+    {
+      "_id": 400047,
+      "id": "adventurer",
+      "name": "Avventuriere",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestie mistiche",
+  "filename_icon": "UI_MonsterIcon_Zharptitsa_02",
+  "description": "Un sottoprodotto creato dall'alchimista Koscej durante la creazione dell'individuo noto come Uccello di Fuoco.\\nSi trattava forse di un'abitudine del cupo alchimista: ogni volta che otteneva un soggetto sperimentale valido, tutti gli altri venivano abbandonati o scartati a suo piacimento.\\nQuesta creazione derivata avrebbe dovuto fondersi con una qualche forma di potere e giungere a completamento. Ora, tuttavia, può soltanto vagare all'infinito per le gole montane come una bestia incompleta e priva di senno.",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.5,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 421.104,
+      "attack": 100.48,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

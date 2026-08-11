@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Altre fazioni umane",
   "filename_icon": "UI_MonsterIcon_Human_Fat_Sword_Bisonsaurus",
   "description": "Un guerriero tribale delle pianure che sorveglia i campi dorati.\\nL'arte del combattimento senz'armi è considerata una pratica onorevole tra i membri della Comunità dell'Abbondanza. I guerrieri che intraprendono il percorso di addestramento di quest'arte devono possedere una forza tale da riuscire a scagliare una lancia da un migliaio di metri.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

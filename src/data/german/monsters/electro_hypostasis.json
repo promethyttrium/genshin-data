@@ -13,7 +13,6 @@
   "categoryText": "Elementare Lebensformen",
   "filename_icon": "UI_MonsterIcon_Effigy_Electric",
   "description": "Ein höheres Elektro-Wesen mit der Bezeichnung „Alep“.\\nDie Hypostasen sind höchst reine elementare Gestalten, die sich an Stellen bilden, wo elementare Kräfte überschäumen oder der Fluss der Elemente gestört ist.\\nDie jeweils verantwortlichen Elemente bestimmen den Charakter der Hypostase und somit die Art und Weise, wie der Kampf abläuft.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Catalyst",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 8500,
@@ -29,8 +31,10 @@
     {
       "id": "pure_heart_pure_dreams",
       "name": "Pure Heart, Pure Dreams",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#80FFD7FF\">Anemo DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "aisa_utamakura_pilgrimage",
       "name": "Aisa Utamakura Pilgrimage",
-      "desc": "Mengakibatkan ? poin ? dan memberikan <span style=\"color:#FFFFFFFF\">Dreamdrifter</span> kepada diri sendiri.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#80FFD7FF\">Anemo DMG</span> dan memberikan <span style=\"color:#FFFFFFFF\">Dreamdrifter</span> kepada diri sendiri.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "anraku_secret_spring_therapy",
       "name": "Anraku Secret Spring Therapy",
-      "desc": "Mengakibatkan ? poin ?, menciptakan 1 <span style=\"color:#FFFFFFFF\">Yumemi Style Special Snacks</span> dan menempatkannya di bagian atas Dek-mu, serta memanggil <span style=\"color:#FFFFFFFF\">Mini Baku</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#80FFD7FF\">Anemo DMG</span>, menciptakan 1 <span style=\"color:#FFFFFFFF\">Yumemi Style Special Snacks</span> dan menempatkannya di bagian atas Dek-mu, serta memanggil <span style=\"color:#FFFFFFFF\">Mini Baku</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1105,

@@ -13,7 +13,6 @@
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_01",
   "description": "Estranhas criaturas que habitam principalmente o corpo de Elynas.\\nAs características básicas dos Primofissuradores vão além do conhecimento atual, pois não pertencem a nenhuma espécie animal, vegetal, fúngica ou elemental. Por isso, os eruditos de Sumeru estão envolvidos em um intenso debate sobre a verdadeira essência dessas criaturas. O desconcerto foi tamanho que a Academia proibiu completamente o estudo desse assunto. O motivo é que, assim como acontece com o tema da \"Definição e essência da linguagem\", escapa à compreensão atual do ser humano, tornando impossível chegar a uma conclusão a respeito.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

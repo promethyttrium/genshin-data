@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Warrior's Metal Whistle",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Sentry's Wooden Whistle",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Other Human Factions",
   "filename_icon": "UI_MonsterIcon_Human_Fat_NoWeapon_Drillhead",
   "description": "A valiant warrior of the canyon, and a tribal guardian that patrols the crystal mountains and rivers.\\nIn an era when the ridges were shattered and the tribes needed to rebuild, the warriors used javelins as markers to determine the locations on both sides of the canyon from which passages should be dug. That meant that each javelin had to be sunk deep into the rock.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

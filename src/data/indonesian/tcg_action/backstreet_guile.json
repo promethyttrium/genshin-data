@@ -1,0 +1,33 @@
+{
+  "_id": 215161,
+  "id": "backstreet_guile",
+  "shareId": 612,
+  "name": "Backstreet Guile",
+  "title": "Jahoda: Backstreet Guile",
+  "desc": "\"Siapa cepat, dia dapat!\"",
+  "in_play_description": "Saat <span style=\"color:#FFFFFFFF\">Jahoda</span> bertukar menjadi Karakter aktif, jika jumlah kartu di Tangan lawan lebih banyak atau sama dengan yang ada di Tanganmu, maka menyalin secara acak 2 kartu dari Tangan lawan. (Sekali setiap Ronde)",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "Anemo",
+    "card_type": "Kartu Equipment",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "Anemo",
+        "count": 3
+      }
+    ],
+    "source": "Hadiah yang didapatkan setelah mengundang Jahoda ke Cat's Tail untuk bertanding dan menyelesaikan target tantangan yang bersangkutan",
+    "tags": [
+      "Talenta",
+      "Aksi Tempur"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Aksi Tempur</span>: Kartu ini dapat dikenakan saat menggunakan <span style=\"color:#FFFFFFFF\">Jahoda</span> sebagai Karakter Aktif.<br/>Jahoda akan langsung menggunakan <span style=\"color:#FFD780FF\">Savvy Strategy: Splitting the Spoils</span> satu kali setelah mengenakannya.<br/>Saat <span style=\"color:#FFFFFFFF\">Jahoda</span> bertukar menjadi Karakter aktif, jika jumlah kartu di Tangan lawan lebih banyak atau sama dengan yang ada di Tanganmu, maka menyalin secara acak 2 kartu dari Tangan lawan. (Sekali setiap Ronde)<br/>(Kamu harus punya Jahoda di dalam Dek-mu untuk menambahkan kartu ini ke dalam Dek)"
+    }
+  ]
+}

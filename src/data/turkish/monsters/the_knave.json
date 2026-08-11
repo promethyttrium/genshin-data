@@ -157,7 +157,6 @@
   "categoryText": "Şanlı Düşmanlar",
   "filename_icon": "UI_MonsterIcon_Nihil",
   "description": "Yaver, Fatui Habercilerinin Dördüncüsü.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

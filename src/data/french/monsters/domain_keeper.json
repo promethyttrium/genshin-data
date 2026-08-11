@@ -25,19 +25,19 @@
       "_id": 112142,
       "id": "jeweled_flaming_hilt",
       "name": "Poignée enflammée ornée",
-      "count": 0.2626
+      "count": 0.262
     },
     {
       "_id": 112141,
       "id": "fractured_flaming_hilt",
       "name": "Poignée enflammée fracturée",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112140,
       "id": "faded_flaming_hilt",
       "name": "Poignée enflammée délavée",
-      "count": 3.9394
+      "count": 3.939
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Automates",
   "filename_icon": "UI_MonsterIcon_Watcher_Normal_01",
   "description": "Né du débordement du puissant être primordial, le Protecteur du royaume se dresse en gardien du Hall aux piliers.\\nBien que doté d'un œil en tant que gardien du Hall aux piliers de l'espace, il ne peut que célébrer les « formes » éternelles de la réalité véritable. Incapable de percevoir la multiplicité des phénomènes du monde, il n'est pas considéré comme un ange. Que cette contradiction soit le fruit de la raison de son créateur, ou que le maître qu'il sert ait finalement échoué à comprendre la volonté de l'être primordial, cela, peut-être, ne nous est plus donné de le savoir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

@@ -48,10 +48,14 @@
       "_id": 3612,
       "id": "birchsteamed_pork_ribs",
       "name": "Costillas al abedul"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Bolas de helado dulcealegría"
     }
   ],
   "source": [
     "Recolectar en la naturaleza"
-  ],
-  "rarity": 0
+  ]
 }

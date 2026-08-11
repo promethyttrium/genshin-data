@@ -1,0 +1,80 @@
+{
+  "_id": 72,
+  "id": "meetings_in_outrealm_series_vii",
+  "name": "异世相逢·第七辑",
+  "order": 37,
+  "achievements": [
+    {
+      "id": 86079,
+      "name": "此在的沉沦",
+      "desc": "与其他玩家一同战胜霜夜巡天灵主。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9076
+    },
+    {
+      "id": 86080,
+      "name": "二十六，击穿了",
+      "desc": "与其他玩家一同战胜超重型陆巡舰·机动战垒。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9077
+    },
+    {
+      "id": 86081,
+      "name": "你不当讲！",
+      "desc": "与其他玩家一同战胜深黯魇语之主。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9078
+    },
+    {
+      "id": 86082,
+      "name": "破邪显正",
+      "desc": "与其他玩家一同战胜「博士」。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9079
+    },
+    {
+      "id": 86083,
+      "name": "你都守护了什么",
+      "desc": "与其他玩家一同战胜蕴光月守宫。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9080
+    },
+    {
+      "id": 86084,
+      "name": "「我若磨我闪亮的刀…」",
+      "desc": "与其他玩家一同战胜守望者·堕天。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9081
+    },
+    {
+      "id": 86085,
+      "name": "独生无明",
+      "desc": "与其他玩家一同战胜多托雷。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9082
+    },
+    {
+      "id": 86086,
+      "name": "不灭已斩",
+      "desc": "与其他玩家一同战胜不灭衍生造物。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9083
+    },
+    {
+      "id": 86087,
+      "name": "生生有息",
+      "desc": "与其他玩家一同战胜嵌合翼骏狮。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9084
+    }
+  ]
+}

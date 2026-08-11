@@ -1,0 +1,40 @@
+{
+  "_id": 25130201,
+  "id": "winged_soarer_knight",
+  "monsterId": 25130302,
+  "name": "อัศวินระบำเวหาติดปีก",
+  "specialNames": [
+    "อัศวินระบำเวหาติดปีก"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "สัตว์อสูรลึกลับ",
+  "filename_icon": "UI_MonsterIcon_Human_Girl_Vila_Blade",
+  "description": "วีลาที่มีปีกสองข้างและสามารถบินได้\\nว่ากันว่าเผ่าพันธุ์วีลาเป็นเผ่าภูตที่ติดตาม Belyi Tsar มาตั้งแต่ตอนที่เริ่มรวบรวมดินแดนน้ำแข็งให้เป็นหนึ่งเดียว ความสามารถในการบินอยู่กลางอากาศเป็นเวลาสั้น ๆ ทำให้พวกเขามีความคล่องตัวสูงมาก ไม่ว่าจะทำหน้าที่หน่วยสอดแนมเพื่อสำรวจกลุ่มศัตรู หรือจู่โจมในระยะไกลก็ล้วนไม่ใช่ปัญหา\\nสมาชิกส่วนใหญ่ขององครักษ์ใน \"กองทัพพันธสัญญาเหมันต์\" ที่ก่อตั้งขึ้นในยุคสมัยของ Belyi Tsar นั้น ล้วนเป็นวีลาแทบทั้งสิ้น",
+  "bgm": 1,
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.2,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 4.57189,
+      "attack": 40.552467,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

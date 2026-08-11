@@ -1,0 +1,21 @@
+{
+  "_id": 340001,
+  "id": "hallowed_fetters",
+  "name": "Lien sacré",
+  "description": "Une épée glorieuse et illusoire, surgie des profondeurs des lignes énergétiques. Son apparence peut changer selon le type élémentaire de son porteur. La légende raconte que cette épée portait autrefois le nom de Gleipnir, alors qu'elle était portée par un pécheur éditeur sur une terre antique.",
+  "rarity": 4,
+  "type": {
+    "id": "Catalyst",
+    "name": "Catalyseur"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "Métamorphose radieuse : Transcendance",
+    "priority": 1
+  },
+  "item_id": 341401,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphIlia_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphIlia"
+}

@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Mature",
   "description": "Wujud dari Bubbly Seahorse jantan setelah dewasa yang sangat agresif.\\nPernah ada orang yang bertemu dengan raja dari kuda laut, dan katanya mereka adalah makhluk bertubuh ramping yang sombong.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

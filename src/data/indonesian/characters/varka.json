@@ -595,7 +595,7 @@
     {
       "id": "winds_vanguard",
       "name": "Wind's Vanguard",
-      "description": "Saat Karakter party di sekitar memicu reaksi Swirl, Varka mendapatkan 1 lapis <span style=\"color:#FFD780FF\">Azure Fang's Oath</span> yang akan meningkatkan DMG Normal Attack, Charged Attack, Charged Attack Khusus <span style=\"color:#FFD780FF\">Azure Devour</span>, dan Elemental Skill Khusus <b><span style=\"color:#FFD780FF\">Four Winds' Ascension</span></b> milik Varka sebesar 7,5% selama 8 detik. Efek ini dapat ditumpuk sampai 4 lapis. Setiap Karakter dapat memberikan 1 lapis <span style=\"color:#FFD780FF\">Azure Fang's Oath</span> untuk Varka sekali setiap detik dengan cara ini.",
+      "description": "Saat Karakter party di sekitar memicu reaksi Swirl atau Stellar Swirl, Varka mendapatkan 1 lapis <span style=\"color:#FFD780FF\">Azure Fang's Oath</span> yang akan meningkatkan DMG Normal Attack, Charged Attack, Charged Attack Khusus <span style=\"color:#FFD780FF\">Azure Devour</span>, dan Elemental Skill Khusus <b><span style=\"color:#FFD780FF\">Four Winds' Ascension</span></b> milik Varka sebesar 7,5% selama 8 detik. Efek ini dapat ditumpuk sampai 4 lapis. Setiap Karakter dapat memberikan 1 lapis <span style=\"color:#FFD780FF\">Azure Fang's Oath</span> untuk Varka sekali setiap detik dengan cara ini.",
       "level": 4
     },
     {
@@ -631,7 +631,7 @@
       "_id": 1284,
       "id": "for_none_may_take_from_us_our_freedom_of_song",
       "name": "\"For None May Take From Us Our Freedom of Song\"",
-      "description": "Saat Varka memicu reaksi Swirl, seluruh Karakter party di sekitar akan mendapatkan 20% <span style=\"color:#80FFD7FF\">Anemo DMG Bonus</span> dan juga Elemental DMG Bonus untuk jenis elemen yang terlibat dalam reaksi tersebut, berlangsung selama 10 detik.",
+      "description": "Saat Varka memicu reaksi Swirl atau Stellar Swirl, seluruh Karakter party di sekitar akan mendapatkan 20% <span style=\"color:#80FFD7FF\">Anemo DMG Bonus</span> dan juga Elemental DMG Bonus untuk jenis elemen yang terlibat dalam reaksi tersebut, berlangsung selama 10 detik.",
       "level": 4
     },
     {

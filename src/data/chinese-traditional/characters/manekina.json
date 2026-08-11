@@ -8,8 +8,8 @@
     "name": "單手劍"
   },
   "element": {
-    "id": "none",
-    "name": "無"
+    "id": "",
+    "name": ""
   },
   "gender": {
     "id": "female",
@@ -24,8 +24,8 @@
   },
   "rarity": 5,
   "birthday": [
-    0,
-    0
+    null,
+    null
   ],
   "constellation": "——",
   "domain": "蘊火的幽墟",

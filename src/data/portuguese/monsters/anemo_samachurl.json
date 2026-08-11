@@ -14,14 +14,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl",
   "filename_icon": "UI_MonsterIcon_Shaman_Wind_01",
   "description": "Um Hilichurl feiticeiro e murmurante, que espalha a mensagem do Anemo.\\nHilichurls, que são especialmente dotados no comando dos elementos, muitas vezes alcançarão o ápice de sua habilidade em sua velhice, e esta capacidade de comandar os ventos que fluem provém de memórias sombrias e esquecidas.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

@@ -1,0 +1,54 @@
+{
+  "_id": 3702,
+  "id": "snowrealm_okroshkas",
+  "name": "Kar Diyarı Akroşkası",
+  "description": "Kasede servis edilen soğuk bir çorba. Önceden pişirilen malzemeler kaseye eşit şekilde dizilir, ardından ekşi krema bazlı bir et suyuyla kapatılır. Bazı Snezhnayalılar en soğuk günlerde büyük bir kase çorbayı tek oturuşta bitirmeyi bir tür mücadele olarak görür ve bunu soğuğa göğüs gerebilen savaşçılar olduklarının kanıtı sayarlar.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 101280,
+      "id": "snowball_flower",
+      "name": "Kartopu Çiçeği",
+      "amount": 3
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Kuş Yumurtası",
+      "amount": 2
+    },
+    {
+      "_id": 110005,
+      "id": "ham",
+      "name": "Jambon",
+      "amount": 1
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Savunma Artırıcı Yemek",
+  "results": {
+    "suspicious": {
+      "_id": 108994,
+      "name": "Kar Diyarı Akroşkası (Tuhaf)",
+      "description": "Kasede servis edilen soğuk bir çorba. Bulanık et suyunun içinde yüzen yemek malzemelerini ayırt etmek biraz çaba gerektiriyor. Sebzeler konfeti gibi doğranıp devasa jambon parçalarıyla birlikte suya atılmış. Görünüşe göre yemeği pişiren kişi jambonu ancak son saniyede hatırlamış ve çaresiz bir telaşla içine fırlatmış...",
+      "effect": "300 saniyeliğine tüm grup üyelerinin Savunmasını 165 artırır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    },
+    "normal": {
+      "_id": 108995,
+      "name": "Kar Diyarı Akroşkası",
+      "description": "Kasede servis edilen soğuk bir çorba. Önceden pişirilen malzemeler kaseye eşit şekilde dizilir, ardından ekşi krema bazlı bir et suyuyla kapatılır. Bazı Snezhnayalılar en soğuk günlerde büyük bir kase çorbayı tek oturuşta bitirmeyi bir tür mücadele olarak görür ve bunu soğuğa göğüs gerebilen savaşçılar olduklarının kanıtı sayarlar.",
+      "effect": "300 saniyeliğine tüm grup üyelerinin Savunmasını 200 artırır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    },
+    "delicious": {
+      "_id": 108996,
+      "name": "Kar Diyarı Akroşkası (Lezzetli)",
+      "description": "Kasede servis edilen soğuk bir çorba. Parıldayan süt beyazı suyu damakta taze kar gibi ferah bir his bırakır ve bunu anında zengin ekşi kremanın canlandırıcı tat patlaması izler. Kıtır sebzeler, katı yumurta sarısı ve küp küp doğranmış iştah açıcı jambonla her bir kaşık, sanki lezzetli bir gizem kutusu açıyormuşsun gibi benzersiz bir doku sunar.",
+      "effect": "300 saniyeliğine tüm grup üyelerinin Savunmasını 235 artırır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    }
+  }
+}

@@ -155,6 +155,11 @@
       "name": "山与海与天空"
     },
     {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "至冬烤串"
+    },
+    {
       "_id": 4002,
       "id": "golden_fried_chicken",
       "name": "大黄金吮指鸡"
@@ -204,6 +209,5 @@
   ],
   "source": [
     "动物掉落"
-  ],
-  "rarity": 0
+  ]
 }

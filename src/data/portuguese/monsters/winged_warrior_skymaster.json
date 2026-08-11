@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Flamingo",
   "description": "Um guerreiro dos penhascos, um guardião tribal que patrulha as íngremes cordilheiras.\\nAo observar e emular os golpes de garra de Saurianos aéreos, esses guerreiros tomaram a essência da manipulação do próprio poder. Seus chutes, lançados do alto, não devem ser subestimados.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

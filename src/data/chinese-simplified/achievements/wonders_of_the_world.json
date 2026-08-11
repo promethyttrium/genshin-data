@@ -278,8 +278,8 @@
     },
     {
       "id": 81032,
-      "name": "QUEST FAILED",
-      "desc": "跟丢了悬赏目标…",
+      "name": "QUEST FAILED  OR …",
+      "desc": "在「讨伐悬赏」中跟丢了悬赏目标，或再也不用进行「讨伐悬赏」…",
       "reward": 5,
       "hidden": true,
       "order": 1033
@@ -4641,6 +4641,214 @@
       "order": 1699
     },
     {
+      "id": 81700,
+      "name": "停一停吧，你是如此美丽",
+      "desc": "为白桦与雪葬之宫的美景驻足了片刻。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1700
+    },
+    {
+      "id": 81701,
+      "name": "明日之国的超越者",
+      "desc": "集齐某人遗留在白冕宫中的遗物。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1701
+    },
+    {
+      "id": 81702,
+      "name": "复利效应",
+      "desc": "把雪球滚到最大。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1702
+    },
+    {
+      "id": 81703,
+      "name": "新婚的钟声",
+      "desc": "将不再循环的钟声敲响。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1703
+    },
+    {
+      "id": 81704,
+      "name": "为谁而鸣",
+      "desc": "让不受束缚的钟声再度响起。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1704
+    },
+    {
+      "id": 81705,
+      "name": "火柴中的幻象",
+      "desc": "令不安者终受慰藉。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1705
+    },
+    {
+      "id": 81706,
+      "name": "极限与展示",
+      "desc": "或许作品拥有名字，只不过是为了寻得另一重共鸣。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1706
+    },
+    {
+      "id": 81707,
+      "name": "极度空间",
+      "desc": "第一次戴上「灰眸」。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1707
+    },
+    {
+      "id": 81708,
+      "name": "雪、晶矿和速度",
+      "desc": "令老旧的列车焕然一新。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1708
+    },
+    {
+      "id": 81709,
+      "name": "穿过虚饰的殿堂",
+      "desc": "集齐赫斯珀利德斯之馆的所有画作，并开启其后的秘藏。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1709
+    },
+    {
+      "id": 81710,
+      "name": "为一切未来之你",
+      "desc": "即使那样的你尚未来到。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1710
+    },
+    {
+      "id": 81711,
+      "name": "因为宫殿在那里",
+      "desc": "登上至冬宫的最高处。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1711
+    },
+    {
+      "id": 81712,
+      "name": "冬日最后的玫瑰",
+      "desc": "…而飞蛾终是泯于焚火。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1712
+    },
+    {
+      "id": 81714,
+      "name": "比冷笑话要冷",
+      "desc": "在与纳塔人的「耐寒比赛」中赢得了对方。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1714
+    },
+    {
+      "id": 81715,
+      "name": "呀吼！",
+      "desc": "帮助霜精「村长」抵御兽怪的入侵。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1715
+    },
+    {
+      "id": 81716,
+      "name": "高桌之上还有高桌",
+      "desc": "但谁还记得「高桌」是「矮灵」建立的呢…",
+      "reward": 5,
+      "hidden": true,
+      "order": 1716
+    },
+    {
+      "id": 81717,
+      "name": "冰山沉没，且不再浮起",
+      "desc": "见证巨大雪精的结局。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1717
+    },
+    {
+      "id": 81718,
+      "name": "「樱桃园卖掉了」",
+      "desc": "见证冰上木屋的倒悬、停滞与最终沉没。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1718
+    },
+    {
+      "id": 81720,
+      "name": "已为您成功规划路线",
+      "desc": "使用连索机关完成一次长达30米的水平位移。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1720
+    },
+    {
+      "id": 81721,
+      "name": "就像灵感一样",
+      "desc": "发射的雪球在未落地时就开始消散。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1721
+    },
+    {
+      "id": 81722,
+      "name": "此路不通",
+      "desc": "成功截停滚动的雪球。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1722
+    },
+    {
+      "id": 81724,
+      "name": "坚韧的膝盖",
+      "desc": "保持滑铲状态长达20秒。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1724
+    },
+    {
+      "id": 81728,
+      "name": "昔日的承诺",
+      "desc": "那时，炉灰区没有王，各人任意而行…",
+      "reward": 5,
+      "hidden": true,
+      "order": 1728
+    },
+    {
+      "id": 81729,
+      "name": "科斯基，方案",
+      "desc": "帮助纳塔人，令她的浮燃鸟伙伴冷静下来。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1729
+    },
+    {
+      "id": 81730,
+      "name": "如我的想象顺我目光凝固",
+      "desc": "靠近灯塔上，少女的幽影凝结成的雕像。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1730
+    },
+    {
+      "id": 81731,
+      "name": "戴醉之身",
+      "desc": "你永远可以叫醒一个真醉的人。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1731
+    },
+    {
       "id": 82008,
       "name": "无坚不摧",
       "desc": "在无相之岩复苏前，击碎所有复苏岩柱。",
@@ -5451,6 +5659,22 @@
       "order": 2309
     },
     {
+      "id": 82310,
+      "name": "等一下…就是现在！",
+      "desc": "在不灭衍生造物处于「命耀之姿」状态时，通过击破复生护盾，打断其攻击。",
+      "reward": 5,
+      "hidden": true,
+      "order": 2310
+    },
+    {
+      "id": 82311,
+      "name": "「骏狮坠落」",
+      "desc": "在嵌合翼骏狮处于「驱风」状态时，通过击破全部的风球，将其击落。",
+      "reward": 5,
+      "hidden": true,
+      "order": 2311
+    },
+    {
       "id": 84000,
       "name": "漫长旅途的开端",
       "desc": "完成蒙德的魔神任务。",
@@ -6233,6 +6457,14 @@
       "reward": 5,
       "hidden": true,
       "order": 4107
+    },
+    {
+      "id": 84584,
+      "name": "翔舞翱天的黑雪鹄",
+      "desc": "我行雪鹄未曾行过的事，我梦雪鹄未曾有过的梦。",
+      "reward": 5,
+      "hidden": true,
+      "order": 4108
     },
     {
       "id": 85000,
@@ -7593,6 +7825,70 @@
       "reward": 10,
       "hidden": true,
       "order": 5165
+    },
+    {
+      "id": 84391,
+      "name": "暴雪轰鸣的开幕",
+      "desc": "驾驶列车冲破至冬的风雪。",
+      "reward": 5,
+      "hidden": true,
+      "order": 5166
+    },
+    {
+      "id": 84392,
+      "name": "苍星的神秘剧",
+      "desc": "从冰洞中取得了「星锋剑」。",
+      "reward": 5,
+      "hidden": true,
+      "order": 5167
+    },
+    {
+      "id": 84393,
+      "name": "狂风呼啸",
+      "desc": "接受伙伴的邀请加入「呼啸社」。",
+      "reward": 5,
+      "hidden": true,
+      "order": 5168
+    },
+    {
+      "id": 84394,
+      "name": "无神怜爱的雪国",
+      "desc": "完成「无神怜爱的雪国」。",
+      "reward": 10,
+      "hidden": true,
+      "order": 5169
+    },
+    {
+      "id": 84395,
+      "name": "爱或遗憾的圆舞",
+      "desc": "观看了「寻灵」的试演。",
+      "reward": 5,
+      "hidden": true,
+      "order": 5170
+    },
+    {
+      "id": 84396,
+      "name": "闭环之外",
+      "desc": "见证米提亚主动踏入暴风雪。",
+      "reward": 5,
+      "hidden": true,
+      "order": 5171
+    },
+    {
+      "id": 84397,
+      "name": "「命运」的三种死亡",
+      "desc": "从「死后世界」中幸存下来。",
+      "reward": 5,
+      "hidden": true,
+      "order": 5172
+    },
+    {
+      "id": 84398,
+      "name": "死魂灵的夜曲",
+      "desc": "完成「死魂灵的夜曲」。",
+      "reward": 10,
+      "hidden": true,
+      "order": 5173
     },
     {
       "id": 84155,

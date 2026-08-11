@@ -1,0 +1,24 @@
+{
+  "_id": 112156,
+  "id": "sprout_node_of_life",
+  "name": "Nexo de brote vital",
+  "description": "Resulta un poco pesado porque en él ya han crecido algunos cristales. También posee una vitalidad que no se ha desvanecido ni tras separarse del cuerpo del leshi.",
+  "source": [
+    "#Obtenido de Leshi Salvajes (Niv.{NON_BREAK_SPACE}40+)",
+    "Canjear Polvo estelar",
+    "Cantidad sintetizable: {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112155,
+        "id": "hollow_root_of_life",
+        "name": "Raíz vacua vital",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

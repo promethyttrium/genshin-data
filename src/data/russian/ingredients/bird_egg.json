@@ -185,6 +185,21 @@
       "name": "Тортик с летникой"
     },
     {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Окрошка"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Медовик"
+    },
+    {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "«Снежноцвет на снежной равнине»"
+    },
+    {
       "_id": 3902,
       "id": "delights_of_wondrous_wanderings",
       "name": "«Восхитительные странствия»"
@@ -237,6 +252,5 @@
   ],
   "source": [
     "Дикая природа"
-  ],
-  "rarity": 0
+  ]
 }

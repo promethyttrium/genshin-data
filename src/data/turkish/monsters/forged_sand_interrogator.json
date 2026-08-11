@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Human_Female_NoWeapon_Drillhead",
   "description": "Vadinin cesur savaşçısı, kristal dağları ve nehirleri devriye gezen bir kabile muhafızı.\\nYuvarlak başlı sopa savuran bu kabile savaşçısının ezici darbeleri en sert kayaları bile toza çevirebilir. Savaşmadığı zamanlarda silahını genellikle kayaları parçalayarak değerli taşlar ve Filojiston kristallerinin izlerini aramak için kullanır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -1,0 +1,18 @@
+{
+  "_id": 104371,
+  "id": "teachings_of_glory",
+  "name": "Teachings of Glory",
+  "description": "Material Penguatan Talenta.\\n\"Kemuliaan\" adalah kepercayaan bangsa es.\\nKemuliaan adalah percikan api yang terkubur jauh di bawah tanah yang beku. Jika bisa menggambarkan penampilannya, maka keberanian untuk menghadapi dinginnya musim dingin juga telah didapatkan.",
+  "source": [
+    "Penukaran di Toko Hadiah"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Domain of Mastery: Observasi Bersama IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ]
+}

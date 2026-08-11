@@ -450,7 +450,7 @@
       "_id": 861,
       "id": "terror_for_the_evildoers",
       "name": "Terrore per i malfattori",
-      "description": "Il Rimprovero magnanimo del talento d'ascensione Supplica di giustizia riceve le seguenti modifiche.<br/>Quando i PS di Wriothesley sono inferiori a un 60%, o se il personaggio è nello stato di Punizione rigente scatenato da <span style=\"color:#FFD780FF\">Assalto della zanna di ghiaccio</span>, quando il quinto Pugno espulsore va a segno, il personaggio ottiene 1 effetto di Rimprovero magnanimo. È possibile ottenere tale effetto una volta ogni 2,5 s.<br/><br/>Inoltre, Rimprovero: Pugno guizzante ottiene i seguenti potenziamenti:<br/>· il bonus DAN ottenuto aumenta ulteriormente a 200%;<br/>· quando lo si usa per colpire un nemico mentre Wriothesley è in stato di Punizione rigente, la durata dello stato viene estesa di 4 s. È possibile ottenere solo una di tali estensioni in tutta la durata di Punizione rigente.<br/><br/>Richiede il talento d'ascensione Supplica di giustizia.",
+      "description": "Il Rimprovero magnanimo del talento d'ascensione Supplica di giustizia riceve la seguente modifica.<br/>Quando i PS di Wriothesley sono inferiori a un 60%, o se il personaggio è nello stato di Punizione rigente scatenato da <span style=\"color:#FFD780FF\">Assalto della zanna di ghiaccio</span>, quando il quinto attacco dei Pugni espulsori va a segno, il personaggio ottiene 1 effetto Rimprovero magnanimo. È possibile ottenere tale effetto una volta ogni 2,5 s.<br/><br/>Inoltre, Rimprovero: Pugno guizzante ottiene i seguenti potenziamenti:<br/>· il bonus DAN ottenuto aumenta ulteriormente a 200%;<br/>· quando lo si usa per colpire un nemico mentre Wriothesley è in stato di Punizione rigente, la durata dello stato viene estesa di 4 s. È possibile ottenere solo una di tali estensioni in tutta la durata di Punizione rigente.<br/><br/>Richiede il talento d'ascensione Supplica di giustizia.",
       "level": 1
     },
     {
@@ -485,7 +485,7 @@
       "_id": 866,
       "id": "esteem_for_the_innocent",
       "name": "Salvaguardia per gli innocenti",
-      "description": "Il tasso di CRIT e i DAN da CRIT di Rimprovero: Pugno guizzante aumentano rispettivamente di un 10% e di un 80%. Quando viene sprigionato, si materializza un ulteriore spuntone di ghiaccio che infligge un 100% dei DAN di base di Rimprovero: Pugno guizzante come <span style=\"color:#99FFFFFF\">DAN da Cryo</span>. I DAN inflitti in questo modo sono considerati DAN da attacco caricato.<br/>Richiede il talento d'ascensione Supplica di giustizia.",
+      "description": "Il tasso di CRIT e i DAN da CRIT di Rimprovero: Pugno guizzante aumentano rispettivamente di un 10% e di un 80%. Quando viene sprigionato, si materializza uno spuntone di ghiaccio aggiuntivo che infligge <span style=\"color:#99FFFFFF\">DAN da Cryo</span> pari a un 100% dei DAN base di Rimprovero: Pugno guizzante. I DAN inflitti in questo modo sono considerati DAN da attacco caricato.<br/>Richiede il talento d'ascensione Supplica di giustizia.",
       "level": 6
     }
   ],

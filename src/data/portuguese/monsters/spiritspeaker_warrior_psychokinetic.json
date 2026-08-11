@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Shamansaurus",
   "description": "Um guerreiro do Vento Noturno, um guardião tribal que patrulha dos cânions nevoados.\\nDizem que sua pintura corporal é uma arte que evoluiu da prática da Gravura de Flogisto, e que leva muitos anos de treino para realmente dominar o poder contido nela.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

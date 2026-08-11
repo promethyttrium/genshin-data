@@ -25,19 +25,19 @@
       "_id": 112100,
       "id": "stillsmoldering_hilt",
       "name": "Schwelender Schwertgriff",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112099,
       "id": "splintered_hilt",
       "name": "Zersplitterter Schwertgriff",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112098,
       "id": "ruined_hilt",
       "name": "Verwitterter Schwertgriff",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Golem_Legion",
   "description": "Diese bewegliche Statue in Form eines Kriegers richtet ihre Klinge gegen jeden, der es wagt, den Ort zu betreten, den sie bewacht. Niemand weiß, was sie antreibt; ist es ein Geist, oder Magie?\\nDer Legende nach sollen einst Legionen an Golems die Gefilde der Hohen See erobert haben. Vielleicht war es aber auch nur einer. Die Türme und Paläste, die auf den Grund des Meeres gesunken sind, sind jedenfalls Zeuge dessen, was denen widerfährt, die es wagen, sich dem Rad des Schicksals in den Weg zu stellen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

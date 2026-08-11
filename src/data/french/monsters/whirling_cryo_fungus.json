@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Fungus_Trois_Alpha_Ice",
   "description": "Une spore dotée d'un certain degré d'intelligence qui possède une excellente capacité d'adaptation à son environnement.\\nIl a été constaté que mettre les Fongus dans de la glace n'améliore pas leur goût, mais que faire ainsi permettait de combattre la chaleur.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

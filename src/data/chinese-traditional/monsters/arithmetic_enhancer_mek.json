@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "自律機關",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
   "description": "以中繼並增幅信號為目的，設計製造的發條機關。\\n驅動發條機關的能源是透過荒性與芒性在動力核心內部進行可控湮滅反應而產生的。因此向其釋放過度的能量會導致原本的平衡被打破。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

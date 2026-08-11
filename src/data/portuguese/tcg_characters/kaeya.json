@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Espada",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3210,
@@ -29,8 +31,10 @@
     {
       "id": "ceremonial_bladework",
       "name": "Lâmina Cerimonial",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "frostgnaw",
       "name": "Mordida Congelante",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#99FFFFFF\">Dano Cryo</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "glacial_waltz",
       "name": "Valsa Glacial",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, gera <span style=\"color:#FFFFFFFF\">Aresta Gélida</span>.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#99FFFFFF\">Dano Cryo</span>, gera <span style=\"color:#FFFFFFFF\">Aresta Gélida</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1101,

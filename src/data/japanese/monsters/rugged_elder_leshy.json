@@ -1,0 +1,40 @@
+{
+  "_id": 25137001,
+  "id": "rugged_elder_leshy",
+  "monsterId": 25137006,
+  "name": "宿老の樹霊",
+  "specialNames": [
+    "若枝の木霊"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種の魔獣",
+  "filename_icon": "UI_MonsterIcon_Leshy_Mature_01",
+  "description": "林野に生息する木の精。\\n知性が欠け、言葉を発することもできない木の精は、一見すると黄金の国の職人たちによる初期の実験結果のように見える。だが全くの逆で、記録によれば、彼らは命の権能をほぼ完全に掌握した後に、初めてこの種族のフェイを創り出したという。\\nもしかするとそこには、現在のフェイや人には読み解けない真意が込められているのかもしれない。",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.3,
+      "hydro": 0.1,
+      "geo": 0.3,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 21.945072,
+      "attack": 94.62242,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": 25138001,
+  "id": "juvenile_tree_segment",
+  "monsterId": 25138003,
+  "name": "幼嫩的分节树",
+  "specialNames": [
+    "苍遒的木灵长"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "异种魔兽",
+  "filename_icon": "UI_MonsterIcon_Leshy_Normal_01",
+  "description": "生长在林野之中的树妖。\\n在至冬的诸多妖精中，树妖也是极为特殊的一种，它几乎很少出现在城市中。在诸多妖精之中，树妖或许是最为长寿的，很少有长生的其他种族见证过树妖的一生。不过大多数人可能连分辨树妖中的个体都做不到吧。",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.2,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

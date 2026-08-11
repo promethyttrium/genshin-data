@@ -68,6 +68,11 @@
       "name": "치킨 프리카세"
     },
     {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "베리 아이스크림"
+    },
+    {
       "_id": 4403,
       "id": "fontinalia_mousse",
       "name": "폰티날리아 무스"
@@ -85,6 +90,5 @@
   ],
   "source": [
     "요리 가공 획득"
-  ],
-  "rarity": 0
+  ]
 }

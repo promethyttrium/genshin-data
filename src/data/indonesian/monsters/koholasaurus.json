@@ -8,13 +8,12 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Mosasaurus_Normal",
   "description": "Saurian berekor panjang dengan sirip tebal dan kokoh. Saurian ini bisa berenang bebas di dalam air dan Phlogiston cair.\\nMenurut legenda, naga-naga zaman dahulu memiliki kemampuan beradaptasi yang kuat dengan lingkungan sekitarnya. Dan saat naga raksasa pada masa itu mengapung di permukaan air, orang-orang akan salah mengiranya sebagai sebuah pulau besar. Konon Koholasaurus pada zaman sekarang ini merupakan keturunan dari naga laut dan wujud monster laut kuno itu mungkin masih sedikit tersisa di punggung Koholasaurus yang lebar ini.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {

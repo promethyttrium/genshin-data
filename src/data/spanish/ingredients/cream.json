@@ -68,6 +68,11 @@
       "name": "Fricasé de pollo"
     },
     {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Helado de grosella escarchada"
+    },
+    {
       "_id": 4403,
       "id": "fontinalia_mousse",
       "name": "Mousse fontinal"
@@ -85,6 +90,5 @@
   ],
   "source": [
     "Procesar comida"
-  ],
-  "rarity": 0
+  ]
 }

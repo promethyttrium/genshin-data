@@ -1,0 +1,18 @@
+{
+  "_id": 104371,
+  "id": "teachings_of_glory",
+  "name": "「栄光」の教え",
+  "description": "天賦育成素材。\\n「栄光」は氷の国土の信仰である。\\n栄光は凍土の下に深く埋もれた種火であり、その姿を思い描くことができれば、極寒に立ち向かう勇気を得られる。",
+  "source": [
+    "ギフトショップで交換"
+  ],
+  "location": "スネージナヤ",
+  "rarity": 2,
+  "domain": "熟知秘境・共観 IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "水曜",
+    "土曜",
+    "日曜"
+  ]
+}

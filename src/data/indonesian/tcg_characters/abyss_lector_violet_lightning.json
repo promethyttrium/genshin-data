@@ -9,8 +9,10 @@
     "hp": 6,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Electro",
+    "weapon": "Senjata Lain",
     "faction": [
-      null
+      "Monster"
     ],
     "talent_card": {
       "_id": 7065,
@@ -27,8 +29,10 @@
     {
       "id": "den_of_thunder",
       "name": "Den of Thunder",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#FFACFFFF\">Electro DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -47,8 +51,10 @@
     {
       "id": "shock_of_the_enigmatic_abyss",
       "name": "Shock of the Enigmatic Abyss",
-      "desc": "Mengakibatkan ? poin ?.<br/>Jika target sudah terpengaruh Electro, akan mencuri 1 poin Energy lawan. (Jika Energy Karakter ini sudah penuh, maka Energy yang dicuri akan diberikan ke Karakter berikutnya yang Energy-nya belum penuh)",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#FFACFFFF\">Electro DMG</span>.<br/>Jika target sudah terpengaruh Electro, akan mencuri 1 poin Energy lawan. (Jika Energy Karakter ini sudah penuh, maka Energy yang dicuri akan diberikan ke Karakter berikutnya yang Energy-nya belum penuh)",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -61,8 +67,10 @@
     {
       "id": "wild_thunderburst",
       "name": "Wild Thunderburst",
-      "desc": "Mengakibatkan ? poin ?.<br/>Jika Energy target tidak lebih dari 1, maka mengakibatkan DMG +2.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#FFACFFFF\">Electro DMG</span>.<br/>Jika Energy target tidak lebih dari 1, maka mengakibatkan DMG +2.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -82,7 +90,9 @@
       "id": "electric_rebirth",
       "name": "Electric Rebirth",
       "desc": "[Pasif] Saat pertandingan dimulai, Karakter ini memperoleh status <span style=\"color:#FFFFFFFF\">Electric Rebirth</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

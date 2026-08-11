@@ -37,12 +37,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_Abyss_Fire_01",
   "description": "Savaşta Ateşin gücüne hükmeden Hiçlik yaratıkları.\\nBilinmeyen nedenlerden ötürü Hiçlik Büyücüleri, dağ yabanileriyle iletişim kurup onların zihinlerini kolaylıkla kontrol edebilir. Hiçlik Büyücülerinin uzun zaman önce unutulmuş bir lisanı kullandığı ve bu sayede büyülü güçler elde ettiği söylenir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

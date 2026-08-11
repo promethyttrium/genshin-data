@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Su",
+    "weapon": "Katalizör",
     "faction": [
-      null
+      "Natlan"
     ],
     "talent_card": {
       "_id": 7357,
@@ -29,8 +31,10 @@
     {
       "id": "cooling_treatment",
       "name": "Serinletici Tedavi",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -50,7 +54,9 @@
       "id": "surfshark_wavebreaker",
       "name": "Dalgakıran Köpek Balığı",
       "desc": "Kendine <span style=\"color:#FFFFFFFF\">Camgöz Isırığı</span> ekler, <span style=\"color:#FFFFFFFF\">Gece Ruhunun Lütfu</span> durumuna girer ve 2 <span style=\"color:#FFFFFFFF\">\"Gece Ruhu puanı\"</span> kazanır. (Bu beceri karakter <span style=\"color:#FFFFFFFF\">Gece Ruhunun Lütfu</span> durumuna girdiğinde kullanılamaz.)<br/>(<span style=\"color:#FFFFFFFF\">Camgöz Isırığı</span> ekli karakterler <span style=\"color:#FFFFFFFF\">Camgöz Sörf Tahtası</span> Tekniğini kullanabilir.)",
-      "skillTag": [],
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "boomsharkalaka",
       "name": "Fırtınapatlatan Atışı",
-      "desc": "? ? verir ve <span style=\"color:#FFFFFFFF\">Camgöz Füzesi</span> çağırır.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir ve <span style=\"color:#FFFFFFFF\">Camgöz Füzesi</span> çağırır.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1102,

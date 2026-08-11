@@ -13,7 +13,6 @@
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Magbeast_Argali",
   "description": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\\nStrange lightning once fell upon the land blessed by moonlight, causing once ordinary antelopes to gain the power to wield lightning. They say that some have seen a truly strange sight — antelopes standing on cliffs at the convergence of a storm, attracting bolts of lightning to temper their bodies.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

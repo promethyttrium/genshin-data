@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Элементальные существа",
   "filename_icon": "UI_MonsterIcon_Slime_Water_02",
   "description": "Небольшой монстр, созданный из скопления Гидро элемента, который рассеян по всему миру.\\nЕсли верить легендам, раньше Гидро слаймов использовали в качестве экстренного источника воды при долгих путешествиях по засушливым местам или глубоким подземельям. Однако из-за высокого содержания Гидро элемента в этих слаймах, прямое применение этих созданий в пищу приведёт к плачевным последствиям.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

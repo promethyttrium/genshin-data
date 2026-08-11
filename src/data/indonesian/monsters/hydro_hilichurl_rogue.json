@@ -13,7 +13,6 @@
   "categoryText": "Suku Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hilistray_Water",
   "description": "Hilichurl pengembara yang tidak termasuk dalam suku mana pun. Mereka sering ditemukan berkelana sendirian di alam liar.\\nMereka juga suka membantu Hilichurl atau suku Hilichurl lain yang membutuhkan pertolongan, lalu pergi meninggalkan mereka setelah urusannya selesai. Mereka memiliki tingkat kepintaran yang lebih tinggi dibandingkan dengan Hilichurl biasa.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

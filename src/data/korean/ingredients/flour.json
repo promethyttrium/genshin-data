@@ -313,6 +313,11 @@
       "name": "과일 듀엣 롤"
     },
     {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "메도빅"
+    },
+    {
       "_id": 3901,
       "id": "crisp_croissant_combo",
       "name": "바삭바삭 크루아상"
@@ -400,6 +405,5 @@
   ],
   "source": [
     "요리 가공 획득"
-  ],
-  "rarity": 0
+  ]
 }

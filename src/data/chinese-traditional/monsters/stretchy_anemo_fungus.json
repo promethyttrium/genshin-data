@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Epsilon_Wind",
   "description": "擁有一定智慧的孢子生物。具有強大的環境適應能力。\\n透過伸長的菌柱快速吸收養分的蕈獸，傘狀的菌蓋會隨著風的流向轉動。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

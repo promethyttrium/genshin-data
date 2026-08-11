@@ -13,7 +13,6 @@
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Wyrm_Rock",
   "description": "Un jeune lézard possédant un exosquelette formé par l'élément Géo.\\nLes Élémentosaures sont des créatures particulièrement agiles qu'il vaut mieux ne pas sous-estimer en combat. Les experts de l'Académie de Sumeru pensent que ces créatures deviennent des dragons en grandissant. Il est possible en effet qu'apprendre à éviter les prédateurs et les catastrophes naturelles puisse leur permettre de vivre assez longtemps pour devenir des bêtes formidables capables de faire plier les montagnes.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 3,
   "stats": {

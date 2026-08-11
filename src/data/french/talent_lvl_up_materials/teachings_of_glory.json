@@ -1,0 +1,18 @@
+{
+  "_id": 104371,
+  "id": "teachings_of_glory",
+  "name": "Enseignement de la Gloire",
+  "description": "Matériau d'amélioration d'aptitude\\nLa gloire est la foi sacrée du royaume glacé.\\nC'est une étincelle enfouie profondément sous le sol gelé : si l'on parvient à en déceler la véritable forme, on trouvera le courage de résister au froid mordant.",
+  "source": [
+    "Échangé dans la boutique de packs"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Donjon de la maîtrise : Vision partagée IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Mercredi",
+    "Samedi",
+    "Dimanche"
+  ]
+}

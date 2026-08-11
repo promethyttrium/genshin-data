@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Lancia",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 5052,
@@ -29,8 +31,10 @@
     {
       "id": "swiftshatter_spear",
       "name": "Lancia spezzacelere",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,8 +53,10 @@
     {
       "id": "blazing_blessing",
       "name": "Benedizione ardente",
-      "desc": "Infligge ? ?, genera 1 <span style=\"color:#FFFFFFFF\">Barriera ardente</span>.",
-      "skillTag": [],
+      "desc": "Infligge 2 <span style=\"color:#FF9999FF\">DAN da Pyro</span>, genera 1 <span style=\"color:#FFFFFFFF\">Barriera ardente</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "crimson_ooyoroi",
       "name": "Ooyoroi cremisi",
-      "desc": "Infligge ? ?, genera 1 <span style=\"color:#FFFFFFFF\">Barriera ardente </span>e 1 <span style=\"color:#FFFFFFFF\">Ooyoroi rovente</span>.",
-      "skillTag": [],
+      "desc": "Infligge 2 <span style=\"color:#FF9999FF\">DAN da Pyro</span>, genera 1 <span style=\"color:#FFFFFFFF\">Barriera ardente </span>e 1 <span style=\"color:#FFFFFFFF\">Ooyoroi rovente</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1103,

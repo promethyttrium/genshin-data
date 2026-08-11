@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Autômatos",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Probe",
   "description": "Um Mecautômato criado com o propósito de explorar possíveis fontes de recursos subterrâneos e depósitos de minerais específicos.\\nDevido à sua capacidade de se concentrar na busca por minerais valiosos, ele se torna um alvo para Ladrões de Tesouros e aventureiros.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

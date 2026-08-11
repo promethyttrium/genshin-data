@@ -15,14 +15,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl-Stämme",
   "filename_icon": "UI_MonsterIcon_Shaman_Ice_01",
   "description": "Ein runzliger, murmelnder Hilichurl, der die Macht der Kälte beschwört.\\nHilichurle, deren Gabe darin liegt, die Elemente zu steuern, erreichen ihren Zenit oft erst in den letzten Lebensjahren. Diese Schamanen erinnern sich an die frostigen Gesänge und können damit ihre Feinde festsetzen.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

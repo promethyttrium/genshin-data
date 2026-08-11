@@ -1,0 +1,90 @@
+{
+  "_id": 2208,
+  "id": "hydro_hypostasis",
+  "shareId": 610,
+  "name": "Hipóstasis Hydro",
+  "title": "Hipóstasis Hydro",
+  "desc": "Nombre en clave: He. Un ser Hydro de alta pureza. Tiene una fuerte capacidad de rechazo, pues ahuyenta despiadadamente a toda persona que se le acerca.",
+  "attributes": {
+    "hp": 8,
+    "card_type": "Carta de personaje",
+    "energy": 2,
+    "element": "Hydro",
+    "weapon": "Otras armas",
+    "faction": [
+      "Monstruo"
+    ],
+    "source": "Se obtiene de Príncipe de la taberna Cola de Gato tras ganar el duelo amistoso contra el Hipóstasis Hydro de los duelos tabernarios"
+  },
+  "skills": [
+    {
+      "id": "droplet_diffusion",
+      "name": "Difusión de gotas",
+      "desc": "Inflige 1 pt. de <span style=\"color:#80C0FFFF\">Daño Hydro</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Hydro",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Dado indefinido",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "surging_tides",
+      "name": "Mareas crecientes",
+      "desc": "Inflige 2 pts. de <span style=\"color:#80C0FFFF\">Daño Hydro</span> y <span style=\"color:#FFFFFFFF\">prepara la habilidad</span> <span style=\"color:#FFFFFFFF\">Desbordamiento</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Hydro",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "calamitous_tides",
+      "name": "Mareas calamitosas",
+      "desc": "Inflige 3 pts. de <span style=\"color:#80C0FFFF\">Daño Hydro</span> e invoca una <span style=\"color:#FFFFFFFF\">masa de agua</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Hydro",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Energía",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "hydro_crystal_core",
+      "name": "Núcleo de cristal Hydro",
+      "desc": "Pasiva: cuando comienza el duelo, este personaje obtiene un <span style=\"color:#FFFFFFFF\">núcleo de cristal Hydro</span>. Si hay en juego una <span style=\"color:#FFFFFFFF\">masa de agua</span> cuando se consume el <span style=\"color:#FFFFFFFF\">núcleo de cristal Hydro</span>, vuelve a obtenerlo y el número de usos de la <span style=\"color:#FFFFFFFF\">masa de agua</span> -1.",
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
+      "points": []
+    }
+  ]
+}

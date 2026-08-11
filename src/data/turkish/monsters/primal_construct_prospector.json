@@ -13,7 +13,6 @@
   "categoryText": "Canavar Makinaları",
   "filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
   "description": "Kadim çöl harabelerinin muhafızları, efendilerinin saf rüyalarını bölmeye cüret eden herkesi cezalandıracak kadar kudretlidir.\\nKumların efendisi bir zamanlar hayalindeki cenneti yaratabilmek için yasak bilgileri araştırırdı. Kim bilir, belki bu makinalar o araştırmaların bir sonucudur.\\nGünümüzde o ütopyadan eser kalmadı, dünyanın unuttuğu hayaller ve yeminler ise artık sadece bu makinalara kazınmış yazılarda varlığını sürdürüyor.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

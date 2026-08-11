@@ -278,8 +278,8 @@
     },
     {
       "id": 81032,
-      "name": "MISSÃO FRACASSADA",
-      "desc": "Perdeu o rastro do seu alvo...",
+      "name": "MISSÃO FRACASSADA OU...",
+      "desc": "Perca o rastro do alvo durante uma Recompensa de Caça ou não precise mais perseguir Caças...",
       "reward": 5,
       "hidden": true,
       "order": 1033
@@ -4641,6 +4641,214 @@
       "order": 1699
     },
     {
+      "id": 81700,
+      "name": "Paisagem Merecedora de Uma Pausa",
+      "desc": "Pause por um momento e admire a beleza das bétulas brancas no palácio enterrado sob a neve.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1700
+    },
+    {
+      "id": 81701,
+      "name": "Transcendendo a Terra do Amanhã",
+      "desc": "Colete todas as relíquias deixadas para trás por alguém no Palácio da Coroa Pálida.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1701
+    },
+    {
+      "id": 81702,
+      "name": "Efeito Composto",
+      "desc": "Role a maior bola de neve.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1702
+    },
+    {
+      "id": 81703,
+      "name": "Sinos Matrimoniais",
+      "desc": "Toque o sino que não balança mais.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1703
+    },
+    {
+      "id": 81704,
+      "name": "Para Quem Toca",
+      "desc": "Deixe o sino livre tocar mais uma vez.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1704
+    },
+    {
+      "id": 81705,
+      "name": "Visões na Tocha",
+      "desc": "Traga finalmente conforto aos inquietos.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1705
+    },
+    {
+      "id": 81706,
+      "name": "Limites e Exibição",
+      "desc": "Talvez uma obra só receba um nome para que possa encontrar outra ressonância.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1706
+    },
+    {
+      "id": 81707,
+      "name": "Espaço Extremo",
+      "desc": "Coloque o \"Olho de Graeae\" pela primeira vez.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1707
+    },
+    {
+      "id": 81708,
+      "name": "Neve, Cristal e Velocidade",
+      "desc": "Dê vida nova ao seu velho Expresso.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1708
+    },
+    {
+      "id": 81709,
+      "name": "Atravessando o Salão do Esplendor Falso",
+      "desc": "Colete todas as pinturas na Casa de Hespérides e abra o tesouro oculto do além.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1709
+    },
+    {
+      "id": 81710,
+      "name": "Para Cada Você do Futuro",
+      "desc": "Mesmo que esse você ainda tenha que chegar.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1710
+    },
+    {
+      "id": 81711,
+      "name": "Porque o Palácio Está Lá",
+      "desc": "Suba para o ponto mais alto do Palácio Zapolyarny.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1711
+    },
+    {
+      "id": 81712,
+      "name": "A Última Rosa do Inverno",
+      "desc": "...Morrendo como uma mariposa voando para a chama.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1712
+    },
+    {
+      "id": 81714,
+      "name": "Mais Frio que Picolé",
+      "desc": "Vença uma \"competição de resistência ao frio\" contra um competidor de Natlan.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1714
+    },
+    {
+      "id": 81715,
+      "name": "Ya-ho!",
+      "desc": "Ajude o Geladinho \"Chefe da Vila\" a resistir à invasão Volkodlak.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1715
+    },
+    {
+      "id": 81716,
+      "name": "Sobre a Alta Cúpula",
+      "desc": "Mas quem ainda lembra que a Alta Cúpula foi construída pelos Domovoy...?",
+      "reward": 5,
+      "hidden": true,
+      "order": 1716
+    },
+    {
+      "id": 81717,
+      "name": "A Geleira Afunda Para Nunca Mais Voltar",
+      "desc": "Testemunhe o fim do Snegovik colossal.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1717
+    },
+    {
+      "id": 81718,
+      "name": "\"O Pomar de Cerejas Foi Vendido\"",
+      "desc": "Testemunhe a cabana no gelo ficar de cabeça para baixo, cair e, finalmente, afundar.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1718
+    },
+    {
+      "id": 81720,
+      "name": "Rota planejada com Sucesso",
+      "desc": "Use um Mecanismo de Corrente para realizar um deslocamento horizontal de 30 metros de uma só vez.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1720
+    },
+    {
+      "id": 81721,
+      "name": "Igual a Inspiração",
+      "desc": "Lance uma bola de neve que começa a desaparecer antes de pousar.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1721
+    },
+    {
+      "id": 81722,
+      "name": "Não Passarás",
+      "desc": "Você parou uma bola de neve rolando com sucesso.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1722
+    },
+    {
+      "id": 81724,
+      "name": "Joelhos Resistentes",
+      "desc": "Deslize por 20 segundos.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1724
+    },
+    {
+      "id": 81728,
+      "name": "Uma Promessa Antiga",
+      "desc": "Naquela época, Zolnyy não tinha rei e todos faziam o que queriam...",
+      "reward": 5,
+      "hidden": true,
+      "order": 1728
+    },
+    {
+      "id": 81729,
+      "name": "Koski, o Plano",
+      "desc": "Ajude a mulher de Natlan a acalmar seu companheiro, o Pássaro do Fluxo Escaldante.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1729
+    },
+    {
+      "id": 81730,
+      "name": "Conforme Minha Visão Se Congela",
+      "desc": "Se aproxime da estátua formada pelo fantasma da garota no topo do farol.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1730
+    },
+    {
+      "id": 81731,
+      "name": "Embriagado Mesmo",
+      "desc": "Você sempre pode acordar alguém totalmente embriagado.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1731
+    },
+    {
       "id": 82008,
       "name": "Uma Força Imparável",
       "desc": "Quebre todas os Pilares de Pedra da Ressurreição de Hypostasis Geo antes de se regenerar.",
@@ -5451,6 +5659,22 @@
       "order": 2309
     },
     {
+      "id": 82310,
+      "name": "Espere... Espere... Agora!",
+      "desc": "Interrompa o ataque de uma Criação Derivada Imortal destruindo seu Escudo de Vida enquanto ele estiver no estado de Vida Flamejante.",
+      "reward": 5,
+      "hidden": true,
+      "order": 2310
+    },
+    {
+      "id": 82311,
+      "name": "Leão Alado Abatido",
+      "desc": "Derrube o Leão Alado Quimérico do céu destruindo todos os Orbes Anemo enquanto ele estiver no estado de Ventania.",
+      "reward": 5,
+      "hidden": true,
+      "order": 2311
+    },
+    {
       "id": 84000,
       "name": "O Fim do Começo",
       "desc": "Conclua Missão de Arconte de Mondstadt.",
@@ -6233,6 +6457,14 @@
       "reward": 5,
       "hidden": true,
       "order": 4107
+    },
+    {
+      "id": 84584,
+      "name": "O Cisne da Neve Negra Voando",
+      "desc": "Alcançando alturas que nenhum cisne da neve jamais alcançou e ousando sonhar o que nenhum outro cisne da neve jamais sonhou.",
+      "reward": 5,
+      "hidden": true,
+      "order": 4108
     },
     {
       "id": 85000,
@@ -7593,6 +7825,70 @@
       "reward": 10,
       "hidden": true,
       "order": 5165
+    },
+    {
+      "id": 84391,
+      "name": "Abertura do Rugido da Nevasca",
+      "desc": "Conduza o Expresso pelo vento e pela neve em Snezhnaya.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5166
+    },
+    {
+      "id": 84392,
+      "name": "Mestério da Estrela Azul",
+      "desc": "Recupere o \"Sabre da Ponta Estelar\" da caverna de gelo.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5167
+    },
+    {
+      "id": 84393,
+      "name": "Lufada Uivante",
+      "desc": "Aceite o convite do seu companheiro para se unir ao Rokot.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5168
+    },
+    {
+      "id": 84394,
+      "name": "Inverno Sem Piedade",
+      "desc": "Conclua \"Inverno Sem Piedade\".",
+      "reward": 10,
+      "hidden": true,
+      "order": 5169
+    },
+    {
+      "id": 84395,
+      "name": "Valsa de Amor ou Arrependimento",
+      "desc": "Assista à apresentação experimental de \"Em Busca de Espíritos\".",
+      "reward": 5,
+      "hidden": true,
+      "order": 5170
+    },
+    {
+      "id": 84396,
+      "name": "Fora da Ciclo",
+      "desc": "Testemunhe Mitya adentrar a Nevasca.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5171
+    },
+    {
+      "id": 84397,
+      "name": "As Três Mortes do Destino",
+      "desc": "Sobreviva no além.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5172
+    },
+    {
+      "id": 84398,
+      "name": "Noturno dos Espíritos",
+      "desc": "Conclua \"Noturno dos Espíritos\".",
+      "reward": 10,
+      "hidden": true,
+      "order": 5173
     },
     {
       "id": 84155,

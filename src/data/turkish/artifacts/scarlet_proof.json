@@ -1,0 +1,39 @@
+{
+  "_id": 215047,
+  "id": "scarlet_proof",
+  "name": "Kızıl Kanıt",
+  "min_rarity": 4,
+  "max_rarity": 5,
+  "two_pc": "+%18 Saldırı.",
+  "four_pc": "Kuşanan karakter bir Yıldız Girdabı tepkimesi tetiklediğinde 10 saniyeliğine Kritik Oranı %16, verdiği Yıldız Girdabı Hasarı %40 artar.",
+  "goblet": {
+    "_id": 47412,
+    "id": "chalice_of_your_blood_and_sorrow",
+    "name": "Kanının ve Kederinin Kadehi",
+    "description": "Parlak kırmızı renkli bir şarap şişesi. İçindekini hiçbir zaman öğrenmemen dileğiyle."
+  },
+  "plume": {
+    "_id": 47422,
+    "id": "glory_to_your_legacy",
+    "name": "Mirasının Şanı",
+    "description": "Parlak kırmızı renkli bir tüy kalem. En genç olana verilir."
+  },
+  "circlet": {
+    "_id": 47432,
+    "id": "testament_to_your_faith",
+    "name": "İnancının Kanıtı",
+    "description": "Parlak kırmızı renkli bir miğfer. Bir zamanlar birini korumuş olsa gerek."
+  },
+  "flower": {
+    "_id": 47442,
+    "id": "honor_to_your_devotion",
+    "name": "Adanmışlığının Nişanesi",
+    "description": "Parlak kırmızı renkli bir çiçek süsü. Daima yanan zafer tutkusunu simgeler."
+  },
+  "sands": {
+    "_id": 47452,
+    "id": "time_gifted_unto_you",
+    "name": "Sana Bahşedilen Zaman",
+    "description": "Parlak kırmızı renkli bir cep saati. Bir sohbete ayrılan zamanı gösterir."
+  }
+}

@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Octopus_Larva_02",
   "description": "Подводное животное, стреляющее водными снарядами во время охоты.\\nЕстественно, стрельба водными снарядами - нередкий навык среди инородов Фонтмера, но эти потоки под высоким давлением могут причинить значительный ущерб невнимательным ныряльщикам, большинство которых туристы. Подводная экипировка такая тяжёлая и толстая по двум причинам: чтобы выдерживать подводное давление и защищать от атак инородов.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 13.49,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

@@ -1,0 +1,24 @@
+{
+  "_id": 112147,
+  "id": "ethereal_crystal",
+  "name": "Ethereal Crystal",
+  "description": "ชิ้นส่วนผลึกที่งอกบนผิวกายของภูต แม้จะว่างเปล่า แต่ก็ยังสัมผัสได้ถึงพลังอันเป็นเอกลักษณ์ที่เคยแฝงอยู่ในนั้น",
+  "source": [
+    "ดรอปจากภูตที่มีผลึกหินบนผิวกาย Lv.40 ขึ้นไป",
+    "แลกเปลี่ยนด้วย Stardust",
+    "ตัวแทนชั่วคราว - จำนวนที่สร้างได้: {0}"
+  ],
+  "rarity": 2,
+  "craft": {
+    "cost": 25,
+    "items": [
+      {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Ethereal Glimmershard",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

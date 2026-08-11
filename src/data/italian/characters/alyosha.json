@@ -1,0 +1,1253 @@
+{
+  "_id": 10000148,
+  "id": "alyosha",
+  "name": "Alyosha",
+  "title": "Segugio dal passo rapido",
+  "description": "Un \"cacciatore professionista\" e maestro delle distese innevate di Snezhnaya. Sotto la sua apparente calma arde un idealismo fiero e inconfondibile.",
+  "weapon_type": {
+    "id": "polearm",
+    "name": "Lancia"
+  },
+  "element": {
+    "id": "electro",
+    "name": "Electro"
+  },
+  "gender": {
+    "id": "male",
+    "name": "Maschio"
+  },
+  "release": 1786395600,
+  "substat": "Ricarica di energia",
+  "affiliation": "Snezhnaya",
+  "region": {
+    "id": "snezhnaya",
+    "name": "Snezhnaya"
+  },
+  "rarity": 4,
+  "birthday": [
+    9,
+    2
+  ],
+  "constellation": "Canis Borzoides",
+  "domain": "Dominio della maestria: Eremo",
+  "cv": {
+    "english": "Kevin Andrew Rivera",
+    "chinese": "王辅平",
+    "japanese": "佐藤元",
+    "korean": "Kim Hye-sung"
+  },
+  "skills": [
+    {
+      "_id": 11481,
+      "id": "skirmishing_spear",
+      "name": "Lancia della contesa",
+      "description": "<span style=\"color:#FFD780FF\">Attacco normale</span><br/>Sferra fino a 4 colpi di lancia consecutivi e applica il <b><span style=\"color:#FFD780FF\">Marchio del cacciatore</span></b> all'avversario colpito con l'ultimo colpo.<br/><br/><span style=\"color:#FFD780FF\">Attacco caricato</span><br/>Consuma una determinata quantità di vigore per attaccare balzando in avanti, infliggendo DAN agli avversari lungo la traiettoria.<br/><br/><span style=\"color:#FFD780FF\">Attacco in picchiata</span><br/>Attacca scagliandosi contro il suolo da mezz'aria, infliggendo DAN agli avversari lungo la traiettoria e DAN ad area all'impatto.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "DAN da 1º colpo",
+          "values": [
+            "47.8%",
+            "51.7%",
+            "55.6%",
+            "61.2%",
+            "65.1%",
+            "69.5%",
+            "75.6%",
+            "81.7%",
+            "87.8%",
+            "94.5%",
+            "101.2%",
+            "107.9%",
+            "114.5%",
+            "121.2%",
+            "127.9%"
+          ]
+        },
+        {
+          "label": "DAN da 2º colpo",
+          "values": [
+            "48.2%",
+            "52.1%",
+            "56%",
+            "61.6%",
+            "65.5%",
+            "70%",
+            "76.2%",
+            "82.3%",
+            "88.5%",
+            "95.2%",
+            "101.9%",
+            "108.6%",
+            "115.4%",
+            "122.1%",
+            "128.8%"
+          ]
+        },
+        {
+          "label": "DAN da 3º colpo",
+          "values": [
+            "34.2% + 31.8%",
+            "37% + 34.4%",
+            "39.8% + 37%",
+            "43.8% + 40.7%",
+            "46.6% + 43.3%",
+            "49.8% + 46.3%",
+            "54.1% + 50.3%",
+            "58.5% + 54.4%",
+            "62.9% + 58.5%",
+            "67.7% + 62.9%",
+            "72.4% + 67.3%",
+            "77.2% + 71.8%",
+            "82% + 76.2%",
+            "86.8% + 80.7%",
+            "91.5% + 85.1%"
+          ]
+        },
+        {
+          "label": "DAN da 4º colpo",
+          "values": [
+            "75.9%",
+            "82%",
+            "88.2%",
+            "97%",
+            "103.2%",
+            "110.3%",
+            "120%",
+            "129.7%",
+            "139.4%",
+            "149.9%",
+            "160.5%",
+            "171.1%",
+            "181.7%",
+            "192.3%",
+            "202.9%"
+          ]
+        },
+        {
+          "label": "DAN da ATT caricato",
+          "values": [
+            "111%",
+            "120.1%",
+            "129.1%",
+            "142%",
+            "151%",
+            "161.4%",
+            "175.6%",
+            "189.8%",
+            "204%",
+            "219.5%",
+            "235%",
+            "250.5%",
+            "265.9%",
+            "281.4%",
+            "296.9%"
+          ]
+        },
+        {
+          "label": "Costo vigore ATT caricato",
+          "values": [
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25"
+          ]
+        },
+        {
+          "label": "DAN da ATT in picchiata",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "DAN da ATT in picchiata basso/alto",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11482,
+      "id": "thunderbolt_strike",
+      "name": "Imboscata saettante",
+      "description": "Segue i propri istinti da cacciatore. Pressione</color><br/>Spara agli avversari di fronte a sé, infliggendo <span style=\"color:#FFACFFFF\">DAN da Electro ad area</span>.<br/><br/><span style=\"color:#FFD780FF\">Pressione prolungata</span><br/>Entra in modalità di mira e punta gli avversari presenti in una determinata area di fronte a sé. La RES all'interruzione di Alyosha viene potenziata quando si trova in questa modalità.<br/>Al termine della pressione prolungata, infligge <span style=\"color:#FFACFFFF\">DAN da Electro</span> agli avversari puntati.",
+      "info": "Una volta, il cacciatore temerario allungò la mano verso la punta della lancia e, solo dopo essere sopravvissuto a una lezione pagata col sangue, arrivò a comprendere le crude verità della sopravvivenza nelle gelide pianure.",
+      "attributes": [
+        {
+          "label": "DAN da pressione",
+          "values": [
+            "286.7%",
+            "308.2%",
+            "329.7%",
+            "358.4%",
+            "379.9%",
+            "401.4%",
+            "430.1%",
+            "458.8%",
+            "487.4%",
+            "516.1%",
+            "544.8%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%"
+          ]
+        },
+        {
+          "label": "DAN da pressione prolungata",
+          "values": [
+            "358.4%",
+            "385.3%",
+            "412.2%",
+            "448%",
+            "474.9%",
+            "501.8%",
+            "537.6%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%",
+            "716.8%",
+            "761.6%",
+            "806.4%",
+            "851.2%"
+          ]
+        },
+        {
+          "label": "TdR",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Durata Marchio del cacciatore",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Bonus ATT Precisione del cacciatore",
+          "values": [
+            "11.7%",
+            "12.7%",
+            "13.8%",
+            "14.8%",
+            "15.9%",
+            "17%",
+            "18%",
+            "19.1%",
+            "20.1%",
+            "21.2%",
+            "22.5%",
+            "23.7%",
+            "25%",
+            "26.3%",
+            "27.6%"
+          ]
+        },
+        {
+          "label": "Durata Precisione del cacciatore",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11485,
+      "id": "hunters_advance",
+      "name": "Avanzata del cacciatore",
+      "description": "Evoca il suo fidato compagno <span style=\"color:#FFD780FF\">Tugarin</span> per combattere al suo fianco sul campo, trasformando per un breve periodo di tempo un'area davanti a sé in un <span style=\"color:#FFD780FF\">Campo di caccia di Folgorite</span>.<br/><br/><span style=\"color:#FFD780FF\">Campo di caccia di Folgorite</span><br/>· Provoca continuamente gli avversari vicini per incitarli ad attaccare.<br/>· Ogni 2 s, infligge un'iterazione di <span style=\"color:#FFACFFFF\">DAN da Electro ad area</span> a qualsiasi avversario presente nel campo.<br/><br/><span style=\"color:#FFD780FF\">Tugarin</span><br/>· Se nelle vicinanze ci sono avversari, Tugarin si avvicina velocemente a uno di loro ogni 2 s per azzannarlo, infliggendo <span style=\"color:#FFD780FF\">DAN da Electro</span>.<br/>· Se viene colpito un avversario affetto dal <span style=\"color:#FFD780FF\">Marchio del cacciatore</span>, quest'ultimo viene attivato.<br/>· Quando ci sono più avversari, Tugarin attacca prima quelli affetti dal <span style=\"color:#FFD780FF\">Marchio del cacciatore</span>.",
+      "info": "Attendi. Continua ad attendere finché l'impazienza non svanisce. È allora che il piviere dal ventre rosso attraverserà il bosco di betulle per presentarsi davanti alla freccia.",
+      "attributes": [
+        {
+          "label": "DAN da Campo di caccia di Folgorite",
+          "values": [
+            "75%",
+            "80.6%",
+            "86.2%",
+            "93.7%",
+            "99.3%",
+            "104.9%",
+            "112.4%",
+            "119.9%",
+            "127.4%",
+            "134.9%",
+            "142.4%",
+            "149.9%",
+            "159.3%",
+            "168.7%",
+            "178%"
+          ]
+        },
+        {
+          "label": "DAN da Tugarin",
+          "values": [
+            "50.2%",
+            "54%",
+            "57.8%",
+            "62.8%",
+            "66.5%",
+            "70.3%",
+            "75.3%",
+            "80.4%",
+            "85.4%",
+            "90.4%",
+            "95.4%",
+            "100.4%",
+            "106.7%",
+            "113%",
+            "119.3%"
+          ]
+        },
+        {
+          "label": "Durata",
+          "values": [
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s"
+          ]
+        },
+        {
+          "label": "TdR",
+          "values": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        },
+        {
+          "label": "Costo energia",
+          "values": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "awakened_by_the_baying_hounds",
+      "name": "Risveglio dei segugi ululanti",
+      "description": "Quando <b><span style=\"color:#FFD780FF\">Tugarin</span></b> attacca, ripristina anche i PS dei membri attivi del gruppo di una quantità pari a un 120% dell'ATT di Alyosha.",
+      "level": 1
+    },
+    {
+      "id": "suffer_the_winter_wheat_will",
+      "name": "L'inverno, e la sofferenza del frumento",
+      "description": "Aumenta i DAN inflitti da Alyosha con la sua abilità elementale e il suo Tripudio elementale di uno 0,35% per ogni 1% della sua ricarica d'energia. In questo modo è possibile ottenere fino a un 70% di aumento massimo.",
+      "level": 4
+    },
+    {
+      "id": "into_the_fray",
+      "name": "Nella mischia",
+      "description": "Alyosha entra nello stato di <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span> quando si trova all'interno di un <b><span style=\"color:#FFD780FF\">Campo astropolare</span></b>.<br/>Nello stato di <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span>, l'effetto <span style=\"color:#FFD780FF\">Precisione del cacciatore</span> ottenuto all'attivazione del <b><span style=\"color:#FFD780FF\">Marchio del cacciatore</span></b> aumenta di un 20% anche i DAN da Astroconduzione inflitti dal personaggio quando è in campo.",
+      "level": 0
+    },
+    {
+      "id": "treetop_watch",
+      "name": "Vedetta arborea",
+      "description": "Mostra sulla minimappa la posizione delle <span style=\"color:#FFD780FF\">risorse uniche di Snezhnaya</span> vicine.",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1481,
+      "id": "frostvale_thunderclap",
+      "name": "Tuono della valle glaciale",
+      "description": "L'energia elementale di Alyosha si ripristina di 15 quando i membri del gruppo vicini innescano una <span style=\"color:#FFACFFFF\">reazione di Electro</span> su un avversario. Quest'effetto può attivarsi una volta ogni 18 s.",
+      "level": 1
+    },
+    {
+      "_id": 1482,
+      "id": "howl_from_afar",
+      "name": "Ululato distante",
+      "description": "La durata del Tripudio elementale <span style=\"color:#FFD780FF\">Avanzata del cacciatore</span> aumenta di 6 s.<br/>Inoltre, ogni volta che <b><span style=\"color:#FFD780FF\">Tugarin</span></b> attacca l'avversario, applica anche il <b><span style=\"color:#FFD780FF\">Marchio del cacciatore</span></b> a un bersaglio. Quest'effetto non attiva i <span style=\"color:#FFD780FF\">Marchi del cacciatore</span> esistenti.",
+      "level": 2
+    },
+    {
+      "_id": 1483,
+      "id": "friendly_call",
+      "name": "Richiamo amichevole",
+      "description": "Aumenta di 3 il livello dell'abilità elementale <span style=\"color:#FFD780FF\">Imboscata saettante</span>.<br/>Il livello di potenziamento massimo è 15.",
+      "level": 3
+    },
+    {
+      "_id": 1484,
+      "id": "harvest_the_spoils",
+      "name": "Bottino di caccia",
+      "description": "Quando <b><span style=\"color:#FFD780FF\">Tugarin</span></b> attacca, ripristina di una quantità pari a un 60% dell'ATT di Alyosha i PS del membro vicino del gruppo con la percentuale di PS più bassa.",
+      "level": 4
+    },
+    {
+      "_id": 1485,
+      "id": "when_the_nightbird_falls_silent",
+      "name": "Così cessò il canto dell'uccello notturno",
+      "description": "Aumenta di 3 il livello del Tripudio elementale <span style=\"color:#FFD780FF\">Avanzata del cacciatore</span>.<br/>Il livello di potenziamento massimo è 15.",
+      "level": 5
+    },
+    {
+      "_id": 1486,
+      "id": "standard_reclaimed",
+      "name": "Riconquista dello stendardo",
+      "description": "L'effetto <span style=\"color:#FFD780FF\">Precisione del cacciatore</span> ottenuto dall'attivazione di <b><span style=\"color:#FFD780FF\">Marchio del cacciatore</span></b> ora può accumularsi per un massimo di 2 volte. Una volta raggiunti i 2 accumuli, la maestria elementale dei personaggi del gruppo affetti da <span style=\"color:#FFD780FF\">Precisione del cacciatore</span> aumenta di 100, se sono in campo.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "-",
+            "1003"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "-",
+            "22"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "-",
+            "59"
+          ]
+        },
+        {
+          "label": "Ricarica di energia",
+          "values": [
+            "-",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "2577",
+            "3326"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "57",
+            "74"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "151",
+            "195"
+          ]
+        },
+        {
+          "label": "Ricarica di energia",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "4982",
+            "5514"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "111",
+            "122"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "293",
+            "324"
+          ]
+        },
+        {
+          "label": "Ricarica di energia",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104141,
+        "id": "vajrada_amethyst_sliver",
+        "name": "Scheggia d'ametista Vajrada",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Ciufferba",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Nucleo chimerico",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "6343",
+            "7052"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "141",
+            "157"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "373",
+            "414"
+          ]
+        },
+        {
+          "label": "Ricarica di energia",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "Frammento d'ametista Vajrada",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Coda recisa dell'errante celeste",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Ciufferba",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Nucleo chimerico",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "7881",
+            "8413"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "175",
+            "187"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "463",
+            "494"
+          ]
+        },
+        {
+          "label": "Ricarica di energia",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "Frammento d'ametista Vajrada",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Coda recisa dell'errante celeste",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Ciufferba",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Nucleo chimerico simbiotico",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "9241",
+            "9773"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "205",
+            "217"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "543",
+            "574"
+          ]
+        },
+        {
+          "label": "Ricarica di energia",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "Pezzo d'ametista Vajrada",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Coda recisa dell'errante celeste",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Ciufferba",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Nucleo chimerico simbiotico",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "10602",
+            "11134"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "235",
+            "247"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "623",
+            "654"
+          ]
+        },
+        {
+          "label": "Ricarica di energia",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "Pezzo d'ametista Vajrada",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Coda recisa dell'errante celeste",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Ciufferba",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "Nucleo chimerico primordiale",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "11962",
+            "11962"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "265",
+            "265"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "703",
+            "703"
+          ]
+        },
+        {
+          "label": "Ricarica di energia",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104144,
+        "id": "vajrada_amethyst_gemstone",
+        "name": "Gemma d'ametista Vajrada",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Coda recisa dell'errante celeste",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Ciufferba",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "Nucleo chimerico primordiale",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104368,
+          "id": "teachings_of_fortitude",
+          "name": "Insegnamenti della fermezza",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Nucleo chimerico",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guida alla fermezza",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Nucleo chimerico simbiotico",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guida alla fermezza",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Nucleo chimerico simbiotico",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guida alla fermezza",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Nucleo chimerico simbiotico",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guida alla fermezza",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Nucleo chimerico simbiotico",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Filosofie della fermezza",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nucleo chimerico primordiale",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elisir dell'eretico",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Filosofie della fermezza",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nucleo chimerico primordiale",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elisir dell'eretico",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Filosofie della fermezza",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nucleo chimerico primordiale",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elisir dell'eretico",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Filosofie della fermezza",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Nucleo chimerico primordiale",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elisir dell'eretico",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Corona della saggezza",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 214800,
+      "name": "Cacciatore dal manto di neve",
+      "description": "Il completo di Alyosha. Un robusto completo da caccia abbinato a una spessa fodera interna e una soffice finitura del copricapo. Esso permette ad Alyosha di restare nascosto nella neve per lunghi periodi di tempo, finché non cattura la preda che sta cercando. La forma del copricapo ricorda la testa di un cucciolo, e questo ha lo scopo di... beh, renderlo carino. Per giunta, a Tugarin piace un sacco.",
+      "isDefault": true,
+      "characterName": "Alyosha",
+      "characterId": 10000148,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Alyosha_Circle"
+    }
+  ]
+}

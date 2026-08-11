@@ -13,7 +13,6 @@
   "categoryText": "Makhluk Elemental",
   "filename_icon": "UI_MonsterIcon_Effigy_Rock",
   "description": "Code name: Gimel. Sebuah organisme Geo dengan tingkat kemurnian tinggi.\\nElemental Hypostasis adalah perwujudan dari elemen murni dengan tingkat konsentrasi yang sangat tinggi.\\nEnergi elemental berkumpul menjadi satu dan membentuk cangkang keras yang melindungi intinya. Inti elemental tersebut adalah satu-satunya bagian yang dapat terpengaruh oleh reaksi elemental.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

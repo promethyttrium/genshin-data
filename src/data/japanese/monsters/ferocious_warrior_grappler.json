@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "その他人間勢力",
   "filename_icon": "UI_MonsterIcon_Human_Fat_Sword_Bisonsaurus",
   "description": "平原出身の戦士で、金色の田んぼを巡回する部族の守衛。\\n「豊穣の邦」では武器を使わないで体だけで戦う格闘技が栄誉の象徴とされる。修行を積み重ねてきた戦士の逞しい腕で投げられた槍は、凄まじい威力を見せる。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -14,14 +14,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurls",
   "filename_icon": "UI_MonsterIcon_Shaman_Grass_01",
   "description": "Un Hilichurl anciano que utiliza el elemento Dendro y siempre está mascullando entre dientes.\\nLa capacidad de los Hilichurls para controlar los elementos suele alcanzar su punto máximo en la vejez. El resentimiento y el odio contra la humanidad que se ocultan bajo su máscara se revelan en las zarzas venenosas que se extienden a sus órdenes.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

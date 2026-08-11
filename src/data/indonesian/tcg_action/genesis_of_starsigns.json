@@ -1,0 +1,39 @@
+{
+  "_id": 212032,
+  "id": "genesis_of_starsigns",
+  "shareId": 614,
+  "name": "Genesis of Starsigns",
+  "title": "Mona: Genesis of Starsigns",
+  "desc": "\"Jika suatu hari Peramal itu memiliki muridnya sendiri, aku ragu dia akan menguji mereka dengan cara yang membingungkan seperti itu. Yah, mungkin tidak ....\"",
+  "in_play_description": "Normal Attack <span style=\"color:#FFFFFFFF\">Mona</span> akan menghabiskan 1 <span style=\"color:#FFFFFFFF\">Elemen Tidak Selaras</span> lebih sedikit, dan setelah Normal Attack, DMG reaksi Vaporize-mu berikutnya +2.",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Hydro",
+    "card_type": "Kartu Equipment",
+    "energy": [
+      {
+        "_id": 1102,
+        "id": "hydro",
+        "type": "Hydro",
+        "count": 1
+      },
+      {
+        "_id": 1109,
+        "id": "unaligned_element",
+        "type": "Elemen Tidak Selaras",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Talenta",
+      "Aksi Tempur",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Aksi Tempur</span>: Kartu ini dapat dikenakan saat menggunakan <span style=\"color:#FFFFFFFF\">Mona</span> sebagai Karakter Aktif.<br/>DMG reaksi Vaporize Mona berikutnya +2 dan langsung melancarkan <span style=\"color:#FFD780FF\">Ripple of Fate</span> satu kali setelah mengenakannya.<br/>Saat menggunakan Normal Attack, <span style=\"color:#FFFFFFFF\">Mona</span> akan menghabiskan 1 <span style=\"color:#FFFFFFFF\">Elemen Tidak Selaras</span> lebih sedikit, dan setelah Normal Attack, DMG reaksi Vaporize-mu berikutnya +2.<br/>(Kamu harus punya Mona di dalam Dek-mu untuk menambahkan kartu ini ke dalam Dek)"
+    }
+  ]
+}

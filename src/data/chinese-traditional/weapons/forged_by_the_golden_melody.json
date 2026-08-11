@@ -1,0 +1,333 @@
+{
+  "_id": 12435,
+  "id": "forged_by_the_golden_melody",
+  "name": "金律鑄影",
+  "description": "飾以黃金的重劍，傳說在遙遠的過去曾是某位大調律師愛用的兵器。",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "雙手劍"
+  },
+  "domain": "深潮的餘響",
+  "passive": "交奏的晝與夜",
+  "bonus": "每10秒，裝備者按照以下順序，分別奏響對應效果的「諧律樂章」：攻擊力提升<span>18%/22.5%/27%/31.5%/36%</span>/元素精通提升<span>120/150/180/210/240</span>點/星爍反應傷害提升<span>28%/35%/42%/49%/56%</span>，每種樂章效果持續10秒，裝備者處於隊伍後臺時，依然能觸發上述效果。<br/>觸發星爍反應後，還會額外獲得持續12秒、與觸發星爍反應時演奏樂章效果相同的「諧律樂章·複音」，該效果可以與原本的樂章效果疊加，每12秒至多觸發一次。",
+  "specialProp": "暴擊率",
+  "stats": {
+    "primary": "基礎攻擊力",
+    "secondary": "暴擊率",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 42,
+        "secondary": 6
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 109,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 135,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 205,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 231,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 266,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 292,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 327,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 353,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 388,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 414,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 449,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 475,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 510,
+        "secondary": 27.6
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114053,
+          "id": "dross_of_pure_sacred_dewdrop",
+          "name": "純聖露滴的濾渣",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112098,
+          "id": "ruined_hilt",
+          "name": "殘毀的劍柄",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112080,
+          "id": "transoceanic_pearl",
+          "name": "異海凝珠",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114054,
+          "id": "sublimation_of_pure_sacred_dewdrop",
+          "name": "純聖露滴的凝華",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112098,
+          "id": "ruined_hilt",
+          "name": "殘毀的劍柄",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112080,
+          "id": "transoceanic_pearl",
+          "name": "異海凝珠",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114054,
+          "id": "sublimation_of_pure_sacred_dewdrop",
+          "name": "純聖露滴的凝華",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112099,
+          "id": "splintered_hilt",
+          "name": "裂斷的劍柄",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112081,
+          "id": "transoceanic_chunk",
+          "name": "異海之塊",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114055,
+          "id": "spring_of_pure_sacred_dewdrop",
+          "name": "純聖露滴的醴泉",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112099,
+          "id": "splintered_hilt",
+          "name": "裂斷的劍柄",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112081,
+          "id": "transoceanic_chunk",
+          "name": "異海之塊",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114055,
+          "id": "spring_of_pure_sacred_dewdrop",
+          "name": "純聖露滴的醴泉",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112100,
+          "id": "stillsmoldering_hilt",
+          "name": "未熄的劍柄",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112082,
+          "id": "xenochromatic_crystal",
+          "name": "異色結晶石",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114056,
+          "id": "essence_of_pure_sacred_dewdrop",
+          "name": "純聖露滴的真粹",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112100,
+          "id": "stillsmoldering_hilt",
+          "name": "未熄的劍柄",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112082,
+          "id": "xenochromatic_crystal",
+          "name": "異色結晶石",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "交奏的晝與夜",
+    "template": "每10秒，裝備者按照以下順序，分別奏響對應效果的「諧律樂章」：攻擊力提升<span style=\"color:#99FFFFFF\">{0}</span>/元素精通提升<span style=\"color:#99FFFFFF\">{1}</span>點/星爍反應傷害提升<span style=\"color:#99FFFFFF\">{2}</span>，每種樂章效果持續10秒，裝備者處於隊伍後臺時，依然能觸發上述效果。<br/>觸發星爍反應後，還會額外獲得持續12秒、與觸發星爍反應時演奏樂章效果相同的「諧律樂章·複音」，該效果可以與原本的樂章效果疊加，每12秒至多觸發一次。",
+    "params": [
+      [
+        "18%",
+        "120",
+        "28%"
+      ],
+      [
+        "22.5%",
+        "150",
+        "35%"
+      ],
+      [
+        "27%",
+        "180",
+        "42%"
+      ],
+      [
+        "31.5%",
+        "210",
+        "49%"
+      ],
+      [
+        "36%",
+        "240",
+        "56%"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "每10秒，裝備者按照以下順序，分別奏響對應效果的「諧律樂章」：攻擊力提升<span>18%</span>/元素精通提升<span>120</span>點/星爍反應傷害提升<span>28%</span>，每種樂章效果持續10秒，裝備者處於隊伍後臺時，依然能觸發上述效果。<br/>觸發星爍反應後，還會額外獲得持續12秒、與觸發星爍反應時演奏樂章效果相同的「諧律樂章·複音」，該效果可以與原本的樂章效果疊加，每12秒至多觸發一次。"
+    },
+    {
+      "refinement": 2,
+      "desc": "每10秒，裝備者按照以下順序，分別奏響對應效果的「諧律樂章」：攻擊力提升<span>22.5%</span>/元素精通提升<span>150</span>點/星爍反應傷害提升<span>35%</span>，每種樂章效果持續10秒，裝備者處於隊伍後臺時，依然能觸發上述效果。<br/>觸發星爍反應後，還會額外獲得持續12秒、與觸發星爍反應時演奏樂章效果相同的「諧律樂章·複音」，該效果可以與原本的樂章效果疊加，每12秒至多觸發一次。"
+    },
+    {
+      "refinement": 3,
+      "desc": "每10秒，裝備者按照以下順序，分別奏響對應效果的「諧律樂章」：攻擊力提升<span>27%</span>/元素精通提升<span>180</span>點/星爍反應傷害提升<span>42%</span>，每種樂章效果持續10秒，裝備者處於隊伍後臺時，依然能觸發上述效果。<br/>觸發星爍反應後，還會額外獲得持續12秒、與觸發星爍反應時演奏樂章效果相同的「諧律樂章·複音」，該效果可以與原本的樂章效果疊加，每12秒至多觸發一次。"
+    },
+    {
+      "refinement": 4,
+      "desc": "每10秒，裝備者按照以下順序，分別奏響對應效果的「諧律樂章」：攻擊力提升<span>31.5%</span>/元素精通提升<span>210</span>點/星爍反應傷害提升<span>49%</span>，每種樂章效果持續10秒，裝備者處於隊伍後臺時，依然能觸發上述效果。<br/>觸發星爍反應後，還會額外獲得持續12秒、與觸發星爍反應時演奏樂章效果相同的「諧律樂章·複音」，該效果可以與原本的樂章效果疊加，每12秒至多觸發一次。"
+    },
+    {
+      "refinement": 5,
+      "desc": "每10秒，裝備者按照以下順序，分別奏響對應效果的「諧律樂章」：攻擊力提升<span>36%</span>/元素精通提升<span>240</span>點/星爍反應傷害提升<span>56%</span>，每種樂章效果持續10秒，裝備者處於隊伍後臺時，依然能觸發上述效果。<br/>觸發星爍反應後，還會額外獲得持續12秒、與觸發星爍反應時演奏樂章效果相同的「諧律樂章·複音」，該效果可以與原本的樂章效果疊加，每12秒至多觸發一次。"
+    }
+  ]
+}

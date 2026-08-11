@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "การ์ดตัวละคร",
     "energy": 3,
+    "element": "ธาตุน้ำแข็ง",
+    "weapon": "ดาบ",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 4016,
@@ -29,8 +31,10 @@
     {
       "id": "ancient_sword_art",
       "name": "Ancient Sword Art",
-      "desc": "สร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "สร้าง? 2 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,7 +54,9 @@
       "id": "adeptus_art_herald_of_frost",
       "name": "Adeptus Art: Herald of Frost",
       "desc": "เรียก <span style=\"color:#FFFFFFFF\">Herald of Frost</span>",
-      "skillTag": [],
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "adeptus_art_preserver_of_fortune",
       "name": "Adeptus Art: Preserver of Fortune",
-      "desc": "สร้าง? ? หน่วย และสร้าง <span style=\"color:#FFFFFFFF\">Fortune-Preserving Talisman</span>",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#99FFFFFF\">ความเสียหายน้ำแข็ง</span> 3 หน่วย และสร้าง <span style=\"color:#FFFFFFFF\">Fortune-Preserving Talisman</span>",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1101,

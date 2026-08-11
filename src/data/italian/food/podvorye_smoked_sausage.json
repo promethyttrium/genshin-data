@@ -1,0 +1,42 @@
+{
+  "_id": 1701,
+  "id": "podvorye_smoked_sausage",
+  "name": "Salsiccia affumicata del Podvorye",
+  "description": "Salsiccia a fette. Una salsiccia di carne stagionata, ripiena e affumicata, tagliata a fette sottili e servita così com'è. Un piatto simbolo del ristorante Podvorye, una scelta sicura che nessuno al tavolo rifiuterebbe.",
+  "rarity": 1,
+  "ingredients": [
+    {
+      "_id": 110011,
+      "id": "sausage",
+      "name": "Salsiccia",
+      "amount": 1
+    },
+    {
+      "_id": 100077,
+      "id": "pepper",
+      "name": "Pepe",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Piatti rigenerativi",
+  "results": {
+    "suspicious": {
+      "_id": 108988,
+      "name": "Salsiccia affumicata del Podvorye sospetta",
+      "description": "Una salsiccia tagliata a fette. I pezzi sono tagliati in modo irregolare, con alcuni ancora attaccati tra loro. Sollevandoli, sembrano proprio una fila di liane avvizzite e annerite dal fumo...",
+      "effect": "Ripristina un 8% dei PS max e 800 PS aggiuntivi del personaggio selezionato."
+    },
+    "normal": {
+      "_id": 108989,
+      "name": "Salsiccia affumicata del Podvorye",
+      "description": "Salsiccia a fette. Una salsiccia di carne stagionata, ripiena e affumicata, tagliata a fette sottili e servita così com'è. Un piatto simbolo del ristorante Podvorye, una scelta sicura che nessuno al tavolo rifiuterebbe.",
+      "effect": "Ripristina un 9% dei PS max e 1.000 PS aggiuntivi del personaggio selezionato."
+    },
+    "delicious": {
+      "_id": 108990,
+      "name": "Salsiccia affumicata del Podvorye deliziosa",
+      "description": "Una salsiccia tagliata a fette. La consistenza compatta scandisce il ritmo, mentre i sapori affumicati e saporiti guidano la melodia, danzando sul palato in un armonioso e impeccabile duetto. Non c'è da stupirsi che sia sempre il primo piatto a svuotarsi.",
+      "effect": "Ripristina un 10% dei PS max e 1.200 PS aggiuntivi del personaggio selezionato."
+    }
+  }
+}

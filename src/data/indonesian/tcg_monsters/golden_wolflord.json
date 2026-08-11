@@ -9,8 +9,10 @@
     "hp": 40,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Geo",
+    "weapon": "Senjata Lain",
     "faction": [
-      null
+      "Monster"
     ],
     "talent_card": {
       "_id": 7227,
@@ -27,8 +29,10 @@
     {
       "id": "wolflords_strike",
       "name": "Wolflord's Strike",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -47,8 +51,10 @@
     {
       "id": "howling_riftcall",
       "name": "Howling Riftcall",
-      "desc": "Mengakibatkan ? poin ?, memberikan 2 lapis <span style=\"color:#FFFFFFFF\">Golden Corrosion</span> kepada Karakter target, dan memanggil <span style=\"color:#FFFFFFFF\">Rifthound Skull</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#FFE699FF\">Geo DMG</span>, memberikan 2 lapis <span style=\"color:#FFFFFFFF\">Golden Corrosion</span> kepada Karakter target, dan memanggil <span style=\"color:#FFFFFFFF\">Rifthound Skull</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -61,8 +67,10 @@
     {
       "id": "golden_cankerbind",
       "name": "Golden Cankerbind",
-      "desc": "Mengakibatkan ? poin ?, mengakibatkan 1 poin <span style=\"color:#FFFFFFFF\">Piercing DMG</span> ke seluruh Karakter standby lawan, dan memberikan <span style=\"color:#FFFFFFFF\">Golden Corrosion</span> kepada seluruh Karakter lawan.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#FFE699FF\">Geo DMG</span>, mengakibatkan 1 poin <span style=\"color:#FFFFFFFF\">Piercing DMG</span> ke seluruh Karakter standby lawan, dan memberikan <span style=\"color:#FFFFFFFF\">Golden Corrosion</span> kepada seluruh Karakter lawan.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1106,

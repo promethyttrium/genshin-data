@@ -1,0 +1,29 @@
+{
+  "_id": 114090,
+  "id": "intoxication_of_the_cellared_spiritual_nectar",
+  "name": "Ebbrezza del nettare spirituale invecchiato",
+  "description": "Ciò che per altri è un piacere festivo dopo un abbondante raccolto di grano, per i clan che camminano nel freddo pungente è una necessità di sopravvivenza.<br/>Si narra che i Domovoj, la cui maestria nella distillazione non aveva eguali, un tempo si affidassero a quest'arte per arricchire il tesoro del loro re.<br/>E così, passato da clan a clan tramite il commercio, il distillato fatato scorse attraverso le terre ghiacciate come miele intriso di veleno.",
+  "source": [
+    "Segnaposto - Quantità realizzabile: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114089,
+        "id": "measured_pour_of_the_cellared_spiritual_nectar",
+        "name": "Sorso di nettare spirituale invecchiato",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio della forgiatura: Cicatrici di un'ossessione maledetta",
+  "days": [
+    "Martedì",
+    "Venerdì",
+    "Domenica"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "_id": 4684,
+  "id": "domain_of_blessing_sacred_vault_ii",
+  "name": "祝圣秘境：圣库 II",
+  "entranceId": 1811,
+  "entranceName": "月童的库藏",
+  "description": "这里曾是埋藏着古老文明火种的库藏，如今却被觊觎着圣器的恶徒与魔天的枭鸟所占据。\n在月光的护佑之下，驱逐盘踞其间的魔物，或许能获得珍贵的圣遗物吧。",
+  "regionId": 7,
+  "regionName": "挪德卡莱",
+  "recommendedLevel": 69,
+  "unlockRank": 35,
+  "disorder": [
+    "After a character triggers a Lunar-Charged, Lunar-Crystallize, or Lunar-Bloom reaction, all party members gain a 35% increase to Lunar-Charged, Lunar-Crystallize, and Lunar-Bloom DMG, as well as a 30% increase to DEF, for 10s."
+  ],
+  "filename_image": "UI_DungeonPic_NKDungeon_Cycle03",
+  "recommendedElements": [
+    "水元素",
+    "岩元素",
+    "雷元素",
+    "草元素"
+  ],
+  "domainType": "UI_ABYSSUS_RELIC",
+  "domainText": "Artifacts",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "冒险阅历",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "摩拉",
+      "count": "2025"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "好感经验",
+      "count": "20"
+    },
+    {
+      "_id": 400380,
+      "id": "aubade_of_morningstar_and_moon",
+      "name": "Aubade of Morningstar and Moon",
+      "rarity": 4
+    },
+    {
+      "_id": 400390,
+      "id": "a_day_carved_from_rising_winds",
+      "name": "A Day Carved From Rising Winds",
+      "rarity": 4
+    },
+    {
+      "_id": 400018,
+      "id": "tiny_miracle",
+      "name": "Tiny Miracle",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Instructor",
+      "rarity": 4
+    },
+    {
+      "_id": 400017,
+      "id": "tiny_miracle",
+      "name": "Tiny Miracle",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Instructor",
+      "rarity": 3
+    }
+  ],
+  "monsterList": []
+}

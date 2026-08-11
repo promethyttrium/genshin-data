@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 3,
+    "element": "Geo",
+    "weapon": "Lança",
     "faction": [
-      null
+      "Natlan"
     ],
     "talent_card": {
       "_id": 7582,
@@ -29,8 +31,10 @@
     {
       "id": "cragbiter",
       "name": "Mordida Perfuradora",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -50,7 +54,9 @@
       "id": "go_go_turbo_twirly",
       "name": "Ataque, Pirueta Turbo!",
       "desc": "Aplica <span style=\"color:#FFFFFFFF\">Pirueta Turbo</span> a si, entra em <span style=\"color:#FFFFFFFF\">Bênção do Espírito da Noite</span>, então ganha 2 <span style=\"color:#FFFFFFFF\">pontos de Espírito da Noite.</span> (Essa habilidade não pode ser usada após o personagem entrar em <span style=\"color:#FFFFFFFF\">Bênção do Espírito da Noite</span>)<br/>(Personagens com <span style=\"color:#FFFFFFFF\">Pirueta Turbo</span> aplicado podem usar a Técnica: <span style=\"color:#FFFFFFFF\">Pirueta Turbo Mortal</span>)",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -63,8 +69,10 @@
     {
       "id": "time_to_get_serious",
       "name": "Hora de Ficar Séria!",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, gera <span style=\"color:#FFFFFFFF\">Campo Super Turbo</span>.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#FFE699FF\">Dano Geo</span>, gera <span style=\"color:#FFFFFFFF\">Campo Super Turbo</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1106,

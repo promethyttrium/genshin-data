@@ -1,7 +1,7 @@
 {
   "_id": 20080201,
   "id": "tangled_vines_frostnight_scion",
-  "monsterId": 20080202,
+  "monsterId": 84008022,
   "name": "Ranken – Nachkomme der Frostnacht",
   "specialNames": [
     "Ranken"
@@ -13,9 +13,8 @@
   "categoryText": "Elementare Lebensformen",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Grass",
   "description": "Ein elegantes Elementarwesen, das eine immense elementare Affinität besitzt. Über die langen Jahre war es hohen Konzentrationen der Dendro-Kraft ausgesetzt, was zu seiner heutigen Form führte.\\nDieses Wesen hat eine wunderbare Resonanz mit der Flora der Wälder. Manche sagen, dass eine Mondkantorin einst mit seiner Hilfe einen Vertrag mit den Wäldern schloss und so zur Freundin und Begleiterin allen Lebens in diesem Land wurde.\\nIn den noch existierenden Gebeten des hohen Nordens wurden sie aus dem Segen des Frostmonds geboren und symbolisieren die reine Quelle und das erste Strahlen. Vielleicht ist das der Grund, warum sie die Befleckung ihrer blassen Reinheit mit den sieben Farben des himmlischen Lichts als unerträglich empfinden und deshalb alles Leben, das sich ihnen nähert, zurückweisen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

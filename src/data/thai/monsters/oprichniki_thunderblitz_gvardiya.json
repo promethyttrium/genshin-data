@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Female_Slim_MachineGun",
   "description": "เจ้าหน้าที่ระดับสูงของหน่วยพิเศษ Fatui ถนัดใช้ปืนคู่ในการต่อสู้\\nแตกต่างจาก Skirmisher เจ้าหน้าที่หน่วยพิเศษแทบทั้งหมดล้วนมาจากวิทยาลัยการทหารแห่งราชวงศ์ Snezhnaya ไม่ว่าจะด้วยฐานะของชนชั้นสูง หรือด้วยพรสวรรค์ของชาวเมืองทั่วไป ยังไงในอุดมคติอันเปี่ยมเมตตาของ Tsaritsa ทั้งสองสิ่งนั้นไม่ได้แตกต่างกันเลย เช่นเดียวกับ \"ทหารองครักษ์\" ที่ตามธรรมเนียมแล้วมีเพียงขุนนางภูตที่มารับหน้าที่ได้ ซึ่งปัจจุบันได้กลายเป็นตำแหน่งอันทรงเกียรติของเจ้าหน้าที่หน่วยพิเศษ ซึ่งจะมอบให้แก่ผู้คนที่สร้างโลกใหม่อย่างเท่าเทียมกัน",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

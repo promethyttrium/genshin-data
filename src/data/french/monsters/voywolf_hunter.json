@@ -1,0 +1,40 @@
+{
+  "_id": 25133701,
+  "id": "voywolf_hunter",
+  "monsterId": 25133702,
+  "name": "Traqueur d'hurleloup",
+  "specialNames": [
+    "Traqueur d'hurleloup"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bêtes mystiques",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Greyhound",
+  "description": "Un volkodlak devenu extrêmement puissant après avoir hérité d'une plus grande part du pouvoir immense de sa lignée.\\nJadis, leur clan prospérait au point de pouvoir servir d'armée indépendante sous les ordres du seigneur des bêtes. Cependant, après l'unification des terres gelées par le Tsar Belyi, maître de la cour royale de l'étoile pâle, les pertes relativement faibles du clan durant la guerre le rendirent suspect. Leur influence déclina peu à peu, et lorsque la Tsarine monta sur le trône, ils s'étaient retirés du centre du pouvoir à Snezhnaya. Aujourd'hui, la plupart des volkodlak se déplaçant en meute vivent dans les plaines enneigées et les forêts montagneuses.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 18.287561,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

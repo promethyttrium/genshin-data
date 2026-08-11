@@ -13,7 +13,6 @@
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_Magbeast_Steppenwolf",
   "description": "長久浸浴古老月之力而演化出獨特生態的魔獸。\\n傳說在漆黑的災禍抹去諸多生靈之際，邊地的森林寂然無聲。彼時，劃破死寂的是向月而嗥的凜狼。群狼悲歌般的低吼挾著清冷的月光，在無數個夜裡迴盪於荒野之上。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

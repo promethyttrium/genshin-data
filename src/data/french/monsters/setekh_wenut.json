@@ -36,7 +36,7 @@
       "_id": 113044,
       "id": "pseudostamens",
       "name": "Pseudo-étamines",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104154,
@@ -119,7 +119,6 @@
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Sandworm",
   "description": "Un prédateur sans yeux qui habite dans les profondeurs du désert et suit sa proie grâce aux sons et tremblements envoyés à travers la terre.\\nLes légendes racontent que dans le passé, avant même que le concept de temps ne soit créé, ces créatures prospéraient avec leurs progéniteurs et leurs descendants dans une terre d'herbes verdoyantes et d'arbres colossaux, traversant un sol glissant comme des poissons plongeant dans l'eau.\\nAvec le passage des éons, les dons du ciel ont depuis longtemps réduit les sols en sable, provoquant l'extinction d'un grand nombre de créatures. Cette espèce a néanmoins pu survivre en s'adaptant davantage à la vie terrestre et est devenue connue sous le nom de Wenut.\\nCertains habitants du désert croient encore à tort que les Wenuts sont la forme finale des anguilles des sables après pupaison et arrivée à maturité, probablement en raison de similitudes superficielles entre les comportements des espèces.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

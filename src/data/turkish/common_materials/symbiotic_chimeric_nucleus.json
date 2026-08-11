@@ -1,0 +1,24 @@
+{
+  "_id": 112150,
+  "id": "symbiotic_chimeric_nucleus",
+  "name": "Simbiyotik Kimerik Çekirdek",
+  "description": "İnsan yapımı bir canavardan elde edilen nispeten karmaşık bir çekirdek. Bu simbiyotik çekirdek, iki farklı yaşam formunun biyolojik döngülerini sürdürmek ve onları tek bir organizmada kusursuzca harmanlamak için tasarlanmıştır.",
+  "source": [
+    "Sv. 40 ve üzeri Sapkın Kimerik Canavarlardan düşer.",
+    "Yıldız Tozu Takası",
+    "Yer Tutucu - Üretilebilir Miktar: {0}"
+  ],
+  "rarity": 2,
+  "craft": {
+    "cost": 25,
+    "items": [
+      {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Kimerik Çekirdek",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

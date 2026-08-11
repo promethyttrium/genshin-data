@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Mechanisches Stirnrad",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Greifendes Zahnrad",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automata",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Bradamante",
   "description": "Obwohl das Forschungsinstitut für kinetische Energie Fontaine die bedeutendste Institution für die Forschung an und das Design von Uhrwerk-Mecha ist, gibt es auch viele Ingenieure und unabhängige Werkstätten außerhalb des Instituts.\\nDieser Typ des Mecha wurde ursprünglich von einem unabhängigen Ingenieur als Erinnerung an seine Geliebte und Mäzenin entworfen und gebaut. Letztendlich wurde diese Maschine von der Maison Gardiennage auserwählt und erworben, um als eine der Waffen der Stadtsicherheit – auch unter dem Namen Institution der öffentlichen Gewaltanwendung bekannt – Verwendung zu finden.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 3,
   "stats": {

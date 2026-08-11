@@ -25,19 +25,19 @@
       "_id": 112019,
       "id": "deathly_statuette",
       "name": "그윽한 조각상",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112018,
       "id": "dark_statuette",
       "name": "흑야의 조각상",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112017,
       "id": "gloomy_statuette",
       "name": "어두운 조각상",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "심연",
   "filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Chargebow_Ice",
   "description": "칠흑의 병사. 한때 지하 고대 왕국의 자랑스러운 군인이었지만, 지금은 전투의 기억이 남아있는 빈 갑주일 뿐이다.\\n만물은 끝내 쇠하기 마련이며, 이러한 빈 갑주는 「흑 뱀 기사」가 죄, 저주, 시간에 씻겨 내려간 뒤의 모습이다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

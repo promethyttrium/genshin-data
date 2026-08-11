@@ -13,7 +13,6 @@
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_02",
   "description": "Una extraña criatura que mora principalmente en el cuerpo de Elynas.\\nRecibe un potente choque al entrar en contacto con energía ousía o pneuma, por lo que, aunque no posea un instinto muy agresivo, es un buen método para ahuyentar a Protofisuradores como este.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

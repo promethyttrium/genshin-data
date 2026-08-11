@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "สัตว์อสูรลึกลับ",
   "filename_icon": "UI_MonsterIcon_Fungus_Un_Delta_Wind",
   "description": "สิ่งมีชีวิตสปอร์ที่มีสติปัญญา มีความสามารถในการปรับตัวสูง\\nแม้ว่าจะมีหมวกเห็ดขนาดใหญ่ แต่โครงสร้างของเนื้อเยื่อคล้ายร่มเหล่านี้จริง ๆ แล้วด้านในนั้นกลวงและว่างเปล่า จึงยากที่จะใช้เป็นกินเป็นอาหาร",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

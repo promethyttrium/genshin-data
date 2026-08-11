@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Slime_Wind_03",
   "description": "大自然に散布する風元素から生まれた魔物。\\n普通の風スライムに比べ、高濃度の風元素を持つ為、浮遊能力も上がった。長年荒野で生活しているヒルチャールはこの特性を活かし、特殊な運搬器具を作って、謎の物資を運搬している。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

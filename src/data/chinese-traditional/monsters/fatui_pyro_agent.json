@@ -44,7 +44,6 @@
   "categoryText": "愚人眾",
   "filename_icon": "UI_MonsterIcon_Fatuus_Fire_01",
   "description": "隸屬愚人眾的特務人員。\\n債務處理人所處理的「債務」，並不侷限於錢貨往來的清算。\\n「以眼還眼，以牙還牙」也是一種債。無論是誰，只要損害了愚人眾的利益，那就要十倍奉還。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

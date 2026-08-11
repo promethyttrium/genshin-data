@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Andere Waffen",
     "faction": [
-      null
+      "Monster"
     ],
     "talent_card": {
       "_id": 3240,
@@ -27,8 +29,10 @@
     {
       "id": "majestic_dance",
       "name": "Pilzkönig-Tanz",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -47,8 +51,10 @@
     {
       "id": "volatile_spore_cloud",
       "name": "Instabile Sporenwolke",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#7EC236FF\">Dendro-SCH</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -61,8 +67,10 @@
     {
       "id": "feather_spreading",
       "name": "Majestätische Schwanzfedern",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], verbraucht alle Stapelungen von <span style=\"color:#FFFFFFFF\">Aktivierungsstimulus</span>, jede Stapelung erhöht den diesmaligen Schaden um 1.",
-      "skillTag": [],
+      "desc": "Verursacht 4 Pkt. <span style=\"color:#7EC236FF\">Dendro-SCH</span>, verbraucht alle Stapelungen von <span style=\"color:#FFFFFFFF\">Aktivierungsstimulus</span>, jede Stapelung erhöht den diesmaligen Schaden um 1.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -82,7 +90,9 @@
       "id": "radical_vitality",
       "name": "Aktivierungsstimulus",
       "desc": "Passiv – Erhält zu Beginn des Kampfes <span style=\"color:#FFFFFFFF\">Aktivierungsstimulus</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

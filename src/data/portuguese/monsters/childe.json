@@ -197,7 +197,6 @@
   "categoryText": "Chefe",
   "filename_icon": "UI_MonsterIcon_Tartaglia",
   "description": "\"Childe\" Tartaglia, Décimo Primeiro Mensageiro dos Fatui.\\nSeu poder vem de sua Ilusão sinistra e ele luta usando artes marciais que aprendeu em uma terra de escuridão.\\nEle é um guerreiro puro com um desejo insaciável pelo batalha.\\nCada conflito sangrento, cada combate de vida ou morte é uma provação deliciosa para ele.\\nAs pessoas dizem que o jovem Childe é famoso em toda a região por sua destreza em batalha.\\nMas ele nunca levou muito a sério esse tipo de conversa.\\nAfinal de contas...<i>\\n\"Você sempre será o olho da tempestade</i>\\n<i>E o retinir do aço sempre o acompanhará.</i>\\n<i>A memória sombria do encontro com a escuridão total</i>\\n<i>Será, finalmente, a força com a qual você destruirá este mundo.\"</i>",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

@@ -13,7 +13,6 @@
   "categoryText": "Forme di vita elementali",
   "filename_icon": "UI_MonsterIcon_Effigy_Water",
   "description": "Nome in codice: He. Un'entità di Hydro molto pura.\\nLe Ipostasi hanno spiccate proprietà di rigetto ed espellono senza pietà qualsiasi cosa le infastidisca.\\nQuesto comportamento di rigetto si estende anche agli elementi naturali.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

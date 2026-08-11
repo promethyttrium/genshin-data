@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_01",
   "description": "Một người đã đi khắp nơi trên đại lục, thậm chí len lỏi vào các tổ chức trộm cắp lỏng lẻo ở những vùng đất bí mật chưa được biết đến.\\nThành viên phụ trách những công việc nặng, địa vị tương đối thấp trong Đạo Bảo Đoàn, còn hay bị cười nhạo vì hình thể của bản thân. Nhưng khi bị tập kích, sẽ thể hiện được thân thủ và sức mạnh đáng kinh ngạc!",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

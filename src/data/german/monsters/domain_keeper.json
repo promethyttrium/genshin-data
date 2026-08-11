@@ -25,19 +25,19 @@
       "_id": 112142,
       "id": "jeweled_flaming_hilt",
       "name": "Juwelenbesetzter Flammengriff",
-      "count": 0.2626
+      "count": 0.262
     },
     {
       "_id": 112141,
       "id": "fractured_flaming_hilt",
       "name": "Zerbrochener Flammengriff",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112140,
       "id": "faded_flaming_hilt",
       "name": "Verblasster Flammengriff",
-      "count": 3.9394
+      "count": 3.939
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Automata",
   "filename_icon": "UI_MonsterIcon_Watcher_Normal_01",
   "description": "Eine von der ursprünglichen Macht hervorgebrachte Schattenkreatur, die als Wächter der Säulenhalle des Raums ihren Dienst verrichtet.\\nObwohl sie als Wächter der Säulenhalle des Raums mit „Augen“ versehen wurde, kann sie doch nichts anderes tun, als die ewigen „Formen“ wahrer Realität zu lobpreisen. So wird ihr jeglicher Blick auf die vielfältigen Phänomene der Welt verwehrt, weshalb sie auch nicht als Angehörige der Engel angesehen wird. Ob dieser Widerspruch ein bewusster Entschluss ihres Schöpfers war oder ob der Meister, dem sie dient, letztlich den Willen des Urwesens nicht verstanden hat? All dies können wir heute nur mehr erahnen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

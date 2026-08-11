@@ -155,6 +155,11 @@
       "name": "산과 바다와 하늘"
     },
     {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "스네즈나야 꼬치구이"
+    },
+    {
       "_id": 4002,
       "id": "golden_fried_chicken",
       "name": "황금 크리스피 치킨"
@@ -204,6 +209,5 @@
   ],
   "source": [
     "동물 드랍"
-  ],
-  "rarity": 0
+  ]
 }

@@ -1,0 +1,16 @@
+{
+  "_id": 390001,
+  "id": "unbreakable_durandarte",
+  "name": "Unbreakable: Durandarte",
+  "description": "Sebuah pedang megah yang muncul dari kedalaman Ley Line. Konon, di masa lalu, pedang ini dipegang oleh seorang knight putih bernama Durandarte.\\nNamanya, dalam bahasa kuno, artinya adalah \"pedang yang tak pernah hancur\". Sama seperti pedang yang dibawanya, jalan yang diyakini knight itu tak pernah goyah, tak peduli bagaimana baja yang dulunya murni itu kini telah menghitam.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Claymore"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341901,
+  "icon_path": "UI_EquipIcon_Claymore_VarkaTunkeldegen",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_VarkaTunkeldegen"
+}

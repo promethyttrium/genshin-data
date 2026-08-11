@@ -1,0 +1,68 @@
+{
+  "_id": 4718,
+  "id": "domain_of_forgery_severed_steel_iv",
+  "name": "ดันเจี้ยนแห่งการต่อสู้: เหล็กกล้าสะบั้น IV",
+  "entranceId": 2106,
+  "entranceName": "รอยแผลแห่งความหลงผิด",
+  "description": "กลุ่มกบฏผู้สิ้นหวังและเคืองแค้นเคยซ่อนตัวอยู่ที่นี่ ดันทุรังเฝ้าฝันที่จะกอบกู้อดีต ทว่าความฝันเหล่านั้นกลับมอดไหม้ไปพร้อมกับเปลวเพลิงสีเลือด หลงเหลือไว้เพียงสีซีดจางอันไร้ที่สิ้นสุด\nหากเอาชนะศัตรูที่ปักหลักอยู่ที่นั่นได้ อาจจะได้รับไอเทมเสริมแกร่งอุปกรณ์ก็ได้นะ",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 80,
+  "unlockRank": 40,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "ลม",
+    "น้ำแข็ง"
+  ],
+  "daysOfWeek": [
+    "วันพุธ",
+    "วันเสาร์",
+    "วันอาทิตย์"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Adventure EXP",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "2200"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Friendship EXP",
+      "count": "20"
+    },
+    {
+      "_id": 114096,
+      "id": "the_frost_emperors_farewell",
+      "name": "The Frost Emperor's Farewell"
+    },
+    {
+      "_id": 114095,
+      "id": "the_frost_emperors_lament",
+      "name": "The Frost Emperor's Lament"
+    },
+    {
+      "_id": 114094,
+      "id": "the_frost_emperors_ceremony",
+      "name": "The Frost Emperor's Ceremony"
+    },
+    {
+      "_id": 114093,
+      "id": "the_frost_emperors_revival",
+      "name": "The Frost Emperor's Revival"
+    }
+  ],
+  "monsterList": []
+}

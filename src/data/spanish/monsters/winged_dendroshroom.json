@@ -33,13 +33,13 @@
       "_id": 112063,
       "id": "dormant_fungal_nucleus",
       "name": "Núcleo fúngico inactivo",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112062,
       "id": "inactivated_fungal_nucleus",
       "name": "Núcleo fúngico inerte",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112061,
@@ -57,16 +57,15 @@
       "_id": 112059,
       "id": "fungal_spores",
       "name": "Espora fúngica",
-      "count": 0.2101
+      "count": 0.21
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Fungus_Amanita_Unu_Anudatta_Grass",
   "description": "Una criatura fúngica mimética que posee una gran capacidad de adaptación al entorno.\\nNo solo se parece físicamente a un pájaro, sino que también respeta las costumbres de las aves. Utiliza sus alas creadas a partir de esporas para volar, propagando dichas esporas para llegar aún más lejos.\\nDentro del ecosistema fúngico, ocupa una posición de poder y parece tener una capacidad intelectual superior a la del resto de Hongos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

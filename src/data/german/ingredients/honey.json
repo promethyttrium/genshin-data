@@ -1,0 +1,21 @@
+{
+  "_id": 110017,
+  "id": "honey",
+  "name": "Honig",
+  "description": "Eine bernsteinfarbene Flüssigkeit mit süßem Geschmack, die das ganze Jahr über in Geschäften erhältlich ist. Sie kann zur Zubereitung von Getränken und Soßen verwendet werden, eignet sich aber auch zum Einlegen von Fleisch.",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Raureifbeereneis"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
+    }
+  ],
+  "source": [
+    "In Gemischtwarenläden in Snezhnaya zu erstehen"
+  ]
+}

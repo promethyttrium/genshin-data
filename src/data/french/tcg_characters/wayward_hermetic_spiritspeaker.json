@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Autre arme",
     "faction": [
-      null
+      "Monstre"
     ],
     "source": "Récompense pour avoir accepté un défi de taverne auprès de Prince à La Queue de Chat et remporté la victoire lors d'une partie amicale contre la Spiritoratrice excentrique isolée"
   },
@@ -18,8 +20,10 @@
     {
       "id": "spiritspeaking_frost_star",
       "name": "Spiritoraison : Étoile glaciale",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#99FFFFFF\">DGT Cryo</span>.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -38,8 +42,10 @@
     {
       "id": "radiance_in_flux",
       "name": "Éclat en flux",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?, place 1 carte [<span style=\"color:#FFFFFFFF\">Teintes radiantes</span>] en troisième position en haut de votre deck et permet de <span style=\"color:#FFFFFFFF\">sélectionner</span> 1 effet de renforcement parmi 3 cartes [<span style=\"color:#FFFFFFFF\">Teintes radiantes</span>] aléatoires.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#99FFFFFF\">DGT Cryo</span> et place 1 carte [<span style=\"color:#FFFFFFFF\">Teintes radiantes</span>] en troisième position en haut de votre deck. Les 4 premières fois que cette capacité est utilisée pendant la partie : Permet de <span style=\"color:#FFFFFFFF\">sélectionner</span> 1 effet de renforcement parmi 3 cartes [<span style=\"color:#FFFFFFFF\">Teintes radiantes</span>] aléatoires.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -52,8 +58,10 @@
     {
       "id": "chilling_illustration",
       "name": "Illustration glaçante",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et place 1 carte [<span style=\"color:#FFFFFFFF\">Teintes radiantes</span>] dans votre main.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts de <span style=\"color:#99FFFFFF\">DGT Cryo</span> et place 1 carte [<span style=\"color:#FFFFFFFF\">Teintes radiantes</span>] dans votre main.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -73,7 +81,9 @@
       "id": "iridescent_silhouette",
       "name": "Silhouette irisée",
       "desc": "(Passif) Crée 3 cartes [<span style=\"color:#FFFFFFFF\">Teintes radiantes</span>] et les répartit uniformément dans votre deck au début du combat.",
-      "skillTag": [],
+      "skillTag": [
+        "Capacité passive"
+      ],
       "points": []
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "_id": 70800035,
+  "id": "everburning_hearth_core",
+  "name": "永恆燃燒的爐心",
+  "areaName": "永凝凍土",
+  "areaId": 80200,
+  "description": "據說克什尼克晶礦的民用權限是白沙皇下放的。\n對於至冬來說，他既是凜寒的風雪，又是帶來溫暖的旭日。",
+  "regionName": "至冬",
+  "regionId": 8,
+  "sortOrder": 635,
+  "filename_image": "UI_Codex_Scenery_ZDGuoLuFang"
+}

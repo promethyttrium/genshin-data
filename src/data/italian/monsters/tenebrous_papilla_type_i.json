@@ -36,7 +36,7 @@
       "_id": 113067,
       "id": "ensnaring_gaze",
       "name": "Sguardo irretente",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -171,7 +171,6 @@
   "categoryText": "Abisso",
   "filename_icon": "UI_MonsterIcon_TheAbyss_Dendrite",
   "description": "Creature dell'Abisso dalle sembianze vegetali arrivate da un altro mondo, oscuro e imperscrutabile.\\nQueste distorte mostruosità sono in grado di penetrare nelle viscere della terra, estraendo ricordi da imitare e manipolare. Tramite questo processo di distorsione della memoria, assumono forme più sordide e complesse e si avvicinano gradualmente al nucleo dell'Irminsul, minacciandone l'esistenza.\\nAlcuni dicono che queste aberrazioni lavorino costantemente per corrompere i molti colori della luce, lasciando, al loro passaggio, nient'altro che informazioni oscure. Tale ipotesi sembra essere confermata dai rami che si estendono verso l'esterno, come a tentare di perforare il vuoto...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

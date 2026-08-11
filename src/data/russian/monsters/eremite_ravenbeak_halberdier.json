@@ -31,22 +31,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Окаймлённый красный шёлк",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Выцветший красный шёлк",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Прочие человеческие фракции",
   "filename_icon": "UI_MonsterIcon_Eremite_Male_Standard_Pole",
   "description": "Член неорганизованной группы наёмников из золотых песков. Работает на кого угодно, лишь бы платили хорошо.\\nВ бою эти воины используют алебарды. Говорят, что аскеты, служившие божеству пустыни, носили их как символ своего служения. Когда-то у этого оружия было истинное имя, но оно давным-давно затерялось в песках.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Savaşçının Metal Düdüğü",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Nöbetçinin Ahşap Düdüğü",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Hookwalker",
   "description": "Gök Kubbenin savaşçısı, ormanlık vadilerde ve dağlardaki derelerde devriye gezen bir kabile savaşçısı.\\nKılıç kullanan bu kabile savaşçılarının sürekli ağaçların altında durduğu ve yukarıdan düşen her bir yaprağı keserek savaş becerilerini geliştirdikleri söylenir. Dallardan sessizce düşen yapraklar gibi bu hızlı savaşçıların saldırıları da sessizdir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -1,0 +1,63 @@
+{
+  "_id": 4713,
+  "id": "domain_of_forgery_chain_track_iii",
+  "name": "煉武秘境・鎖軌 III",
+  "entranceId": 2106,
+  "entranceName": "妄執の傷跡",
+  "description": "不満を抱く反逆者たちは、かつてこの地に潜み、旧き世を取り戻そうとしていた。彼らの夢は血色の焔と共に潰え、果てしない蒼白だけが残された。\n中に潜む敵を倒すと、装備強化素材を獲得できるかもしれない。",
+  "regionId": 8,
+  "regionName": "スネージナヤ",
+  "recommendedLevel": 59,
+  "unlockRank": 30,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "風元素",
+    "氷元素"
+  ],
+  "daysOfWeek": [
+    "火曜",
+    "金曜",
+    "日曜"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "冒険経験",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "モラ",
+      "count": "1850"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "好感度経験値",
+      "count": "15"
+    },
+    {
+      "_id": 114091,
+      "id": "exhilaration_of_the_cellared_spiritual_nectar",
+      "name": "蔵に眠る霊薬の高揚"
+    },
+    {
+      "_id": 114090,
+      "id": "intoxication_of_the_cellared_spiritual_nectar",
+      "name": "蔵に眠る霊薬の酩酊"
+    },
+    {
+      "_id": 114089,
+      "id": "measured_pour_of_the_cellared_spiritual_nectar",
+      "name": "蔵に眠る霊薬の酌量"
+    }
+  ],
+  "monsterList": []
+}

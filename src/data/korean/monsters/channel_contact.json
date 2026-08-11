@@ -1,0 +1,41 @@
+{
+  "_id": 25132801,
+  "id": "channel_contact",
+  "monsterId": 25132803,
+  "name": "비버 연락책",
+  "specialNames": [
+    "비버 연락책"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "돌연변이 마수",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Beaver",
+  "description": "통나무로 위장한 핸드 캐논을 들고 다니는 교활한 야수 요정.\\n무기와 화물을 숨기는 솜씨가 뛰어나 화물 운송이나 비밀 정보 전달을 자주 맡는다.\\n손에 든 핸드 캐논도 남는 시간에 직접 제작한 것이다. 때로는 이 무기로 폭죽처럼 보이는 신호탄을 발사하기도 한다.\\n이 녀석의 겉모습에 속아서는 안 된다. 보기와 달리 상당히 교활하다",
+  "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 12.801292,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

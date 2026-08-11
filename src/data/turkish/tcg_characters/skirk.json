@@ -8,9 +8,10 @@
   "attributes": {
     "hp": 10,
     "card_type": "Karakter Kartı",
-    "energy": 0,
+    "element": "Buz",
+    "weapon": "Kılıç",
     "faction": [
-      null
+      "Kozmik Facia"
     ],
     "talent_card": {
       "_id": 9240,
@@ -29,8 +30,10 @@
     {
       "id": "havoc_sunder",
       "name": "Yıkım: Parçalama",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,7 +53,9 @@
       "id": "havoc_warp",
       "name": "Yıkım: Bükme",
       "desc": "2 <span style=\"color:#FFFFFFFF\">Yılan Kurnazlığı</span> kazanır, ardından 1 <span style=\"color:#FFFFFFFF\">Çapraz Silah Hocalığı</span> oluşturup eline ekler. (Her Turda bir defa)",
-      "skillTag": [],
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +68,10 @@
     {
       "id": "havoc_ruin",
       "name": "Yıkım: Harap Etme",
-      "desc": "Tüm <span style=\"color:#FFFFFFFF\">Yılan Kurnazlığını</span> tüketir, tüketilen <span style=\"color:#FFFFFFFF\">Yılan Kurnazlığına</span> eşit miktarda ? verir ve hazırdaki karakterlere de 2 <span style=\"color:#FFFFFFFF\">Delme Hasarı</span> verir. Eğer 7 <span style=\"color:#FFFFFFFF\">Yılan Kurnazlığı</span> tüketilirse hazırdaki karakterlere 2 yerine 3 <span style=\"color:#FFFFFFFF\">Delme Hasarı</span> verir.",
-      "skillTag": [],
+      "desc": "Tüm <span style=\"color:#FFFFFFFF\">Yılan Kurnazlığını</span> tüketir, tüketilen <span style=\"color:#FFFFFFFF\">Yılan Kurnazlığına</span> eşit miktarda <span style=\"color:#99FFFFFF\">Buz Hasarı</span> verir ve hazırdaki karakterlere de 2 <span style=\"color:#FFFFFFFF\">Delme Hasarı</span> verir. Eğer 7 <span style=\"color:#FFFFFFFF\">Yılan Kurnazlığı</span> tüketilirse hazırdaki karakterlere 2 yerine 3 <span style=\"color:#FFFFFFFF\">Delme Hasarı</span> verir.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -78,7 +85,9 @@
       "id": "reason_beyond_reason",
       "name": "Akıl Almaz Mantık",
       "desc": "(Pasif) Skirk Enerji kazanamaz, bunun yerine 7 puana kadar <span style=\"color:#FFFFFFFF\">Yılan Kurnazlığı</span> biriktirebilir.<br/><span style=\"color:#FFFFFFFF\">Bir Donma, Buz Girdabı, Süper İletim veya Buz Kristalleşmesi tepkimesi tetiklediğinde</span> 1 <span style=\"color:#FFFFFFFF\">Boşluk Yarığı</span> oluşur ve eline eklenir. (Her Turda en fazla 3 defa)",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

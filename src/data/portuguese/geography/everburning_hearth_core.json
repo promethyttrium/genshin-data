@@ -1,0 +1,12 @@
+{
+  "_id": 70800035,
+  "id": "everburning_hearth_core",
+  "name": "Núcleo da Fornalha Sempre Ardente",
+  "areaName": "Terra da Geada Eterna",
+  "areaId": 80200,
+  "description": "Dizem que os direitos civis sobre o Cristal Kresnik foram concedidos pelo próprio Czar Belyi.\nPara o povo de Snezhnaya, ele era tanto a geada cortante da nevasca quanto o amanhecer que lhes trazia o calor.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 635,
+  "filename_image": "UI_Codex_Scenery_ZDGuoLuFang"
+}

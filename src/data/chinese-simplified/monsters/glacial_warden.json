@@ -1,0 +1,40 @@
+{
+  "_id": 25135101,
+  "id": "glacial_warden",
+  "monsterId": 25135106,
+  "name": "凝冰戍卫",
+  "specialNames": [
+    "凝冰戍卫"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "异种魔兽",
+  "filename_icon": "UI_MonsterIcon_Snegurochka_Male",
+  "description": "于冰雪之中，为爱而生的雪精。\\n雪精中的男性是天然的骑士，其中的大多数生来都能够自由利用冰雪凝造自己的武器。\\n传说在白沙皇抵抗漆黑蚀流的战役中，有作为其护卫的雪精催动了不属于这一族群的力量，身形变化得相当巨大。\\n虽然不知其最终的结局为何，但触犯了禁忌，想必不会有太好的后果吧。",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 81.504,
+      "attack": 75.36,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

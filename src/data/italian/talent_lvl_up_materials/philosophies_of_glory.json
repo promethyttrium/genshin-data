@@ -1,0 +1,30 @@
+{
+  "_id": 104373,
+  "id": "philosophies_of_glory",
+  "name": "Filosofie della gloria",
+  "description": "Materiale per l'aumento di livello dei talenti.\\nLa gloria è la sacra fede del regno glaciale.\\nEssa è la fiamma imperitura sul focolare del faro, ora destinata a vivere o morire con il regno di ghiaccio. La fiamma accende una passione nobile e, per sostenerne l'eterno ardore, il popolo offrirebbe volentieri tutto ciò che ha.",
+  "source": [
+    "Segnaposto - Quantità realizzabile: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104372,
+        "id": "guide_to_glory",
+        "name": "Guida alla gloria",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio della maestria: Visione condivisa IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Mercoledì",
+    "Sabato",
+    "Domenica"
+  ]
+}

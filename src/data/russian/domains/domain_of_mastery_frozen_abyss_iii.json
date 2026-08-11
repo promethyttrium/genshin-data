@@ -16,6 +16,11 @@
   "recommendedElements": [
     "Пиро"
   ],
+  "daysOfWeek": [
+    "Вторник",
+    "Пятница",
+    "Воскресенье"
+  ],
   "domainType": "UI_ABYSSUS_AVATAR_PROUD",
   "domainText": "Talent Level-Up Material",
   "rewardPreview": [

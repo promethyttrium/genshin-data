@@ -13,7 +13,6 @@
   "categoryText": "Der Abgrund",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_02",
   "description": "Eine seltsame Kreatur, die hauptsächlich in Elynas vorkommt.\\nDie ersten Beobachtungen von Rissprimussen erfolgten in Fontaine kurz nach der Katastrophe. Aufzeichnungen von damals sprechen dabei sowohl davon, dass Rissprimusse Menschen angriffen, als auch, dass sie sie verteidigten.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

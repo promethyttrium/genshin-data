@@ -31,22 +31,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Seda roja bordada",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Satén rojo descolorido",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Eremite_MuscleMan_Gloves",
   "description": "Miembro de los grupos dispersos de mercenarios procedentes del desierto dorado. Están dispuestos a trabajar para cualquiera con tal de obtener un buen pago a cambio de sus servicios.\\nUn artista marcial que lucha con una singular daga de mano. Se unió a Los Eremitas para poder enfrentarse a oponentes más fuertes. A diferencia de otros miembros, no lucha por la recompensa, sino para continuar mejorando su técnica de combate.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

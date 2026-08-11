@@ -13,7 +13,6 @@
   "categoryText": "Makhluk Elemental",
   "filename_icon": "UI_MonsterIcon_Effigy_Fire",
   "description": "Code Name: Ayin. Entitas Pyro dengan kemurnian tinggi.\\nMenurut para peneliti, Elemental Hypostasis memiliki hubungan erat dengan anomali di nadi elemen sekitar. Tapi apakah kemunculan Elemental Hypostasis yang memengaruhi nadi elemen, atau Energi Elemental yang menciptakan Elemental Hypostasis? Masih belum ada yang bisa memberikan jawaban pasti.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

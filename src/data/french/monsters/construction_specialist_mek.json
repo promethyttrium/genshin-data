@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Engrenage à coupe droite",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Engrenage de maillage",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automates",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Excavator",
   "description": "Un grand Méka horlogoïde qui a une valeur incommensurable lorsqu'il est utilisé dans la construction de bâtiments et les fouilles archéologiques, dont le nom vient d'un ingénieur employé par Callas lors de la construction de la ligne Clémentine.\\nAvec le soutien financier de Callas, cet ingénieur a construit la légendaire « Note dorée », un gigantesque engin de chantier qui a servi à creuser le Tunnel de Poisson. Une fois le travail terminé, des Mékas horlogoïdes de même type ont été conçus avec une structure similaire, mais une échelle bien plus petite.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 2,
   "stats": {

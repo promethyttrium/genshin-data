@@ -190,7 +190,7 @@
       "_id": 11092,
       "id": "aisa_utamakura_pilgrimage",
       "name": "Pellegrinaggio di Aisa Utamakura",
-      "description": "Intrecciando ricordi di sogni meravigliosi, Yumemizuki Mizuki entra nello stato di <span style=\"color:#FFD780FF\">Girasogni</span>, che le permette di fluttuare a mezz'aria, e infligge 1 iterazione di <span style=\"color:#80FFD7FF\">DAN da Anemo ad area</span> agli avversari vicini.<br/><br/><span style=\"color:#FFD780FF\">Girasogni</span><br/>· Quando è nello stato di Girasogni, Yumemizuki Mizuki fluttua continuamente in avanti, infliggendo <span style=\"color:#80FFD7FF\">DAN da Anemo ad area</span> agli avversari vicini a intervalli regolari.<br/>· Mentre lo stato di Girasogni è attivo, Yumemizuki Mizuki può controllare la direzione in cui fluttua e aumentare il raggio di raccolta degli <span style=\"color:#FFD780FF\">Spuntini speciali in stile Yumemi</span> del suo Tripudio elementale <span style=\"color:#FFD780FF\">Terapia della sorgente segreta di Anraku</span>.<br/>· I DAN da Turbinio dei membri del gruppo vicini aumentano in base alla maestria elementale di Yumemizuki Mizuki.<br/>· Lo stato di Girasogni termina quando Mizuki lascia il campo o utilizza nuovamente l'abilità elementale.",
+      "description": "Intrecciando ricordi di sogni meravigliosi, Yumemizuki Mizuki entra nello stato di <span style=\"color:#FFD780FF\">Girasogni</span>, che le permette di fluttuare a mezz'aria, e infligge 1 iterazione di <span style=\"color:#80FFD7FF\">DAN da Anemo ad area</span> agli avversari vicini.<br/><br/><span style=\"color:#FFD780FF\">Girasogni</span><br/>· Quando è nello stato di Girasogni, Yumemizuki Mizuki fluttua continuamente in avanti, infliggendo <span style=\"color:#80FFD7FF\">DAN da Anemo ad area</span> agli avversari vicini a intervalli regolari.<br/>· Mentre lo stato di Girasogni è attivo, Yumemizuki Mizuki può controllare la direzione in cui fluttua, aumentando il raggio di raccolta degli <span style=\"color:#FFD780FF\">Spuntini speciali in stile Yumemi</span> del suo Tripudio elementale <span style=\"color:#FFD780FF\">Terapia della sorgente segreta di Anraku</span>.<br/>· I DAN delle reazioni di Turbinio e Turbinio astrale dei membri del gruppo vicini aumentano in base alla maestria elementale di Yumemizuki Mizuki.<br/>· Lo stato di Girasogni termina quando Mizuki lascia il campo o utilizza nuovamente l'abilità elementale.",
       "info": "\"I nostri sogni si toccano a mezzanotte, la loro canzone risuona nei nostri cuori.\"",
       "attributes": [
         {
@@ -254,23 +254,43 @@
           ]
         },
         {
-          "label": "Aumento DAN da Turbinio per ogni punto di maestria elementale",
+          "label": "Aumento DAN da Turbinio con maestria elementale",
           "values": [
-            "0.18%",
-            "0.21%",
-            "0.24%",
-            "0.27%",
-            "0.3%",
-            "0.33%",
-            "0.36%",
-            "0.39%",
-            "0.42%",
-            "0.45%",
-            "0.48%",
-            "0.51%",
-            "0.54%",
-            "0.57%",
-            "0.6%"
+            "18% ogni 100 punti",
+            "21% ogni 100 punti",
+            "24% ogni 100 punti",
+            "27% ogni 100 punti",
+            "30% ogni 100 punti",
+            "33% ogni 100 punti",
+            "36% ogni 100 punti",
+            "39% ogni 100 punti",
+            "42% ogni 100 punti",
+            "45% ogni 100 punti",
+            "48% ogni 100 punti",
+            "51% ogni 100 punti",
+            "54% ogni 100 punti",
+            "57% ogni 100 punti",
+            "60% ogni 100 punti"
+          ]
+        },
+        {
+          "label": "Aumento DAN da Turbinio astrale con maestria elementale",
+          "values": [
+            "1.8% ogni 100 punti",
+            "2.1% ogni 100 punti",
+            "2.4% ogni 100 punti",
+            "2.7% ogni 100 punti",
+            "3% ogni 100 punti",
+            "3.3% ogni 100 punti",
+            "3.6% ogni 100 punti",
+            "3.9% ogni 100 punti",
+            "4.2% ogni 100 punti",
+            "4.5% ogni 100 punti",
+            "4.8% ogni 100 punti",
+            "5.1% ogni 100 punti",
+            "5.4% ogni 100 punti",
+            "5.7% ogni 100 punti",
+            "6% ogni 100 punti"
           ]
         },
         {
@@ -429,7 +449,7 @@
     {
       "id": "bright_moons_restless_voice",
       "name": "Voce irrequieta della luna splendente",
-      "description": "Quando Yumemizuki Mizuki innesca Turbinio nello stato di Girasogni, la durata di quest'ultimo aumenta di 2,5 s. Quest'effetto può innescarsi una volta ogni 0,3 s, per un massimo di 2 volte per ciascuna iterazione di Girasogni.",
+      "description": "Quando Yumemizuki Mizuki innesca una reazione di Turbinio o di Turbinio astrale nello stato di Girasogni, la durata di quest'ultimo aumenta di 2,5 s. Quest'effetto può innescarsi una volta ogni 0,3 s, per un massimo di 2 volte per ciascuna iterazione di Girasogni.",
       "level": 1
     },
     {
@@ -450,7 +470,7 @@
       "_id": 1091,
       "id": "in_mistlike_waters",
       "name": "Acque nebbiose",
-      "description": "Quando Yumemizuki Mizuki è nello stato di Girasogni, applica costantemente l'effetto \"Ventitré notti di attesa\" agli avversari vicini per 3 s ogni 3,5 s. Quando l'avversario viene colpito da reazioni di Turbinio innescate da DAN da Anemo mentre l'effetto sopracitato è attivo, l'effetto viene rimosso e i DAN inflitti dall'attuale iterazione di Turbinio aumentano di un 1.100% della maestria elementale di Mizuki.",
+      "description": "Quando Yumemizuki Mizuki è nello stato di Girasogni, applica costantemente l'effetto \"Ventitré notti di attesa\" agli avversari vicini per 3 s ogni 3,5 s. Quando un avversario subisce una reazione di Turbinio o di Turbinio astrale innescata dai DAN da Anemo mentre l'effetto sopracitato è attivo, l'effetto viene rimosso e i DAN inflitti al suddetto avversario dall'attuale iterazione di Turbinio o di Turbinio astrale aumentano rispettivamente di un 1.100% o un 550% della maestria elementale di Mizuki.",
       "level": 1
     },
     {
@@ -485,7 +505,7 @@
       "_id": 1096,
       "id": "the_heart_lingers_long",
       "name": "Il cuore indugia a lungo",
-      "description": "Quando Yumemizuki Mizuki è nello stato di Girasogni, i DAN da Turbinio inflitti dai membri vicini del gruppo possono causare colpi CRIT, con tasso di CRIT e DAN da CRIT fissati rispettivamente a un 30% e a un 100%.",
+      "description": "Quando Yumemizuki Mizuki è nello stato di Girasogni, i DAN da reazione di Turbinio inflitti dai membri vicini del gruppo possono causare colpi CRIT, con tasso di CRIT e DAN da CRIT fissati rispettivamente a un 30% e a un 100%. Inoltre, il tasso di CRIT e i DAN da CRIT di qualsiasi DAN da Turbinio astrale inflitto dai suddetti membri del gruppo aumentano rispettivamente di un 10% e di un 20%.",
       "level": 6
     }
   ],

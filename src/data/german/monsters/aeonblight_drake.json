@@ -13,7 +13,6 @@
   "categoryText": "Automata",
   "filename_icon": "UI_MonsterIcon_Gargoyle_Fafnir",
   "description": "Eine Kampfmaschine in Drachenform, die, wie ein Herrscher eines großen urzeitlichen Reiches, Angst und Schrecken verbreitet.\\nDie in den Legenden untergegangenen Reiche dürsteten einst nach der verbotenen Technik und versuchten, Maschinen zu erschaffen, die dem Leben ebenbürtig sein könnten oder es sogar übertrafen. Diese riesige, unermüdliche mechanische Bestie scheint zu beweisen, dass sie ein Gebiet betraten, welches Sterblichen verwehrt bleiben muss.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

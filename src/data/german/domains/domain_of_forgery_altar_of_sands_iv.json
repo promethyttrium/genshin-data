@@ -17,6 +17,11 @@
     "Geo",
     "Kryo"
   ],
+  "daysOfWeek": [
+    "Dienstag",
+    "Freitag",
+    "Sonntag"
+  ],
   "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
   "domainText": "Weapon Ascension Materials",
   "rewardPreview": [

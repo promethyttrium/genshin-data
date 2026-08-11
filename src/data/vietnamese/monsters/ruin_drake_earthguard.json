@@ -32,7 +32,6 @@
   "categoryText": "Cơ Quan Tự Động",
   "filename_icon": "UI_MonsterIcon_Gargoyle",
   "description": "Cỗ máy chiến đấu hình rồng khiến người ta khiếp sợ.\\nTheo truyền thuyết, đây là cỗ máy chiến tranh còn sót lại của vương quốc đã sụp đổ. Hình dạng được mô phỏng theo loài \"Rồng Đất\", nhưng đã được tối ưu kết cấu để nâng cao tính năng. So với Rồng Đất thật sự thì nó còn có thêm khả năng \"hấp thu\" mãnh liệt, hoặc nói là khả năng \"chống lại\" nguyên tố.\\nNhìn từ khả năng này, nền văn minh sáng tạo ra loại vũ khí đáng sợ này chắc đã từng có dã tâm khá lớn...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

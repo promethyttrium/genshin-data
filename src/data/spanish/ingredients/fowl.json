@@ -155,6 +155,11 @@
       "name": "Montaña, mar y cielo"
     },
     {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Shashliks de Snezhnaya"
+    },
+    {
       "_id": 4002,
       "id": "golden_fried_chicken",
       "name": "Pollo frito"
@@ -204,6 +209,5 @@
   ],
   "source": [
     "Recolectado de animales"
-  ],
-  "rarity": 0
+  ]
 }

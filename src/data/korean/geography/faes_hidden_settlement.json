@@ -1,0 +1,13 @@
+{
+  "_id": 70800040,
+  "id": "faes_hidden_settlement",
+  "name": "작은 요정들의 마을",
+  "areaName": "서리 마루",
+  "areaId": 80300,
+  "description": "설원에서 끊임없이 굴러가는 눈덩이를 따라가면 이곳에 도착한다고 한다",
+  "regionName": "스네즈나야",
+  "regionId": 8,
+  "sortOrder": 640,
+  "filename_image": "UI_Codex_Scenery_ZDShuangJingCun",
+  "showOnlyUnlocked": true
+}

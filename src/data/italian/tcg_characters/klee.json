@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 3,
+    "element": "Pyro",
+    "weapon": "Catalizzatore",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3458,
@@ -29,8 +31,10 @@
     {
       "id": "kaboom",
       "name": "Megaboom!",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 1 <span style=\"color:#FF9999FF\">DAN da Pyro</span>.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,8 +53,10 @@
     {
       "id": "jumpy_dumpty",
       "name": "Coniglio Bumbum",
-      "desc": "Infligge ? ?, questo personaggio ottiene <span style=\"color:#FFFFFFFF\">Scintilla esplosiva</span>.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#FF9999FF\">DAN da Pyro</span>, questo personaggio ottiene <span style=\"color:#FFFFFFFF\">Scintilla esplosiva</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "sparks_n_splash",
       "name": "Schizzi e scintille",
-      "desc": "Infligge ? ?, genera 1 <span style=\"color:#FFFFFFFF\">Schizzi e scintille</span> nel campo avversario.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#FF9999FF\">DAN da Pyro</span>, genera 1 <span style=\"color:#FFFFFFFF\">Schizzi e scintille</span> nel campo avversario.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1103,

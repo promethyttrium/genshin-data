@@ -1,0 +1,32 @@
+{
+  "_id": 71,
+  "id": "mortal_travails_series_vii",
+  "name": "塵世巡遊·第七輯",
+  "order": 9,
+  "achievements": [
+    {
+      "id": 80525,
+      "name": "冰風的鎮魂曲",
+      "desc": "掌握「冰」的元素力。",
+      "reward": 5,
+      "hidden": false,
+      "order": 484
+    },
+    {
+      "id": 80526,
+      "name": "當歌聲撕裂黑夜",
+      "desc": "集齊全套《極星舞劇集》。",
+      "reward": 5,
+      "hidden": false,
+      "order": 485
+    },
+    {
+      "id": 80528,
+      "name": "亡者們的故事",
+      "desc": "集齊全套《至冬國通史》。",
+      "reward": 5,
+      "hidden": false,
+      "order": 487
+    }
+  ]
+}

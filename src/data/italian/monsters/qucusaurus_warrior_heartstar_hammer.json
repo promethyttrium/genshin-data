@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Fischietto di metallo del guerriero",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Fischietto di legno della sentinella",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Altre fazioni umane",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Flamingo",
   "description": "Un potente guerriero del Clan Piumafiore, il cui coraggio è stato riconosciuto e che pertanto può indossare la corona saurica.\\nPerfino a Natlan, la Nazione di Pyro, i membri del Clan Piumafiore hanno un approccio unico quando si tratta di usare fuoco e fiamme. Per questi guerrieri tribali, armati di pesanti martelli, le fiamme che scoppiano dalle violente collisioni simboleggiano l'intensità della propria passione. Quando vanno in battaglia, di solito essa termina in un istante. E come sempre, loro ne escono vincitori.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

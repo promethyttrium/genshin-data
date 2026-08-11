@@ -1,0 +1,16 @@
+{
+  "_id": 390001,
+  "id": "unbreakable_durandarte",
+  "name": "ไร้พินาศ - Durandarte",
+  "description": "อาวุธลวงตาที่ปรากฏขึ้นจากส่วนลึกของกระแสพลัง ว่ากันว่าในอดีตเคยถูกครอบครองโดยอัศวินสีขาวบริสุทธิ์ ภายใต้ชื่อ \"Durandarte\"\\nชื่อของมันมีความหมายในภาษาโบราณว่า \"ดาบที่ไม่มีวันถูกทำลาย\" เช่นเดียวกับดาบที่เขาพกติดตัว วิถีที่อัศวินยึดมั่นก็ไม่เคยคดงอ... ไม่ว่ายามนี้เหล็กกล้าที่เดิมทีขาวบริสุทธิ์นั้น จะถูกย้อมจนกลายเป็นสีดำสนิทอย่างไรก็ตาม",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "ดาบใหญ่"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341901,
+  "icon_path": "UI_EquipIcon_Claymore_VarkaTunkeldegen",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_VarkaTunkeldegen"
+}

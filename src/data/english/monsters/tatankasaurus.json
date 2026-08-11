@@ -8,13 +8,12 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Bisonsaurus_Normal",
   "description": "A saurian with a hard, bony crest and a powerful body suited to dashing around volcanic landscapes.\\nAccording to legend, the Tatankasaurus's ancestors were so large they could use their horns to move mountains, but they lacked the agility of their smaller, modern relatives. Perhaps the great power that Tatankasaurs still possess is a gift passed down through their bloodline.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {

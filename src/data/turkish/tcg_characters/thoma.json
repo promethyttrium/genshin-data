@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Ateş",
+    "weapon": "Mızrak",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 5052,
@@ -29,8 +31,10 @@
     {
       "id": "swiftshatter_spear",
       "name": "Hızlı Mızrak Saldırısı",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,8 +53,10 @@
     {
       "id": "blazing_blessing",
       "name": "Alevli Lütuf",
-      "desc": "? ? verir ve 1 <span style=\"color:#FFFFFFFF\">Alev Bariyeri</span> oluşturur.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir ve 1 <span style=\"color:#FFFFFFFF\">Alev Bariyeri</span> oluşturur.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "crimson_ooyoroi",
       "name": "Kızıl Ooyoroi",
-      "desc": "? ? verir, 1 <span style=\"color:#FFFFFFFF\">Alev Bariyeri</span> ve <span style=\"color:#FFFFFFFF\">Kavurucu Ooyoroi</span> oluşturur.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir, 1 <span style=\"color:#FFFFFFFF\">Alev Bariyeri</span> ve <span style=\"color:#FFFFFFFF\">Kavurucu Ooyoroi</span> oluşturur.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1103,

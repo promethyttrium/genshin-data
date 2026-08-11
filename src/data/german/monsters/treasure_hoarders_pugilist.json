@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Thoarder_MuscleMan_Boxer_01",
   "description": "Ein Mitglied der kriminellen Gruppierung ohne Hauptquartier, die überall auf dem Kontinent ihre Spuren hinterlässt, selbst in unerkundeten Sphären.\\nDa sie leidenschaftlich gern kämpfen und Wert auf Muskeln legen, sind sie ziemlich wählerisch, was das Essen angeht, und prahlen oft mit den Vorteilen einer ausgeprägten Muskulatur, was ihren Schatzräuber-Gefährten auf die Nerven geht.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

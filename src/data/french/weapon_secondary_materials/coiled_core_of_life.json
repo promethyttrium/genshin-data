@@ -1,0 +1,24 @@
+{
+  "_id": 112157,
+  "id": "coiled_core_of_life",
+  "name": "Noyau de vie",
+  "description": "Avec son cœur cristallin parfaitement formé, cette branche renferme une vitalité qui ne s'éteindra pas facilement. Enterrée dans le sol, elle donnerait probablement naissance à un nouveau leshy sous peu.",
+  "source": [
+    "Butin de Leshy sauvage (Niv.60+)",
+    "Échange Astrions : synthèse après échange",
+    "Emplacement réservé - Quantité synthétisable : {0}"
+  ],
+  "rarity": 4,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 112156,
+        "id": "sprout_node_of_life",
+        "name": "Bourgeon de vie",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

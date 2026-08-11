@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Octopus_Larva_02",
   "description": "An aquatic creature that hunts by firing watery projectiles.\\nThe ability to fire water bombs is of course not uncommon among Fontemer Aberrants. But for your average careless diver, most of whom are tourists, a high-pressure water current of this kind can pose a significant threat. The thickness of diving equipment is therefore necessary for two reasons — firstly, to resist the pressure of the water itself, but secondly, to protect against the attacks of Fontemer Aberrants.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 13.49,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

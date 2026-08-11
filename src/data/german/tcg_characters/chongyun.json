@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 3,
+    "element": "Kryo",
+    "weapon": "Zweihänder",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3211,
@@ -29,8 +31,10 @@
     {
       "id": "demonbane",
       "name": "Auslöschung des Bösen",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "chonghuas_layered_frost",
       "name": "Schichtfrost",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 1 <span style=\"color:#FFFFFFFF\">Schichtfrost-Feld</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Schichtfrost-Feld</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "cloudparting_star",
       "name": "Wolken teilender Stern",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 7 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,

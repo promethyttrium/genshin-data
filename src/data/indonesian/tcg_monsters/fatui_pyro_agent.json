@@ -9,8 +9,10 @@
     "hp": 9,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Senjata Lain",
     "faction": [
-      null
+      "Fatui"
     ],
     "talent_card": {
       "_id": 3237,
@@ -27,8 +29,10 @@
     {
       "id": "thrust",
       "name": "Thrust",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -47,8 +51,10 @@
     {
       "id": "prowl",
       "name": "Prowl",
-      "desc": "Mengakibatkan ? poin ?. Karakter ini memperoleh status <span style=\"color:#FFFFFFFF\">Stealth</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#FF9999FF\">Pyro DMG</span>. Karakter ini memperoleh status <span style=\"color:#FFFFFFFF\">Stealth</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -61,8 +67,10 @@
     {
       "id": "blade_ablaze",
       "name": "Blade Ablaze",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 5 poin <span style=\"color:#FF9999FF\">Pyro DMG</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -82,7 +90,9 @@
       "id": "stealth_master",
       "name": "Stealth Master",
       "desc": "[Pasif] Saat pertandingan dimulai, Karakter ini memperoleh <span style=\"color:#FFFFFFFF\">Stealth</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

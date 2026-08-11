@@ -1,0 +1,32 @@
+{
+  "_id": 222081,
+  "id": "treacherous_torrent",
+  "shareId": 613,
+  "name": "Tückische Sturzflut",
+  "title": "Hydro-Hypostase – Tückische Sturzflut",
+  "desc": "Unter der stillen, tückischen Wasseroberfläche sammelt sich lautlos die Flut des Unheils ...",
+  "in_play_description": "Stellt nach dem Verursachen von Schaden durch <span style=\"color:#FFFFFFFF\">Hydro-Hypostase</span> oder <span style=\"color:#FFFFFFFF\">Wassertropfen</span> der Monster-Figur von dir, die den meisten Schaden erlitten hat, 1 LP wieder her (3-mal pro Runde).",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Hydro",
+    "card_type": "Ausrüstungskarte",
+    "energy": [
+      {
+        "_id": 1102,
+        "id": "hydro",
+        "type": "Hydro",
+        "count": 1
+      }
+    ],
+    "source": "Nach Erreichen des entsprechenden Ziels in einem „Duell – Nett“ mit der Hydro-Hypostase in der Tavernen-Herausforderung bei „Prinz“ in der Taverne Zum Katzenschwanz zu erhalten.",
+    "tags": [
+      "Talent"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Schnellaktion</span>: Rüste damit deine <span style=\"color:#FFFFFFFF\">Hydro-Hypostase</span> aus.<br/>Stellt nach dem Verursachen von Schaden mit <span style=\"color:#FFFFFFFF\">Hydro-Hypostase</span> oder <span style=\"color:#FFFFFFFF\">Wassertropfen</span> der Monster-Figur von dir, die den meisten Schaden erlitten hat, 1 LP wieder her (2-mal pro Runde).<br/>(Diese Karte kann nur einem Deck hinzugefügt werden, das Hydro-Hypostase enthält.)"
+    }
+  ]
+}

@@ -25,19 +25,19 @@
       "_id": 112019,
       "id": "deathly_statuette",
       "name": "Statuette maléfique",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112018,
       "id": "dark_statuette",
       "name": "Statuette maudite",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112017,
       "id": "gloomy_statuette",
       "name": "Statuette sinistre",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Ordre de l'Abîme",
   "filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Chargebow_Ice",
   "description": "Un soldat enveloppé par les ténèbres. Par le passé, il était la fierté de l'armée d'une nation ancienne, mais il n'est aujourd'hui qu'une coquille vide contenant les bribes de souvenirs de batailles.\\nToute chose finit inévitablement par décliner et se décomposer. Cette armure vide est tout ce qui reste des Chevaliers des Serpents noirs après le passage des péchés, des malédictions et du temps.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

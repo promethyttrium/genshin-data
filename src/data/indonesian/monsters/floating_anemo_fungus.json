@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Fungus_Un_Delta_Wind",
   "description": "Makhluk spora yang memiliki kecerdasan tertentu dan kemampuan yang kuat untuk beradaptasi dengan lingkungan.\\nJamur ini memiliki topi yang cukup besar, namun struktur berbentuk payung ini sebenarnya berongga, sehingga sulit untuk dimanfaatkan sebagai bahan makanan.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

@@ -45,6 +45,16 @@
       "name": "Bánh Mì Đen Nhân Thịt"
     },
     {
+      "_id": 2701,
+      "id": "stroganina",
+      "name": "Cá Bào"
+    },
+    {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "Bánh Mì Đen Glupov"
+    },
+    {
       "_id": 3012,
       "id": "sunshine_sprat",
       "name": "Cá Chiên Bơ"
@@ -119,6 +129,5 @@
   ],
   "source": [
     "Mua trong Tiệm Tạp Hóa"
-  ],
-  "rarity": 0
+  ]
 }

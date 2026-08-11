@@ -1,0 +1,39 @@
+{
+  "_id": 212032,
+  "id": "genesis_of_starsigns",
+  "shareId": 614,
+  "name": "Verdade nas Estrelas",
+  "title": "Verdade nas Estrelas, Mona",
+  "desc": "Se a adivinha na história realmente aceitar uma aprendiz no futuro, com certeza ela não a testaria de maneiras tão bizarras e sem sentido... Certo? Sim, provavelmente não.",
+  "in_play_description": "Quando <span style=\"color:#FFFFFFFF\">Mona</span> usa um Ataque Normal, gasta 1 <span style=\"color:#FFFFFFFF\">Elemento Indefinido</span> a menos. Após o Ataque Normal, sua próxima Reação de Vaporização causa +2 de Dano.",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Hydro",
+    "card_type": "Carta de Equipamento",
+    "energy": [
+      {
+        "_id": 1102,
+        "id": "hydro",
+        "type": "Hydro",
+        "count": 1
+      },
+      {
+        "_id": 1109,
+        "id": "unaligned_element",
+        "type": "Elemento Indefinido",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Talento",
+      "Ação de Combate",
+      "Mágico"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Ações de Combate</span>: Quando seu Personagem em Combate for <span style=\"color:#FFFFFFFF\">Mona</span>, equipe essa carta.<br/>Após Mona equipar essa carta, sua próxima Reação de Vaporização causa +2 de Dano e usa imediatamente <span style=\"color:#FFD780FF\">Destino Desencapado</span> uma vez.<br/>Quando <span style=\"color:#FFFFFFFF\">Mona</span> usa um Ataque Normal, gasta 1 <span style=\"color:#FFFFFFFF\">Elemento Indefinido</span> a menos. Após o Ataque Normal, sua próxima Reação de Vaporização causa +2 de Dano.<br/>(Você deve ter Mona em seu deck para adicionar essa carta a ele.)"
+    }
+  ]
+}

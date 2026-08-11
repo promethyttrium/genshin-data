@@ -200,7 +200,6 @@
   "categoryText": "Der Abgrund",
   "filename_icon": "UI_MonsterIcon_Invoker_Archdeacon",
   "description": "Ein magisches Wesen aus dem Abgrund, das sich die Kraft zahlreicher Elemente zunutze macht und dem im Zuge der „Evolution“ zusätzliche Gliedmaßen gewachsen sind.\\n\\n<i>„Die Essenz des ‚Abgrunds‘ ist letztlich mit den Elementen unvereinbar. Doch selbst die göttlichen Elemente werden von ihm verschlungen, sie werden verdreht und seinem Willen unterworfen. In Bezug auf Ergebnis und Nutzen unterscheidet sich der sogenannte ‚Abgrund‘ vermutlich nicht allzu sehr von einem mit elementarer Macht gefüllten Gefäß in den Händen von Schatzräubern oder gar dem ‚Göttlichen Auge‘ ...“</i>\\n– Jemandes Notizen, zurückgelassen in Hangeh Afrasiyab",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

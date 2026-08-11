@@ -1,0 +1,29 @@
+{
+  "_id": 114087,
+  "id": "clarion_of_the_pale_star_army",
+  "name": "Fragore dell'esercito della Candida Stella",
+  "description": "\"Il nostro nemico Monomakh ha eretto il suo palazzo oltre la valle, segno che è convinto di potersi misurare con noi.<br/>Stando così le cose, merita la nostra massima cautela.<br/>Meglio accantonare i discorsi su una vittoria rapida.<br/>Ma questo poco importa: con la saggezza a guidarci, il Re si ergerà al fianco dei clan per superare ogni avversità e inaugurare una nuova e gloriosa era!\"",
+  "source": [
+    "Segnaposto - Quantità realizzabile: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114086,
+        "id": "muster_of_the_pale_star_army",
+        "name": "Adunata dell'esercito della Candida Stella",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio della forgiatura: Cicatrici di un'ossessione maledetta",
+  "days": [
+    "Lunedì",
+    "Giovedì",
+    "Domenica"
+  ]
+}

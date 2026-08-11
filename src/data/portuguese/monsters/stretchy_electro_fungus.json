@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Delta_Electric",
   "description": "Um organismo de esporo com certa inteligência. É extremamente adaptável.\\nDiferente de outros cogumelos, essa criatura possui um chapéu com chifres. Quando está em perigo, ela lançará orbes elétricas como uma forma de auto-defesa.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

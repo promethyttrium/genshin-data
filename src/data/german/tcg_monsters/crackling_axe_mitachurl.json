@@ -8,17 +8,21 @@
     "hp": 8,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Elektro",
+    "weapon": "Andere Waffen",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "du_plama",
       "name": "Du Plama",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -37,8 +41,10 @@
     {
       "id": "upa",
       "name": "Upa",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. ?.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -51,8 +57,10 @@
     {
       "id": "oto_tiga",
       "name": "Oto Tiga",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 5 Pkt. ?.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -72,7 +80,9 @@
       "id": "ripple_electro_edge",
       "name": "Blitzende Axt",
       "desc": "Passiv – Erhält zu Beginn des Kampfes <span style=\"color:#FFFFFFFF\">Blitzende Axt</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

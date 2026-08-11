@@ -13,7 +13,6 @@
   "categoryText": "Elementare Lebensformen",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Electric",
   "description": "Ein elegantes Elementarwesen, das eine immense elementare Affinität besitzt. Über die langen Jahre war es hohen Konzentrationen der Elektro-Kraft ausgesetzt, was zu seiner heutigen Form führte.\\nDies ist eine seiner Erscheinungsformen mit dem heftigsten Temperament. Es befehligt die stahlzerschmetternden Blitze wie seine Knechte und hinterlässt Spuren von donnerndem Unheil in den Landen, die es durchquert.\\nIn den noch existierenden Gebeten des hohen Nordens wurden sie aus dem Segen des Frostmonds geboren und symbolisieren die reine Quelle und das erste Strahlen. Vielleicht ist das der Grund, warum sie die Befleckung ihrer blassen Reinheit mit den sieben Farben des himmlischen Lichts als unerträglich empfinden und deshalb alles Leben, das sich ihnen nähert, zurückweisen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

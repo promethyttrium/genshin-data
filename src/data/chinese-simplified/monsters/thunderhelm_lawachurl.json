@@ -13,7 +13,6 @@
   "categoryText": "丘丘部族",
   "filename_icon": "UI_MonsterIcon_Brute_Electric_01",
   "description": "雷暴中漫行的神秘「王者」。\\n被同胞称为「Lawa」的庞大丘丘人。巨像般的身躯充满了丰富的雷元素，散逸出的元素能量以电气水晶的形式从身体的缝隙中生长出来。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

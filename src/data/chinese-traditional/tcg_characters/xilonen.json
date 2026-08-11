@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "角色牌",
     "energy": 2,
+    "element": "岩元素",
+    "weapon": "單手劍",
     "faction": [
-      null
+      "納塔"
     ],
     "talent_card": {
       "_id": 7667,
@@ -29,8 +31,10 @@
     {
       "id": "ehecatls_roar",
       "name": "銳鋒攫獵",
-      "desc": "造成?點?。若自身附屬<span style=\"color:#FFFFFFFF\">夜魂加持</span>，則恢復1點<span style=\"color:#FFFFFFFF\">「夜魂值」</span>。",
-      "skillTag": [],
+      "desc": "造成2點?。若自身附屬<span style=\"color:#FFFFFFFF\">夜魂加持</span>，則恢復1點<span style=\"color:#FFFFFFFF\">「夜魂值」</span>。",
+      "skillTag": [
+        "普通攻擊"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -50,7 +54,9 @@
       "id": "yohuals_scratch",
       "name": "音火鍛淬",
       "desc": "本角色附屬<span style=\"color:#FFFFFFFF\">刃輪裝束</span>，進入<span style=\"color:#FFFFFFFF\">夜魂加持</span>並獲得1點<span style=\"color:#FFFFFFFF\">「夜魂值」</span>。（角色進入<span style=\"color:#FFFFFFFF\">夜魂加持</span>後不可使用此技能）<br/>（附屬<span style=\"color:#FFFFFFFF\">刃輪裝束</span>的角色可以使用特技：<span style=\"color:#FFFFFFFF\">高速騰躍</span>）",
-      "skillTag": [],
+      "skillTag": [
+        "元素戰技"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -63,8 +69,10 @@
     {
       "id": "ocelotlicue_point",
       "name": "豹烈律動！",
-      "desc": "造成?點?，抓1張牌，並且治療我方受傷最多的角色1點。每層<span style=\"color:#FFFFFFFF\">「源音取樣」·岩</span>額外抓1張牌，每層其他屬性的<span style=\"color:#FFFFFFFF\">「源音取樣」</span>額外治療1點。",
-      "skillTag": [],
+      "desc": "造成2點<span style=\"color:#FFE699FF\">岩元素傷害</span>，抓1張牌，並且治療我方受傷最多的角色1點。每層<span style=\"color:#FFFFFFFF\">「源音取樣」·岩</span>額外抓1張牌，每層其他屬性的<span style=\"color:#FFFFFFFF\">「源音取樣」</span>額外治療1點。",
+      "skillTag": [
+        "元素爆發"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -84,7 +92,9 @@
       "id": "source_sample",
       "name": "「源音取樣」",
       "desc": "【被動】戰鬥開始時，初始生成3層<span style=\"color:#FFFFFFFF\">「源音取樣」·岩</span>，若我方存在火、水、冰、雷的角色，則將1層<span style=\"color:#FFFFFFFF\">「源音取樣」·岩</span>轉化為對應元素的<span style=\"color:#FFFFFFFF\">「源音取樣」</span>。",
-      "skillTag": [],
+      "skillTag": [
+        "被動技能"
+      ],
       "points": []
     }
   ]

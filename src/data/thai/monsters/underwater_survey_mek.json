@@ -27,13 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "จักรกลอัตโนมัติ",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Recon",
   "description": "กลไกเครื่องลานที่ออกแบบและผลิตขึ้นเพื่อการสำรวจใต้น้ำ\\nในการออกแบบกลไกนาฬิกา เมื่อไม่สามารถก้าวข้ามพลวัตได้ จลนศาสตร์เป็นเป้าหมายการวิจัยที่สำคัญที่สุด หากพูดถึงการออกแบบจักรกลเพื่อวัตถุประสงค์พิเศษ บางครั้งการเลียนแบบทางชีวภาพสามารถให้วิธีแก้ปัญหาที่สะดวกที่สุดได้",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

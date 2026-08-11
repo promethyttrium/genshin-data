@@ -1,0 +1,63 @@
+{
+  "_id": 4694,
+  "id": "domain_of_mastery_contemplation_iv",
+  "name": "Donjon de la maîtrise : Contemplation IV",
+  "entranceId": 2074,
+  "entranceName": "Relique de la grâce déchue",
+  "description": "Un sanctuaire jadis érigé par les anciens nivéoles, aujourd'hui ravagé par de petits brigands.\nSi vous pouvez détruire les ennemis qui errent dans cet endroit, vous pourrez acquérir des connaissances et des éclaircissements sur les moyens d'améliorer vos talents.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 88,
+  "unlockRank": 45,
+  "disorder": [
+    "· When a character triggers Superconduct or Stellar-Conduct reactions, or deals Stellar-Conduct DMG, a shockwave will be unleashed at the target enemy's location, dealing Electro DMG."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_03",
+  "recommendedElements": [
+    "Cryo",
+    "Électro"
+  ],
+  "daysOfWeek": [
+    "Lundi",
+    "Jeudi",
+    "Dimanche"
+  ],
+  "domainType": "UI_ABYSSUS_AVATAR_PROUD",
+  "domainText": "Talent Level-Up Material",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP d'aventure",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "2375"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP d'affinité",
+      "count": "20"
+    },
+    {
+      "_id": 104367,
+      "id": "philosophies_of_charity",
+      "name": "Philosophie de la Charité"
+    },
+    {
+      "_id": 104366,
+      "id": "guide_to_charity",
+      "name": "Guide de la Charité"
+    },
+    {
+      "_id": 104365,
+      "id": "teachings_of_charity",
+      "name": "Enseignement de la Charité"
+    }
+  ],
+  "monsterList": []
+}

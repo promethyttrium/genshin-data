@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Human_Female_NoWeapon_Drillhead",
   "description": "Uma brava guerreira do cânion e guardiã tribal que patrulha as montanhas e rios de cristal.\\nUma guerreira tribal empunhando uma maça com uma esfera na ponta, ela pode até transformar as rochas mais duras em pó com seus golpes esmagadores. Quando não usa sua arma para lutar, ela frequentemente destrói pedras abertas a procura de gemas preciosas e rastros de cristais de Flogisto.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

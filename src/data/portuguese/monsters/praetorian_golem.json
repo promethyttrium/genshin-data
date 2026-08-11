@@ -25,19 +25,19 @@
       "_id": 112100,
       "id": "stillsmoldering_hilt",
       "name": "Punho Incandescente",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112099,
       "id": "splintered_hilt",
       "name": "Punho Quebrado",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112098,
       "id": "ruined_hilt",
       "name": "Punho Danificado",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Golem_Legion",
   "description": "Uma estátua que se move no formato de um guerreiro que usará sua espada contra todos que invadirem a área que protege. É incerto se é uma alma ou mágica que fornece poder a elas.\\nDizem que legiões de golens já conquistaram nações que chamavam o alto-mar de lar, e talvez este já fez parte daquelas fileiras. As grandes torres e palácios que agora dormem sob as ondas, já testemunharam o destino daqueles que ficam no caminho da roda do destino.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

@@ -369,7 +369,7 @@
     {
       "id": "catalyst_conversion",
       "name": "Conversione del catalizzatore",
-      "description": "Quando Sucrose innesca una reazione di Turbinio, la maestria elementale di tutti i personaggi del gruppo (esclusa Sucrose) con l'elemento corrispondente aumenta di 50 per 8 s.",
+      "description": "Quando Sucrose innesca una reazione di Turbinio o di Turbinio astrale, la maestria elementale di tutti i personaggi del gruppo (esclusa Sucrose) con l'elemento corrispondente aumenta di 50 per 8 s.",
       "level": 1
     },
     {

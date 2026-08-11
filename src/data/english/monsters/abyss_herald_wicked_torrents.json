@@ -1,7 +1,7 @@
 {
   "_id": 22020101,
   "id": "abyss_herald_wicked_torrents",
-  "monsterId": 22020103,
+  "monsterId": 84202012,
   "name": "Abyss Herald: Wicked Torrents",
   "specialNames": [
     "Wynfled",
@@ -22,9 +22,8 @@
   "categoryText": "The Abyss",
   "filename_icon": "UI_MonsterIcon_Invoker_Herald_Water_01",
   "description": "Servants of the Abyss Order that use Hydro in combat.\\nThese silent figures are the vanguard of the Abyss, brandishing Tidal Blades that can engulf everything in an instant, crumpling armor and obliterating heretics. They shall bring preordained damnation upon the foolish masses.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

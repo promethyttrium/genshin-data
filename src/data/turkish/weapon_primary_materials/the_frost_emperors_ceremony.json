@@ -1,0 +1,29 @@
+{
+  "_id": 114094,
+  "id": "the_frost_emperors_ceremony",
+  "name": "Ayaz İmparatorunun Töreni",
+  "description": "Saray Feyleri, Çar'a sunulacak bir hediyenin neden böyle bir biçimde olması gerektiğine anlam veremiyordu. Onların tek bildiği, tüm hünerlerini mücevherler kadar parlak süs eşyaları üretmeye adamaktı.<br/>Bunun ardındaki manayı, yalnızca tahtında oturan Çar ve kar Feyleri anlıyordu.<br/>Zira asıl önemli olan hiçbir zaman tören değil, onun muhafaza ettiği kadim hakikatti.",
+  "source": [
+    "Yer Tutucu - Üretilebilir Miktar: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114093,
+        "id": "the_frost_emperors_revival",
+        "name": "Ayaz İmparatorunun Dirilişi",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Döküm Zindanı: Lanetli Saplantının Yara İzleri",
+  "days": [
+    "Çarşamba",
+    "Cumartesi",
+    "Pazar"
+  ]
+}

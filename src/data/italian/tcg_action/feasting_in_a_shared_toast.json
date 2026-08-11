@@ -1,0 +1,20 @@
+{
+  "_id": 332066,
+  "id": "feasting_in_a_shared_toast",
+  "shareId": 619,
+  "name": "Banchetto del brindisi comune",
+  "title": "Banchetto del brindisi comune",
+  "desc": "Come al solito, arrivi dopo tutti! Prendi posto, ti aspettiamo da una vita!",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 0,
+    "card_type": "Carta evento",
+    "energy": []
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Quando inizia il turno successivo:</span> entrambi i giocatori pescano 2 carte e ottengono 2 dadi elementali casuali."
+    }
+  ]
+}

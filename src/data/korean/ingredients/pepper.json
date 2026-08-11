@@ -15,6 +15,11 @@
       "name": "흘호어 구이"
     },
     {
+      "_id": 1701,
+      "id": "podvorye_smoked_sausage",
+      "name": "옛뜰 훈제 소시지"
+    },
+    {
       "_id": 2006,
       "id": "fried_radish_balls",
       "name": "무완자 튀김"
@@ -67,6 +72,5 @@
   ],
   "source": [
     "잡화점 구매"
-  ],
-  "rarity": 0
+  ]
 }

@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automata",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Probe",
   "description": "Ein Uhrwerk-Mecha, der zum Aufspüren von Bodenschätzen und bestimmten Mineralien entwickelt wurde.\\nDa man die Art des zu suchenden Metalls einstellen kann, erfreut sich dieser Mecha auch bei Schatzräubern und Abenteurern großer Beliebtheit.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

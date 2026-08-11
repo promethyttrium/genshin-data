@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Octopus_Larva_02",
   "description": "Su atarak avlanan bir su canlısı.\\nSu bombaları fırlatarak avlanmak Fontemer Sapkınları arasında ender değildir. Ancak genelde turistlerden oluşan dikkatsiz dalgıçlar için bu tür yüksek basınçlı su akımları ciddi bir tehdit oluşturabilir. Bu yüzden iki sebepten ötürü kalın dalış ekipmanı kullanılmalıdır. İlki, suyun kendi basıncına karşı koymak, ikincisi ise Fontemer Sapkını saldırılarına karşı korunmak için.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 13.49,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

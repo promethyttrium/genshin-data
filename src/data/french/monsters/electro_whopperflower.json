@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Mimik_Electric",
   "description": "Un monstre végétal mimétique empli d'énergie élémentaire, qui utilise l'élément Électro pour chasser ses proies.\\nLorsqu'il a accumulé suffisamment d'énergie élémentaire, il peut libérer depuis sa couronne un courant électrique. Certains chercheurs essayent d'utiliser cette propriété dans d'autres domaines...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

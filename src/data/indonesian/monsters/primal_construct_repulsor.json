@@ -25,19 +25,19 @@
       "_id": 112073,
       "id": "radiant_prism",
       "name": "Radiant Prism",
-      "count": 0.1751
+      "count": 0.175
     },
     {
       "_id": 112072,
       "id": "turbid_prism",
       "name": "Turbid Prism",
-      "count": 0.7003
+      "count": 0.7
     },
     {
       "_id": 112071,
       "id": "damaged_prism",
       "name": "Damaged Prism",
-      "count": 2.6263
+      "count": 2.626
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Automaton",
   "filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
   "description": "Penjaga reruntuhan kuno yang hilang di gurun, cukup kuat untuk menghukum siapa saja yang berani mengusik mimpi rajanya.\\nTujuan awal dibuatnya mesin-mesin ini bukan untuk menjaga istana dan kuil, melainkan untuk melahirkan kembali tanah kegembiraan yang diimpi-impikan oleh penguasa dungu di lautan pasir.\\nSaat ini \"tanah kegembiraan\" telah lama musnah. Kini yang tersisa hanyalah mantra yang terukir padanya, yang menuliskan tentang mimpi dan janji yang telah dilupakan oleh dunia.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

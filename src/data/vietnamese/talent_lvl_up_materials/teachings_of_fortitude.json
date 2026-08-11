@@ -1,0 +1,18 @@
+{
+  "_id": 104368,
+  "id": "teachings_of_fortitude",
+  "name": "Bài Giảng Của \"Kiên Nhẫn\"",
+  "description": "Nguyên liệu bồi dưỡng Thiên Phú.\\n\"Kiên nhẫn\" là phẩm chất của vương quốc băng giá.\\nKiên nhẫn bắt nguồn từ khát vọng sinh tồn. Dù không được gieo xuống vùng đất màu mỡ, những hạt giống yếu ớt vẫn có thể dựa vào khát vọng này, cắm rễ thật sâu xuống lòng đất của vùng băng nguyên.",
+  "source": [
+    "Đổi Cửa Hàng Túi Quà"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Bí Cảnh Tinh Thông: Ẩn Tu IV",
+  "domainId": "domain_of_mastery_hermitage_iv",
+  "days": [
+    "Thứ 3",
+    "Thứ 6",
+    "Chủ Nhật"
+  ]
+}

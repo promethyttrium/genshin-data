@@ -37,12 +37,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_Abyss_Ice_01",
   "description": "Savaşta Buz çağıran Hiçlik yaratıkları.\\nBu güçlü yaratıklar, su buharını yoğunlaştırıp dondurarak buz saçakları oluşturabilme becerilerine rağmen bedenleri son derece savunmasızdır. Koruyucu Tılsımları yok olduğunda kaderleri düşmanın insafına kalır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

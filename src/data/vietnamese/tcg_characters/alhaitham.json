@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Thảo",
+    "weapon": "Kiếm Đơn",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 4765,
@@ -29,8 +31,10 @@
     {
       "id": "abductive_reasoning",
       "name": "Suy Luận Hồi Tố",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -49,8 +53,10 @@
     {
       "id": "universality_an_elaboration_on_form",
       "name": "Phổ Quát - Soạn Thảo Theo Mẫu",
-      "desc": "Gây ? điểm ?, nhân vật này áp dụng <span style=\"color:#FFFFFFFF\">Trác Quang Kính</span>.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#7EC236FF\">Sát Thương Nguyên Tố Thảo</span>, nhân vật này áp dụng <span style=\"color:#FFFFFFFF\">Trác Quang Kính</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "particular_field_fetters_of_phenomena",
       "name": "Khu Vực - Xiềng Xích Cảnh Tượng",
-      "desc": "Gây ? điểm ?; Tiêu hao <span style=\"color:#FFFFFFFF\">Trác Quang Kính</span> để tăng sát thương dựa trên <span style=\"color:#FFFFFFFF\">Số Hiệp Duy Trì</span> của <span style=\"color:#FFFFFFFF\">Trác Quang Kính</span>.<br/>Nếu <span style=\"color:#FFFFFFFF\">Số Hiệp Duy Trì</span> tiêu hao của <span style=\"color:#FFFFFFFF\">Trác Quang Kính</span> là 0/1/2, sẽ áp dụng cho nhân vật <span style=\"color:#FFFFFFFF\">Trác Quang Kính</span> với <span style=\"color:#FFFFFFFF\">Số Hiệp Duy Trì</span> là 3/2/1.",
-      "skillTag": [],
+      "desc": "Gây 4 điểm <span style=\"color:#7EC236FF\">Sát Thương Nguyên Tố Thảo</span>; Tiêu hao <span style=\"color:#FFFFFFFF\">Trác Quang Kính</span> để tăng sát thương dựa trên <span style=\"color:#FFFFFFFF\">Số Hiệp Duy Trì</span> của <span style=\"color:#FFFFFFFF\">Trác Quang Kính</span>.<br/>Nếu <span style=\"color:#FFFFFFFF\">Số Hiệp Duy Trì</span> tiêu hao của <span style=\"color:#FFFFFFFF\">Trác Quang Kính</span> là 0/1/2, sẽ áp dụng cho nhân vật <span style=\"color:#FFFFFFFF\">Trác Quang Kính</span> với <span style=\"color:#FFFFFFFF\">Số Hiệp Duy Trì</span> là 3/2/1.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1107,

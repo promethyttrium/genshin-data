@@ -190,7 +190,7 @@
       "_id": 11322,
       "id": "ringadingding_hexhunter_chime",
       "name": "Reng Reng - Âm Thanh Săn Ma",
-      "description": "Với quyết tâm đánh bại ma nữ \"tà ác\" và giải cứu Descartes, giải phóng sức mạnh của gió nào! Prune dùng Búa Săn Tai Ương gõ vào Chuông Nhử Phù Thủy, gây <span style=\"color:#80FFD7FF\">Sát Thương Nguyên Tố Phong</span>.<br/>Nếu Prune kích hoạt phản ứng Khuếch Tán lên kẻ địch thông qua lần tấn công này, thì trong 6s tiếp theo, <span style=\"color:#FFD780FF\">Reng Reng - Âm Thanh Săn Ma</span> sẽ được thay thế bằng <span style=\"color:#FFD780FF\">Leng Keng - Trừng Phạt Ác Ma</span>.<br/><br/><span style=\"color:#FFD780FF\">Leng Keng - Trừng Phạt Ác Ma</span><br/>Lấy Loại Nguyên Tố tham gia phản ứng Khuếch Tán trước đó cuốn quanh chiếc búa, chuyển hóa nguyên tố của <b><span style=\"color:#FFD780FF\">Búa Săn Tai Ương</span></b>. Khi nhấn thi triển, Prune sẽ nhảy lên và đá Búa Săn Tai Ương về phía trước, gây Sát Thương Nguyên Tố tương ứng lên kẻ địch trước mặt.",
+      "description": "Với quyết tâm đánh bại ma nữ \"tà ác\" và giải cứu Descartes, giải phóng sức mạnh của gió nào! Prune dùng Búa Săn Tai Ương gõ vào Chuông Nhử Phù Thủy, gây <span style=\"color:#80FFD7FF\">Sát Thương Nguyên Tố Phong</span>.<br/>Nếu Prune kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán lên kẻ địch thông qua lần tấn công này, thì trong 6s tiếp theo, <span style=\"color:#FFD780FF\">Reng Reng - Âm Thanh Săn Ma</span> sẽ được thay thế bằng <span style=\"color:#FFD780FF\">Leng Keng - Trừng Phạt Ác Ma</span>.<br/><br/><span style=\"color:#FFD780FF\">Leng Keng - Trừng Phạt Ác Ma</span><br/>Lấy Loại Nguyên Tố tham gia phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán trước đó cuốn quanh chiếc búa, chuyển hóa nguyên tố của <b><span style=\"color:#FFD780FF\">Búa Săn Tai Ương</span></b>. Khi nhấn thi triển, Prune sẽ nhảy lên và đá Búa Săn Tai Ương về phía trước, gây Sát Thương Nguyên Tố tương ứng lên kẻ địch trước mặt.",
       "info": "",
       "attributes": [
         {
@@ -369,7 +369,7 @@
     {
       "id": "verdict_and_punishment",
       "name": "Phán Quyết Truy Cứu",
-      "description": "Trong Kỹ Năng Nộ <color=#FFD780FF><b>Chuông Reo - Thời Khắc Săn Ma</b></color>, sau khi Chuông Nhử Phù Thủy ở chế độ \"Săn Lùng\" gây sát thương lên kẻ địch, nếu lần sát thương này kích hoạt phản ứng Khuếch Tán, sẽ triệu hồi một <b><span style=\"color:#FFD780FF\">Búa Săn Tai Ương</span></b> được chuyển hóa nguyên tố theo phản ứng Khuếch Tán lần này ở trước mặt kẻ địch và đập xuống, gây Sát Thương Nguyên Tố tương ứng bằng 150% Tấn Công của Prune. Sát thương này được xem là sát thương Kỹ Năng Nộ.",
+      "description": "Trong Kỹ Năng Nộ <color=#FFD780FF><b>Chuông Reo - Thời Khắc Săn Ma</b></color>, sau khi Chuông Nhử Phù Thủy ở chế độ \"Săn Lùng\" gây sát thương lên kẻ địch, nếu lần sát thương này kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, sẽ triệu hồi một <b><span style=\"color:#FFD780FF\">Búa Săn Tai Ương</span></b> được chuyển hóa nguyên tố theo phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán lần này ở trước mặt kẻ địch và đập xuống, gây Sát Thương Nguyên Tố tương ứng bằng 150% Tấn Công của Prune. Sát thương này được xem là sát thương Kỹ Năng Nộ.",
       "level": 1
     },
     {

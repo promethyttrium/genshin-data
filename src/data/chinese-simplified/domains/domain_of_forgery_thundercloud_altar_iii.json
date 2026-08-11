@@ -16,6 +16,11 @@
   "recommendedElements": [
     "冰元素"
   ],
+  "daysOfWeek": [
+    "周一",
+    "周四",
+    "周日"
+  ],
   "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
   "domainText": "Weapon Ascension Materials",
   "rewardPreview": [

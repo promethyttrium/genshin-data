@@ -8,14 +8,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurls",
   "filename_icon": "UI_MonsterIcon_Hili_None_01",
   "description": "The primitive wandering inhabitants of Teyvat's wildernesses.\\nHilichurl warriors who have wooden shields. These shields are not only sturdy defensive tools but also treasured items within the tribe. According to many reports, hilichurls will often charge at travelers making camp to cook and will snatch their pot lids after chasing them away.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

@@ -1,0 +1,26 @@
+{
+  "_id": 101281,
+  "id": "rimecurrant",
+  "name": "アイススグリ",
+  "description": "霜に覆われた氷の枝から実る、風味豊かなベリー。",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "アイススグリのアイスクリーム"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "スネージナヤ串焼き"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "スイート・アイスクリームセット"
+    }
+  ],
+  "source": [
+    "推奨：スネージナヤで採集"
+  ]
+}

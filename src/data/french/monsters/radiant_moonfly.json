@@ -13,7 +13,6 @@
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Magbeast_Pergesa",
   "description": "Un monstre en forme de papillon qui danse avec grâce au clair de lune, le pouvoir ancestral de la lune s'étant infiltré dans ses ailes illusoires.\\nSelon les principes de l'évolution, une fois la puissance sauvage et primitive apprivoisée par le souverain céleste, ces monstres ne devraient plus être en mesure de conserver une telle forme, devenant plus petits et plus faibles. Pourtant, la bénédiction de la lune leur a permis de glisser à travers ce monde tout en restant à leur apogée, révélant les vestiges du vieux monde où l'ancienne lune illuminait la terre.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

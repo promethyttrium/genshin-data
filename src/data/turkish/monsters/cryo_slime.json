@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Element Yaşam Formları",
   "filename_icon": "UI_MonsterIcon_Slime_Ice_02",
   "description": "Doğal ortamdaki Buz elementinin topaklanmasından oluşan küçük bir canavar.\\nBir zamanlar Şafak Şaraphanesinin rakipleri, bu şaraphanede alkol kalitesini idame ettirmek ve şarap mahzenindeki sıcaklığı kontrol altında tutmak için Buz Bodurlopları kullanıldığına dair alçakça bir dedikodu yaymıştı.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

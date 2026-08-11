@@ -36,7 +36,7 @@
       "_id": 113044,
       "id": "pseudostamens",
       "name": "Nhụy Hoa Sỏi Cát",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104154,
@@ -119,7 +119,6 @@
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Sandworm",
   "description": "Một loài săn mồi không mắt sống ở nơi sâu thẳm trong sa mạc, theo dõi con mồi bằng âm thanh và rung động truyền từ mặt đất.\\nTương truyền rằng trong quá khứ trước khi thời gian bắt đầu, vùng đất mà chúng cai trị phủ đầy cỏ xanh và đại thụ, còn tổ tiên và đời sau của chúng đều len lỏi trong những vùng đất ẩm ướt, tựa như cá gặp nước vậy.\\nNhiều kỷ nguyên sau đó, ân huệ trời ban khiến cho bùn đất hóa thành sỏi cát. Nhiều sinh mạng mất đi, nhiều vật chủng biến mất, còn chủng tộc sống dựa vào bùn đất đã trở thành \"Wenut\".\\nCó lẽ vì tập tính sinh vật có điểm chung, nên dường như cư dân sa mạc đều hiểu lầm rằng \"Wenut\" là hình thái hoàn chỉnh của Lươn Sa Mạc sau khi trưởng thành.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

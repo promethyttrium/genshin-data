@@ -1,0 +1,24 @@
+{
+  "_id": 112156,
+  "id": "sprout_node_of_life",
+  "name": "영혼의 가지",
+  "description": "결정이 어느 정도 자란 묵직한 가지. 나무 요정에서 떨어져 나온 뒤에도 생명력이 느껴진다",
+  "source": [
+    "Lv.40 이상 황야의 나무 요정 드랍",
+    "스타더스트 교환",
+    "슬롯-합성 가능 수량: {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112155,
+        "id": "hollow_root_of_life",
+        "name": "영혼의 잔가지",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

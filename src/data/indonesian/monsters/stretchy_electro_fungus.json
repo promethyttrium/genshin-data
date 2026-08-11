@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Delta_Electric",
   "description": "Makhluk spora yang memiliki kecerdasan tertentu dan kemampuan yang kuat untuk beradaptasi dengan lingkungan.\\nBerbeda dari Fungus lainnya, makhluk ini memiliki topi dengan antena bercahaya yang mencuat. Saat berada dalam bahaya, ia akan melepaskan bola listrik kecil sebagai bentuk pertahanan diri.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

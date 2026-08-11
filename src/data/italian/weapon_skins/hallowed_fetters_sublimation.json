@@ -1,0 +1,21 @@
+{
+  "_id": 340002,
+  "id": "hallowed_fetters_sublimation",
+  "name": "Catene sacre: Sublimazione",
+  "description": "Un glorioso catalizzatore illusorio emerso dalle profondità delle linee geomantiche, che brilla con il potere del \"Tempo\". Può cambiare aspetto in base al tipo elementale di chi l'impugna. Leggenda vuole che il nome di quest'arma fosse \"Gleipnir\" quando era brandita da un peccatore trascendente in una terra antica.",
+  "rarity": 5,
+  "type": {
+    "id": "Catalyst",
+    "name": "Catalizzatore"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Metamorfosi splendente: Trascendenza - Sublimazione",
+    "priority": 1
+  },
+  "item_id": 341402,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphIlia_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphIlia_Great"
+}

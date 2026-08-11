@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Bộ Tộc Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hili_Electric_Range",
   "description": "Những người thổ dân lang thang trong vùng hoang dã của Teyvat.\\nĐối với Hilichurl vốn sống mông muội mà nói, Slime Lôi dường như không có công dụng rộng rãi như Slime Hỏa và Slime Phong. Có lẽ có một ngày chúng sẽ phát hiện nguyên tố lưu thông giữa Slime Phong và Slime Lôi Biến Dị, sau đó sẽ phát triển vượt bậc chăng...?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

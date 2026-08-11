@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Cicin_Ice_01",
   "description": "Makhluk kecil yang bisa mengontrol Cryo dalam jumlah kecil.\\nMakhluk ini dan sejenisnya secara umum disebut sebagai Cicin. Karena kekuatan Cicin sangat lemah, mereka telah berevolusi untuk menciptakan gerakan terbang yang sangat unik untuk mengecoh pemangsa mereka.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

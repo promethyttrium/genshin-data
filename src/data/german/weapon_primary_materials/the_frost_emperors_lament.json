@@ -1,0 +1,29 @@
+{
+  "_id": 114095,
+  "id": "the_frost_emperors_lament",
+  "name": "Klage des Frostkaisers",
+  "description": "Ein Geschenk, das sie – bereits nicht mehr die, die sie einst war – in jener Nacht, als die Wahrheit wie bitteres Wasser aufwallte, für den Freund auf dem Thron vorbereitete.<br/>Beide spürten, dass dies das letzte Mal sein würde, dass sie so miteinander sprachen.<br/>Denn danach zerbrach der Weg, den sie einst gemeinsam gegangen waren, an der Schwäche der einen und dem Zorn der anderen.",
+  "source": [
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114094,
+        "id": "the_frost_emperors_ceremony",
+        "name": "Zeremonie des Frostkaisers",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Sphäre der Kriegskunst – Narben einer verfluchten Besessenheit",
+  "days": [
+    "Mittwoch",
+    "Samstag",
+    "Sonntag"
+  ]
+}

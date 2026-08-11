@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Spada",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3210,
@@ -29,8 +31,10 @@
     {
       "id": "ceremonial_bladework",
       "name": "Tecnica cerimoniale",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "frostgnaw",
       "name": "Attacco gelante",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#99FFFFFF\">DAN da Cryo</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "glacial_waltz",
       "name": "Valzer glaciale",
-      "desc": "Infligge ? ?, crea una <span style=\"color:#FFFFFFFF\">Stalattite</span>.",
-      "skillTag": [],
+      "desc": "Infligge 1 <span style=\"color:#99FFFFFF\">DAN da Cryo</span>, crea una <span style=\"color:#FFFFFFFF\">Stalattite</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1101,

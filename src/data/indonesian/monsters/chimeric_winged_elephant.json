@@ -1,0 +1,39 @@
+{
+  "_id": 26310301,
+  "id": "chimeric_winged_elephant",
+  "monsterId": 26310302,
+  "name": "Chimeric Winged Elephant",
+  "specialNames": [
+    "Chimeric Winged Elephant"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Makhluk Mistis",
+  "filename_icon": "UI_MonsterIcon_Chimera_ElephantBird",
+  "description": "Makhluk hasil bio-alkimia yang pernah populer di tundra beku, merupakan seekor monster buatan yang menyimpang.\\nGajah berkaki pendek yang memiliki sayap mungkin dapat bermigrasi tanpa batasan geografis, sekaligus memenuhi kebutuhan untuk memetik buah di tempat yang lebih tinggi.\\nHanya demi tujuan itulah, sang pembuat menciptakan monster buatan semacam ini. Dalam perang melawan Gelombang Binatang Hitam yang terjadi kemudian, Chimeric Winged Elephant bekerja sama dengan Vila dalam menjalankan tugas intelijen, memastikan kelancaran perintah militer saat Belyi Tsar melancarkan serangan.",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.2,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 5.486268,
+      "attack": 54.069954,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

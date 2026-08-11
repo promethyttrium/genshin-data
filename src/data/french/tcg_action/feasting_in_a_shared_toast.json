@@ -1,0 +1,20 @@
+{
+  "_id": 332066,
+  "id": "feasting_in_a_shared_toast",
+  "shareId": 619,
+  "name": "Festin autour d'un toast",
+  "title": "Festin autour d'un toast",
+  "desc": "« Toujours le dernier, comme d'habitude ! Prends place, on t'attend depuis des plombes ! »",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 0,
+    "card_type": "Carte d'événement",
+    "energy": []
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Au début de la prochaine manche : </span>Permet aux deux camps de piocher 2 cartes et crée aléatoirement 2 dés élémentaires."
+    }
+  ]
+}

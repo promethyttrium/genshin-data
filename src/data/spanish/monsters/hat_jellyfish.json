@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_JellyFish_Larva_02",
   "description": "Una criatura acuática que caza gracias a los proyectiles que lanza.\\nA simple vista, este animal tiene forma de sombrero. Pero lo cierto es que en la parte inferior de ese “sombrero” esconde sus fauces. Por eso, no se recomienda a nadie intentar ponérselo en la cabeza. De hecho, no sería el primer caso de alguien que comete semejante imprudencia: “Cuando lo pienso, me doy cuenta de lo necio que fui”.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 65.15,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

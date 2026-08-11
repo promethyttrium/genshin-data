@@ -1,0 +1,30 @@
+{
+  "_id": 104373,
+  "id": "philosophies_of_glory",
+  "name": "「栄光」の哲学",
+  "description": "天賦育成素材。\\n「栄光」は氷の国土の信仰である。\\n栄光は篝火台に灯る消えぬ炎であり、今や風雪の国と運命を共にしている。炎は気高き情熱を燃え上がらせる。その永遠の燃焼を保つため、人々は進んで自らのすべてを捧げる。",
+  "source": [
+    "合成可能数：{0}"
+  ],
+  "location": "スネージナヤ",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104372,
+        "id": "guide_to_glory",
+        "name": "「栄光」の導き",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "熟知秘境・共観 IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "水曜",
+    "土曜",
+    "日曜"
+  ]
+}

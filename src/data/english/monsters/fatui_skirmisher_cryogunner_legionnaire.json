@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01",
   "description": "A soldier encased within a Fatui war machine.\\nArmed with equipment that can control the elements to a certain extent, their guns are capable of firing jets of frost.\\nThough this may confer elemental power beyond the ken of ordinary humans, that power may yet come at a price...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

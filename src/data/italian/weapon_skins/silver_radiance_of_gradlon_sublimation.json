@@ -1,0 +1,21 @@
+{
+  "_id": 320004,
+  "id": "silver_radiance_of_gradlon_sublimation",
+  "name": "Argenteo bagliore di Gradlon: Sublimazione",
+  "description": "Una gloriosa arma illusoria emersa dalle profondità delle linee geomantiche, scintillante della luce dell'\"Eternità\". Può cambiare aspetto in base al tipo elementale di chi la impugna. Si narra che, in un'epoca immemorabile, un'emissaria divina degli alti cieli donò questa spada lunga dorata alla somma sacerdotessa di Ys, conferendole il diritto di guidare il porto prima che sprofondasse sotto le sabbie.",
+  "rarity": 5,
+  "type": {
+    "id": "Claymore",
+    "name": "Claymore"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1004,
+    "name": "Metamorfosi splendente: Eternità - Sublimazione",
+    "priority": 2
+  },
+  "item_id": 341204,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Claymore_MorphGradlon_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_MorphGradlon_Great"
+}

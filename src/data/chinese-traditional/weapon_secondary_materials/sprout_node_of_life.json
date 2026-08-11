@@ -1,0 +1,24 @@
+{
+  "_id": 112156,
+  "id": "sprout_node_of_life",
+  "name": "靈生分櫱節",
+  "description": "生長出一定晶石的枝節，沉甸甸的，能從中感受到離開樹妖的主體後尚未消失的生命力。",
+  "source": [
+    "40級以上荒野樹妖掉落",
+    "星塵兌換",
+    "可合成數量：{0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112155,
+        "id": "hollow_root_of_life",
+        "name": "靈生空根",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

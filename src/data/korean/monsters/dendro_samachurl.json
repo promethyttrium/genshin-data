@@ -14,14 +14,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "츄츄 부족",
   "filename_icon": "UI_MonsterIcon_Shaman_Grass_01",
   "description": "구시렁대는 연로한 츄츄족. 풀 원소의 소환자다.\\n원소 통제에 타고난 재능이 있으며, 나이가 들수록 능력이 점점 강해진다. 가면 속에 숨겨진 불만과 증오의 독 넝쿨이 중얼거림과 함께 자라난다",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

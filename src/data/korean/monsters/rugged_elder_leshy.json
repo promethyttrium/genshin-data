@@ -1,0 +1,40 @@
+{
+  "_id": 25137001,
+  "id": "rugged_elder_leshy",
+  "monsterId": 25137006,
+  "name": "고목 요정",
+  "specialNames": [
+    "묘목 요정"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "돌연변이 마수",
+  "filename_icon": "UI_MonsterIcon_Leshy_Mature_01",
+  "description": "숲과 들판에서 자라는 나무 요정.\\n불완전한 지능을 지니고 말조차 하지 못하는 나무 요정은 황금 나라 장인들이 초기에 만들어 낸 실험 결과물처럼 보인다. 그러나 기록에 따르면, 장인들은 생명의 권능을 완전히 터득한 뒤에야 이 종족을 만들어 냈다고 한다.\\n어쩌면 나무 요정의 탄생에는 오늘날의 요정과 인간이 이해할 수 없는 깊은 뜻이 담겨 있을지도 모른다",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.3,
+      "hydro": 0.1,
+      "geo": 0.3,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 21.945072,
+      "attack": 94.62242,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

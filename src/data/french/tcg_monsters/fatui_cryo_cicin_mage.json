@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 3,
+    "element": "Cryo",
+    "weapon": "Autre arme",
     "faction": [
-      null
+      "Fatui"
     ],
     "talent_card": {
       "_id": 3855,
@@ -27,8 +29,10 @@
     {
       "id": "cicin_icicle",
       "name": "Pyramide cryoluciole",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#99FFFFFF\">DGT Cryo</span>.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -47,8 +51,10 @@
     {
       "id": "misty_summons",
       "name": "Appel brumeux",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et invoque une <span style=\"color:#FFFFFFFF\">Cryoluciole</span>.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#99FFFFFF\">DGT Cryo</span> et invoque une <span style=\"color:#FFFFFFFF\">Cryoluciole</span>.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -61,8 +67,10 @@
     {
       "id": "blizzard_branch_blossom",
       "name": "Givre de fleurs blanches",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?, <span style=\"color:#99FFFFFF\">applique l'élément Cryo</span> au personnage et crée une <span style=\"color:#FFFFFFFF\">égide de luciole</span>.",
-      "skillTag": [],
+      "desc": "Inflige 5 pts de <span style=\"color:#99FFFFFF\">DGT Cryo</span>, <span style=\"color:#99FFFFFF\">applique l'élément Cryo</span> au personnage et crée une <span style=\"color:#FFFFFFFF\">égide de luciole</span>.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1101,

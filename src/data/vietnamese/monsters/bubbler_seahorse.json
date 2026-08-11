@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Mature",
   "description": "Hình thái sau khi trưởng thành của Cá Ngựa Bong Bóng đực, có khả năng tấn công cực kỳ mạnh.\\nTừng có người đã nhìn thấy vua của loài cá ngựa, nghe nói đó là một sinh linh kiêu ngạo có tứ chi khá dài.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

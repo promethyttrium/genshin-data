@@ -313,6 +313,11 @@
       "name": "Fruit Tandem Turnovers"
     },
     {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
+    },
+    {
       "_id": 3901,
       "id": "crisp_croissant_combo",
       "name": "Crisp Croissant Combo"
@@ -400,6 +405,5 @@
   ],
   "source": [
     "ได้จากการทำอาหาร"
-  ],
-  "rarity": 0
+  ]
 }

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Scorpion_Sacred_Electric",
   "description": "Uma forma de vida artrópode que sofreu mutações após se alimentar de formas de vida maiores.\\nFormas de vida são governadas pelas leis da evolução, Bestas da Ossada Sagrada exploraram essas regras ao terem sorte bastante para descobrir a velha carcaça de um ser maior antes que qualquer outro da competição. Animais e humanos frequentemente têm mais em comum do que o segundo está disposto a reconhecer.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

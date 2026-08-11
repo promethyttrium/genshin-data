@@ -1,0 +1,1393 @@
+{
+  "_id": 10000150,
+  "id": "odette",
+  "name": "Odette",
+  "title": "Neve volteggiante",
+  "description": "Celebre ballerina di Snezhnaya, sboccia nel paesaggio ghiacciato con una bellezza tagliente come il gelo.",
+  "weapon_type": {
+    "id": "sword",
+    "name": "Spada"
+  },
+  "element": {
+    "id": "cryo",
+    "name": "Cryo"
+  },
+  "gender": {
+    "id": "female",
+    "name": "Femmina"
+  },
+  "release": 1786395600,
+  "substat": "DAN da CRIT",
+  "affiliation": "Compagnia Korolevskiy",
+  "region": {
+    "id": "snezhnaya_star",
+    "name": "SNEZHNAYA_STAR"
+  },
+  "rarity": 5,
+  "birthday": [
+    20,
+    2
+  ],
+  "constellation": "Cygnus Olor",
+  "domain": "Dominio della maestria: Contemplazione",
+  "cv": {
+    "english": "Alexis Tipton",
+    "chinese": "潘丹妮",
+    "japanese": "上坂堇",
+    "korean": "Choi Hyun-ji"
+  },
+  "skills": [
+    {
+      "_id": 11501,
+      "id": "snow_swan_variation",
+      "name": "Variazione del cigno delle nevi",
+      "description": "<span style=\"color:#FFD780FF\">Attacco normale</span><br/>Sferra un attacco di spada che infligge fino a 5 colpi consecutivi.<br/><br/><span style=\"color:#FFD780FF\">Attacco caricato</span><br/>Consuma una certa quantità di vigore per sferrare un fendente abbagliante contro gli avversari davanti a sé.<br/><br/><span style=\"color:#FFD780FF\">Attacco in picchiata</span><br/>Attacca scagliandosi contro il suolo da mezz'aria, infliggendo DAN agli avversari lungo la traiettoria e DAN ad area all'impatto col suolo.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "DAN da 1º colpo",
+          "values": [
+            "51.9%",
+            "56.1%",
+            "60.3%",
+            "66.3%",
+            "70.5%",
+            "75.4%",
+            "82%",
+            "88.6%",
+            "95.3%",
+            "102.5%",
+            "109.7%",
+            "117%",
+            "124.2%",
+            "131.5%",
+            "138.7%"
+          ]
+        },
+        {
+          "label": "DAN da 2º colpo",
+          "values": [
+            "51.5%",
+            "55.7%",
+            "59.9%",
+            "65.9%",
+            "70.1%",
+            "74.9%",
+            "81.5%",
+            "88%",
+            "94.6%",
+            "101.8%",
+            "109%",
+            "116.2%",
+            "123.4%",
+            "130.6%",
+            "137.8%"
+          ]
+        },
+        {
+          "label": "DAN da 3º colpo",
+          "values": [
+            "32.6% + 38.3%",
+            "35.3% + 41.4%",
+            "37.9% + 44.5%",
+            "41.7% + 49%",
+            "44.4% + 52.1%",
+            "47.4% + 55.6%",
+            "51.6% + 60.5%",
+            "55.7% + 65.4%",
+            "59.9% + 70.3%",
+            "64.5% + 75.7%",
+            "69% + 81%",
+            "73.6% + 86.3%",
+            "78.1% + 91.7%",
+            "82.7% + 97%",
+            "87.2% + 102.4%"
+          ]
+        },
+        {
+          "label": "DAN da 4º colpo",
+          "values": [
+            "74.6%",
+            "80.6%",
+            "86.7%",
+            "95.4%",
+            "101.5%",
+            "108.4%",
+            "117.9%",
+            "127.5%",
+            "137%",
+            "147.4%",
+            "157.8%",
+            "168.2%",
+            "178.6%",
+            "189%",
+            "199.4%"
+          ]
+        },
+        {
+          "label": "DAN da 5º colpo",
+          "values": [
+            "90.2%",
+            "97.6%",
+            "104.9%",
+            "115.4%",
+            "122.7%",
+            "131.1%",
+            "142.7%",
+            "154.2%",
+            "165.7%",
+            "178.3%",
+            "190.9%",
+            "203.5%",
+            "216.1%",
+            "228.7%",
+            "241.3%"
+          ]
+        },
+        {
+          "label": "DAN da ATT caricato",
+          "values": [
+            "107.4%",
+            "116.2%",
+            "124.9%",
+            "137.4%",
+            "146.1%",
+            "156.1%",
+            "169.9%",
+            "183.6%",
+            "197.3%",
+            "212.3%",
+            "227.3%",
+            "242.3%",
+            "257.3%",
+            "272.3%",
+            "287.3%"
+          ]
+        },
+        {
+          "label": "Costo vigore ATT caricato",
+          "values": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "label": "DAN da ATT in picchiata",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "DAN da ATT in picchiata basso/alto",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11502,
+      "id": "adagio_phantom_night_dancers",
+      "name": "Adagio: Danza della Notte fantasma",
+      "description": "Con passi di danza lenti e aggraziati, Odette infligge <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span> all'avversario ed evoca in campo la sua <b><span style=\"color:#FFD780FF\">Controfigura danzante solista</span></b>.<br/>Se una <span style=\"color:#FFD780FF\">Controfigura danzante</span> evocata da Odette è già in campo, questa seconda evocazione ne ripristina la durata.<br/><br/><span style=\"color:#FFD780FF\">Controfigura danzante solista</span><br/>Alterna i passi di danza <span style=\"color:#FFD780FF\">Piuma</span> e <span style=\"color:#FFD780FF\">Ala</span>, attaccando periodicamente gli avversari vicini e infliggendo loro <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span>.<br/>Inoltre, per 6 s dopo aver scatenato la sua abilità elementale <span style=\"color:#FFD780FF\">Adagio: Danza della Notte fantasma</span>, quest'ultima si trasforma nell'abilità elementale speciale <b><span style=\"color:#FFD780FF\">Adagio: Gran finale dell'alba</span></b>, che infligge <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span> nel tempo agli avversari vicini durante un duetto di danza. Al termine del duetto, Odette infligge un'ulteriore iterazione di <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span> considerati come DAN da Astroconduzione o da Turbinio astrale.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "DAN da abilità",
+          "values": [
+            "108.1%",
+            "116.2%",
+            "124.3%",
+            "135.1%",
+            "143.2%",
+            "151.3%",
+            "162.1%",
+            "172.9%",
+            "183.7%",
+            "194.5%",
+            "205.4%",
+            "216.2%",
+            "229.7%",
+            "243.2%",
+            "256.7%"
+          ]
+        },
+        {
+          "label": "DAN nel tempo Gran finale dell'alba",
+          "values": [
+            "95.8%",
+            "103%",
+            "110.2%",
+            "119.8%",
+            "127%",
+            "134.2%",
+            "143.8%",
+            "153.3%",
+            "162.9%",
+            "172.5%",
+            "182.1%",
+            "191.7%",
+            "203.7%",
+            "215.6%",
+            "227.6%"
+          ]
+        },
+        {
+          "label": "DAN da Astroconduzione/Turbinio astrale Gran finale dell'alba",
+          "values": [
+            "305.8% / 458.6%",
+            "328.7% / 493%",
+            "351.6% / 527.4%",
+            "382.2% / 573.3%",
+            "405.1% / 607.7%",
+            "428.1% / 642.1%",
+            "458.6% / 688%",
+            "489.2% / 733.8%",
+            "519.8% / 779.7%",
+            "550.4% / 825.6%",
+            "580.9% / 871.4%",
+            "611.5% / 917.3%",
+            "649.7% / 974.6%",
+            "688% / 1031.9%",
+            "726.2% / 1089.3%"
+          ]
+        },
+        {
+          "label": "DAN da passo di danza Piuma",
+          "values": [
+            "43%",
+            "46.3%",
+            "49.5%",
+            "53.8%",
+            "57%",
+            "60.3%",
+            "64.6%",
+            "68.9%",
+            "73.2%",
+            "77.5%",
+            "81.8%",
+            "86.1%",
+            "91.5%",
+            "96.8%",
+            "102.2%"
+          ]
+        },
+        {
+          "label": "DAN da Astroconduzione/Turbinio astrale passo di danza Piuma",
+          "values": [
+            "27% / 40.5%",
+            "29.1% / 43.6%",
+            "31.1% / 46.6%",
+            "33.8% / 50.7%",
+            "35.8% / 53.7%",
+            "37.8% / 56.7%",
+            "40.5% / 60.8%",
+            "43.2% / 64.8%",
+            "45.9% / 68.9%",
+            "48.6% / 73%",
+            "51.3% / 77%",
+            "54% / 81.1%",
+            "57.4% / 86.1%",
+            "60.8% / 91.2%",
+            "64.2% / 96.3%"
+          ]
+        },
+        {
+          "label": "DAN da passo di danza Ala",
+          "values": [
+            "51.5%",
+            "55.3%",
+            "59.2%",
+            "64.3%",
+            "68.2%",
+            "72%",
+            "77.2%",
+            "82.3%",
+            "87.5%",
+            "92.6%",
+            "97.8%",
+            "102.9%",
+            "109.4%",
+            "115.8%",
+            "122.2%"
+          ]
+        },
+        {
+          "label": "DAN da Astroconduzione/Turbinio astrale passo di danza Ala",
+          "values": [
+            "32.3% / 48.5%",
+            "34.7% / 52.1%",
+            "37.2% / 55.7%",
+            "40.4% / 60.6%",
+            "42.8% / 64.2%",
+            "45.2% / 67.8%",
+            "48.5% / 72.7%",
+            "51.7% / 77.5%",
+            "54.9% / 82.4%",
+            "58.2% / 87.2%",
+            "61.4% / 92.1%",
+            "64.6% / 96.9%",
+            "68.7% / 103%",
+            "72.7% / 109%",
+            "76.7% / 115.1%"
+          ]
+        },
+        {
+          "label": "TdR Gran finale dell'alba",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Durata Controfigura danzante solista",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "TdR",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11505,
+      "id": "presto_bluebird_finale",
+      "name": "Presto: Ultimo atto dell'Uccello azzurro",
+      "description": "Con passi di danza rapidi e vivaci, Odette infligge diverse iterazioni di <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span> ed evoca la sua <color=#FFD780FF><b>Controfigura danzante solista</b></color>. Ottiene inoltre <span style=\"color:#FFD780FF\">Sogno del cigno delle nevi</span>, che aumenta i DAN da reazione di Barlume astrale inflitti da Odette.<br/>Inoltre, per 6 s dopo aver scatenato il suo Tripudio elementale <span style=\"color:#FFD780FF\">Presto: Ultimo atto dell'Uccello azzurro</span> l'abilità elementale <span style=\"color:#FFD780FF\">Adagio: Danza della Notte fantasma</span> si trasforma nell'abilità elementale speciale <b><span style=\"color:#FFD780FF\">Adagio: Gran finale dell'alba</span></b>.<br/><br/>Se in campo è presente la Controfigura danzante solista evocata da Odette, quest'ultima viene evocata di nuovo al suo fianco, ripristinandone al contempo la durata.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "DAN da fendente",
+          "values": [
+            "110.2%×3",
+            "118.4%×3",
+            "126.7%×3",
+            "137.7%×3",
+            "146%×3",
+            "154.2%×3",
+            "165.3%×3",
+            "176.3%×3",
+            "187.3%×3",
+            "198.3%×3",
+            "209.3%×3",
+            "220.4%×3",
+            "234.1%×3",
+            "247.9%×3",
+            "261.7%×3"
+          ]
+        },
+        {
+          "label": "DAN da fendente finale",
+          "values": [
+            "170.3%",
+            "183%",
+            "195.8%",
+            "212.8%",
+            "225.6%",
+            "238.4%",
+            "255.4%",
+            "272.4%",
+            "289.5%",
+            "306.5%",
+            "323.5%",
+            "340.5%",
+            "361.8%",
+            "383.1%",
+            "404.4%"
+          ]
+        },
+        {
+          "label": "Bonus DAN da reazione di Barlume astrale Sogno del cigno delle nevi",
+          "values": [
+            "14%",
+            "18%",
+            "22%",
+            "26%",
+            "30%",
+            "34%",
+            "38%",
+            "42%",
+            "46%",
+            "50%",
+            "54%",
+            "58%",
+            "62%",
+            "66%",
+            "70%"
+          ]
+        },
+        {
+          "label": "Durata Sogno del cigno delle nevi",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "Durata Controfigura danzante solista",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "TdR",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Costo energia",
+          "values": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "spring_rite_of_the_chosen_one",
+      "name": "Rito primaverile della Prescelta",
+      "description": "Quando Odette evoca la sua <b><span style=\"color:#FFD780FF\">Controfigura danzante solista</span></b>, ottiene anche 4 accumuli di <b><span style=\"color:#FFD780FF\">Splendore stupefacente</span></b>.",
+      "level": 1
+    },
+    {
+      "id": "pathetique_of_pateticheskaya",
+      "name": "Patetica di Pateticheskaya",
+      "description": "I DAN da Barlume astrale aumentano di un 1,5% aggiuntivo dei DAN originali per ogni 100 di ATT di Odette al di sopra di 1.000. In questo modo può infliggere fino a un 30% di DAN aggiuntivi.",
+      "level": 4
+    },
+    {
+      "id": "stellar_jubilee_dance_of_aurore",
+      "name": "Giubileo astrale: Danza dell'aurora",
+      "description": "Odette entra nello stato di <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span> quando si trova all'interno di un <b><span style=\"color:#FFD780FF\">Campo astropolare</span></b> o nello stato di <span style=\"color:#FFD780FF\">Splendore: Turbinio astrale</span> per 8 s dopo che un membro vicino del gruppo ha innescato una reazione di Turbinio astrale.<br/>Quando un membro del gruppo innesca una reazione di Superconduzione o Turbinio di Cryo, quest'ultima diventa una reazione di Astroconduzione o di Turbinio astrale, e i DAN base di tale reazione aumentano di un ulteriore 0,7% per ogni 100 di ATT di Odette. In questo modo è possibile ottenere fino a un 14% di aumento massimo.",
+      "level": 0
+    },
+    {
+      "id": "echo_of_winter_daydreams",
+      "name": "Eco di sogni a occhi aperti invernali",
+      "description": "Mostra sulla minimappa la posizione delle <span style=\"color:#FFD780FF\">specialità locali di Snezhnaya</span>.<br/>Esercitarsi nella danza nel tempo libero potrebbe persino attivare altri effetti...",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1501,
+      "id": "on_this_danceless_morn_she_gazes_at_her_reflection",
+      "name": "\"In questo mattino senza danza, ella osserva il suo riflesso\"",
+      "description": "Dopo aver sprigionato l'abilità elementale speciale <b><span style=\"color:#FFD780FF\">Adagio: Gran finale dell'alba</span></b>, Odette infligge un'iterazione di <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span> aggiuntiva agli avversari vicini al termine del duetto. La natura di tali DAN varia in base ai seguenti criteri.<br/>· Nello stato di <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span> o in nessuno stato di Splendore, Odette infligge DAN da Astroconduzione pari a un 300% del suo ATT.<br/>· Nello stato di <span style=\"color:#FFD780FF\">Splendore: Turbinio astrale</span>, Odette infligge DAN da Turbinio astrale pari a un 450% del suo ATT.<br/><br/>Inoltre, il talento d'ascensione \"Rito primaverile della Prescelta\" riceve un potenziamento: ora, quando la <b><span style=\"color:#FFD780FF\">Controfigura danzante solista</span></b> viene evocata, Odette ottiene anche 2 accumuli di <b><span style=\"color:#FFD780FF\">Splendore stupefacente</span></b> e, quando non è in campo, la velocità di riduzione di <span style=\"color:#FFD780FF\">Splendore stupefacente</span> aumenta a 2 accumuli al secondo.",
+      "level": 1
+    },
+    {
+      "_id": 1502,
+      "id": "i_must_see_the_snow_swans_unseen_dream_for_myself_she_thought",
+      "name": "\"'Devo ammirare il sogno invisibile del cigno delle nevi coi miei occhi', pensò\"",
+      "description": "Il talento d'ascensione \"Rito primaverile della Prescelta\" viene potenziato come segue: ogni accumulo di <b><span style=\"color:#FFD780FF\">Splendore stupefacente</span></b> attivo aumenta anche l'ATT del personaggio di un 7%.<br/>Inoltre, se Odette si trova in uno stato di <b><span style=\"color:#FFD780FF\">Splendore: Barlume astrale</span></b> quando è presente una <b><span style=\"color:#FFD780FF\">Controfigura danzante solista</span></b> in campo, anche la rispettiva RES elementale degli avversari vicini alla <span style=\"color:#FFD780FF\">Controfigura danzante</span> si riduce di un 20%.<br/>· <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span>: <span style=\"color:#99FFFFFF\">Cryo</span> ed <span style=\"color:#FFACFFFF\">Electro</span>.<br/>· <span style=\"color:#FFD780FF\">Splendore: Turbinio astrale</span>: <span style=\"color:#99FFFFFF\">Cryo</span> e <span style=\"color:#80FFD7FF\">Anemo</span>.",
+      "level": 2
+    },
+    {
+      "_id": 1503,
+      "id": "ill_chase_the_shouting_wind_along_climbing_alone_as_i_go",
+      "name": "\"Inseguirò il vento urlante, arrampicandomi sola lungo il cammino\"",
+      "description": "Aumenta di 3 il livello di <color=#FFD780FF><b>Adagio: Danza della Notte fantasma</b></color>.<br/>Il livello di potenziamento massimo è 15.",
+      "level": 3
+    },
+    {
+      "_id": 1504,
+      "id": "up_up_the_long_delirious_burning_blue",
+      "name": "\"Su, su, nel lungo, delirante, ardente blu\"",
+      "description": "Il Tripudio elementale <span style=\"color:#FFD780FF\">Presto: Ultimo atto dell'Uccello azzurro</span> viene potenziato come segue: quando Odette ottiene <span style=\"color:#FFD780FF\">Sogno del cigno delle nevi</span>, i DAN da reazione di Barlume astrale inflitti dagli altri membri vicini del gruppo aumentano di un 50% degli effetti di <span style=\"color:#FFD780FF\">Sogno del cigno delle nevi</span>.<br/><br/>Inoltre, quando un membro del gruppo infligge DAN da reazione di Barlume astrale a un avversario, anche Odette sferra un attacco coordinato, infliggendo un'iterazione di <span style=\"color:#99FFFFFF\">DAN da Cryo ad area</span>. Questo effetto può attivarsi una volta ogni 3,5 s. La natura di tali DAN varia in base ai seguenti criteri.<br/>· Nello stato di <span style=\"color:#FFD780FF\">Splendore: Astroconduzione</span> o in nessuno stato di Splendore, Odette infligge DAN da reazione di Astroconduzione pari a un 66% del suo ATT.<br/>· Nello stato di <span style=\"color:#FFD780FF\">Splendore: Turbinio astrale</span>, Odette infligge DAN da reazione di Turbinio astrale pari a un 99% del suo ATT.",
+      "level": 4
+    },
+    {
+      "_id": 1505,
+      "id": "oh_i_have_slipped_the_surly_bonds_of_earth",
+      "name": "\"Ah! Sono libera dai torvi legami della terra\"",
+      "description": "Aumenta di 3 il livello di <color=#FFD780FF><b>Presto: Ultimo atto dell'Uccello azzurro</b> </color>.<br/>Il livello di potenziamento massimo è 15.",
+      "level": 5
+    },
+    {
+      "_id": 1506,
+      "id": "put_out_my_hand_and_touched_the_face_of_the_divine",
+      "name": "\"Ho proteso la mano e sfiorato il volto del divino\"",
+      "description": "Il talento d'ascensione \"Rito primaverile della Prescelta\" viene potenziato come segue: quando Odette conferisce <b><span style=\"color:#FFD780FF\">Splendore stupefacente</span></b> a tutti i membri del gruppo vicini, i suoi accumuli di Splendore stupefacente non diminuiscono più.<br/>Inoltre, i DAN da Barlume astrale inflitti agli avversari dai personaggi sotto l'effetto di <span style=\"color:#FFD780FF\">Splendore stupefacente</span> vengono <b><span style=\"color:#FFD780FF\">innalzati</span></b> di un 25%, e i DAN da Barlume astrale inflitti da Odette vengono innalzati di un ulteriore 20%.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "-",
+            "1011"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "-",
+            "26"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "-",
+            "61"
+          ]
+        },
+        {
+          "label": "DAN da CRIT",
+          "values": [
+            "-",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "2621",
+            "3488"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "68",
+            "90"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "159",
+            "211"
+          ]
+        },
+        {
+          "label": "DAN da CRIT",
+          "values": [
+            "50.0%",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "5219",
+            "5834"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "135",
+            "151"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "316",
+            "354"
+          ]
+        },
+        {
+          "label": "DAN da CRIT",
+          "values": [
+            "50.0%",
+            "59.6%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104161,
+        "id": "shivada_jade_sliver",
+        "name": "Scheggia di giada Shivada",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Fiore Brina di Fata",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Frammento scintillante etereo",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "6712",
+            "7533"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "173",
+            "194"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "407",
+            "457"
+          ]
+        },
+        {
+          "label": "DAN da CRIT",
+          "values": [
+            "59.6%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "Frammento di giada Shivada",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Ramo fiorito incombusto",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Fiore Brina di Fata",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Frammento scintillante etereo",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "8421",
+            "9036"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "217",
+            "233"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "511",
+            "548"
+          ]
+        },
+        {
+          "label": "DAN da CRIT",
+          "values": [
+            "69.2%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "Frammento di giada Shivada",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Ramo fiorito incombusto",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Fiore Brina di Fata",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Cristallo etereo",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "9932",
+            "10547"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "256",
+            "272"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "602",
+            "639"
+          ]
+        },
+        {
+          "label": "DAN da CRIT",
+          "values": [
+            "69.2%",
+            "78.8%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "Pezzo di giada Shivada",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Ramo fiorito incombusto",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Fiore Brina di Fata",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Cristallo etereo",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "11453",
+            "12068"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "295",
+            "311"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "694",
+            "732"
+          ]
+        },
+        {
+          "label": "DAN da CRIT",
+          "values": [
+            "78.8%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "Pezzo di giada Shivada",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Ramo fiorito incombusto",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Fiore Brina di Fata",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "Litosquama di cristallo eterea",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Fai ascendere",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "PS di base",
+          "values": [
+            "12981",
+            "12981"
+          ]
+        },
+        {
+          "label": "ATT di base",
+          "values": [
+            "335",
+            "335"
+          ]
+        },
+        {
+          "label": "DIF di base",
+          "values": [
+            "787",
+            "787"
+          ]
+        },
+        {
+          "label": "DAN da CRIT",
+          "values": [
+            "88.4%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104164,
+        "id": "shivada_jade_gemstone",
+        "name": "Gemma di giada Shivada",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Ramo fiorito incombusto",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Fiore Brina di Fata",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "Litosquama di cristallo eterea",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104365,
+          "id": "teachings_of_charity",
+          "name": "Insegnamenti della benevolenza",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "Frammento scintillante etereo",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guida alla benevolenza",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Cristallo etereo",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guida alla benevolenza",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Cristallo etereo",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guida alla benevolenza",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Cristallo etereo",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guida alla benevolenza",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Cristallo etereo",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Filosofie della benevolenza",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Litosquama di cristallo eterea",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Ramo avvizzito contorto",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Filosofie della benevolenza",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Litosquama di cristallo eterea",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Ramo avvizzito contorto",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Filosofie della benevolenza",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Litosquama di cristallo eterea",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Ramo avvizzito contorto",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Filosofie della benevolenza",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Litosquama di cristallo eterea",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Ramo avvizzito contorto",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Corona della saggezza",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 215000,
+      "name": "Balletto del cigno delle nevi",
+      "description": "Il completo di Odette. Un abito da danza di eccellente fattura, ispirato ai cigni delle nevi, che ha accompagnato fedelmente la diligente ballerina attraverso lunghe notti senza fine. Le gemme che lo adornano brillano con sobria eleganza sotto le luci del palcoscenico, proprio come la scintillante danzatrice che lo ha indosso.",
+      "isDefault": true,
+      "characterName": "Odette",
+      "characterId": 10000150,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Odette_Circle"
+    }
+  ]
+}

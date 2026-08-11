@@ -64,19 +64,19 @@
       "_id": 112094,
       "id": "operatives_constancy",
       "name": "Thời Khắc Của Đặc Vụ",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112093,
       "id": "operatives_standard_pocket_watch",
       "name": "Đồng Hồ Tiêu Chuẩn Của Đặc Vụ",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112092,
       "id": "old_operatives_pocket_watch",
       "name": "Đồng Hồ Cũ Kỹ Của Đặc Vụ",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -127,7 +127,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Escadron_Wind",
   "description": "Đặc vụ tinh nhuệ của Fatui.\\nLà người không có trong biên chế thường quy của Fatui. Căn cứ theo nội dung nhiệm vụ và mệnh lệnh mà họ vừa có thể cùng tiến lui với binh lính, cũng có thể độc lập hoặc cùng với thành viên mai phục ở các nơi tiến hành các công việc như gián điệp, chống trinh sát, bảo vệ, xóa sạch dấu tích. Vì những nhiệm vụ rất đặc thù, nên đặc vụ thường phải nắm vững nhiều loại kỹ năng, và thậm chí là tài nghệ.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

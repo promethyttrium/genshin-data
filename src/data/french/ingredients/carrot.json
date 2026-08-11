@@ -60,6 +60,11 @@
       "name": "Marmite aux légumes"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
       "_id": 4204,
       "id": "bountiful_year",
       "name": "Année d'abondance"
@@ -67,6 +72,5 @@
   ],
   "source": [
     "Dans la nature"
-  ],
-  "rarity": 0
+  ]
 }

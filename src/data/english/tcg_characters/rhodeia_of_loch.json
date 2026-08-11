@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Character Card",
     "energy": 3,
+    "element": "Hydro",
+    "weapon": "Other Weapons",
     "faction": [
-      null
+      "Monster"
     ],
     "talent_card": {
       "_id": 3235,
@@ -27,8 +29,10 @@
     {
       "id": "surge",
       "name": "Surge",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#80C0FFFF\">Hydro DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -48,7 +52,9 @@
       "id": "oceanid_mimic_summoning",
       "name": "Oceanid Mimic Summoning",
       "desc": "Randomly summons 1 <span style=\"color:#FFFFFFFF\">Oceanid Mimic</span> (Prioritizes summoning a different type from preexisting ones).",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -62,7 +68,9 @@
       "id": "the_myriad_wilds",
       "name": "The Myriad Wilds",
       "desc": "Randomly summons 2 <span style=\"color:#FFFFFFFF\">Oceanid Mimic</span> (Prioritizes summoning different types).",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -75,8 +83,10 @@
     {
       "id": "tide_and_torrent",
       "name": "Tide and Torrent",
-      "desc": "Deals ? ?. For each friendly Summon on the field, deals +1 additional DMG.",
-      "skillTag": [],
+      "desc": "Deals 5 <span style=\"color:#80C0FFFF\">Hydro DMG</span>. For each friendly Summon on the field, deals +1 additional DMG.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1102,

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Otras armas",
     "faction": [
-      null
+      "Monstruo"
     ],
     "source": "Se obtiene de Príncipe de la taberna Cola de Gato tras ganar el duelo amistoso contra la Asceta Espiritista de los duelos tabernarios"
   },
@@ -18,8 +20,10 @@
     {
       "id": "spiritspeaking_frost_star",
       "name": "Espiritismo: Estrella glacial",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#99FFFFFF\">Daño Cryo</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -38,8 +42,10 @@
     {
       "id": "radiance_in_flux",
       "name": "Tonalidades en movimiento",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y añade 1 carta de <span style=\"color:#FFFFFFFF\">Tonalidad radiante</span> a la tercera posición de tu pila. <span style=\"color:#FFFFFFFF\">Selecciona</span> 1 de 3 fortalecimientos aleatorios de la carta <span style=\"color:#FFFFFFFF\">Tonalidad radiante</span>.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#99FFFFFF\">Daño Cryo</span> y añade 1 carta de <span style=\"color:#FFFFFFFF\">Tonalidad radiante</span> a la tercera posición de tu pila. Las primeras 4 veces que se utilice esta habilidad durante la partida, <span style=\"color:#FFFFFFFF\">selecciona</span> 1 de 3 fortalecimientos aleatorios de la carta <span style=\"color:#FFFFFFFF\">Tonalidad radiante</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -52,8 +58,10 @@
     {
       "id": "chilling_illustration",
       "name": "Ilustración gélida",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y añade 1 carta de <span style=\"color:#FFFFFFFF\">Tonalidad radiante</span> a tu mano.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts. de <span style=\"color:#99FFFFFF\">Daño Cryo</span> y añade 1 carta de <span style=\"color:#FFFFFFFF\">Tonalidad radiante</span> a tu mano.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -73,7 +81,9 @@
       "id": "iridescent_silhouette",
       "name": "Silueta iridiscente",
       "desc": "Pasiva: al comenzar el duelo, crea 3 cartas de <span style=\"color:#FFFFFFFF\">Tonalidad radiante</span> que se distribuyen equitativamente en tu pila.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
       "points": []
     }
   ]

@@ -1,0 +1,32 @@
+{
+  "_id": 222081,
+  "id": "treacherous_torrent",
+  "shareId": 613,
+  "name": "詭譎惡浪",
+  "title": "無相之水·詭譎惡浪",
+  "desc": "無聲幽集的詭譎水波下，災禍的惡浪正在無聲積聚…",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">無相之水</span>或<span style=\"color:#FFFFFFFF\">水滴</span>造成傷害後，治療我方受傷最多的魔物1點。（每回合3次）",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "水元素",
+    "card_type": "裝備牌",
+    "energy": [
+      {
+        "_id": 1102,
+        "id": "hydro",
+        "type": "水元素",
+        "count": 1
+      }
+    ],
+    "source": "在貓尾酒館中小王子處進行酒館挑戰，在友好對局難度無相之水中完成挑戰目標後獲得",
+    "tags": [
+      "天賦"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">快速行動</span>：裝備給我方的<span style=\"color:#FFFFFFFF\">無相之水</span>。<br/><span style=\"color:#FFFFFFFF\">無相之水</span>或<span style=\"color:#FFFFFFFF\">水滴</span>造成傷害後，治療我方受傷最多的魔物1點。（每回合3次）<br/>（牌組中包含無相之水，才能加入牌組）"
+    }
+  ]
+}

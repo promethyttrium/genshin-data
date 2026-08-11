@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Other Human Factions",
   "filename_icon": "UI_MonsterIcon_Human_Female_Sword_Shamansaurus",
   "description": "A warrior from the Night-Wind, and a tribal guardian that patrols the misty canyons.\\nTo a certain degree, they can draw upon the power of their body paint to wield their weapons with their willpower.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

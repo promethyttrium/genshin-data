@@ -25,19 +25,19 @@
       "_id": 112076,
       "id": "marked_shell",
       "name": "Casco Marcado",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112075,
       "id": "sturdy_shell",
       "name": "Casco Duro",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112074,
       "id": "desiccated_shell",
       "name": "Casco Destruído",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Chrysopelea_Sacred_Wind",
   "description": "Um réptil que sofreu mutações após se alimentar de formas de vida maiores.\\nApesar de agora estar imbuído com o poder da manipulação elemental, as Bestas da Ossada Sagrada sozinhas ainda não conseguem digerir os pedaços de carne que devoraram das carcaças imortais que comeram. Ao invés disso, os pedaços lentamente se fundiram com as próprias bestas, tecendo uma casca óssea sobre seus corpos, uma que compartilha uma composição similar a um certo tipo de material de fundição de Inazuma.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

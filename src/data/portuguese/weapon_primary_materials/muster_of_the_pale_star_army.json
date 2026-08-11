@@ -1,0 +1,29 @@
+{
+  "_id": 114086,
+  "id": "muster_of_the_pale_star_army",
+  "name": "Reunião do Exército da Estrela Azul",
+  "description": "\"Eles tomaram o cânion por pura sorte. Aquele tolo arrogante não é nada mais do que um raio dissipado, uma lufada desaparecendo.\"<br/>\"Mesmo com todo o poder, eles nem conseguem segurar uma fração de nossas forças. Em breve, a derrota deles estará firmada para todos verem.\"<br/>\"Soldados, marchem em frente! Pois nosso rei já previu que essa campanha terminará numa vitória fácil!\"",
+  "source": [
+    "Quantidade a ser fabricada: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114085,
+        "id": "rise_of_the_pale_star_army",
+        "name": "Ascensão do Exército da Estrela Azul",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domínio da Forja: Cicatrizes da Obsessão Maldita",
+  "days": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ]
+}

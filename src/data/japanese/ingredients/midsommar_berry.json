@@ -48,10 +48,14 @@
       "_id": 3612,
       "id": "birchsteamed_pork_ribs",
       "name": "スペアリブの樺蒸し"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "スイート・アイスクリームセット"
     }
   ],
   "source": [
     "野外で採集"
-  ],
-  "rarity": 0
+  ]
 }

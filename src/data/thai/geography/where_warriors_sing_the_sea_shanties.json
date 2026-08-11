@@ -1,0 +1,12 @@
+{
+  "_id": 70800042,
+  "id": "where_warriors_sing_the_sea_shanties",
+  "name": "ถิ่นนักรบผู้ขับขานบทเพลงประมง",
+  "areaName": "แดนเยือกแข็งนิรันดร์",
+  "areaId": 80200,
+  "description": "บ้านเกิดของเหล่านักรบผู้ต่อสู้กับเกลียวคลื่น ผู้คนที่โดยสารเรือประมงมุ่งหน้าสู่ทะเลลึก แม้จะต้องเผชิญหน้ากับอสูรยักษ์ที่ใหญ่โตราวกับภูเขาขนาดย่อม ก็ยังคงไม่สะทกสะท้าน",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 642,
+  "filename_image": "UI_Codex_Scenery_ZDHaiXieZhen"
+}

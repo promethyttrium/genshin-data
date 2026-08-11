@@ -36,7 +36,7 @@
       "_id": 113039,
       "id": "light_guiding_tetrahedron",
       "name": "導光四面體",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -151,7 +151,6 @@
   "categoryText": "自律機關",
   "filename_icon": "UI_MonsterIcon_Monolith_Starchild",
   "description": "統轄著散落在沙漠中眾多遺蹟構裝體的永恆機關，其中似乎仍殘留著孤獨君王的執著意念。\\n或許是因為夢中的友人曾經的教誨，又或是因為覬覦著天上諸聖的權能，王創造出了本應不屬於地上的神秘機關，並以此建構砂原上的國都。\\n在千柱之城的廢墟之上，古老的晶石中仍折射著黃金樂園的美景，即便王的夢想早已無人復記。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

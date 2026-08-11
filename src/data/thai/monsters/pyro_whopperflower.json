@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "สัตว์อสูรลึกลับ",
   "filename_icon": "UI_MonsterIcon_Mimik_Fire",
   "description": "มอนสเตอร์รูปแบบพืชที่จะโจมตีเหยื่อแบบไม่ให้ได้ตั้งตัว ซึ่งใช้ธาตุไฟในการล่าเหยื่อของมัน\\nในโลกของ Teyvat นั้น มีพืชที่เป็นหนึ่งเดียวกับธาตุอยู่ ด้วยเหตุนี้พวกมันที่ได้รับสติปัญญามานั้นจึงมีความต้องการ \"สารอาหาร\" ที่เพิ่มขึ้นเป็นอย่างมาก...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

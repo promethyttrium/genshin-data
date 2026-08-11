@@ -25,19 +25,19 @@
       "_id": 112019,
       "id": "deathly_statuette",
       "name": "Смертельная статуэтка",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112018,
       "id": "dark_statuette",
       "name": "Тёмная статуэтка",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112017,
       "id": "gloomy_statuette",
       "name": "Мрачная статуэтка",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Бездна",
   "filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Chargebow_Ice",
   "description": "Потемневший солдат. Некогда гордый воин древних подземелий, но теперь это лишь пустая оболочка с воспоминаниями о битве.\\nВ конце всё сущее придёт в упадок. Эта пустая оболочка - то, во что превратился Рыцарь Чёрного Змея под гнётом греха, проклятия и времени.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

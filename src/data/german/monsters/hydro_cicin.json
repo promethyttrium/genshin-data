@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Cicin_Water_01",
   "description": "Kleine Kreaturen, die leichten Einfluss auf Hydro-Energie nehmen können.\\nGemeinsam mit anderen Wesen werden sie Cicine genannt, sie vergöttern die seltene wie wunderschöne Eisnebelgraspflanze. Die Zauberinnen der Fatui nutzen diese Schwäche aus, um sie im Kampf zu befehligen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "Hạt Bay Lượn U Ám",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "Hạt Bay Lượn Khô Héo",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Sinh Mệnh Nguyên Tố",
   "filename_icon": "UI_MonsterIcon_Sylph_Rock_01",
   "description": "Ma vật tràn trề nguyên tố Nham, có thể bay phấp phới trong không trung.\\nKhi Bóng Ma Nham khép đôi cánh lại sẽ trông giống như một loại quả gì đó. Do đó, trong một số truyền thuyết cổ xưa, chúng được xem là một loại quả của cây đại thụ nào đó ở trên trời, được cho rằng có giá trị làm thuốc thần kỳ.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

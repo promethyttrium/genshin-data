@@ -1,0 +1,16 @@
+{
+  "_id": 380002,
+  "id": "super_awesome_magic_key",
+  "name": "Super Awesome Magic Key",
+  "description": "Hadiah dari Hexenzirkel Cilik untuk teman baik mereka. Karena kekurangan material, desainnya mengacu pada benda ajaib di \"Kisah Angsa Bersayap Salju\" dari Fontaine.\\nMeskipun tidak bisa benar-benar membuka pintu ke dimensi yang berbeda seperti di dongeng tersebut, tapi benda ini tetap cukup tangguh untuk menemani teman-temannya melewati berbagai ruang.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Claymore"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341802,
+  "icon_path": "UI_EquipIcon_Claymore_LoliFriend",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_LoliFriend"
+}

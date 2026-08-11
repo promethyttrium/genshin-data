@@ -1,0 +1,40 @@
+{
+  "_id": 25131201,
+  "id": "volkodlak_basher",
+  "monsterId": 25131306,
+  "name": "Écraseur volkodlak",
+  "specialNames": [
+    "Écraseur"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bêtes mystiques",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Strong_Sword",
+  "description": "Un type de volkodlak relativement grand et robuste, que l'on trouve parmi ceux qui errent à Snezhnaya.\\nDotés d'une force à la fois bestiale et humanoïde, ils possèdent un instinct sauvage les poussant à utiliser leur propre puissance. Si un humain non entraîné, même armé, affrontait un tel volkodlak, la victoire reviendrait sans aucun doute à ce dernier.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 7.315024,
+      "attack": 49.564125,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

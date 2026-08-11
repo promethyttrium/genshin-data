@@ -1,52 +1,18 @@
 {
   "_id": 23080101,
   "id": "close_combat_storm_landcruiser",
-  "monsterId": 23080102,
+  "monsterId": 23080104,
   "name": "陸巡艇・近接攻撃型",
   "specialNames": [
     "近接攻撃型"
   ],
-  "investigation": {
-    "investigationId": 85,
-    "name": "陸巡艇",
-    "categoryType": "Common",
-    "categoryText": "普通",
-    "description": "地上戦に海軍の理念を応用した自律装置。\\n陸巡艇とは、「陸地を巡航する武装艦艇」として、スネージナヤのオルジェイナヤ・パラタのエンジニアによって設計された新型戦争兵器であり、ファデュイが戦いを繰り広げる最前線で広く使われている。"
-  },
-  "filename_investigationIcon": "UI_MonsterIcon_Fatuimecha_CoreA_MoveB_AttackA_Fire",
-  "rewardPreviewId": 16025,
-  "rewardPreview": [
-    {
-      "_id": 202,
-      "id": "mora",
-      "name": "モラ"
-    },
-    {
-      "_id": 112124,
-      "id": "precision_drive_shaft",
-      "name": "精巧な駆動軸",
-      "count": 0.112
-    },
-    {
-      "_id": 112123,
-      "id": "reinforced_drive_shaft",
-      "name": "強固な駆動軸",
-      "count": 0.4482
-    },
-    {
-      "_id": 112122,
-      "id": "broken_drive_shaft",
-      "name": "破損した駆動軸",
-      "count": 1.6808
-    }
-  ],
+  "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "ファデュイ",
   "filename_icon": "UI_MonsterIcon_Fatuimecha_CoreA_MoveB_AttackA_Fire",
   "description": "地上戦に海軍の理念を応用した自律装置。いわゆる、「陸地を巡航する武装艦艇」である。\\nクローラー式の移動機構を搭載した、拠点攻撃に用いられることの多い陸巡艇。優れた荷重性能とオフロード性能を持ち、厚い装甲と武装を積載した状態で、ぬかるみや雪解けなどの悪路を簡単に通過できる。近接戦用の旋回ブレードを搭載した陸巡艇が目標の防衛線に近づくと、多くの敵は火力をそこに集中させる。その間に、他の兵士が火力で優勢を目指せるというわけだ。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

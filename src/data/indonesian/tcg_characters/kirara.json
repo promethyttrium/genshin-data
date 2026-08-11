@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Sword",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 5164,
@@ -29,8 +31,10 @@
     {
       "id": "boxcutter",
       "name": "Boxcutter",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -50,7 +54,9 @@
       "id": "meowteor_kick",
       "name": "Meow-teor Kick",
       "desc": "Menciptakan <span style=\"color:#FFFFFFFF\">Urgent Neko Parcel</span> dan 2 lapis <span style=\"color:#FFFFFFFF\">Shield of Safe Transport</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "secret_art_surprise_dispatch",
       "name": "Secret Art: Surprise Dispatch",
-      "desc": "Mengakibatkan ? poin ? dan menciptakan <span style=\"color:#FFFFFFFF\">Cat Grass Cardamom</span> di area lawan.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 4 poin <span style=\"color:#7EC236FF\">Dendro DMG</span> dan menciptakan <span style=\"color:#FFFFFFFF\">Cat Grass Cardamom</span> di area lawan.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1107,

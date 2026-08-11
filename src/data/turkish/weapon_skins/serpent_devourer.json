@@ -1,0 +1,21 @@
+{
+  "_id": 310001,
+  "id": "serpent_devourer",
+  "name": "Yılan Yutan",
+  "description": "Ley Hatlarının derinliklerinden ortaya çıkan yanılsamalı ve ihtişamlı bir kılıç. Kuşanan kişinin Element Türüne göre görüntüsü değişir. Efsanelere göre kadim bir ülkedeki altın bir günahkar tarafından kullanılan bu kılıç, bir zamanlar \"Logseims\" adını taşırmış.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Kılıç"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "Işıltılı Dönüşüm: Aşkınlık",
+    "priority": 1
+  },
+  "item_id": 341101,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphVinces_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphVinces"
+}

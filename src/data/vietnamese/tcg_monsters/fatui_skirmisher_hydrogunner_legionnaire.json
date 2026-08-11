@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 3,
+    "element": "Nguyên Tố Thủy",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null
+      "Fatui"
     ]
   },
   "skills": [
     {
       "id": "skilled_charge",
       "name": "Xung Đột Chiến Thuật",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -36,8 +40,10 @@
     {
       "id": "curative_bullet",
       "name": "Đạn Trị Liệu",
-      "desc": "Gây ? điểm ?, trị liệu 1 điểm cho 2 nhân vật dự bị của phe ta.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#80C0FFFF\">Sát Thương Nguyên Tố Thủy</span>, trị liệu 1 điểm cho 2 nhân vật dự bị của phe ta.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -50,8 +56,10 @@
     {
       "id": "elemental_buff_hydro",
       "name": "Buff Nguyên Tố: Thủy",
-      "desc": "Gây ? điểm ?, nhân vật này nhận <span style=\"color:#FFFFFFFF\">Vũ Trang Nguyên Tố - Thủy</span>.",
-      "skillTag": [],
+      "desc": "Gây 3 điểm <span style=\"color:#80C0FFFF\">Sát Thương Nguyên Tố Thủy</span>, nhân vật này nhận <span style=\"color:#FFFFFFFF\">Vũ Trang Nguyên Tố - Thủy</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -71,7 +79,9 @@
       "id": "combat_resupply",
       "name": "Tiếp Tế",
       "desc": "(Bị động) Khi bắt đầu chiến đấu, nhân vật này nhận 2 điểm Năng Lượng.",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Bị Động"
+      ],
       "points": []
     }
   ]

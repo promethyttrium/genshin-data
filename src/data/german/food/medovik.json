@@ -1,0 +1,54 @@
+{
+  "_id": 3704,
+  "id": "medovik",
+  "name": "Medovik",
+  "description": "Ein Kuchen aus Honig. Der mit Honig versetzte Teig wird in dünne Schichten ausgerollt und gebacken. Dann wird Schicht für Schicht eine Creme aus Schmand aufgetragen und die einzelnen Schichten gestapelt. Zum Schluss werden Krümel darüber gestreut und mit Honigsirup übergossen. Für ein perfektes Ergebnis darf bei keinem Schritt geschludert werden.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 110017,
+      "id": "honey",
+      "name": "Honig",
+      "amount": 4
+    },
+    {
+      "_id": 110001,
+      "id": "flour",
+      "name": "Mehl",
+      "amount": 4
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Vogelei",
+      "amount": 3
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Schmand",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Gerichte zur LP-Wiederherstellung",
+  "results": {
+    "suspicious": {
+      "_id": 132007,
+      "name": "Misslungener Medovik",
+      "description": "Ein Kuchen aus Honig. Die eigentlich typische Süße des Kuchens ist im lodernden Ofenfeuer in verbrannte Bitterkeit umgeschlagen. Die Schmandhaube ist zwar pflichtbewusst säuerlich, doch ohne die Süße als Gegenpart wirkt sie vollkommen verloren ...",
+      "effect": "#Stellt der gewählten Figur sofort 26 % LP und innerhalb der nächsten 30 s alle 5 s 450 LP wieder her."
+    },
+    "normal": {
+      "_id": 132008,
+      "name": "Medovik",
+      "description": "Ein Kuchen aus Honig. Der mit Honig versetzte Teig wird in dünne Schichten ausgerollt und gebacken. Dann wird Schicht für Schicht eine Creme aus Schmand aufgetragen und die einzelnen Schichten gestapelt. Zum Schluss werden Krümel darüber gestreut und mit Honigsirup übergossen. Für ein perfektes Ergebnis darf bei keinem Schritt geschludert werden.",
+      "effect": "#Stellt der gewählten Figur sofort 28 % LP und innerhalb der nächsten 30 s alle 5 s 620 LP wieder her."
+    },
+    "delicious": {
+      "_id": 132009,
+      "name": "Leckerer Medovik",
+      "description": "Ein Kuchen aus Honig. Bernsteinfarbene Honigschichten und cremeweiße Sahne wechseln sich Schicht für Schicht ab und schmiegen sich eng aneinander wie eine Chronik, in der jede Seite eine ebenso fesselnde wie einnehmende Geschichte erzählt.",
+      "effect": "#Stellt der gewählten Figur sofort 30 % LP und innerhalb der nächsten 30 s alle 5 s 790 LP wieder her."
+    }
+  }
+}

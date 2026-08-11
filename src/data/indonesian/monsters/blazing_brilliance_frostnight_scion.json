@@ -13,7 +13,6 @@
   "categoryText": "Makhluk Elemental",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Fire",
   "description": "Makhluk elemental dengan tubuh yang indah dan anggun, memiliki ketertarikan yang kuat terhadap unsur elemental. Setelah sekian lama terekspos terhadap Pyro berkonsentrasi tinggi, akhirnya berubah menjadi wujud saat ini.\\nSalah satu manifestasi wujud yang paling ganas. Bahkan di perbatasan yang dingin, tubuhnya masih dibungkus oleh api yang tak terpadamkan.\\nDalam nyanyian doa yang tersisa di ujung utara, mereka adalah kehidupan yang lahir dengan berkah Bulan Embun, melambangkan sumber murni dan cahaya asli. Mungkin karena itulah mereka tak tahan dengan warna putihnya ternoda oleh tujuh warna dari cahaya langit, dan mulai menolak semua makhluk yang terlalu dekat dengan mereka.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

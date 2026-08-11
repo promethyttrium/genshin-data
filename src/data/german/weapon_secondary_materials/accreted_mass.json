@@ -1,0 +1,24 @@
+{
+  "_id": 112153,
+  "id": "accreted_mass",
+  "name": "Abgelagerte Masse",
+  "description": "Ablagerungen, die bereits seit Langem an den inneren Organen oder Knochen haften. Nach ihrer Entnahme gelten sie als Symbol der Stärke und werden von den Nachkommen der Gruppe sorgfältig aufbewahrt.",
+  "source": [
+    "Beute von Volkodlak-Raufbolden ab Stufe 40",
+    "Mit Sternenstaub kaufen",
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112152,
+        "id": "accreted_fragment",
+        "name": "Abgelagertes Fragment",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

@@ -13,7 +13,6 @@
   "categoryText": "Elementare Lebensformen",
   "filename_icon": "UI_MonsterIcon_Effigy_Grass",
   "description": "Ein hoch entwickeltes Dendro-Elementarwesen mit dem Decknamen „Zayin“.\\nNach Verständnis der Gelehrten besitzen Hypostasen die Weisheit des „Lernens“ und sind so in der Lage, „Mimikry“ zum Angreifen zu verwenden. Doch die Fähigkeit, Informationen zu sammeln und umzuwandeln, kann auch bewirken, dass sie durch diese Informationen verdorben werden. Das eigentliche Ziel dieses Prozesses des Lernens und Umwandelns wird dabei vielleicht verzerrt und geht vollkommen verloren – auch wenn dies bis heute ein Rätsel in der wissenschaftlichen Welt bleibt.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

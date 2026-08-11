@@ -13,7 +13,6 @@
   "categoryText": "Vực Sâu",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_01",
   "description": "Sinh mệnh kỳ lạ chủ yếu xuất hiện trong Elynas.\\nCác đặc trưng sinh vật cơ bản của Nguyên Thể Khe Nứt đã vượt ra ngoài phạm vi hiểu biết: Không thuộc về loài động vật, thực vật, nấm hoặc chủng loại nguyên tố nào. Các học giả Sumeru cũng vì vậy mà đã không ngừng tranh luận về việc rốt cuộc nó là gì. Mãi cho đến khi nó bị cấm dùng làm đề tài nghiên cứu, bởi vì theo hệ tri thức của con người hiện nay mà nói, vấn đề này cũng giống như \"định nghĩa và bản chất của ngôn ngữ\", không thể nào rút ra được kết luận thiết thực và có ý nghĩa.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Slime_Water_03",
   "description": "大自然に散布する水元素から生まれた魔物。\\n強い力と大きい体形を持つ水スライム。水の泡を吹き出して敵を禁錮する事ができる。元素エネルギーが充実した場所では、とんでもないサイズに成長できると言われる。奔狼領では、小山みたいな巨大水スライムの目撃情報があったようだ。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

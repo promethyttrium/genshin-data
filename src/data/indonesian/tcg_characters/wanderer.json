@@ -9,6 +9,8 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 3,
+    "element": "Anemo",
+    "weapon": "Catalyst",
     "faction": [],
     "source": "Didapatkan setelah mengundang Wanderer ke Cat's Tail dan menang dalam Pertandingan Persahabatan melawannya"
   },
@@ -16,8 +18,10 @@
     {
       "id": "yuuban_meigen",
       "name": "Yuuban Meigen",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#80FFD7FF\">Anemo DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -36,8 +40,10 @@
     {
       "id": "hanega_song_of_the_wind",
       "name": "Hanega: Song of the Wind",
-      "desc": "Mengakibatkan ? poin ?. Karakter ini memperoleh status <span style=\"color:#FFFFFFFF\">Windfavored</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#80FFD7FF\">Anemo DMG</span>. Karakter ini memperoleh status <span style=\"color:#FFFFFFFF\">Windfavored</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -50,8 +56,10 @@
     {
       "id": "kyougen_five_ceremonial_plays",
       "name": "Kyougen: Five Ceremonial Plays",
-      "desc": "Mengakibatkan ? poin ?.<br/>Jika Karakter memiliki status <span style=\"color:#FFFFFFFF\">Windfavored</span>, maka akan menghapus status tersebut dan mengakibatkan DMG +1 tambahan.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 7 poin <span style=\"color:#80FFD7FF\">Anemo DMG</span>.<br/>Jika Karakter memiliki status <span style=\"color:#FFFFFFFF\">Windfavored</span>, maka akan menghapus status tersebut dan mengakibatkan DMG +1 tambahan.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1105,

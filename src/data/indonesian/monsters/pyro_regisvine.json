@@ -38,7 +38,7 @@
       "_id": 113011,
       "id": "everflame_seed",
       "name": "Everflame Seed",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -133,7 +133,6 @@
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Regisvine_Fire",
   "description": "Tanaman merambat raksasa yang telah menyerap api kuno yang mengamuk di Ley Line.\\nTerlihat gelisah, seolah dipenuhi dengan amukan yang tak ada habisnya.\\nPenyair, penyanyi, dan bahkan para akademisi percaya bahwa elemen juga mengandung emosi dan harapan. Jika ini benar, maka orang hanya bisa bertanya-tanya emosi apa yang menyebabkan Pyro Regisvine terbakar selamanya, seperti ingin bebas dari kekangan dunia...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

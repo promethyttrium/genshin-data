@@ -13,7 +13,6 @@
   "categoryText": "自律機關",
   "filename_icon": "UI_MonsterIcon_Samurai_Ningyo",
   "description": "自律的人形機關劍士。\\n似乎沒有說話的能力與意願，只願意用劍溝通。\\n據說在試作時，集成了某個劍道流派初代宗主的記憶，卻又因為不明的原因而失控，最終被廢棄了。\\n根據歌人的描述，劍鬼會徘徊在因緣斷絕的地方，而守護它的兇惡之面似乎取自那個時代有名的鬼人。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 2,
   "stats": {

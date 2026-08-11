@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "戦士の鉄笛",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "従戦士の木笛",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "その他人間勢力",
   "filename_icon": "UI_MonsterIcon_Human_Female_Sword_Flamingo",
   "description": "崖の上から来た勇士であり、険しい山々を巡回する部族の守護者。\\n誇り高き剣士が豪快に剣を振るう様は、翼竜が翼を広げる様にも似ている。その刃に切り裂かれた傷口からは鮮血が舞い散る羽のようにほとばしるだろう。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

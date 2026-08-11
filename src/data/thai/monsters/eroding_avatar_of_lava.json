@@ -25,19 +25,19 @@
       "_id": 112112,
       "id": "ignited_seeing_eye",
       "name": "Ignited Seeing Eye",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112111,
       "id": "ignited_seed_of_life",
       "name": "Ignited Seed of Life",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112110,
       "id": "ignited_stone",
       "name": "Ignited Stone",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "สัตว์อสูรลึกลับ",
   "filename_icon": "UI_MonsterIcon_Lava_Solid",
   "description": "มอนสเตอร์ประหลาดที่ต้องดูดซับความร้อนอย่างต่อเนื่อง เพื่อให้ยังคงเคลื่อนไหวต่อไปได้\\nอารยธรรมโบราณใช้ลวดลายสีทองในการออกแบบเพื่อขับเคลื่อนการไหลของโฟลจิสตัน ทำให้สิ่งก่อสร้างขนาดมหึมา และเมืองอันงดงามสามารถดำเนินไปได้ภายใต้ภูมิปัญญาอันเกิดจากลวดลายสีทอง ว่ากันว่านอกจากจักรกลที่มีโครงสร้างตายตัวแล้ว แท้จริงแล้วมอนสเตอร์ที่ชื่อว่า Avatar of Lava เป็นสิ่งมีชีวิตที่ไม่สมบูรณ์ซึ่งถูกสร้างขึ้นด้วยวิธีนี้เช่นกัน แต่หลังจากเปลวไฟของภูเขาศักดิ์สิทธิ์ดับลง พวกมันส่วนใหญ่ก็สูญเสียเป้าหมาย และทิศทางของตนไป",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

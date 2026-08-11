@@ -1,7 +1,7 @@
 {
   "_id": 22030201,
   "id": "abyss_lector_fathomless_flames",
-  "monsterId": 22030202,
+  "monsterId": 84203022,
   "name": "深淵詠者·淵火",
   "specialNames": [
     "深淵詠者·亞伯托拿",
@@ -22,9 +22,8 @@
   "categoryText": "深淵",
   "filename_icon": "UI_MonsterIcon_Invoker_Deacon_Fire",
   "description": "驅使深淵之火，追尋著章典之意義的魔物。隸屬於「深淵教團」。\\n地上之人對它們的稱呼其實和本意略有偏差。「詠者」也有「讀經士」之意。誦讀恩典之章，便會擁有強大的力量。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

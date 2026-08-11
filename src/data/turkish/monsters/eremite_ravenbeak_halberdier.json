@@ -31,22 +31,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "İşlemeli Kırmızı İpek",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Soluk Kırmızı Saten",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Eremite_Male_Standard_Pole",
   "description": "Altın çölün kumlarından doğmuş, pek düzenli olmayan paralı asker grubunun bir üyesi. Ödeme iyi olduğu sürece kim için olursa olsun çalışır.\\nBu savaşçılar Kargaburnu Baltalı Mızraklar ile çarpışır. Çöl tanrısına hizmet eden münzevilerin bu mızrakları rütbelerini temsilen taşıdıkları söylenir. Silahın gerçek ismi uzun zaman önce çölün topraklarına karışıp kayboldu.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

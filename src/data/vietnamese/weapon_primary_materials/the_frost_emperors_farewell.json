@@ -1,0 +1,29 @@
+{
+  "_id": 114096,
+  "id": "the_frost_emperors_farewell",
+  "name": "Từ Biệt Của Hoàng Đế Băng Giá",
+  "description": "Thứ đã xuất hiện trên bàn vào đêm trước của cuộc chiến, chẳng rõ từ lúc nào và bằng cách nào.<br/>Ngài biết đó là thứ do chính tay người bạn lâu ngày không gặp làm ra.<br/>Trời đất vẫn như vậy, nhưng đến lúc này ngài mới bừng tỉnh. Đây chính là khởi đầu của mọi tai ương, là trái đắng của mọi dục vọng, là điềm báo cho mọi sự hủy diệt.",
+  "source": [
+    "Số lượng có thể ghép - chiếm chỗ: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114095,
+        "id": "the_frost_emperors_lament",
+        "name": "Bi Thương Của Hoàng Đế Băng Giá",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Bí Cảnh Luyện Võ: Vết Sẹo Vọng Tưởng",
+  "days": [
+    "Thứ 4",
+    "Thứ 7",
+    "Chủ Nhật"
+  ]
+}

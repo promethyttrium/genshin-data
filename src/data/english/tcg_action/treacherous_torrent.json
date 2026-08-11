@@ -1,0 +1,32 @@
+{
+  "_id": 222081,
+  "id": "treacherous_torrent",
+  "shareId": 613,
+  "name": "Treacherous Torrent",
+  "title": "Hydro Hypostasis: Treacherous Torrent",
+  "desc": "Beneath the stealthily swelling waters, a catastrophic wave silently builds its strength...",
+  "in_play_description": "After your <span style=\"color:#FFFFFFFF\">Hydro Hypostasis</span> or <span style=\"color:#FFFFFFFF\">Water Droplet</span> deals DMG, heal the most damaged Monster on your side for 1 HP. (3 times per Round)",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Hydro",
+    "card_type": "Equipment Card",
+    "energy": [
+      {
+        "_id": 1102,
+        "id": "hydro",
+        "type": "Hydro",
+        "count": 1
+      }
+    ],
+    "source": "Reward for accepting the Tavern Challenge against the Hydro Hypostasis at The Cat's Tail and achieving all corresponding challenge objectives in a Friendly Fracas",
+    "tags": [
+      "Talent"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Fast Action</span>: Equip this to your <span style=\"color:#FFFFFFFF\">Hydro Hypostasis</span>.<br/>After your <span style=\"color:#FFFFFFFF\">Hydro Hypostasis</span> or <span style=\"color:#FFFFFFFF\">Water Droplet</span> deals DMG, heal the most damaged Monster on your side for 1 HP. (3 times per Round)<br/>(You must have Hydro Hypostasis in your deck to add this card to your deck.)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "_id": 25135001,
+  "id": "glaciomancer",
+  "monsterId": 25135004,
+  "name": "Pháp Sư Ngưng Băng",
+  "specialNames": [
+    "Pháp Sư Ngưng Băng"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Ma Thú Đột Biến",
+  "filename_icon": "UI_MonsterIcon_Human_Female_Staff_Snegurochka",
+  "description": "Snegovik sinh ra từ trong băng tuyết, sinh ra vì tình yêu.\\nNhững cá thể nữ trong Snegovik được gọi là Snegurochka, phần lớn trong số họ từ khi sinh ra đã là những pháp sư có khả năng tự do vận dụng sức mạnh băng tuyết. Tương truyền, khi Snegovik được tạo ra đã mang khiếm khuyết trong linh hồn, cần phải yêu con người để bản thân đạt đến sự hoàn mỹ.\\nNhưng sau khi đạt được sự hoàn mỹ, liệu Snegovik còn cần đến tình yêu nữa hay không? Có lẽ câu trả lời là không.\\nĐây cũng là lý do mà rất nhiều câu chuyện tình yêu giữa Snegovik và con người cuối cùng đều kết thúc bằng bi kịch.",
+  "bgm": 1,
+  "budget": 5,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 4.57189,
+      "attack": 58.575787,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humains",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_01",
   "description": "Un membre du groupe hétéroclite de bandits dont on peut trouver des traces un peu partout sur le continent, même dans ses recoins les plus perdus.\\nLes Commis sont en bas de l'échelle hiérarchique des Pilleurs de trésors et les préposés aux basses besognes au sein de l'organisation. Ils sont aussi souvent moqués pour leur physique, mais leur force et leur agilité n'est plus à prouver lorsque l'ennemi attaque.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

@@ -22,7 +22,6 @@
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_Darkwraith_Strong_Wind",
   "description": "Sarayda saygınlığa sahip bir muhafız. Ulusun hükümdarlarının düşmanlarına \"Gerçeği Arayan\" adında bir kılıç tekniğiyle diz çöktürüyor.\\nAlacakaranlık Kılıcı bir zamanlar bu muhafızlardan biriymiş. Bu ulusun şanı yok oldu ve bir daha geri gelmeyecek.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

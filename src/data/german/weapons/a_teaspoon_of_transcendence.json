@@ -10,7 +10,7 @@
   },
   "domain": "Sphäre der Kriegskunst: Mondopfer",
   "passive": "Verwandlung der weißen Herrscherin",
-  "bonus": "Erhöht den ANG um <span>28 %/35 %/42 %/49 %/56 %</span>.<br/>Der Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktion Stellar-Supraleiter verursachten Schaden des Trägers 5 s lang um <span>16 %/20 %/24 %/28 %/32 %</span>. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s.",
+  "bonus": "Erhöht den ANG um <span>28 %/35 %/42 %/49 %/56 %</span>.<br/>Der Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktionen Stellar-Supraleiter und Stellar-Verwirbelung verursachten Schaden des Trägers 5 s lang um <span>16 %/20 %/24 %/28 %/32 %</span>. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s.",
   "specialProp": "KSCH",
   "stats": {
     "primary": "Basis-ANG",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Verwandlung der weißen Herrscherin",
-    "template": "Erhöht den ANG um <span style=\"color:#99FFFFFF\">{0}</span>.<br/>Der Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktion Stellar-Supraleiter verursachten Schaden des Trägers 5 s lang um <span style=\"color:#99FFFFFF\">{1}</span>. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s.",
+    "template": "Erhöht den ANG um <span style=\"color:#99FFFFFF\">{0}</span>.<br/>Der Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktionen Stellar-Supraleiter und Stellar-Verwirbelung verursachten Schaden des Trägers 5 s lang um <span style=\"color:#99FFFFFF\">{1}</span>. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s.",
     "params": [
       [
         "28%",
@@ -307,23 +306,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "Erhöht den ANG um <span>28 %</span>.<br/>Der Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktion Stellar-Supraleiter verursachten Schaden des Trägers 5 s lang um <span>16 %</span>. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s."
+      "desc": "Erhöht den ANG um <span>28 %</span>.<br/>Der Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktionen Stellar-Supraleiter und Stellar-Verwirbelung verursachten Schaden des Trägers 5 s lang um <span>16 %</span>. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s."
     },
     {
       "refinement": 2,
-      "desc": "Erhöht den ANG um <span>35 %</span>.<br/>Der Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktion Stellar-Supraleiter verursachten Schaden des Trägers 5 s lang um <span>20 %</span>. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s."
+      "desc": "Erhöht den ANG um <span>35 %</span>.<br/>Der Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktionen Stellar-Supraleiter und Stellar-Verwirbelung verursachten Schaden des Trägers 5 s lang um <span>20 %</span>. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s."
     },
     {
       "refinement": 3,
-      "desc": "Erhöht den ANG um <span>42 %</span>.<br/>Der Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktion Stellar-Supraleiter verursachten Schaden des Trägers 5 s lang um <span>24 %</span>. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s."
+      "desc": "Erhöht den ANG um <span>42 %</span>.<br/>Der Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktionen Stellar-Supraleiter und Stellar-Verwirbelung verursachten Schaden des Trägers 5 s lang um <span>24 %</span>. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s."
     },
     {
       "refinement": 4,
-      "desc": "Erhöht den ANG um <span>49 %</span>.<br/>Der Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktion Stellar-Supraleiter verursachten Schaden des Trägers 5 s lang um <span>28 %</span>. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s."
+      "desc": "Erhöht den ANG um <span>49 %</span>.<br/>Der Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktionen Stellar-Supraleiter und Stellar-Verwirbelung verursachten Schaden des Trägers 5 s lang um <span>28 %</span>. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s."
     },
     {
       "refinement": 5,
-      "desc": "Erhöht den ANG um <span>56 %</span>.<br/>Der Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktion Stellar-Supraleiter verursachten Schaden des Trägers 5 s lang um <span>32 %</span>. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s."
+      "desc": "Erhöht den ANG um <span>56 %</span>.<br/>Der Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktionen Stellar-Supraleiter und Stellar-Verwirbelung verursachten Schaden des Trägers 5 s lang um <span>32 %</span>. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s."
     }
   ]
 }

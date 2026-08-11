@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Lôi",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null,
-      null
+      "Ma Vật",
+      "Thánh Hóa Thú"
     ],
     "talent_card": {
       "_id": 5696,
@@ -28,8 +30,10 @@
     {
       "id": "scorpion_strike",
       "name": "Móng Vuốt Kẹp Chặt",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -48,8 +52,10 @@
     {
       "id": "stinging_spine",
       "name": "Gai Đuôi Đâm Chích",
-      "desc": "Gây ? điểm ?.<br/>Sinh ra 1 thẻ <span style=\"color:#FFFFFFFF\">Khối Năng Lượng Nhai Xương</span>, ngẫu nhiên đưa vào trong số 2 thẻ bài trên cùng của kho bài phe ta.",
-      "skillTag": [],
+      "desc": "Gây 3 điểm <span style=\"color:#FFACFFFF\">Sát Thương Nguyên Tố Lôi</span>.<br/>Sinh ra 1 thẻ <span style=\"color:#FFFFFFFF\">Khối Năng Lượng Nhai Xương</span>, ngẫu nhiên đưa vào trong số 2 thẻ bài trên cùng của kho bài phe ta.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -62,8 +68,10 @@
     {
       "id": "thunderbore_blast",
       "name": "Gai Sét Tán Xạ",
-      "desc": "Gây ? điểm ?, <span style=\"color:#FFFFFFFF\">Vứt Bỏ</span> tối đa 3 thẻ <span style=\"color:#FFFFFFFF\">Khối Năng Lượng Nhai Xương</span> trên tay, sinh ra <span style=\"color:#FFFFFFFF\">Cạm Bẫy Gai Sét</span> trên sân đối phương.",
-      "skillTag": [],
+      "desc": "Gây 3 điểm <span style=\"color:#FFACFFFF\">Sát Thương Nguyên Tố Lôi</span>, <span style=\"color:#FFFFFFFF\">Vứt Bỏ</span> tối đa 3 thẻ <span style=\"color:#FFFFFFFF\">Khối Năng Lượng Nhai Xương</span> trên tay, sinh ra <span style=\"color:#FFFFFFFF\">Cạm Bẫy Gai Sét</span> trên sân đối phương.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -83,7 +91,9 @@
       "id": "immortal_remnants_electro",
       "name": "Di Cốt Bất Diệt - Lôi",
       "desc": "(Bị động) Khi kết thúc hiệp, sinh ra 2 thẻ <span style=\"color:#FFFFFFFF\">Khối Năng Lượng Nhai Xương</span>, ngẫu nhiên đưa vào trong số 10 thẻ bài trên cùng của kho bài phe ta.",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Bị Động"
+      ],
       "points": []
     }
   ]

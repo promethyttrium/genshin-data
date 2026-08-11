@@ -1,0 +1,42 @@
+{
+  "_id": 2701,
+  "id": "stroganina",
+  "name": "Peixe Cacheado",
+  "description": "Fatias de peixe longas, parecendo fitas. Corte com uma lâmina afiada em um ângulo pela superfície de um peixe congelado inteiro, removendo tiras finas que se enrolam. Geralmente servido com sal grosso, esse é o prato frio comum em Snezhnaya.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 100084,
+      "id": "fish",
+      "name": "Peixe",
+      "amount": 3
+    },
+    {
+      "_id": 100075,
+      "id": "salt",
+      "name": "Sal",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Pratos de ATQ",
+  "results": {
+    "suspicious": {
+      "_id": 108991,
+      "name": "Peixe Cacheado Estranho",
+      "description": "Tiras de peixe fatiadas. As partes mais grossas estão tão congeladas que elas podem até quebrar um dente, enquanto as partes mais finas já derreteram e viraram papa... Pelo menos, nas temperaturas congelantes de Snezhnaya, você provavelmente não vai precisar se preocupar com uma dor de barriga.",
+      "effect": "Aumenta o ATQ de todos os membros da equipe em 66 por 300s. Durante o modo multijogador, este efeito é aplicado apenas em si mesmo."
+    },
+    "normal": {
+      "_id": 108992,
+      "name": "Peixe Cacheado",
+      "description": "Fatias de peixe longas, parecendo fitas. Corte com uma lâmina afiada em um ângulo pela superfície de um peixe congelado inteiro, removendo tiras finas que se enrolam. Geralmente servido com sal grosso, esse é o prato frio comum em Snezhnaya.",
+      "effect": "Aumenta o ATQ de todos os membros da equipe em 81 por 300s. Durante o modo multijogador, este efeito é aplicado apenas em si mesmo."
+    },
+    "delicious": {
+      "_id": 108993,
+      "name": "Peixe Cacheado Delicioso",
+      "description": "Fatias fininhas de peixe. Tiras finas como papel são dispostas no prato como um pequeno arranjo de pétalas esculpidas no gelo. Coloque um pedacinho na boca e a doçura crocante e pura atinge a ponta de sua língua com o frescor da neve derretendo.",
+      "effect": "Aumenta o ATQ de todos os membros da equipe em 95 por 300s. Durante o modo multijogador, este efeito é aplicado apenas em si mesmo."
+    }
+  }
+}

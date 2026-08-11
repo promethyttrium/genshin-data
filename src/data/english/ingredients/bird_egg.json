@@ -185,6 +185,21 @@
       "name": "Midsommar Torte"
     },
     {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Snowrealm Okroshkas"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
+    },
+    {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "Snowball Blooms Atop Snowfields"
+    },
+    {
       "_id": 3902,
       "id": "delights_of_wondrous_wanderings",
       "name": "Delights of Wondrous Wanderings"
@@ -237,6 +252,5 @@
   ],
   "source": [
     "Found in the wild"
-  ],
-  "rarity": 0
+  ]
 }

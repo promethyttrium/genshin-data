@@ -9,8 +9,10 @@
     "hp": 8,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Altre armi",
     "faction": [
-      null
+      "Mostro"
     ],
     "talent_card": {
       "_id": 8276,
@@ -27,8 +29,10 @@
     {
       "id": "crushing_tail_attack",
       "name": "Attacco Coda polverizzante",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -47,8 +51,10 @@
     {
       "id": "flying_fruit",
       "name": "Frutto volante",
-      "desc": "Infligge ? ? e pesca 1 carta cibo.",
-      "skillTag": [],
+      "desc": "Infligge 2 <span style=\"color:#7EC236FF\">DAN da Dendro</span> e pesca 1 carta cibo.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -61,8 +67,10 @@
     {
       "id": "flamegranate_conflagration",
       "name": "Conflagrazione vampagranica",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 5 <span style=\"color:#FF9999FF\">DAN da Pyro</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -82,7 +90,9 @@
       "id": "gluttonous_rex",
       "name": "Ghiottosaurus Rex",
       "desc": "Non si <span style=\"color:#FFFFFFFF\">sazia</span>.<br/><span style=\"color:#FFFFFFFF\">Dopo aver giocato una carta cibo</span>: associa casualmente 1 accumulo di <span style=\"color:#FFFFFFFF\">Forte e con lo stomaco pieno</span> o <span style=\"color:#FFFFFFFF\">Robusto e con lo stomaco pieno</span>, od ottiene 1 PS max aggiuntivo (due volte per turno).",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

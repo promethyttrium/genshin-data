@@ -13,7 +13,6 @@
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Magbeast_Pergesa",
   "description": "Die uralte Kraft des Mondes hat seine illusorischen Flügel durchdrungen, und nun vollführt dieses schmetterlingsähnliche Ungeheuer seinen unbeschwerten Tanz im Mondlicht.\\nDen Regeln der Evolution zufolge sollte dieses Monster, nachdem die wilde, urzeitliche Kraft vom himmlischen Herrscher gezähmt wurde, nicht in der Lage sein, seine Form zu bewahren; es sollte kleiner werden, schwächer. Doch der Segen des Mondes hat es ihm ermöglicht, durch diese Welt zu gleiten, seine Blütezeit bewahrend, ein Symbol für eine alte Welt, einst erhellt vom Licht des alten Mondes.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

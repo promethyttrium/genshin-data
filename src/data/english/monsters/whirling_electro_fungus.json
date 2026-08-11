@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Fungus_Trois_Epsilon_Electric",
   "description": "A spore organism of some intelligence. It possesses extreme adaptability.\\nResearch has shown that this sort of fungal beast's internal electric current will change periodically. If further developed, perhaps this study may give rise to a wide range of uses...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

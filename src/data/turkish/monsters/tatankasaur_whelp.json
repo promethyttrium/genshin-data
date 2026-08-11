@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Bisonsaurus_Small",
   "description": "Vücut hakimiyetini henüz sağlayamamış, dolayısıyla sakar hareketlere sahip genç bir Tatankazor.\\nİkinci boynuz seti gelişim halindedir ve sırtı ile burnu, yolu kapatan kayaları ezecek güçte değildir. Büyüdüğünde bereketli ovalarda özgürce dolaşabilecek.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

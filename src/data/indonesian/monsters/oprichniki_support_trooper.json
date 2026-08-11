@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan",
   "description": "Prajurit yang tergabung dalam Oprichniki Fatui, dilengkapi dengan perisai berat, bertanggung jawab untuk memberikan perlindungan bagi rekan-rekannya di garis depan pertempuran.\\nBanyak orang memahami bahwa dalam perang berkepanjangan antara Snezhnaya dan Bencana Hitam, yang akan menang adalah pihak dengan \"dukungan\" yang lebih kuat dan kegigihan yang lebih lama. Dan \"dukungan\" Oprichniki adalah perisai bagi prajurit pendukung. Selama perisai itu tidak runtuh, harapan untuk menang selalu masih ada.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

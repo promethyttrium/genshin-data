@@ -1,0 +1,48 @@
+{
+  "_id": 2702,
+  "id": "glupov_rye_bread",
+  "name": "Pain de seigle de Glupov",
+  "description": "Un pain dense et nourrissant. La pâte doit subir une longue fermentation à froid, et une fois cuite, elle forme une croûte dure et une mie ferme et fine. Ce pain se conserve longtemps, ce qui en fait une ration courante pour les marchands ambulants, les soldats et les chasseurs de Snezhnaya.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 110016,
+      "id": "rye_flour",
+      "name": "Farine de seigle",
+      "amount": 2
+    },
+    {
+      "_id": 100075,
+      "id": "salt",
+      "name": "Sel",
+      "amount": 1
+    },
+    {
+      "_id": 110006,
+      "id": "sugar",
+      "name": "Sucre",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Récupération",
+  "results": {
+    "suspicious": {
+      "_id": 132004,
+      "name": "Pain de seigle de Glupov (suspect)",
+      "description": "Un pain dense et nourrissant. Il est si dense qu'on se demande si la fermentation n'a pas été tout simplement omise. Même trempé dans du bouillon, il ne parvient pas à s'attendrir le moins du monde... Serait-ce un outil d'entraînement destiné à forger la détermination d'un guerrier ?",
+      "effect": "Restaure immédiatement 18 % des PV max, puis 300 PV toutes les 5 s pendant 30 s au personnage sélectionné."
+    },
+    "normal": {
+      "_id": 132005,
+      "name": "Pain de seigle de Glupov",
+      "description": "Un pain dense et nourrissant. La pâte doit subir une longue fermentation à froid, et une fois cuite, elle forme une croûte dure et une mie ferme et fine. Ce pain se conserve longtemps, ce qui en fait une ration courante pour les marchands ambulants, les soldats et les chasseurs de Snezhnaya.",
+      "effect": "Restaure immédiatement 20 % des PV max, puis 390 PV toutes les 5 s pendant 30 s au personnage sélectionné."
+    },
+    "delicious": {
+      "_id": 132006,
+      "name": "Pain de seigle de Glupov (délicieux)",
+      "description": "Un pain dense et nourrissant. Une seule bouchée révèle une acidité douce et constante, suivie de l'arôme rustique et céréalier unique du seigle. Sa richesse intense rend chaque mastication incroyablement satisfaisante, culminant en une douce saveur persistante au fond de la gorge, telle une étincelle de vie enfouie sous la terre gelée.",
+      "effect": "Restaure immédiatement 22 % des PV max, puis 470 PV toutes les 5 s pendant 30 s au personnage sélectionné."
+    }
+  }
+}

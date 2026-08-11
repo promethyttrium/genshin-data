@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Còi Sắt Chiến Binh",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Còi Gỗ Hộ Vệ",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Flamingo",
   "description": "Chiến sĩ mạnh mẽ đến từ núi cao, với lòng dũng cảm được công nhận và được trao cho vương miện Saurian.\\nCho dù là ở Natlan, nhưng những thành viên từ Hội Hoa Vũ luôn có cách sử dụng lửa và sự bùng cháy vô cùng khác biệt với phần còn lại. Với những chiến sĩ bộ tộc sử dụng chùy nặng, va chạm và bùng nổ chính là lửa của họ, cũng là sự hăng hái và nhiệt huyết. Với họ, mọi cuộc chiến đều phải kết thúc nhanh chóng, còn họ sẽ luôn là bên giành chiến thắng.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

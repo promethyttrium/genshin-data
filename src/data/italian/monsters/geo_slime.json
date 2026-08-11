@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Forme di vita elementali",
   "filename_icon": "UI_MonsterIcon_Slime_Rock_02",
   "description": "Piccoli mostri creati dall'accumulo di Geo all'interno della terra.\\nIn generale, la crosta terrestre è piena di energia di Geo. I Melmosi di Geo che si formano in questo modo danno l'impressione di creature \"con i piedi per terra\".",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

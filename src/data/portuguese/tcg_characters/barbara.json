@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Carta de Personagem",
     "energy": 3,
+    "element": "Hydro",
+    "weapon": "Catalisador",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3209,
@@ -29,8 +31,10 @@
     {
       "id": "whisper_of_water",
       "name": "Suspiro da Água",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#80C0FFFF\">Dano Hydro</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "let_the_show_begin",
       "name": "Que Comece o Espetáculo ♪",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, invoca <span style=\"color:#FFFFFFFF\">Círculo Melódico</span>.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#80C0FFFF\">Dano Hydro</span>, invoca <span style=\"color:#FFFFFFFF\">Círculo Melódico</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -64,7 +70,9 @@
       "id": "shining_miracle",
       "name": "Milagre Brilhante ♪",
       "desc": "Cura todos os seus personagens em 4 pontos.",
-      "skillTag": [],
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1102,

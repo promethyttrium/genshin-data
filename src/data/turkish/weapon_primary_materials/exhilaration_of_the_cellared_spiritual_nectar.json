@@ -1,0 +1,29 @@
+{
+  "_id": 114091,
+  "id": "exhilaration_of_the_cellared_spiritual_nectar",
+  "name": "Coşturan Yıllanmış Ruhani Nektar",
+  "description": "Efsaneye göre uzun zaman önce, donmuş bir göle sayısız fıçı dolusu kaliteli şarap dökülmüştür.<br/>Kimileri bu şarabın savaş erzakı olduğunu ve bir aksilik sonucu yok edilmeleri gerektiğini söylerdi. Kimileri de bir Domovoy Grandükünün, Su İfritlerinin lideri ile girdiği iddiayı kaybettiğini anlatırdı.<br/>Ancak sönmek bilmeyen buz mavisi cehennem alevleri göle yayıldığında ve aşağıda kalan düşmanlar boğucu dalgaların pençesinde kıvrandığında asıl gerçeği kavrayabilmişlerdi:<br/>Dünyanın işleyişini çok iyi bilenlerin ellerinde su bile alev alabilir ve en tatlı nektar bile zehirden daha ölümcül olabilirdi.",
+  "source": [
+    "Yer Tutucu - Üretilebilir Miktar: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114090,
+        "id": "intoxication_of_the_cellared_spiritual_nectar",
+        "name": "Mest Eden Yıllanmış Ruhani Nektar",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Döküm Zindanı: Lanetli Saplantının Yara İzleri",
+  "days": [
+    "Salı",
+    "Cuma",
+    "Pazar"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "_id": 25133601,
+  "id": "fanged_zealot",
+  "monsterId": 25133602,
+  "name": "Reißzahn-Berserker",
+  "specialNames": [
+    "Reißzahn-Berserker"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystische Bestien",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Mammoth",
+  "description": "Ein Volkodlak, der durch das Erbe einer mächtigeren Blutlinie außerordentlich stark geworden ist.\\nUnter den vielen verschiedenen Volkodlaks gehören jene, die Elefanten oder Mammuts ähneln, zu den edelsten Blutlinien. Einst waren viele aus ihrem Klan herausragende Anführer. Manche dienten sogar als treue Gefolgsleute des Volkodlak-Königs.\\nAllerdings gilt: Je stärker eine Fee und je länger sie lebt, desto schwieriger ist es für sie, eine Gruppe zu bilden. Im Vergleich zu anderen Volkodlaks sind ihre Art im heutigen Snezhnaya weitaus seltener anzutreffen.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 231.00076,
+      "attack": 112.64574,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

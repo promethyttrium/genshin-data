@@ -1,7 +1,7 @@
 {
   "_id": 20080701,
   "id": "gilded_sunshard_frostnight_scion",
-  "monsterId": 20080702,
+  "monsterId": 84008072,
   "name": "Éclat solaire : Héritier de givrenuit",
   "specialNames": [
     "Éclat solaire"
@@ -13,9 +13,8 @@
   "categoryText": "Entités élémentaires",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Rock",
   "description": "Une élégante entité élémentaire qui possède une très grande affinité élémentaire. De longues années l'ont exposée à de fortes concentrations d'élément Anémo, ce qui lui a donné sa forme actuelle.\\nLeur corps est presque entièrement recouvert d'une accumulation d'élément Géo, tandis que leurs bois robustes brillent de l'éclat de l'ambre poli.\\nD'après les prières encore récitées dans le grand nord, elles naissent grâce à la bénédiction de la Lune de givre. Ce sont des témoignages vivants de sa pureté et de sa lumière originelles. Peut-être est-ce pour cela qu'elles ne supportent pas que leur pureté soit entachée par les sept couleurs de la lumière céleste. Ou bien encore qu'elles rejettent toute forme de vie qui les approcherait d'un peu trop près.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

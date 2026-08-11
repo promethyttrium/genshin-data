@@ -1,0 +1,68 @@
+{
+  "_id": 4718,
+  "id": "domain_of_forgery_severed_steel_iv",
+  "name": "Подземелье воли: Разрушение стали IV",
+  "entranceId": 2106,
+  "entranceName": "Шрамы одержимости",
+  "description": "Когда-то здесь скрывались мятежники, снедаемые несбыточными надеждами и мечтавшие вернуть прошлое. Их мечты сгорели в кровавом пламени, оставив после себя лишь мёртвую белизну.\nОдолейте засевших здесь злодеев, тогда в награду вам достанутся материалы для усиления снаряжения.",
+  "regionId": 8,
+  "regionName": "Снежная",
+  "recommendedLevel": 80,
+  "unlockRank": 40,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "Анемо",
+    "Крио"
+  ],
+  "daysOfWeek": [
+    "Среда",
+    "Суббота",
+    "Воскресенье"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Опыт приключений",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Мора",
+      "count": "2200"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Опыт дружбы",
+      "count": "20"
+    },
+    {
+      "_id": 114096,
+      "id": "the_frost_emperors_farewell",
+      "name": "Прощание снежного императора"
+    },
+    {
+      "_id": 114095,
+      "id": "the_frost_emperors_lament",
+      "name": "Скорбь снежного императора"
+    },
+    {
+      "_id": 114094,
+      "id": "the_frost_emperors_ceremony",
+      "name": "Церемония снежного императора"
+    },
+    {
+      "_id": 114093,
+      "id": "the_frost_emperors_revival",
+      "name": "Возрождение снежного императора"
+    }
+  ],
+  "monsterList": []
+}

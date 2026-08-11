@@ -44,7 +44,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Fire_01",
   "description": "A Fatui secret agent.\\nThe duty of a Fatui agent is to settle debts — but not only those of a monetary or goods-in-kind nature.\\nThey also ensure dues are paid when it comes to the principle of \"an eye for an eye.\" If there is one thing the Fatui are not known for, it is leniency, and whoever dares to oppose them will invoke the full force of their wrath.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

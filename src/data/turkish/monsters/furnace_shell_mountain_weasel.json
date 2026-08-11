@@ -13,8 +13,6 @@
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_VolcanoWeasel",
   "description": "Dünyadan izole kalıp Filojiston açısından zengin ortama uyum sağlamış kadim bir dağ gelinciği türü.\\nBu tür, Filojiston açısından zengin canlıları tüketerek gücünü çekirdeğinde biriktirir. Kutsal Dağ'ın harabelerinde uzun süre varlığını sürdürdükten sonra, Filojistona olan yakınlığı, harabelerin içindeki Gizli Kaynak Mekanizmalarından etkilenmesine neden olmuş ve aralarında benzersiz bir ortak yaşam ilişkisi doğurmuştur.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Электро",
+    "weapon": "Древковое",
     "faction": [
-      null
+      "Нод-Край"
     ],
     "source": "Награда за приглашение Инеффы в «Кошкин хвост» и победу в Дружеской дуэли"
   },
@@ -18,8 +20,10 @@
     {
       "id": "cyclonic_duster",
       "name": "Вихревой пылеочиститель",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -39,7 +43,9 @@
       "id": "cleaning_mode_carrier_frequency",
       "name": "Режим очистки: Несущая частота",
       "desc": "Вы получаете <span style=\"color:#FFFFFFFF\">Щит</span>, 2 ед., призывает помощника: <span style=\"color:#FFFFFFFF\">Биргитта</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -52,8 +58,10 @@
     {
       "id": "supreme_instruction_cyclonic_exterminator",
       "name": "Высшая команда: Циклонический истребитель",
-      "desc": "Наносит ?, ? ед. и призывает помощника: <span style=\"color:#FFFFFFFF\">Биргитта</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FFACFFFF\">Электро урон</span>, 4 ед. и призывает помощника: <span style=\"color:#FFFFFFFF\">Биргитта</span>.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -73,7 +81,9 @@
       "id": "moonsign_benediction_assemblage_hub",
       "name": "Дар лунного знамения: Узел сборки",
       "desc": "(Пассивный навык) В этой игре, когда сторона противника подвергается реакции <span style=\"color:#FFFFFFFF\">Заряжен</span>, она будет заменена на реакцию <span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Лунный заряд</span></span>.<br/><span style=\"color:#FFFFFFFF\">Пока этот персонаж на поле, и карте действия противника присваивается статус Электрошок</span>: дополнительно присваивается статус <span style=\"color:#FFFFFFFF\">Гармонизация невозможна</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Пассивный навык"
+      ],
       "points": []
     }
   ]

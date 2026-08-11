@@ -1,0 +1,39 @@
+{
+  "_id": 213171,
+  "id": "adamahs_redemption",
+  "shareId": 611,
+  "name": "Rédemption de l'adamah",
+  "title": "Durin - Rédemption de l'adamah",
+  "desc": "« Un tournant décisif du destin. »",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Lorsque le personnage affecté a utilisé Principe de pureté : Comme la lumière qui fluctue : </span>DGT de vos 4 prochaines instances de DGT +1.<br/><span style=\"color:#FFFFFFFF\">Lorsque le personnage affecté a utilisé Principe de ténèbre : Comme les étoiles qui brûlent : </span>DGT infligés par votre <span style=\"color:#FFFFFFFF\">Durin</span> et votre <span style=\"color:#FFFFFFFF\">déni de ténèbre</span> +2.",
+  "attributes": {
+    "cost": 4,
+    "cost_type": "Pyro",
+    "card_type": "Carte d'équipement",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "Pyro",
+        "count": 4
+      },
+      {
+        "_id": 1110,
+        "id": "energy",
+        "type": "Charge",
+        "count": 2
+      }
+    ],
+    "source": "Récompense pour avoir invité Durin à une partie dans La Queue de Chat et terminé les objectifs de défi correspondants",
+    "tags": [
+      "Aptitude",
+      "Action de combat"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Action de combat</span> : Lorsque votre personnage actif est <span style=\"color:#FFFFFFFF\">Durin</span>, équipe cette carte.<br/>Une fois Durin équipé de cette carte, utilise immédiatement <span style=\"color:#FFD780FF\">Principe de pureté : Comme la lumière qui fluctue</span> ou <span style=\"color:#FFD780FF\">Principe de ténèbre : Comme les étoiles qui brûlent</span> une fois selon son déchaînement élémentaire.<br/><span style=\"color:#FFFFFFFF\">Lorsque le personnage affecté a utilisé Principe de pureté : Comme la lumière qui fluctue : </span>DGT de vos 4 prochaines instances de DGT +1.<br/><span style=\"color:#FFFFFFFF\">Lorsque le personnage affecté a utilisé Principe de ténèbre : Comme les étoiles qui brûlent : </span>DGT infligés par votre <span style=\"color:#FFFFFFFF\">Durin</span> et votre <span style=\"color:#FFFFFFFF\">déni de ténèbre</span> +2.<br/>(Votre deck doit contenir Durin pour pouvoir y ajouter cette carte)"
+    }
+  ]
+}

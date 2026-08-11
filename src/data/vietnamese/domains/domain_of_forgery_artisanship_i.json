@@ -19,6 +19,11 @@
     "Băng",
     "Phong"
   ],
+  "daysOfWeek": [
+    "Thứ 3",
+    "Thứ 6",
+    "Chủ Nhật"
+  ],
   "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
   "domainText": "Weapon Ascension Materials",
   "rewardPreview": [

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Elemental Lifeforms",
   "filename_icon": "UI_MonsterIcon_Slime_Grass_03",
   "description": "A slime that has undergone ecological changes due to abundant Dendro in its environment.\\nThere are some who see it as something similar to the Whopperflowers, hiding its true form to trick and hunt its prey, and some regard it as a slime that has been parasitized by some special plant. From this point of view, might some cultures also see these slimes as having some special medicinal value?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

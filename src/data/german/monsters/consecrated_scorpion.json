@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Scorpion_Sacred_Electric",
   "description": "Ein aufgrund des Zehrens an heiligen Körpern entstellter und veränderter Gliederfüßer.\\nFür die Evolution von Lebewesen gibt es Regeln und die für Bestien heiliger Knochen geltende Regel ist es, genug Glück zu haben, vor anderen von der eigenen Art die Überreste vor langer Zeit verstorbener gewaltiger Lebewesen zu entdecken. In vielerlei Hinsicht sind die Gemeinsamkeiten zwischen Menschen und Tieren größer, als die Menschen zuzugeben bereit sind.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

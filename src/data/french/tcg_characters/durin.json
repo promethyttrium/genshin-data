@@ -1,0 +1,90 @@
+{
+  "_id": 1317,
+  "id": "durin",
+  "shareId": 608,
+  "name": "Durin",
+  "title": "Durin · Feu inextinguible",
+  "desc": "Né de la plume, il se hisse parmi les étoiles.",
+  "attributes": {
+    "hp": 10,
+    "card_type": "Carte de personnage",
+    "energy": 2,
+    "element": "Pyro",
+    "weapon": "Épée à une main",
+    "faction": [
+      "Mondstadt"
+    ],
+    "source": "Récompense pour avoir invité Durin à une partie amicale dans La Queue de Chat et remporté la victoire"
+  },
+  "skills": [
+    {
+      "id": "radiant_wingslash",
+      "name": "Coupe d'aile radieuse",
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Pyro",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Élément neutre",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "binary_form_convergence_and_division",
+      "name": "Forme binaire : Convergence et division",
+      "desc": "Inflige 3 pts de <span style=\"color:#FF9999FF\">DGT Pyro</span> et accorde une <span style=\"color:#FFFFFFFF\">transmutation essentielle</span> au personnage affecté.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Pyro",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "principle_of_purity_as_the_light_shifts",
+      "name": "Principe de pureté : Comme la lumière qui fluctue",
+      "desc": "Inflige 1 pt de <span style=\"color:#FF9999FF\">DGT Pyro</span> et crée une <span style=\"color:#FFFFFFFF\">confirmation de pureté</span>.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Pyro",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Charge",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "light_manifest_of_the_divine_calculus",
+      "name": "Manifestation lumineuse du calcul divin",
+      "desc": "(Passif) <span style=\"color:#FFFFFFFF\">Lorsque le personnage affecté a utilisé une attaque normale : </span>Convertit son déchaînement élémentaire en <span style=\"color:#FFFFFFFF\">Principe de ténèbre : Comme les étoiles qui brûlent</span>.<br/><span style=\"color:#FFFFFFFF\">Lorsque le personnage affecté a utilisé une compétence élémentaire : </span>Convertit son déchaînement élémentaire en <span style=\"color:#FFFFFFFF\">Principe de pureté : Comme la lumière qui fluctue</span>.",
+      "skillTag": [
+        "Capacité passive"
+      ],
+      "points": []
+    }
+  ]
+}

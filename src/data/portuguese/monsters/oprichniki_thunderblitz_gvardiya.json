@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Female_Slim_MachineGun",
   "description": "Oficiais de elite dos Oprichniki dos Fatui que são especialistas em usar duas armas em combate.\\nDiferente dos Escaramuçadores, os oficiais dos Oprichniki são quase sempre da Academia Militar Real de Snezhnaya, sejam de origem de nobres ou de talentos comuns. Afinal, ninguém é genuinamente diferente do outro sobre a generosidade da Tsaritsa, e de seus ideais de amor. Tradicionalmente, somente os feéricos podiam se tornar Druzhinas, mas agora esse papel glorioso foi dado aos oficiais dos Oprichniki, é uma divisão mais igual para a construção de um novo mundo.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

@@ -13,7 +13,6 @@
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_Magbeast_Squid",
   "description": "長久浸浴古老月之力而演化出獨特生態的魔獸。\\n傳說在災厄席捲大地的時代，在絕海之中生息的種群亦不能倖免，那些未能接納月光的都如泡沫消散，無論是翻騰起滔天巨浪的大海蛇抑或是妄圖吞噬一切的獨眼怪獸。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

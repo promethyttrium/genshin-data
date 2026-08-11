@@ -23,6 +23,11 @@
       "name": "Pão de Centeio Recheado"
     },
     {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "Pão de Centeio Glupov"
+    },
+    {
       "_id": 3607,
       "id": "lakkaberry_pie",
       "name": "Torta de Lakkabaga"
@@ -35,6 +40,5 @@
   ],
   "source": [
     "Processado"
-  ],
-  "rarity": 0
+  ]
 }

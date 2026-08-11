@@ -8,14 +8,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hili_None_01",
   "description": "Gli abitanti primitivi che vagano per le terre selvagge di Teyvat.\\nDegli Hilichurl resistenti che si sono radunati in una regione dove le energie di Geo abbondano. I loro scudi impenetrabili sono ricoperti da strati di formazioni rocciose.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

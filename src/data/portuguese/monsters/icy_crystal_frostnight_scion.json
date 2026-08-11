@@ -13,7 +13,6 @@
   "categoryText": "Vida Elemental",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Ice",
   "description": "Uma forma de vida elemental que possui afinidade elemental enorme. Os longos anos de exposição ao Cryo resultaram na sua forma atual.\\nDizem que essa entidade é a forma mais próxima de um Herdeiro da Geada Noturna. Ela usa névoas geladas e cristais para criar muralhas, mas talvez só faça isso para separar a luz primordial perfeita do mundo que está sob a lua.\\nNas orações do norte longínquo, dizem que nasceram das bênçãos da Lua Gelada, simbolizando a fonte pura do brilho primordial. Talvez seja por isso que acham o manchar de sua pureza com as sete cores da luz divina insuportável, rejeitando toda vida que se aproxima.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

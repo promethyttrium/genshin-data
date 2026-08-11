@@ -1,14 +1,15 @@
 {
   "_id": 10000007,
   "id": "traveler_pyro",
-  "name": "Nhà Lữ Hành (undefined)",
+  "name": "Nhà Lữ Hành (Hỏa)",
   "description": "Nhà Lữ Hành lưu lạc đến đây từ thế giới khác, bị Thần cướp mất người thân, từ đó bước vào con đường đi tìm 7 vị Thần.",
   "weapon_type": {
     "id": "sword",
     "name": "Kiếm Đơn"
   },
   "element": {
-    "id": ""
+    "id": "pyro",
+    "name": "Hỏa"
   },
   "gender": {
     "id": "malefemale",
@@ -23,8 +24,8 @@
   },
   "rarity": 5,
   "birthday": [
-    0,
-    0
+    null,
+    null
   ],
   "constellation": "Cung Lữ Khách",
   "domain": "Phế Tích Rực Lửa",

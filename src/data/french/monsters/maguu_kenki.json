@@ -13,7 +13,6 @@
   "categoryText": "Automates",
   "filename_icon": "UI_MonsterIcon_Samurai_Ningyo",
   "description": "Un humanoïde discipliné maniant l'épée.\\nIl semble n'avoir ni les moyens, ni l'envie de parler, se contentant de communiquer avec ses épées.\\nOn raconte qu'on intégra lors de la conception de cette machine les souvenirs d'un ancien maître fondateur d'une certaine école de maniement de l'épée. Pour des raisons inconnues, l'automate perdit le contrôle, et finit par être abandonné.\\nOn prétend également que l'esprit de l'épée erre là où son destin s'est arrêté, tandis que le visage féroce qui la garde vient de quelque fameux et puissant démon ancien.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 2,
   "stats": {

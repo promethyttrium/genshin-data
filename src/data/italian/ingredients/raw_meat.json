@@ -103,6 +103,11 @@
       "name": "Carne rosolata con bacche"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borsc"
+    },
+    {
       "_id": 3004,
       "id": "sticky_honey_roast",
       "name": "Arrosto al miele"
@@ -248,6 +253,16 @@
       "name": "Costine di maiale cotte al vapore su legno di betulla"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Saslyk alla snezhnayana"
+    },
+    {
       "_id": 4001,
       "id": "moon_pie",
       "name": "Tortino lunare"
@@ -307,6 +322,5 @@
   ],
   "source": [
     "Ottenibile dagli animali"
-  ],
-  "rarity": 0
+  ]
 }

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Catalyst",
     "faction": [
-      null
+      "Natlan"
     ],
     "talent_card": {
       "_id": 8981,
@@ -29,8 +31,10 @@
     {
       "id": "rite_of_dispelling_winds",
       "name": "Rite of Dispelling Winds",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#80FFD7FF\">Anemo DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,22 +53,26 @@
     {
       "id": "airborne_disease_prevention",
       "name": "Airborne Disease Prevention",
-      "desc": "Deals ? ?, enters <span style=\"color:#FFFFFFFF\">Nightsoul's Blessing</span>, gains 2 <span style=\"color:#FFFFFFFF\">Nightsoul points</span>, and applies <span style=\"color:#FFFFFFFF\">Cacucu</span> to self. (This skill cannot be used after the character enters <span style=\"color:#FFFFFFFF\">Nightsoul's Blessing</span>.)<br/>(Characters with <span style=\"color:#FFFFFFFF\">Cacucu</span> attached can use the Technique: <span style=\"color:#FFFFFFFF\">Supporting Fire</span>)",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#80FFD7FF\">Anemo DMG</span>, enters <span style=\"color:#FFFFFFFF\">Nightsoul's Blessing</span>, gains 2 <span style=\"color:#FFFFFFFF\">Nightsoul points</span>, and applies <span style=\"color:#FFFFFFFF\">Cacucu</span> to self. (This skill cannot be used after the character enters <span style=\"color:#FFFFFFFF\">Nightsoul's Blessing</span>.)<br/>(Characters with <span style=\"color:#FFFFFFFF\">Cacucu</span> attached can use the Technique: <span style=\"color:#FFFFFFFF\">Supporting Fire</span>)",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1105,
           "id": "anemo",
           "type": "Anemo",
-          "count": 2
+          "count": 3
         }
       ]
     },
     {
       "id": "compound_sedation_field",
       "name": "Compound Sedation Field",
-      "desc": "Deals ? ?, heals the character on your team who has taken the most DMG for 2 HP. If this Skill triggers <span style=\"color:#80FFD7FF\">Anemo-Related Reactions</span>, attach a <span style=\"color:#FFFFFFFF\">Sedation Mark</span> of the corresponding element to the opponent's active character.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#80FFD7FF\">Anemo DMG</span>, heals the character on your team who has taken the most DMG for 2 HP. If this Skill triggers <span style=\"color:#80FFD7FF\">Anemo-Related Reactions</span>, attach a <span style=\"color:#FFFFFFFF\">Sedation Mark</span> of the corresponding element to the opponent's active character.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1105,

@@ -1,0 +1,1253 @@
+{
+  "_id": 10000148,
+  "id": "alyosha",
+  "name": "Alyosha",
+  "title": "Limier au pas vif",
+  "description": "Un chasseur professionnel qui connaît mieux que quiconque les paysages enneigés de Snezhnaya. Derrière son tempérament calme, un idéal bien précis semble brûler avec ardeur.",
+  "weapon_type": {
+    "id": "polearm",
+    "name": "Arme d'hast"
+  },
+  "element": {
+    "id": "electro",
+    "name": "Électro"
+  },
+  "gender": {
+    "id": "male",
+    "name": "Homme"
+  },
+  "release": 1786395600,
+  "substat": "Recharge d'énergie",
+  "affiliation": "Snezhnaya",
+  "region": {
+    "id": "snezhnaya",
+    "name": "Snezhnaya"
+  },
+  "rarity": 4,
+  "birthday": [
+    9,
+    2
+  ],
+  "constellation": "Canis Borzoides",
+  "domain": "Donjon de la maîtrise : Ermitage",
+  "cv": {
+    "english": "Kevin Andrew Rivera",
+    "chinese": "王辅平",
+    "japanese": "佐藤元",
+    "korean": "Kim Hye-sung"
+  },
+  "skills": [
+    {
+      "_id": 11481,
+      "id": "skirmishing_spear",
+      "name": "Lance d'escarmouche",
+      "description": "<span style=\"color:#FFD780FF\">Attaque normale</span><br/>Enchaîne jusqu'à 4 coups de lance et applique une <b><span style=\"color:#FFD780FF\">marque de broussailleur</span></b> à l'ennemi touché par le dernier coup.<br/><br/><span style=\"color:#FFD780FF\">Attaque chargée</span><br/>Consomme de l'endurance pour foncer en avant en infligeant des DGT.<br/><br/><span style=\"color:#FFD780FF\">Attaque plongeante</span><br/>Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "DGT 1er coup",
+          "values": [
+            "47.8%",
+            "51.7%",
+            "55.6%",
+            "61.2%",
+            "65.1%",
+            "69.5%",
+            "75.6%",
+            "81.7%",
+            "87.8%",
+            "94.5%",
+            "101.2%",
+            "107.9%",
+            "114.5%",
+            "121.2%",
+            "127.9%"
+          ]
+        },
+        {
+          "label": "DGT 2e coup",
+          "values": [
+            "48.2%",
+            "52.1%",
+            "56%",
+            "61.6%",
+            "65.5%",
+            "70%",
+            "76.2%",
+            "82.3%",
+            "88.5%",
+            "95.2%",
+            "101.9%",
+            "108.6%",
+            "115.4%",
+            "122.1%",
+            "128.8%"
+          ]
+        },
+        {
+          "label": "DGT 3e coup",
+          "values": [
+            "34.2% + 31.8%",
+            "37% + 34.4%",
+            "39.8% + 37%",
+            "43.8% + 40.7%",
+            "46.6% + 43.3%",
+            "49.8% + 46.3%",
+            "54.1% + 50.3%",
+            "58.5% + 54.4%",
+            "62.9% + 58.5%",
+            "67.7% + 62.9%",
+            "72.4% + 67.3%",
+            "77.2% + 71.8%",
+            "82% + 76.2%",
+            "86.8% + 80.7%",
+            "91.5% + 85.1%"
+          ]
+        },
+        {
+          "label": "DGT 4e coup",
+          "values": [
+            "75.9%",
+            "82%",
+            "88.2%",
+            "97%",
+            "103.2%",
+            "110.3%",
+            "120%",
+            "129.7%",
+            "139.4%",
+            "149.9%",
+            "160.5%",
+            "171.1%",
+            "181.7%",
+            "192.3%",
+            "202.9%"
+          ]
+        },
+        {
+          "label": "DGT attaque chargée",
+          "values": [
+            "111%",
+            "120.1%",
+            "129.1%",
+            "142%",
+            "151%",
+            "161.4%",
+            "175.6%",
+            "189.8%",
+            "204%",
+            "219.5%",
+            "235%",
+            "250.5%",
+            "265.9%",
+            "281.4%",
+            "296.9%"
+          ]
+        },
+        {
+          "label": "Coût d'endurance attaque chargée",
+          "values": [
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts"
+          ]
+        },
+        {
+          "label": "DGT durant la chute",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "DGT chute basse/élevée",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11482,
+      "id": "thunderbolt_strike",
+      "name": "Embuscade de foudre",
+      "description": "Alyosha suit son instinct de broussailleur, différents effets se produisant selon la méthode de déclenchement, tout en appliquant une <b><span style=\"color:#FFD780FF\">marque de broussailleur</span></b> sur les ennemis touchés.<br/><br/><span style=\"color:#FFD780FF\">Appui simple</span><br/>Tire en avant pour infliger des <span style=\"color:#FFACFFFF\">DGT Électro de zone</span>.<br/><br/><span style=\"color:#FFD780FF\">Appui long</span><br/>Bascule en mode visée pour verrouiller les ennemis sur une certaine zone en avant, la RÉS à l'interruption d'Alyosha augmentant pendant la visée.<br/>À la fin de l'appui long, Alyosha inflige des <span style=\"color:#FFACFFFF\">DGT Électro</span> aux ennemis verrouillés.",
+      "info": "Le broussailleur téméraire avait un jour saisi le tranchant de sa lance, et ce n'est qu'après avoir survécu à une leçon payée dans le sang qu'il comprit les dures réalités de la survie dans les plaines gelées.",
+      "attributes": [
+        {
+          "label": "DGT appui simple",
+          "values": [
+            "286.7%",
+            "308.2%",
+            "329.7%",
+            "358.4%",
+            "379.9%",
+            "401.4%",
+            "430.1%",
+            "458.8%",
+            "487.4%",
+            "516.1%",
+            "544.8%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%"
+          ]
+        },
+        {
+          "label": "DGT appui long",
+          "values": [
+            "358.4%",
+            "385.3%",
+            "412.2%",
+            "448%",
+            "474.9%",
+            "501.8%",
+            "537.6%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%",
+            "716.8%",
+            "761.6%",
+            "806.4%",
+            "851.2%"
+          ]
+        },
+        {
+          "label": "Temps de recharge",
+          "values": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "label": "Durée de marque de broussailleur",
+          "values": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "label": "Augmentation d'ATQ de précision de broussailleur",
+          "values": [
+            "11.7%",
+            "12.7%",
+            "13.8%",
+            "14.8%",
+            "15.9%",
+            "17%",
+            "18%",
+            "19.1%",
+            "20.1%",
+            "21.2%",
+            "22.5%",
+            "23.7%",
+            "25%",
+            "26.3%",
+            "27.6%"
+          ]
+        },
+        {
+          "label": "Durée de précision de broussailleur",
+          "values": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11485,
+      "id": "hunters_advance",
+      "name": "Avancée du broussailleur",
+      "description": "Alyosha invoque <span style=\"color:#FFD780FF\">Tugarin</span>, son partenaire de confiance, pour combattre à ses côtés et transforme temporairement la zone en avant en <span style=\"color:#FFD780FF\">terrain de chasse de fulgurite</span>.<br/><br/><span style=\"color:#FFD780FF\">Terrain de chasse de fulgurite</span><br/>· Nargue de façon continue les ennemis proches, attirant leurs attaques.<br/>· Toutes les 2 s, inflige une instance de <span style=\"color:#FFACFFFF\">DGT Électro de zone</span> aux ennemis à l'intérieur.<br/><br/><span style=\"color:#FFD780FF\">Tugarin</span><br/>· Si des ennemis sont à proximité, Tugarin se rapproche rapidement de l'un d'eux toutes les 2 s afin de le mordre et d'infliger des <span style=\"color:#FFD780FF\">DGT Électro</span>.<br/>· Toucher un ennemi affecté par une <span style=\"color:#FFD780FF\">marque de broussailleur</span> active la <span style=\"color:#FFD780FF\">marque de broussailleur</span>.<br/>· Tugari attaque en priorité les ennemis affectés par une <span style=\"color:#FFD780FF\">marque de broussailleur</span>.",
+      "info": "Patientez. Continuez de patienter jusqu'à ce que l'impatience s'estompe. C'est alors que le pluvier à ventre roux traversera le bosquet de bouleaux et se présentera devant votre flèche.",
+      "attributes": [
+        {
+          "label": "DGT terrain de chasse de fulgurite",
+          "values": [
+            "75%",
+            "80.6%",
+            "86.2%",
+            "93.7%",
+            "99.3%",
+            "104.9%",
+            "112.4%",
+            "119.9%",
+            "127.4%",
+            "134.9%",
+            "142.4%",
+            "149.9%",
+            "159.3%",
+            "168.7%",
+            "178%"
+          ]
+        },
+        {
+          "label": "DGT Tugarin",
+          "values": [
+            "50.2%",
+            "54%",
+            "57.8%",
+            "62.8%",
+            "66.5%",
+            "70.3%",
+            "75.3%",
+            "80.4%",
+            "85.4%",
+            "90.4%",
+            "95.4%",
+            "100.4%",
+            "106.7%",
+            "113%",
+            "119.3%"
+          ]
+        },
+        {
+          "label": "Durée",
+          "values": [
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s",
+            "14 s"
+          ]
+        },
+        {
+          "label": "Temps de recharge",
+          "values": [
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s"
+          ]
+        },
+        {
+          "label": "Énergie élémentaire",
+          "values": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "awakened_by_the_baying_hounds",
+      "name": "Réveillé par les aboiements",
+      "description": "Lorsque <b><span style=\"color:#FFD780FF\">Tugarin</span></b> attaque, il restaure également les PV des personnages déployés de l'équipe à proximité d'une valeur équivalant à 120 % de l'ATQ d'Alyosha.",
+      "level": 1
+    },
+    {
+      "id": "suffer_the_winter_wheat_will",
+      "name": "Souffrir le blé d'hiver",
+      "description": "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires d'Alyosha de 0,35 % par tranche de 1 % de recharge d'énergie, les DGT pouvant être augmentés d'un maximum de 70 % de cette manière.",
+      "level": 4
+    },
+    {
+      "id": "into_the_fray",
+      "name": "Dans la mêlée",
+      "description": "Alyosha passe en <span style=\"color:#FFD780FF\">radiance « Astroconduction »</span> lorsqu'il est dans une <b><span style=\"color:#FFD780FF\">étendue polaris</span></b>.<br/><span style=\"color:#FFD780FF\">Radiance « Astroconduction »</span> : La <span style=\"color:#FFD780FF\">précision de broussailleur</span> obtenue en activant une <b><span style=\"color:#FFD780FF\">marque de broussailleur</span></b> augmente également les DGT de réaction d'Astroconduction du personnage sur le terrain de 20 %.",
+      "level": 0
+    },
+    {
+      "id": "treetop_watch",
+      "name": "Observation des cimes",
+      "description": "Affiche l'emplacement des <span style=\"color:#FFD780FF\">produits de Snezhnaya</span> sur la mini-carte.",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1481,
+      "id": "frostvale_thunderclap",
+      "name": "Tonnerre de vallée de givre",
+      "description": "Alyosha récupère 15 pts d'énergie élémentaire lorsqu'un personnage de l'équipe à proximité a déclenché une <span style=\"color:#FFACFFFF\">réaction liée à l'élément Électro</span> sur un ennemi, cet effet pouvant être déclenché une fois toutes les 18 s.",
+      "level": 1
+    },
+    {
+      "_id": 1482,
+      "id": "howl_from_afar",
+      "name": "Hurlement de loin",
+      "description": "La durée du déchaînement élémentaire <span style=\"color:#FFD780FF\">Avancée du broussailleur</span> augmente de 6 s.<br/>De plus, <b><span style=\"color:#FFD780FF\">Tugarin</span></b> applique une <b><span style=\"color:#FFD780FF\">marque de broussailleur</span></b> à une cible avant chacune de ses attaques, cet effet ne pouvant cependant pas activer les <span style=\"color:#FFD780FF\">marques de broussailleur</span>.",
+      "level": 2
+    },
+    {
+      "_id": 1483,
+      "id": "friendly_call",
+      "name": "Appel des congénères",
+      "description": "Niveau d'aptitude <span style=\"color:#FFD780FF\">Embuscade de foudre</span> +3.<br/>Niveau max : 15",
+      "level": 3
+    },
+    {
+      "_id": 1484,
+      "id": "harvest_the_spoils",
+      "name": "Butins de la chasse",
+      "description": "Lorsque <b><span style=\"color:#FFD780FF\">Tugarin</span></b> attaque, il restaure également les PV du personnage à proximité ayant le pourcentage de PV restant le plus bas d'une valeur équivalant à 60 % de l'ATQ d'Alyosha.",
+      "level": 4
+    },
+    {
+      "_id": 1485,
+      "id": "when_the_nightbird_falls_silent",
+      "name": "Quand les gazouillis se taisent",
+      "description": "Niveau d'aptitude <span style=\"color:#FFD780FF\">Avancée du broussailleur</span> +3.<br/>Niveau max : 15",
+      "level": 5
+    },
+    {
+      "_id": 1486,
+      "id": "standard_reclaimed",
+      "name": "Récupération d'étendard",
+      "description": "La <span style=\"color:#FFD780FF\">précision de broussailleur</span> obtenue en activant une <b><span style=\"color:#FFD780FF\">marque de broussailleur</span></b> peut maintenant se cumuler jusqu'à 2 cumuls. Avec 2 cumuls, la maîtrise élémentaire des personnages sur le terrain sous cet effet augmente de 100 pts.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Élever",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "PV de base",
+          "values": [
+            "-",
+            "1003"
+          ]
+        },
+        {
+          "label": "ATQ de base",
+          "values": [
+            "-",
+            "22"
+          ]
+        },
+        {
+          "label": "DÉF de base",
+          "values": [
+            "-",
+            "59"
+          ]
+        },
+        {
+          "label": "Recharge d'énergie",
+          "values": [
+            "-",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Élever",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "PV de base",
+          "values": [
+            "2577",
+            "3326"
+          ]
+        },
+        {
+          "label": "ATQ de base",
+          "values": [
+            "57",
+            "74"
+          ]
+        },
+        {
+          "label": "DÉF de base",
+          "values": [
+            "151",
+            "195"
+          ]
+        },
+        {
+          "label": "Recharge d'énergie",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Élever",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "PV de base",
+          "values": [
+            "4982",
+            "5514"
+          ]
+        },
+        {
+          "label": "ATQ de base",
+          "values": [
+            "111",
+            "122"
+          ]
+        },
+        {
+          "label": "DÉF de base",
+          "values": [
+            "293",
+            "324"
+          ]
+        },
+        {
+          "label": "Recharge d'énergie",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104141,
+        "id": "vajrada_amethyst_sliver",
+        "name": "Éclat d'améthyste vajrada",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Floc-d'herbe",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Graine chimérique",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Élever",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "PV de base",
+          "values": [
+            "6343",
+            "7052"
+          ]
+        },
+        {
+          "label": "ATQ de base",
+          "values": [
+            "141",
+            "157"
+          ]
+        },
+        {
+          "label": "DÉF de base",
+          "values": [
+            "373",
+            "414"
+          ]
+        },
+        {
+          "label": "Recharge d'énergie",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "Fragment d'améthyste vajrada",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Queue coupée du rôdeur céleste",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Floc-d'herbe",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Graine chimérique",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Élever",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "PV de base",
+          "values": [
+            "7881",
+            "8413"
+          ]
+        },
+        {
+          "label": "ATQ de base",
+          "values": [
+            "175",
+            "187"
+          ]
+        },
+        {
+          "label": "DÉF de base",
+          "values": [
+            "463",
+            "494"
+          ]
+        },
+        {
+          "label": "Recharge d'énergie",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "Fragment d'améthyste vajrada",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Queue coupée du rôdeur céleste",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Floc-d'herbe",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Noyau chimérique",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Élever",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "PV de base",
+          "values": [
+            "9241",
+            "9773"
+          ]
+        },
+        {
+          "label": "ATQ de base",
+          "values": [
+            "205",
+            "217"
+          ]
+        },
+        {
+          "label": "DÉF de base",
+          "values": [
+            "543",
+            "574"
+          ]
+        },
+        {
+          "label": "Recharge d'énergie",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "Morceau d'améthyste vajrada",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Queue coupée du rôdeur céleste",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Floc-d'herbe",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Noyau chimérique",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Élever",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "PV de base",
+          "values": [
+            "10602",
+            "11134"
+          ]
+        },
+        {
+          "label": "ATQ de base",
+          "values": [
+            "235",
+            "247"
+          ]
+        },
+        {
+          "label": "DÉF de base",
+          "values": [
+            "623",
+            "654"
+          ]
+        },
+        {
+          "label": "Recharge d'énergie",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "Morceau d'améthyste vajrada",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Queue coupée du rôdeur céleste",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Floc-d'herbe",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "Cœur chimérique",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Élever",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "PV de base",
+          "values": [
+            "11962",
+            "11962"
+          ]
+        },
+        {
+          "label": "ATQ de base",
+          "values": [
+            "265",
+            "265"
+          ]
+        },
+        {
+          "label": "DÉF de base",
+          "values": [
+            "703",
+            "703"
+          ]
+        },
+        {
+          "label": "Recharge d'énergie",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104144,
+        "id": "vajrada_amethyst_gemstone",
+        "name": "Pierre d'améthyste vajrada",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Queue coupée du rôdeur céleste",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Floc-d'herbe",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "Cœur chimérique",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104368,
+          "id": "teachings_of_fortitude",
+          "name": "Enseignement de la Persévérance",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Graine chimérique",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guide de la Persévérance",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Noyau chimérique",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guide de la Persévérance",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Noyau chimérique",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guide de la Persévérance",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Noyau chimérique",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guide de la Persévérance",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Noyau chimérique",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophie de la Persévérance",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Cœur chimérique",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Élixir de l'hérétique",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophie de la Persévérance",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Cœur chimérique",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Élixir de l'hérétique",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophie de la Persévérance",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Cœur chimérique",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Élixir de l'hérétique",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophie de la Persévérance",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Cœur chimérique",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Élixir de l'hérétique",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Couronne de la sagesse",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 214800,
+      "name": "Embusqueur sous le givre",
+      "description": "Tenue d'Alyosha. Tenue de chasse robuste avec une épaisse sous-couche et un chapeau à bordure en peluche, elle permet à Alyosha de rester longtemps dissimulé dans la neige jusqu'à ce qu'il attrape sa proie. Quant à la forme du chapeau, qui rappelle celle d'une tête de chiot, c'est tout simplement parce qu'il est mignon. Et Tugarin l'adore, en plus !",
+      "isDefault": true,
+      "characterName": "Alyosha",
+      "characterId": 10000148,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Alyosha_Circle"
+    }
+  ]
+}

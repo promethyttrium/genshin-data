@@ -9,8 +9,10 @@
     "hp": 30,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Nham",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null
+      "Ma Vật"
     ],
     "talent_card": {
       "_id": 9077,
@@ -27,8 +29,10 @@
     {
       "id": "supreme_strike",
       "name": "Chém Nhanh Tối Thượng",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -47,8 +51,10 @@
     {
       "id": "axe_and_aegis",
       "name": "Vung Rìu Quật Khiên",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 3 điểm <span style=\"color:#FFE699FF\">Sát Thương Nguyên Tố Nham</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -62,7 +68,9 @@
       "id": "stone_stance",
       "name": "Tư Thế Đá Cứng",
       "desc": "<span style=\"color:#FFFFFFFF\"><span style=\"color:#FFE699FF\">Gán ấn Nguyên Tố Nham</span></span> lên bản thân, chuẩn bị kỹ năng <span style=\"color:#FFFFFFFF\">Rìu Lớn Mãnh Kích</span>, sau đó chuẩn bị kỹ năng <span style=\"color:#FFFFFFFF\">Đòn Đánh Bậc Thầy</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -82,7 +90,9 @@
       "id": "attacking_momentum",
       "name": "Khí Thế Tấn Công",
       "desc": "(Bị động) Nếu trên sân phe địch tồn tại trạng thái <span style=\"color:#FFFFFFFF\">Giảm Sát Thương</span>, <span style=\"color:#FFFFFFFF\">Khiên</span>, hoặc tồn tại Hiệu Ứng Xuất Chiến <span style=\"color:#FFFFFFFF\">Giảm Sát Thương</span>, <span style=\"color:#FFFFFFFF\">Khiên</span>, thì sau khi nhân vật phe ta dùng kỹ năng, bản thân sẽ áp dụng 1 tầng <span style=\"color:#FFFFFFFF\">Uy Lực Đá Húc</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Bị Động"
+      ],
       "points": []
     }
   ]

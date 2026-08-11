@@ -13,7 +13,6 @@
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Magbeast_Pergesa",
   "description": "El antiguo poder de la luna se ha imbuido en sus alas ilusorias, y el monstruo con forma de mariposa baila ahora grácilmente bajo la luz de la luna.\\nLos principios de la evolución parecerían indicar que después de que la soberana celestial dominara el poder salvaje y primigenio, estos monstruos no deberían haber sido capaces de mantener su forma, haciéndose más pequeños y débiles. No obstante, la gracia de la luz lunar ha permitido que siga vagando por el mundo en todo su esplendor, lo que es una muestra de los restos de un viejo mundo que una vez fue iluminado por la luna antigua.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

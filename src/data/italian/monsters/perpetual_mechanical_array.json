@@ -13,7 +13,6 @@
   "categoryText": "Automi",
   "filename_icon": "UI_MonsterIcon_Apparatus_Perpetual",
   "description": "Una strana macchina aliena.\\nDicono che appartenesse a una nazione che è già stata distrutta. È composta da varie parti, e può adattarsi all'ambiente di combattimento e impiegare vari tipi d'attacco.\\nQuesta macchina, composta da forme cubiche, è in qualche modo molto simile alle Ipostasi elementali.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

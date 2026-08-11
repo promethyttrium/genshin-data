@@ -1,0 +1,39 @@
+{
+  "_id": 212032,
+  "id": "genesis_of_starsigns",
+  "shareId": 614,
+  "name": "天步真原",
+  "title": "莫娜·天步真原",
+  "desc": "「要是故事里的占卜师以后真的收了徒弟，应该也不会用这种莫名其妙的方式去考验她吧。嗯，大概不会。」",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">莫娜</span>「普通攻击」少花费1个<span style=\"color:#FFFFFFFF\">无色元素</span>，并且「普通攻击」后使我方下次蒸发反应造成的伤害+2。",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "水元素",
+    "card_type": "装备牌",
+    "energy": [
+      {
+        "_id": 1102,
+        "id": "hydro",
+        "type": "水元素",
+        "count": 1
+      },
+      {
+        "_id": 1109,
+        "id": "unaligned_element",
+        "type": "无色元素",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "天赋",
+      "战斗行动",
+      "魔导"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">战斗行动</span>：我方出战角色为<span style=\"color:#FFFFFFFF\">莫娜</span>时，装备此牌。<br/>莫娜装备此牌后，我方下次蒸发反应造成的伤害+2并立刻使用一次<span style=\"color:#FFD780FF\">因果点破</span>。<br/><span style=\"color:#FFFFFFFF\">莫娜</span>「普通攻击」少花费1个<span style=\"color:#FFFFFFFF\">无色元素</span>，并且「普通攻击」后使我方下次蒸发反应造成的伤害+2。<br/>（牌组中包含莫娜，才能加入牌组）"
+    }
+  ]
+}

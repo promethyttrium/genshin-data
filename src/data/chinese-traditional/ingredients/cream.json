@@ -68,6 +68,11 @@
       "name": "鮮奶油燉雞"
     },
     {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "冰醋栗冰淇淋"
+    },
+    {
       "_id": 4403,
       "id": "fontinalia_mousse",
       "name": "千靈慕斯"
@@ -85,6 +90,5 @@
   ],
   "source": [
     "烹飪加工獲得"
-  ],
-  "rarity": 0
+  ]
 }

@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "ファデュイ",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01",
   "description": "炎元素の銃を扱うファデュイの兵士。\\n先遣隊からもらった武器で元素を制御する。戦う時は積極的に元素反応を利用して戦う。\\n優れた武器と豊富な知識を持つ故、チーム戦では侮れない脅威になる。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

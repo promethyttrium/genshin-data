@@ -9,8 +9,10 @@
     "hp": 6,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Outras Armas",
     "faction": [
-      null
+      "Monstro"
     ],
     "talent_card": {
       "_id": 5588,
@@ -27,8 +29,10 @@
     {
       "id": "rippling_slash",
       "name": "Corte Ondulante",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -47,8 +51,10 @@
     {
       "id": "vortex_edge",
       "name": "Lâmina Vórtice",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, então realiza <span style=\"color:#FFFFFFFF\">Preparar Habilidade</span> para <span style=\"color:#FFFFFFFF\">Lâminas Ondulantes</span>.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#80C0FFFF\">Dano Hydro</span>, então realiza <span style=\"color:#FFFFFFFF\">Preparar Habilidade</span> para <span style=\"color:#FFFFFFFF\">Lâminas Ondulantes</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -61,8 +67,10 @@
     {
       "id": "torrential_shock",
       "name": "Choque Torrencial",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, gera <span style=\"color:#FFFFFFFF\">Maldição da Corrente</span> no campo adversário.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#80C0FFFF\">Dano Hydro</span>, gera <span style=\"color:#FFFFFFFF\">Maldição da Corrente</span> no campo adversário.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -82,7 +90,9 @@
       "id": "watery_rebirth",
       "name": "Ressurreição Aquosa",
       "desc": "(Passivo) Quando a batalha começa, esse personagem ganha <span style=\"color:#FFFFFFFF\">Ressurreição Aquosa</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Passiva"
+      ],
       "points": []
     }
   ]

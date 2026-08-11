@@ -1,0 +1,21 @@
+{
+  "_id": 330002,
+  "id": "shattered_moon_sublimation",
+  "name": "Luna Quebrada: Culminación",
+  "description": "Un espléndido miraje de lanza que reluce con el poder de la “muerte” y procede de las profundidades de las líneas ley. Puede cambiar según el tipo elemental de su portador. Dicen que el nombre de esta lanza era “Barnstokkr” cuando aún pertenecía al pecador trascendental de un antiguo reino.",
+  "rarity": 5,
+  "type": {
+    "id": "Polearm",
+    "name": "Lanza"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Ilusión resplandeciente: Trascendencia (culminación)",
+    "priority": 1
+  },
+  "item_id": 341302,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphSpinifer_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphSpinifer_Great"
+}

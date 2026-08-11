@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Samurai_Kairagi_02",
   "description": "Mereka adalah para samurai yang jatuh menjadi bandit.\\nMereka telah berlatih ilmu bela diri sejak kecil, tapi tidak pernah punya kesempatan untuk melayani publik dan jatuh ke jalan yang salah. Mata pedang mereka tidak dingin seperti besi baja, tapi panas membara dengan api kebencian. Sepertinya mereka menggunakan kertas jimat yang dibuat dari ilmu Kannagara yang telah hilang, untuk menyelimuti pedang mereka dengan api.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 6,
   "stats": {

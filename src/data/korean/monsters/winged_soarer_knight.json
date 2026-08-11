@@ -1,0 +1,40 @@
+{
+  "_id": 25130201,
+  "id": "winged_soarer_knight",
+  "monsterId": 25130302,
+  "name": "바람 요정 검무 기사",
+  "specialNames": [
+    "바람 요정 검무 기사"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "돌연변이 마수",
+  "filename_icon": "UI_MonsterIcon_Human_Girl_Vila_Blade",
+  "description": "두 날개로 공중을 누비는 바람 요정.\\n바람 요정 일족은 하얀 차르가 동토 통일에 나섰을 때부터 그를 섬겨 온 요정 씨족이다. 비행 시간은 짧지만, 뛰어난 기동력을 지닌 이들은 정찰과 장거리 기습에 능하다.\\n하얀 차르 시대에 창설된 친위대 「겨울군」의 주축 또한 바람 요정이었다",
+  "bgm": 1,
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.2,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 4.57189,
+      "attack": 40.552467,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

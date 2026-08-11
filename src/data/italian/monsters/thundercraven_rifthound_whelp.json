@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Abisso",
   "filename_icon": "UI_MonsterIcon_Hound_Kanis_Electric",
   "description": "Una bestia dal sangue mostruoso capace di erodere i confini del mondo. \"Oro\" ha classificato queste creature come \"Alfisol\".\\nIn tempi passati, quando discendevano enormi bestie mostruose, grandi sciami di questi segugi li precedevano per sciogliere i confini del mondo e spianare loro la strada.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

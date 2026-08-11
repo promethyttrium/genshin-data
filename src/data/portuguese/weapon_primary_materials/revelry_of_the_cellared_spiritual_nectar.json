@@ -1,0 +1,29 @@
+{
+  "_id": 114092,
+  "id": "revelry_of_the_cellared_spiritual_nectar",
+  "name": "Folia do Néctar Espiritual",
+  "description": "O Grande Duque dos Domovoy comandou as minas de cristal e o desenvolvimento das terras congeladas. Para ele, criar um oásis no meio do deserto polar era uma mera brincadeira, e importar centeio de melhor qualidade não era nada difícil.<br/>Até mesmo entre os muitos feéricos da nobreza que resistem em Snezhnaya até hoje, ninguém poderia rivalizar o esplendor do estado dele.<br/>Mas a chama da ambição queimou mais forte do que nunca, queimando toda a garganta dele, enquanto a ganância do feérico antigo inchava com os anos e não conhecia fim.",
+  "source": [
+    "Quantidade a ser fabricada: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114091,
+        "id": "exhilaration_of_the_cellared_spiritual_nectar",
+        "name": "Hilaridade do Néctar Espiritual",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domínio da Forja: Cicatrizes da Obsessão Maldita",
+  "days": [
+    "Terça-feira",
+    "Sexta-feira",
+    "Domingo"
+  ]
+}

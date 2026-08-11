@@ -36,7 +36,7 @@
       "_id": 113067,
       "id": "ensnaring_gaze",
       "name": "Olhar Emaranhador",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -171,7 +171,6 @@
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_TheAbyss_Dendrite",
   "description": "Criaturas do Abismo com formas similares a plantas que desceram de outro mundo distorcido, incomensurável e sombrio.\\nEssas monstruosidades deturpadas conseguem infiltrar profundamente as profundezas da terra, extraindo memórias para imitar e manipular. Por esse processo de distorção de memórias em formas mais abstrusas e sórdidas, elas se aproximam gradualmente do núcleo da Irminsul, ameaçando sua própria existência.\\nAlguns dizem que essas aberrações trabalham constantemente para corromper as muitas cores da luz, deixando apenas informações escuras como o piche em seu caminho. Tal hipótese parece ser confirmada pelos galhos que se estendem para fora, como se perfurassem o próprio vazio...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

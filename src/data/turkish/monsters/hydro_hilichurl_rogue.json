@@ -13,7 +13,6 @@
   "categoryText": "Dağ Yabanileri",
   "filename_icon": "UI_MonsterIcon_Hilistray_Water",
   "description": "Dağ Yabanisi gezginleri herhangi bir kabileye ait değillerdir. Kendi istekleriyle sürgündelermiş gibi vahşi doğada dolanırlar.\\nHatta bazen diğer dağ yabanilerine ya da dağ yabanisi kabilelerine yardım edip sonra kendi yollarına giderler. Sıradan dağ yabanilerine göre çok daha akıllı görünürler.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

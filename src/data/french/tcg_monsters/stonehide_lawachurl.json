@@ -9,9 +9,11 @@
     "hp": 8,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Géo",
+    "weapon": "Autre arme",
     "faction": [
-      null,
-      null
+      "Monstre",
+      "Brutocollinus"
     ],
     "talent_card": {
       "_id": 3239,
@@ -28,8 +30,10 @@
     {
       "id": "plama_lawa",
       "name": "Plama Lawa",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -48,8 +52,10 @@
     {
       "id": "movo_lawa",
       "name": "Movo Lawa",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts de ?.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -62,8 +68,10 @@
     {
       "id": "upa_shato",
       "name": "Upa Shato",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 5 pts de ?.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -83,7 +91,9 @@
       "id": "infused_stonehide",
       "name": "Peau-pierre infusée",
       "desc": "(Passif) Accorde une <span style=\"color:#FFFFFFFF\">peau-pierre</span> et une <span style=\"color:#FFFFFFFF\">force de pierre</span> au début du combat.",
-      "skillTag": [],
+      "skillTag": [
+        "Capacité passive"
+      ],
       "points": []
     }
   ]

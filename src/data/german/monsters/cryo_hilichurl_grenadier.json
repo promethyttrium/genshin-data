@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl-Stämme",
   "filename_icon": "UI_MonsterIcon_Hili_Ice_Range",
   "description": "Die naturverbundenen, umherziehenden Bewohner der Wildnis von Teyvat.\\nDie Hilichurle haben entdeckt, wie man mit Kryo-Schleimen Nahrung frisch hält. Was den Gebrauch von Schleimen angeht, sind die Hilichurle äußerst versiert, ob es explodierende Fässer mit Pyro- und Kryo-Schleimen sind oder Anemo-Schleime als Antrieb für Fahrzeuge ... Vielleicht bewältigen sie auf diese Weise ihr schweres Los im Leben.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

@@ -190,7 +190,7 @@
       "_id": 11092,
       "id": "aisa_utamakura_pilgrimage",
       "name": "Hành Trình Aisa Utamakura",
-      "description": "Dệt nên hồi ức của giấc mơ đẹp, bước vào trạng thái <span style=\"color:#FFD780FF\">Mộng Trôi</span> lơ lửng trên mặt đất, đồng thời gây cho kẻ địch xung quanh một lần <span style=\"color:#80FFD7FF\">Sát Thương Phạm Vi Nguyên Tố Phong</span>.<br/><br/><span style=\"color:#FFD780FF\">Mộng Trôi</span><br/>·Khi trong trạng thái Mộng Trôi, Yumemizuki Mizuki sẽ liên tục trôi về phía trước, đồng thời gây <span style=\"color:#80FFD7FF\">Sát Thương Phạm Vi Nguyên Tố Phong</span> cho kẻ địch gần đó theo chu kỳ.<br/>·Trong thời gian này, Yumemizuki Mizuki có thể điều khiển hướng trôi, đồng thời tăng khoảng cách thu thập <span style=\"color:#FFD780FF\">Đồ Ăn Vặt Yumemi</span> từ Kỹ Năng Nộ <span style=\"color:#FFD780FF\">Liệu Pháp Bí Truyền Anraku</span>.<br/>·Căn cứ vào Tinh Thông Nguyên Tố của Yumemizuki Mizuki để gia tăng sát thương phản ứng Khuếch Tán gây ra bởi nhân vật trong đội gần đó.<br/>·Khi Yumemizuki Mizuki rời trận hoặc kích hoạt lại kỹ năng này lần nữa thì trạng thái Mộng Trôi sẽ kết thúc.",
+      "description": "Dệt nên hồi ức của giấc mơ đẹp, bước vào trạng thái <span style=\"color:#FFD780FF\">Mộng Trôi</span> lơ lửng trên mặt đất, đồng thời gây cho kẻ địch xung quanh một lần <span style=\"color:#80FFD7FF\">Sát Thương Phạm Vi Nguyên Tố Phong</span>.<br/><br/><span style=\"color:#FFD780FF\">Mộng Trôi</span><br/>·Khi trong trạng thái Mộng Trôi, Yumemizuki Mizuki sẽ liên tục trôi về phía trước, đồng thời gây <span style=\"color:#80FFD7FF\">Sát Thương Phạm Vi Nguyên Tố Phong</span> cho kẻ địch gần đó theo chu kỳ.<br/>·Trong thời gian này, Yumemizuki Mizuki có thể điều khiển hướng trôi, đồng thời tăng khoảng cách thu thập <span style=\"color:#FFD780FF\">Đồ Ăn Vặt Yumemi</span> từ Kỹ Năng Nộ <span style=\"color:#FFD780FF\">Liệu Pháp Bí Truyền Anraku</span>.<br/>·Căn cứ vào Tinh Thông Nguyên Tố của Yumemizuki Mizuki để gia tăng sát thương phản ứng Khuếch Tán và Tinh-Khuếch Tán gây ra bởi nhân vật trong đội gần đó.<br/>·Khi Yumemizuki Mizuki rời trận hoặc kích hoạt lại kỹ năng này lần nữa thì trạng thái Mộng Trôi sẽ kết thúc.",
       "info": "\"Gặp nhau trong giấc mơ đêm, bài ca trong mộng vang rộng khắp.\"",
       "attributes": [
         {
@@ -254,23 +254,43 @@
           ]
         },
         {
-          "label": "Phần Trăm Sát Thương Khuếch Tán Tăng Bởi Mỗi Điểm Tinh Thông",
+          "label": "Phần trăm sát thương Khuếch Tán tăng bởi mỗi 100 điểm Tinh Thông",
           "values": [
-            "0.18%",
-            "0.21%",
-            "0.24%",
-            "0.27%",
-            "0.3%",
-            "0.33%",
-            "0.36%",
-            "0.39%",
-            "0.42%",
-            "0.45%",
-            "0.48%",
-            "0.51%",
-            "0.54%",
-            "0.57%",
-            "0.6%"
+            "18%",
+            "21%",
+            "24%",
+            "27%",
+            "30%",
+            "33%",
+            "36%",
+            "39%",
+            "42%",
+            "45%",
+            "48%",
+            "51%",
+            "54%",
+            "57%",
+            "60%"
+          ]
+        },
+        {
+          "label": "Phần trăm sát thương Tinh-Khuếch Tán tăng bởi mỗi 100 điểm Tinh Thông",
+          "values": [
+            "1.8%",
+            "2.1%",
+            "2.4%",
+            "2.7%",
+            "3%",
+            "3.3%",
+            "3.6%",
+            "3.9%",
+            "4.2%",
+            "4.5%",
+            "4.8%",
+            "5.1%",
+            "5.4%",
+            "5.7%",
+            "6%"
           ]
         },
         {
@@ -429,7 +449,7 @@
     {
       "id": "bright_moons_restless_voice",
       "name": "Tiếng Vọng Đêm Trăng",
-      "description": "Khi Yumemizuki Mizuki kích hoạt phản ứng Khuếch Tán trong trạng thái Mộng Trôi, thời gian duy trì trạng thái Mộng Trôi sẽ kéo dài 2.5s. Hiệu quả này mỗi 0.3s tối đa kích hoạt 1 lần, trong một lần Mộng Trôi tối đa kích hoạt 2 lần.",
+      "description": "Khi Yumemizuki Mizuki kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán trong trạng thái Mộng Trôi, thời gian duy trì trạng thái Mộng Trôi sẽ kéo dài 2.5s. Hiệu quả này mỗi 0.3s tối đa kích hoạt 1 lần, trong một lần Mộng Trôi tối đa kích hoạt 2 lần.",
       "level": 1
     },
     {
@@ -450,7 +470,7 @@
       "_id": 1091,
       "id": "in_mistlike_waters",
       "name": "Sương Mù Mờ Ảo Như Nước Xa",
-      "description": "Yumemizuki Mizuki khi ở trong trạng thái Mộng Trôi, mỗi 3.5s sẽ gán hiệu ứng \"Chờ Đợi Hai Mươi Ba Đêm\" cho kẻ địch gần đó trong 3s. Kẻ địch bị ảnh hưởng bởi hiệu quả \"Chờ Đợi Hai Mươi Ba Đêm\" khi chịu Sát Thương Nguyên Tố Phong và kích hoạt phản ứng Khuếch Tán sẽ xóa bỏ hiệu quả này, khiến sát thương của lần Khuếch Tán đó lên kẻ địch gia tăng tương ứng với 1100% Tinh Thông Nguyên Tố của Mizuki.",
+      "description": "Yumemizuki Mizuki khi ở trong trạng thái Mộng Trôi, mỗi 3.5s sẽ gán hiệu ứng \"Chờ Đợi Hai Mươi Ba Đêm\" cho kẻ địch gần đó trong 3s. Kẻ địch bị ảnh hưởng bởi hiệu quả \"Chờ Đợi Hai Mươi Ba Đêm\" khi chịu Sát Thương Nguyên Tố Phong và kích hoạt phản ứng Khuếch Tán/Tinh-Khuếch Tán, sẽ xóa bỏ hiệu quả này, khiến sát thương Khuếch Tán/Tinh-Khuếch Tán gây lên kẻ địch lần đó gia tăng tương ứng với 1100%/550% Tinh Thông Nguyên Tố của Mizuki.",
       "level": 1
     },
     {
@@ -485,7 +505,7 @@
       "_id": 1096,
       "id": "the_heart_lingers_long",
       "name": "Nỗi Nhớ Quanh Quẩn Vướng Trong Tim",
-      "description": "Khi Yumemizuki Mizuki ở trong trạng thái Mộng Trôi, sát thương phản ứng Khuếch Tán kích hoạt từ nhân vật trong đội gần đó có thể Bạo Kích, với Tỷ Lệ Bạo Kích cố định là 30%, Sát Thương Bạo Kích cố định là 100%.",
+      "description": "Khi Yumemizuki Mizuki ở trong trạng thái Mộng Trôi, sát thương phản ứng Khuếch Tán kích hoạt từ nhân vật trong đội gần đó có thể Bạo Kích, với Tỷ Lệ Bạo Kích cố định là 30%, Sát Thương Bạo Kích cố định là 100%. Đồng thời, sát thương phản ứng Tinh-Khuếch Tán gây ra bởi những nhân vật này sẽ tăng 10% Tỷ Lệ Bạo Kích, tăng 20% Sát Thương Bạo Kích.",
       "level": 6
     }
   ],

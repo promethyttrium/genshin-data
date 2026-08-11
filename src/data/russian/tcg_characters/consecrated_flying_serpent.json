@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Анемо",
+    "weapon": "Прочее",
     "faction": [
-      null,
-      null
+      "Монстр",
+      "Священный хищник"
     ],
     "talent_card": {
       "_id": 5697,
@@ -28,8 +30,10 @@
     {
       "id": "whirling_tail",
       "name": "Кружащий хвост",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -48,8 +52,10 @@
     {
       "id": "swirling_squall",
       "name": "Вихревой удар",
-      "desc": "Наносит ?, ? ед., вы берёте 1 карту",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80FFD7FF\">Анемо урон</span>, 3 ед., вы берёте 1 карту",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -62,8 +68,10 @@
     {
       "id": "scattershot_vortex",
       "name": "Шквальное торнадо",
-      "desc": "Наносит ?, ? ед., происходит <span style=\"color:#FFFFFFFF\">Отказ</span> от всех карт <span style=\"color:#FFFFFFFF\">Энергетический блок Потрошителя</span> в руке. <span style=\"color:#FFFFFFFF\">Отказ</span> от каждых двух карт удваивает этот урон.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80FFD7FF\">Анемо урон</span>, 2 ед., происходит <span style=\"color:#FFFFFFFF\">Отказ</span> от всех карт <span style=\"color:#FFFFFFFF\">Энергетический блок Потрошителя</span> в руке. <span style=\"color:#FFFFFFFF\">Отказ</span> от каждых двух карт удваивает этот урон.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -83,7 +91,9 @@
       "id": "immortal_remnants_anemo",
       "name": "Бессмертные останки: Анемо",
       "desc": "(Пассивный навык) В начале битвы вы получаете 6 карт <span style=\"color:#FFFFFFFF\">Энергетический блок Потрошителя</span>, которые попадают в вашу колоду.",
-      "skillTag": [],
+      "skillTag": [
+        "Пассивный навык"
+      ],
       "points": []
     }
   ]

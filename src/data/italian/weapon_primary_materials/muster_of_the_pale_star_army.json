@@ -1,0 +1,29 @@
+{
+  "_id": 114086,
+  "id": "muster_of_the_pale_star_army",
+  "name": "Adunata dell'esercito della Candida Stella",
+  "description": "\"Si sono impadroniti del canyon per pura fortuna. Quello sciocco arrogante è solo un dardo spuntato, un rabbuffo di vento smorzato.<br/>La sua forza gli basterà a malapena a trattenere una frazione delle nostre truppe. Molto presto, la loro sconfitta sarà sotto gli occhi di tutti.<br/>Uomini, in marcia! Il nostro re ha già predetto che questa campagna si concluderà con una vittoria scontata!\"",
+  "source": [
+    "Segnaposto - Quantità realizzabile: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114085,
+        "id": "rise_of_the_pale_star_army",
+        "name": "Ascesa dell'esercito della Candida Stella",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio della forgiatura: Cicatrici di un'ossessione maledetta",
+  "days": [
+    "Lunedì",
+    "Giovedì",
+    "Domenica"
+  ]
+}

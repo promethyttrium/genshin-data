@@ -38,7 +38,7 @@
       "_id": 113037,
       "id": "thunderclap_fruitcore",
       "name": "Donnerknall-Fruchtkern",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104144,
@@ -133,7 +133,6 @@
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Regisvine_Electric",
   "description": "Monster, das durch die riesigen Ranken, die den Hochspannungsstrom im Fluss der Elemente absorbieren, hervorgebracht wurde.\\nDie Elektrizität wird ständig aus der Baumkrone freigesetzt, als würde sie den Zorn der Erde herauslassen.\\nEinst schlugen die Gelehrten der Baulehre vor, eine komplexe Matrix von Schaltkreisen um den Baum herum zu bauen, um die Elektrizität in die Stadt zu leiten. Dieser Plan wurde von den Gelehrten der Stoffkunde heftig kritisiert, die zehn Trüffelschweine opferten, um die Gefahr der Nutzung von Elektrizität zu beweisen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

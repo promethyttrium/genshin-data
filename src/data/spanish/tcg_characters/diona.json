@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Carta de personaje",
     "energy": 3,
+    "element": "Cryo",
+    "weapon": "Arco",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "source": "Se obtiene tras retar y ganar a Diona en un duelo amistoso en la taberna Cola de Gato",
     "character": {
@@ -24,8 +26,10 @@
     {
       "id": "ktzlein_style",
       "name": "Puntería de cazador",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -44,8 +48,10 @@
     {
       "id": "icy_paws",
       "name": "Zarpazo helado",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y crea un <span style=\"color:#FFFFFFFF\">escudo de zarpas</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#99FFFFFF\">Daño Cryo</span> y crea un <span style=\"color:#FFFFFFFF\">escudo de zarpas</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -58,8 +64,10 @@
     {
       "id": "signature_mix",
       "name": "Cóctel asesino",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?, cura 2 pts. a este personaje y crea un <span style=\"color:#FFFFFFFF\">campo de bruma embriagadora</span>.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#99FFFFFF\">Daño Cryo</span>, cura 2 pts. a este personaje y crea un <span style=\"color:#FFFFFFFF\">campo de bruma embriagadora</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1101,

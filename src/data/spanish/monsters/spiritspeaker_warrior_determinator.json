@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Human_Female_Sword_Shamansaurus",
   "description": "Una centinela tribal del viento nocturno que patrulla los cañones brumosos.\\nSon capaces de convocar el poder de las pintadas que adornan sus cuerpos para blandir sus armas en cierta medida con su fuerza de voluntad.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

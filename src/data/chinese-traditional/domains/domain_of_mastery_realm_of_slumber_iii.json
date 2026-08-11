@@ -16,6 +16,11 @@
   "recommendedElements": [
     "火元素"
   ],
+  "daysOfWeek": [
+    "週三",
+    "週六",
+    "週日"
+  ],
   "domainType": "UI_ABYSSUS_AVATAR_PROUD",
   "domainText": "Talent Level-Up Material",
   "rewardPreview": [

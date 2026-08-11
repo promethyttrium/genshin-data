@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Bisonsaurus",
   "description": "Um guerreiro das planícies e um guardião tribal que cuida dos campos dourados.\\nEles treinaram incansavelmente sua força desde o momento em que decidiram se tornarem guerreiros. Quando golpeiam fervorosamente com sua arma de duas mãos, a força é algo que nenhuma pessoa comum aguentaria.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -1,0 +1,40 @@
+{
+  "_id": 25131001,
+  "id": "volkodlak_lobber",
+  "monsterId": 25131105,
+  "name": "Volkodlak Lanzador",
+  "specialNames": [
+    "Lanzador"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestias exóticas",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "description": "La clase más corpulenta de entre los numerosos volkodlak de Snezhnaya.\\nPoseen la fuerza de una bestia y un cuerpo humanoide. La potencia de sus extremidades superiores les permite realizar lanzamientos con una fuerza y precisión muy superiores a las de cualquier humano. Puede que los volkodlak no dominen las técnicas de formación de hielo supremo ni el uso del poder elemental, pero en lo que al control de su propia fuerza física se refiere, sin duda alguna están entre los primeros de todas las razas de hadas.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

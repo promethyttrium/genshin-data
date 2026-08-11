@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "Uçarlop Kalbi",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "Uçarlop Kabuğu",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Element Yaşam Formları",
   "filename_icon": "UI_MonsterIcon_Sylph_Wind_01",
   "description": "Havada süzülebilen, yüksek yoğunluktaki Rüzgar elementinden oluşan bir canavar.\\nRüzgar bileşenlerinden oluşmuş bu canavarlar, tabiatları gereği uçma becerisine sahiptir. Taç yapraklarını andıran kanatları, havada süzülmelerini sağlayan en önemli organlarıdır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

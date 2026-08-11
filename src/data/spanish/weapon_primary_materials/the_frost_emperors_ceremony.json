@@ -1,0 +1,29 @@
+{
+  "_id": 114094,
+  "id": "the_frost_emperors_ceremony",
+  "name": "Ceremonia del emperador de la escarcha",
+  "description": "Las hadas de la corte no comprendían por qué los obsequios que se ofrecían al Zar tenían semejante forma. Ellas solo sabían dedicar todo su arte a crear adornos tan brillantes como joyas.<br/>Los únicos que conocían el significado oculto tras estos ornamentos eran el Zar en su trono y las hadas de las nieves.<br/>Lo importante nunca fue la ceremonia en sí, sino la antigua verdad que había detrás de ella.",
+  "source": [
+    "Cantidad sintetizable: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114093,
+        "id": "the_frost_emperors_revival",
+        "name": "Renacimiento del emperador de la escarcha",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio de la forja: Cicatriz de la obsesión",
+  "days": [
+    "Miércoles",
+    "Sábado",
+    "Domingo"
+  ]
+}

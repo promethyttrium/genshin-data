@@ -23,6 +23,11 @@
       "name": "Balıklı Çavdar Çöreği"
     },
     {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "Glupov Çavdar Ekmeği"
+    },
+    {
       "_id": 3607,
       "id": "lakkaberry_pie",
       "name": "Lakka Böğürtleni Turtası"
@@ -35,6 +40,5 @@
   ],
   "source": [
     "İşlenerek elde edilir."
-  ],
-  "rarity": 0
+  ]
 }

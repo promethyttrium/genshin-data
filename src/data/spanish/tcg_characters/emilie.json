@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Lanza",
     "faction": [
-      null
+      "Fontaine"
     ],
     "talent_card": {
       "_id": 7583,
@@ -29,8 +31,10 @@
     {
       "id": "shadowhunting_spear_custom",
       "name": "Lanza fantasmal (modificada)",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -50,7 +54,9 @@
       "id": "fragrance_extraction",
       "name": "Colección de fragancias",
       "desc": "Invoca un <span style=\"color:#FFFFFFFF\">perfume lumidulce (niv. 1)</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "aromatic_explication",
       "name": "Representación perfumada",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y crea un <span style=\"color:#FFFFFFFF\">perfume lumidulce (niv. 3)</span>.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#7EC236FF\">Daño Dendro</span> y crea un <span style=\"color:#FFFFFFFF\">perfume lumidulce (niv. 3)</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -84,7 +92,9 @@
       "id": "lingering_fragrance",
       "name": "Fragancia persistente",
       "desc": "Cuando <color=#FFFFFFFF>tu <span style=\"color:#FFFFFFFF\">llama ardiente</span> entra en juego</color>, la próxima vez que los personajes de ambos jugadores usen una habilidad, se activa 1 vez el efecto de fin de la ronda de <span style=\"color:#FFFFFFFF\">llama ardiente</span> (2 veces por ronda).",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
       "points": []
     }
   ]

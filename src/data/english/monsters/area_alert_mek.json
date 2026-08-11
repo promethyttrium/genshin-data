@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automatons",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_LengthShifter",
   "description": "A mechanism that is able to fire out the energy produced by an annihilation reaction. Strictly speaking, it was originally a test device that emerged from research undertaken by the Institute of Natural Philosophy before the Fontaine Research Institute had been established.\\nAs such, despite its considerable commercial success as a sentinel and defensive device, most engineers do not consider it to be a true clockwork meka.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 6,
   "stats": {

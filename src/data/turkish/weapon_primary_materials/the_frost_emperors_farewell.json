@@ -1,0 +1,29 @@
+{
+  "_id": 114096,
+  "id": "the_frost_emperors_farewell",
+  "name": "Ayaz İmparatorunun Vedası",
+  "description": "Savaşın arifesinde masanın üzerinde beliren, oraya ne zaman ya da nasıl geldiğini kimsenin bilmediği bir nesne.<br/>Uzun yıllardır görmediği bir dostunun elinden çıktığını hemen tanıdı.<br/>Ancak o zaman; bunun her felaketin başlangıcı, her arzunun acı meyvesi ve her yıkımın alameti olduğunu fark etti.",
+  "source": [
+    "Yer Tutucu - Üretilebilir Miktar: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114095,
+        "id": "the_frost_emperors_lament",
+        "name": "Ayaz İmparatorunun Ağıdı",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Döküm Zindanı: Lanetli Saplantının Yara İzleri",
+  "days": [
+    "Çarşamba",
+    "Cumartesi",
+    "Pazar"
+  ]
+}

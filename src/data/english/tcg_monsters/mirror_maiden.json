@@ -8,8 +8,10 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Other Weapons",
     "faction": [
-      null
+      "Fatui"
     ],
     "talent_card": {
       "_id": 3236,
@@ -25,8 +27,10 @@
     {
       "id": "water_ball",
       "name": "Water Ball",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#80C0FFFF\">Hydro DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -45,8 +49,10 @@
     {
       "id": "influx_blast",
       "name": "Influx Blast",
-      "desc": "Deals ? ?. The target character receives <span style=\"color:#FFFFFFFF\">Refraction</span>.",
-      "skillTag": [],
+      "desc": "Deals 3 <span style=\"color:#80C0FFFF\">Hydro DMG</span>. The target character receives <span style=\"color:#FFFFFFFF\">Refraction</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -59,8 +65,10 @@
     {
       "id": "rippled_reflection",
       "name": "Rippled Reflection",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 5 <span style=\"color:#80C0FFFF\">Hydro DMG</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1102,

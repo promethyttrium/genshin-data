@@ -1,0 +1,21 @@
+{
+  "_id": 310001,
+  "id": "serpent_devourer",
+  "name": "蛇噬",
+  "description": "自地脉至深之处显现的辉耀兵刃幻形，能依据持有者的元素类型变化自身。据说在古老的国度曾以「洛格瑟姆」的名讳为黄金的罪人持有。",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "单手剑"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "辉耀幻形·超越",
+    "priority": 1
+  },
+  "item_id": 341101,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphVinces_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphVinces"
+}

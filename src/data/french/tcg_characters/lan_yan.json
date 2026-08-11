@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Anémo",
+    "weapon": "Catalyseur",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 8274,
@@ -29,8 +31,10 @@
     {
       "id": "black_pheasant_strides_on_water",
       "name": "Faisan noir sur eau",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#80FFD7FF\">DGT Anémo</span>.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "swallowwisp_pinion_dance",
       "name": "Danse plumée d'hirondelle-follet",
-      "desc": "Crée 2 cumuls de <span style=\"color:#FFFFFFFF\">bouclier d'hirondelle-follet</span>, accorde 1 cumul de <span style=\"color:#FFFFFFFF\">changement efficient</span> et inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?. Si cette capacité déclenche une réaction de Dispersion, un cumul supplémentaire de <span style=\"color:#FFFFFFFF\">bouclier d'hirondelle-follet</span> est créé.",
-      "skillTag": [],
+      "desc": "Crée 2 cumuls de <span style=\"color:#FFFFFFFF\">bouclier d'hirondelle-follet</span>, accorde 1 cumul de <span style=\"color:#FFFFFFFF\">changement efficient</span> et inflige 1 pt de <span style=\"color:#80FFD7FF\">DGT Anémo</span>. Si cette capacité déclenche une réaction de Dispersion, un cumul supplémentaire de <span style=\"color:#FFFFFFFF\">bouclier d'hirondelle-follet</span> est créé.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "lustrous_moonrise",
       "name": "Lever lustré de lune",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et crée 2 cumuls de <span style=\"color:#FFFFFFFF\">bouclier d'hirondelle-follet</span>.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts de <span style=\"color:#80FFD7FF\">DGT Anémo</span> et crée 2 cumuls de <span style=\"color:#FFFFFFFF\">bouclier d'hirondelle-follet</span>.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1105,

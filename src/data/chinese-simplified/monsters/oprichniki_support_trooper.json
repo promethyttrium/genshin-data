@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "愚人众",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan",
   "description": "隶属于愚人众特辖队的士兵，装备了重型盾牌，负责在交战的最前线为战友提供掩护。\\n许多人都明白，在至冬与漆黑灾厄这场旷日持久的战争中，唯有「支撑」更坚韧，坚持更久的一方才能获胜。而特辖队的「支撑」正是支援兵的盾牌——只要盾牌不倒，胜利的希望就仍然存在。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -13,7 +13,6 @@
   "categoryText": "Canavar Makinaları",
   "filename_icon": "UI_MonsterIcon_Samurai_Ningyo",
   "description": "Disiplinli bir mekanik kılıç ustası.\\nKonuşma yetisi ve arzusuna sahip biri değildir, sadece birbirine vuran kılıçlarla iletişim kurmayı tercih eder.\\nSöylentilere göre bu makina, bir kılıç okulundaki birinci nesil ustalardan birinin anıları kullanılarak yapılmış ama makina arızalanmış, kontrolü kaybetmiş ve sonunda ıskartaya çıkarılmış.\\nBazı şarkılarda makinanın ömrünün sonuna geldiği yerde ruhunun hâlâ gezdiği anlatılır. Muhafızlık görevini yapan korkunç maskenin yapımı için de o çağda yaşamış ünlü bir Oni'den ilham alındığı söylenir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 2,
   "stats": {

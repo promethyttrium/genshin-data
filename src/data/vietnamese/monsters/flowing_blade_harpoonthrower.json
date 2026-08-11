@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Còi Sắt Chiến Binh",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Còi Gỗ Hộ Vệ",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Human_Fat_NoWeapon_Mosasaurus",
   "description": "Dũng sĩ đến từ ngọn nguồn của dòng nước, người bảo vệ bộ tộc tuần tra ở khu vực gần dòng nước.\\nDũng sĩ thường cầm đinh ba, không thể xem nhẹ kỹ năng mà họ đã học được trong việc đánh bắt cá. Nghe nói, người của bộ tộc từ xưa đã dựa vào kỹ năng này để săn đuổi những con thú khổng lồ với bộ vảy cứng cáp trên mặt biển.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

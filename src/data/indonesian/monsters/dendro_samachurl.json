@@ -14,14 +14,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Suku Hilichurl",
   "filename_icon": "UI_MonsterIcon_Shaman_Grass_01",
   "description": "Hilichurl yang keriput dan sering komat-kamit, mereka membangkitkan kekuatan Dendro.\\nHilichurl yang sangat berbakat menguasai elemen ini sering kali akan mencapai puncak kesaktiannya kala memasuki usia senja. Dendam terselubung di balik topeng itu, akar kepahitan mengiringi gumamannya.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

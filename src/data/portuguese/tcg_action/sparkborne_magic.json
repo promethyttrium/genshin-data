@@ -1,0 +1,32 @@
+{
+  "_id": 213062,
+  "id": "sparkborne_magic",
+  "shareId": 615,
+  "name": "Magia Flamejante",
+  "title": "Magia Flamejante, Klee",
+  "desc": "\"E assim, a fofinha Dodo-Maga passou na sua prova com ajuda de seus amigos. Agora é uma Dodo-Maga completa! Parabéns!\"\\n\"Espera, você não devia estar escrevendo o comentário? O que isso aqui tem a ver com essa bruxinha?!\"",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Quando o personagem afetado usa um <span style=\"color:#FFFFFFFF\">Ataque Carregado</span>:</span> Causa 2 de <span style=\"color:#FF9999FF\">Dano Pyro</span>. (Duas vezes por Turno)",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Pyro",
+    "card_type": "Carta de Equipamento",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "Pyro",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Talento",
+      "Mágico"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Ações Rápidas</span>: Equipe isso a <span style=\"color:#FFFFFFFF\">Klee</span>.<br/>Aplica <span style=\"color:#FFFFFFFF\">Lampejo Explosivo</span> a Klee.<br/><span style=\"color:#FFFFFFFF\">Quando o personagem afetado usa um <span style=\"color:#FFFFFFFF\">Ataque Carregado</span>:</span> Causa 2 de <span style=\"color:#FF9999FF\">Dano Pyro</span>. (Duas vezes por Turno)<br/>(Você deve ter Klee em seu deck para adicionar essa carta a ele.)"
+    }
+  ]
+}

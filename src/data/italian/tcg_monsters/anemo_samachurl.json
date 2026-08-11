@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Altre armi",
     "faction": [
-      null,
-      null
+      "Mostro",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "staff_strike",
       "name": "Bastonata",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 1 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "prayer_to_the_winds",
       "name": "Preghiera ai venti",
-      "desc": "Infligge ? ?, invoca 1 <span style=\"color:#FFFFFFFF\">Vortice</span>.",
-      "skillTag": [],
+      "desc": "Infligge 2 <span style=\"color:#80FFD7FF\">DAN da Anemo</span>, invoca 1 <span style=\"color:#FFFFFFFF\">Vortice</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -45,8 +51,10 @@
     {
       "id": "galeforce_shock",
       "name": "Ciclone devastante",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 5 <span style=\"color:#80FFD7FF\">DAN da Anemo</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1105,

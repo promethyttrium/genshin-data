@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Espada",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3712,
@@ -29,8 +31,10 @@
     {
       "id": "kamisato_art_marobashi",
       "name": "Arte Kamisato - Giro",
-      "desc": "Causa ? de ?",
-      "skillTag": [],
+      "desc": "Causa 2 de ?",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "kamisato_art_kyouka",
       "name": "Arte Kamisato: Beleza Refletida",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, este personagem é afetado por <span style=\"color:#FFFFFFFF\">Reflexão Torrencial</span>.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de <span style=\"color:#80C0FFFF\">Dano Hydro</span>, este personagem é afetado por <span style=\"color:#FFFFFFFF\">Reflexão Torrencial</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "kamisato_art_suiyuu",
       "name": "Arte Kamisato: Jardim Aquático",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, invoca um <span style=\"color:#FFFFFFFF\">Jardim Puro</span>.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#80C0FFFF\">Dano Hydro</span>, invoca um <span style=\"color:#FFFFFFFF\">Jardim Puro</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1102,

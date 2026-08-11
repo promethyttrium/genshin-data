@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Aplysia_Mature",
   "description": "Melek Deniz Tavşanının yetişkin hali. Sırtındaki \"kanatlar\" aslında yağdır ve element enerjisi depolamak için kullanılırlar.\\nBu su canlısı bütün hayatını beslenerek ve ihtiyacının çok daha ötesinde enerji toplayarak geçirir. Belki bir gün okyanuslar kurursa bu canlılar hayatta kalmaya devam eder. Ya da belki sadece diğer canlılar için önemli bir besin kaynağı olurlar...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

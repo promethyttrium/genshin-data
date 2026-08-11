@@ -1,0 +1,16 @@
+{
+  "_id": 380001,
+  "id": "phantasmal_gift_star_omen",
+  "name": "선물·마법 구슬",
+  "description": "「원칙적으로 이 세상의 수많은 사물과 현상은 모두 『상』이라고 부를 수 있지. 그러니 네가 수정 구슬 안에서 본 『상』도 어떤 의미에서는 물질적 실존의 연장이라고 할 수 있어. 아무튼 앨리스와 니콜이 인정하지 않는다 해도, 수점술의 정통성은 확실해!」",
+  "rarity": 4,
+  "type": {
+    "id": "Catalyst",
+    "name": "법구"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341801,
+  "icon_path": "UI_EquipIcon_Catalyst_Kristall",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_Kristall"
+}

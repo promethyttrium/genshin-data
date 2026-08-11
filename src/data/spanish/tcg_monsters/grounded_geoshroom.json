@@ -8,16 +8,20 @@
     "hp": 7,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Geo",
+    "weapon": "Otras armas",
     "faction": [
-      null
+      "Monstruo"
     ]
   },
   "skills": [
     {
       "id": "spore_bullet",
       "name": "Lanzaesporas",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#FFE699FF\">Daño Geo</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -36,8 +40,10 @@
     {
       "id": "raging_breath",
       "name": "Respiración vehemente",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#FFE699FF\">Daño Geo</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -50,8 +56,10 @@
     {
       "id": "charging_blast",
       "name": "Chorro cargado",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 5 pts. de <span style=\"color:#FFE699FF\">Daño Geo</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -71,7 +79,9 @@
       "id": "state_change",
       "name": "Conversión de estado",
       "desc": "Pasiva: al comenzar la batalla, el personaje está en <span style=\"color:#FFFFFFFF\">ventaja sobre terreno</span>.<br/>Tras recibir <span style=\"color:#FF9999FF\">Daño Pyro</span>, pasa al <span style=\"color:#FFFFFFFF\">estado quemado</span>.<br/>Tras recibir <span style=\"color:#FFACFFFF\">Daño Electro</span>, pasa al <span style=\"color:#FFFFFFFF\">estado revitalizado</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
       "points": []
     }
   ]

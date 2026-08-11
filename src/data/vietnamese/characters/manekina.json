@@ -8,8 +8,8 @@
     "name": "Kiếm Đơn"
   },
   "element": {
-    "id": "none",
-    "name": "Không"
+    "id": "",
+    "name": ""
   },
   "gender": {
     "id": "female",
@@ -24,8 +24,8 @@
   },
   "rarity": 5,
   "birthday": [
-    0,
-    0
+    null,
+    null
   ],
   "constellation": "——",
   "domain": "Phế Tích Rực Lửa",

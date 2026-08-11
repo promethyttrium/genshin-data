@@ -23,6 +23,11 @@
       "name": "Pain de seigle au poisson"
     },
     {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "Pain de seigle de Glupov"
+    },
+    {
       "_id": 3607,
       "id": "lakkaberry_pie",
       "name": "Tarte aux lakkabaies"
@@ -35,6 +40,5 @@
   ],
   "source": [
     "Cuisine (préparation)"
-  ],
-  "rarity": 0
+  ]
 }

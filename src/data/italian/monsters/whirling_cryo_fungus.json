@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Fungus_Trois_Alpha_Ice",
   "description": "Un organismo fatto di spore e dotato di una certa intelligenza. Possiede un'estrema capacità di adattamento.\\nCongelare i Miconoidi non li rende più appetitosi, ma se non altro aiuta a combattere il caldo.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

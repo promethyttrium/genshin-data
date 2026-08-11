@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Human_Male_Claymore_Shamansaurus",
   "description": "Ein Krieger des Nachtwinds, ein Stammeswächter, der durch den wabernden Dunst der Schluchten patrouilliert.\\nNur Wächter, deren Stärke auf die Probe gestellt wurde, ist es gestattet, ihre Körper mit Graffitis zu bemalen, die besondere Kräfte innehaben. Ebenso symbolisiert es, dass diese Stammeskrieger in der Kultivierung ihres Geistes die nächste Stufe erreicht haben.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

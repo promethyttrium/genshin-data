@@ -1,0 +1,40 @@
+{
+  "_id": 25135001,
+  "id": "glaciomancer",
+  "monsterId": 25135004,
+  "name": "Buzul Büyücüsü",
+  "specialNames": [
+    "Buzul Büyücüsü"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Efsanevi Canavarlar",
+  "filename_icon": "UI_MonsterIcon_Human_Female_Staff_Snegurochka",
+  "description": "Kar ve buzun ortasındaki aşktan doğan bir Snegovik.\\nDişi Snegovikler, Snegurochka olarak bilinir ve çoğu kar ile buzun gücünü özgürce kullanabilen büyücüler olarak doğarlar. Snegovikler ilk yaratıldıklarında ruhlarının eksik olduğu ve ancak insanlara aşık olduklarında kendilerini tamamlayabildikleri söylenir.\\nAncak bir Snegovik bütünlüğe ulaştıktan sonra hâlâ aşka ihtiyaç duyar mı? Belki de duymaz.\\nBelki de Snegovikler ile insanlar arasındaki aşk hikayelerinin birçoğunun trajediyle son bulmasının nedeni budur.",
+  "bgm": 1,
+  "budget": 5,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 4.57189,
+      "attack": 58.575787,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

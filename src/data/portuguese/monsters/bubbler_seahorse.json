@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Mature",
   "description": "A forma adulta de um Cavalo-marinho de Bolhas macho. É extremamente agressivo.\\nAlgumas pessoas até afirmam ter encontrado campeões entre os cavalos-marinhos. Diz-se que são seres orgulhosos com quatro membros longos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

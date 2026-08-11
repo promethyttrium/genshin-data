@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Altre fazioni umane",
   "filename_icon": "UI_MonsterIcon_Human_Female_Sword_Hookwalker",
   "description": "Una guerriera dei Discendenti delle Vette, nonché guardiana tribale, che pattuglia le valli boschive e i ruscelli di montagna.\\nA differenza dei guerrieri delle altre tribù, questi guerrieri si spostano con delle corde speciali, e non cessano di pensare a come sconfiggere i loro avversari con degli attacchi a sorpresa.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 12,
   "stats": {

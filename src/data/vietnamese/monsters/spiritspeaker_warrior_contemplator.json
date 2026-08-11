@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Human_Male_Claymore_Shamansaurus",
   "description": "Dũng sĩ đến từ làn gió đêm, bảo vệ bộ tộc ngao du giữa những hẻm núi mịt mờ phủ sương.\\nChỉ những hộ vệ trải qua thử thách về năng lực mới có thể điểm tô lên cơ thể những hình vẽ sơn dầu mang sức mạnh đặc biệt. Nói cách khác, những dũng sĩ bộ tộc này đã đạt đến cảnh giới tiếp theo về mặt tu luyện tinh thần.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -14,14 +14,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "ชนเผ่า Hilichurl",
   "filename_icon": "UI_MonsterIcon_Shaman_Grass_01",
   "description": "Hilichurl เฒ่าซึ่งมักจะพึมพำ ผู้ปลุกพลังแห่งธาตุไม้ให้ตื่นขึ้น\\nHilichurl ผู้มีความสามารถในการควบคุมธาตุ ซึ่งความสามารถของพวกมันนั้น มีแนวโน้มที่จะขึ้นสู่จุดสูงสุดในวัยชรา ความแค้นที่อยู่ภายใต้หน้ากาก และไม้เลื้อยที่เต็มไปด้วยพิษแห่งความเกลียดชังซึ่งผุดขึ้นมาพร้อมกับเสียงกระซิบ",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

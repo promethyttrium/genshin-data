@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "돌연변이 마수",
   "filename_icon": "UI_MonsterIcon_JellyFish_Larva_02",
   "description": "물폭탄을 발사해 사냥하는 수생 동물.\\n비록 모자를 쓴 것처럼 보이지만, 음식을 먹는 섭취 기관이 「모자」의 밑부분에 있다. 그러므로 이걸 머리에 쓰는 건 굉장히 현명하지 못한 짓이다. 한때 이를 몸소 증명한 사람도 있다: 「지금 다시 돌이켜보니, 그건 정말이지 현명하지 못한 짓이었어」",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 65.15,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

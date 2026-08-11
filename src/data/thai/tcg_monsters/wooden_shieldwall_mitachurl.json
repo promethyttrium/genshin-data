@@ -8,17 +8,21 @@
     "hp": 8,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ธาตุไม้",
+    "weapon": "อาวุธอื่น ๆ",
     "faction": [
-      null,
-      null
+      "มอนสเตอร์",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "plata_plama",
       "name": "Plata Plama",
-      "desc": "สร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "สร้าง? 2 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -37,8 +41,10 @@
     {
       "id": "da_plama",
       "name": "Da Plama",
-      "desc": "สร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "สร้าง? 3 หน่วย",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -51,8 +57,10 @@
     {
       "id": "aba_movo",
       "name": "Aba Movo",
-      "desc": "สร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "สร้าง? 5 หน่วย",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -72,7 +80,9 @@
       "id": "crudewood_greatshield",
       "name": "Crudewood Greatshield",
       "desc": "[ติดตัว] เมื่อเริ่มการต่อสู้ ในตอนแรกเริ่มจะได้รับ <span style=\"color:#FFFFFFFF\">Crudewood Greatshield</span>",
-      "skillTag": [],
+      "skillTag": [
+        "สกิลติดตัว"
+      ],
       "points": []
     }
   ]

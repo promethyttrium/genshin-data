@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Female_Slim_MachineGun",
   "description": "Una oficial de élite de los Opríchniks Fatui experta en combatir utilizando dos ametralladoras.\\nA diferencia de los soldados de avanzada, los oficiales Opríchnik provienen principalmente de la Real Academia Militar de Snezhnaya, tanto si son de buena cuna como personas corrientes con talento. Al fin y al cabo, según los ideales de la Zarina, no hay ninguna diferencia entre lo uno y lo otro. Igual que, tradicionalmente, solo las hadas podían ser ascendidas a Gvardiyas, ahora este título solo lo pueden ostentar los oficiales Opríchnik, lo que constituye una división más igualitaria para la construcción de un nuevo mundo.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Catalizador",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 4567,
@@ -29,8 +31,10 @@
     {
       "id": "the_classics_of_acupuncture",
       "name": "Acupuntura clásica",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#7EC236FF\">Daño Dendro</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -49,8 +53,10 @@
     {
       "id": "universal_diagnosis",
       "name": "Diagnóstico universal",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y crea un <span style=\"color:#FFFFFFFF\">espíritu sérico</span>.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#7EC236FF\">Daño Dendro</span> y crea un <span style=\"color:#FFFFFFFF\">espíritu sérico</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -64,7 +70,9 @@
       "id": "holistic_revivification",
       "name": "Sanación holística",
       "desc": "Genera el efecto <span style=\"color:#FFFFFFFF\">perspicuidad palpitante</span> y crea un <span style=\"color:#FFFFFFFF\">escudo incólume</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1107,

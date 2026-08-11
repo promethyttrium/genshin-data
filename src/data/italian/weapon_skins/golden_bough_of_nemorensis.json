@@ -1,0 +1,21 @@
+{
+  "_id": 310003,
+  "id": "golden_bough_of_nemorensis",
+  "name": "Frasca d'oro di Nemorensis",
+  "description": "Una gloriosa arma illusoria emersa dalle profondità delle linee geomantiche. Può cambiare aspetto in base al tipo elementale di chi la impugna. Si narra che, in un'epoca immemorabile, un'emissaria divina degli alti cieli donò questa spada lunga alla somma sacerdotessa di Arcadia, conferendole il diritto di guidare la città sacra benedetta dai mille venti.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Spada"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "Metamorfosi splendente: Eternità",
+    "priority": 2
+  },
+  "item_id": 341103,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphNemorensis_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphNemorensis"
+}

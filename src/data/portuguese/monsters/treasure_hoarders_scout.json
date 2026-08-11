@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
   "description": "Um membro da organização criminosa descentralizada que tem rastros em todo o continente e até mesmo nas profundezas de domínios desconhecidos.\\nDeles é o trabalho pesado e a perseguição dos inimigos. Eles geralmente acabam em círculos criminosos devido à pobreza ou falta de educação, mas não parecem terem ficado mais ricos depois de escolher uma vida de crime...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

@@ -1,0 +1,54 @@
+{
+  "_id": 3701,
+  "id": "zharkoye",
+  "name": "Zharkoye",
+  "description": "Un plato de carne servido en una cazuela de barro. Los ingredientes, cortados en trozos, se colocan en el recipiente, que luego se tapa con masa y se introduce en el horno. Al sacarlo, se retira la corteza de pan horneada y se añade smetana como aliño. La preparación no es complicada, pero controlar la temperatura del horno y el tiempo de cocción requiere cierta experiencia.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Carne cruda",
+      "amount": 3
+    },
+    {
+      "_id": 100080,
+      "id": "potato",
+      "name": "Papa",
+      "amount": 2
+    },
+    {
+      "_id": 100013,
+      "id": "carrot",
+      "name": "Zanahoria",
+      "amount": 2
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Platos que regeneran Vida",
+  "results": {
+    "suspicious": {
+      "_id": 108985,
+      "name": "Zharkoye extraño",
+      "description": "Un plato de carne servido en una cazuela de barro. Debido a un tiempo de cocción excesivamente largo, la carne se ha deshecho en hilachas que, al masticarse, tienen la misma textura de una manta vieja. Un solo bocado basta para generar el impulso de empujar la cazuela poco a poco hasta que desaparezca de tu vista...",
+      "effect": "Restaura un 30% de la Vida Máx. y 600 pts. de Vida al personaje seleccionado."
+    },
+    "normal": {
+      "_id": 108986,
+      "name": "Zharkoye",
+      "description": "Un plato de carne servido en una cazuela de barro. Los ingredientes, cortados en trozos, se colocan en el recipiente, que luego se tapa con masa y se introduce en el horno. Al sacarlo, se retira la corteza de pan horneada y se añade smetana como aliño. La preparación no es complicada, pero controlar la temperatura del horno y el tiempo de cocción requiere cierta experiencia.",
+      "effect": "Restaura un 32% de la Vida Máx. y 1250 pts. de Vida al personaje seleccionado."
+    },
+    "delicious": {
+      "_id": 108987,
+      "name": "Zharkoye delicioso",
+      "description": "Un plato de carne servido en una cazuela de barro. Al romper la crujiente tapa de corteza, se libera una oleada de un sabroso aroma a mantequilla con un calorcito irresistible. Es como disfrutar de la reconfortante calidez que se siente al echar un tronco fresco a la chimenea en una fría noche de invierno.",
+      "effect": "Restaura un 34% de la Vida Máx. y 1900 pts. de Vida adicional al personaje seleccionado."
+    }
+  }
+}

@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "การ์ดตัวละคร",
     "energy": 3,
+    "element": "ธาตุน้ำ",
+    "weapon": "ธนู",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 4761,
@@ -29,8 +31,10 @@
     {
       "id": "stealthy_bowshot",
       "name": "Stealthy Bowshot",
-      "desc": "สร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "สร้าง? 2 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "lingering_lifeline",
       "name": "Lingering Lifeline",
-      "desc": "สร้าง? ? หน่วย ตัวละครนี้มีจำนวนชั้น <span style=\"color:#FFFFFFFF\">Breakthrough</span> +2",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#80C0FFFF\">ความเสียหายน้ำ</span> 3 หน่วย ตัวละครนี้มีจำนวนชั้น <span style=\"color:#FFFFFFFF\">Breakthrough</span> +2",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "depthclarion_dice",
       "name": "Depth-Clarion Dice",
-      "desc": "สร้าง? ? หน่วย และสร้าง <span style=\"color:#FFFFFFFF\">Exquisite Throw</span>",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#80C0FFFF\">ความเสียหายน้ำ</span> 3 หน่วย และสร้าง <span style=\"color:#FFFFFFFF\">Exquisite Throw</span>",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -84,7 +92,9 @@
       "id": "breakthrough",
       "name": "Breakthrough",
       "desc": "[ติดตัว] เมื่อเริ่มการต่อสู้ ในตอนแรกเริ่มจะได้รับ <span style=\"color:#FFFFFFFF\">Breakthrough</span>",
-      "skillTag": [],
+      "skillTag": [
+        "สกิลติดตัว"
+      ],
       "points": []
     }
   ]

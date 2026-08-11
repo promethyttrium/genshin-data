@@ -1,0 +1,39 @@
+{
+  "_id": 213171,
+  "id": "adamahs_redemption",
+  "shareId": 611,
+  "name": "赤土の逆理",
+  "title": "ドゥリン・赤土の逆理",
+  "desc": "「運命の変わり目。」",
+  "in_play_description": "<br/><span style=\"color:#FFFFFFFF\">装備キャラが純白の法則・変転する光を使用した後、</span>味方が次の4回で与えるダメージ+1。<br/><span style=\"color:#FFFFFFFF\">装備キャラが漆黒の法則・燻る星を使用した後、</span>味方の<span style=\"color:#FFFFFFFF\">ドゥリン</span>と<span style=\"color:#FFFFFFFF\">漆黒の否</span>が与えるダメージ+2。",
+  "attributes": {
+    "cost": 4,
+    "cost_type": "炎元素",
+    "card_type": "装備カード",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "炎元素",
+        "count": 4
+      },
+      {
+        "_id": 1110,
+        "id": "energy",
+        "type": "チャージ",
+        "count": 2
+      }
+    ],
+    "source": "キャッツテールでドゥリンを招待して対戦し、対応する挑戦目標をクリアすることで獲得",
+    "tags": [
+      "天賦",
+      "戦闘アクション"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">戦闘アクション</span>：味方の出撃キャラが<span style=\"color:#FFFFFFFF\">ドゥリン</span>の時、このカードを装備できる。<br/>ドゥリンがこのカードを装備した後、自身の現在の「元素爆発」に応じて、直ちに<span style=\"color:#FFD780FF\">純白の法則・変転する光</span>または<span style=\"color:#FFD780FF\">漆黒の法則・燻る星</span>を1回使用する。<br/><span style=\"color:#FFFFFFFF\">装備キャラが純白の法則・変転する光を使用した後、</span>味方が次の4回で与えるダメージ+1。<br/><span style=\"color:#FFFFFFFF\">装備キャラが漆黒の法則・燻る星を使用した後、</span>味方の<span style=\"color:#FFFFFFFF\">ドゥリン</span>と<span style=\"color:#FFFFFFFF\">漆黒の否</span>が与えるダメージ+2。<br/>（このカードはデッキにドゥリンが含まれている場合のみ、デッキに追加できる）"
+    }
+  ]
+}

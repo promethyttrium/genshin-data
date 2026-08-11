@@ -45,7 +45,6 @@
   "description": "Savaşta buzu kalkan olarak kullanan kaslı bir dağ yabanisi.\\nMantıken hayatlarının hemen hemen her günü aksiyonla dolu büyük yaratıkların gücünü koruması için büyük miktarda kalori yakması gerekir. Bu nedenle mevcut El Musk, \"Dağ Azmanı Endeksi\" kullanılmasını önermiştir. Bu endeks, dağ yabanisi nüfusunda yer alan dağ azmanlarının oranı ile dağ yabanilerinin toplayıcılık faaliyetinden elde ettiği istikrar ve başarı arasında bir bağlantı kurar.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 2,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.3,

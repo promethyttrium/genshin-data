@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Фатуи",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01",
   "description": "Крепкий застрельщик Фатуи, вооружённый молотом, который питается элементом Электро. Быть солдатом Фатуи имеет свои плюсы: высокое жалованье, широкий выбор вооружения, вкусный паёк. Но вдали от дома и близких им остаётся только доверить свою жизнь товарищам, которых они видят впервые.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

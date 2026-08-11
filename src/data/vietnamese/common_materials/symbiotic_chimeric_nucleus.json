@@ -1,0 +1,24 @@
+{
+  "_id": 112150,
+  "id": "symbiotic_chimeric_nucleus",
+  "name": "Tế Bào Lai Ghép",
+  "description": "Đây là lõi tương đối phức tạp nằm trong cơ thể ma thú tổng hợp. Lõi tế bào cộng sinh đồng nghĩa với việc chúng sẽ phải vận hành vòng tuần hoàn của hai loại sinh mệnh, từ đó cấu thành nên cùng một sinh vật.",
+  "source": [
+    "Dị Chủng Ma Thú Tổng Hợp cấp 40 trở lên rơi",
+    "Đổi Tinh Trần",
+    "Số lượng có thể ghép - chiếm chỗ: {0}"
+  ],
+  "rarity": 2,
+  "craft": {
+    "cost": 25,
+    "items": [
+      {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Hạt Giống Lai Ghép",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

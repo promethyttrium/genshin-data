@@ -13,7 +13,6 @@
   "categoryText": "Ordre de l'Abîme",
   "filename_icon": "UI_MonsterIcon_Hound_Riftstalker_Electric",
   "description": "Une bête au sang démoniaque capable d'éroder les frontières du monde. Elles ont été créées par l'« Or ».\\nIl y a longtemps, elles répandaient le chaos à travers le continent, mais elles se sont éteintes pendant un certain temps en raison de la résistance et des chasses de masse. Récemment, cependant, elles sont réapparues. Les loups noirs qui menacent maintenant Deauclaire et le Territoire des Loups font partie de telles créatures.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

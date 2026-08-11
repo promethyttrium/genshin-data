@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Électro",
+    "weapon": "Arme d'hast",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3224,
@@ -29,8 +31,10 @@
     {
       "id": "invokers_spear",
       "name": "Lance d'invocation",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -49,8 +53,10 @@
     {
       "id": "secret_rite_chasmic_soulfarer",
       "name": "Rite : Traversée abyssale",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.<br/>Niv. de Possession d'<span style=\"color:#FFFFFFFF\">éclaireur sermenté</span> +1.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts de <span style=\"color:#FFACFFFF\">DGT Électro</span>.<br/>Niv. de Possession d'<span style=\"color:#FFFFFFFF\">éclaireur sermenté</span> +1.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "sacred_rite_wolfs_swiftness",
       "name": "Liturgie : Rapidité lupine",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.<br/>Niv. de Possession d'<span style=\"color:#FFFFFFFF\">éclaireur sermenté</span> +2.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts de <span style=\"color:#FFACFFFF\">DGT Électro</span>.<br/>Niv. de Possession d'<span style=\"color:#FFFFFFFF\">éclaireur sermenté</span> +2.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -84,7 +92,9 @@
       "id": "lawful_enforcer",
       "name": "Exécution légale",
       "desc": "(Passif) Accorde un <span style=\"color:#FFFFFFFF\">éclaireur sermenté</span> au début du combat.",
-      "skillTag": [],
+      "skillTag": [
+        "Capacité passive"
+      ],
       "points": []
     }
   ]

@@ -1,7 +1,7 @@
 {
   "_id": 22020101,
   "id": "abyss_herald_wicked_torrents",
-  "monsterId": 22020103,
+  "monsterId": 84202012,
   "name": "深淵使徒·激流",
   "specialNames": [
     "深淵使徒·梵因弗烈",
@@ -22,9 +22,8 @@
   "categoryText": "深淵",
   "filename_icon": "UI_MonsterIcon_Invoker_Herald_Water_01",
   "description": "利用水元素戰鬥的魔物，隸屬於「深淵教團」。\\n這些沉默的身影是深淵的先行者，揮舞著席捲一切的浪潮之鋒，斬碎一切鎧甲的防禦與不信的異端之心，向無慮的愚氓降下宿命的懲戒。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

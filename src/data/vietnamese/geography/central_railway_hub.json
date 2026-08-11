@@ -1,0 +1,12 @@
+{
+  "_id": 70800033,
+  "id": "central_railway_hub",
+  "name": "Trung Tâm Đường Sắt",
+  "areaName": "Vùng Đất Băng Vĩnh Cửu",
+  "areaId": 80200,
+  "description": "Nếu ví Snezhnaya như một người khổng lồ có thân hình bằng thép, thì đường sắt chính là huyết quản, còn Nhà Ga Trung Tâm nằm ở Snezhnograd là trái tim không ngừng đập của người khổng lồ này.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 633,
+  "filename_image": "UI_Codex_Scenery_ZDZhiDongBaoCheZhan"
+}

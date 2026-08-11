@@ -1,0 +1,40 @@
+{
+  "_id": 25130101,
+  "id": "winged_halberdknight",
+  "monsterId": 25130102,
+  "name": "持戟羽騎士",
+  "specialNames": [
+    "持戟羽騎士"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種魔獸",
+  "filename_icon": "UI_MonsterIcon_Human_Girl_Vila_Glaive",
+  "description": "生有雙翼，能於空中飛行的風仙。\\n根據記載，風仙一族曾於女皇登基後的百年中經歷過不少動盪的時期。其中，據說有不滿女皇針對妖精貴族的政策而掀起小規模叛亂的妖靈。\\n叛亂倒是很快就被平息，不過發起叛亂的是昔日風仙貴族的後裔，這件事一度導致風仙族群的大規模分化。",
+  "bgm": 1,
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.2,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 5.486268,
+      "attack": 49.564125,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

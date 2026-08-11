@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Beta_Rock",
   "description": "A spore organism of some intelligence. It possesses extreme adaptability.\\nThese shrooms' caps have hard outer layers derived from concretions of Geo energy. Its bodily structure is also quite likely to be denser than others of its kind so as to withstand the heavy weight of its cap.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

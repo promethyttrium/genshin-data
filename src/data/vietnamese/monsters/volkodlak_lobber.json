@@ -1,0 +1,40 @@
+{
+  "_id": 25131001,
+  "id": "volkodlak_lobber",
+  "monsterId": 25131105,
+  "name": "Volkodlak Kẻ Quăng Ném",
+  "specialNames": [
+    "Kẻ Quăng Ném"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Ma Thú Đột Biến",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "description": "Trong vô số các Volkodlak ở Snezhnaya, đây là loài tương đối cường tráng.\\nSở hữu sức mạnh của dã thú và cơ thể giống người, sức lực vượt trội ở chi trên giúp chúng có thể ném với uy lực mạnh mẽ cùng độ chính xác cao hơn. Volkodlak có lẽ không tinh thông kỹ nghệ ngưng kết Chân Băng hay cách sử dụng sức mạnh nguyên tố, nhưng nếu nói đến khả năng kiểm soát sức mạnh cơ thể thì cũng thuộc hàng xuất sắc nhất trong các số chủng tộc fae.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

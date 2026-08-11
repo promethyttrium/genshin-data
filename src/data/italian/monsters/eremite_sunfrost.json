@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Altre fazioni umane",
   "filename_icon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive",
   "description": "Un membro di un corpo mercenario scarsamente organizzato proveniente dalle sabbiose e dorate distese del deserto. È disposto a lavorare per chiunque sia in grado di pagarlo adeguatamente.\\nUn mercenario professionista che bada esclusivamente al lavoro e alla sua missione. Per gli individui come lui, ogni cosa è finalizzata al completamento dell'incarico, e la tariffa onerosa che propongono è commisurata al livello di dedizione che dimostrano nello svolgere il compito.\\nAll'interno della loro arma è sigillato uno spirito infausto e frammentato, che si risveglia nei momenti di pericolo. Esso può essere placato soltanto dalle grida di dolore di chi viene sconfitto: che si tratti del suo detentore o del suo avversario poco importa.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

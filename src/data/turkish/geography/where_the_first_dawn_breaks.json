@@ -1,0 +1,13 @@
+{
+  "_id": 70800044,
+  "id": "where_the_first_dawn_breaks",
+  "name": "İlk Şafağın Söktüğü Yer",
+  "areaName": "Volkodlak Tundrası",
+  "areaId": 80100,
+  "description": "En soğuk gecelerde bile kar fırtınalarının içinde ilerleyenler vardır. Bunu yalnızca parlak ve aydınlık bir yarını görme umuduyla yaparlar.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 644,
+  "filename_image": "UI_Codex_Scenery_ZDQiChengCheZhan",
+  "showOnlyUnlocked": true
+}

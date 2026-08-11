@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus",
   "description": "Devasa kılıcıyla yakın dövüşte uzmanlaşmış, seçkin bir Fatui Opriçnikleri subayı.\\nİster karanlık felakete karşı verilen savaşta ister Çariçe'nin ideallerine karşı çıkmaya cüret eden zırcahillere karşı olsun, en önde savaşıp düşman saflarını yaranlar en büyük kayıpları verirler. Bu yüzden, birkaç savaştan sağ kurtulanlar, seçkin askerler arasında dahi daha üstün olarak görülürler. Tıpkı kaderin adaletsizliğine ve Eski Dünyanın eşitsizliğine boyun eğmeyenler gibi, imparatorluğun ateşi ve kılıcı olmak isteyenler de her zaman var olacaktır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

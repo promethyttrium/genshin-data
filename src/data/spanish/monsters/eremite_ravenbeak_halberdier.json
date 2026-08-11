@@ -31,22 +31,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Seda roja bordada",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Satén rojo descolorido",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Eremite_Male_Standard_Pole",
   "description": "Miembro de los grupos dispersos de mercenarios procedentes del desierto dorado. Están dispuestos a trabajar para cualquiera con tal de obtener un buen pago a cambio de sus servicios.\\nLucha con una alabarda. Cuentan las leyendas que los ermitaños que servían a los dioses del desierto de antaño solían portar este tipo de arma para hacer gala de su posición. Por desgracia, hace ya tiempo que el verdadero nombre se perdió en el recuerdo, ahogado por las arenas del desierto.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

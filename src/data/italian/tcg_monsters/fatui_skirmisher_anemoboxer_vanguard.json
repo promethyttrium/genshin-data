@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Altre armi",
     "faction": [
-      null
+      "Fatui"
     ]
   },
   "skills": [
     {
       "id": "hurricane_jab",
       "name": "Raffica sferzante",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -37,7 +41,9 @@
       "id": "gathering_the_winds",
       "name": "Adunata dei venti",
       "desc": "Questo personaggio ottiene una <span style=\"color:#FFFFFFFF\">Barriera vento di tempesta</span>. <span style=\"color:#FFFFFFFF\">Preparazione abilità</span>: <span style=\"color:#FFFFFFFF\">Sferzata violenta</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -50,8 +56,10 @@
     {
       "id": "galeforce_agitation",
       "name": "Istigazione della tempesta",
-      "desc": "Infligge ? ?. Tutti gli altri personaggi Fatui che controlli ottengono 1 punto <span style=\"color:#FFFFFFFF\">Energia</span>.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#80FFD7FF\">DAN da Anemo</span>. Tutti gli altri personaggi Fatui che controlli ottengono 1 punto <span style=\"color:#FFFFFFFF\">Energia</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1105,

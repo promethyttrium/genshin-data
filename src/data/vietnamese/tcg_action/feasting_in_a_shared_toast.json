@@ -1,0 +1,20 @@
+{
+  "_id": 332066,
+  "id": "feasting_in_a_shared_toast",
+  "shareId": 619,
+  "name": "Tụ Họp Nâng Ly",
+  "title": "Tụ Họp Nâng Ly",
+  "desc": "\"Lần nào cũng đến chậm nhất vậy! Mau ngồi đi, đợi lâu lắm rồi đấy!\"",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 0,
+    "card_type": "Thẻ Sự Kiện",
+    "energy": []
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Khi bắt đầu hiệp sau:</span> Mỗi phe rút 2 lá bài, sinh ra 2 Xúc Xắc Nguyên Tố ngẫu nhiên."
+    }
+  ]
+}

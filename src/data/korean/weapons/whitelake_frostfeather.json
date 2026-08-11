@@ -1,0 +1,333 @@
+{
+  "_id": 11520,
+  "id": "whitelake_frostfeather",
+  "name": "백조의 호수",
+  "description": "백조의 부드러운 깃털처럼 가벼운 장검. 언제나 오염되지 않은 순수함을 유지하고 있다",
+  "rarity": 5,
+  "type": {
+    "id": "Sword",
+    "name": "한손검"
+  },
+  "domain": "연무 비경·「망념의 상흔」",
+  "passive": "백조의 피날레",
+  "bonus": "장착 캐릭터의 원소전투 스킬이 적에게 명중 시, 「호수의 애도」를 획득한다: 공격력이 <span>8%/10%/12%/14%/16%</span> 증가한다. 지속 시간: 8초, 최대 중첩수: 3스택. 0.1초마다 최대 1회 발동된다. 스택마다 지속 시간은 독립적으로 계산된다. 3스택 중첩 시 장착 캐릭터가 주는 별빛 반응 피해의 치명타 피해가 <span>50%/65%/80%/95%/110%</span> 증가하며, 별빛 반응을 발동하거나 별빛 반응 피해를 줄 시, 장착 캐릭터의 원소 에너지가 <span>4/4.5/5/5.5/6</span>pt 회복된다. 상술한 원소 에너지 회복 효과는 3.5초마다 최대 1회 발동된다. 장착 캐릭터가 대기 상태일 때도 상술한 효과가 발동된다",
+  "specialProp": "치명타 확률",
+  "stats": {
+    "primary": "기초 공격력",
+    "secondary": "치명타 확률",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 48,
+        "secondary": 4.8
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 133,
+        "secondary": 8.5
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 164,
+        "secondary": 8.5
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 261,
+        "secondary": 12.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 292,
+        "secondary": 12.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 341,
+        "secondary": 14.3
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 373,
+        "secondary": 14.3
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 423,
+        "secondary": 16.2
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 455,
+        "secondary": 16.2
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 506,
+        "secondary": 18.2
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 537,
+        "secondary": 18.2
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 590,
+        "secondary": 20.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 621,
+        "secondary": 20.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 674,
+        "secondary": 22.1
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 10000,
+      "materials": [
+        {
+          "_id": 114089,
+          "id": "measured_pour_of_the_cellared_spiritual_nectar",
+          "name": "요정의 음미",
+          "amount": 5,
+          "rarity": 2
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "영혼의 잔가지",
+          "amount": 5,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "키메라의 기초 코어",
+          "amount": 3,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114090,
+          "id": "intoxication_of_the_cellared_spiritual_nectar",
+          "name": "요정의 만취",
+          "amount": 5,
+          "rarity": 3
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "영혼의 잔가지",
+          "amount": 18,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "키메라의 기초 코어",
+          "amount": 12,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114090,
+          "id": "intoxication_of_the_cellared_spiritual_nectar",
+          "name": "요정의 만취",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "영혼의 가지",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "키메라의 이중 코어",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114091,
+          "id": "exhilaration_of_the_cellared_spiritual_nectar",
+          "name": "요정의 탐닉",
+          "amount": 5,
+          "rarity": 4
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "영혼의 가지",
+          "amount": 18,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "키메라의 이중 코어",
+          "amount": 14,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 55000,
+      "materials": [
+        {
+          "_id": 114091,
+          "id": "exhilaration_of_the_cellared_spiritual_nectar",
+          "name": "요정의 탐닉",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "영혼의 큰 가지",
+          "amount": 14,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "키메라의 다중 코어",
+          "amount": 9,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 65000,
+      "materials": [
+        {
+          "_id": 114092,
+          "id": "revelry_of_the_cellared_spiritual_nectar",
+          "name": "요정의 방종",
+          "amount": 6,
+          "rarity": 5
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "영혼의 큰 가지",
+          "amount": 27,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "키메라의 다중 코어",
+          "amount": 18,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "백조의 피날레",
+    "template": "장착 캐릭터의 원소전투 스킬이 적에게 명중 시, 「호수의 애도」를 획득한다: 공격력이 <span style=\"color:#99FFFFFF\">{0}</span> 증가한다. 지속 시간: 8초, 최대 중첩수: 3스택. 0.1초마다 최대 1회 발동된다. 스택마다 지속 시간은 독립적으로 계산된다. 3스택 중첩 시 장착 캐릭터가 주는 별빛 반응 피해의 치명타 피해가 <span style=\"color:#99FFFFFF\">{1}</span> 증가하며, 별빛 반응을 발동하거나 별빛 반응 피해를 줄 시, 장착 캐릭터의 원소 에너지가 <span style=\"color:#99FFFFFF\">{2}</span>pt 회복된다. 상술한 원소 에너지 회복 효과는 3.5초마다 최대 1회 발동된다. 장착 캐릭터가 대기 상태일 때도 상술한 효과가 발동된다",
+    "params": [
+      [
+        "8%",
+        "50%",
+        "4"
+      ],
+      [
+        "10%",
+        "65%",
+        "4.5"
+      ],
+      [
+        "12%",
+        "80%",
+        "5"
+      ],
+      [
+        "14%",
+        "95%",
+        "5.5"
+      ],
+      [
+        "16%",
+        "110%",
+        "6"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "장착 캐릭터의 원소전투 스킬이 적에게 명중 시, 「호수의 애도」를 획득한다: 공격력이 <span>8%</span> 증가한다. 지속 시간: 8초, 최대 중첩수: 3스택. 0.1초마다 최대 1회 발동된다. 스택마다 지속 시간은 독립적으로 계산된다. 3스택 중첩 시 장착 캐릭터가 주는 별빛 반응 피해의 치명타 피해가 <span>50%</span> 증가하며, 별빛 반응을 발동하거나 별빛 반응 피해를 줄 시, 장착 캐릭터의 원소 에너지가 <span>4</span>pt 회복된다. 상술한 원소 에너지 회복 효과는 3.5초마다 최대 1회 발동된다. 장착 캐릭터가 대기 상태일 때도 상술한 효과가 발동된다"
+    },
+    {
+      "refinement": 2,
+      "desc": "장착 캐릭터의 원소전투 스킬이 적에게 명중 시, 「호수의 애도」를 획득한다: 공격력이 <span>10%</span> 증가한다. 지속 시간: 8초, 최대 중첩수: 3스택. 0.1초마다 최대 1회 발동된다. 스택마다 지속 시간은 독립적으로 계산된다. 3스택 중첩 시 장착 캐릭터가 주는 별빛 반응 피해의 치명타 피해가 <span>65%</span> 증가하며, 별빛 반응을 발동하거나 별빛 반응 피해를 줄 시, 장착 캐릭터의 원소 에너지가 <span>4.5</span>pt 회복된다. 상술한 원소 에너지 회복 효과는 3.5초마다 최대 1회 발동된다. 장착 캐릭터가 대기 상태일 때도 상술한 효과가 발동된다"
+    },
+    {
+      "refinement": 3,
+      "desc": "장착 캐릭터의 원소전투 스킬이 적에게 명중 시, 「호수의 애도」를 획득한다: 공격력이 <span>12%</span> 증가한다. 지속 시간: 8초, 최대 중첩수: 3스택. 0.1초마다 최대 1회 발동된다. 스택마다 지속 시간은 독립적으로 계산된다. 3스택 중첩 시 장착 캐릭터가 주는 별빛 반응 피해의 치명타 피해가 <span>80%</span> 증가하며, 별빛 반응을 발동하거나 별빛 반응 피해를 줄 시, 장착 캐릭터의 원소 에너지가 <span>5</span>pt 회복된다. 상술한 원소 에너지 회복 효과는 3.5초마다 최대 1회 발동된다. 장착 캐릭터가 대기 상태일 때도 상술한 효과가 발동된다"
+    },
+    {
+      "refinement": 4,
+      "desc": "장착 캐릭터의 원소전투 스킬이 적에게 명중 시, 「호수의 애도」를 획득한다: 공격력이 <span>14%</span> 증가한다. 지속 시간: 8초, 최대 중첩수: 3스택. 0.1초마다 최대 1회 발동된다. 스택마다 지속 시간은 독립적으로 계산된다. 3스택 중첩 시 장착 캐릭터가 주는 별빛 반응 피해의 치명타 피해가 <span>95%</span> 증가하며, 별빛 반응을 발동하거나 별빛 반응 피해를 줄 시, 장착 캐릭터의 원소 에너지가 <span>5.5</span>pt 회복된다. 상술한 원소 에너지 회복 효과는 3.5초마다 최대 1회 발동된다. 장착 캐릭터가 대기 상태일 때도 상술한 효과가 발동된다"
+    },
+    {
+      "refinement": 5,
+      "desc": "장착 캐릭터의 원소전투 스킬이 적에게 명중 시, 「호수의 애도」를 획득한다: 공격력이 <span>16%</span> 증가한다. 지속 시간: 8초, 최대 중첩수: 3스택. 0.1초마다 최대 1회 발동된다. 스택마다 지속 시간은 독립적으로 계산된다. 3스택 중첩 시 장착 캐릭터가 주는 별빛 반응 피해의 치명타 피해가 <span>110%</span> 증가하며, 별빛 반응을 발동하거나 별빛 반응 피해를 줄 시, 장착 캐릭터의 원소 에너지가 <span>6</span>pt 회복된다. 상술한 원소 에너지 회복 효과는 3.5초마다 최대 1회 발동된다. 장착 캐릭터가 대기 상태일 때도 상술한 효과가 발동된다"
+    }
+  ]
+}

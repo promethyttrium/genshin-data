@@ -1,0 +1,40 @@
+{
+  "_id": 25133701,
+  "id": "voywolf_hunter",
+  "monsterId": 25133702,
+  "name": "Caçador Lupino",
+  "specialNames": [
+    "Caçador Lupino"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Monstros diversos",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Greyhound",
+  "description": "Um Volkodlak que se tornou extremamente poderoso após herdar mais do poder em sua linhagem sanguínea.\\nEsse clã prosperou no passado a ponto de poderem servir como um exército independente a serviço do Rei das Feras. Mas após o Czar Belyi, mestre da corte real da Estrela Azul, unificar as terras congeladas, as perdas relativamente pequenas do clã na guerra fizeram com que eles ficassem sob suspeita. Eles entraram em declínio gradual e, quando a Tsaritsa subiu ao trono, eles haviam se retirado do centro do poder em Snezhnaya. Hoje, a maioria dos Volkodlak de alcateias faz seus lares nas planícies nevadas e florestas montanhosas.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 18.287561,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

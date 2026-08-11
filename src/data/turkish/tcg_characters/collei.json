@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Doğa",
+    "weapon": "Yay",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3234,
@@ -29,8 +31,10 @@
     {
       "id": "supplicants_bowmanship",
       "name": "Yakarışçının Okçuluğu",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -49,8 +53,10 @@
     {
       "id": "floral_brush",
       "name": "Doğa Temizliği",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "3 <span style=\"color:#7EC236FF\">Doğa Hasarı</span> verir.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "trumpcard_kitty",
       "name": "Kedicik Kozu",
-      "desc": "? ? verir ve 1 <span style=\"color:#FFFFFFFF\">Cuilein-Anbar</span> çağırır.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#7EC236FF\">Doğa Hasarı</span> verir ve 1 <span style=\"color:#FFFFFFFF\">Cuilein-Anbar</span> çağırır.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1107,

@@ -1,0 +1,28 @@
+{
+  "_id": 332065,
+  "id": "witchs_homework",
+  "shareId": 618,
+  "name": "Bài Tập Của Ma Nữ",
+  "title": "Bài Tập Của Ma Nữ",
+  "desc": "\"Thay vì một kịch bản mà chúng ta bất ngờ nhảy vào cứu vãn tình thế, thì việc xây dựng nền tảng theo thời gian sẽ hợp lý hơn...\"",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Nguyên Tố Tương Đồng",
+    "card_type": "Thẻ Sự Kiện",
+    "energy": [
+      {
+        "_id": 1108,
+        "id": "matching_element",
+        "type": "Nguyên Tố Tương Đồng",
+        "count": 1
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "Rút 1 thẻ Thiên Phú. Nếu bộ bài phe ta ban đầu có ít nhất 3 thẻ Thiên Phú, sẽ áp dụng <span style=\"color:#FFFFFFFF\">Giảm Chi Phí</span> cho 1 thẻ Thiên Phú ngẫu nhiên có <span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Chi Phí Xúc Xắc Nguyên Tố Hiện Tại</span></span> cao nhất trên tay."
+    }
+  ]
+}

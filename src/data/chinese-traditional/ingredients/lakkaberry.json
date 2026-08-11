@@ -48,10 +48,14 @@
       "_id": 3612,
       "id": "birchsteamed_pork_ribs",
       "name": "樺木蒸肋排"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "甜滋滋冰淇淋球"
     }
   ],
   "source": [
     "野外採集"
-  ],
-  "rarity": 0
+  ]
 }

@@ -13,7 +13,6 @@
   "categoryText": "Automatons",
   "filename_icon": "UI_MonsterIcon_Gargoyle_Fafnir",
   "description": "This dragon-shaped combat machine is a being that inspires fear, much like the lord who once ruled these vast lands.\\nIt is said that the now-destroyed realm once sought forbidden knowledge and attempted to create perpetual-motion machines that could match or even surpass primordial lifeforms. This mysterious, tireless mechanical monstrosity seems to be proof that they did indeed reach heights that mortals should never have attained.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

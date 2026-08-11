@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Хиличурлы",
   "filename_icon": "UI_MonsterIcon_Hili_Ice_Range",
   "description": "Примитивные кочевые представители Тейватской фауны.\\nХиличурлы научились использовать Крио слаймов, чтобы дольше сохранять еду свежей. Эти дикари с завидной изобретательностью находят слаймам неожиданное практическое применение. Взрывающиеся бочки из Крио и Пиро, аэростаты из Анемо слаймов... С помощью этих изобретений они делают свою тяжёлую жизнь немного проще.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

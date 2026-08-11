@@ -48,10 +48,14 @@
       "_id": 3612,
       "id": "birchsteamed_pork_ribs",
       "name": "Huş Buharında Kaburga"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Tatlı Toplar"
     }
   ],
   "source": [
     "Doğada bulunur."
-  ],
-  "rarity": 0
+  ]
 }

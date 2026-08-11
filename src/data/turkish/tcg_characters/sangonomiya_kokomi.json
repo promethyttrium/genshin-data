@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Su",
+    "weapon": "Katalizör",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3600,
@@ -29,8 +31,10 @@
     {
       "id": "the_shape_of_water",
       "name": "Suyun Şekli",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -50,7 +54,9 @@
       "id": "kurages_oath",
       "name": "Kurage Yemini",
       "desc": "Bu karakter <span style=\"color:#80C0FFFF\">Su Etkisi</span> kazanır ve 1 <span style=\"color:#FFFFFFFF\">Bake-Kurage</span> çağırır.",
-      "skillTag": [],
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "nereids_ascension",
       "name": "Nereid'in Yükselişi",
-      "desc": "? ? verir. Tüm müttefik karakterler için 1 Can yeniler. Bu karakter <span style=\"color:#FFFFFFFF\">Merasim Elbisesi</span> kazanır.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir. Tüm müttefik karakterler için 1 Can yeniler. Bu karakter <span style=\"color:#FFFFFFFF\">Merasim Elbisesi</span> kazanır.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1102,

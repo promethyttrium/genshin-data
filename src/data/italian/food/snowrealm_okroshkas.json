@@ -1,0 +1,54 @@
+{
+  "_id": 3702,
+  "id": "snowrealm_okroshkas",
+  "name": "Okroska del regno innevato",
+  "description": "Una ciotola di zuppa fredda. Gli ingredienti cotti vengono disposti uniformemente in una ciotola, quindi ricoperti da un brodo a base di panna acida. Alcuni abitanti di Snezhnaya si sfidano a mandar giù una grande ciotola di questa zuppa tutta d'un fiato nei giorni più freddi, considerandola una prova del loro essere guerrieri capaci di dominare il freddo pungente.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 101280,
+      "id": "snowball_flower",
+      "name": "Fiore Palla di neve",
+      "amount": 3
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Uovo d'uccello",
+      "amount": 2
+    },
+    {
+      "_id": 110005,
+      "id": "ham",
+      "name": "Prosciutto",
+      "amount": 1
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Piatto DIF+",
+  "results": {
+    "suspicious": {
+      "_id": 108994,
+      "name": "Okroska del regno innevato sospetta",
+      "description": "Una ciotola di zuppa fredda. Bisogna sforzarsi un po' per riconoscere gli ingredienti che galleggiano nel brodo torbido. Le verdure sono sminuzzate come coriandoli, annegate insieme a enormi pezzi di prosciutto. Sembra che il cuoco si sia ricordato del prosciutto solo all'ultimo secondo, buttandocelo dentro in fretta e furia...",
+      "effect": "#Aumenta di 165 la DIF di tutti i membri del gruppo per 300 s. In modalità cooperativa, si applica solo ai tuoi personaggi."
+    },
+    "normal": {
+      "_id": 108995,
+      "name": "Okroska del regno innevato",
+      "description": "Una ciotola di zuppa fredda. Gli ingredienti cotti vengono disposti uniformemente in una ciotola, quindi ricoperti da un brodo a base di panna acida. Alcuni abitanti di Snezhnaya si sfidano a mandar giù una grande ciotola di questa zuppa tutta d'un fiato nei giorni più freddi, considerandola una prova del loro essere guerrieri capaci di dominare il freddo pungente.",
+      "effect": "#Aumenta di 200 la DIF di tutti i membri del gruppo per 300 s. In modalità cooperativa, si applica solo ai tuoi personaggi."
+    },
+    "delicious": {
+      "_id": 108996,
+      "name": "Okroska del regno innevato delizioso",
+      "description": "Una ciotola di zuppa fredda. Il brodo scintillante color bianco latte risulta fresco sul palato come la neve appena caduta, seguito all'istante da una corroborante esplosione di ricca panna acida. Grazie alle verdure croccanti, ai tuorli d'uovo sodi e al saporito prosciutto a dadini, ogni cucchiaiata offre una consistenza unica, come una deliziosa scatola a sorpresa.",
+      "effect": "#Aumenta di 235 la DIF di tutti i membri del gruppo per 300 s. In modalità cooperativa, si applica solo ai tuoi personaggi."
+    }
+  }
+}

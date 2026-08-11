@@ -1,0 +1,18 @@
+{
+  "_id": 104371,
+  "id": "teachings_of_glory",
+  "name": "Insegnamenti della gloria",
+  "description": "Materiale per l'aumento di livello dei talenti.\\nLa gloria è la sacra fede del regno glaciale.\\nEssa è una scintilla sepolta nelle profondità del suolo ghiacciato: se si riesce a individuarne la vera forma, dona il coraggio di ergersi contro il freddo pungente.",
+  "source": [
+    "Si acquista nel Negozio di regali"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Dominio della maestria: Visione condivisa IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Mercoledì",
+    "Sabato",
+    "Domenica"
+  ]
+}

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humains",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Bisonsaurus",
   "description": "Un guerrier des plaines, mais aussi un gardien tribal qui surveille les champs dorés.\\nIl s'est entraîné sans relâche depuis le moment où il a pris la décision de devenir un guerrier. Lorsqu'il abat son épée qu'il tient de ses deux mains pour asséner un coup puissant, une personne ordinaire ne peut résister à la force pure qui s'en dégage.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

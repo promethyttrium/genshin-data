@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Elektro",
+    "weapon": "Stangenwaffe",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3224,
@@ -29,8 +31,10 @@
     {
       "id": "invokers_spear",
       "name": "Speertechnik der Beschwörer",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -49,8 +53,10 @@
     {
       "id": "secret_rite_chasmic_soulfarer",
       "name": "Geheimer Ritus – Abgründiger Seelenwanderer",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].<br/>Verwandlungsstufe von <span style=\"color:#FFFFFFFF\">Paktverschworener Pfadklärer</span> +1.",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#FFACFFFF\">Elektro-SCH</span>.<br/>Verwandlungsstufe von <span style=\"color:#FFFFFFFF\">Paktverschworener Pfadklärer</span> +1.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "sacred_rite_wolfs_swiftness",
       "name": "Heiliger Ritus – Schnelligkeit des Wolfs",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].<br/>Verwandlungsstufe von <span style=\"color:#FFFFFFFF\">Paktverschworener Pfadklärer</span> +2.",
-      "skillTag": [],
+      "desc": "Verursacht 4 Pkt. <span style=\"color:#FFACFFFF\">Elektro-SCH</span>.<br/>Verwandlungsstufe von <span style=\"color:#FFFFFFFF\">Paktverschworener Pfadklärer</span> +2.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -84,7 +92,9 @@
       "id": "lawful_enforcer",
       "name": "Gesetzestreuer Vollstrecker",
       "desc": "Passiv – Erhält zu Beginn des Kampfes <span style=\"color:#FFFFFFFF\">Paktverschworener Pfadklärer</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Aplysia_Larva_02",
   "description": "Una creatura acquatica che caccia sparando proiettili d'acqua.\\nDa un punto di vista evolutivo, si suppone che gli Aberranti del Fontemer si siano sviluppati da creature acquatiche a causa di fattori ambientali specifici di Fontaine. Pertanto, si può dedurre che, in passato, le forme di vita acquatiche originarie di Fontaine non fossero molto diverse da quelle originarie delle altre regioni di Teyvat.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 13.49,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

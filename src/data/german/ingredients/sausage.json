@@ -13,6 +13,11 @@
   ],
   "recipes": [
     {
+      "_id": 1701,
+      "id": "podvorye_smoked_sausage",
+      "name": "Räucherwurst à la Podvorye"
+    },
+    {
       "_id": 2603,
       "id": "nodkrai_hot_dog",
       "name": "Nod-Krai-Hotdog"
@@ -45,6 +50,5 @@
   ],
   "source": [
     "Beim Verarbeiten von Gerichten zu erhalten"
-  ],
-  "rarity": 0
+  ]
 }

@@ -79,6 +79,11 @@
       "name": "모닥불의 기쁨"
     },
     {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "설국 냉수프"
+    },
+    {
       "_id": 4101,
       "id": "jade_parcels",
       "name": "비옥야채쌈"
@@ -111,6 +116,5 @@
   ],
   "source": [
     "요리 가공 획득"
-  ],
-  "rarity": 0
+  ]
 }

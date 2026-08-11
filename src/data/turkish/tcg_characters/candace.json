@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Su",
+    "weapon": "Mızrak",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3955,
@@ -29,8 +31,10 @@
     {
       "id": "gleaming_spear_guardian_stance",
       "name": "Işıltılı Mızrak - Muhafız Duruşu",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -50,7 +54,9 @@
       "id": "sacred_rite_herons_sanctum",
       "name": "Kutsal Ayin: Balıkçıl Kalkanı",
       "desc": "Bu karakter bir <span style=\"color:#FFFFFFFF\">Balıkçıl Kalkanı</span> kuşanır ve undefined: <span style=\"color:#FFFFFFFF\">Balıkçıl Saldırısı</span> kullanır.",
-      "skillTag": [],
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "sacred_rite_wagtails_tide",
       "name": "Kutsal Ayin: Kuyruksallayan Dalgası",
-      "desc": "? ? verir ve 1 <span style=\"color:#FFFFFFFF\">Kızıl Taç Duası</span> oluşturur.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir ve 1 <span style=\"color:#FFFFFFFF\">Kızıl Taç Duası</span> oluşturur.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1102,

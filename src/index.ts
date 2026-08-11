@@ -2,6 +2,7 @@ import type { Artifact } from './types/artifact';
 import type { Character } from './types/character';
 import type { Food } from './types/food';
 import type { Weapon } from './types/weapon';
+import type { WeaponSkin } from './types/weapon_skin';
 import type { CommonMaterial } from './types/common_material';
 import type { ElementalStoneMaterial } from './types/elemental_stone_material';
 import type { Ingredient } from './types/ingredient';
@@ -47,6 +48,7 @@ export type {
   Artifact,
   Character,
   Weapon,
+  WeaponSkin,
   CommonMaterial,
   DomainsJSON,
   Domain,
@@ -117,6 +119,14 @@ export default class GenshinData {
     return this.options.language;
   }
 
+  /**
+   * Gets the current game version.
+   * @returns The current game version. 
+   */
+  getGameVersion(): string {
+    return '7.0';
+  }
+
   private async findByFolder<T>(
     folder: Folders,
     query?: QueryOpts<T>
@@ -140,6 +150,15 @@ export default class GenshinData {
    */
   async weapons(query?: QueryOpts<Weapon>): Promise<Weapon[]> {
     return this.findByFolder('weapons', query);
+  }
+
+  /**
+   * Gets a list of weapon skins.
+   * @param query The query options.
+   * @returns A list of weapon skins.
+   */
+  async weaponSkins(query?: QueryOpts<WeaponSkin>): Promise<WeaponSkin[]> {
+    return this.findByFolder('weapon_skins', query);
   }
 
   /**

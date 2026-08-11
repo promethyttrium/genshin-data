@@ -13,7 +13,6 @@
   "categoryText": "Dağ Yabanileri",
   "filename_icon": "UI_MonsterIcon_Brute_Rock_None",
   "description": "Bin zirvenin arasından yürüyen gizemli bir dağ yabanisi \"lordu\".\\nKabiledekiler bu devasa dağ yabanisine \"reis\" der. Çevrede bol miktarda bulunan Toprak enerjisi; bu dağ yabanisinin etine, kanına ve derisine bürünerek kendisine adeta dağ kayasından oyulmuş bir görünüm kazandırmıştır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 8,
   "stats": {

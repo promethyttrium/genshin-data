@@ -25,19 +25,19 @@
       "_id": 112088,
       "id": "newborn_tainted_hydro_phantasm",
       "name": "Newborn Tainted Hydro Phantasm",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112087,
       "id": "scoop_of_tainted_water",
       "name": "Scoop of Tainted Water",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112086,
       "id": "drop_of_tainted_water",
       "name": "Drop of Tainted Water",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "สิ่งมีชีวิตธาตุ",
   "filename_icon": "UI_MonsterIcon_Necalevia_Normal",
   "description": "ในขณะที่ Oceanid ได้สูญพันธุ์ไปจาก Fontaine สิ่งมีชีวิตธาตุประหลาดก็ปรากฏขึ้นในน้ำ\\nสิ่งมีชีวิตธาตุที่ปรากฏขึ้นหลังภัยพิบัติชนิดนี้ ไม่มีความงามเหมือน Oceanid ในอดีต ดังนั้นพวกมันจึงถูกเรียกว่า Tainted Hydro (น้ำขุ่น) แม้ว่าพิษที่ละลายในน้ำจะเจือจางและชำระล้างแล้ว แต่นอกเสียจากว่าจะมีภาชนะบรรจุน้ำบริสุทธิ์อยู่ที่ใดสักแห่ง Oceanid ก็จะไม่ถือกำเนิดขึ้นเองในน้ำของ Fontaine อีกต่อไป",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

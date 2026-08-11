@@ -25,19 +25,19 @@
       "_id": 112097,
       "id": "chasmlight_fin",
       "name": "Chasmlight Fin",
-      "count": 0.2626
+      "count": 0.262
     },
     {
       "_id": 112096,
       "id": "lunar_fin",
       "name": "Lunar Fin",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112095,
       "id": "feathery_fin",
       "name": "Feathery Fin",
-      "count": 3.9394
+      "count": 3.939
     },
     {
       "_id": 400023,
@@ -83,13 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Striped",
   "description": "Binatang buas yang bermukim di gunung di Lembah Chenyu. Dinamakan Xuanwen Beast karena pola gelap di tubuhnya.\\nDalam cerita rakyat di area itu, binatang ini adalah pelayan Adeptus pada zaman dulu yang ditugaskan untuk menaklukkan kejahatan dan melindungi sebuah tempat. Setelah Adeptus tersebut meninggal, mereka pun berubah menjadi binatang yang ganas. Tidak ada yang bisa membuktikan cerita ini dan tidak ada yang pernah tahu identitas Adeptus yang dimaksud. Tapi ada satu hal yang pasti, lebih baik jauh-jauh dari makhluk ini untuk menjaga keselamatanmu.\\nSelama ribuan tahun, binatang-binatang ini telah kehilangan wilayahnya dalam jumlah besar karena eksploitasi manusia yang tiada hentinya. Sekarang ini, mereka kadang-kadang hanya bisa ditemukan di gunung-gunung terpencil di Lembah Chenyu ....",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 4,
   "stats": {
     "resistance": {

@@ -455,7 +455,7 @@
     {
       "id": "poetics_of_fuubutsu",
       "name": "Fuubutsu Şiirleri",
-      "description": "Kaedehara Kazuha bir Girdap tepkimesi tetiklediğinde, Girdaba giren Element türü için tüm grup üyelerine Kazuha'nın sahip olduğu Element Ustalığı başına %0,04 Element Hasarı Bonusu verir. Bu bonus 8 saniye sürer. Bu yöntemle aynı anda farklı elementler için bonus elde edilebilir.",
+      "description": "Kaedehara Kazuha bir Girdap veya Yıldız Girdabı tepkimesi tetiklediğinde, Girdaba giren Element türü için tüm grup üyelerine Kazuha'nın sahip olduğu Element Ustalığı başına %0,04 Element Hasarı Bonusu verir. Bu bonus 8 saniye sürer. Bu yöntemle aynı anda farklı elementler için bonus elde edilebilir.",
       "level": 4
     },
     {

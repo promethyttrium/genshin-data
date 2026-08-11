@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Elektrik",
+    "weapon": "Mızrak",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3849,
@@ -29,8 +31,10 @@
     {
       "id": "origin",
       "name": "Köken",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,7 +54,9 @@
       "id": "transcendence_baleful_omen",
       "name": "Bilinç Ötesi: Uğursuzluk Alameti",
       "desc": "1 <span style=\"color:#FFFFFFFF\">Hiddetli Yargının Gözü</span> çağırır.",
-      "skillTag": [],
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "secret_art_musou_shinsetsu",
       "name": "Gizli Sanat: Musou Shinsetsu",
-      "desc": "? ? verir ve diğer karakterlerin 2 <span style=\"color:#FFFFFFFF\">Enerji</span> kazanır.",
-      "skillTag": [],
+      "desc": "3 <span style=\"color:#FFACFFFF\">Elektrik Hasarı</span> verir ve diğer karakterlerin 2 <span style=\"color:#FFFFFFFF\">Enerji</span> kazanır.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -84,7 +92,9 @@
       "id": "chakra_desiderata",
       "name": "Çakra Desiderata",
       "desc": "(Pasif) Savaş başladığında bu karakter <span style=\"color:#FFFFFFFF\">Çakra Desiderata</span> etkisi kazanır.",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

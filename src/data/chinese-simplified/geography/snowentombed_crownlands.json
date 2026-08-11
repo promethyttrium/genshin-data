@@ -1,0 +1,12 @@
+{
+  "_id": 70800032,
+  "id": "snowentombed_crownlands",
+  "name": "雪葬王冕之地",
+  "areaName": "白桦雪葬地",
+  "areaId": 80500,
+  "description": "此处既是行宫，亦是废墟。\n既是昔日的皇帝发号施令之所，亦是其骸骨归拢之地。",
+  "regionName": "至冬",
+  "regionId": 8,
+  "sortOrder": 632,
+  "filename_image": "UI_Codex_Scenery_ZDBaiShaHuangLingQin"
+}

@@ -1,7 +1,7 @@
 {
   "_id": 26220301,
   "id": "gluttonous_yumkasaur_mountain_king",
-  "monsterId": 26220303,
+  "monsterId": 84622032,
   "name": "Roi yumkasaure glouton de la montagne",
   "specialNames": [
     "Seigneur dans la montagne"
@@ -15,7 +15,7 @@
   "description": "Un puissant yumkasaure qui a survécu jusqu'à nos jours à la fois aux ravages du temps et à d'innombrables batailles.\\nCe « roi de la montagne », qui a autrefois uni ses forces aux grands héros contre la marée noire, occupe une place particulière dans le cœur des Êtres des canopées. Certains membres tribaux pensent qu'il a sa forme corporelle actuelle parce qu'il a un physique unique, comme le qucusaure « Tyran »... Même si en fait, c'est simplement parce qu'il a vécu si longtemps et beaucoup, beaucoup trop mangé...",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 7,
-  "budget": 1,
+  "budget": 2,
   "stats": {
     "resistance": {
       "physical": 0.1,

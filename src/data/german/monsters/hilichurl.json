@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl-Stämme",
   "filename_icon": "UI_MonsterIcon_Hili_None_01",
   "description": "Die naturverbundenen, umherziehenden Bewohner der Wildnis von Teyvat.\\nObwohl Menschen nicht unähnlich, scheinen sie Geist und Intellekt verloren zu haben. Aufzeichnungen über sie sind über tausend Jahre alt, gleichwohl weisen sie weder Geschichte noch eine Kultur auf.\\nSeit der schrecklichen Katastrophe vor 500 Jahren verbreiteten sie sich in großer Zahl. Sie sind weder sonderlich stark noch organisiert, trotzdem bereiten sie den Menschen gelegentlich große Probleme.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

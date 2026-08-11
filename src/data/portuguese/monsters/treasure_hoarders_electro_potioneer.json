@@ -59,22 +59,21 @@
       "_id": 112036,
       "id": "silver_raven_insignia",
       "name": "Insígnia do Corvo Prateado",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112035,
       "id": "treasure_hoarder_insignia",
       "name": "Insígnia dos Ladrões de Tesouro",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Electric_01",
   "description": "Um membro da organização criminosa descentralizada que tem rastros em todo o continente e até mesmo nas profundezas de domínios desconhecidos.\\n\"Mestre das Poções\" é o apelido dado aos membros da organização Ladrões de Tesouro que sabem como preparar substâncias químicas perigosas.\\n<i>\"O quê? Você achou que este tesouro tem a ver com a Guilda de Aventureiros ou algo assim?\"</i>\\n— Um certo Mestre das Poções dos Ladrões de Tesouro durante um confronto com aventureiros.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

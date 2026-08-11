@@ -1,0 +1,40 @@
+{
+  "_id": 25130201,
+  "id": "winged_soarer_knight",
+  "monsterId": 25130302,
+  "name": "Крылатый парящий рыцарь",
+  "specialNames": [
+    "Крылатый парящий рыцарь"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Мистические звери",
+  "filename_icon": "UI_MonsterIcon_Human_Girl_Vila_Blade",
+  "description": "Вила - крылатый альв, способный летать.\\nГоворят, народ вил последовал за Белым царём ещё тогда, когда тот только начал объединять земли вечной мерзлоты. Их способность ненадолго подниматься в воздух делает их необычайно манёвренными. Разведка вражеских позиций и стремительные рейды на большие расстояния - всё это им по плечу.\\nБольшинство бойцов Дружины, личной гвардии, созданной Белым царём, составляли именно вилы.",
+  "bgm": 1,
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.2,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 4.57189,
+      "attack": 40.552467,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

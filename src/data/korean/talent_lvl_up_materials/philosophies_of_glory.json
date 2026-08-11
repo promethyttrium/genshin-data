@@ -1,0 +1,30 @@
+{
+  "_id": 104373,
+  "id": "philosophies_of_glory",
+  "name": "「영광」의 철학",
+  "description": "특성 육성 소재.\\n「영광」은 얼음 국토의 신앙이다.\\n영광은 횃불대 위에서 꺼지지 않는 불꽃이며, 이제는 눈보라의 나라와 운명을 함께한다. 그 불꽃은 사람들의 숭고한 열정을 일깨우고, 사람들은 불꽃이 영원히 타오르도록 기꺼이 자신의 모든 것을 바친다",
+  "source": [
+    "슬롯-합성 가능 수량: {0}"
+  ],
+  "location": "스네즈나야",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104372,
+        "id": "guide_to_glory",
+        "name": "「영광」의 인도",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "숙달 비경: 공관 IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "수요일",
+    "토요일",
+    "일요일"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "_id": 70800031,
+  "id": "borderlands_town",
+  "name": "La ville des terres frontalières",
+  "areaName": "Toundra volkodlak",
+  "areaId": 80100,
+  "description": "Une ville qui connut jadis une période de prospérité. Autrefois, un flot incessant de voyageurs la traversait, circulant régulièrement entre Snezhnaya et Nod-Krai.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 631,
+  "filename_image": "UI_Codex_Scenery_ZDYingKeZhen"
+}

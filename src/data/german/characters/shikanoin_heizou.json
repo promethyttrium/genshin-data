@@ -429,7 +429,7 @@
     {
       "id": "paradoxical_practice",
       "name": "Unterricht der Ablehnung",
-      "description": "Shikanoin Heizou erhält beim Auslösen einer Verwirbelung auf dem Feld eine Stapelung des Effekts „Deklination“ für die <span style=\"color:#FFD780FF\">Faust der Brüderlichkeit</span>, 0,1 s Abklingzeit.",
+      "description": "Verleiht Shikanoin Heizou beim Auslösen einer Verwirbelung oder Stellar-Verwirbelung auf dem Feld eine Stapelung des Effekts „Deklination“ für die <span style=\"color:#FFD780FF\">Faust der Brüderlichkeit</span>, 0,1 s Abklingzeit.",
       "level": 1
     },
     {

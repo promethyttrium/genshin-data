@@ -1,0 +1,18 @@
+{
+  "_id": 200909,
+  "id": "scepter_of_the_snow_angler_king",
+  "name": "Vua Câu Xứ Tuyết",
+  "description": "Trong khi câu cá, nếu có thể khống chế lực kéo nằm trong phạm vi tốt nhất, thì sử dụng cần câu này sẽ rút ngắn thời gian cá vùng vẫy, tăng tỉ lệ câu thành công. Chỉ có hiệu lực ở Snezhnaya.<br/><br/>Cần câu Tạo Vật Chân Băng được chế tạo bởi một nghệ nhân vô danh, được mệnh danh là \"quyền trượng của vua câu cá xứ tuyết\", hiện đang được gửi tại Hội Câu Cá Snezhnaya. Tương truyền, chỉ những thợ câu với kỹ thuật xuất sắc nhất, đồng thời đã trải qua sự tôi luyện của gió tuyết, mới xứng đáng sử dụng chiếc cần câu này...",
+  "rarity": 4,
+  "processing": [
+    {
+      "_id": 100017,
+      "id": "wheat",
+      "name": "Tiểu Mạch",
+      "amount": 1
+    }
+  ],
+  "source": [
+    "Đổi ở Hội Câu Cá Snezhnaya"
+  ]
+}

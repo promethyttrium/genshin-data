@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Bộ Tộc Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hili_Electric_Range",
   "description": "Cư dân nguyên thủy lang thang nơi hoang dã ở Teyvat.\\nXạ thủ tay cầm cung nỏ đơn giản, mũi tên được làm từ mảnh pha lê điện được mài nhọn, để khi bắn trúng sẽ gây ra điện giật. Nghe nói xạ thủ Hilichurl thiện xạ có thể cùng lúc bắn 5 mũi tên, vô cùng lợi hại.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

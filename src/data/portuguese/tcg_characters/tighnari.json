@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Arco",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3715,
@@ -29,8 +31,10 @@
     {
       "id": "khanda_barrierbuster",
       "name": "Rompedor de Barreiras Khanda",
-      "desc": "Causa ? de ?",
-      "skillTag": [],
+      "desc": "Causa 2 de ?",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -49,8 +53,10 @@
     {
       "id": "vijnanaphala_mine",
       "name": "Mina Vijnana-Phala",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, este personagem é afetado por <span style=\"color:#FFFFFFFF\">Perfurador Vijnana</span>.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de <span style=\"color:#7EC236FF\">Dano Dendro</span>, este personagem é afetado por <span style=\"color:#FFFFFFFF\">Perfurador Vijnana</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "fashioners_tanglevine_shaft",
       "name": "Flecha Enraizadora Artificial",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, causa 1 ponto de <span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Dano Perfurante</span></span> a todos os Personagens Inativos do oponente.",
-      "skillTag": [],
+      "desc": "Causa 4 pontos de <span style=\"color:#7EC236FF\">Dano Dendro</span>, causa 1 ponto de <span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Dano Perfurante</span></span> a todos os Personagens Inativos do oponente.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1107,

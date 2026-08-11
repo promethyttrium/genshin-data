@@ -1,0 +1,182 @@
+{
+  "_id": 69,
+  "id": "snezhnaya_sacred_city_of_ice_and_pale_star_i",
+  "name": "Snezhnaya - Thánh Đô Của Băng Và Sao Nhạt (I)",
+  "order": 72,
+  "achievements": [
+    {
+      "id": 80504,
+      "name": "Thám Hiểm Đại Lục - Vương Quốc Tuyết Phủ I",
+      "desc": "Thắp sáng bản đồ Vùng Đất Băng Vĩnh Cửu, Lãnh Nguyên Volkodlak, Thung Lũng Lông Vũ Lửa, Lăng Mộ Bạch Dương Tuyết, Đỉnh Băng Giá trong khu vực Snezhnaya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 463
+    },
+    {
+      "id": 80505,
+      "name": "Vượt Qua Vùng Tuyết Đóng Băng I",
+      "desc": "Mở khóa tất cả Điểm Dịch Chuyển tại Vùng Đất Băng Vĩnh Cửu, Lãnh Nguyên Volkodlak, Thung Lũng Lông Vũ Lửa, Lăng Mộ Bạch Dương Tuyết, Đỉnh Băng Giá trong khu vực Snezhnaya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 464
+    },
+    {
+      "id": 80506,
+      "name": "Thánh Đường Hành Hương - Vương Quốc Tuyết Phủ I",
+      "desc": "Mở phong ấn tất cả Đền Địa Linh ở Vùng Đất Băng Vĩnh Cửu, Lãnh Nguyên Volkodlak, Thung Lũng Lông Vũ Lửa, Lăng Mộ Bạch Dương Tuyết, Đỉnh Băng Giá trong khu vực Snezhnaya.",
+      "reward": 10,
+      "hidden": false,
+      "order": 465
+    },
+    {
+      "id": 80507,
+      "name": "Trong Trẻo Như Băng",
+      "desc": "Hiến tế Thất Thiên Thần Tượng Snezhnaya đạt cấp tối đa.",
+      "reward": 20,
+      "hidden": false,
+      "order": 466
+    },
+    {
+      "id": 80508,
+      "name": "Quà Tặng Ảnh Vực - Vương Quốc Tuyết Phủ I",
+      "desc": "Mở phong ấn tất cả Kho Báu Di Vật Ảnh Vực tại Vùng Đất Băng Vĩnh Cửu, Lãnh Nguyên Volkodlak, Thung Lũng Lông Vũ Lửa, Lăng Mộ Bạch Dương Tuyết, Đỉnh Băng Giá trong khu vực Snezhnaya.",
+      "reward": 10,
+      "hidden": false,
+      "order": 467
+    },
+    {
+      "id": 80509,
+      "name": "Người Dẫn Đường Lãnh Nguyên I",
+      "desc": "Đuổi theo 3 tiên linh và thắp sáng Đài Tiên Linh ở Vùng Đất Băng Vĩnh Cửu, Lãnh Nguyên Volkodlak, Thung Lũng Lông Vũ Lửa, Lăng Mộ Bạch Dương Tuyết, Đỉnh Băng Giá.",
+      "reward": 5,
+      "hidden": false,
+      "order": 468
+    },
+    {
+      "id": 80510,
+      "name": "Người Dẫn Đường Lãnh Nguyên I",
+      "desc": "Đuổi theo 5 tiên linh và thắp sáng Đài Tiên Linh ở Vùng Đất Băng Vĩnh Cửu, Lãnh Nguyên Volkodlak, Thung Lũng Lông Vũ Lửa, Lăng Mộ Bạch Dương Tuyết, Đỉnh Băng Giá.",
+      "reward": 10,
+      "hidden": false,
+      "order": 469,
+      "preStage": 80509
+    },
+    {
+      "id": 80511,
+      "name": "Người Dẫn Đường Lãnh Nguyên I",
+      "desc": "Đuổi theo 10 tiên linh và thắp sáng Đài Tiên Linh ở Vùng Đất Băng Vĩnh Cửu, Lãnh Nguyên Volkodlak, Thung Lũng Lông Vũ Lửa, Lăng Mộ Bạch Dương Tuyết, Đỉnh Băng Giá.",
+      "reward": 20,
+      "hidden": false,
+      "order": 470,
+      "preStage": 80510
+    },
+    {
+      "id": 80512,
+      "name": "Thợ Săn Kho Báu Mùa Đông I",
+      "desc": "Mở 65 rương báu tại Vùng Đất Băng Vĩnh Cửu, Lãnh Nguyên Volkodlak, Thung Lũng Lông Vũ Lửa, Lăng Mộ Bạch Dương Tuyết, Đỉnh Băng Giá.",
+      "reward": 5,
+      "hidden": false,
+      "order": 471
+    },
+    {
+      "id": 80513,
+      "name": "Thợ Săn Kho Báu Mùa Đông I",
+      "desc": "Mở 130 rương báu tại Vùng Đất Băng Vĩnh Cửu, Lãnh Nguyên Volkodlak, Thung Lũng Lông Vũ Lửa, Lăng Mộ Bạch Dương Tuyết, Đỉnh Băng Giá.",
+      "reward": 10,
+      "hidden": false,
+      "order": 472,
+      "preStage": 80512
+    },
+    {
+      "id": 80514,
+      "name": "Thợ Săn Kho Báu Mùa Đông I",
+      "desc": "Mở 260 rương báu tại Vùng Đất Băng Vĩnh Cửu, Lãnh Nguyên Volkodlak, Thung Lũng Lông Vũ Lửa, Lăng Mộ Bạch Dương Tuyết, Đỉnh Băng Giá.",
+      "reward": 20,
+      "hidden": false,
+      "order": 473,
+      "preStage": 80513
+    },
+    {
+      "id": 80515,
+      "name": "Nhà Mạo Hiểm Mùa Đông I",
+      "desc": "Tại Vùng Đất Băng Vĩnh Cửu, Lãnh Nguyên Volkodlak, Thung Lũng Lông Vũ Lửa, Lăng Mộ Bạch Dương Tuyết, Đỉnh Băng Giá, hoàn thành 6 khiêu chiến Đại Thế Giới trong thời gian quy định.",
+      "reward": 5,
+      "hidden": false,
+      "order": 474
+    },
+    {
+      "id": 80516,
+      "name": "Nhà Mạo Hiểm Mùa Đông I",
+      "desc": "Tại Vùng Đất Băng Vĩnh Cửu, Lãnh Nguyên Volkodlak, Thung Lũng Lông Vũ Lửa, Lăng Mộ Bạch Dương Tuyết, Đỉnh Băng Giá, hoàn thành 12 khiêu chiến Đại Thế Giới trong thời gian quy định.",
+      "reward": 10,
+      "hidden": false,
+      "order": 475,
+      "preStage": 80515
+    },
+    {
+      "id": 80517,
+      "name": "Nhà Mạo Hiểm Mùa Đông I",
+      "desc": "Tại Vùng Đất Băng Vĩnh Cửu, Lãnh Nguyên Volkodlak, Thung Lũng Lông Vũ Lửa, Lăng Mộ Bạch Dương Tuyết, Đỉnh Băng Giá, hoàn thành 24 khiêu chiến Đại Thế Giới trong thời gian quy định.",
+      "reward": 20,
+      "hidden": false,
+      "order": 476,
+      "preStage": 80516
+    },
+    {
+      "id": 80518,
+      "name": "Nấc Thang Tình Yêu",
+      "desc": "Hoàn thành \"Hesperides Của Yêu Và Hận\".",
+      "reward": 10,
+      "hidden": false,
+      "order": 477
+    },
+    {
+      "id": 80519,
+      "name": "Hội Tụ Vì Hạnh Phúc Vĩnh Hằng",
+      "desc": "Hoàn thành \"Nơi Ở Của Sự Sống\".",
+      "reward": 10,
+      "hidden": false,
+      "order": 478
+    },
+    {
+      "id": 80520,
+      "name": "Muôn Vàn Tình Yêu, Hoặc Như Một Tiếng Thở Dài",
+      "desc": "Thành công ngăn chặn \"Người Nguyên Sơ\" biến thế giới thành khu vườn không tình yêu cũng chẳng muộn phiền.",
+      "reward": 10,
+      "hidden": false,
+      "order": 479
+    },
+    {
+      "id": 80521,
+      "name": "Sự Ra Đời Của Giọng Ca Trong Vỏ",
+      "desc": "Tăng cấp xây dựng Nơi Tụ Họp: Hang Bài Ca Thủy Triều đến tối đa.",
+      "reward": 5,
+      "hidden": false,
+      "order": 480
+    },
+    {
+      "id": 80522,
+      "name": "Săn Tìm Giá Trị Giữa Thế Giới Tỉnh Táo",
+      "desc": "Tăng cấp xây dựng Nơi Tụ Họp: Nhà Gỗ Thợ Săn đến tối đa.",
+      "reward": 5,
+      "hidden": false,
+      "order": 481
+    },
+    {
+      "id": 80523,
+      "name": "Ca Ngợi Người Được Chọn",
+      "desc": "Tăng cấp xây dựng Nơi Tụ Họp: Nhà Hát Korolevskiy đến tối đa.",
+      "reward": 5,
+      "hidden": false,
+      "order": 482
+    },
+    {
+      "id": 80529,
+      "name": "Mở Ra Đôi Mắt Bị Màn Đêm Khép Lại",
+      "desc": "Hoàn thành việc khôi phục Rankova Zorya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 488
+    }
+  ]
+}

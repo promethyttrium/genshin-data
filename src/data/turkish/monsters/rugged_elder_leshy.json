@@ -1,0 +1,40 @@
+{
+  "_id": 25137001,
+  "id": "rugged_elder_leshy",
+  "monsterId": 25137006,
+  "name": "Dayanıklı İhtiyar Leshi",
+  "specialNames": [
+    "Genç Ağaç Parçası"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Efsanevi Canavarlar",
+  "filename_icon": "UI_MonsterIcon_Leshy_Mature_01",
+  "description": "Ormanlarda ve vahşi doğada yetişen bir Leshi.\\nKısmi bir bilince sahip olan ve konuşma yeteneği bulunmayan Leshilerin, Altın Diyarın ilk deneylerinin bir sonucu olduğu düşünülmektedir. Ancak kayıtlar bunun tam tersini göstermektedir. Onları yaratan zanaatkarlar, yaşam üzerinde neredeyse mutlak bir hüküm kurup ustalaştıktan sonra bu Fey ırkını yaratmıştır.\\nBelki de bunda, günümüzde ne Feylerin ne de insanların tam olarak anlayabildiği bir amaç vardır.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.3,
+      "hydro": 0.1,
+      "geo": 0.3,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 21.945072,
+      "attack": 94.62242,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -369,7 +369,7 @@
     {
       "id": "field_medics_vision",
       "name": "Sichtfeld des Feldarztes",
-      "description": "Verleiht Ifa im Zustand Nachtseelensegen für jeden Nachtseelenpunkt aller Truppenmitglieder 1 Punkt <b><span style=\"color:#FFD780FF\">„Rettungsprinzipien“</span></b>. Rettungsprinzipien erhöhen den von Truppenmitgliedern in der Nähe mit den Reaktionen „Verwirbelung“, „Unter Strom“ und „Mond unter Strom“ verursachten Schaden.",
+      "description": "Verleiht Ifa im Zustand Nachtseelensegen für jeden Nachtseelenpunkt aller Truppenmitglieder 1 Punkt <b><span style=\"color:#FFD780FF\">„Rettungsprinzipien“</span></b>. Rettungsprinzipien erhöhen den von Truppenmitgliedern in der Nähe mit den Reaktionen „Verwirbelung“, „Stellar-Verwirbelung“, „Unter Strom“ und „Mond unter Strom“ verursachten Schaden.",
       "level": 1
     },
     {

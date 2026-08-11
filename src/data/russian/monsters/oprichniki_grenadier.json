@@ -1,52 +1,18 @@
 {
   "_id": 23073101,
   "id": "oprichniki_grenadier",
-  "monsterId": 23073102,
+  "monsterId": 23073104,
   "name": "Опричник: Гренадёр",
   "specialNames": [
     "Боец поддержки"
   ],
-  "investigation": {
-    "investigationId": 84,
-    "name": "Опричники Фатуи",
-    "categoryType": "Common",
-    "categoryText": "Обычные",
-    "description": "Фатуи в боевой машине.\\nВ отличие от застрельщиков, опричники - это официально набранные и тщательно обученные элитные подразделения. Их либо отправляют в самые важные опорные пункты Фатуи, либо бросают в ожесточённые бои на передовой."
-  },
-  "filename_investigationIcon": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
-  "rewardPreviewId": 16027,
-  "rewardPreview": [
-    {
-      "_id": 202,
-      "id": "mora",
-      "name": "Мора"
-    },
-    {
-      "_id": 112127,
-      "id": "frostetched_warrant",
-      "name": "Заиндевевший мандат",
-      "count": 0.084
-    },
-    {
-      "_id": 112126,
-      "id": "immaculate_warrant",
-      "name": "Безупречный мандат",
-      "count": 0.3362
-    },
-    {
-      "_id": 112125,
-      "id": "tattered_warrant",
-      "name": "Потрёпанный мандат",
-      "count": 1.2606
-    }
-  ],
+  "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Фатуи",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_Female",
   "description": "Солдат опричников Фатуи с переносным гранатомётом, способный вести шквальный огонь на близкой дистанции.\\nХотя у опричников обширный и всеобъемлющий арсенал огневой поддержки, сержанты настаивали на сохранении значительного количества гренадёров. В конце концов, на передовой даже самая мощная огневая мощь не была столь же эффективна, как передвижной отдельный гранатомёт.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

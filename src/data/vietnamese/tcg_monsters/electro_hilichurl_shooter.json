@@ -8,17 +8,21 @@
     "hp": 3,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Lôi",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null,
-      null
+      "Ma Vật",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "thunder_arrow",
       "name": "Mũi Tên Sét",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm <span style=\"color:#FFACFFFF\">Sát Thương Nguyên Tố Lôi</span>.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -37,8 +41,10 @@
     {
       "id": "multishot",
       "name": "Bắn Liên Tục",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 4 điểm <span style=\"color:#FFACFFFF\">Sát Thương Nguyên Tố Lôi</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -58,7 +64,9 @@
       "id": "hide",
       "name": "Nấp",
       "desc": "(Bị Động) Nhân vật này khi xuất chiêu sẽ tự động đổi đến nhân vật tiếp theo.",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Bị Động"
+      ],
       "points": []
     }
   ]

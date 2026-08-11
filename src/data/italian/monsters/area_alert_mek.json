@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automi",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_LengthShifter",
   "description": "Un meccanismo in grado di scagliare l'energia generata da una reazione di annichilazione. Tecnicamente parlando, era in origine un dispositivo di prova nato dalle ricerche dell'Istituto di Filosofia Naturale prima della fondazione dell'Istituto di ricerca di Fontaine.\\nPer questo, nonostante il suo considerevole successo commerciale come sentinella e dispositivo di difesa, la maggior parte degli ingegneri non lo considera un vero Mekautoma.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 6,
   "stats": {

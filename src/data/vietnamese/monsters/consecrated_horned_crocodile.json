@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Gator_Sacred_Water",
   "description": "Loài bò sát bị biến dị do nuốt chửng vật thể sống vĩ đại.\\nMãnh thú với tư thế uy nghiêm có lúc sẽ được mọi người kính sợ, được xem là hóa thân của sức mạnh to lớn, và mượn hình tượng của họ để làm nổi bật bản thân. Còn các dã thú thực sự được truyền \"sức mạnh vĩ đại\" phần lớn sẽ bỏ mạng vì thế, chỉ có số ít có thể tiến hóa thành hình thái mới.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

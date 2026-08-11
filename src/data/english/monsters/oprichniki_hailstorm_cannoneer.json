@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Male_Fat_CannonShield",
   "description": "An elite officer of the Fatui Oprichniki who uses a heavy cannon to tear enemy formations apart while using a mighty shield to defend their comrades.\\nBitter battles have dyed the shield frost white, while coatings of blood have tinted its edges black. Oprichniki officers know that empty words will never bring back those who have fallen in sacrifice — only a bombardment akin to a hailstorm can shake this defiled Old World.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

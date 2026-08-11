@@ -13,7 +13,6 @@
   "categoryText": "Hilichurl-Stämme",
   "filename_icon": "UI_MonsterIcon_Brute_Rock_None",
   "description": "Ein mysteriöser „Herr“ der Hilichurle, der zwischen unzähligen Gipfeln umherstapft.\\nDieser riesige Hilichurl wird von seinen Brüdern „Lawa“ genannt. Die überschwänglichen Geo-Energien in der Umgebung haben sich auf sein Fleisch, Blut und die Haut ausgewirkt, die aussieht wie aus Stein gehauen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 8,
   "stats": {

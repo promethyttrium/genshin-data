@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "สัตว์อสูรลึกลับ",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Beta_Rock",
   "description": "สิ่งมีชีวิตสปอร์ที่มีสติปัญญา มีความสามารถในการปรับตัวสูง\\nธาตุหินที่อุดมด้วยธาตุอาหารมากมาย จะสร้างเปลือกแข็งครอบไว้บนส่วนที่คล้ายหมวก เพื่อการชูโบกส่วนหัวที่หนักอึ้งนี้ โครงสร้างลำตัวของมันจึงต้องมีขนาดที่เหนียวแน่นกว่าชนิดอื่น ๆ",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

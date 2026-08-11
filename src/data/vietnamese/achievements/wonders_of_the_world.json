@@ -278,8 +278,8 @@
     },
     {
       "id": 81032,
-      "name": "QUEST FAILED",
-      "desc": "Để mất mục tiêu treo thưởng...",
+      "name": "QUEST FAILED OR ...",
+      "desc": "Trong Thưởng Thảo Phạt, mất dấu mục tiêu treo thưởng, hoặc không cần tiến hành Thưởng Thảo Phạt nữa...",
       "reward": 5,
       "hidden": true,
       "order": 1033
@@ -4641,6 +4641,214 @@
       "order": 1699
     },
     {
+      "id": 81700,
+      "name": "Dừng Lại Chút Đi, Đẹp Biết Bao",
+      "desc": "Dừng chân chốc lát trước cảnh đẹp của bạch dương và cung điện tuyết vùi.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1700
+    },
+    {
+      "id": 81701,
+      "name": "Người Siêu Việt Của Vương Quốc Ngày Mai",
+      "desc": "Thu thập đủ di vật của ai đó để lại trong Cung Vương Miện Nhạt Màu.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1701
+    },
+    {
+      "id": 81702,
+      "name": "Hiệu Ứng Lãi Kép",
+      "desc": "Lăn cầu tuyết đến kích thước lớn nhất.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1702
+    },
+    {
+      "id": 81703,
+      "name": "Tiếng Chuông Tân Hôn",
+      "desc": "Gióng lên tiếng chuông không còn lặp lại.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1703
+    },
+    {
+      "id": 81704,
+      "name": "Chuông Nguyện Hồn Ai",
+      "desc": "Để tiếng chuông không còn ràng buộc vang lên một lần nữa.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1704
+    },
+    {
+      "id": 81705,
+      "name": "Ảo Ảnh Trong Ánh Diêm",
+      "desc": "Để những người bất an sau cùng cũng được an ủi.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1705
+    },
+    {
+      "id": 81706,
+      "name": "Giới Hạn Và Phô Diễn",
+      "desc": "Có lẽ việc tác phẩm có tên gọi, chỉ là để tìm kiếm một sự cộng hưởng khác.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1706
+    },
+    {
+      "id": 81707,
+      "name": "Không Gian Cực Độ",
+      "desc": "Lần đầu đeo Mắt Xám.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1707
+    },
+    {
+      "id": 81708,
+      "name": "Tuyết, Kristall Và Tốc Độ",
+      "desc": "Khiến đoàn tàu cũ rích lột xác hoàn toàn.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1708
+    },
+    {
+      "id": 81709,
+      "name": "Băng Qua Sảnh Đường Phù Phiếm",
+      "desc": "Thu thập tất cả tranh của Nhà Hesperides và mở kho báu phía sau.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1709
+    },
+    {
+      "id": 81710,
+      "name": "Vì Mọi \"Bản Thân\" Trong Tương Lai",
+      "desc": "Cho dù bản thân như vậy vẫn chưa đến.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1710
+    },
+    {
+      "id": 81711,
+      "name": "Bởi Vì Cung Điện Ở Đó",
+      "desc": "Lên đến nơi cao nhất của Cung Điện Zapolyarny.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1711
+    },
+    {
+      "id": 81712,
+      "name": "Đóa Hồng Cuối Cùng Của Mùa Đông",
+      "desc": "...Còn thiêu thân cuối cùng cũng lụi tàn trong ngọn lửa.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1712
+    },
+    {
+      "id": 81714,
+      "name": "Lạnh Hơn Cả Truyện Cười Nhạt",
+      "desc": "Trong \"cuộc thi chịu lạnh\" với người Natlan, chiến thắng đối phương.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1714
+    },
+    {
+      "id": 81715,
+      "name": "Ya-ho!",
+      "desc": "Giúp Sương Linh \"Trưởng Làng\" chống lại sự xâm nhập của Volkodlak.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1715
+    },
+    {
+      "id": 81716,
+      "name": "Trên Bàn Tròn Có Bàn Cao Hơn",
+      "desc": "Nhưng liệu còn ai nhớ \"Tổ Chức Bàn Tròn\" là do Domovoy thành lập nhỉ...",
+      "reward": 5,
+      "hidden": true,
+      "order": 1716
+    },
+    {
+      "id": 81717,
+      "name": "Núi Băng Chìm Xuống, Và Không Còn Nổi Lên Nữa",
+      "desc": "Chứng kiến cái kết của Snegovik khổng lồ.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1717
+    },
+    {
+      "id": 81718,
+      "name": "\"Vườn Anh Đào Đã Bán\"",
+      "desc": "Chứng kiến ngôi nhà gỗ trên băng treo ngược, ngưng trệ và cuối cùng chìm xuống.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1718
+    },
+    {
+      "id": 81720,
+      "name": "Thành Công Quy Hoạch Tuyến Đường",
+      "desc": "Dùng Cơ Quan Nối Dây hoàn thành một lần di chuyển ngang dài 30 mét.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1720
+    },
+    {
+      "id": 81721,
+      "name": "Tựa Như Nguồn Cảm Hứng",
+      "desc": "Cầu tuyết bắn ra chưa chạm đất đã bắt đầu tan biến.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1721
+    },
+    {
+      "id": 81722,
+      "name": "Đường Này Không Thông",
+      "desc": "Thành công ngăn chặn cầu tuyết đang lăn.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1722
+    },
+    {
+      "id": 81724,
+      "name": "Đầu Gối Bền Bỉ",
+      "desc": "Duy trì trạng thái trượt đạt 20s.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1724
+    },
+    {
+      "id": 81728,
+      "name": "Lời Hứa Của Ngày Cũ",
+      "desc": "Thuở ấy, Zolnyy không có vua, mỗi người đều tự theo ý mình...",
+      "reward": 5,
+      "hidden": true,
+      "order": 1728
+    },
+    {
+      "id": 81729,
+      "name": "Koski, Phương Án",
+      "desc": "Giúp người Natlan, khiến người bạn Chim Dung Nham của cô ấy bình tĩnh lại.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1729
+    },
+    {
+      "id": 81730,
+      "name": "Ngưng Đọng Theo Ánh Nhìn Như Trong Tưởng Tượng",
+      "desc": "Đến gần bức tượng ngưng tụ từ hình bóng mờ ảo của cô gái trên ngọn hải đăng.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1730
+    },
+    {
+      "id": 81731,
+      "name": "Cơ Thể Say Sưa",
+      "desc": "Ta luôn có thể đánh thức một người thực sự say.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1731
+    },
+    {
       "id": 82008,
       "name": "Không Thể Phá Hủy",
       "desc": "Đập vỡ toàn bộ trụ nham trước khi Nham Nguyên Bản hồi sinh.",
@@ -5451,6 +5659,22 @@
       "order": 2309
     },
     {
+      "id": 82310,
+      "name": "Đợi Đã... Ngay Lúc Này!",
+      "desc": "Khi Tạo Vật Phái Sinh Bất Diệt trong trạng thái Sinh Mệnh Tỏa Sáng, hãy phá Khiên Hồi Sinh để ngắt đòn tấn công.",
+      "reward": 5,
+      "hidden": true,
+      "order": 2310
+    },
+    {
+      "id": 82311,
+      "name": "\"Sư Tử Gục Ngã\"",
+      "desc": "Khi Sư Tử Cánh Lai Ghép trong trạng thái Lùa Gió, hãy phá hủy toàn bộ Cầu Gió để đánh hạ nó.",
+      "reward": 5,
+      "hidden": true,
+      "order": 2311
+    },
+    {
       "id": 84000,
       "name": "Khởi đầu của chuyến hành trình dài",
       "desc": "Hoàn thành nhiệm vụ Ma Thần ở Mondstadt.",
@@ -6233,6 +6457,14 @@
       "reward": 5,
       "hidden": true,
       "order": 4107
+    },
+    {
+      "id": 84584,
+      "name": "Thiên Nga Tuyết Đen Nhảy Múa Trên Trời Cao",
+      "desc": "Đi làm những điều thiên nga tuyết chưa từng làm, mơ những giấc mơ thiên nga tuyết chưa từng có.",
+      "reward": 5,
+      "hidden": true,
+      "order": 4108
     },
     {
       "id": 85000,
@@ -7593,6 +7825,70 @@
       "reward": 10,
       "hidden": true,
       "order": 5165
+    },
+    {
+      "id": 84391,
+      "name": "Mở Màn Của Bão Tuyết",
+      "desc": "Lái đoàn tàu xuyên qua gió tuyết của Snezhnaya.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5166
+    },
+    {
+      "id": 84392,
+      "name": "Vở Kịch Thần Bí Của Sao Nhạt",
+      "desc": "Lấy được Thanh Kiếm Exaiphanes trong hang động băng.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5167
+    },
+    {
+      "id": 84393,
+      "name": "Cuồng Phong Gào Thét",
+      "desc": "Nhận lời mời gia nhập \"Rokot\" từ bạn đồng hành.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5168
+    },
+    {
+      "id": 84394,
+      "name": "Đất Nước Của Tuyết Không Được Thần Thương Yêu",
+      "desc": "Hoàn thành \"Đất Nước Của Tuyết Không Được Thần Thương Yêu\".",
+      "reward": 10,
+      "hidden": true,
+      "order": 5169
+    },
+    {
+      "id": 84395,
+      "name": "Vũ Điệu Của Tình Yêu Hoặc Hối Hận",
+      "desc": "Xem diễn thử \"Tìm Kiếm Linh Hồn\".",
+      "reward": 5,
+      "hidden": true,
+      "order": 5170
+    },
+    {
+      "id": 84396,
+      "name": "Bên Ngoài Vòng Lặp",
+      "desc": "Chứng kiến Mitya chủ động bước vào bão tuyết.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5171
+    },
+    {
+      "id": 84397,
+      "name": "Ba Kiểu Chết Của \"Vận Mệnh\"",
+      "desc": "Sống sót trong \"thế giới sau khi chết\".",
+      "reward": 5,
+      "hidden": true,
+      "order": 5172
+    },
+    {
+      "id": 84398,
+      "name": "Dạ Khúc Của Những Linh Hồn Đã Chết",
+      "desc": "Hoàn thành \"Dạ Khúc Của Những Linh Hồn Đã Chết\".",
+      "reward": 10,
+      "hidden": true,
+      "order": 5173
     },
     {
       "id": 84155,

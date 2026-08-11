@@ -1,0 +1,21 @@
+{
+  "_id": 310003,
+  "id": "golden_bough_of_nemorensis",
+  "name": "Galho Dourado de Nemorensis",
+  "description": "Uma gloriosa arma ilusória que surgiu das profundezas das Linhas Ley. Ela pode mudar sua aparência com base no Tipo Elemental de seu usuário. Dizem que, numa idade antiga, muito além de toda lembrança, um enviado divino dos céus concedeu essa espada ao sumo-sacerdote de Arcádia, concedendo a ele o direito de liderar a cidade sagrada, abençoada pelos mil ventos.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Espada"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "Metamorfose Radiante: Eternidade",
+    "priority": 2
+  },
+  "item_id": 341103,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphNemorensis_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphNemorensis"
+}

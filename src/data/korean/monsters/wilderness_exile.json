@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "심연",
   "filename_icon": "UI_MonsterIcon_WildHunt",
   "description": "칠흑 같은 안개를 동반해 얼어붙은 황야를 떠도는 유령. 그들의 출현은 더 끔찍한 재앙이 다가오고 있음을 예고하는 듯하다.\\n달 아래 사람들은 각자의 소원을 품고 여정에 오르지만, 모든 소원이 이루어지는 것은 아니다. 원한과 증오, 사랑과 이별, 갈망과 좌절 속에서 편히 잠들지 못하는 영혼들이 심연에 오염된다면, 유령이 되어 광란의 사냥의 짙은 안개 속에서 영원히 길을 잃을지도 모른다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

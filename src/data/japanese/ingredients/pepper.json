@@ -15,6 +15,11 @@
       "name": "チ虎魚焼き"
     },
     {
+      "_id": 1701,
+      "id": "podvorye_smoked_sausage",
+      "name": "セラーガーデン・スモークソーセージ"
+    },
+    {
       "_id": 2006,
       "id": "fried_radish_balls",
       "name": "大根の揚げ団子"
@@ -67,6 +72,5 @@
   ],
   "source": [
     "雑貨屋で購入"
-  ],
-  "rarity": 0
+  ]
 }

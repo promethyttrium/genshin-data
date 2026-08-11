@@ -1,0 +1,29 @@
+{
+  "_id": 114091,
+  "id": "exhilaration_of_the_cellared_spiritual_nectar",
+  "name": "Hilaridade do Néctar Espiritual",
+  "description": "Dizem as lendas que, há muito tempo, inúmeras caixas de bons vinhos foram despejadas num lago congelado.<br/>Alguns dizem que o vinho fazia parte dos suprimentos de guerra e teve que ser destruído após algum erro. Outros dizem que um certo Grande Duque dos Domovoy perdeu uma aposta para a Dama das Sereias.<br/>Somente quando chamas eternas azuis se espalharam pelo lago e os inimigos abaixo pereceram em ondas sufocantes, eles entenderam:<br/>Nas mãos de pessoas versadas no funcionamento do mundo, a água em si poderia queimar e até mesmo o mais doce dos néctares pode se provar mais mortal do que veneno.",
+  "source": [
+    "Quantidade a ser fabricada: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114090,
+        "id": "intoxication_of_the_cellared_spiritual_nectar",
+        "name": "Intoxicação do Néctar Espiritual",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domínio da Forja: Cicatrizes da Obsessão Maldita",
+  "days": [
+    "Terça-feira",
+    "Sexta-feira",
+    "Domingo"
+  ]
+}

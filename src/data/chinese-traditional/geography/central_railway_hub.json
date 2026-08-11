@@ -1,0 +1,12 @@
+{
+  "_id": 70800033,
+  "id": "central_railway_hub",
+  "name": "鐵路匯集的中樞",
+  "areaName": "永凝凍土",
+  "areaId": 80200,
+  "description": "如果將至冬比作一個鋼鐵身軀的巨人，那麼鐵路是其血管，而位於至冬堡的列車總站毫無疑問就是這巨人不斷跳動的心臟。",
+  "regionName": "至冬",
+  "regionId": 8,
+  "sortOrder": 633,
+  "filename_image": "UI_Codex_Scenery_ZDZhiDongBaoCheZhan"
+}

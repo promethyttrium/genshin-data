@@ -1,0 +1,58 @@
+{
+  "_id": 4712,
+  "id": "domain_of_forgery_chain_track_ii",
+  "name": "Domínio da Forja: Corrente de Trilho II",
+  "entranceId": 2106,
+  "entranceName": "Cicatrizes da Obsessão Maldita",
+  "description": "Um refúgio no passado para rebeldes em busca do sonho da volta da antiga ordem. Suas ilusões morreram com o fogo carmesim, deixando somente cinzas infinitas.\nDerrotar os inimigos que espreitam por aqui pode te conceder itens que podem ser usados para aprimorar seus equipamentos.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 36,
+  "unlockRank": 21,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "Anemo",
+    "Cryo"
+  ],
+  "daysOfWeek": [
+    "Terça-feira",
+    "Sexta-feira",
+    "Domingo"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP de Aventura",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "1550"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP de Amizade",
+      "count": "15"
+    },
+    {
+      "_id": 114090,
+      "id": "intoxication_of_the_cellared_spiritual_nectar",
+      "name": "Intoxicação do Néctar Espiritual"
+    },
+    {
+      "_id": 114089,
+      "id": "measured_pour_of_the_cellared_spiritual_nectar",
+      "name": "Dose Comedida do Néctar Espiritual"
+    }
+  ],
+  "monsterList": []
+}

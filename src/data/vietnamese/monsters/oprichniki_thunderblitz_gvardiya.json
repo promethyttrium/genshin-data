@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Female_Slim_MachineGun",
   "description": "Sĩ quan tinh nhuệ trực thuộc Oprichniki Fatui, giỏi dùng súng đôi chiến đấu.\\nKhác với đội tiên phong, sĩ quan của Oprichniki hầu như đều tốt nghiệp tại Học Viện Quân Đội Hoàng Gia Snezhnaya, dù là với thân phận quý tộc hay tài năng của dân thường. Dù sao thì trong lý tưởng nhân hậu của Nữ Hoàng, cả hai vốn dĩ không có gì khác biệt. Cũng như \"quân cận vệ\" theo truyền thống chỉ có thể do fae đảm nhiệm, giờ đây cũng đã trở thành danh hiệu vinh dự dành cho sĩ quan Oprichniki, trao cho những người xây dựng thế giới mới một cách bình đẳng.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Entités élémentaires",
   "filename_icon": "UI_MonsterIcon_Slime_Water_02",
   "description": "Un monstre de petite taille, issu des dépôts d'élément Hydro présents à l'état naturel.\\nOn raconte que certains utilisent ces créatures comme réserves d'eau d'urgence avant de partir explorer quelque région particulièrement aride ou quelque donjon profond. Mais l'élément Hydro présent en elles est en réalité bien trop concentré pour la consommation humaine.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

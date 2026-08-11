@@ -1,0 +1,18 @@
+{
+  "_id": 104368,
+  "id": "teachings_of_fortitude",
+  "name": "Insegnamenti della fermezza",
+  "description": "Materiale per l'aumento di livello dei talenti.\\nLa fermezza è il tratto distintivo del regno glaciale.\\nEssa deriva da un primordiale desiderio di sopravvivenza. Anche se disperso lontano dal suolo fertile, un fragile seme può affidarsi a questo disperato anelito per affondare le proprie radici in profondità sotto la tundra congelata.",
+  "source": [
+    "Si acquista nel Negozio di regali"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Dominio della maestria: Eremo IV",
+  "domainId": "domain_of_mastery_hermitage_iv",
+  "days": [
+    "Martedì",
+    "Venerdì",
+    "Domenica"
+  ]
+}

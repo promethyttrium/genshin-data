@@ -36,7 +36,7 @@
       "_id": 113067,
       "id": "ensnaring_gaze",
       "name": "Mirada abismática",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -171,7 +171,6 @@
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_TheAbyss_Dendrite",
   "description": "Un monstruo del Abismo con forma de planta que ha llegado a este mundo desde la más profunda oscuridad de otro retorcido mundo.\\nEstas criaturas monstruosas y malévolas son capaces de infiltrarse en las entrañas de la tierra, extrayendo recuerdos que imitar y manipular. A través de este proceso de distorsión de los recuerdos del pasado para transformarlos en algo más abstruso y sórdido, se van acercando gradualmente al corazón del Irminsul, amenazando con hacer peligrar su misma existencia.\\nHay quien dice que estas aberraciones trabajan constantemente para corromper los múltiples colores de la luz, dejando un rastro negro como el carbón en su lugar. Tal hipótesis parece confirmarse al ver las ramas que extienden hacia fuera, que parecen querer atravesar el mismísimo vacío...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

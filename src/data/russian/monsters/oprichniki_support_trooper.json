@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Фатуи",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan",
   "description": "Солдат Фатуи, вооружённый тяжёлым щитом, обязан защищать своих товарищей на передовой.\\nМногие понимают, что в долгой войне Снежной с чёрным бедствием победить может лишь тот, кто выстоит и переживёт остальных. Именно щиты помогают опричникам держать строй. Пока солдат держит щит, всегда есть надежда на победу.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

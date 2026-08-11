@@ -44,7 +44,6 @@
   "categoryText": "愚人众",
   "filename_icon": "UI_MonsterIcon_Fatuus_Fire_01",
   "description": "隶属愚人众的特务人员。\\n债务处理人所处理的「债务」，并不局限于钱货往来的清算。\\n「以眼还眼，以牙还牙」也是一种债。无论是谁，只要损害了愚人众的利益，那就要十倍奉还。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

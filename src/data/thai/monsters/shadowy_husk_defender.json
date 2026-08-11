@@ -25,19 +25,19 @@
       "_id": 112019,
       "id": "deathly_statuette",
       "name": "Deathly Statuette",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112018,
       "id": "dark_statuette",
       "name": "Dark Statuette",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112017,
       "id": "gloomy_statuette",
       "name": "Gloomy Statuette",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Abyss",
   "filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Chargebow_Ice",
   "description": "ทหารแห่งความมืดมิด ครั้งหนึ่งเคยเป็นทหารภาคภูมิใจของอาณาจักรโบราณใต้ดิน ในตอนนี้มันเป็นเพียงเปลือกที่ว่างเปล่าที่มีความทรงจำในการต่อสู้\\nจุดจบของทุกสิ่งคือความเสื่อมถอย เปลือกที่ว่างเปล่าเหล่านี้ก็คือ \"Black Serpent Knight\" ที่ถูกกัดกร่อนอยู่ภายใต้บาป, คำสาป และกาลเวลา",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

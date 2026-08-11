@@ -44,7 +44,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Fire_01",
   "description": "Seorang agen rahasia Fatui.\\nTugas agen Fatui tidak hanya terbatas pada penyelesaian masalah perdagangan dan utang-piutangnya.\\nMemastikan semua orang di Teyvat paham sepenuhnya prinsip utama Fatui, yaitu \"mata ganti mata\", juga merupakan tugas utama mereka. Siapa pun yang berani melawan kehendak Fatui akan mengundang murka mereka.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

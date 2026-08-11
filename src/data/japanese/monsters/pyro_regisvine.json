@@ -38,7 +38,7 @@
       "_id": 113011,
       "id": "everflame_seed",
       "name": "常燃の火種",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -133,7 +133,6 @@
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_Regisvine_Fire",
   "description": "地脈の中で流れている上古の炎を吸収した巨大な藤。\\n消えることのない怒りの炎のような植物。\\n「元素」には感情と願いが秘められていると、詩人や歌手、さらに一部の学者までそう思っている。もしそれが本当なら、燃え続ける爆炎樹は一体どんな感情を持ち、大地の束縛から逃げようと足掻いているのだろう…",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

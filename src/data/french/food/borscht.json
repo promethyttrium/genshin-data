@@ -1,0 +1,54 @@
+{
+  "_id": 2703,
+  "id": "borscht",
+  "name": "Bortsch",
+  "description": "Une soupe d'un rouge éclatant. Une fois le bouillon prêt, on y ajoute progressivement divers ingrédients et on laisse mijoter doucement jusqu'à ce que leurs saveurs se mélangent. On rajoute souvent une cuillerée de crème fraîche juste avant de servir. À chaque gorgée, une douce chaleur se répand dans le corps, suffisamment réconfortante pour chasser le froid mordant de l'extérieur.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Betterave rouge",
+      "amount": 2
+    },
+    {
+      "_id": 100080,
+      "id": "potato",
+      "name": "Pomme de terre",
+      "amount": 1
+    },
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Viande crue",
+      "amount": 1
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Exploration",
+  "results": {
+    "suspicious": {
+      "_id": 108997,
+      "name": "Bortsch (suspect)",
+      "description": "Une soupe d'un rouge éclatant. Ce plat manque cruellement d'âme, comme si on avait simplement jeté les restes d'un repas précédent dans la casserole. Le finir procure certes une sensation de chaleur éphémère, mais c'est comme une étincelle qui s'allume, ne procurant qu'un bref instant de réconfort.",
+      "effect": "Diminue légèrement la vitesse à laquelle s'accumulent les effets du Grand froid pour tous les personnages de l'équipe pendant 900 s. Ne s'applique qu'à vos personnages en mode multijoueur."
+    },
+    "normal": {
+      "_id": 108998,
+      "name": "Bortsch",
+      "description": "Une soupe d'un rouge éclatant. Une fois le bouillon prêt, on y ajoute progressivement divers ingrédients et on laisse mijoter doucement jusqu'à ce que leurs saveurs se mélangent. On rajoute souvent une cuillerée de crème fraîche juste avant de servir. À chaque gorgée, une douce chaleur se répand dans le corps, suffisamment réconfortante pour chasser le froid mordant de l'extérieur.",
+      "effect": "Diminue quelque peu la vitesse à laquelle s'accumulent les effets du Grand froid pour tous les personnages de l'équipe pendant 900 s. Ne s'applique qu'à vos personnages en mode multijoueur."
+    },
+    "delicious": {
+      "_id": 108999,
+      "name": "Bortsch (délicieux)",
+      "description": "Une soupe d'un rouge éclatant. Dès que le bouillon chaud glisse dans votre gorge, une chaleur intense vous envahit, comme si un feu s'était allumé en vous. La chaleur se diffuse doucement jusqu'à réchauffer le bout de vos oreilles. Lors d'une traversée en pleine tempête de neige, ce bol de soupe vaut bien plus qu'un manteau supplémentaire !",
+      "effect": "Diminue la vitesse à laquelle s'accumulent les effets du Grand froid pour tous les personnages de l'équipe pendant 900 s. Ne s'applique qu'à vos personnages en mode multijoueur."
+    }
+  }
+}

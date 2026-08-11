@@ -1,0 +1,32 @@
+{
+  "_id": 213062,
+  "id": "sparkborne_magic",
+  "shareId": 615,
+  "name": "火花の魔法",
+  "title": "クレー・火花の魔法",
+  "desc": "「こうして、とびっきりかわいいドドちゃんは、たくさんの友達に助けてもらって試験に合格し、立派なドド大魔法使いになりましたとさ。めでたし、めでたし——」\\n「——注釈を書くんじゃなかったのかい？これじゃあ、あの小さな魔女と何の関係もないじゃないか！」",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">装備キャラが<span style=\"color:#FFFFFFFF\">重撃</span>を行った後、</span><span style=\"color:#FF9999FF\">炎元素ダメージ</span>を2与える。（各ラウンド最大2回まで）",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "炎元素",
+    "card_type": "装備カード",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "炎元素",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "天賦",
+      "魔導"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">クイックアクション</span>：味方の<span style=\"color:#FFFFFFFF\">クレー</span>に装備させる。<br/>クレーに<span style=\"color:#FFFFFFFF\">爆裂花火</span>を付与する。<br/><span style=\"color:#FFFFFFFF\">装備キャラが<span style=\"color:#FFFFFFFF\">重撃</span>を行った後、</span><span style=\"color:#FF9999FF\">炎元素ダメージ</span>を2与える。（各ラウンド最大2回まで）<br/>（このカードはデッキにクレーが含まれている場合のみ、デッキに追加できる）"
+    }
+  ]
+}

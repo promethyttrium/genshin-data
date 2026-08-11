@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "Spectral Heart",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "Spectral Husk",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Makhluk Elemental",
   "filename_icon": "UI_MonsterIcon_Sylph_Water_01",
   "description": "Monster yang terlahir dari konsentrasi energi Hydro yang tinggi dan dapat mengapung di udara.\\nDi bawah cahaya bulan, Hydro Specter ini sering mengapung di tepi sungai sambil memancarkan sinar remang-remang. Wujudnya sering disangka sebagai roh penasaran oleh pengembara yang lewat. Maka dari itu Hydro Specter sering dijadikan bahan cerita rakyat.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

@@ -1,7 +1,7 @@
 {
   "_id": 20080601,
   "id": "veiled_cloudchaser_frostnight_scion",
-  "monsterId": 20080602,
+  "monsterId": 84008062,
   "name": "Veiled Cloudchaser: Frostnight Scion",
   "specialNames": [
     "Pemburu Awan Terselubung"
@@ -13,9 +13,8 @@
   "categoryText": "Makhluk Elemental",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Wind",
   "description": "Makhluk elemental dengan tubuh yang indah dan anggun, memiliki ketertarikan yang kuat terhadap unsur elemental. Setelah sekian lama terekspos terhadap Anemo berkonsentrasi tinggi, akhirnya berubah menjadi wujud saat ini.\\nAngin yang mengalir telah membentuk sepasang sayap tambahan untuknya. Karena hampir tidak pernah meninggalkan jejak kaki di tanah, kadang dia juga dikenal sebagai makhluk yang berjalan bersama angin.\\nDalam nyanyian doa yang tersisa di ujung utara, mereka adalah kehidupan yang lahir dengan berkah Bulan Embun, melambangkan sumber murni dan cahaya asli. Mungkin karena itulah mereka tak tahan dengan warna putihnya ternoda oleh tujuh warna dari cahaya langit, dan mulai menolak semua makhluk yang terlalu dekat dengan mereka.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

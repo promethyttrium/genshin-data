@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Fungus_Un_Delta_Wind",
   "description": "Um organismo de esporo com certa inteligência. É extremamente adaptável.\\nEsse cogumelo pode ter um chapéu fúngico grande, mas a forma de guarda-chuva em sua cabeça é oca, por isso não é uma refeição muito gostosa.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Epsilon_Wind",
   "description": "Споры с зачатками интеллекта. Прекрасно умеют приспосабливаться к окружающей среде.\\nЭтот плесенник быстро впитывает питательные вещества через вытянутый ствол, а его зонтикообразная шляпка поворачивается в направлении ветра.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

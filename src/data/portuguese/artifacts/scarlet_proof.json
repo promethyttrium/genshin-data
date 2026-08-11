@@ -1,0 +1,39 @@
+{
+  "_id": 215047,
+  "id": "scarlet_proof",
+  "name": "Prova Escarlate",
+  "min_rarity": 4,
+  "max_rarity": 5,
+  "two_pc": "ATQ +18%",
+  "four_pc": "Ao desencadear uma Reação de Redemoinho Estelar, aumenta a Taxa CRIT do portador em 16% e o Dano da Reação de Redemoinho Estelar causada por ele em 40% por 10s.",
+  "goblet": {
+    "_id": 47412,
+    "id": "chalice_of_your_blood_and_sorrow",
+    "name": "Cálice do Sangue e Sofrimento",
+    "description": "Uma garrafa de vinho vermelha. Espero que você não saiba o que está dentro."
+  },
+  "plume": {
+    "_id": 47422,
+    "id": "glory_to_your_legacy",
+    "name": "Glória ao Seu Legado",
+    "description": "Uma pena vermelha. Um presente para sangue jovem."
+  },
+  "circlet": {
+    "_id": 47432,
+    "id": "testament_to_your_faith",
+    "name": "Prova de Fé",
+    "description": "Um capacete vermelho. Mas quem deve proteger?"
+  },
+  "flower": {
+    "_id": 47442,
+    "id": "honor_to_your_devotion",
+    "name": "Devoção Honrada",
+    "description": "Um adereço vermelho. Glorioso como o fogo."
+  },
+  "sands": {
+    "_id": 47452,
+    "id": "time_gifted_unto_you",
+    "name": "Presente do Tempo",
+    "description": "Um relógio de bolso vermelho. Registra o tempo de uma conversa."
+  }
+}

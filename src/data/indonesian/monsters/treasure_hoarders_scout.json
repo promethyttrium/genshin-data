@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
   "description": "Seorang anggota organisasi kriminal tersebar yang menancapkan jejaknya di seluruh daratan dan bahkan jauh ke dalam domain yang tidak diketahui.\\nKerja keras dan target adalah hal yang sangat mendefinisikan mereka. Mereka biasanya masuk ke dalam lingkaran kriminal akibat kemiskinan atau kurangnya pendidikan, tetapi tampaknya kekayaan masih belum kunjung juga menghampiri mereka sekalipun mereka telah mendedikasikan hidupnya pada kriminalitas...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

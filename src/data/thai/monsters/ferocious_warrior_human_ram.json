@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "กองกำลังของมนุษย์อื่น ๆ",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Bisonsaurus",
   "description": "นักรบจากบนที่ราบ ผู้คุ้มกันชนเผ่าที่เดินลาดตระเวนอยู่ท่ามกลางทุ่งรวงทอง\\nเชี่ยวชาญเทคนิคการใช้ประโยชน์จากเขาแหลม เพื่อโจมตีจุดอ่อนของศัตรู ระวังอย่าให้ถูกเขาเจอจุดอ่อนเข้าให้ล่ะ",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

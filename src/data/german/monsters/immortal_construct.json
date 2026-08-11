@@ -1,0 +1,158 @@
+{
+  "_id": 25140101,
+  "id": "immortal_construct",
+  "monsterId": 25140101,
+  "name": "Unzerstörbares Werk",
+  "specialNames": [
+    "Unvollkommener Körper der ewigen Flammenfeder"
+  ],
+  "investigation": {
+    "investigationId": 97,
+    "name": "Unzerstörbares Werk",
+    "categoryType": "Boss",
+    "categoryText": "Anführer",
+    "description": "Ein Nebenprodukt, das auf dem Weg zur Verwirklichung eines bestimmten eigennützigen Ziels entstanden ist.\\nDa seine ursprüngliche Bestimmung als biologisches Gefäß längst verloren gegangen ist, existiert dieses Wesen jetzt nur noch als wilde, geistlose Bestie, die durch die Wildnis irrt."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Zharptitsa_02",
+  "rewardPreviewId": 15213,
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Abenteuer-EP",
+      "count": 200
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Freundschafts-EP"
+    },
+    {
+      "_id": 113090,
+      "id": "unscorched_blossom_branch",
+      "name": "Unvergänglicher Blütenzweig in Flammen",
+      "count": 2.556
+    },
+    {
+      "_id": 104114,
+      "id": "agnidus_agate_gemstone",
+      "name": "Agnidus-Achat"
+    },
+    {
+      "_id": 104113,
+      "id": "agnidus_agate_chunk",
+      "name": "Agnidus-Achat-Brocken"
+    },
+    {
+      "_id": 104112,
+      "id": "agnidus_agate_fragment",
+      "name": "Agnidus-Achat-Bruchstück"
+    },
+    {
+      "_id": 104111,
+      "id": "agnidus_agate_sliver",
+      "name": "Agnidus-Achat-Splitter"
+    },
+    {
+      "_id": 400089,
+      "id": "gladiators_finale",
+      "name": "Verbeugung des Gladiators",
+      "rarity": 5
+    },
+    {
+      "_id": 400099,
+      "id": "wanderers_troupe",
+      "name": "Wanderorchester",
+      "rarity": 5
+    },
+    {
+      "_id": 400088,
+      "id": "gladiators_finale",
+      "name": "Verbeugung des Gladiators",
+      "rarity": 4
+    },
+    {
+      "_id": 400098,
+      "id": "wanderers_troupe",
+      "name": "Wanderorchester",
+      "rarity": 4
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Ausbilder",
+      "rarity": 4
+    },
+    {
+      "_id": 400128,
+      "id": "prayers_for_illumination",
+      "name": "Feueropfer",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Ausbilder",
+      "rarity": 3
+    },
+    {
+      "_id": 400127,
+      "id": "prayers_for_illumination",
+      "name": "Feueropfer",
+      "rarity": 3
+    },
+    {
+      "_id": 400047,
+      "id": "adventurer",
+      "name": "Abenteurer",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystische Bestien",
+  "filename_icon": "UI_MonsterIcon_Zharptitsa_02",
+  "description": "Ein Nebenprodukt des Alchimisten namens Koshchei bei der Erschaffung des Wesens, das als Feuervogel bekannt ist.\\nVielleicht war dies ja eine Marotte jenes finsteren Alchimisten: Sobald ein Versuchsobjekt aus derselben Reihe erfolgreich war, wurden alle anderen verworfen oder achtlos entsorgt.\\nDieses abgeleitete Werk, das eigentlich mit einer bestimmten Kraft verschmelzen sollte, um seine vollendete Form zu erreichen, irrt nun als unvollständiges und geistloses Biest endlos und ohne Ziel durch die Schluchten der Berge.",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.5,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 421.104,
+      "attack": 100.48,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

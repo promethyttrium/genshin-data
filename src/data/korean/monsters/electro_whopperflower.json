@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "돌연변이 마수",
   "filename_icon": "UI_MonsterIcon_Mimik_Electric",
   "description": "식물 형태로 위장한 활력이 넘치는 마물. 번개 원소로 사냥감을 공격한다\\n원소 에너지가 가득 차면, 화관에서 강력한 전류를 방출하기에 다른 용도를 연구하는 학자들도 있다…",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

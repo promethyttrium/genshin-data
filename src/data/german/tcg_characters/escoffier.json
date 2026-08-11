@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Kryo",
+    "weapon": "Stangenwaffe",
     "faction": [
-      null
+      "Fontaine"
     ],
     "talent_card": {
       "_id": 9075,
@@ -29,8 +31,10 @@
     {
       "id": "kitchen_skills",
       "name": "Kochkünste",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "lowtemperature_cooking",
       "name": "Niedrigtemperaturgaren",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 1 <span style=\"color:#FFFFFFFF\">Gastro-Mecha – Modus „Kaltlagerung“</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Gastro-Mecha – Modus „Kaltlagerung“</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "scoring_cuts",
       "name": "Schnitttechnik",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], stellt allen deinen Figuren 2 LP wieder her.",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>, stellt allen deinen Figuren 2 LP wieder her.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -84,7 +92,9 @@
       "id": "constant_offthecuff_cookery",
       "name": "Jederzeit improvisiertes Kochen",
       "desc": "Passiv – Erschafft zu Beginn des Kampfes 1 <span style=\"color:#FFFFFFFF\">Multifunktionaler Gastro-Mecha</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

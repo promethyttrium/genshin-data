@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Andere Waffen",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Bestie heiliger Knochen"
     ],
     "source": "Nach einem gewonnenen „Duell – Nett“ mit der Reißzahnbestie heiliger Knochen in der Tavernen-Herausforderung bei „Prinz“ in der Taverne Zum Katzenschwanz zu erhalten."
   },
@@ -19,8 +21,10 @@
     {
       "id": "claw_slash",
       "name": "Klauenschlag",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -39,8 +43,10 @@
     {
       "id": "siphon_wave",
       "name": "Siphon-Welle",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], zieht 1 <span style=\"color:#FFFFFFFF\">Energieblock des Knochenfressers</span> aus dem Deck.",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. <span style=\"color:#7EC236FF\">Dendro-SCH</span>, zieht 1 <span style=\"color:#FFFFFFFF\">Energieblock des Knochenfressers</span> aus dem Deck.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -53,8 +59,10 @@
     {
       "id": "sprawling_blighted_vines",
       "name": "Ausufernde verdorrte Reben",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1]. Wenn du mind. 1 <span style=\"color:#FFFFFFFF\">Energieblock des Knochenfressers</span> auf der Hand hast, wird 1 <span style=\"color:#FFFFFFFF\">abgeworfen</span> und anschließend die Fähigkeit <span style=\"color:#FFFFFFFF\">Sprossen keimender Fäulnis</span> vorbereitet.",
-      "skillTag": [],
+      "desc": "Verursacht 4 Pkt. <span style=\"color:#7EC236FF\">Dendro-SCH</span>. Wenn du mind. 1 <span style=\"color:#FFFFFFFF\">Energieblock des Knochenfressers</span> auf der Hand hast, wird 1 <span style=\"color:#FFFFFFFF\">abgeworfen</span> und anschließend die Fähigkeit <span style=\"color:#FFFFFFFF\">Sprossen keimender Fäulnis</span> vorbereitet.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -74,7 +82,9 @@
       "id": "hunger_from_the_remains",
       "name": "Hunger der Überreste",
       "desc": "Passiv – Erschafft zu Beginn des Kampfes 2 <span style=\"color:#FFFFFFFF\">Energieblock des Knochenfressers</span> und legt sie ganz unten unter den Stapel. Du kannst jede Runde 1 zusätzliche <span style=\"color:#FFFFFFFF\">Energieblock des Knochenfressers</span> ausspielen.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

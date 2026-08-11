@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Fungus_Trois_Gamma_Fire",
   "description": "A spore organism of some intelligence. It possesses extreme adaptability.\\nDue to the abundant amount of Pyro these creatures contain, they have a tendency to cause forest fires during dry seasons, and thus are considered a dangerous invasive species to the forest.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

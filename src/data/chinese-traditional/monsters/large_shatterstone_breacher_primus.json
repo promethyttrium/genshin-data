@@ -13,7 +13,6 @@
   "categoryText": "深淵",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_01",
   "description": "主要出現在厄里那斯的奇異生命體。\\n在美露莘的認知裡，隙境原體是基本上無害的生物，甚至有美露莘認為它十分可愛。\\n美露莘的視覺感知與人有很大的不同。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

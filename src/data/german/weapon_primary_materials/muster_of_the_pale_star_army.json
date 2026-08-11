@@ -1,0 +1,29 @@
+{
+  "_id": 114086,
+  "id": "muster_of_the_pale_star_army",
+  "name": "Zusammenziehung der Armee des Bleichsterns",
+  "description": "„Durch bloßes Glück haben sie die Schlucht besetzt. Doch diese lächerlichen Hochmütigen sind nur noch ein Pfeil am Ende seiner Flugbahn, ein Wind, der bereits verebbt.“<br/>„Sie müssen all ihre Kraft aufwenden, um unserer Streitmacht auch nur ansatzweise standzuhalten. Bald werden sie erste Anzeichen einer Niederlage offenbaren.“<br/>„Soldaten, marschiert unaufhörlich voran! Denn der Befehl des Königs hat es verkündet: Wir werden den Sieg in dieser Schlacht mit Leichtigkeit erringen!“",
+  "source": [
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114085,
+        "id": "rise_of_the_pale_star_army",
+        "name": "Aufstieg der Armee des Bleichsterns",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Sphäre der Kriegskunst – Narben einer verfluchten Besessenheit",
+  "days": [
+    "Montag",
+    "Donnerstag",
+    "Sonntag"
+  ]
+}

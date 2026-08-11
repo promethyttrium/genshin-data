@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Canavar Makinaları",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
   "description": "Sinyal aktarma ve güçlendirme amacıyla tasarlanmış bir Kurmalı Meka.\\nHareket gücünü, kinetik çekirdeğindeki öz ve ruh arasında kontrollü bir yıkım tepkimesi oluşturarak elde eder. Bu sebeple fazla enerjiden ötürü aşırı yüklenmesi durumunda sahip olduğu denge bozulur.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

@@ -1,7 +1,7 @@
 {
   "_id": 20080701,
   "id": "gilded_sunshard_frostnight_scion",
-  "monsterId": 20080702,
+  "monsterId": 84008072,
   "name": "金礞・霜夜の継霊者",
   "specialNames": [
     "金礞"
@@ -13,9 +13,8 @@
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Rock",
   "description": "美しく優雅な姿と、元素との高い親和力を持つ元素生命。長年にわたって高濃度の岩元素にさらされた結果、今の姿に進化した。\\n蓄積した岩元素に体が覆われており、その丈夫な角は磨かれた琥珀のように輝いている。\\n北の果てに残された祈りの歌によれば、彼らは霜月の祝福を受けて誕生した生命であり、純粋な根源と始まりの輝光の象徴だという。それゆえ、自身の純粋さが七色の天光に染まることに耐えられず、近づくすべての生物を拒むようになったという…",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

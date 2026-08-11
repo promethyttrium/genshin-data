@@ -1,0 +1,20 @@
+{
+  "_id": 332066,
+  "id": "feasting_in_a_shared_toast",
+  "shareId": 619,
+  "name": "齐聚共饮",
+  "title": "齐聚共饮",
+  "desc": "「你这家伙，每次都是你最慢。赶紧坐，等你好久了！」",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 0,
+    "card_type": "事件牌",
+    "energy": []
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">下个回合开始时：</span>双方各抓2张牌，随机生成2个随机元素骰。"
+    }
+  ]
+}

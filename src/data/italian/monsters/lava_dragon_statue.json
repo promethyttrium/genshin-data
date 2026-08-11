@@ -13,7 +13,6 @@
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_LavaTitan",
   "description": "Un mostro in grado di generare continuamente calore per mantenersi attivo.\\nSecondo la leggenda, questi mostri dotati di nuclei lavici sono il prodotto di una linea di ricerca distinta rispetto ai Meccanismi sorgente successivi, incentrata sulla possibilità di utilizzare la Fiamma primordiale per generare una nuova razza basata sugli umani. Una ricerca decisamente fallimentare, poiché dopo l'arrivo del predone, giunto col suo trono dall'altra parte dei cieli, la Fiamma primordiale non generò altro che gusci vuoti, la cui forza vitale conferiva loro una coscienza non superiore a quella di una pietra.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

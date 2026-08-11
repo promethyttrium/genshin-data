@@ -36,7 +36,7 @@
       "_id": 113039,
       "id": "light_guiding_tetrahedron",
       "name": "Işık Yönlendirmeli Dört Yüzlü",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -151,7 +151,6 @@
   "categoryText": "Canavar Makinaları",
   "filename_icon": "UI_MonsterIcon_Monolith_Starchild",
   "description": "Çölün dört bir yanına dağılmış birçok yapıyı kontrol eden bir sonsuz devinim makinası. Görünüşe göre yalnız hükümdarın iradesi halen bu cihazın içinde varlığını sürdürüyor.\\nBelki rüyasında gördüğü bir dostundan öğrendikleri ya da göklerdeki kutsal varlıkların gücüne göz diktiği için, kral bu topraklarda kendi diyarını kurmadan önce aslında bu dünyada var olmaması gereken gizemli cihazlar yaratmıştı.\\nSütunlar Şehri'nin kalıntıları arasında kadim kristaller halen o altın cennetin ihtişamını yansıtıyor ancak kralın rüyalarını hatırlayanlardan hiçbiri şu anda hayatta değil.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

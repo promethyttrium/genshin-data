@@ -44,7 +44,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Fire_01",
   "description": "Đặc viên thuộc Fatui. \\n\"Nợ\" được người xử lý nợ giải quyết, không chỉ là kết toán tiền hàng.\\nMà \"bất kỳ lợi ích to nhỏ\" nào cũng là nợ. Hễ có ai dám làm tổn hại đến lợi ích của Fatui thì phải trả giá gấp mười lần.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

@@ -25,19 +25,19 @@
       "_id": 112142,
       "id": "jeweled_flaming_hilt",
       "name": "宝饰的焰剑",
-      "count": 0.2626
+      "count": 0.262
     },
     {
       "_id": 112141,
       "id": "fractured_flaming_hilt",
       "name": "残失的焰剑",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112140,
       "id": "faded_flaming_hilt",
       "name": "失色的焰剑",
-      "count": 3.9394
+      "count": 3.939
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "自律机关",
   "filename_icon": "UI_MonsterIcon_Watcher_Normal_01",
   "description": "原初的大能者流溢而出的影之造物，守卫高天之柱殿的守护者。\\n作为空之柱殿的守卫，虽被赋予了「眼」，却只能颂赞永恒实在的「理型」，无从得见现象世界的纷繁，因此不被视为天使的同类。这般自相乖离之事究竟是其造主理性的设计，又或是它们所侍奉的主人终究也不理解原初那一位的心意，恐怕已无从得知。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

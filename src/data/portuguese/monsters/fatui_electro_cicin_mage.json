@@ -52,7 +52,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Summoner_01",
   "description": "Uma maga dos Fatui que pode comandar Cicins Electro em batalha. Sua origem e como aparentam por debaixo da máscara são ambos um mistérios.\\nDa mesma forma que os Cicins Electro enlouquecem pela Grama do Nevoeiro, as Magas Cicins têm um grande prazer em brincar com suas presas.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

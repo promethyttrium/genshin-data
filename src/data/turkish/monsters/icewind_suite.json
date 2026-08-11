@@ -161,7 +161,6 @@
   "categoryText": "Canavar Makinaları",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Nutcracker",
   "description": "Fontaine Araştırma Enstitüsü tarafından geliştirilen Marifetli Dansçılar.\\nBossuet, Marifetli Dansçıların aslında mekanik taklitçilik çağını aşan sanat eserleri olmasını istemişti. Ancak Bossuet istifa etmeye zorlandıktan sonra projeyi devralan Maillardet'nin kendine özgü bir anlayışı ve amacı vardı. Özellikleri geliştirme aşamasında kusursuz hale getirilmiş olsa da sonuç olarak Marifetli Dansçılar, öngörülen vizyonundan yavaş yavaş uzaklaştı.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

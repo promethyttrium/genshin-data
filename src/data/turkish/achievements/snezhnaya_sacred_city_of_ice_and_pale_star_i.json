@@ -1,0 +1,182 @@
+{
+  "_id": 69,
+  "id": "snezhnaya_sacred_city_of_ice_and_pale_star_i",
+  "name": "Snezhnaya: Buzun ve Soluk Yıldız'ın Kutsal Şehri (I)",
+  "order": 72,
+  "achievements": [
+    {
+      "id": 80504,
+      "name": "Kıta Kaşifi: Karlar Altındaki Ulus (I)",
+      "desc": "Snezhnaya'daki şu bölgelerin haritalarını aydınlat: Ebedi Buz Diyarı, Volkodlak Tundrası, Alev Tüyü Vadisi, Beyaz Huş Kar Mezarı ve Kara Ayaz Tepesi.",
+      "reward": 5,
+      "hidden": false,
+      "order": 463
+    },
+    {
+      "id": 80505,
+      "name": "Buz Tutmuş Karlı Diyar Boyunca (I)",
+      "desc": "Snezhnaya'nın şu bölgelerindeki tüm Işınlanma Portallarının kilidini aç: Ebedi Buz Diyarı, Volkodlak Tundrası, Alev Tüyü Vadisi, Beyaz Huş Kar Mezarı ve Kara Ayaz Tepesi.",
+      "reward": 5,
+      "hidden": false,
+      "order": 464
+    },
+    {
+      "id": 80506,
+      "name": "Tapınak Kaşifi: Karlar Altındaki Ulus (I)",
+      "desc": "Snezhnaya'da Ebedi Buz Diyarı, Volkodlak Tundrası, Alev Tüyü Vadisi, Beyaz Huş Kar Mezarı ve Kara Ayaz Tepesi bölgelerindeki tüm Derinlikler Tapınaklarının kilidini aç.",
+      "reward": 10,
+      "hidden": false,
+      "order": 465
+    },
+    {
+      "id": 80507,
+      "name": "Buz Kadar Solgun ve Parlak",
+      "desc": "Snezhnaya'daki Yedilerin Heykellerini en üst seviyeye yükselt.",
+      "reward": 20,
+      "hidden": false,
+      "order": 466
+    },
+    {
+      "id": 80508,
+      "name": "Gölge Diyarı Lütfu: Karlar Altındaki Ulus (I)",
+      "desc": "Snezhnaya'nın şu bölgelerindeki tüm Gölge Diyarı hazine mahzenlerinin kilidini aç: Ebedi Buz Diyarı, Volkodlak Tundrası, Alev Tüyü Vadisi, Beyaz Huş Kar Mezarı ve Kara Ayaz Tepesi.",
+      "reward": 10,
+      "hidden": false,
+      "order": 467
+    },
+    {
+      "id": 80509,
+      "name": "Tundra Seni Eve Götürecek (I)",
+      "desc": "Ebedi Buz Diyarı, Volkodlak Tundrası, Alev Tüyü Vadisi, Beyaz Huş Kar Mezarı ve Kara Ayaz Tepesi bölgelerindeki 3 Periyi Peri Avlularına kadar takip et.",
+      "reward": 5,
+      "hidden": false,
+      "order": 468
+    },
+    {
+      "id": 80510,
+      "name": "Tundra Seni Eve Götürecek (I)",
+      "desc": "Ebedi Buz Diyarı, Volkodlak Tundrası, Alev Tüyü Vadisi, Beyaz Huş Kar Mezarı ve Kara Ayaz Tepesi bölgelerindeki 5 Periyi Peri Avlularına kadar takip et.",
+      "reward": 10,
+      "hidden": false,
+      "order": 469,
+      "preStage": 80509
+    },
+    {
+      "id": 80511,
+      "name": "Tundra Seni Eve Götürecek (I)",
+      "desc": "Ebedi Buz Diyarı, Volkodlak Tundrası, Alev Tüyü Vadisi, Beyaz Huş Kar Mezarı ve Kara Ayaz Tepesi bölgelerindeki 10 Periyi Peri Avlularına kadar takip et.",
+      "reward": 20,
+      "hidden": false,
+      "order": 470,
+      "preStage": 80510
+    },
+    {
+      "id": 80512,
+      "name": "Buzul Hazine Avcısı (I)",
+      "desc": "Ebedi Buz Diyarı, Volkodlak Tundrası, Alev Tüyü Vadisi, Beyaz Huş Kar Mezarı ve Kara Ayaz Tepesi'nde 65 sandık aç.",
+      "reward": 5,
+      "hidden": false,
+      "order": 471
+    },
+    {
+      "id": 80513,
+      "name": "Buzul Hazine Avcısı (I)",
+      "desc": "Ebedi Buz Diyarı, Volkodlak Tundrası, Alev Tüyü Vadisi, Beyaz Huş Kar Mezarı ve Kara Ayaz Tepesi'nde 130 sandık aç.",
+      "reward": 10,
+      "hidden": false,
+      "order": 472,
+      "preStage": 80512
+    },
+    {
+      "id": 80514,
+      "name": "Buzul Hazine Avcısı (I)",
+      "desc": "Ebedi Buz Diyarı, Volkodlak Tundrası, Alev Tüyü Vadisi, Beyaz Huş Kar Mezarı ve Kara Ayaz Tepesi'nde 260 sandık aç.",
+      "reward": 20,
+      "hidden": false,
+      "order": 473,
+      "preStage": 80513
+    },
+    {
+      "id": 80515,
+      "name": "Soğuk Kış Maceracısı (I)",
+      "desc": "Ebedi Buz Diyarı, Volkodlak Tundrası, Alev Tüyü Vadisi, Beyaz Huş Kar Mezarı ve Kara Ayaz Tepesi bölgelerinde 6 Açık Dünya Zamana Karşı Mücadele tamamla.",
+      "reward": 5,
+      "hidden": false,
+      "order": 474
+    },
+    {
+      "id": 80516,
+      "name": "Soğuk Kış Maceracısı (I)",
+      "desc": "Ebedi Buz Diyarı, Volkodlak Tundrası, Alev Tüyü Vadisi, Beyaz Huş Kar Mezarı ve Kara Ayaz Tepesi bölgelerinde 12 Açık Dünya Zamana Karşı Mücadele tamamla.",
+      "reward": 10,
+      "hidden": false,
+      "order": 475,
+      "preStage": 80515
+    },
+    {
+      "id": 80517,
+      "name": "Soğuk Kış Maceracısı (I)",
+      "desc": "Ebedi Buz Diyarı, Volkodlak Tundrası, Alev Tüyü Vadisi, Beyaz Huş Kar Mezarı ve Kara Ayaz Tepesi bölgelerinde 24 Açık Dünya Zamana Karşı Mücadele tamamla.",
+      "reward": 20,
+      "hidden": false,
+      "order": 476,
+      "preStage": 80516
+    },
+    {
+      "id": 80518,
+      "name": "Aşk Merdiveni",
+      "desc": "\"Hesperides Köşkü'nde Sevgi ve Nefret\" görevini tamamla.",
+      "reward": 10,
+      "hidden": false,
+      "order": 477
+    },
+    {
+      "id": 80519,
+      "name": "Sonsuz Mutluluk İçin Toplanın",
+      "desc": "\"Yaşamın Meskeninde\" görevini tamamla.",
+      "reward": 10,
+      "hidden": false,
+      "order": 478
+    },
+    {
+      "id": 80520,
+      "name": "Bir İç Çekişte Saklı Bin Aşk",
+      "desc": "\"Ezeli İnsan\"ın dünyayı sevgi veya kederin dokunmadığı bir bahçeye dönüştürmesini engelle.",
+      "reward": 10,
+      "hidden": false,
+      "order": 479
+    },
+    {
+      "id": 80521,
+      "name": "Kabuktaki Şarkıcının Doğuşu",
+      "desc": "\"Buluşma Noktası: Metcezir Ezgisi Mağarası\"nda maksimum İnşaat Seviyesine ulaş.",
+      "reward": 5,
+      "hidden": false,
+      "order": 480
+    },
+    {
+      "id": 80522,
+      "name": "Gözünü Aç ve Rüşdünü Avınla İspat Et",
+      "desc": "\"Buluşma Noktası: Avcı Kulübesi\"nde maksimum İnşaat Seviyesine ulaş.",
+      "reward": 5,
+      "hidden": false,
+      "order": 481
+    },
+    {
+      "id": 80523,
+      "name": "Seçilmiş Olana Övgü",
+      "desc": "\"Buluşma Noktası: Korolevskiy Tiyatrosu\"nda maksimum İnşaat Seviyesine ulaş.",
+      "reward": 5,
+      "hidden": false,
+      "order": 482
+    },
+    {
+      "id": 80529,
+      "name": "Gecenin Ağırlaştırdığı Göz Kapaklarını Arala",
+      "desc": "Rankova Zorya'nın yeniden inşasını tamamla.",
+      "reward": 5,
+      "hidden": false,
+      "order": 488
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "_id": 3704,
+  "id": "medovik",
+  "name": "Medovik",
+  "description": "Bal ile yapılan bir pasta. İnce ballı hamur katmanları fırınlanır, ardından her tabakanın arasına ekşi krema sürülerek üst üste dizilir. Pasta, üzerine serpilen kırıntılar ve bal şurubu ile tamamlanır. Düzgün ve pürüzsüz bir sonuç elde etmek için her adım özenle yapılmalıdır.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 110017,
+      "id": "honey",
+      "name": "Bal",
+      "amount": 4
+    },
+    {
+      "_id": 110001,
+      "id": "flour",
+      "name": "Un",
+      "amount": 4
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Kuş Yumurtası",
+      "amount": 3
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 2
+    }
+  ],
+  "dish_type": "İyileştirici Yemek",
+  "results": {
+    "suspicious": {
+      "_id": 132007,
+      "name": "Medovik (Tuhaf)",
+      "description": "Bal ile yapılan bir pasta. Tüm tatlılık belirtileri, gürül gürül yanan fırın ateşinde kavrularak acı ve yanık bir felakete dönüşmüş. Üzerindeki ekşi krema üstüne düşeni mükemmel bir şekilde yerine getirse de, pastada en ufak bir tatlılık belirtisi olmadığı için tamamen havada kalıyor...",
+      "effect": "Seçili karakterin Maks. Canını %26 yeniler ve 30 saniye boyunca 5 saniyede bir 450 Can verir."
+    },
+    "normal": {
+      "_id": 132008,
+      "name": "Medovik",
+      "description": "Bal ile yapılan bir pasta. İnce ballı hamur katmanları fırınlanır, ardından her tabakanın arasına ekşi krema sürülerek üst üste dizilir. Pasta, üzerine serpilen kırıntılar ve bal şurubu ile tamamlanır. Düzgün ve pürüzsüz bir sonuç elde etmek için her adım özenle yapılmalıdır.",
+      "effect": "Seçili karakterin Maks. Canını %28 yeniler ve 30 saniye boyunca 5 saniyede bir 620 Can verir."
+    },
+    "delicious": {
+      "_id": 132009,
+      "name": "Medovik (Lezzetli)",
+      "description": "Bal ile yapılan bir pasta. Kehribar rengi hamur ve kar beyazı krema, muhteşem bir uyum içinde kat kat birbirini sarmalar. Bu pastaya bakmak bir tarihçenin sayfalarını çevirmeye benzer, her biri eşit derecede görkemli ve büyüleyici bir hikayeyi gözler önüne serer.",
+      "effect": "Seçili karakterin Maks. Canını %30 yeniler ve 30 saniye boyunca 5 saniyede bir 790 Can verir."
+    }
+  }
+}

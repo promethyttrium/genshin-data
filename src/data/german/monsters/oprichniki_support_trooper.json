@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan",
   "description": "Mit seinem massiven Schild stellt dieses Mitglied der Oprichniki der Fatui an vorderster Front die Deckung für seine Kameraden.\\nViele haben verstanden, dass in dem langen Krieg zwischen Snezhnaya und der pechschwarzen Katastrophe nur derjenige siegreich hervorgehen kann, der länger durchhält, während er die Gegenseite zermürbt. Und das, was die Oprichniki „durchhalten“ lässt, ist zweifelsohne der Schild, hinter dem die Truppen stehen. Denn solange dieser Schild nicht fällt, besteht stets Hoffnung auf den Sieg.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

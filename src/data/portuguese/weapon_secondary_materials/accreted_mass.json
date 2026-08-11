@@ -1,0 +1,24 @@
+{
+  "_id": 112153,
+  "id": "accreted_mass",
+  "name": "Massa de Acreção",
+  "description": "Uma acreção que se prendeu a um órgão interno ou osso por muito tempo. Uma vez removidas, tais acreções são consideradas símbolos de poder e são preservadas cuidadosamente pelos descendentes da criatura.",
+  "source": [
+    "Dropado por Volkodlak Bruto Nv.40+",
+    "Resgate de Poeira Estrelar",
+    "Quantidade a ser fabricada: {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112152,
+        "id": "accreted_fragment",
+        "name": "Fragmento de Acreção",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

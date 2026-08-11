@@ -13,6 +13,11 @@
   ],
   "recipes": [
     {
+      "_id": 1701,
+      "id": "podvorye_smoked_sausage",
+      "name": "옛뜰 훈제 소시지"
+    },
+    {
       "_id": 2603,
       "id": "nodkrai_hot_dog",
       "name": "노드크라이 핫도그"
@@ -45,6 +50,5 @@
   ],
   "source": [
     "요리 가공 획득"
-  ],
-  "rarity": 0
+  ]
 }

@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01",
   "description": "Um escaramuçador de construção robusta, armado com um martelo de guerra Electro.\\nComo soldado Fatui, ele tem acesso a recursos generosos: salários, armamentos e suprimentos.\\nMas, ao mesmo tempo, também significa muito tempo longe de casa e família, e colocar a vida nas mãos de camaradas que nunca conheceu.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

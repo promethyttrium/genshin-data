@@ -1,0 +1,24 @@
+{
+  "_id": 112151,
+  "id": "prime_chimeric_nexus",
+  "name": "源生嵌合體",
+  "description": "合成魔獸體內可承受的最為複雜的核心，已是受人工規劃卻完美的生命之種。將之製造而出的人，或許已理解生命本身被塑造的方式了吧。",
+  "source": [
+    "60級以上異種合成魔獸掉落",
+    "星塵兌換：兌換後合成",
+    "可合成數量：{0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "併生嵌合胞",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

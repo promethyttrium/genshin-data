@@ -59,22 +59,21 @@
       "_id": 112036,
       "id": "silver_raven_insignia",
       "name": "藏銀鴉印",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112035,
       "id": "treasure_hoarder_insignia",
       "name": "尋寶鴉印",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人類勢力",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_02",
   "description": "足跡遍佈大陸各處，甚至深入未知秘境的鬆散盜賊組織中的一員。\\n<i>「站在巨人的肩膀上，意思就是把前人累積的財富挖出來，拿走，好讓我們…讓它們回歸經濟循環！這是多麼高尚的事情！」</i>\\n——某名盜寶團的「掘墓者」在挖掘遺蹟中的財寶時說的話",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

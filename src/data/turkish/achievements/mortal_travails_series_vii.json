@@ -1,0 +1,32 @@
+{
+  "_id": 71,
+  "id": "mortal_travails_series_vii",
+  "name": "Fani Meseleleri: VII. Seri",
+  "order": 9,
+  "achievements": [
+    {
+      "id": 80525,
+      "name": "Buz Rüzgarı Ağıdı",
+      "desc": "Buz gücünü elde et.",
+      "reward": 5,
+      "hidden": false,
+      "order": 484
+    },
+    {
+      "id": 80526,
+      "name": "Geceyi Delip Geçen Şarkı",
+      "desc": "Tüm \"Kutup Yıldızı Balesi Antolojisi\" serisini topla.",
+      "reward": 5,
+      "hidden": false,
+      "order": 485
+    },
+    {
+      "id": 80528,
+      "name": "Veda Edenlerin Hikayeleri",
+      "desc": "\"Snezhnaya'nın Kapsamlı Tarihçesi\" serisinin tüm ciltlerini topla.",
+      "reward": 5,
+      "hidden": false,
+      "order": 487
+    }
+  ]
+}

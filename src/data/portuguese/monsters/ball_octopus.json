@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Octopus_Larva_02",
   "description": "Uma criatura aquática que caça disparando projéteis aquáticos.\\nA habilidade de disparar bombas de água não é incomum entre as Aberrações Primordiais. No entanto, para um mergulhador descuidado comum, a maioria dos quais são turistas, uma corrente de água de alta pressão desse tipo pode representar uma ameaça significativa. A espessura do equipamento de mergulho é, portanto, necessária por duas razões: em primeiro lugar, para resistir à pressão da água em si, e em segundo lugar, para proteger contra os ataques das Aberrações Primordiais.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 13.49,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

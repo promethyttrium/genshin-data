@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "异种魔兽",
   "filename_icon": "UI_MonsterIcon_Mimik_Ice",
   "description": "神出鬼没的拟态植物魔物，会利用冰元素战斗。\\n有时会隐藏在地表下，捕猎浑然不觉的猎物。如果有足够的年月、养分与环境，或许能扎根某处，长成巨大的急冻树…",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

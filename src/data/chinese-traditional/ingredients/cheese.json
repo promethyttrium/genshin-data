@@ -63,6 +63,11 @@
       "name": "塔塔可"
     },
     {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "雪原上的雪球花"
+    },
+    {
       "_id": 4205,
       "id": "super_magnificent_pizza",
       "name": "超級至尊披薩"
@@ -95,6 +100,5 @@
   ],
   "source": [
     "烹飪加工獲得"
-  ],
-  "rarity": 0
+  ]
 }

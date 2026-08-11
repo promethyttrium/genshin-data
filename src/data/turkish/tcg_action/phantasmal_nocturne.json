@@ -1,0 +1,32 @@
+{
+  "_id": 214012,
+  "id": "phantasmal_nocturne",
+  "shareId": 616,
+  "name": "Hayali Noktürn",
+  "title": "Fischl: Hayali Noktürn",
+  "desc": "\"Her soru umulmadık olsa da bazıları kesinlikle diğerlerinden daha umulmadıktır. Örneğin küçük bir cadıdan ezeli ışığı kullanarak kendi maddi dünyasını yaratması istenebilir. Fakat başka birinden yalnızca hayal gücünde var olan bir varlığa 'ruh' bahşetmesi istenebilir.\"",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Oz</span> alandayken <span style=\"color:#FFACFFFF\">Elektrik ile İlgili Tepkimeler</span> fazladan 1 Hasar verir. (Her Turda 3 defa)",
+  "attributes": {
+    "cost": 2,
+    "cost_type": "Elektrik",
+    "card_type": "Ekipman Kartı",
+    "energy": [
+      {
+        "_id": 1104,
+        "id": "electro",
+        "type": "Elektrik",
+        "count": 2
+      }
+    ],
+    "tags": [
+      "Yetenek",
+      "Cadılık"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Hızlı Hamle</span>: Bunu <span style=\"color:#FFFFFFFF\">Fischl</span> karakterine kuşandır.<br/><span style=\"color:#FFFFFFFF\">Oz</span> çağırırsın.<br/><span style=\"color:#FFFFFFFF\">Oz</span> alandayken <span style=\"color:#FFACFFFF\">Elektrik ile İlgili Tepkimeler</span> fazladan 1 Hasar verir. (Her Turda 3 defa)<br/>(Bu kartı destene eklemek için destende Fischl olmalıdır.)"
+    }
+  ]
+}

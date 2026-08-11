@@ -37,12 +37,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "アビス",
   "filename_icon": "UI_MonsterIcon_Abyss_Fire_01",
   "description": "魔力があり、炎元素を使用して戦うアビスの魔物。\\n原因は誰も知らないが、アビスの魔術師は、ヒルチャールの言語に精通し、彼らの心を操ることができる。アビスの魔術師は、今まで誰も解けなかった失われた言葉を解明し、その言葉の力を使って魔法を働かせたという。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

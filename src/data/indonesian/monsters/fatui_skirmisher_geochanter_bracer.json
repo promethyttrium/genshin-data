@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Staff_Rock_01",
   "description": "Skirmisher dengan kemampuan untuk menciptakan sebuah Pelindung Geo dan melindungi rekan mereka.\\nTidak seperti Cicin Mage dan Fatui Agent, Fatui Skirmisher adalah individu-individu dengan kemampuan yang lebih lemah.\\nKarena itu, mereka lebih bergantung kepada kerja sama dengan rekan mereka untuk menyelesaikan misi dan mengurangi kehilangan sumber daya.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

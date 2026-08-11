@@ -1,0 +1,42 @@
+{
+  "_id": 1701,
+  "id": "podvorye_smoked_sausage",
+  "name": "Podvorye Smoked Sausage",
+  "description": "Sliced sausage. A seasoned, stuffed, and smoked meat sausage, thinly sliced and served as is. A signature dish of Podvorye Restaurant, and a reliable choice no one at the table would turn down.",
+  "rarity": 1,
+  "ingredients": [
+    {
+      "_id": 110011,
+      "id": "sausage",
+      "name": "Sausage",
+      "amount": 1
+    },
+    {
+      "_id": 100077,
+      "id": "pepper",
+      "name": "Pepper",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Recovery Dish",
+  "results": {
+    "suspicious": {
+      "_id": 108988,
+      "name": "Suspicious Podvorye Smoked Sausage",
+      "description": "Sliced sausage. The pieces are unevenly cut, with a few still stuck together. When picked up, they looked just like a string of weathered vines blackened with smoke...",
+      "effect": "Restores 8% of Max HP and an additional 800 HP to the selected character."
+    },
+    "normal": {
+      "_id": 108989,
+      "name": "Podvorye Smoked Sausage",
+      "description": "Sliced sausage. A seasoned, stuffed, and smoked meat sausage, thinly sliced and served as is. A signature dish of Podvorye Restaurant, and a reliable choice no one at the table would turn down.",
+      "effect": "Restores 9% of Max HP and an additional 1,000 HP to the selected character."
+    },
+    "delicious": {
+      "_id": 108990,
+      "name": "Delicious Podvorye Smoked Sausage",
+      "description": "Sliced sausage. The firm texture sets the rhythm while smoky, savory flavors carry the melody, dancing across the palate in a perfectly harmonious duet. No wonder this is always the first plate to empty.",
+      "effect": "Restores 10% of Max HP and an additional 1,200 HP to the selected character."
+    }
+  }
+}

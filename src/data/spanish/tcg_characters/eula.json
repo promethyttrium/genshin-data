@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Mandoble",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3601,
@@ -29,8 +31,10 @@
     {
       "id": "favonius_bladework_edel",
       "name": "Técnica de espada Favonius: Nobleza",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "icetide_vortex",
       "name": "Vórtice helado",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y obtiene el efecto de <span style=\"color:#FFFFFFFF\">corazón impasible</span> si el personaje aún no lo tiene.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#99FFFFFF\">Daño Cryo</span> y obtiene el efecto de <span style=\"color:#FFFFFFFF\">corazón impasible</span> si el personaje aún no lo tiene.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "glacial_illumination",
       "name": "Fulgor glacial",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? e invoca una <span style=\"color:#FFFFFFFF\">espada luminosa</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#99FFFFFF\">Daño Cryo</span> e invoca una <span style=\"color:#FFFFFFFF\">espada luminosa</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1101,

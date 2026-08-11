@@ -13,7 +13,6 @@
   "categoryText": "Bộ Tộc Hilichurl",
   "filename_icon": "UI_MonsterIcon_Brute_Ice_01",
   "description": "\"Vương giả\" thần bí bước đi trong sương tuyết.\\nHilichurl to lớn được đồng bào gọi là \"Lawa\". Cơ thể được rèn luyện đến cực điểm, dường như có thể dung hòa với môi trường bao trùm bởi nguyên tố Băng, uy nghi và trầm mặc như sông băng phía Bắc.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

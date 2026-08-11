@@ -1,0 +1,30 @@
+{
+  "_id": 104373,
+  "id": "philosophies_of_glory",
+  "name": "Triết Học Của \"Vinh Quang\"",
+  "description": "Nguyên liệu bồi dưỡng Thiên Phú.\\n\"Vinh quang\" là tín ngưỡng của vương quốc băng giá.\\nVinh quang là ngọn lửa không bao giờ tắt trên đài đuốc, đến nay vẫn cùng tồn vong với vương quốc của gió tuyết. Ngọn lửa thắp lên niềm đam mê cao thượng, để duy trì sự thiêu đốt vĩnh hằng của nó, con người sẵn sàng hiến dâng tất cả những gì mình có.",
+  "source": [
+    "Số lượng có thể ghép - chiếm chỗ: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104372,
+        "id": "guide_to_glory",
+        "name": "Hướng Dẫn Của \"Vinh Quang\"",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Bí Cảnh Tinh Thông: Quan Sát IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Thứ 4",
+    "Thứ 7",
+    "Chủ Nhật"
+  ]
+}

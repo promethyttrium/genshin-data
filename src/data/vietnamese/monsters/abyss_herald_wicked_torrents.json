@@ -1,7 +1,7 @@
 {
   "_id": 22020101,
   "id": "abyss_herald_wicked_torrents",
-  "monsterId": 22020103,
+  "monsterId": 84202012,
   "name": "Sứ Đồ Vực Sâu - Kích Lưu",
   "specialNames": [
     "Sứ Đồ Vực Sâu - Wynfled",
@@ -22,9 +22,8 @@
   "categoryText": "Vực Sâu",
   "filename_icon": "UI_MonsterIcon_Invoker_Herald_Water_01",
   "description": "Ma vật sử dụng Nguyên Tố Thủy để chiến đấu, chịu sự quản lý của \"Giáo Đoàn Vực Sâu\".\\nNhững nhân vật thầm lặng này là tiền thân của Vực Sâu, cầm đầu làn sóng càn quét khắp nơi, đập tan mọi lớp giáp bảo vệ và những trái tim dị giáo, và giáng xuống những người ngu muội vô lo hình phạt định mệnh.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

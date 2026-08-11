@@ -190,7 +190,7 @@
       "_id": 11092,
       "id": "aisa_utamakura_pilgrimage",
       "name": "Aisa Utamakura Kutsal Yolculuğu",
-      "description": "Tatlı düşlerin anılarını dokuyarak havada uçabildiği <span style=\"color:#FFD780FF\">Düşgezen</span> durumuna girer ve yakındaki düşmanlara 1 defa <span style=\"color:#80FFD7FF\">Rüzgar Alan Hasarı</span> verir.<br/><br/><span style=\"color:#FFD780FF\">Düşgezen</span><br/>·Yumemizuki Mizuki, Düşgezen durumundayken sürekli ileri doğru süzülür ve düzenli aralıklarla yakındaki düşmanlara <span style=\"color:#80FFD7FF\">Rüzgar Alan Hasarı</span> verir.<br/>·Bu süre boyunca Yumemizuki Mizuki süzülme yönünü kontrol edebilir ve Element Patlaması <span style=\"color:#FFD780FF\">Anraku Gizli Kaplıca Terapisini</span> kullandığı zaman <span style=\"color:#FFD780FF\">Yumemi Tarzı Özel Atıştırmalıkları</span> alma mesafesi artar.<br/>·Yakındaki grup üyelerinin Yumemizuki Mizuki'nin Element Ustalığına bağlı olarak verdiği Girdap Hasarını artırır.<br/>·Mizuki savaş alanından ayrıldığında veya Element Becerisini tekrar kullandığında Düşgezen durumu sona erer.",
+      "description": "Tatlı düşlerin anılarını dokuyarak havada uçabildiği <span style=\"color:#FFD780FF\">Düşgezen</span> durumuna girer ve yakındaki düşmanlara 1 defa <span style=\"color:#80FFD7FF\">Rüzgar Alan Hasarı</span> verir.<br/><br/><span style=\"color:#FFD780FF\">Düşgezen</span><br/>·Yumemizuki Mizuki, Düşgezen durumundayken sürekli ileri doğru süzülür ve düzenli aralıklarla yakındaki düşmanlara <span style=\"color:#80FFD7FF\">Rüzgar Alan Hasarı</span> verir.<br/>·Bu süre boyunca Yumemizuki Mizuki süzülme yönünü kontrol edebilir ve <span style=\"color:#FFD780FF\">Anraku Gizli Kaplıca Terapisi</span> Element Patlamasının oluşturduğu <span style=\"color:#FFD780FF\">Yumemi Tarzı Özel Atıştırmalıkları</span> alma mesafesi artar.<br/>·Yakındaki grup üyelerinin verdiği Girdap Hasarını ve Yıldız Girdabı Tepkimesi Hasarını Yumemizuki Mizuki'nin Element Ustalığına bağlı olarak artırır.<br/>·Mizuki savaş alanından ayrıldığında veya Element Becerisini tekrar kullandığında Düşgezen durumu sona erer.",
       "info": "\"Gece yarısı buluşuruz düşlerde, şarkılar yankılanır kalplerimizde.\"",
       "attributes": [
         {
@@ -254,23 +254,43 @@
           ]
         },
         {
-          "label": "Element Ustalığı Temelli Girdap Hasarı Artışı",
+          "label": "Element Ustalığına Göre Girdap Hasarı Artışı",
           "values": [
-            "Puan Başına 0.18%",
-            "Puan Başına 0.21%",
-            "Puan Başına 0.24%",
-            "Puan Başına 0.27%",
-            "Puan Başına 0.3%",
-            "Puan Başına 0.33%",
-            "Puan Başına 0.36%",
-            "Puan Başına 0.39%",
-            "Puan Başına 0.42%",
-            "Puan Başına 0.45%",
-            "Puan Başına 0.48%",
-            "Puan Başına 0.51%",
-            "Puan Başına 0.54%",
-            "Puan Başına 0.57%",
-            "Puan Başına 0.6%"
+            "100 Puan Başına 18%",
+            "100 Puan Başına 21%",
+            "100 Puan Başına 24%",
+            "100 Puan Başına 27%",
+            "100 Puan Başına 30%",
+            "100 Puan Başına 33%",
+            "100 Puan Başına 36%",
+            "100 Puan Başına 39%",
+            "100 Puan Başına 42%",
+            "100 Puan Başına 45%",
+            "100 Puan Başına 48%",
+            "100 Puan Başına 51%",
+            "100 Puan Başına 54%",
+            "100 Puan Başına 57%",
+            "100 Puan Başına 60%"
+          ]
+        },
+        {
+          "label": "Element Ustalığına Göre Yıldız Girdabı Hasarı Artışı",
+          "values": [
+            "100 Puan Başına 1.8%",
+            "100 Puan Başına 2.1%",
+            "100 Puan Başına 2.4%",
+            "100 Puan Başına 2.7%",
+            "100 Puan Başına 3%",
+            "100 Puan Başına 3.3%",
+            "100 Puan Başına 3.6%",
+            "100 Puan Başına 3.9%",
+            "100 Puan Başına 4.2%",
+            "100 Puan Başına 4.5%",
+            "100 Puan Başına 4.8%",
+            "100 Puan Başına 5.1%",
+            "100 Puan Başına 5.4%",
+            "100 Puan Başına 5.7%",
+            "100 Puan Başına 6%"
           ]
         },
         {
@@ -429,7 +449,7 @@
     {
       "id": "bright_moons_restless_voice",
       "name": "Parlak Ayın Huzursuz Sesi",
-      "description": "Yumemizuki Mizuki Düşgezen durumundayken Girdap tetiklerse Düşgezenin süresi 2,5sn artar. Bu etki her 0,3 saniyede bir defa ve her Düşgezen durumunda en fazla 2 defa tetiklenebilir.",
+      "description": "Yumemizuki Mizuki Düşgezen durumundayken bir Girdap veya Yıldız Girdabı tepkimesi tetiklerse Düşgezenin süresi 2,5sn artar. Bu etki her 0,3 saniyede bir defa ve her Düşgezen durumunda en fazla 2 defa tetiklenebilir.",
       "level": 1
     },
     {
@@ -450,7 +470,7 @@
       "_id": 1091,
       "id": "in_mistlike_waters",
       "name": "Sisli Sularda",
-      "description": "Yumemizuki Mizuki, Düşgezen durumundayken sürekli olarak yakındaki düşmanlara 3,5 saniyede bir \"Yirmi Üç Gecenin Beklentisi\" etkisini uygular ve 3sn sürer. Bu etki aktifken, bir düşman Rüzgar Hasarıyla tetiklenen Girdap tepkimelerinden etkilenirse etki kaldırılır ve Girdabın verdiği Hasar, Mizuki'nin Element Ustalığının %1.100'ü kadar artar.",
+      "description": "Yumemizuki Mizuki, Düşgezen durumundayken sürekli olarak yakındaki düşmanlara 3,5 saniyede bir \"Yirmi Üç Gecenin Beklentisi\" etkisini uygular, bu etki 3sn sürer. Bu etki aktifken bir düşman üzerinde Rüzgar Hasarı ile bir Girdap veya Yıldız Girdabı tepkimesi tetiklenirse etki kaldırılır ve bu Girdabın/Yıldız Girdabının düşmana verdiği Hasar, Mizuki'nin Element Ustalığının %1.100'ü/%550'si kadar artar.",
       "level": 1
     },
     {
@@ -485,7 +505,7 @@
       "_id": 1096,
       "id": "the_heart_lingers_long",
       "name": "Kalp Özlem Dolar",
-      "description": "Yumemizuki Mizuki Düşgezen durumundayken yakındaki grup üyelerinin verdiği Girdap Hasarı Kritik Vuruş yapabilir. Kritik Oranı %30, Kritik Hasarı ise %100 olarak sabittir.",
+      "description": "Yumemizuki Mizuki Düşgezen durumundayken, yakındaki grup üyelerinin verdiği Girdap Tepkimesi Hasarı Kritik Vuruş yapabilir, Kritik Oranı %30 ve Kritik Hasar %100 olarak sabittir. Bu karakterlerin verdiği herhangi bir Yıldız Girdabı Tepkimesi Hasarının da Kritik Oranı %10, Kritik Hasarı %20 artar.",
       "level": 6
     }
   ],

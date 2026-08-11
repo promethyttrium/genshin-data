@@ -13,7 +13,6 @@
   "categoryText": "异种魔兽",
   "filename_icon": "UI_MonsterIcon_Magbeast_Pergesa",
   "description": "古老的月之力浸润了幻惑的双翅，于月光下翩然起舞的蝶形魔物。\\n按照演化的理论来说，在狂暴而原始的力量被天空的主人驯化之后，此种类型的魔物本应无法维持这样的体型，会变得更为微小和脆弱。然而月光的恩赐令其能以强盛时的姿态漫行于世，向众人展现古老月亮曾照映的旧世界的残余。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

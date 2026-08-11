@@ -13,7 +13,6 @@
   "categoryText": "Autômatos",
   "filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
   "description": "Os guardiões das ruínas perdidas do deserto são poderosos o bastante para punirem qualquer um que desejar perturbar os puros sonhos de seu senhor.\\nO mestre das areias estudou conhecimentos proibidos em um esforço seu para criar um paraíso onírico, e essas máquinas podem ou não terem sido os frutos dessa pesquisa.\\nHoje, essa utopia há muito se foi, e os sonhos e juramentos esquecidos pelo mundo agora são apenas encontrados nos feitiços inscritos nessas máquinas.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

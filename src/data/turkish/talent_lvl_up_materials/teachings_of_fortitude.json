@@ -1,0 +1,18 @@
+{
+  "_id": 104368,
+  "id": "teachings_of_fortitude",
+  "name": "Metanet Öğretisi",
+  "description": "Yetenek Seviyesi Yükseltme Malzemesi.\\nMetanet, donmuş diyarın belirleyici niteliğidir.\\nHayatta kalmaya duyulan saf bir hasretten doğar. Verimli topraklardan çok uzağa savrulmuş kırılgan bir tohum bile, köklerini donmuş tundranın derinliklerine salabilmek için çaresizce bu hasrete tutunabilir.",
+  "source": [
+    "Hediye Dükkanında takas edilir."
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Ustalık Zindanı: İnziva IV",
+  "domainId": "domain_of_mastery_hermitage_iv",
+  "days": [
+    "Salı",
+    "Cuma",
+    "Pazar"
+  ]
+}

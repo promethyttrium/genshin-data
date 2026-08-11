@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Senjata Lain",
     "faction": [
-      null
+      "Fatui"
     ],
     "talent_card": {
       "_id": 3236,
@@ -27,8 +29,10 @@
     {
       "id": "water_ball",
       "name": "Water Ball",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#80C0FFFF\">Hydro DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -47,8 +51,10 @@
     {
       "id": "influx_blast",
       "name": "Influx Blast",
-      "desc": "Mengakibatkan ? poin ?. Karakter target menerima <span style=\"color:#FFFFFFFF\">Refraction</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#80C0FFFF\">Hydro DMG</span>. Karakter target menerima <span style=\"color:#FFFFFFFF\">Refraction</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -61,8 +67,10 @@
     {
       "id": "rippled_reflection",
       "name": "Rippled Reflection",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 5 poin <span style=\"color:#80C0FFFF\">Hydro DMG</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1102,

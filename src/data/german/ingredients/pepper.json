@@ -15,6 +15,11 @@
       "name": "Gegrillter Tigerfisch"
     },
     {
+      "_id": 1701,
+      "id": "podvorye_smoked_sausage",
+      "name": "Räucherwurst à la Podvorye"
+    },
+    {
       "_id": 2006,
       "id": "fried_radish_balls",
       "name": "Frittierte Rettichbällchen"
@@ -67,6 +72,5 @@
   ],
   "source": [
     "In Gemischtwarenläden zu erstehen"
-  ],
-  "rarity": 0
+  ]
 }

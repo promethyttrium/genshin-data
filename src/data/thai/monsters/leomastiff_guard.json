@@ -1,0 +1,133 @@
+{
+  "_id": 25132601,
+  "id": "leomastiff_guard",
+  "monsterId": 25132601,
+  "name": "ผู้พิทักษ์ Leomastiff",
+  "specialNames": [
+    "ผู้พิทักษ์ Leomastiff"
+  ],
+  "investigation": {
+    "investigationId": 101,
+    "name": "โวลโคดลักจอมอันธพาล",
+    "categoryType": "Elite",
+    "categoryText": "ระดับสูง",
+    "description": "ในบรรดาภูตของ Snezhnaya เผ่าพันธุ์ที่มีจำนวนมากที่สุด ก็คือเผ่าพันธุ์ที่มีรูปลักษณ์แตกต่างกัน แต่ถูกเรียกรวมกันว่า \"โวลโคดลัก\"\\nบางทีพวกมันอาจถูกสร้างขึ้นมา เพื่อค้นหาคำตอบที่ว่า \"อะไรที่ทำให้มนุษย์เป็นมนุษย์\" จากในตัวพวกมันตั้งแต่แรกแล้วก็เป็นได้"
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "rewardPreviewId": 15543,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 112154,
+      "id": "accreted_growth",
+      "name": "Accreted Growth",
+      "count": 0.131
+    },
+    {
+      "_id": 112153,
+      "id": "accreted_mass",
+      "name": "Accreted Mass",
+      "count": 0.525
+    },
+    {
+      "_id": 112152,
+      "id": "accreted_fragment",
+      "name": "Accreted Fragment",
+      "count": 1.97
+    },
+    {
+      "_id": 112148,
+      "id": "ethereal_crystalscale_stone",
+      "name": "Ethereal Crystalscale Stone",
+      "count": 0.035
+    },
+    {
+      "_id": 112147,
+      "id": "ethereal_crystal",
+      "name": "Ethereal Crystal",
+      "count": 0.14
+    },
+    {
+      "_id": 112146,
+      "id": "ethereal_glimmershard",
+      "name": "Ethereal Glimmershard",
+      "count": 0.525
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Instructor",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Instructor",
+      "rarity": 3
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 3
+    },
+    {
+      "_id": 400062,
+      "id": "traveling_doctor",
+      "name": "Traveling Doctor",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "สัตว์อสูรลึกลับ",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Sheepdog",
+  "description": "โวลโคดลักเผ่าพันธุ์สุนัขที่ปกติแล้วมักจะดูเกียจคร้าน\\nในบรรดาเผ่าพันธุ์โวลโคดลักหลากหลายสายพันธุ์ ชื่อเสียงของเผ่าพันธุ์สุนัขมักจะดีกว่าเสมอ พวกมันซื่อสัตย์ เป็นมิตร และส่วนใหญ่มักจะมีนิสัยที่ค่อนข้างอ่อนโยน แต่เมื่อผู้ที่พวกมันสาบานตนว่าจะจงรักภักดี หรือเพื่อนที่คุ้นเคยตกอยู่ในอันตราย พวกมันก็จะเข้าสู่สภาวะคลุ้มคลั่ง และกำจัดเป้าหมายที่มันมองว่าเป็นศัตรู\\nว่ากันว่าในสงครามเมื่อครั้งอดีต เผ่าพันธุ์ของพวกมันเคยต่อต้านองค์ Tsar เพื่อราชาของตนจนถึงวินาทีสุดท้าย แต่ก็เพราะเหตุนี้ด้วยเช่นกัน ที่ทำให้พวกมันได้รับความโปรดปรานจากองค์ Tsar",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 35.3184,
+      "attack": 22.608,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

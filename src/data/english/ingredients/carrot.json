@@ -60,6 +60,11 @@
       "name": "Veggie Pot Soup"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
       "_id": 4204,
       "id": "bountiful_year",
       "name": "Bountiful Year"
@@ -67,6 +72,5 @@
   ],
   "source": [
     "Found in the wild"
-  ],
-  "rarity": 0
+  ]
 }

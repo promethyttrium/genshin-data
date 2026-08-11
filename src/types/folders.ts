@@ -24,4 +24,5 @@ export type Folders =
   | 'weapon_enhancement_material'
   | 'weapon_primary_materials'
   | 'weapon_secondary_materials'
+  | 'weapon_skins'
   | 'weapons';

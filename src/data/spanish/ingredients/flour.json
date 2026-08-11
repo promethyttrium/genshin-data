@@ -313,6 +313,11 @@
       "name": "Empanadillas bifrutas"
     },
     {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
+    },
+    {
       "_id": 3901,
       "id": "crisp_croissant_combo",
       "name": "Croissant crujiente con café"
@@ -400,6 +405,5 @@
   ],
   "source": [
     "Procesar comida"
-  ],
-  "rarity": 0
+  ]
 }

@@ -1,0 +1,54 @@
+{
+  "_id": 3702,
+  "id": "snowrealm_okroshkas",
+  "name": "Okroshka do Reino da Neve",
+  "description": "Uma tigela de sopa fria. Ingredientes cozidos são organizados uniformemente numa tigela, então cobertos com um caldo à base de Smetana. Algumas pessoas de Snezhnaya se desafiam a comer uma tigela grande dessa sopa de uma vez só nos dias mais frios, usando isso como prova de serem guerreiros que podem conquistar o frio extremo.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 101280,
+      "id": "snowball_flower",
+      "name": "Flor Bola de Neve",
+      "amount": 3
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Ovo de Pássaro",
+      "amount": 2
+    },
+    {
+      "_id": 110005,
+      "id": "ham",
+      "name": "Presunto",
+      "amount": 1
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Pratos de DEF",
+  "results": {
+    "suspicious": {
+      "_id": 108994,
+      "name": "Okroshka do Reino da Neve Estranho",
+      "description": "Uma tigela de sopa fria. Requer um certo esforço para distinguir os ingredientes flutuando no caldo turvo. Os vegetais estão destroçados, feitos confete, afogados ao lado de enormes pedaços de presunto. Parece que o cozinheiro só se lembrou do presunto no último segundo, jogando-o na panela desesperadamente com pressa...",
+      "effect": "Aumenta a DEF de todos os membros da Equipe em 165 por 300s. No modo multijogador, terá efeito em si mesmo."
+    },
+    "normal": {
+      "_id": 108995,
+      "name": "Okroshka do Reino da Neve",
+      "description": "Uma tigela de sopa fria. Ingredientes cozidos são organizados uniformemente numa tigela, então cobertos com um caldo à base de Smetana. Algumas pessoas de Snezhnaya se desafiam a comer uma tigela grande dessa sopa de uma vez só nos dias mais frios, usando isso como prova de serem guerreiros que podem conquistar o frio extremo.",
+      "effect": "Aumenta a DEF de todos os membros da Equipe em 200 por 300s. No modo multijogador, terá efeito em si mesmo."
+    },
+    "delicious": {
+      "_id": 108996,
+      "name": "Okroshka do Reino da Neve Delicioso",
+      "description": "Uma tigela de sopa fria. O caldo branco-leitoso e cintilante possui uma textura tão fresca quanto a neve recém-caída no paladar, seguida imediatamente por uma explosão revigorante de uma Smetana encorpada. Com vegetais crocantes, gemas firmes e cubos de presunto saborosos, cada colherada oferece uma textura única, como se você estivesse abrindo uma deliciosa caixa de surpresas.",
+      "effect": "Aumenta a DEF de todos os membros da Equipe em 235 por 300s. No modo multijogador, terá efeito em si mesmo."
+    }
+  }
+}

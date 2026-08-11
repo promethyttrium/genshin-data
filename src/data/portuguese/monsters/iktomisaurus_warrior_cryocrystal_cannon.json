@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Launcher_Shamansaurus",
   "description": "Uma poderosa guerreira dos Mestres do Vento Noturno cuja valentia foi reconhecida, permitindo que use uma Coroa Sauriana.\\nSem exceção, dizem que guerreiros tribais que conquistam o reconhecimento dos Iktomissauros devem possuir sentidos extraordinariamente aguçados e fortitude mental formidável. Eles podem até usar seus poderes para fazerem leves alterações à trajetória de projéteis que eles disparam de seus canhões.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

@@ -27,13 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Автоматоны",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Recon",
   "description": "Мек, спроектированный и изготовленный для подводного зондирования.\\nПри разработке основной упор был сделан на кинематику, когда в динамике не было прорыва. При разработке механизмов для конкретных целей бионика порой даёт наиболее эффективные решения.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

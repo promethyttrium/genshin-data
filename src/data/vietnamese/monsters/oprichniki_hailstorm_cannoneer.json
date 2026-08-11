@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Male_Fat_CannonShield",
   "description": "Sĩ quan tinh nhuệ trực thuộc Oprichniki Fatui, giỏi dùng pháo hạng nặng để nổ tung trận địa địch, đồng thời dùng khiên lớn bảo vệ đồng đội cùng chiến đấu.\\nKhổ nạn nhuốm màu khiên thành sương trắng, máu tươi ngưng tụ đọng lại thành viền đen. Sĩ quan của Oprichniki biết rằng những lời nói hư vô không thể nào cứu vãn những sự hy sinh không thể tránh khỏi, chỉ có tiếng nổ như mưa đá mới có thể lay chuyển thế giới cũ ô uế này.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

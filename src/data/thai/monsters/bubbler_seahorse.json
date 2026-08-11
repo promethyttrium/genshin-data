@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "สัตว์อสูรลึกลับ",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Mature",
   "description": "Bubbly Seahorse ตัวผู้ที่โตเต็มวัย มีนิสัยที่ก้าวร้าวมาก\\nมีคนเคยพบราชาในหมู่ม้าน้ำ ว่ากันว่าเขาเป็นสิ่งมีชีวิตผู้ภาคภูมิที่มีแขนขาเรียวยาว",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

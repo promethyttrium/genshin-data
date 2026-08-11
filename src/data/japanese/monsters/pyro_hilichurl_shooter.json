@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "ヒルチャール部族",
   "filename_icon": "UI_MonsterIcon_Hili_Fire_Range",
   "description": "テイワットの荒野を彷徨う原始住民。\\n安っぽい弩を持つヒルチャールの弓使い。矢の先には薄い可燃物質が塗られており、敵を燃やそうとする。先代のエル·マスクはこれについて、頭のいいヒルチャールが狩りのついでに料理もこなす為の発明だと考えている。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

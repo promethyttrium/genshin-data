@@ -157,7 +157,6 @@
   "categoryText": "Einprägsame Gegner",
   "filename_icon": "UI_MonsterIcon_Nihil",
   "description": "Die „Bedienstete“, die Vierte unter den Elf der Fatui",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

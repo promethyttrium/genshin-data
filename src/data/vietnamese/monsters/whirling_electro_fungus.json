@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Fungus_Trois_Epsilon_Electric",
   "description": "Sinh vật bào tử có trí tuệ nhất định. Có khả năng thích nghi hoàn cảnh cực tốt.\\nCó nghiên cứu chứng minh, phương hướng của nguồn điện chảy bên trong loại Nấm Quỷ này sẽ thay đổi theo chu kỳ, nếu đào sâu nghiên cứu nói không chừng sẽ có công dụng rộng rãi...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

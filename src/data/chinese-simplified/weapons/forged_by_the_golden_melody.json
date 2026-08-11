@@ -1,0 +1,333 @@
+{
+  "_id": 12435,
+  "id": "forged_by_the_golden_melody",
+  "name": "金律铸影",
+  "description": "饰以黄金的重剑，传说在遥远的过去曾是某位大调律师爱用的兵器。",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "双手剑"
+  },
+  "domain": "深潮的余响",
+  "passive": "交奏的昼与夜",
+  "bonus": "每10秒，装备者按照以下顺序，分别奏响对应效果的「谐律乐章」：攻击力提升<span>18%/22.5%/27%/31.5%/36%</span>/元素精通提升<span>120/150/180/210/240</span>点/星烁反应伤害提升<span>28%/35%/42%/49%/56%</span>，每种乐章效果持续10秒，装备者处于队伍后台时，依然能触发上述效果。<br/>触发星烁反应后，还会额外获得持续12秒的、与触发星烁反应时演奏乐章效果相同的「谐律乐章·复调」，该效果可以与原本的乐章效果叠加，每12秒至多触发一次。",
+  "specialProp": "暴击率",
+  "stats": {
+    "primary": "基础攻击力",
+    "secondary": "暴击率",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 42,
+        "secondary": 6
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 109,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 135,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 205,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 231,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 266,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 292,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 327,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 353,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 388,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 414,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 449,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 475,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 510,
+        "secondary": 27.6
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114053,
+          "id": "dross_of_pure_sacred_dewdrop",
+          "name": "纯圣露滴的滤渣",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112098,
+          "id": "ruined_hilt",
+          "name": "残毁的剑柄",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112080,
+          "id": "transoceanic_pearl",
+          "name": "异海凝珠",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114054,
+          "id": "sublimation_of_pure_sacred_dewdrop",
+          "name": "纯圣露滴的凝华",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112098,
+          "id": "ruined_hilt",
+          "name": "残毁的剑柄",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112080,
+          "id": "transoceanic_pearl",
+          "name": "异海凝珠",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114054,
+          "id": "sublimation_of_pure_sacred_dewdrop",
+          "name": "纯圣露滴的凝华",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112099,
+          "id": "splintered_hilt",
+          "name": "裂断的剑柄",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112081,
+          "id": "transoceanic_chunk",
+          "name": "异海之块",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114055,
+          "id": "spring_of_pure_sacred_dewdrop",
+          "name": "纯圣露滴的醴泉",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112099,
+          "id": "splintered_hilt",
+          "name": "裂断的剑柄",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112081,
+          "id": "transoceanic_chunk",
+          "name": "异海之块",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114055,
+          "id": "spring_of_pure_sacred_dewdrop",
+          "name": "纯圣露滴的醴泉",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112100,
+          "id": "stillsmoldering_hilt",
+          "name": "未熄的剑柄",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112082,
+          "id": "xenochromatic_crystal",
+          "name": "异色结晶石",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114056,
+          "id": "essence_of_pure_sacred_dewdrop",
+          "name": "纯圣露滴的真粹",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112100,
+          "id": "stillsmoldering_hilt",
+          "name": "未熄的剑柄",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112082,
+          "id": "xenochromatic_crystal",
+          "name": "异色结晶石",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "交奏的昼与夜",
+    "template": "每10秒，装备者按照以下顺序，分别奏响对应效果的「谐律乐章」：攻击力提升<span style=\"color:#99FFFFFF\">{0}</span>/元素精通提升<span style=\"color:#99FFFFFF\">{1}</span>点/星烁反应伤害提升<span style=\"color:#99FFFFFF\">{2}</span>，每种乐章效果持续10秒，装备者处于队伍后台时，依然能触发上述效果。<br/>触发星烁反应后，还会额外获得持续12秒的、与触发星烁反应时演奏乐章效果相同的「谐律乐章·复调」，该效果可以与原本的乐章效果叠加，每12秒至多触发一次。",
+    "params": [
+      [
+        "18%",
+        "120",
+        "28%"
+      ],
+      [
+        "22.5%",
+        "150",
+        "35%"
+      ],
+      [
+        "27%",
+        "180",
+        "42%"
+      ],
+      [
+        "31.5%",
+        "210",
+        "49%"
+      ],
+      [
+        "36%",
+        "240",
+        "56%"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "每10秒，装备者按照以下顺序，分别奏响对应效果的「谐律乐章」：攻击力提升<span>18%</span>/元素精通提升<span>120</span>点/星烁反应伤害提升<span>28%</span>，每种乐章效果持续10秒，装备者处于队伍后台时，依然能触发上述效果。<br/>触发星烁反应后，还会额外获得持续12秒的、与触发星烁反应时演奏乐章效果相同的「谐律乐章·复调」，该效果可以与原本的乐章效果叠加，每12秒至多触发一次。"
+    },
+    {
+      "refinement": 2,
+      "desc": "每10秒，装备者按照以下顺序，分别奏响对应效果的「谐律乐章」：攻击力提升<span>22.5%</span>/元素精通提升<span>150</span>点/星烁反应伤害提升<span>35%</span>，每种乐章效果持续10秒，装备者处于队伍后台时，依然能触发上述效果。<br/>触发星烁反应后，还会额外获得持续12秒的、与触发星烁反应时演奏乐章效果相同的「谐律乐章·复调」，该效果可以与原本的乐章效果叠加，每12秒至多触发一次。"
+    },
+    {
+      "refinement": 3,
+      "desc": "每10秒，装备者按照以下顺序，分别奏响对应效果的「谐律乐章」：攻击力提升<span>27%</span>/元素精通提升<span>180</span>点/星烁反应伤害提升<span>42%</span>，每种乐章效果持续10秒，装备者处于队伍后台时，依然能触发上述效果。<br/>触发星烁反应后，还会额外获得持续12秒的、与触发星烁反应时演奏乐章效果相同的「谐律乐章·复调」，该效果可以与原本的乐章效果叠加，每12秒至多触发一次。"
+    },
+    {
+      "refinement": 4,
+      "desc": "每10秒，装备者按照以下顺序，分别奏响对应效果的「谐律乐章」：攻击力提升<span>31.5%</span>/元素精通提升<span>210</span>点/星烁反应伤害提升<span>49%</span>，每种乐章效果持续10秒，装备者处于队伍后台时，依然能触发上述效果。<br/>触发星烁反应后，还会额外获得持续12秒的、与触发星烁反应时演奏乐章效果相同的「谐律乐章·复调」，该效果可以与原本的乐章效果叠加，每12秒至多触发一次。"
+    },
+    {
+      "refinement": 5,
+      "desc": "每10秒，装备者按照以下顺序，分别奏响对应效果的「谐律乐章」：攻击力提升<span>36%</span>/元素精通提升<span>240</span>点/星烁反应伤害提升<span>56%</span>，每种乐章效果持续10秒，装备者处于队伍后台时，依然能触发上述效果。<br/>触发星烁反应后，还会额外获得持续12秒的、与触发星烁反应时演奏乐章效果相同的「谐律乐章·复调」，该效果可以与原本的乐章效果叠加，每12秒至多触发一次。"
+    }
+  ]
+}

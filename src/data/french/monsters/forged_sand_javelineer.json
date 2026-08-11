@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Sifflet en métal de guerrier",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Sifflet en bois de sentinelle",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humains",
   "filename_icon": "UI_MonsterIcon_Human_Fat_NoWeapon_Drillhead",
   "description": "Un vaillant guerrier du canyon et un gardien tribal qui patrouille dans les montagnes de cristal et les rivières.\\nÀ une époque où les crêtes étaient brisées et où les tribus devaient se reconstruire, les guerriers utilisaient des javelots comme marqueurs pour déterminer les emplacements des deux côtés du canyon à partir desquels des passages devaient être creusés. Cela signifiait que chaque javelot devait être enfoncé profondément dans la roche.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

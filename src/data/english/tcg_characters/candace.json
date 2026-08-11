@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Polearm",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3955,
@@ -29,8 +31,10 @@
     {
       "id": "gleaming_spear_guardian_stance",
       "name": "Gleaming Spear - Guardian Stance",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -50,7 +54,9 @@
       "id": "sacred_rite_herons_sanctum",
       "name": "Sacred Rite: Heron's Sanctum",
       "desc": "Attaches a <span style=\"color:#FFFFFFFF\">Heron Shield</span> to this character and <span style=\"color:#FFFFFFFF\">prepares</span> <span style=\"color:#FFFFFFFF\">Heron Strike</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "sacred_rite_wagtails_tide",
       "name": "Sacred Rite: Wagtail's Tide",
-      "desc": "Deals ? ? and creates 1 <span style=\"color:#FFFFFFFF\">Prayer of the Crimson Crown</span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#80C0FFFF\">Hydro DMG</span> and creates 1 <span style=\"color:#FFFFFFFF\">Prayer of the Crimson Crown</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1102,

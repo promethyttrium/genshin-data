@@ -41,7 +41,7 @@
       "_id": 11331,
       "id": "formule_phenomenale_selfevident_proposition",
       "name": "Ereignisformel – Selbstverständlicher Beweis",
-      "description": "<span style=\"color:#FFD780FF\">Standardangriff</span><br/>Verwebt mit einer Formel Fäden, die die Klinge lenken, und führt bis zu drei aufeinanderfolgende Hiebe aus.<br/><br/><span style=\"color:#FFD780FF\">Heftiger Schlag</span><br/>Beschwört die „Facilitatrice Automatisé Généraliste Interactif et Omnitâche“ <span style=\"color:#FFD780FF\">Fagio</span> herbei und lässt sie in den Modus <color=#FFD780FF><b>Berechnung</b></color> wechseln: Führt einen Streuangriff auf Gegner vorne aus und feuert in bestimmten Abständen einen Kondensationsstrahl ab, der <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span> verursacht.<br/><span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>: Wandelt den Kondensationsstrahl in <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span> um, der als Schaden durch die Reaktion Stellar-Supraleiter gewertet wird.<br/>Erhöht im Modus <span style=\"color:#FFD780FF\">Berechnung</span> Fagios <color=#FFD780FF><b>Berechnungsleistung</b></color> fortlaufend. Erhöht beim Abfeuern des Kondensationsstrahls die Berechnungsleistung zusätzlich weiter.<br/>Versetzt Fagio, wenn die Berechnungsleistung die Obergrenze von 100 Punkten erreicht, in den Modus <span style=\"color:#FFD780FF\">Leistungsüberlastung</span>, in dem sie in längeren Abständen auf Gegner feuert und <span style=\"color:#99FFFFFF\">Kryo-Schaden</span> verursacht, und nicht in den Modus Berechnung wechseln kann.<br/>Verringert, wenn Fagio sich nicht im Modus <span style=\"color:#FFD780FF\">Berechnung</span> befindet, ihre <span style=\"color:#FFD780FF\">Berechnungsleistung</span> langsam. Ist Sandrone inaktiv in der Truppe, konzentriert sie sich auf die Reparatur von Fagio, wodurch die Verringerungsschnelligkeit der Berechnungsleistung auf 300 % des ursprünglichen Wertes steigt.<br/>Sinkt die <span style=\"color:#FFD780FF\">Berechnungsleistung</span> auf unter 50 Punkte, verlässt Fagio den Modus <span style=\"color:#FFD780FF\">Leistungsüberlastung</span>.<br/><br/><span style=\"color:#FFD780FF\">Angriff aus dem Fall</span><br/>Stürzt aus der Luft auf den Boden, trifft Gegner auf der Fallbahn und verursacht beim Aufprall Flächenschaden.",
+      "description": "<span style=\"color:#FFD780FF\">Standardangriff</span><br/>Verwebt mit einer Formel Fäden, die die Klinge lenken, und führt bis zu drei aufeinanderfolgende Hiebe aus.<br/><br/><span style=\"color:#FFD780FF\">Heftiger Schlag</span><br/>Beschwört die „Facilitatrice Automatisé Généraliste Interactif et Omnitâche“ <span style=\"color:#FFD780FF\">Fagio</span> herbei und lässt sie in den Modus <color=#FFD780FF><b>Berechnung</b></color> wechseln: Führt einen Streuangriff auf Gegner vorne aus und feuert in bestimmten Abständen einen Kondensationsstrahl ab, der <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span> verursacht.<br/><b><span style=\"color:#FFD780FF\">Leuchten – Stellarfunkeln</span></b>: Wandelt den Kondensationsstrahl in <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span> um, der als der Stellarfunkeln-Reaktion entsprechender Schaden gewertet wird.<br/>Erhöht im Modus <span style=\"color:#FFD780FF\">Berechnung</span> Fagios <color=#FFD780FF><b>Berechnungsleistung</b></color> fortlaufend. Erhöht beim Abfeuern des Kondensationsstrahls die Berechnungsleistung zusätzlich weiter.<br/>Versetzt Fagio, wenn die Berechnungsleistung die Obergrenze von 100 Punkten erreicht, in den Modus <span style=\"color:#FFD780FF\">Leistungsüberlastung</span>, in dem sie in längeren Abständen auf Gegner feuert und <span style=\"color:#99FFFFFF\">Kryo-Schaden</span> verursacht, und nicht in den Modus Berechnung wechseln kann.<br/>Verringert, wenn Fagio sich nicht im Modus <span style=\"color:#FFD780FF\">Berechnung</span> befindet, ihre <span style=\"color:#FFD780FF\">Berechnungsleistung</span> langsam. Ist Sandrone inaktiv in der Truppe, konzentriert sie sich auf die Reparatur von Fagio, wodurch die Verringerungsschnelligkeit der Berechnungsleistung auf 300 % des ursprünglichen Wertes steigt.<br/>Sinkt die <span style=\"color:#FFD780FF\">Berechnungsleistung</span> auf unter 50 Punkte, verlässt Fagio den Modus <span style=\"color:#FFD780FF\">Leistungsüberlastung</span>.<br/><br/><span style=\"color:#FFD780FF\">Angriff aus dem Fall</span><br/>Stürzt aus der Luft auf den Boden, trifft Gegner auf der Fallbahn und verursacht beim Aufprall Flächenschaden.",
       "info": "",
       "attributes": [
         {
@@ -165,6 +165,26 @@
           ]
         },
         {
+          "label": "SCH bei Kondensationsstrahlen der Stellar-Verwirbelung durch heftige Schläge",
+          "values": [
+            "122.5%",
+            "132.5%",
+            "142.5%",
+            "156.8%",
+            "166.7%",
+            "178.1%",
+            "193.8%",
+            "209.5%",
+            "225.2%",
+            "242.3%",
+            "259.4%",
+            "276.4%",
+            "293.6%",
+            "310.6%",
+            "327.8%"
+          ]
+        },
+        {
           "label": "SCH bei Leistungsüberlastung",
           "values": [
             "43%",
@@ -230,7 +250,7 @@
       "_id": 11332,
       "id": "formule_phenomenale_differential_analysis",
       "name": "Ereignisformel – Gleitende Analyse",
-      "description": "Gemäß der perfekten Etikette einer Dame besteigt sie den <span style=\"color:#FFD780FF\">Taktischen Ansturm-Schwebe-Mecha für Teegesellschaften</span> und schwebt 6 s lang fortlaufend vorwärts. Hierbei kann Sandrone die Schweberichtung steuern sowie in den Modus „Elegantes Schnellschweben“ eintreten, indem sie beim Drücken auf Rennen 10 Punkte Ausdauer verbraucht. In diesem Modus werden 15 Punkte Ausdauer pro Sekunde verbraucht, wodurch Sandrone schneller schweben kann.<br/><br/>Beschwört, wenn Sandrone anfängt zu schweben und sich in der Nähe Gegner befinden, eine Prisma-Resonanzkanone herauf, die zwei Prismageschosse auf Gegner, die sich noch nicht beruhigt haben, abfeuert und <span style=\"color:#99FFFFFF\">Kryo-Schaden</span> verursacht.<br/><span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>: Wandelt das zweite Prismageschoss um und verursacht <span style=\"color:#99FFFFFF\">Kryo-Schaden</span>, der als Schaden durch die Reaktion Stellar-Supraleiter gewertet wird.<br/><br/>Beim Besteigen des Taktischen Ansturm-Schwebe-Mechas für Teegesellschaften repariert Sandrone Fagio elegant und unbemerkt, wodurch sich ihre <color=#FFD780FF><b>Berechnungsleistung</b></color> schnell verringert.",
+      "description": "Gemäß der perfekten Etikette einer Dame besteigt sie den <span style=\"color:#FFD780FF\">Taktischen Ansturm-Schwebe-Mecha für Teegesellschaften</span> und schwebt 6 s lang fortlaufend vorwärts. Hierbei kann Sandrone die Schweberichtung steuern sowie in den Modus „Elegantes Schnellschweben“ eintreten, indem sie beim Drücken auf Rennen 10 Punkte Ausdauer verbraucht. In diesem Modus werden 15 Punkte Ausdauer pro Sekunde verbraucht, wodurch Sandrone schneller schweben kann.<br/><br/>Beschwört, wenn Sandrone anfängt zu schweben und sich in der Nähe Gegner befinden, eine Prisma-Resonanzkanone herauf, die zwei Prismageschosse auf Gegner, die sich noch nicht beruhigt haben, abfeuert und <span style=\"color:#99FFFFFF\">Kryo-Schaden</span> verursacht.<br/><b><span style=\"color:#FFD780FF\">Leuchten – Stellarfunkeln</span></b>: Wandelt das zweite Prismageschoss um und verursacht <span style=\"color:#99FFFFFF\">Kryo-Schaden</span>, der als der Stellarfunkeln-Reaktion entsprechender Schaden gewertet wird.<br/><br/>Beim Besteigen des Taktischen Ansturm-Schwebe-Mechas für Teegesellschaften repariert Sandrone Fagio elegant und unbemerkt, wodurch sich ihre <color=#FFD780FF><b>Berechnungsleistung</b></color> schnell verringert.",
       "info": "",
       "attributes": [
         {
@@ -274,6 +294,26 @@
           ]
         },
         {
+          "label": "SCH durch Prismageschoss bei Stellar-Verwirbelung",
+          "values": [
+            "32.4%",
+            "34.8%",
+            "37.3%",
+            "40.5%",
+            "42.9%",
+            "45.4%",
+            "48.6%",
+            "51.8%",
+            "55.1%",
+            "58.3%",
+            "61.6%",
+            "64.8%",
+            "68.8%",
+            "72.9%",
+            "77%"
+          ]
+        },
+        {
           "label": "Abklingzeit",
           "values": [
             "4 s",
@@ -299,7 +339,7 @@
       "_id": 11335,
       "id": "formule_phenomenale_qed",
       "name": "Ereignisformel – Beweis aller Prinzipien",
-      "description": "Beschwört mit der Eleganz einer Dame zahlreiche Prisma-Resonanzkanonen herauf, die eine weitflächige Bombardierung nach vorne durchführen. Feuert anschließend einen Energiestrahl mit negativen Temperaturen auf Gegner ab und verursacht <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span>.<br/><span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>: Wandelt den Energiestrahl mit negativen Temperaturen um und verursacht stattdessen <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span>, der als Schaden durch die Reaktion Stellar-Supraleiter gewertet wird.",
+      "description": "Beschwört mit der Eleganz einer Dame zahlreiche Prisma-Resonanzkanonen herauf, die eine weitflächige Bombardierung nach vorne durchführen. Feuert anschließend einen Energiestrahl mit negativen Temperaturen auf Gegner ab und verursacht <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span>.<br/><b><span style=\"color:#FFD780FF\">Leuchten – Stellarfunkeln</span></b>: Wandelt den Energiestrahl mit negativen Temperaturen um und verursacht stattdessen <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span>, der als der Stellarfunkeln-Reaktion entsprechender Schaden gewertet wird.",
       "info": "",
       "attributes": [
         {
@@ -363,6 +403,26 @@
           ]
         },
         {
+          "label": "SCH durch Energiestrahl bei Stellar-Verwirbelung",
+          "values": [
+            "330.8%",
+            "355.6%",
+            "380.4%",
+            "413.5%",
+            "438.3%",
+            "463.1%",
+            "496.2%",
+            "529.3%",
+            "562.4%",
+            "595.4%",
+            "628.5%",
+            "661.6%",
+            "702.9%",
+            "744.3%",
+            "785.6%"
+          ]
+        },
+        {
           "label": "Abklingzeit",
           "values": [
             "15 s",
@@ -409,7 +469,7 @@
     {
       "id": "eternal_speculation_engine",
       "name": "Uralte Rechenvorrichtung",
-      "description": "<span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>: Wenn beim Anwenden der Elementarfähigkeit <b><span style=\"color:#FFD780FF\">Ereignisformel – Gleitende Analyse</span></b> Fagio über mehr als 50 Punkte <color=#FFD780FF><b>Berechnungsleistung</b></color> verfügt, verringert sich die Berechnungsleistung, und das zweite Prismageschoss, das auf einen Gegner in der Nähe abgefeuert wird, verursacht 400 % des ursprünglichen Schadens.<br/>Verleiht Fagio zudem jedes Mal, wenn die <span style=\"color:#FFD780FF\">Berechnungsleistung</span> um 10 Punkte verringert wird, eine Stapelung des Effekts <span style=\"color:#FFD780FF\">Verbesserte Taktik</span>, die 60 s hält. Dieser Effekt ist 10-fach stapelbar. Löscht, wenn Sandrone im Zustand <span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span> die Spezialfähigkeit <b><span style=\"color:#FFD780FF\">Ereignisformel – Beweis aller Prinzipien</span></b> anwendet, alle Stapelungen „Verbesserte Taktik“, wodurch der durch den Energiestrahl mit negativen Temperaturen verursachte Schaden in Höhe von 100 % + (gelöschte Stapelungen ×10%) des Ursprungswerts beträgt.",
+      "description": "<b><span style=\"color:#FFD780FF\">Leuchten – Stellarfunkeln</span></b>: Wenn beim Anwenden der Elementarfähigkeit <b><span style=\"color:#FFD780FF\">Ereignisformel – Gleitende Analyse</span></b> Fagio über mehr als 50 Punkte <color=#FFD780FF><b>Berechnungsleistung</b></color> verfügt, verringert sich die Berechnungsleistung, und das zweite Prismageschoss, das auf einen Gegner in der Nähe abgefeuert wird, verursacht 400 % des ursprünglichen Schadens.<br/>Verleiht Fagio zudem jedes Mal, wenn die <span style=\"color:#FFD780FF\">Berechnungsleistung</span> um 10 Punkte verringert wird, eine Stapelung des Effekts <span style=\"color:#FFD780FF\">Verbesserte Taktik</span>, die 60 s hält. Dieser Effekt ist 10-fach stapelbar. Löscht, wenn Sandrone im Zustand <span style=\"color:#FFD780FF\">Leuchten – Sternenfunkeln</span> die Spezialfähigkeit <b><span style=\"color:#FFD780FF\">Ereignisformel – Beweis aller Prinzipien</span></b> anwendet, alle Stapelungen „Verbesserte Taktik“, wodurch der durch den Energiestrahl mit negativen Temperaturen verursachte Schaden in Höhe von 100 % + (gelöschte Stapelungen ×10 %) des Ursprungswerts beträgt.",
       "level": 1
     },
     {
@@ -419,9 +479,9 @@
       "level": 4
     },
     {
-      "id": "light_of_rationalisme",
+      "id": "stellar_jubilee_light_of_rationalisme",
       "name": "Sternensegnung – Nur die Vernunft sei Licht",
-      "description": "Wandelt, wenn ein Truppenmitglied die Reaktion Supraleiter auslöst, diese stattdessen in die Reaktion Stellar-Supraleiter um und erhöht den Basis-Schaden der Reaktion Stellar-Supraleiter von Truppenmitgliedern basierend auf Sandrones ANG: Erhöht den Basis-SCH der Reaktion Stellar-Supraleiter pro 100 Punkte um 0,7 %. Auf diese Weise kann der Schaden um bis zu 14 % erhöht werden.<br/>Versetzt Sandrone zudem, wenn sie sich im <b><span style=\"color:#FFD780FF\">Sternglanzfeld</span></b> befindet, in den Zustand <span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>.",
+      "description": "Versetzt Sandrone, wenn sie sich im <b><span style=\"color:#FFD780FF\">Sternglanzfeld</span></b> befindet oder ein Truppenmitglied in der Nähe die Reaktion Stellar-Verwirbelung auslöst, innerhalb von 8 s in den Zustand <span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>/<span style=\"color:#FFD780FF\">Leuchten – Stellar-Verwirbelung</span>.<br/>Wandelt, wenn ein Truppenmitglied die Reaktion Supraleiter/Kryo-Verwirbelung auslöst, diese stattdessen in die Reaktion Stellar-Supraleiter/Stellar-Verwirbelung um und erhöht den Basis-Schaden der oben genannten Reaktionen von Truppenmitgliedern basierend auf Sandrones ANG: Erhöht den Basis-SCH der oben genannten Reaktionen um 0,7 %. Auf diese Weise kann der Schaden um bis zu 14 % erhöht werden.",
       "level": 0
     },
     {
@@ -436,14 +496,14 @@
       "_id": 1331,
       "id": "morrow_after_the_golden_dusk",
       "name": "Der Morgen nach der goldenen Dämmerung",
-      "description": "Verringert, wenn Fagio sich im Modus <color=#FFD780FF><b>Berechnung</b></color> befindet, die Erhöhungsgeschwindigkeit ihrer <color=#FFD780FF><b>Berechnungsleistung</b></color> um 50 %. Erhöht zudem den von allen Truppenmitgliedern durch die Reaktion „Stellar-Supraleiter“ verursachten Schaden um 30 %.",
+      "description": "Verringert, wenn Fagio sich im Modus <color=#FFD780FF><b>Berechnung</b></color> befindet, die Erhöhungsgeschwindigkeit ihrer <color=#FFD780FF><b>Berechnungsleistung</b></color> um 50 %. Erhöht zudem den von allen Truppenmitgliedern durch die Stellarfunkeln-Reaktion verursachten Schaden um 30 %.",
       "level": 1
     },
     {
       "_id": 1332,
       "id": "an_heiress_gazed_into_the_lookingglass",
       "name": "Im Spiegel der Erinnerung vergehen die Jahre wie im Flug",
-      "description": "<span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>: Erhöht den KSCH des Kondensationsstrahls, der mithilfe heftiger Schläge abgefeuert wird, um 40 %. Erhöht zudem jedes Mal, wenn in diesem Modus <color=#FFD780FF><b>Berechnung</b></color> ein Kondensationsstrahl abgefeuert wird, den KSCH aller abgefeuerten Kondensationsstrahlen um weitere 20 %. Dieser Effekt ist bis zu 3-fach stapelbar.",
+      "description": "<span style=\"color:#FFD780FF\">Leuchten – Stellarfunkeln</span>: Erhöht den KSCH des Kondensationsstrahls, der mithilfe heftiger Schläge abgefeuert wird, um 40 %. Erhöht zudem jedes Mal, wenn in diesem Modus <color=#FFD780FF><b>Berechnung</b></color> ein Kondensationsstrahl abgefeuert wird, den KSCH aller abgefeuerten Kondensationsstrahlen um weitere 20 %. Dieser Effekt ist bis zu 3-fach stapelbar.",
       "level": 2
     },
     {
@@ -457,7 +517,7 @@
       "_id": 1334,
       "id": "in_knowledge_lies_the_worlds_true_ground",
       "name": "Alles sind Zahlen, Tag und Nacht im ewigen Wandel",
-      "description": "Beschwört, wenn Sandrone einen Gegner mit der Reaktion Stellar-Supraleiter trifft, zusätzlich eine Prisma-Resonanzkanone für einen abgestimmten Angriff herauf, der dem Gegner einmalig <span style=\"color:#99FFFFFF\">Kryo-Schaden</span> in Höhe von 125 % von Sandrones ANG zufügt. Hierdurch verursachter Schaden gilt als durch die Reaktion Stellar-Supraleiter verursachter Schaden, 4 s Abklingzeit.",
+      "description": "Beschwört, wenn Sandrone einen Gegner mit der Reaktion Stellar-Supraleiter/Stellar-Verwirbelung trifft, zusätzlich eine Prisma-Resonanzkanone für einen abgestimmten Angriff herauf, der dem Gegner einmalig <span style=\"color:#99FFFFFF\">Kryo-Schaden</span> in Höhe von 125 %/187,5 % von Sandrones ANG zufügt. Hierdurch verursachter Schaden gilt als der Stellarfunkeln-Reaktion entsprechender Schaden, 4 s Abklingzeit.",
       "level": 4
     },
     {
@@ -471,7 +531,7 @@
       "_id": 1336,
       "id": "narcissus_wakes_her_eyes_upon_the_dawn",
       "name": "Die Narzisse erwacht, begrüßt das Morgenlicht",
-      "description": "Wandelt, wenn Fagio im Modus <color=#FFD780FF><b>Berechnung</b></color> den dritten Kondensationsstrahl abfeuert, diesen zu einem fortlaufenden, stärkeren <span style=\"color:#FFD780FF\">Bündelkondensationsstrahl</span> um, der zusätzlich zu den ursprünglich nachfolgenden Kondensationsstrahlen bis zu 4-maligen <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span> in Höhe von jeweils 100 % von Sandrones ANG verursachen. <span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>: Der <span style=\"color:#FFD780FF\">Bündelkondensationsstrahl</span> wird nun zusätzlich zu den ursprünglich nachfolgenden Kondensationsstrahlen bis zu 4-maligen <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span> in Höhe von jeweils 80 % von Sandrones ANG verursachen. Hierdurch verursachter Schaden gilt als durch die Reaktion Stellar-Supraleiter verursachter Schaden.<br/><b><span style=\"color:#FFD780FF\">Steigert</span></b> zusätzlich den gesamten von Sandrone durch die Reaktion Stellar-Supraleiter verursachten Schaden um 20  %.",
+      "description": "Wandelt, wenn Fagio im Modus <color=#FFD780FF><b>Berechnung</b></color> den dritten Kondensationsstrahl abfeuert, diesen zu einem fortlaufenden, stärkeren <span style=\"color:#FFD780FF\">Bündelkondensationsstrahl</span> um, der zusätzlich zu den ursprünglich nachfolgenden Kondensationsstrahlen bis zu 4-maligen <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span> in Höhe von jeweils 100 % von Sandrones ANG verursacht.<br/><span style=\"color:#FFD780FF\">Leuchten – Stellarfunkeln</span>: Der <span style=\"color:#FFD780FF\">Bündelkondensationsstrahl</span> verursacht stattdessen bis zu 4-maligen <span style=\"color:#99FFFFFF\">Kryo-Flächenschaden</span>, der als durch die entsprechende Stellarfunkeln-Reaktion verursachter Schaden gewertet wird, in folgender Höhe von Sandrones ANG:<br/><span style=\"color:#FFD780FF\">Leuchten – Stellar-Supraleiter</span>: 80 %.<br/><span style=\"color:#FFD780FF\">Leuchten – Stellar-Verwirbelung</span>: 120 %.<br/><b><span style=\"color:#FFD780FF\">Steigert</span></b> zusätzlich den gesamten von Sandrone durch die Reaktion Stellar-Supraleiter verursachten Schaden um 20 %.",
       "level": 6
     }
   ],

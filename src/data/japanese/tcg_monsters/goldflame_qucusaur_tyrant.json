@@ -8,16 +8,20 @@
     "hp": 24,
     "card_type": "キャラカード",
     "energy": 2,
+    "element": "炎元素",
+    "weapon": "他の武器",
     "faction": [
-      null
+      "魔物"
     ]
   },
   "skills": [
     {
       "id": "wingcleave",
       "name": "翼斬り",
-      "desc": "?を?与える。",
-      "skillTag": [],
+      "desc": "?を2与える。",
+      "skillTag": [
+        "通常攻撃"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -36,8 +40,10 @@
     {
       "id": "rising_scorchwind",
       "name": "巻き上がる熱風",
-      "desc": "?を?与え、自身に<span style=\"color:#FFFFFFFF\">飛旋</span>を2層付与する。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#FF9999FF\">炎元素ダメージ</span>を1与え、自身に<span style=\"color:#FFFFFFFF\">飛旋</span>を2層付与する。",
+      "skillTag": [
+        "元素スキル"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,8 +56,10 @@
     {
       "id": "goldflame_detonation",
       "name": "金焔の爆撃",
-      "desc": "?を?与え、相手の待機キャラ全員に<span style=\"color:#FFFFFFFF\">貫通ダメージ</span>を1与える。また、自身に<span style=\"color:#FFFFFFFF\">金焔形態</span>を1層付与する。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#FF9999FF\">炎元素ダメージ</span>を3与え、相手の待機キャラ全員に<span style=\"color:#FFFFFFFF\">貫通ダメージ</span>を1与える。また、自身に<span style=\"color:#FFFFFFFF\">金焔形態</span>を1層付与する。",
+      "skillTag": [
+        "元素爆発"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -71,7 +79,9 @@
       "id": "ancient_bloodline",
       "name": "古き者の血筋",
       "desc": "【固有】<span style=\"color:#FFFFFFFF\">アクションフェーズ開始時：</span>自身に<span style=\"color:#FFFFFFFF\">金焔形態</span>を1層付与する。また、元素サイコロのコストが2の手札をランダムに1枚生成する。",
-      "skillTag": [],
+      "skillTag": [
+        "固有スキル"
+      ],
       "points": []
     }
   ]

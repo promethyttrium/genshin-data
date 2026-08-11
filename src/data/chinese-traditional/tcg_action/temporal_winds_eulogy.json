@@ -1,0 +1,32 @@
+{
+  "_id": 215032,
+  "id": "temporal_winds_eulogy",
+  "shareId": 617,
+  "name": "頌時風若",
+  "title": "溫迪·頌時風若",
+  "desc": "「因此，從原理上來說，所謂的『未揭示之事』只分為兩種，一種是沒有被星象錨定之人的未來，一種是出於某種目的、主動干擾占卜之人的未來。後者真的很可氣，希望故事裡的小魔女一定不要成為那樣的人。」",
+  "in_play_description": "我方召喚<span style=\"color:#FFFFFFFF\">暴風之眼</span>後，本回合中所附屬角色下2次<span style=\"color:#FFFFFFFF\">「普通攻擊」</span>造成的<span style=\"color:#FFFFFFFF\">物理傷害</span>變為<span style=\"color:#80FFD7FF\">風元素傷害</span>，並且少花費2個<span style=\"color:#FFFFFFFF\">無色元素</span>。",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "風元素",
+    "card_type": "裝備牌",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "風元素",
+        "count": 3
+      }
+    ],
+    "tags": [
+      "天賦",
+      "魔導"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">快速行動</span>：裝備給我方的<span style=\"color:#FFFFFFFF\">溫迪</span>。<br/>召喚<span style=\"color:#FFFFFFFF\">暴風之眼</span>。<br/>我方召喚<span style=\"color:#FFFFFFFF\">暴風之眼</span>後，本回合中所附屬角色下2次<span style=\"color:#FFFFFFFF\">「普通攻擊」</span>造成的<span style=\"color:#FFFFFFFF\">物理傷害</span>變為<span style=\"color:#80FFD7FF\">風元素傷害</span>，並且少花費2個<span style=\"color:#FFFFFFFF\">無色元素</span>。<br/>（牌組中包含溫迪，才能加入牌組）"
+    }
+  ]
+}

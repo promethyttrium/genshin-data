@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Автоматоны",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
   "description": "Мек, спроектированный и изготовленный для ретрансляции и усиления сигнала.\\nЭнергия, приводящая в движение мека, вырабатывается в результате контролируемой реакции аннигиляции усии и пневмы внутри кинетического ядра. Выделение слишком большого количества энергии может привести к нарушению изначального баланса.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

@@ -1,0 +1,21 @@
+{
+  "_id": 350004,
+  "id": "yayu_sublimation",
+  "name": "Yayu - Dönüşüm",
+  "description": "Ley Hatlarının derinliklerinden gün yüzüne çıkan, \"Sonsuzluk\" ışığıyla parıldayan fevkalade ve düşsel bir silah. Sahibinin Element Türüne göre farklı bir surete bürünebilir. Rivayet odur ki, tüm geçmiş günlerin anılarının ötesinde kalan kadim bir çağda, yüce göklerin ilahi bir elçisi bu yaldızlı uzun yayı Lang-Gan'ın başrahibine bahşetmiş ve ona, hiçliğe doğru sürüklenmeden önce bu medeniyete liderlik etme hakkı tanımıştır.",
+  "rarity": 5,
+  "type": {
+    "id": "Bow",
+    "name": "Yay"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1004,
+    "name": "Işıltılı Dönüşüm: Sonsuzluk - Dönüşüm",
+    "priority": 2
+  },
+  "item_id": 341504,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Bow_MorphYayu_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Bow_MorphYayu_Great"
+}

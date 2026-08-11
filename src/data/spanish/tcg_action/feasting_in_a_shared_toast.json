@@ -1,0 +1,20 @@
+{
+  "_id": 332066,
+  "id": "feasting_in_a_shared_toast",
+  "shareId": 619,
+  "name": "Brindis de la reunión",
+  "title": "Brindis de la reunión",
+  "desc": "“Siempre eres el último en llegar. ¡Siéntate ya, que llevamos un siglo esperándote!”.",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 0,
+    "card_type": "Carta de evento",
+    "energy": []
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Al comienzo de la siguiente ronda</span>, cada jugador toma 2 cartas y obtiene 2 dados elementales aleatorios."
+    }
+  ]
+}

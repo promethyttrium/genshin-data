@@ -13,7 +13,6 @@
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Magbeast_Pergesa",
   "description": "L'antico potere della luna si è infiltrato tra queste ali illusorie, e il mostro a forma di farfalla ora danza leggiadro immerso nel chiarore lunare.\\nSecondo i principi dell'evoluzione, avendo il sovrano celeste domato il selvaggio potere primordiale, un simile mostro non dovrebbe più riuscire a mantenere la propria forma, e, col tempo, dovrebbe solo indebolirsi e ritirarsi. Tuttavia, la benedizione lunare ha permesso loro di attraversare questo mondo preservando la loro massima forma, mostrando ciò che resta di un mondo antico, quando la luna ancora illuminava la terra.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

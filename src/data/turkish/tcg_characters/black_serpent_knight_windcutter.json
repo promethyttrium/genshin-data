@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Rüzgar",
+    "weapon": "Diğer Silahlar",
     "faction": [
-      null
+      "Canavar"
     ],
     "source": "Kedi Kuyruğu'ndaki Han Mücadelesini kabul etme ve Kara Yılan Şövalyesi: Rüzgarkesen ile olan Dostluk Düellosunu kazanma ödülü."
   },
@@ -18,8 +20,10 @@
     {
       "id": "halfsword_technique",
       "name": "Yarım Kılıç Tekniği",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -38,8 +42,10 @@
     {
       "id": "rising_slash",
       "name": "Yükselen Vuruş",
-      "desc": "? ? verir ve 1 kart çekersin.",
-      "skillTag": [],
+      "desc": "3 <span style=\"color:#80FFD7FF\">Rüzgar Hasarı</span> verir ve 1 kart çekersin.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -53,7 +59,9 @@
       "id": "guard_stance",
       "name": "Savunma Duruşu",
       "desc": "<span style=\"color:#FFFFFFFF\">Beceri Hazırlama</span>: <span style=\"color:#FFFFFFFF\">Pervasız Duruş</span>, ardından <span style=\"color:#FFFFFFFF\">Beceri Hazırlama</span>: <span style=\"color:#FFFFFFFF\">Fırtınanın Peşinde</span> kullanılır.",
-      "skillTag": [],
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -73,7 +81,9 @@
       "id": "vanguard_momentum",
       "name": "Öncü İvmesi",
       "desc": "(Pasif) Bir Girdap Tepkimesi tetiklediğinde veya rakip <span style=\"color:#FFFFFFFF\">Kalkan</span>, <span style=\"color:#FFFFFFFF\">Hasar Etkisizleştirme</span> ya da Savaş Durumu kaybettiğinde 1 kart çekersin. (Her Turda iki defa)",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

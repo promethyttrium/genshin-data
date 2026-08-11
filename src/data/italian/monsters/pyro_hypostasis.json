@@ -13,7 +13,6 @@
   "categoryText": "Forme di vita elementali",
   "filename_icon": "UI_MonsterIcon_Effigy_Fire",
   "description": "Nome in codice: Ayin. Un'entità di Pyro molto pura.\\nSecondo i ricercatori, le Ipostasi elementali sono collegate alle anomalie presenti nei giacimenti elementali del posto. Ma resta da confermare se sia l'esistenza delle Ipostasi elementali ad aver influenzato questi giacimenti o se sia l'energia elementale mutata a creare le Ipostasi elementali.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

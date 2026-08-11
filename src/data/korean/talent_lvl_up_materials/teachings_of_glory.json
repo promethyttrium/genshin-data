@@ -1,0 +1,18 @@
+{
+  "_id": 104371,
+  "id": "teachings_of_glory",
+  "name": "「영광」의 가르침",
+  "description": "특성 육성 소재.\\n「영광」은 얼음 국토의 신앙이다.\\n영광은 동토 아래 깊이 묻힌 불씨다. 그 형상을 떠올릴 수 있다면 혹한에 맞설 용기를 얻게 된다",
+  "source": [
+    "패키지 상점 교환"
+  ],
+  "location": "스네즈나야",
+  "rarity": 2,
+  "domain": "숙달 비경: 공관 IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "수요일",
+    "토요일",
+    "일요일"
+  ]
+}

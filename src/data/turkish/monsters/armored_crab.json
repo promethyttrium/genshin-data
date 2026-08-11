@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_HermitCrab_Larva_02",
   "description": "Ödünç aldığı kabukları yuva edinen bir yengeç.\\nÇoğu vahşi hayvanın sahip olduğu agresifliği barındırmadığı görülür. Belki de bu, yiyecek bulma dışındaki sebeplerden ötürü saldıran hayvanların belirli bir oranda bölgeci olmasından ötürüdür. Buna karşın Zırhlı Yengeçlerin bölgesi sırtlarındaki yuvalarından ibarettir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 5.34,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

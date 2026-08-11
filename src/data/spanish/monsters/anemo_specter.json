@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "Corazón espectral",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "Caparazón espectral",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Seres elementales",
   "filename_icon": "UI_MonsterIcon_Sylph_Wind_01",
   "description": "Un monstruo nacido de una alta condensación del elemento Anemo y capaz de flotar en el aire.\\nTeóricamente, los monstruos que nacen de la condensación de Anemo tienen cierta capacidad de flote innata. Por ello, sus alas en forma de pétalo no son más que un mero órgano de camuflaje.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Épée à une main",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3712,
@@ -29,8 +31,10 @@
     {
       "id": "kamisato_art_marobashi",
       "name": "École Kamisato : Transition",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "kamisato_art_kyouka",
       "name": "École Kamisato : Beauté réfléchie",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et accorde une <span style=\"color:#FFFFFFFF\">réflexion torrentielle</span> au personnage.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#80C0FFFF\">DGT Hydro</span> et accorde une <span style=\"color:#FFFFFFFF\">réflexion torrentielle</span> au personnage.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "kamisato_art_suiyuu",
       "name": "École Kamisato : Jardin d'eau",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et invoque un <span style=\"color:#FFFFFFFF\">jardin de pureté</span>.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#80C0FFFF\">DGT Hydro</span> et invoque un <span style=\"color:#FFFFFFFF\">jardin de pureté</span>.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1102,

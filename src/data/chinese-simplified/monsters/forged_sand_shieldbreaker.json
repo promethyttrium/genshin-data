@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人类势力",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Drillhead",
   "description": "来自峡谷之中的勇士，在琉晶山川巡游的部族守卫者。\\n双手挥舞巨锤的部族战士，会率先攻破敌人防御的先锋。在喜好宝石和装饰品工艺的「回声之子」，锤子往往是战士们仍在孩童时期就经常接触的工具。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

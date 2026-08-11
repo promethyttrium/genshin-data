@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Ateş",
+    "weapon": "Mızrak",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3230,
@@ -29,8 +31,10 @@
     {
       "id": "doughfu",
       "name": "Un-Fu",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,7 +54,9 @@
       "id": "guoba_attack",
       "name": "Guoba Saldırısı",
       "desc": "1 <span style=\"color:#FFFFFFFF\">Guoba</span> çağırır.",
-      "skillTag": [],
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "pyronado",
       "name": "Ateş Çarkı",
-      "desc": "? ? verir ve 1 <span style=\"color:#FFFFFFFF\">Ateş Çarkı</span> oluşturur.",
-      "skillTag": [],
+      "desc": "3 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir ve 1 <span style=\"color:#FFFFFFFF\">Ateş Çarkı</span> oluşturur.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1103,

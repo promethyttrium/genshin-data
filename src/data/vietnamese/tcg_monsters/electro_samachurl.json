@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Lôi",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null,
-      null
+      "Ma Vật",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "striking_staff",
       "name": "Pháp Trượng Đập Mạnh",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "thunderclap_totem",
       "name": "Vật Tổ Sấm Sét",
-      "desc": "Gây ? điểm ?, sinh ra <span style=\"color:#FFFFFFFF\">Pháp Trượng Gọi Sét</span> trên sân phe địch.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#FFACFFFF\">Sát Thương Nguyên Tố Lôi</span>, sinh ra <span style=\"color:#FFFFFFFF\">Pháp Trượng Gọi Sét</span> trên sân phe địch.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -45,8 +51,10 @@
     {
       "id": "thunderstrike_hex",
       "name": "Thuật Sét Giáng",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 5 điểm <span style=\"color:#FFACFFFF\">Sát Thương Nguyên Tố Lôi</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1104,

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Крио",
+    "weapon": "Прочее",
     "faction": [
-      null
+      "Монстр"
     ],
     "source": "Награда за принятие испытания в «Кошкином хвосте» и победу над Говорящей с духами отшельницей в Дружеской дуэли"
   },
@@ -18,8 +20,10 @@
     {
       "id": "spiritspeaking_frost_star",
       "name": "Говорящий с духами: Морозная звезда",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#99FFFFFF\">Крио урон</span>, 1 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -38,8 +42,10 @@
     {
       "id": "radiance_in_flux",
       "name": "Переливающееся сияние",
-      "desc": "Наносит ?, ? ед., добавляет 1 карту <span style=\"color:#FFFFFFFF\">Насыщенные оттенки</span> на третью позицию в колоде и даёт <span style=\"color:#FFFFFFFF\">Выбор</span> 1 из 3 случайных эффектов улучшения карты <span style=\"color:#FFFFFFFF\">Насыщенные оттенки</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#99FFFFFF\">Крио урон</span>, 1 ед., добавляет 1 карту <span style=\"color:#FFFFFFFF\">Насыщенные оттенки</span> на третью позицию в колоде. Если этот навык используется в числе первых 4 раз за текущую игру, даёт <span style=\"color:#FFFFFFFF\">Выбор</span> 1 из 3 случайных эффектов улучшения карты <span style=\"color:#FFFFFFFF\">Насыщенные оттенки</span>.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -52,8 +58,10 @@
     {
       "id": "chilling_illustration",
       "name": "Леденящий рисунок",
-      "desc": "Наносит ?, ? ед. Добавляет 1 карту <span style=\"color:#FFFFFFFF\">Насыщенные оттенки</span> в руку.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#99FFFFFF\">Крио урон</span>, 4 ед. Добавляет 1 карту <span style=\"color:#FFFFFFFF\">Насыщенные оттенки</span> в руку.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -73,7 +81,9 @@
       "id": "iridescent_silhouette",
       "name": "Радужный силуэт",
       "desc": "(Пассивный навык) В начале битвы вы получаете 3 карты <span style=\"color:#FFFFFFFF\">Насыщенные оттенки</span>, которые попадают в вашу колоду.",
-      "skillTag": [],
+      "skillTag": [
+        "Пассивный навык"
+      ],
       "points": []
     }
   ]

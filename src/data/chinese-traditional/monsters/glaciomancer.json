@@ -1,0 +1,40 @@
+{
+  "_id": 25135001,
+  "id": "glaciomancer",
+  "monsterId": 25135004,
+  "name": "凝冰祕法師",
+  "specialNames": [
+    "凝冰祕法師"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種魔獸",
+  "filename_icon": "UI_MonsterIcon_Human_Female_Staff_Snegurochka",
+  "description": "於冰雪之中為愛而生的雪精。\\n雪精中的女性被稱呼為雪孃，其中大多數生來都是能夠自由運用冰雪之力的法師。傳說雪精在受造時靈魂殘缺，需要愛上人類以令自身達成完美。\\n但是達成完美之後的雪精是否仍然需要愛呢？或許答案是否定的。\\n這也是諸多雪精與人類相愛的故事最後卻都以悲劇收尾的原因吧。",
+  "bgm": 1,
+  "budget": 5,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 4.57189,
+      "attack": 58.575787,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

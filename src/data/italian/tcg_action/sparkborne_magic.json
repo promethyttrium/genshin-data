@@ -1,0 +1,32 @@
+{
+  "_id": 213062,
+  "id": "sparkborne_magic",
+  "shareId": 615,
+  "name": "Magia scintillante",
+  "title": "Klee: Magia scintillante",
+  "desc": "\"E così, con l'aiuto dei suoi amici, il piccolo e adorabile Dodo-Stregone superò il suo esame di qualifica. Ora è un Dodo-Stregone a tutti gli effetti! Congratulazioni!\"\\n\"Aspetta, non stavamo scrivendo un commento? Cosa c'entra tutto questo con la piccola strega?!\"",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Quando il personaggio associato usa un <span style=\"color:#FFFFFFFF\">Attacco caricato</span>:</span> infligge 2 <span style=\"color:#FF9999FF\">DAN da Pyro</span> (due volte per turno).",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Pyro",
+    "card_type": "Carta equipaggiamento",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "Pyro",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Talento",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Azione rapida</span>: equipaggia la tua <span style=\"color:#FFFFFFFF\">Klee</span>.<br/>Applica <span style=\"color:#FFFFFFFF\">Scintilla esplosiva</span> a Klee.<br/><span style=\"color:#FFFFFFFF\">Quando il personaggio associato usa un <span style=\"color:#FFFFFFFF\">Attacco caricato</span>:</span> infligge 2 <span style=\"color:#FF9999FF\">DAN da Pyro</span> (due volte per turno).<br/>(Per aggiungere questa carta, il tuo mazzo deve contenere Klee.)"
+    }
+  ]
+}

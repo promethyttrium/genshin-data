@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Altre fazioni umane",
   "filename_icon": "UI_MonsterIcon_Samurai_Ronin_03",
   "description": "Dei samurai divenuti briganti. Sebbene vengano chiamati Nobushi, non hanno un'organizzazione centralizzata.\\nPossiedono abilità con la spada altamente avanzate e usano anche le balestre per tendere imboscate agli avversari, ricorrendo a qualsiasi mezzo per vincere. Coloro che hanno rinunciato al titolo di marzialisti spesso rinunciano anche alla loro dignità.\\nA volte, si mettono anche in combutta con i Cacciatori di tesori o con i Fatui per avidità... o semplicemente per sopravvivere.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

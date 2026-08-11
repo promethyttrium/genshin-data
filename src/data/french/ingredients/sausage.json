@@ -13,6 +13,11 @@
   ],
   "recipes": [
     {
+      "_id": 1701,
+      "id": "podvorye_smoked_sausage",
+      "name": "Saucisse fumée de Podvorye"
+    },
+    {
       "_id": 2603,
       "id": "nodkrai_hot_dog",
       "name": "Hot-dog de Nod-Krai"
@@ -45,6 +50,5 @@
   ],
   "source": [
     "Cuisine (préparation)"
-  ],
-  "rarity": 0
+  ]
 }

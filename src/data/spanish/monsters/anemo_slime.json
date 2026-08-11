@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Seres elementales",
   "filename_icon": "UI_MonsterIcon_Slime_Wind_02",
   "description": "Un monstruo de pequeño tamaño formado a partir de los depósitos del elemento Anemo presentes en la naturaleza.\\nPuede flotar en el aire gracias al poder que le otorga el elemento Anemo.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

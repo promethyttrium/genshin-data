@@ -1,0 +1,54 @@
+{
+  "_id": 2703,
+  "id": "borscht",
+  "name": "Borş Çorbası",
+  "description": "Canlı kırmızı renkli bir çorba. Et suyu hazırlandıktan sonra malzemeler sırayla eklenir ve tatlar birbirine karışana kadar kısık ateşte pişirilir. Servis edilmeden hemen önce genellikle bir kaşık ekşi krema eklenir. Her yudumda vücuda yayılan sıcaklık, sert soğuğu uzak tutmaya yeterlidir.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Kırmızı Pancar",
+      "amount": 2
+    },
+    {
+      "_id": 100080,
+      "id": "potato",
+      "name": "Patates",
+      "amount": 1
+    },
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Çiğ Et",
+      "amount": 1
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Maceracının Yemeği",
+  "results": {
+    "suspicious": {
+      "_id": 108997,
+      "name": "Borş Çorbası (Tuhaf)",
+      "description": "Canlı kırmızı renkli bir çorba. Bu yemekteki her detay insana baştan savma yapılmış hissi veriyor; sanki biri önceki öğünden artan yemek malzemelerini öylesine tencereye boca etmiş gibi bir görünümü var. Çorbayı bitirmek içini biraz ısıtıyor ancak tıpkı çakılan tek bir kibrit gibi yalnızca anlık bir sıcaklık sunuyor.",
+      "effect": "900 saniyeliğine tüm grup üyeleri için Dondurucu Soğuk birikim oranını hafif azaltır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    },
+    "normal": {
+      "_id": 108998,
+      "name": "Borş Çorbası",
+      "description": "Canlı kırmızı renkli bir çorba. Et suyu hazırlandıktan sonra malzemeler sırayla eklenir ve tatlar birbirine karışana kadar kısık ateşte pişirilir. Servis edilmeden hemen önce genellikle bir kaşık ekşi krema eklenir. Her yudumda vücuda yayılan sıcaklık, sert soğuğu uzak tutmaya yeterlidir.",
+      "effect": "900 saniyeliğine tüm grup üyeleri için Dondurucu Soğuk birikim oranını biraz azaltır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    },
+    "delicious": {
+      "_id": 108999,
+      "name": "Borş Çorbası (Lezzetli)",
+      "description": "Canlı kırmızı renkli bir çorba. Sıcak çorba boğazından geçtiği an sanki biri tam göğsünün ortasında ateş yakmış gibi rahatlatıcı bir sıcaklık işliyor içine. Bu sıcaklık, kulakların bile ısınana kadar sessizce yayılıyor. Şiddetli bir kar fırtınasında yol alırken bu çorbadan bir kase içmek, fazladan bir paltoya sarınmaktan çok daha değerlidir!",
+      "effect": "900 saniyeliğine tüm grup üyeleri için Dondurucu Soğuk birikim oranını azaltır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    }
+  }
+}

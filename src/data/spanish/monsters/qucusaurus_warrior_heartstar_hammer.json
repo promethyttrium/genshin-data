@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Silbato de hierro del guerrero",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Silbato de madera del guardián",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Flamingo",
   "description": "Un poderoso guerrero de los acantilados cuyo valor ha sido reconocido y recompensado con una corona sáurica.\\nIncluso en Natlan, la Nación del Fuego, los miembros de la Tribu Plumaflora poseen un enfoque único en lo que se refiere al uso de las llamas. Para este guerrero tribal, armado con un enorme martillo, el fuego es surgimiento y choque, símbolo de una intensa pasión. Durante la batalla, el combate suele terminar en un mero instante, y siempre termina haciéndose con la victoria.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

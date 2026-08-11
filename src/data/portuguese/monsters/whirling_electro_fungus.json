@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Fungus_Trois_Epsilon_Electric",
   "description": "Um organismo fúngico que possui uma certa inteligência. Ele tem uma grande adaptabilidade.\\nPesquisas mostram que este tipo de corrente elétrica interna das criaturas fúngicas mudam periodicamente. Se for mais aprofundado, talvez este estudo possa dar origem a uma ampla gama de usos...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

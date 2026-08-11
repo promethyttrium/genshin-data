@@ -13,7 +13,6 @@
   "categoryText": "Sinh Mệnh Nguyên Tố",
   "filename_icon": "UI_MonsterIcon_Narcissusborn_Normal_01",
   "description": "Ma vật hình người được hình thành từ nước ngưng tụ.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

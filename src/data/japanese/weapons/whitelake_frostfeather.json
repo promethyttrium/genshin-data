@@ -1,0 +1,333 @@
+{
+  "_id": 11520,
+  "id": "whitelake_frostfeather",
+  "name": "白銀の湖を舞う翼",
+  "description": "白き雪鳥の柔らかな羽根のように軽やかな長剣。いかなる時も、何ものにも染まらぬ純潔を保ち続ける。",
+  "rarity": 5,
+  "type": {
+    "id": "Sword",
+    "name": "片手剣"
+  },
+  "domain": "煉武秘境・「妄執の傷跡」",
+  "passive": "雪鳥のフィナーレ",
+  "bonus": "装備者の元素スキルが敵に命中した時、「湖色の哀しみ」を獲得し、攻撃力+<span>8%/10%/12%/14%/16%</span>。継続時間8秒、最大3層まで重ね掛け可能。0.1秒ごとに最大1回のみ発動可能で、継続時間は層ごとに独立してカウントされる。3層持っている時、装備者が与える星反応ダメージの会心ダメージ+<span>50%/65%/80%/95%/110%</span>。さらに、星反応を起こす、または星反応ダメージを与えた時、装備者の元素エネルギーを<span>4/4.5/5/5.5/6</span>回復する。上記の元素エネルギー回復効果は3.5秒ごとに最大1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+  "specialProp": "会心率",
+  "stats": {
+    "primary": "基礎攻撃力",
+    "secondary": "会心率",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 48,
+        "secondary": 4.8
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 133,
+        "secondary": 8.5
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 164,
+        "secondary": 8.5
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 261,
+        "secondary": 12.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 292,
+        "secondary": 12.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 341,
+        "secondary": 14.3
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 373,
+        "secondary": 14.3
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 423,
+        "secondary": 16.2
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 455,
+        "secondary": 16.2
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 506,
+        "secondary": 18.2
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 537,
+        "secondary": 18.2
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 590,
+        "secondary": 20.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 621,
+        "secondary": 20.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 674,
+        "secondary": 22.1
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 10000,
+      "materials": [
+        {
+          "_id": 114089,
+          "id": "measured_pour_of_the_cellared_spiritual_nectar",
+          "name": "蔵に眠る霊薬の酌量",
+          "amount": 5,
+          "rarity": 2
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "生命の虚ろな根",
+          "amount": 5,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "合成獣のコア",
+          "amount": 3,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114090,
+          "id": "intoxication_of_the_cellared_spiritual_nectar",
+          "name": "蔵に眠る霊薬の酩酊",
+          "amount": 5,
+          "rarity": 3
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "生命の虚ろな根",
+          "amount": 18,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "合成獣のコア",
+          "amount": 12,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114090,
+          "id": "intoxication_of_the_cellared_spiritual_nectar",
+          "name": "蔵に眠る霊薬の酩酊",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "生命の分かれ枝",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "並生嵌合胞",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114091,
+          "id": "exhilaration_of_the_cellared_spiritual_nectar",
+          "name": "蔵に眠る霊薬の高揚",
+          "amount": 5,
+          "rarity": 4
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "生命の分かれ枝",
+          "amount": 18,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "並生嵌合胞",
+          "amount": 14,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 55000,
+      "materials": [
+        {
+          "_id": 114091,
+          "id": "exhilaration_of_the_cellared_spiritual_nectar",
+          "name": "蔵に眠る霊薬の高揚",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "生命の絡み合う枝",
+          "amount": 14,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合体",
+          "amount": 9,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 65000,
+      "materials": [
+        {
+          "_id": 114092,
+          "id": "revelry_of_the_cellared_spiritual_nectar",
+          "name": "蔵に眠る霊薬の狂宴",
+          "amount": 6,
+          "rarity": 5
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "生命の絡み合う枝",
+          "amount": 27,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合体",
+          "amount": 18,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "雪鳥のフィナーレ",
+    "template": "装備者の元素スキルが敵に命中した時、「湖色の哀しみ」を獲得し、攻撃力+<span style=\"color:#99FFFFFF\">{0}</span>。継続時間8秒、最大3層まで重ね掛け可能。0.1秒ごとに最大1回のみ発動可能で、継続時間は層ごとに独立してカウントされる。3層持っている時、装備者が与える星反応ダメージの会心ダメージ+<span style=\"color:#99FFFFFF\">{1}</span>。さらに、星反応を起こす、または星反応ダメージを与えた時、装備者の元素エネルギーを<span style=\"color:#99FFFFFF\">{2}</span>回復する。上記の元素エネルギー回復効果は3.5秒ごとに最大1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+    "params": [
+      [
+        "8%",
+        "50%",
+        "4"
+      ],
+      [
+        "10%",
+        "65%",
+        "4.5"
+      ],
+      [
+        "12%",
+        "80%",
+        "5"
+      ],
+      [
+        "14%",
+        "95%",
+        "5.5"
+      ],
+      [
+        "16%",
+        "110%",
+        "6"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "装備者の元素スキルが敵に命中した時、「湖色の哀しみ」を獲得し、攻撃力+<span>8%</span>。継続時間8秒、最大3層まで重ね掛け可能。0.1秒ごとに最大1回のみ発動可能で、継続時間は層ごとに独立してカウントされる。3層持っている時、装備者が与える星反応ダメージの会心ダメージ+<span>50%</span>。さらに、星反応を起こす、または星反応ダメージを与えた時、装備者の元素エネルギーを<span>4</span>回復する。上記の元素エネルギー回復効果は3.5秒ごとに最大1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。"
+    },
+    {
+      "refinement": 2,
+      "desc": "装備者の元素スキルが敵に命中した時、「湖色の哀しみ」を獲得し、攻撃力+<span>10%</span>。継続時間8秒、最大3層まで重ね掛け可能。0.1秒ごとに最大1回のみ発動可能で、継続時間は層ごとに独立してカウントされる。3層持っている時、装備者が与える星反応ダメージの会心ダメージ+<span>65%</span>。さらに、星反応を起こす、または星反応ダメージを与えた時、装備者の元素エネルギーを<span>4.5</span>回復する。上記の元素エネルギー回復効果は3.5秒ごとに最大1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。"
+    },
+    {
+      "refinement": 3,
+      "desc": "装備者の元素スキルが敵に命中した時、「湖色の哀しみ」を獲得し、攻撃力+<span>12%</span>。継続時間8秒、最大3層まで重ね掛け可能。0.1秒ごとに最大1回のみ発動可能で、継続時間は層ごとに独立してカウントされる。3層持っている時、装備者が与える星反応ダメージの会心ダメージ+<span>80%</span>。さらに、星反応を起こす、または星反応ダメージを与えた時、装備者の元素エネルギーを<span>5</span>回復する。上記の元素エネルギー回復効果は3.5秒ごとに最大1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。"
+    },
+    {
+      "refinement": 4,
+      "desc": "装備者の元素スキルが敵に命中した時、「湖色の哀しみ」を獲得し、攻撃力+<span>14%</span>。継続時間8秒、最大3層まで重ね掛け可能。0.1秒ごとに最大1回のみ発動可能で、継続時間は層ごとに独立してカウントされる。3層持っている時、装備者が与える星反応ダメージの会心ダメージ+<span>95%</span>。さらに、星反応を起こす、または星反応ダメージを与えた時、装備者の元素エネルギーを<span>5.5</span>回復する。上記の元素エネルギー回復効果は3.5秒ごとに最大1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。"
+    },
+    {
+      "refinement": 5,
+      "desc": "装備者の元素スキルが敵に命中した時、「湖色の哀しみ」を獲得し、攻撃力+<span>16%</span>。継続時間8秒、最大3層まで重ね掛け可能。0.1秒ごとに最大1回のみ発動可能で、継続時間は層ごとに独立してカウントされる。3層持っている時、装備者が与える星反応ダメージの会心ダメージ+<span>110%</span>。さらに、星反応を起こす、または星反応ダメージを与えた時、装備者の元素エネルギーを<span>6</span>回復する。上記の元素エネルギー回復効果は3.5秒ごとに最大1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。"
+    }
+  ]
+}

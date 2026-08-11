@@ -1,0 +1,92 @@
+{
+  "_id": 4706,
+  "id": "domain_of_blessing_ice_erosion_iv",
+  "name": "祝圣秘境：冰蚀 IV",
+  "entranceId": 2075,
+  "entranceName": "逆悬的冰河",
+  "description": "为极冬的风雪所侵蚀的荒山，即便是魔物与亡命之徒，也难以长久居于这万古的荒寒。\n若能战胜占据此处的宵小之辈，或许就能获得珍贵的圣遗物吧。",
+  "regionId": 8,
+  "regionName": "至冬",
+  "recommendedLevel": 90,
+  "unlockRank": 45,
+  "disorder": [
+    "After a character triggers a Cryo-related reaction, all party members' Elemental Mastery is increased by 250 for 10s."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_01",
+  "recommendedElements": [
+    "冰元素",
+    "雷元素",
+    "风元素"
+  ],
+  "domainType": "UI_ABYSSUS_RELIC",
+  "domainText": "Artifacts",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "冒险阅历",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "摩拉",
+      "count": "2525"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "好感经验",
+      "count": "20"
+    },
+    {
+      "_id": 400421,
+      "id": "scarlet_proof",
+      "name": "Scarlet Proof",
+      "rarity": 5
+    },
+    {
+      "_id": 400431,
+      "id": "heart_of_the_furnace",
+      "name": "Heart of the Furnace",
+      "rarity": 5
+    },
+    {
+      "_id": 400420,
+      "id": "scarlet_proof",
+      "name": "Scarlet Proof",
+      "rarity": 4
+    },
+    {
+      "_id": 400430,
+      "id": "heart_of_the_furnace",
+      "name": "Heart of the Furnace",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 4
+    },
+    {
+      "_id": 400008,
+      "id": "brave_heart",
+      "name": "Brave Heart",
+      "rarity": 4
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 3
+    },
+    {
+      "_id": 400007,
+      "id": "brave_heart",
+      "name": "Brave Heart",
+      "rarity": 3
+    }
+  ],
+  "monsterList": []
+}

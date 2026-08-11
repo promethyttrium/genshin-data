@@ -52,7 +52,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Summoner_01",
   "description": "Fatui Mage yang dapat mengendalikan Electro Cicin dalam pertempuran. Asal-usul mereka dan bagaimana rupa yang mereka sembunyikan di balik topengnya adalah misteri.\\nSama seperti Electro Cicin yang tergila-gila pada Mist Grass, Cicin Mage sangat senang bermain-main dengan mangsanya.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

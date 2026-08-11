@@ -1,0 +1,29 @@
+{
+  "_id": 114092,
+  "id": "revelry_of_the_cellared_spiritual_nectar",
+  "name": "藏窖灵浆的恣意",
+  "description": "对执掌晶矿采掘与冻土开发的矮灵们的大公来说，在极地开辟一片绿洲不过举手之劳，自他处移种品质更好的黑麦也并非难事。<br/>于至冬存续到如今的诸多妖灵贵族里，他拥有的地位也显赫到无可比拟。<br/>但日益隆盛的野心之火顺着喉壁而下，古老妖精的贪欲随着岁月增长，亦无止境。",
+  "source": [
+    "占位-可合成数量:{0}"
+  ],
+  "location": "至冬",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114091,
+        "id": "exhilaration_of_the_cellared_spiritual_nectar",
+        "name": "藏窖灵浆的酣畅",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "炼武秘境·「妄念的创痕」",
+  "days": [
+    "周二",
+    "周五",
+    "周日"
+  ]
+}

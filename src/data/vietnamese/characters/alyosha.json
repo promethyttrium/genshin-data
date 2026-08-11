@@ -1,0 +1,1253 @@
+{
+  "_id": 10000148,
+  "id": "alyosha",
+  "name": "Alyosha",
+  "title": "Chiến Khuyển Thần Tốc",
+  "description": "Thợ săn chuyên nghiệp tung hoành trên cánh đồng tuyết của Snezhnaya. Ẩn sau vẻ ngoài điềm tĩnh ấy, dường như là một \"lý tưởng\" cháy bỏng khác biệt.",
+  "weapon_type": {
+    "id": "polearm",
+    "name": "Vũ Khí Cán Dài"
+  },
+  "element": {
+    "id": "electro",
+    "name": "Lôi"
+  },
+  "gender": {
+    "id": "male",
+    "name": "nam"
+  },
+  "release": 1786395600,
+  "substat": "Hiệu Quả Nạp Nguyên Tố",
+  "affiliation": "Snezhnaya",
+  "region": {
+    "id": "snezhnaya",
+    "name": "Snezhnaya"
+  },
+  "rarity": 4,
+  "birthday": [
+    9,
+    2
+  ],
+  "constellation": "Cung Tấn Tiệp Khuyển",
+  "domain": "Bí Cảnh Tinh Thông: Ẩn Tu",
+  "cv": {
+    "english": "Kevin Andrew Rivera",
+    "chinese": "王辅平",
+    "japanese": "佐藤元",
+    "korean": "Kim Hye-sung"
+  },
+  "skills": [
+    {
+      "_id": 11481,
+      "id": "skirmishing_spear",
+      "name": "Ngọn Thương Chớp Nhoáng",
+      "description": "<span style=\"color:#FFD780FF\">Tấn Công Thường</span><br/>Thực hiện tối đa 4 lần đánh liên tiếp, đồng thời áp dụng <b><span style=\"color:#FFD780FF\">Dấu Ấn Săn Bắn</span></b> lên kẻ địch trúng đòn đánh cuối cùng.<br/><br/><span style=\"color:#FFD780FF\">Trọng Kích</span><br/>Tiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi.<br/><br/><span style=\"color:#FFD780FF\">Tấn Công Khi Đáp</span><br/>Đáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Sát thương lần 1",
+          "values": [
+            "47.8%",
+            "51.7%",
+            "55.6%",
+            "61.2%",
+            "65.1%",
+            "69.5%",
+            "75.6%",
+            "81.7%",
+            "87.8%",
+            "94.5%",
+            "101.2%",
+            "107.9%",
+            "114.5%",
+            "121.2%",
+            "127.9%"
+          ]
+        },
+        {
+          "label": "Sát thương lần 2",
+          "values": [
+            "48.2%",
+            "52.1%",
+            "56%",
+            "61.6%",
+            "65.5%",
+            "70%",
+            "76.2%",
+            "82.3%",
+            "88.5%",
+            "95.2%",
+            "101.9%",
+            "108.6%",
+            "115.4%",
+            "122.1%",
+            "128.8%"
+          ]
+        },
+        {
+          "label": "Sát thương lần 3",
+          "values": [
+            "34.2% + 31.8%",
+            "37% + 34.4%",
+            "39.8% + 37%",
+            "43.8% + 40.7%",
+            "46.6% + 43.3%",
+            "49.8% + 46.3%",
+            "54.1% + 50.3%",
+            "58.5% + 54.4%",
+            "62.9% + 58.5%",
+            "67.7% + 62.9%",
+            "72.4% + 67.3%",
+            "77.2% + 71.8%",
+            "82% + 76.2%",
+            "86.8% + 80.7%",
+            "91.5% + 85.1%"
+          ]
+        },
+        {
+          "label": "Sát thương lần 4",
+          "values": [
+            "75.9%",
+            "82%",
+            "88.2%",
+            "97%",
+            "103.2%",
+            "110.3%",
+            "120%",
+            "129.7%",
+            "139.4%",
+            "149.9%",
+            "160.5%",
+            "171.1%",
+            "181.7%",
+            "192.3%",
+            "202.9%"
+          ]
+        },
+        {
+          "label": "Sát thương Trọng Kích",
+          "values": [
+            "111%",
+            "120.1%",
+            "129.1%",
+            "142%",
+            "151%",
+            "161.4%",
+            "175.6%",
+            "189.8%",
+            "204%",
+            "219.5%",
+            "235%",
+            "250.5%",
+            "265.9%",
+            "281.4%",
+            "296.9%"
+          ]
+        },
+        {
+          "label": "Thể lực Trọng Kích tiêu hao",
+          "values": [
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm"
+          ]
+        },
+        {
+          "label": "Sát thương khi đáp",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "Sát thương khi đáp từ độ cao thấp/cao",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11482,
+      "id": "thunderbolt_strike",
+      "name": "Phục Kích Sấm Sét",
+      "description": "Dựa vào bản năng của một thợ săn, căn cứ vào nhấn, nhấn giữ để sản sinh hiệu quả khác nhau, đồng thời áp dụng <b><span style=\"color:#FFD780FF\">Dấu Ấn Săn Bắn</span></b> lên kẻ địch trúng đòn.<br/><br/><span style=\"color:#FFD780FF\">Nhấn</span><br/>Bắn về phía trước, gây <span style=\"color:#FFACFFFF\">Sát Thương Phạm Vi Nguyên Tố Lôi</span>.<br/><br/><span style=\"color:#FFD780FF\">Nhấn Giữ</span><br/>Vào trạng thái ngắm và chọn kẻ địch trong phạm vi nhất định phía trước, trong trạng thái này sẽ tăng Kháng Gián Đoạn của Alyosha.<br/>Khi kết thúc nhấn giữ, sẽ gây <span style=\"color:#FFACFFFF\">Sát Thương Nguyên Tố Lôi</span> cho kẻ địch được chọn.",
+      "info": "Thợ săn liều lĩnh từng trèo lên mũi thương, sau đó, có được may mắn trải qua bài học xương máu, lĩnh ngộ được nguyên lý sinh tồn giữa cánh đồng tuyết.",
+      "attributes": [
+        {
+          "label": "Sát thương nhấn",
+          "values": [
+            "286.7%",
+            "308.2%",
+            "329.7%",
+            "358.4%",
+            "379.9%",
+            "401.4%",
+            "430.1%",
+            "458.8%",
+            "487.4%",
+            "516.1%",
+            "544.8%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%"
+          ]
+        },
+        {
+          "label": "Sát thương nhấn giữ",
+          "values": [
+            "358.4%",
+            "385.3%",
+            "412.2%",
+            "448%",
+            "474.9%",
+            "501.8%",
+            "537.6%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%",
+            "716.8%",
+            "761.6%",
+            "806.4%",
+            "851.2%"
+          ]
+        },
+        {
+          "label": "CD",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Dấu Ấn Săn Bắn duy trì",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Mệnh Lệnh Thợ Săn tăng Tấn Công",
+          "values": [
+            "11.7%",
+            "12.7%",
+            "13.8%",
+            "14.8%",
+            "15.9%",
+            "17%",
+            "18%",
+            "19.1%",
+            "20.1%",
+            "21.2%",
+            "22.5%",
+            "23.7%",
+            "25%",
+            "26.3%",
+            "27.6%"
+          ]
+        },
+        {
+          "label": "Mệnh Lệnh Thợ Săn duy trì",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11485,
+      "id": "hunters_advance",
+      "name": "Thợ Săn Tiến Bước",
+      "description": "Triệu hồi đồng đội đáng tin cậy <span style=\"color:#FFD780FF\">Tugarin</span> cùng chiến đấu, đồng thời biến khu vực phía trước thành <span style=\"color:#FFD780FF\">Bãi Săn Sấm Rền</span> trong khoảng thời gian ngắn.<br/><br/><span style=\"color:#FFD780FF\">Bãi Săn Sấm Rền</span><br/>·Liên tục khiêu khích kẻ địch xung quanh, thu hút kẻ địch tấn công.<br/>·Mỗi 2s sẽ gây một lần <span style=\"color:#FFACFFFF\">Sát Thương Phạm Vi Nguyên Tố Lôi</span> lên kẻ địch bước vào.<br/><br/><span style=\"color:#FFD780FF\">Tugarin</span><br/>·Nếu xung quanh có kẻ địch, mỗi 2s, Tugarin sẽ nhanh chóng di chuyển đến một kẻ địch ở gần và cắn xé mục tiêu, gây <span style=\"color:#FFD780FF\">Sát Thương Nguyên Tố Lôi</span>.<br/>·Nếu kẻ địch trúng đòn đang bị áp dụng hiệu quả <span style=\"color:#FFD780FF\">Dấu Ấn Săn Bắn</span>, thì sẽ còn kích hoạt <span style=\"color:#FFD780FF\">Dấu Ấn Săn Bắn</span>.<br/>·Tugarin sẽ ưu tiên tấn công kẻ địch đang bị áp dụng <span style=\"color:#FFD780FF\">Dấu Ấn Săn Bắn</span>.",
+      "info": "Chờ đợi, chờ đợi đến khi không còn nóng lòng, sẽ có chú chim choi choi ngực đỏ bay qua rừng bạch dương, đón lấy cú bắn của anh.",
+      "attributes": [
+        {
+          "label": "Sát thương Bãi Săn Sấm Rền",
+          "values": [
+            "75%",
+            "80.6%",
+            "86.2%",
+            "93.7%",
+            "99.3%",
+            "104.9%",
+            "112.4%",
+            "119.9%",
+            "127.4%",
+            "134.9%",
+            "142.4%",
+            "149.9%",
+            "159.3%",
+            "168.7%",
+            "178%"
+          ]
+        },
+        {
+          "label": "Sát thương Tugarin",
+          "values": [
+            "50.2%",
+            "54%",
+            "57.8%",
+            "62.8%",
+            "66.5%",
+            "70.3%",
+            "75.3%",
+            "80.4%",
+            "85.4%",
+            "90.4%",
+            "95.4%",
+            "100.4%",
+            "106.7%",
+            "113%",
+            "119.3%"
+          ]
+        },
+        {
+          "label": "Thời gian duy trì",
+          "values": [
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s",
+            "14s"
+          ]
+        },
+        {
+          "label": "CD",
+          "values": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        },
+        {
+          "label": "Năng Lượng Nguyên Tố",
+          "values": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "awakened_by_the_baying_hounds",
+      "name": "Đánh Thức Cánh Rừng Ngủ Say",
+      "description": "Khi <b><span style=\"color:#FFD780FF\">Tugarin</span></b> thực hiện tấn công, sẽ hồi phục HP cho nhân vật ra trận hiện tại trong đội ở gần, lượng hồi phục tương đương 120% Tấn Công của Alyosha.",
+      "level": 1
+    },
+    {
+      "id": "suffer_the_winter_wheat_will",
+      "name": "Tạm Biệt Lúa Mì Và Lá Khô",
+      "description": "Dựa trên Hiệu Quả Nạp Nguyên Tố của Alyosha, tăng sát thương gây ra bởi Kỹ Năng Nguyên Tố và Kỹ Năng Nộ của Alyosha: Mỗi 1% Hiệu Quả Nạp Nguyên Tố sẽ tăng 0.35% sát thương kể trên, tối đa tăng đến 70%.",
+      "level": 4
+    },
+    {
+      "id": "into_the_fray",
+      "name": "Ngôi Sao Nơi Hiểm Cảnh",
+      "description": "Khi ở trong <b><span style=\"color:#FFD780FF\">Vùng Trục Sao</span></b>, Alyosha sẽ vào trạng thái <span style=\"color:#FFD780FF\">Tỏa Sáng: Tinh-Siêu Dẫn</span>.<br/><span style=\"color:#FFD780FF\">Tỏa Sáng: Tinh-Siêu Dẫn</span>: Hiệu quả <span style=\"color:#FFD780FF\">Mệnh Lệnh Thợ Săn</span> nhận được khi kích hoạt <b><span style=\"color:#FFD780FF\">Dấu Ấn Săn Bắn</span></b> sẽ còn khiến nhân vật khi ở trong trận sẽ tăng 20% sát thương phản ứng Tinh-Siêu Dẫn gây ra.",
+      "level": 0
+    },
+    {
+      "id": "treetop_watch",
+      "name": "Quan Sát Từ Ngọn Cây",
+      "description": "Hiển thị <span style=\"color:#FFD780FF\">đặc sản khu vực Snezhnaya</span> trên bản đồ nhỏ.",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1481,
+      "id": "frostvale_thunderclap",
+      "name": "Sấm Rền Thung Lũng",
+      "description": "Sau khi nhân vật trong đội ở gần kích hoạt <span style=\"color:#FFACFFFF\">phản ứng liên quan đến Nguyên Tố Lôi</span> lên kẻ địch, sẽ hồi phục 15 điểm Năng Lượng Nguyên Tố cho Alyosha. Hiệu quả này mỗi 18s tối đa kích hoạt một lần.",
+      "level": 1
+    },
+    {
+      "_id": 1482,
+      "id": "howl_from_afar",
+      "name": "Tiếng Hú Báo Tin",
+      "description": "Thời gian duy trì Kỹ Năng Nộ <span style=\"color:#FFD780FF\">Thợ Săn Tiến Bước</span> kéo dài 6s.<br/>Ngoài ra, trước mỗi lần <b><span style=\"color:#FFD780FF\">Tugarin</span></b> tấn công kẻ địch, sẽ còn áp dụng <b><span style=\"color:#FFD780FF\">Dấu Ấn Săn Bắn</span></b> lên một mục tiêu. Hiệu quả này sẽ không kích hoạt <span style=\"color:#FFD780FF\">Dấu Ấn Săn Bắn</span> đã có.",
+      "level": 2
+    },
+    {
+      "_id": 1483,
+      "id": "friendly_call",
+      "name": "Tiếng Gọi Bạn Bè",
+      "description": "Cấp kỹ năng <span style=\"color:#FFD780FF\">Phục Kích Sấm Sét</span> +3.<br/>Tăng tối đa đến cấp 15.",
+      "level": 3
+    },
+    {
+      "_id": 1484,
+      "id": "harvest_the_spoils",
+      "name": "Bắt Lấy Con Mồi",
+      "description": "Khi <b><span style=\"color:#FFD780FF\">Tugarin</span></b> thực hiện tấn công, sẽ hồi phục HP cho nhân vật có phần trăm HP thấp nhất trong đội ở gần, lượng hồi phục tương đương 60% Tấn Công của Alyosha.",
+      "level": 4
+    },
+    {
+      "_id": 1485,
+      "id": "when_the_nightbird_falls_silent",
+      "name": "Thời Khắc Ngừng Hót",
+      "description": "Cấp kỹ năng <span style=\"color:#FFD780FF\">Thợ Săn Tiến Bước</span> +3.<br/>Tăng tối đa đến cấp 15.",
+      "level": 5
+    },
+    {
+      "_id": 1486,
+      "id": "standard_reclaimed",
+      "name": "Giương Cờ Tái Đấu",
+      "description": "Hiệu quả <span style=\"color:#FFD780FF\">Mệnh Lệnh Thợ Săn</span> nhận được khi kích hoạt <b><span style=\"color:#FFD780FF\">Dấu Ấn Săn Bắn</span></b> sẽ có thể cộng dồn. Hiệu quả này tối đa cộng dồn 2 tầng, khi cộng dồn đến tầng 2, sẽ còn tăng 100 điểm Tinh Thông Nguyên Tố cho nhân vật trong trận hiện tại đang áp dụng hiệu quả này.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Đột Phá",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "HP Căn Bản",
+          "values": [
+            "-",
+            "1003"
+          ]
+        },
+        {
+          "label": "Tấn Công Căn Bản",
+          "values": [
+            "-",
+            "22"
+          ]
+        },
+        {
+          "label": "P.Ngự Căn Bản",
+          "values": [
+            "-",
+            "59"
+          ]
+        },
+        {
+          "label": "Hiệu Quả Nạp Nguyên Tố",
+          "values": [
+            "-",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Đột Phá",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "HP Căn Bản",
+          "values": [
+            "2577",
+            "3326"
+          ]
+        },
+        {
+          "label": "Tấn Công Căn Bản",
+          "values": [
+            "57",
+            "74"
+          ]
+        },
+        {
+          "label": "P.Ngự Căn Bản",
+          "values": [
+            "151",
+            "195"
+          ]
+        },
+        {
+          "label": "Hiệu Quả Nạp Nguyên Tố",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Đột Phá",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "HP Căn Bản",
+          "values": [
+            "4982",
+            "5514"
+          ]
+        },
+        {
+          "label": "Tấn Công Căn Bản",
+          "values": [
+            "111",
+            "122"
+          ]
+        },
+        {
+          "label": "P.Ngự Căn Bản",
+          "values": [
+            "293",
+            "324"
+          ]
+        },
+        {
+          "label": "Hiệu Quả Nạp Nguyên Tố",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104141,
+        "id": "vajrada_amethyst_sliver",
+        "name": "Vụn Tử Tinh Thắng Lợi",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Cỏ Nhung",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Hạt Giống Lai Ghép",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Đột Phá",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "HP Căn Bản",
+          "values": [
+            "6343",
+            "7052"
+          ]
+        },
+        {
+          "label": "Tấn Công Căn Bản",
+          "values": [
+            "141",
+            "157"
+          ]
+        },
+        {
+          "label": "P.Ngự Căn Bản",
+          "values": [
+            "373",
+            "414"
+          ]
+        },
+        {
+          "label": "Hiệu Quả Nạp Nguyên Tố",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "Mảnh Tử Tinh Thắng Lợi",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Đuôi Đứt Của Sinh Vật Bay",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Cỏ Nhung",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Hạt Giống Lai Ghép",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Đột Phá",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "HP Căn Bản",
+          "values": [
+            "7881",
+            "8413"
+          ]
+        },
+        {
+          "label": "Tấn Công Căn Bản",
+          "values": [
+            "175",
+            "187"
+          ]
+        },
+        {
+          "label": "P.Ngự Căn Bản",
+          "values": [
+            "463",
+            "494"
+          ]
+        },
+        {
+          "label": "Hiệu Quả Nạp Nguyên Tố",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "Mảnh Tử Tinh Thắng Lợi",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Đuôi Đứt Của Sinh Vật Bay",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Cỏ Nhung",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Tế Bào Lai Ghép",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Đột Phá",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "HP Căn Bản",
+          "values": [
+            "9241",
+            "9773"
+          ]
+        },
+        {
+          "label": "Tấn Công Căn Bản",
+          "values": [
+            "205",
+            "217"
+          ]
+        },
+        {
+          "label": "P.Ngự Căn Bản",
+          "values": [
+            "543",
+            "574"
+          ]
+        },
+        {
+          "label": "Hiệu Quả Nạp Nguyên Tố",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "Miếng Tử Tinh Thắng Lợi",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Đuôi Đứt Của Sinh Vật Bay",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Cỏ Nhung",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Tế Bào Lai Ghép",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Đột Phá",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "HP Căn Bản",
+          "values": [
+            "10602",
+            "11134"
+          ]
+        },
+        {
+          "label": "Tấn Công Căn Bản",
+          "values": [
+            "235",
+            "247"
+          ]
+        },
+        {
+          "label": "P.Ngự Căn Bản",
+          "values": [
+            "623",
+            "654"
+          ]
+        },
+        {
+          "label": "Hiệu Quả Nạp Nguyên Tố",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "Miếng Tử Tinh Thắng Lợi",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Đuôi Đứt Của Sinh Vật Bay",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Cỏ Nhung",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "Thể Lai Ghép Nguyên Thủy",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Đột Phá",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "HP Căn Bản",
+          "values": [
+            "11962",
+            "11962"
+          ]
+        },
+        {
+          "label": "Tấn Công Căn Bản",
+          "values": [
+            "265",
+            "265"
+          ]
+        },
+        {
+          "label": "P.Ngự Căn Bản",
+          "values": [
+            "703",
+            "703"
+          ]
+        },
+        {
+          "label": "Hiệu Quả Nạp Nguyên Tố",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104144,
+        "id": "vajrada_amethyst_gemstone",
+        "name": "Tử Tinh Thắng Lợi",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Đuôi Đứt Của Sinh Vật Bay",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Cỏ Nhung",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "Thể Lai Ghép Nguyên Thủy",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104368,
+          "id": "teachings_of_fortitude",
+          "name": "Bài Giảng Của \"Kiên Nhẫn\"",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Hạt Giống Lai Ghép",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Hướng Dẫn Của \"Kiên Nhẫn\"",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Tế Bào Lai Ghép",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Hướng Dẫn Của \"Kiên Nhẫn\"",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Tế Bào Lai Ghép",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Hướng Dẫn Của \"Kiên Nhẫn\"",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Tế Bào Lai Ghép",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Hướng Dẫn Của \"Kiên Nhẫn\"",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Tế Bào Lai Ghép",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Triết Học Của \"Kiên Nhẫn\"",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Thể Lai Ghép Nguyên Thủy",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Lọ Thuốc Của Dị Đoan",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Triết Học Của \"Kiên Nhẫn\"",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Thể Lai Ghép Nguyên Thủy",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Lọ Thuốc Của Dị Đoan",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Triết Học Của \"Kiên Nhẫn\"",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Thể Lai Ghép Nguyên Thủy",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Lọ Thuốc Của Dị Đoan",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Triết Học Của \"Kiên Nhẫn\"",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Thể Lai Ghép Nguyên Thủy",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Lọ Thuốc Của Dị Đoan",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Vương Miện Trí Thức",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 214800,
+      "name": "Chuyến Đi Săn Sương Giá",
+      "description": "Phong cách của Alyosha. Bộ trang phục đi săn bền bỉ, với lớp lót dày và mũ bằng nhung, giúp Alyosha có thể ẩn mình lâu dài trong tuyết cho đến khi săn được con mồi mong muốn. Còn lý do tại sao chiếc mũ lại có thiết kế như đầu chú chó con, thì đơn giản là vì rất dễ thương, Tugarin cũng rất thích.",
+      "isDefault": true,
+      "characterName": "Alyosha",
+      "characterId": 10000148,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Alyosha_Circle"
+    }
+  ]
+}

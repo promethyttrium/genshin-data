@@ -1,0 +1,21 @@
+{
+  "_id": 101280,
+  "id": "snowball_flower",
+  "name": "Viorne de neige",
+  "description": "Une fleur charmante aux pétales disposés en un amas sphérique. Sous la neige, elle ressemble à une minuscule boule de neige.",
+  "recipes": [
+    {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Okrochka des neiges"
+    },
+    {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "Viornes en fleurs sur champ de neige"
+    }
+  ],
+  "source": [
+    "Zone conseillée : Snezhnaya"
+  ]
+}

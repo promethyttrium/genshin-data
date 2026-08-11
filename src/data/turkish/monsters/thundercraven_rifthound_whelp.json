@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_Hound_Kanis_Electric",
   "description": "Damarlarında uğursuz kan akan bu canavar, dünyanın sınırlarını aşındırabilir. \"Altın\", bu canavarları \"Alfisol\" olarak sınıflandırmıştır.\\nDevasa korkunç yaratıkların olduğu eski zamanlarda büyük tazı sürüleri, dünyanın sınırlarını eritip yollarına çıkabilecek tüm engelleri ortadan kaldırırdı.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

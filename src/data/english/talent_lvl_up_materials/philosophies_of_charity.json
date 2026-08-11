@@ -1,0 +1,30 @@
+{
+  "_id": 104367,
+  "id": "philosophies_of_charity",
+  "name": "Philosophies of Charity",
+  "description": "Talent Level-Up Material.\\nCharity is the salvation of the frozen realm.\\nIt is a boundless grace extended to all living things. It collapses the divide between the highborn and the low, transcending both bloodline and nation. Its watchful gaze beholds all of humanity, offering sanctuary to the unfortunate and promising eternal liberation unto all.",
+  "source": [
+    "Placeholder - Craftable Amount: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104366,
+        "id": "guide_to_charity",
+        "name": "Guide to Charity",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domain of Mastery: Contemplation IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Monday",
+    "Thursday",
+    "Sunday"
+  ]
+}

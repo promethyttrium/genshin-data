@@ -13,8 +13,6 @@
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_VolcanoWeasel",
   "description": "Una antigua variante de hurón de montaña que vive en un entorno de flogisto especial y aislado del mundo exterior.\\nUna antigua bestia que se alimenta de criaturas ricas en flogisto y que acumula este combustible en su caparazón. Durante su larga vida en las ruinas de la Montaña Sagrada, parece que debido a su necesidad de estar cerca de flogisto, con el tiempo se han visto afectados por los Mecanismos Fuentenigma de su entorno, con los que han desarrollado una relación simbiótica.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

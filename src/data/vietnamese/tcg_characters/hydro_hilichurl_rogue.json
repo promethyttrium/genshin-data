@@ -9,9 +9,11 @@
     "hp": 11,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Thủy",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null,
-      null
+      "Ma Vật",
+      "Hilichurl"
     ],
     "talent_card": {
       "_id": 6595,
@@ -28,8 +30,10 @@
     {
       "id": "whirling_scythe",
       "name": "Lưỡi Liềm Vung Xoáy",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -48,8 +52,10 @@
     {
       "id": "slash_of_surging_tides",
       "name": "Nhát Chém Sóng Trào",
-      "desc": "Gây ? điểm ?.<br/>Nếu có nhân vật phe địch đang áp dụng <span style=\"color:#FFFFFFFF\">Đóng Băng</span> hoặc <span style=\"color:#FFFFFFFF\">Bong Bóng Bao Vây</span>, thì nhân vật này sẽ nhận 1 điểm <span style=\"color:#FFFFFFFF\">Năng Lượng</span>. (Mỗi hiệp 1 lần)",
-      "skillTag": [],
+      "desc": "Gây 3 điểm <span style=\"color:#80C0FFFF\">Sát Thương Nguyên Tố Thủy</span>.<br/>Nếu có nhân vật phe địch đang áp dụng <span style=\"color:#FFFFFFFF\">Đóng Băng</span> hoặc <span style=\"color:#FFFFFFFF\">Bong Bóng Bao Vây</span>, thì nhân vật này sẽ nhận 1 điểm <span style=\"color:#FFFFFFFF\">Năng Lượng</span>. (Mỗi hiệp 1 lần)",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -62,8 +68,10 @@
     {
       "id": "bubblefloat_blitz",
       "name": "Tấn Công Trôi Nổi",
-      "desc": "Gây ? điểm ?, sinh ra 1 thẻ <span style=\"color:#FFFFFFFF\">Slime Bong Bóng</span> trên tay.<br/>(Nhân vật trang bị <span style=\"color:#FFFFFFFF\">Slime Bong Bóng</span> có thể sử dụng Đặc Kỹ: <span style=\"color:#FFFFFFFF\">Chiến Pháp Bong Bóng</span>)",
-      "skillTag": [],
+      "desc": "Gây 4 điểm <span style=\"color:#80C0FFFF\">Sát Thương Nguyên Tố Thủy</span>, sinh ra 1 thẻ <span style=\"color:#FFFFFFFF\">Slime Bong Bóng</span> trên tay.<br/>(Nhân vật trang bị <span style=\"color:#FFFFFFFF\">Slime Bong Bóng</span> có thể sử dụng Đặc Kỹ: <span style=\"color:#FFFFFFFF\">Chiến Pháp Bong Bóng</span>)",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1102,

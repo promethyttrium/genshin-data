@@ -1,0 +1,90 @@
+{
+  "_id": 1317,
+  "id": "durin",
+  "shareId": 608,
+  "name": "Durin",
+  "title": "Durin - “El Fuego Inextinguible”",
+  "desc": "Nacido de una pluma de escribir, se eleva entre las estrellas.",
+  "attributes": {
+    "hp": 10,
+    "card_type": "Carta de personaje",
+    "energy": 2,
+    "element": "Pyro",
+    "weapon": "Espada ligera",
+    "faction": [
+      "Mondstadt"
+    ],
+    "source": "Se obtiene tras retar y ganar a Durin en un duelo amistoso en la taberna Cola de Gato"
+  },
+  "skills": [
+    {
+      "id": "radiant_wingslash",
+      "name": "Corte del ala ardiente",
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Dados Pyro",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Dado indefinido",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "binary_form_convergence_and_division",
+      "name": "Forma binaria: Convergencia y división",
+      "desc": "Inflige 3 pts. de <span style=\"color:#FF9999FF\">Daño Pyro</span> y obtiene el efecto de <span style=\"color:#FFFFFFFF\">transmutación esencial</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Dados Pyro",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "principle_of_purity_as_the_light_shifts",
+      "name": "Principio de pureza: Fluctuación lumínica",
+      "desc": "Inflige 1 pt. de <span style=\"color:#FF9999FF\">Daño Pyro</span> y otorga el estado de <span style=\"color:#FFFFFFFF\">confirmación de la pureza</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Dados Pyro",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Energía",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "light_manifest_of_the_divine_calculus",
+      "name": "Lumimanifestación del cálculo divino",
+      "desc": "Pasiva: <span style=\"color:#FFFFFFFF\">tras usar el Ataque Normal</span>, su Habilidad Definitiva pasa a ser <span style=\"color:#FFFFFFFF\">Principio de oscuridad: Combustión estelar</span>.<br/><span style=\"color:#FFFFFFFF\">Tras usar la Habilidad Elemental</span>, su Habilidad Definitiva pasa a ser <span style=\"color:#FFFFFFFF\">Principio de pureza: Fluctuación lumínica</span>.",
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
+      "points": []
+    }
+  ]
+}

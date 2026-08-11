@@ -13,8 +13,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuimecha_AMP",
   "description": "Mekanisme super berat yang dikembangkan bersama oleh Kantor Persenjataan Kekaisaran dan Biro Desain Eksperimental Kuuvahki, disebut sebagai Tipe Drzislav dalam dokumen internal.\\nTujuan awalnya sepertinya adalah untuk menciptakan perangkat transportasi umum segala medan yang bisa digunakan untuk mengangkut barang-barang. Oleh sebab itu, ditambahkan dengan alat pemotong dan penggali. Namun model produksi massal di kemudian hari dimodifikasi menjadi versi militer yang dilengkapi dengan senjata berat.\\nSoalnya, dalam dunia di bawah rembulan, bahkan rencana paling sempurna dan suci pun akan menyimpang dari niat awalnya. Apalagi mesin tak sempurna yang diciptakan oleh manusia hanya dengan secuil kebaikannya.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 1,
   "stats": {
     "resistance": {

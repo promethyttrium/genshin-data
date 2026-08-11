@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Gator_Sacred_Water",
   "description": "Un reptil que ha mutado por devorar los restos de poderosos seres.\\nA veces, los humanos veneran a algunas bestias feroces e imponentes porque las consideran la encarnación de un magnífico poder. Dichas bestias aprovechan esa imagen que los humanos tienen de ellas para demostrar orgullosamente sus habilidades. Sin embargo, las que realmente han absorbido un magnífico poder acaban muriendo a causa de ello, y solo una minoría logra evolucionar a una nueva forma.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

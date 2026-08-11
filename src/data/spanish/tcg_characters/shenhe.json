@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Lanza",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3845,
@@ -29,8 +31,10 @@
     {
       "id": "dawnstar_piercer",
       "name": "Perforaestrellas",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "spring_spirit_summoning",
       "name": "Espíritu exorcizador",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y crea una <span style=\"color:#FFFFFFFF\">pluma glacial</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#99FFFFFF\">Daño Cryo</span> y crea una <span style=\"color:#FFFFFFFF\">pluma glacial</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "divine_maidens_deliverance",
       "name": "Encantamiento de la damisela divina",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y crea un <span style=\"color:#FFFFFFFF\">espíritu hechizado</span>.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#99FFFFFF\">Daño Cryo</span> y crea un <span style=\"color:#FFFFFFFF\">espíritu hechizado</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1101,

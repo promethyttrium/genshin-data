@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Гео",
+    "weapon": "Двуручное",
     "faction": [
-      null
+      "Мондштадт"
     ],
     "talent_card": {
       "_id": 3233,
@@ -29,8 +31,10 @@
     {
       "id": "favonius_bladework_maid",
       "name": "Фехтовальный стиль Фавония: Горничная",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -49,8 +53,10 @@
     {
       "id": "breastplate",
       "name": "Бронефартук",
-      "desc": "Наносит ?, ? ед. и создаёт <span style=\"color:#FFFFFFFF\">Полная броня</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FFE699FF\">Гео урон</span>, 1 ед. и создаёт <span style=\"color:#FFFFFFFF\">Полная броня</span>.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -63,8 +69,10 @@
     {
       "id": "sweeping_time",
       "name": "Генеральная уборка",
-      "desc": "Наносит ?, ? ед. Персонаж получает <span style=\"color:#FFFFFFFF\">Генеральная уборка</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FFE699FF\">Гео урон</span>, 4 ед. Персонаж получает <span style=\"color:#FFFFFFFF\">Генеральная уборка</span>.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1106,

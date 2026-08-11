@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Mimik_Electric",
   "description": "Quái vật hình thực vật với nguyên khí dồi dào, dùng nguyên tố Lôi tấn công con mồi.\\nKhi Năng Lượng Nguyên Tố đầy, thi triển dòng điện lớn từ vòng hoa, cho nên có học giả muốn dùng nó cho việc khác...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

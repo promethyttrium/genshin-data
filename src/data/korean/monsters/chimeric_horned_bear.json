@@ -1,0 +1,39 @@
+{
+  "_id": 26310401,
+  "id": "chimeric_horned_bear",
+  "monsterId": 26310402,
+  "name": "뿔곰 키메라",
+  "specialNames": [
+    "뿔곰 키메라"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "돌연변이 마수",
+  "filename_icon": "UI_MonsterIcon_Chimera_BearDeer",
+  "description": "생물 연금술로 탄생한 키메라. 형성 과정이 매우 특수하다.\\n인위적인 설계를 거치지 않고 생명의 조각들이 스스로 결합해 탄생했으며, 그 결과 원소력을 자유자재로 다루는 신비한 능력까지 지니게 되었다.\\n생명이 조각만 남을 만큼 산산이 부서졌음에도, 대체 어떤 의지와 위대한 힘이 그것을 신비한 계획에 따라 성장시킨 것일까?\\n그 해답을 아는 자는 오늘날 아무도 없을 것이다",
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 27.431341,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

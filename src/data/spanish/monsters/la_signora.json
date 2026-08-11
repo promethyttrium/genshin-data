@@ -197,7 +197,6 @@
   "categoryText": "Enemigos memorables",
   "filename_icon": "UI_MonsterIcon_LaSignora",
   "description": "Signora, la octava de Los Once de los Fatui.\\nComparada con otros Fatui que también usan el poder de sus Engaños, Signora usa el suyo para controlar las llamas que todo lo engullen. Más que un arma de combate, es un objeto utilizado para detener criminales.\\nSon las ascuas que, tras acumularse a lo largo de los años y romper el sello helado del Engaño, dibujaron un retorcido aspecto en su rostro.\\n\\nCuando el rojo carmesí se reflejó en sus pupilas como un amanecer, desplegó sus ardientes alas para volar hacia el alba.\\n\\n<i>“Eso no es el amanecer, querida Rosalyne. Es el mar de llamas que lo incendia todo”</i>, le dijo una voz que se escuchaba venir de un haz de luz.\\n\\nPero nada de eso importaba, pues en su interior sabía que las llamas la habían consumido hace mucho tiempo.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

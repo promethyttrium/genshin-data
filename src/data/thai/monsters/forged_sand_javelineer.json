@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Warrior's Metal Whistle",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Sentry's Wooden Whistle",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "กองกำลังของมนุษย์อื่น ๆ",
   "filename_icon": "UI_MonsterIcon_Human_Fat_NoWeapon_Drillhead",
   "description": "ผู้กล้าจากหุบเขา และผู้พิทักษ์ชนเผ่าที่ลาดตระเวนอยู่ระหว่างภูเขาคริสตัลและแม่น้ำ\\nในยุคสมัยที่ยอดเขาพังทลาย และเผ่าจำเป็นต้องถูกสร้างขึ้นใหม่ เหล่านักรบจะใช้หอก เพื่อเป็นเครื่องหมายระบุตำแหน่งทั้งสองฝั่งของหุบเขาในการขุดเจาะเส้นทาง ซึ่งหมายความว่า หอกแต่ละเล่มจะต้องถูกปักลึกลงไปในหิน",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

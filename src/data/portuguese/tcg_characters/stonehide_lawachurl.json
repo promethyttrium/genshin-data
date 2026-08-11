@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Geo",
+    "weapon": "Outras Armas",
     "faction": [
-      null,
-      null
+      "Monstro",
+      "Hilichurl"
     ],
     "talent_card": {
       "_id": 3239,
@@ -28,8 +30,10 @@
     {
       "id": "plama_lawa",
       "name": "Plama Lawa",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -48,8 +52,10 @@
     {
       "id": "movo_lawa",
       "name": "Movo Lawa",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de ?.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -62,8 +68,10 @@
     {
       "id": "upa_shato",
       "name": "Upa Shato",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 5 pontos de ?.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -83,7 +91,9 @@
       "id": "infused_stonehide",
       "name": "Estado Demoníaco: Armadura Geo",
       "desc": "(Passiva) Quando a batalha começa, esse personagem ganha <span style=\"color:#FFFFFFFF\">Armadura Geo</span> e <span style=\"color:#FFFFFFFF\">Força Rochosa</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Passiva"
+      ],
       "points": []
     }
   ]

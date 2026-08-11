@@ -79,6 +79,11 @@
       "name": "Ateş Başı Keyfi"
     },
     {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Kar Diyarı Akroşkası"
+    },
+    {
       "_id": 4101,
       "id": "jade_parcels",
       "name": "Yeşim Bohçaları"
@@ -111,6 +116,5 @@
   ],
   "source": [
     "İşlenerek elde edilir."
-  ],
-  "rarity": 0
+  ]
 }

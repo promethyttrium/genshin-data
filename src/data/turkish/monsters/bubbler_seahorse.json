@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Mature",
   "description": "Baloncuklu Denizatının erkek yetişkin hali. Son derece agresiftir.\\nBazıları denizatlarının kralıyla karşılaştıklarını iddia eder. Dört uzun uzvuyla çok gururlu varlıklar olduğu söylenir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

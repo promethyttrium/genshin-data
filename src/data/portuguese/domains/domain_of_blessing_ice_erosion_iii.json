@@ -1,0 +1,92 @@
+{
+  "_id": 4705,
+  "id": "domain_of_blessing_ice_erosion_iii",
+  "name": "Domínio da Bênção: Frio Penetrante III",
+  "entranceId": 2075,
+  "entranceName": "Geleira Invertida",
+  "description": "Uma montanha desolada, assolada por tempestades invernais eternas. Nem monstro ou bandido consegue sobreviver por muito tempo ao frio solitário e antigo.\nSe você conseguir derrotar os intrusos que se escondem nesse local, você poderá obter alguns artefatos preciosos.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 80,
+  "unlockRank": 40,
+  "disorder": [
+    "After a character triggers a Cryo-related reaction, all party members' Elemental Mastery is increased by 250 for 10s."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_01",
+  "recommendedElements": [
+    "Cryo",
+    "Electro",
+    "Anemo"
+  ],
+  "domainType": "UI_ABYSSUS_RELIC",
+  "domainText": "Artifacts",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP de Aventura",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "2200"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP de Amizade",
+      "count": "20"
+    },
+    {
+      "_id": 400421,
+      "id": "scarlet_proof",
+      "name": "Scarlet Proof",
+      "rarity": 5
+    },
+    {
+      "_id": 400431,
+      "id": "heart_of_the_furnace",
+      "name": "Heart of the Furnace",
+      "rarity": 5
+    },
+    {
+      "_id": 400420,
+      "id": "scarlet_proof",
+      "name": "Scarlet Proof",
+      "rarity": 4
+    },
+    {
+      "_id": 400430,
+      "id": "heart_of_the_furnace",
+      "name": "Heart of the Furnace",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 4
+    },
+    {
+      "_id": 400008,
+      "id": "brave_heart",
+      "name": "Brave Heart",
+      "rarity": 4
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 3
+    },
+    {
+      "_id": 400007,
+      "id": "brave_heart",
+      "name": "Brave Heart",
+      "rarity": 3
+    }
+  ],
+  "monsterList": []
+}

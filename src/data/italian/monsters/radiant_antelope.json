@@ -13,7 +13,6 @@
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Magbeast_Argali",
   "description": "Un mostro andato incontro a una particolare evoluzione dopo aver trascorso intere epoche immerso nell'energia della Luna antica.\\nIn passato, degli strani fulmini caddero sulla terra benedetta dal chiaro di luna, donando anche alle comuni antilopi il potere di controllarli. In prossimità delle tempeste, alcuni affermano di aver ammirato spettacoli oltremodo curiosi: delle antilopi in cima alle rupi che attiravano dardi folgoranti dal cielo per temprare le loro membra.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

@@ -1,0 +1,13 @@
+{
+  "_id": 70800041,
+  "id": "fiery_plumage_valley",
+  "name": "炎の羽のような葉が茂る谷",
+  "areaName": "焔{RUBY#[D]えんよく}翼の谷{RUBY#[S]たに}",
+  "areaId": 80400,
+  "description": "伝説によると、ある日この地の氷雪が解け、炎のような葉をつけた木が地中から生えたという。\nそして、永遠を追い求める者はこの地で、自らの永遠をかけて、待ち望む人の帰りを待ち始めた。",
+  "regionName": "スネージナヤ",
+  "regionId": 8,
+  "sortOrder": 641,
+  "filename_image": "UI_Codex_Scenery_ZDHuoNiaoHeZhuView",
+  "showOnlyUnlocked": true
+}

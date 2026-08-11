@@ -1,0 +1,12 @@
+{
+  "_id": 70800043,
+  "id": "cavern_of_melodic_tides",
+  "name": "Caverne des marées mélodiques",
+  "areaName": "Cime de givrefuneste",
+  "areaId": 80300,
+  "description": "Les vagues caressent doucement les falaises, au rythme du doux fredonnement d'une chanson. Dans cette immensité solitaire, seuls le clapotis des vagues et leurs échos envoûtants peuvent peut-être offrir un rare moment de paix.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 643,
+  "filename_image": "UI_Codex_Scenery_ZDRenYu3"
+}

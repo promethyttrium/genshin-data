@@ -13,7 +13,6 @@
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_Magbeast_Rhino",
   "description": "長久浸浴古老月之力而演化出獨特生態的魔獸。\\n據說從前，在邊界之地曾被漆黑的陰影籠罩之時，唯有巨犀能透過族群的奔行將可令萬物流轉的力量重新帶回此處…而這也是月光降下恩賜後，向牠們索求的唯一的報答。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Bộ Tộc Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hili_None_01",
   "description": "Cư dân nguyên thủy lang thang nơi hoang dã ở Teyvat.\\nChiến sĩ bộ lạc xấu tính, nói cách dân dã là chỉ dựa vào sức mạnh cơ bắp. Nếu cơ bắp đủ rắn chắc, đủ mạnh, vậy sẽ có một ngày giương lên tấm khiên cực lớn, trở thành \"Bạo Đồ Hilichurl\"...?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

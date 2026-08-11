@@ -13,6 +13,11 @@
   ],
   "recipes": [
     {
+      "_id": 1701,
+      "id": "podvorye_smoked_sausage",
+      "name": "Podvorye Smoked Sausage"
+    },
+    {
       "_id": 2603,
       "id": "nodkrai_hot_dog",
       "name": "Nod-Krai Hot Dog"
@@ -45,6 +50,5 @@
   ],
   "source": [
     "Processed"
-  ],
-  "rarity": 0
+  ]
 }

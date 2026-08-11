@@ -1,0 +1,21 @@
+{
+  "_id": 320002,
+  "id": "ardent_storm_sublimation",
+  "name": "Cuồng Phong - Thăng Hoa",
+  "description": "Ảo ảnh vũ khí rực rỡ phản chiếu sức mạnh của \"Lý Trí\" xuất hiện nơi sâu thẳm trong Địa Mạch, có thể biến đổi tùy theo loại nguyên tố của người cầm. Nghe nói nó từng mang cái tên \"Starkuthr\" và được nắm giữ bởi tội nhân siêu việt của vương đô cổ xưa.",
+  "rarity": 5,
+  "type": {
+    "id": "Claymore",
+    "name": "Trọng Kiếm"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Huyễn Hình Rạng Rỡ: Siêu Việt - Thăng Hoa",
+    "priority": 1
+  },
+  "item_id": 341202,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Claymore_MorphGravitas_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_MorphGravitas_Great"
+}

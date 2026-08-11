@@ -1,0 +1,29 @@
+{
+  "_id": 114090,
+  "id": "intoxication_of_the_cellared_spiritual_nectar",
+  "name": "Embriaguez del néctar espiritual de la bodega",
+  "description": "Lo que en otras tierras se utiliza para celebrar la abundancia de las cosechas, para los clanes que habitan en el frío gélido es un recurso necesario para sobrevivir.<br/>Se dice que los domovói, los más hábiles en el arte de la destilación de alcohol, usaron esta técnica para llenar las arcas del rey al que servían.<br/>Así fue como la bebida de las hadas fluyó por toda la tundra como miel mezclada con veneno a través de las transacciones entre distintos clanes.",
+  "source": [
+    "Cantidad sintetizable: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114089,
+        "id": "measured_pour_of_the_cellared_spiritual_nectar",
+        "name": "Vertimiento del néctar espiritual de la bodega",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio de la forja: Cicatriz de la obsesión",
+  "days": [
+    "Martes",
+    "Viernes",
+    "Domingo"
+  ]
+}

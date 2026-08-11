@@ -157,7 +157,6 @@
   "categoryText": "새겨둬야 할 강적",
   "filename_icon": "UI_MonsterIcon_Nihil",
   "description": "우인단 집행관 서열 4위. 「아를레키노」",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

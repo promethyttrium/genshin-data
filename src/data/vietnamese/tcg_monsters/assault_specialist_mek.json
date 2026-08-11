@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Không Nguyên Tố",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null
+      "Ma Vật"
     ]
   },
   "skills": [
     {
       "id": "offensive_shieldstrike",
       "name": "Lá Chắn Tấn Công",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -30,8 +34,10 @@
     {
       "id": "double_strike",
       "name": "Tấn Công Hai Lượt",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 3 điểm ?.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1108,
@@ -44,8 +50,10 @@
     {
       "id": "leaping_smash",
       "name": "Nhảy Vọt Đập Mạnh",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 4 điểm ?.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1108,

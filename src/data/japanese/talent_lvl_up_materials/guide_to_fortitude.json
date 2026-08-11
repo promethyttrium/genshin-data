@@ -1,0 +1,30 @@
+{
+  "_id": 104369,
+  "id": "guide_to_fortitude",
+  "name": "「不屈」の導き",
+  "description": "天賦育成素材。\\n「堅忍」は氷の国土の品格である。\\n堅忍は成長の意志をもたらす。たとえ寒波に挫かれようとも、か弱い種はこの意志によって土を突き破り、風雪に覆われた大地に新芽を出すことができる。",
+  "source": [
+    "合成可能数：{0}"
+  ],
+  "location": "スネージナヤ",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104368,
+        "id": "teachings_of_fortitude",
+        "name": "「不屈」の教え",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "熟知秘境・隠修 IV",
+  "domainId": "domain_of_mastery_hermitage_iv",
+  "days": [
+    "火曜",
+    "金曜",
+    "日曜"
+  ]
+}

@@ -28,7 +28,6 @@
   "categoryText": "Autômatos",
   "filename_icon": "UI_MonsterIcon_Apparatus_Enigma_BionicDrone",
   "description": "Várias máquinas de formatos bizarros que assumiram diferentes formas e funções para se adaptarem a diferentes objetivos.\\nA lenda diz que são máquinas de guerra deixadas para trás por uma nação que já foi destruída. Em comparação com os Guardas das Ruínas mais comuns, suas formas têm maior valor no estudo biônico. A inspiração para seu desenho e modos de combate descentralizados parece ter vindo das colônias de abelhas, tornando-os capaz de mudar de forma e atacar de diferentes direções.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

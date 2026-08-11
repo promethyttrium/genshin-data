@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "Uçarlop Kalbi",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "Uçarlop Kabuğu",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Element Yaşam Formları",
   "filename_icon": "UI_MonsterIcon_Sylph_Grass_01",
   "description": "Havada süzülebilen, yüksek yoğunluktaki Doğa enerjisinden oluşmuş bir canavar.\\nBir Vahumana araştırmacısı bir zamanlar Doğa Uçarloplarının ekolojik özelliklerini araştırmış ve onları efsanevi \"Aranara\" ile çok yakın bularak, Aranaraların aslında Doğa Uçarlopu olduğu sonucuna varmıştı. Bu araştırmacı daha sonra fazla tanınmayan bir peri masalı yazarı oldu.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

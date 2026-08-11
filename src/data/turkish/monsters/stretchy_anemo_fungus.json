@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Epsilon_Wind",
   "description": "Bir miktar zekaya sahip olan bir spor organizması. Üstün derecede uyum sağlama yeteneği vardır.\\nBu mantarın uzantıları ile besinleri hızlıca emme özelliği vardır ve şemsiye şeklindeki şapkası rüzgarın estiği yöne dönerek yer değiştirmesini sağlar.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

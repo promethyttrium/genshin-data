@@ -1,0 +1,40 @@
+{
+  "_id": 25135101,
+  "id": "glacial_warden",
+  "monsterId": 25135106,
+  "name": "Thủ Vệ Ngưng Băng",
+  "specialNames": [
+    "Thủ Vệ Ngưng Băng"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Ma Thú Đột Biến",
+  "filename_icon": "UI_MonsterIcon_Snegurochka_Male",
+  "description": "Snegovik sinh ra từ trong băng tuyết, sinh ra vì tình yêu.\\nNhững cá thể nam trong Snegovik là kỵ sĩ bẩm sinh, phần lớn trong số họ từ khi sinh ra đã có thể tự do sử dụng băng tuyết để ngưng kết vũ khí cho chính mình.\\nTương truyền trong trận chiến chống lại Hắc Ám Xâm Thực của Bạch Sa Hoàng, một hộ vệ Snegovik đã kích hoạt sức mạnh không thuộc về tộc mình, khiến thân hình trở nên vô cùng khổng lồ.\\nDù không rõ kết cục cuối cùng ra sao, nhưng đã phạm phải điều cấm kỵ thì e rằng cũng không có kết quả tốt đẹp gì.",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 81.504,
+      "attack": 75.36,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

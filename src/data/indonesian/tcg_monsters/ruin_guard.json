@@ -8,16 +8,20 @@
     "hp": 8,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Tidak ada tipe elemen",
+    "weapon": "Senjata Lain",
     "faction": [
-      null
+      "Monster"
     ]
   },
   "skills": [
     {
       "id": "stern_blow",
       "name": "Stern Blow",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -30,8 +34,10 @@
     {
       "id": "spiral_closein",
       "name": "Spiral Close-In",
-      "desc": "Mengakibatkan ? poin ?, lalu <span style=\"color:#FFFFFFFF\">mempersiapkan Skill</span>: <span style=\"color:#FFFFFFFF\">High-Frequency Whirling Assault</span> dan <span style=\"color:#FFFFFFFF\">Hyperspeed Whirling Assault</span> secara terpisah.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin ?, lalu <span style=\"color:#FFFFFFFF\">mempersiapkan Skill</span>: <span style=\"color:#FFFFFFFF\">High-Frequency Whirling Assault</span> dan <span style=\"color:#FFFFFFFF\">Hyperspeed Whirling Assault</span> secara terpisah.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1108,
@@ -44,8 +50,10 @@
     {
       "id": "suppressive_volley",
       "name": "Suppressive Volley",
-      "desc": "Mengakibatkan ? poin ? dan menciptakan <span style=\"color:#FFFFFFFF\">Seeking Missile</span> di area lawan.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 4 poin ? dan menciptakan <span style=\"color:#FFFFFFFF\">Seeking Missile</span> di area lawan.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1108,
@@ -65,7 +73,9 @@
       "id": "standard_armor",
       "name": "Standard Armor",
       "desc": "[Pasif] <span style=\"color:#FFFFFFFF\">Physical DMG</span> yang diterima Karakter ini berkurang setengah. (Dibulatkan ke atas)",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

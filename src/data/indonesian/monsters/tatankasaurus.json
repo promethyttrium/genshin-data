@@ -8,13 +8,12 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Bisonsaurus_Normal",
   "description": "Saurian yang memiliki tulang tengkorak yang kokoh dan tubuh kuat, sehingga dapat bergerak cepat di dataran gunung berapi.\\nMenurut legenda, leluhur Tatankasaurus memiliki tubuh yang sangat besar sampai dapat menggunakan tanduknya untuk menggerakkan gunung. Namun, gerakan mereka tidak selincah Tatankasaurus pada zaman ini. Mungkin kekuatan yang dimiliki oleh Tatankasaurus saat ini adalah sesuatu yang diwariskan melalui darah mereka.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {

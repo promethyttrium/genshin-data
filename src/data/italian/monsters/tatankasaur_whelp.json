@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Bisonsaurus_Small",
   "description": "Un giovane Tatankasauro che non ha ancora acquisito il pieno controllo della propria forza, risultando un po' maldestro nei movimenti.\\nLe sue corna secondarie sono tuttora in fase di sviluppo, e il suo muso non è abbastanza forte per sfondare le rocce che bloccano la strada. Un giorno, una volta cresciuto, sarà in grado di vagare liberamente tra le fertili pianure.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

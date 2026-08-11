@@ -25,29 +25,27 @@
       "_id": 112103,
       "id": "tyrants_fang",
       "name": "Presa Tirana",
-      "count": 0.0616
+      "count": 0.062
     },
     {
       "_id": 112102,
       "id": "seasoned_fang",
       "name": "Presa Veterana",
-      "count": 0.2465
+      "count": 0.246
     },
     {
       "_id": 112101,
       "id": "juvenile_fang",
       "name": "Presa Juvenil",
-      "count": 0.9244
+      "count": 0.924
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Drillhead_Small",
   "description": "Tepetlissauros jovens têm a habilidade de cavar em rochas e Flogisto Sólido.\\nEles ainda não formaram chifres em suas testas, e suas habilidades de cavar ainda estão em desenvolvimento. É até comum ouvir Tepetlissauros jovens ficando presos em rochas durante a prática de escavação. Contudo, um dia, eles crescerão até a forma que os permite viajar livremente até através dos solos mais difíceis.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

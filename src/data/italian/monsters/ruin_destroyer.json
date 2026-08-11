@@ -28,7 +28,6 @@
   "categoryText": "Automi",
   "filename_icon": "UI_MonsterIcon_Apparatus_Enigma_BionicFlora",
   "description": "Varie macchine dalla forma bizzarra che hanno assunto forme e funzioni differenti per adattarsi a obiettivi diversi.\\nLa leggenda narra che siano macchine da guerra di una nazione che è già stata distrutta. Rispetto alle più comuni Guardie delle rovine, le loro forme hanno un valore maggiore per lo studio della biomimesi. La corona gigante, composta da diverse parti, sembra una specie di pianta spaventosa. Viene da chiedersi quali esperienze l'ideatore debba aver vissuto per concepire una macchina tanto spaventosa.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

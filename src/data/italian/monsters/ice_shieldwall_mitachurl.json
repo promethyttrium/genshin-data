@@ -45,7 +45,6 @@
   "description": "Un Hilichurl muscoloso che usa il ghiaccio solido come scudo, brandendolo in battaglia.\\nLa ragione suggerisce che le creature grandi e molto attive dovrebbero bruciare una grande quantità di calorie. Pertanto, l'attuale El Musk ha proposto un \"Indicatore dei Mitachurl\", che serve a mettere in correlazione la percentuale di Mitachurl all'interno della popolazione di Hilichurl con la stabilità e il successo dell'attività di foraggiamento della tribù stessa.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 2,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.3,

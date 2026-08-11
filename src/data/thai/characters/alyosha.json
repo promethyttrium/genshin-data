@@ -1,0 +1,1253 @@
+{
+  "_id": 10000148,
+  "id": "alyosha",
+  "name": "Alyosha",
+  "title": "สุนัขล่าโฉบอัสนี",
+  "description": "\"นักล่ามืออาชีพ\" ผู้ฝ่าทุ่งหิมะแห่ง Snezhnaya ภายใต้เปลือกนอกที่เยือกเย็นนั้น ดูเหมือนจะซ่อน \"อุดมการณ์\" อันแรงกล้าเอาไว้",
+  "weapon_type": {
+    "id": "polearm",
+    "name": "หอก"
+  },
+  "element": {
+    "id": "electro",
+    "name": "ไฟฟ้า"
+  },
+  "gender": {
+    "id": "male",
+    "name": "ชาย"
+  },
+  "release": 1786395600,
+  "substat": "การฟื้นฟูพลังงาน",
+  "affiliation": "Snezhnaya",
+  "region": {
+    "id": "snezhnaya",
+    "name": "Snezhnaya"
+  },
+  "rarity": 4,
+  "birthday": [
+    9,
+    2
+  ],
+  "constellation": "Canis Borzoides",
+  "domain": "ดันเจี้ยนแห่งการพัฒนา: ปลีกวิเวก",
+  "cv": {
+    "english": "Kevin Andrew Rivera",
+    "chinese": "王辅平",
+    "japanese": "佐藤元",
+    "korean": "Kim Hye-sung"
+  },
+  "skills": [
+    {
+      "_id": 11481,
+      "id": "skirmishing_spear",
+      "name": "Skirmishing Spear",
+      "description": "<span style=\"color:#FFD780FF\">โจมตีปกติ</span><br/>โจมตีด้วยหอกต่อเนื่องมากสุด 4 ครั้ง และทำให้ศัตรูที่โดนโจมตีในการโจมตีครั้งสุดท้ายติดเอฟเฟกต์ <b><span style=\"color:#FFD780FF\">Hunter's Mark</span></b><br/><br/><span style=\"color:#FFD780FF\">ชาร์จโจมตี</span><br/>ใช้พลังกายส่วนหนึ่งเพื่อพุ่งตัวไปข้างหน้า และสร้างความเสียหายแก่ศัตรูที่อยู่ในเส้นทาง<br/><br/><span style=\"color:#FFD780FF\">โจมตีพุ่งลงจากอากาศ</span><br/>กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "info": "",
+      "attributes": [
+        {
+          "label": "ความเสียหายขั้น 1",
+          "values": [
+            "47.8%",
+            "51.7%",
+            "55.6%",
+            "61.2%",
+            "65.1%",
+            "69.5%",
+            "75.6%",
+            "81.7%",
+            "87.8%",
+            "94.5%",
+            "101.2%",
+            "107.9%",
+            "114.5%",
+            "121.2%",
+            "127.9%"
+          ]
+        },
+        {
+          "label": "ความเสียหายขั้น 2",
+          "values": [
+            "48.2%",
+            "52.1%",
+            "56%",
+            "61.6%",
+            "65.5%",
+            "70%",
+            "76.2%",
+            "82.3%",
+            "88.5%",
+            "95.2%",
+            "101.9%",
+            "108.6%",
+            "115.4%",
+            "122.1%",
+            "128.8%"
+          ]
+        },
+        {
+          "label": "ความเสียหายขั้น 3",
+          "values": [
+            "34.2% + 31.8%",
+            "37% + 34.4%",
+            "39.8% + 37%",
+            "43.8% + 40.7%",
+            "46.6% + 43.3%",
+            "49.8% + 46.3%",
+            "54.1% + 50.3%",
+            "58.5% + 54.4%",
+            "62.9% + 58.5%",
+            "67.7% + 62.9%",
+            "72.4% + 67.3%",
+            "77.2% + 71.8%",
+            "82% + 76.2%",
+            "86.8% + 80.7%",
+            "91.5% + 85.1%"
+          ]
+        },
+        {
+          "label": "ความเสียหายขั้น 4",
+          "values": [
+            "75.9%",
+            "82%",
+            "88.2%",
+            "97%",
+            "103.2%",
+            "110.3%",
+            "120%",
+            "129.7%",
+            "139.4%",
+            "149.9%",
+            "160.5%",
+            "171.1%",
+            "181.7%",
+            "192.3%",
+            "202.9%"
+          ]
+        },
+        {
+          "label": "ความเสียหายชาร์จโจมตี",
+          "values": [
+            "111%",
+            "120.1%",
+            "129.1%",
+            "142%",
+            "151%",
+            "161.4%",
+            "175.6%",
+            "189.8%",
+            "204%",
+            "219.5%",
+            "235%",
+            "250.5%",
+            "265.9%",
+            "281.4%",
+            "296.9%"
+          ]
+        },
+        {
+          "label": "ชาร์จโจมตีใช้พลังกาย",
+          "values": [
+            "25 หน่วย",
+            "25 หน่วย",
+            "25 หน่วย",
+            "25 หน่วย",
+            "25 หน่วย",
+            "25 หน่วย",
+            "25 หน่วย",
+            "25 หน่วย",
+            "25 หน่วย",
+            "25 หน่วย",
+            "25 หน่วย",
+            "25 หน่วย",
+            "25 หน่วย",
+            "25 หน่วย",
+            "25 หน่วย"
+          ]
+        },
+        {
+          "label": "ความเสียหายพุ่งลง",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11482,
+      "id": "thunderbolt_strike",
+      "name": "Thunderbolt Strike",
+      "description": "อาศัยสัญชาตญาณของนักล่า สร้างเอฟเฟกต์ด้วยวิธีที่แตกต่างกันไปตามการกดค้างสิ้นสุดลง จะสร้าง<span style=\"color:#FFACFFFF\">ความเสียหายไฟฟ้า</span>แก่ศัตรูที่เลือกไว้",
+      "info": "นักล่าผู้บ้าระห่ำเคยปีนป่ายสู่ปลายคมหอก แต่โชคดีที่ได้เรียนรู้บทเรียนอันนองเลือด และได้รู้ซึ้งถึงหลักการเอาตัวรอดในทุ่งหิมะ",
+      "attributes": [
+        {
+          "label": "ความเสียหายเมื่อกด",
+          "values": [
+            "286.7%",
+            "308.2%",
+            "329.7%",
+            "358.4%",
+            "379.9%",
+            "401.4%",
+            "430.1%",
+            "458.8%",
+            "487.4%",
+            "516.1%",
+            "544.8%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%"
+          ]
+        },
+        {
+          "label": "ความเสียหายเมื่อกดค้าง",
+          "values": [
+            "358.4%",
+            "385.3%",
+            "412.2%",
+            "448%",
+            "474.9%",
+            "501.8%",
+            "537.6%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%",
+            "716.8%",
+            "761.6%",
+            "806.4%",
+            "851.2%"
+          ]
+        },
+        {
+          "label": "คูลดาวน์",
+          "values": [
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ"
+          ]
+        },
+        {
+          "label": "ระยะเวลาของ Hunter's Mark",
+          "values": [
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ"
+          ]
+        },
+        {
+          "label": "โบนัสพลังโจมตีของ Hunter's Precision",
+          "values": [
+            "11.7%",
+            "12.7%",
+            "13.8%",
+            "14.8%",
+            "15.9%",
+            "17%",
+            "18%",
+            "19.1%",
+            "20.1%",
+            "21.2%",
+            "22.5%",
+            "23.7%",
+            "25%",
+            "26.3%",
+            "27.6%"
+          ]
+        },
+        {
+          "label": "ระยะเวลาของ Hunter's Precision",
+          "values": [
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11485,
+      "id": "hunters_advance",
+      "name": "Hunter's Advance",
+      "description": "อัญเชิญคู่หูที่ไว้ใจได้อย่าง <span style=\"color:#FFD780FF\">Tugarin</span> มาร่วมต่อสู้ และเปลี่ยนพื้นที่ตรงหน้าให้กลายเป็น<span style=\"color:#FFD780FF\">แดนล่าอสนีบาต</span>ชั่วคราว<br/><br/><span style=\"color:#FFD780FF\">แดนล่าอสนีบาต</span><br/>·ยั่วยุศัตรูโดยรอบอย่างต่อเนื่อง เพื่อล่อให้ศัตรูโจมตี<br/>·ทุก 2 วินาที จะสร้าง<span style=\"color:#FFACFFFF\">ความเสียหายไฟฟ้าวงกว้าง</span>หนึ่งครั้ง แก่ศัตรูที่ก้าวเข้ามาในอาณาเขต<br/><br/><span style=\"color:#FFD780FF\">Tugarin</span><br/>·หากบริเวณรอบ ๆ มีศัตรูอยู่ ทุก ๆ 2 วินาที Tugarin จะเคลื่อนที่ไปใกล้ศัตรูหนึ่งตัวอย่างรวดเร็ว และโจมตีเป้าหมายด้วยการกัด สร้าง<span style=\"color:#FFD780FF\">ความเสียหายไฟฟ้า</span><br/>·หากศัตรูที่โดนโจมตีได้รับผลกระทบจากเอฟเฟกต์ <span style=\"color:#FFD780FF\">Hunter's Mark</span> จะเปิดใช้งาน <span style=\"color:#FFD780FF\">Hunter's Mark</span> ด้วย<br/>·Tugarin จะโจมตีศัตรูที่ได้รับผลกระทบจากเอฟเฟกต์ <span style=\"color:#FFD780FF\">Hunter's Mark</span> ก่อน",
+      "info": "เขาเฝ้ารอ รอจนกระทั่งความร้อนรนในใจสงบลง จากนั้นนกหัวโตท้องแดงก็บินข้ามป่าเบิร์ชขาวมารับกระสุนของเขา",
+      "attributes": [
+        {
+          "label": "ความเสียหายแดนล่าอสนีบาต",
+          "values": [
+            "75%",
+            "80.6%",
+            "86.2%",
+            "93.7%",
+            "99.3%",
+            "104.9%",
+            "112.4%",
+            "119.9%",
+            "127.4%",
+            "134.9%",
+            "142.4%",
+            "149.9%",
+            "159.3%",
+            "168.7%",
+            "178%"
+          ]
+        },
+        {
+          "label": "ความเสียหาย Tugarin",
+          "values": [
+            "50.2%",
+            "54%",
+            "57.8%",
+            "62.8%",
+            "66.5%",
+            "70.3%",
+            "75.3%",
+            "80.4%",
+            "85.4%",
+            "90.4%",
+            "95.4%",
+            "100.4%",
+            "106.7%",
+            "113%",
+            "119.3%"
+          ]
+        },
+        {
+          "label": "ระยะเวลาต่อเนื่อง",
+          "values": [
+            "14 วิ",
+            "14 วิ",
+            "14 วิ",
+            "14 วิ",
+            "14 วิ",
+            "14 วิ",
+            "14 วิ",
+            "14 วิ",
+            "14 วิ",
+            "14 วิ",
+            "14 วิ",
+            "14 วิ",
+            "14 วิ",
+            "14 วิ",
+            "14 วิ"
+          ]
+        },
+        {
+          "label": "คูลดาวน์",
+          "values": [
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ"
+          ]
+        },
+        {
+          "label": "พลังงานธาตุ",
+          "values": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "awakened_by_the_baying_hounds",
+      "name": "Awakened by the Baying Hounds",
+      "description": "เมื่อ <b><span style=\"color:#FFD780FF\">Tugarin</span></b> ทำการโจมตี จะฟื้นฟูพลังชีวิตให้แก่ตัวละครในทีม ที่เข้าร่วมการต่อสู้ในขณะนั้นและอยู่ใกล้เคียง โดยปริมาณการฟื้นฟูจะเท่ากับ 120% ของพลังโจมตีของ Alyosha",
+      "level": 1
+    },
+    {
+      "id": "suffer_the_winter_wheat_will",
+      "name": "Suffer the Winter Wheat Will",
+      "description": "เพิ่มความเสียหายสกิลธาตุและท่าไม้ตายของ Alyosha ตามประสิทธิภาพการฟื้นฟูพลังงานธาตุของ Alyosha: ประสิทธิภาพการฟื้นฟูพลังงานธาตุทุก 1% จะทำให้ความเสียหายดังกล่าวเพิ่มขึ้น 0.35% โดยจะเพิ่มได้สูงสุดถึง 70%",
+      "level": 4
+    },
+    {
+      "id": "into_the_fray",
+      "name": "Into the Fray",
+      "description": "เมื่ออยู่ใน<b><span style=\"color:#FFD780FF\">เขตแดนดาราฉาย</span></b> Alyosha จะเข้าสู่สถานะ<span style=\"color:#FFD780FF\">เจิดจรัส: นำไฟฟ้าดารา</span><br/><span style=\"color:#FFD780FF\">เจิดจรัส: นำไฟฟ้าดารา</span>: เอฟเฟกต์ <span style=\"color:#FFD780FF\">Hunter's Precision</span> ที่ได้รับเมื่อเปิดใช้งาน <b><span style=\"color:#FFD780FF\">Hunter's Mark</span></b> ยังจะทำให้ตัวละครที่อยู่ในสนามในขณะนั้น สร้างความเสียหายปฏิกิริยานำไฟฟ้าดาราเพิ่มขึ้น 20%",
+      "level": 0
+    },
+    {
+      "id": "treetop_watch",
+      "name": "Treetop Watch",
+      "description": "แสดงตำแหน่ง<span style=\"color:#FFD780FF\">ของพิเศษเฉพาะใน Snezhnaya</span> บนมินิแมป",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1481,
+      "id": "frostvale_thunderclap",
+      "name": "Frostvale Thunderclap",
+      "description": "หลังจากตัวละครในทีมที่อยู่ใกล้เคียง ทำให้เกิด<span style=\"color:#FFACFFFF\">ปฏิกิริยาที่เกี่ยวข้องกับธาตุไฟฟ้า</span>กับศัตรู จะฟื้นฟูพลังงานธาตุ 15 หน่วยให้กับ Alyosha เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 18 วินาที",
+      "level": 1
+    },
+    {
+      "_id": 1482,
+      "id": "howl_from_afar",
+      "name": "Howl From Afar",
+      "description": "เพิ่มระยะเวลาของท่าไม้ตาย <span style=\"color:#FFD780FF\">Hunter's Advance</span> 6 วินาที<br/>นอกจากนี้ ก่อนที่ <b><span style=\"color:#FFD780FF\">Tugarin</span></b> จะโจมตีศัตรูในแต่ละครั้ง จะติด <b><span style=\"color:#FFD780FF\">Hunter's Mark</span></b> ให้กับเป้าหมาย 1 ตัวด้วย; เอฟเฟกต์นี้จะไม่เปิดใช้งาน <span style=\"color:#FFD780FF\">Hunter's Mark</span> ที่มีอยู่แล้ว",
+      "level": 2
+    },
+    {
+      "_id": 1483,
+      "id": "friendly_call",
+      "name": "Friendly Call",
+      "description": "เพิ่มเลเวลสกิลของสกิลธาตุ <span style=\"color:#FFD780FF\">Thunderbolt Strike</span> ขึ้น 3 ระดับ<br/>เพิ่มได้สูงสุดถึงระดับ 15",
+      "level": 3
+    },
+    {
+      "_id": 1484,
+      "id": "harvest_the_spoils",
+      "name": "Harvest the Spoils",
+      "description": "เมื่อ <b><span style=\"color:#FFD780FF\">Tugarin</span></b> ทำการโจมตี จะฟื้นฟูพลังชีวิตให้แก่ตัวละครในทีม ที่มีเปอร์เซ็นต์พลังชีวิตต่ำสุดและอยู่ใกล้เคียง โดยปริมาณการฟื้นฟูจะเท่ากับ 60% ของพลังโจมตีของ Alyosha",
+      "level": 4
+    },
+    {
+      "_id": 1485,
+      "id": "when_the_nightbird_falls_silent",
+      "name": "When the Nightbird Falls Silent",
+      "description": "เพิ่มเลเวลสกิลของท่าไม้ตาย <span style=\"color:#FFD780FF\">Hunter's Advance</span> ขึ้น 3 ระดับ<br/>เพิ่มได้สูงสุดถึงระดับ 15",
+      "level": 5
+    },
+    {
+      "_id": 1486,
+      "id": "standard_reclaimed",
+      "name": "Standard Reclaimed",
+      "description": "เอฟเฟกต์ <span style=\"color:#FFD780FF\">Hunter's Precision</span> ที่ได้รับเมื่อเปิดใช้งาน <b><span style=\"color:#FFD780FF\">Hunter's Mark</span></b> สามารถซ้อนทับได้ โดยเอฟเฟกต์นี้ซ้อนทับได้มากสุด 2 ชั้น เมื่อซ้อนทับถึง 2 ชั้น จะทำให้ความชำนาญธาตุของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น ที่อยู่ภายใต้เอฟเฟกต์นี้เพิ่มขึ้น 100 หน่วย",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "เลื่อนขั้น",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "พลังชีวิตพื้นฐาน",
+          "values": [
+            "-",
+            "1003"
+          ]
+        },
+        {
+          "label": "พลังโจมตีพื้นฐาน",
+          "values": [
+            "-",
+            "22"
+          ]
+        },
+        {
+          "label": "ป้องกันพื้นฐาน",
+          "values": [
+            "-",
+            "59"
+          ]
+        },
+        {
+          "label": "การฟื้นฟูพลังงาน",
+          "values": [
+            "-",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "เลื่อนขั้น",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "พลังชีวิตพื้นฐาน",
+          "values": [
+            "2577",
+            "3326"
+          ]
+        },
+        {
+          "label": "พลังโจมตีพื้นฐาน",
+          "values": [
+            "57",
+            "74"
+          ]
+        },
+        {
+          "label": "ป้องกันพื้นฐาน",
+          "values": [
+            "151",
+            "195"
+          ]
+        },
+        {
+          "label": "การฟื้นฟูพลังงาน",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "เลื่อนขั้น",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "พลังชีวิตพื้นฐาน",
+          "values": [
+            "4982",
+            "5514"
+          ]
+        },
+        {
+          "label": "พลังโจมตีพื้นฐาน",
+          "values": [
+            "111",
+            "122"
+          ]
+        },
+        {
+          "label": "ป้องกันพื้นฐาน",
+          "values": [
+            "293",
+            "324"
+          ]
+        },
+        {
+          "label": "การฟื้นฟูพลังงาน",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104141,
+        "id": "vajrada_amethyst_sliver",
+        "name": "Vajrada Amethyst Sliver",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Flockingweed",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Chimeric Core",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "เลื่อนขั้น",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "พลังชีวิตพื้นฐาน",
+          "values": [
+            "6343",
+            "7052"
+          ]
+        },
+        {
+          "label": "พลังโจมตีพื้นฐาน",
+          "values": [
+            "141",
+            "157"
+          ]
+        },
+        {
+          "label": "ป้องกันพื้นฐาน",
+          "values": [
+            "373",
+            "414"
+          ]
+        },
+        {
+          "label": "การฟื้นฟูพลังงาน",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "Vajrada Amethyst Fragment",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Severed Tail of the Sky-Roamer",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Flockingweed",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Chimeric Core",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "เลื่อนขั้น",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "พลังชีวิตพื้นฐาน",
+          "values": [
+            "7881",
+            "8413"
+          ]
+        },
+        {
+          "label": "พลังโจมตีพื้นฐาน",
+          "values": [
+            "175",
+            "187"
+          ]
+        },
+        {
+          "label": "ป้องกันพื้นฐาน",
+          "values": [
+            "463",
+            "494"
+          ]
+        },
+        {
+          "label": "การฟื้นฟูพลังงาน",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "Vajrada Amethyst Fragment",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Severed Tail of the Sky-Roamer",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Flockingweed",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Symbiotic Chimeric Nucleus",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "เลื่อนขั้น",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "พลังชีวิตพื้นฐาน",
+          "values": [
+            "9241",
+            "9773"
+          ]
+        },
+        {
+          "label": "พลังโจมตีพื้นฐาน",
+          "values": [
+            "205",
+            "217"
+          ]
+        },
+        {
+          "label": "ป้องกันพื้นฐาน",
+          "values": [
+            "543",
+            "574"
+          ]
+        },
+        {
+          "label": "การฟื้นฟูพลังงาน",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "Vajrada Amethyst Chunk",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Severed Tail of the Sky-Roamer",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Flockingweed",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Symbiotic Chimeric Nucleus",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "เลื่อนขั้น",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "พลังชีวิตพื้นฐาน",
+          "values": [
+            "10602",
+            "11134"
+          ]
+        },
+        {
+          "label": "พลังโจมตีพื้นฐาน",
+          "values": [
+            "235",
+            "247"
+          ]
+        },
+        {
+          "label": "ป้องกันพื้นฐาน",
+          "values": [
+            "623",
+            "654"
+          ]
+        },
+        {
+          "label": "การฟื้นฟูพลังงาน",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "Vajrada Amethyst Chunk",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Severed Tail of the Sky-Roamer",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Flockingweed",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "Prime Chimeric Nexus",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "เลื่อนขั้น",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "พลังชีวิตพื้นฐาน",
+          "values": [
+            "11962",
+            "11962"
+          ]
+        },
+        {
+          "label": "พลังโจมตีพื้นฐาน",
+          "values": [
+            "265",
+            "265"
+          ]
+        },
+        {
+          "label": "ป้องกันพื้นฐาน",
+          "values": [
+            "703",
+            "703"
+          ]
+        },
+        {
+          "label": "การฟื้นฟูพลังงาน",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104144,
+        "id": "vajrada_amethyst_gemstone",
+        "name": "Vajrada Amethyst Gemstone",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Severed Tail of the Sky-Roamer",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Flockingweed",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "Prime Chimeric Nexus",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104368,
+          "id": "teachings_of_fortitude",
+          "name": "Teachings of Fortitude",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Chimeric Core",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guide to Fortitude",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiotic Chimeric Nucleus",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guide to Fortitude",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiotic Chimeric Nucleus",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guide to Fortitude",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiotic Chimeric Nucleus",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guide to Fortitude",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiotic Chimeric Nucleus",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophies of Fortitude",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Prime Chimeric Nexus",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixir of the Heretic",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophies of Fortitude",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Prime Chimeric Nexus",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixir of the Heretic",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophies of Fortitude",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Prime Chimeric Nexus",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixir of the Heretic",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophies of Fortitude",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Prime Chimeric Nexus",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixir of the Heretic",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Crown of Insight",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 214800,
+      "name": "ซุ่มล่ากลางม่านเหมันต์",
+      "description": "คอสตูมของ Alyosha ชุดล่าสัตว์ทนทานที่มาพร้อมซับในหนานุ่มและขอบหมวกขนฟู มันช่วยให้ Alyosha ซ่อนตัวอยู่ในทุ่งหิมะได้นาน จนกว่าจะล่าเหยื่อที่ตัวเองต้องการได้สำเร็จ ส่วนเหตุผลที่หมวกเป็นทรงหัวลูกสุนัข ก็เพราะว่ามันน่ารัก และ Tugarin เองก็ชอบมากเช่นกัน",
+      "isDefault": true,
+      "characterName": "Alyosha",
+      "characterId": 10000148,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Alyosha_Circle"
+    }
+  ]
+}

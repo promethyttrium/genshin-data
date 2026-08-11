@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Claymore",
     "faction": [
-      null
+      "Natlan"
     ],
     "talent_card": {
       "_id": 7459,
@@ -29,8 +31,10 @@
     {
       "id": "nightsun_style",
       "name": "Nightsun Style",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -49,8 +53,10 @@
     {
       "id": "canopy_hunter_riding_high",
       "name": "Canopy Hunter: Riding High",
-      "desc": "Memilih 1 Karaktermu, memberikan <span style=\"color:#FFFFFFFF\">Grapple Link</span> kepada diri sendiri, dan memasuki status <span style=\"color:#FFFFFFFF\">Nightsoul's Blessing</span>. Mengakibatkan ? poin ?, lalu bertukar posisi dengan Karakter yang dipilih.",
-      "skillTag": [],
+      "desc": "Memilih 1 Karaktermu, memberikan <span style=\"color:#FFFFFFFF\">Grapple Link</span> kepada diri sendiri, dan memasuki status <span style=\"color:#FFFFFFFF\">Nightsoul's Blessing</span>. Mengakibatkan 1 poin <span style=\"color:#7EC236FF\">Dendro DMG</span>, lalu bertukar posisi dengan Karakter yang dipilih.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "hail_to_the_almighty_dragonlord",
       "name": "Hail to the Almighty Dragonlord",
-      "desc": "Mengakibatkan ? poin ? dan memanggil <span style=\"color:#FFFFFFFF\">Almighty Dragonlord, Ajaw</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#7EC236FF\">Dendro DMG</span> dan memanggil <span style=\"color:#FFFFFFFF\">Almighty Dragonlord, Ajaw</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1107,

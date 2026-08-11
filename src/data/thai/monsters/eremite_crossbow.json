@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "กองกำลังของมนุษย์อื่น ๆ",
   "filename_icon": "UI_MonsterIcon_Eremite_Male_Standard_Crossbow",
   "description": "สมาชิกกลุ่มทหารรับจ้างที่กระจัดกระจายตามทะเลทรายที่มีสีราวกับทองคำ เพื่อเงินค่าตอบแทน พวกเขาสามารถทำงานเพื่อใครก็ได้ทั้งนั้น\\nแต่ดั้งเดิม กลุ่ม Eremite นั้นคุ้นเคยกับการใช้ธนู และลูกศรเพื่อจัดการกับศัตรูมากกว่า แต่หลังจากที่ทางสถาบันอนุญาตให้พวกเขาซื้อหน้าไม้ใน Bazaar ได้ ก็มีเพียงนักธนูที่ทะนงตัวสุด ๆ เท่านั้น ที่จะใช้อาวุธที่ต้องใช้เวลาในการฝึกฝนยาวนานหลายปีอย่างธนู และลูกศรเช่นนี้ในการต่อสู้",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

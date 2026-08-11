@@ -1,0 +1,40 @@
+{
+  "_id": 25133601,
+  "id": "fanged_zealot",
+  "monsterId": 25133602,
+  "name": "Bạo Đồ Nanh Thú",
+  "specialNames": [
+    "Bạo Đồ Nanh Thú"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Ma Thú Đột Biến",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Mammoth",
+  "description": "Volkodlak vô cùng mạnh mẽ nhờ kế thừa nhiều sức mạnh vĩ đại từ huyết mạch.\\nTrong vô số các Volkodlak khác nhau, Volkodlak mang hình dáng như voi khổng lồ hoặc voi ma mút cũng là một trong những loài sở hữu huyết thống cao quý nhất. Trước kia, trong tộc này phần lớn là những chiến tướng tài ba, nhiều nhân vật trong số đó thậm chí còn là tùy tùng thân cận của Vua Thú.\\nTuy nhiên, fae có sức mạnh cá thể càng lớn và tuổi thọ càng dài thì càng khó hình thành tộc đàn. Ở Snezhnaya hiện nay, so với những Volkodlak khác, loài Volkodlak này hiếm gặp hơn nhiều.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 231.00076,
+      "attack": 112.64574,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

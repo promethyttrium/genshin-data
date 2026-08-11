@@ -1,0 +1,16 @@
+{
+  "_id": 380002,
+  "id": "super_awesome_magic_key",
+  "name": "\"Super Chave Mágica\"",
+  "description": "Um presente da Sociedade das Feiticeiras para uma boa amiga. Devido à escassez de materiais disponíveis, o design foi baseado em um item mágico do texto de Fontaine, \"Contos de um Ganso de Asas Nevadas.\"\\nVocê não poderá abrir portas para espaços diferentes como nos contos de fadas, mas este item tem tenacidade mais do que suficiente para acompanhar amigos por incontáveis espaços assim.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Espadão"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341802,
+  "icon_path": "UI_EquipIcon_Claymore_LoliFriend",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_LoliFriend"
+}

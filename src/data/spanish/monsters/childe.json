@@ -197,7 +197,6 @@
   "categoryText": "Enemigos memorables",
   "filename_icon": "UI_MonsterIcon_Tartaglia",
   "description": "Tartaglia, apodado Nobile, el undécimo de Los Once de los Fatui.\\nObtiene poder de su siniestro Engaño y pelea utilizando un arte marcial que aprendió en una tierra oscura.\\n\\nUn auténtico guerrero con una pasión insaciable por la lucha.\\nPara él, cada batalla sangrienta y cada duelo a vida o muerte es una prueba placentera.\\nEl joven Nobile es famoso por sus hazañas en el campo de batalla.\\nPero él nunca da por sentadas las alabanzas.\\n\\nAl fin y al cabo...\\n<i>“Tu destino es estar en el centro de los conflictos”.</i>\\n<i>“El fragor de las espadas será la música que te acompañe”.</i>\\n<i>“Los oscuros recuerdos de un lugar en tinieblas...”</i>\\n<i>“Se convertirán en el poder con el que transformarás el mundo”.</i>",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

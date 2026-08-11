@@ -1,0 +1,21 @@
+{
+  "_id": 320001,
+  "id": "ardent_storm",
+  "name": "Ardent Storm",
+  "description": "Pedang claymore ilusi yang muncul dari kedalaman Ley Line. Pedang claymore ini dapat berubah-ubah sesuai dengan jenis elemen pemiliknya. Konon menurut legenda, senjata ini dimiliki oleh seorang pendosa terpuji yang bernama \"Starkuthr\" dari sebuah bangsa kuno.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Claymore"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "Radiant Metamorphosis: Transcendence",
+    "priority": 1
+  },
+  "item_id": 341201,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Claymore_MorphGravitas_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_MorphGravitas"
+}

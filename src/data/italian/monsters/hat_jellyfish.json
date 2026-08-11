@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_JellyFish_Larva_02",
   "description": "Una creatura acquatica che caccia sparando proiettili d'acqua.\\nAnche se sembra un cappello, in realtà mangia dalla parte inferiore del corpo, quindi non è molto consigliato indossarla. Citando le parole di qualcuno che una volta ci ha provato: \"Non è stata una mossa molto intelligente, vero?\"",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 65.15,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

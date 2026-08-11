@@ -1,0 +1,40 @@
+{
+  "_id": 25135101,
+  "id": "glacial_warden",
+  "monsterId": 25135106,
+  "name": "Glacial Warden",
+  "specialNames": [
+    "Glacial Warden"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystical Beasts",
+  "filename_icon": "UI_MonsterIcon_Snegurochka_Male",
+  "description": "A Snegovik born of love amid the snow and ice.\\nMale Snegovik are natural-born knights, and most are born able to freely forge weapons from ice and snow.\\nLegend tells that during the Belyi Tsar's campaign against the dark tide, a Snegovik serving as his guard unleashed a power that didn't belong to his kind, transforming into a towering giant.\\nThough his final fate remains unknown, one who violated such a taboo surely could not have met with a happy end.",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 81.504,
+      "attack": 75.36,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -43,7 +43,6 @@
   "categoryText": "Suku Hilichurl",
   "filename_icon": "UI_MonsterIcon_Brute_None_01",
   "description": "Hilichurl kekar yang menggunakan kapak besar sebagai senjatanya.\\nSetiap ayunan kapaknya sangat kuat, dan mereka bisa menggunakan Pyro Slime untuk membuat kapaknya menjadi berelemen Pyro. Kombinasi ini sangat mematikan.\\nUmumnya, proses panas-dingin seperti itu bisa membuat kapak Blazing Axe Mitachurl menjadi mudah retak dan tumpul. Tapi dengan kekuatan seekor Mitachurl, kalaupun mata kapaknya pecah, mereka akan tetap menggunakannya sebagai sebuah palu.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

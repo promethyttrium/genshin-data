@@ -1,0 +1,21 @@
+{
+  "_id": 310002,
+  "id": "serpent_devourer_sublimation",
+  "name": "Devoradora de Serpentes - Sublimação",
+  "description": "Uma gloriosa lâmina ilusória brilhando com o poder da \"Vida\" que surgiu das profundezas das Linhas Ley. Ela pode mudar sua aparência baseado no Tipo Elemental de seu usuário. Dizem as lendas que essa lâmina já foi empunhada por alguém chamado \"Logseims\" na antiga terra dos pecadores transcendentes.",
+  "rarity": 5,
+  "type": {
+    "id": "Sword",
+    "name": "Espada"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Metamorfose Radiante: Transcendência - Sublimação",
+    "priority": 1
+  },
+  "item_id": 341102,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphVinces_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphVinces_Great"
+}

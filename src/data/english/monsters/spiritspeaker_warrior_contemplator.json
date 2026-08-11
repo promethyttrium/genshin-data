@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Other Human Factions",
   "filename_icon": "UI_MonsterIcon_Human_Male_Claymore_Shamansaurus",
   "description": "A warrior from the Night-Wind, and a tribal guardian that patrols the misty canyons.\\nOnly sentries whose strength has been tested are permitted to daub themselves with such body paint, infused as it is with mysterious powers. This also signifies that these warriors have reached a new phase in their mental training.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

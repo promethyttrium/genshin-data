@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Sinh Mệnh Nguyên Tố",
   "filename_icon": "UI_MonsterIcon_Slime_Ice_03",
   "description": "Ma vật được hình thành từ nguyên tố Băng rải rác trong môi trường tự nhiên.\\nNó lợi dụng nguyên tố Băng tràn trề bên trong để biến hơi nước trong không khí kết tụ thành lớp vỏ bảo vệ bên ngoài; Cũng lợi dụng nguyên lý tương tự, khiến mặt nước xung quanh đóng băng. Ở một phương diện nào đó là Slime tự do nhất, có thể nhẹ nhàng vượt qua đại dương.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

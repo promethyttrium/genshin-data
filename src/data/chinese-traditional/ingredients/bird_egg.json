@@ -185,6 +185,21 @@
       "name": "夏槲蛋糕"
     },
     {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "雪國冷湯"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "千層蜂蜜糕"
+    },
+    {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "雪原上的雪球花"
+    },
+    {
       "_id": 3902,
       "id": "delights_of_wondrous_wanderings",
       "name": "奇旅饌匣"
@@ -237,6 +252,5 @@
   ],
   "source": [
     "野外採集"
-  ],
-  "rarity": 0
+  ]
 }

@@ -1,0 +1,24 @@
+{
+  "_id": 112148,
+  "id": "ethereal_crystalscale_stone",
+  "name": "Ätherischer Kristallschuppenstein",
+  "description": "Eine kristalline Schuppe, die einst am Körper einer Feen wuchs. Es heißt, dass Feen, die über eine größere Anzahl dieser Schuppen verfügen, auch weitaus mehr Macht besitzen. Allerdings vermag niemand zu sagen, ob diese Magie tatsächlich aus ihrem Inneren stammt und lediglich durch die Kristallstücke nach außen geleitet wird, oder ob sie selbst die eigentlichen Träger dieser Macht sind.",
+  "source": [
+    "Beute von Feen des kristallinen Leibs ab Stufe 60",
+    "Mit Sternenstaub kaufen: Herstellbar nach Erhalt",
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Ätherischer Kristall",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

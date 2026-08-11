@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "กองกำลังของมนุษย์อื่น ๆ",
   "filename_icon": "UI_MonsterIcon_Samurai_Ronin_01",
   "description": "ซามูไรพเนจรที่กลายไปเป็นโจร ถึงแม้จะถูกเรียกว่า \"Nobushi\" แต่ไม่ได้อยู่ในองค์กรที่เป็นอันหนึ่งอันเดียวกัน\\nพวกเขาอยู่ในเส้นทางแห่งการต่อสู้มานานหลายปี และมีทักษะดาบที่ยอดเยี่ยม แต่กลับไม่ได้นำไปใช้ในทางที่ถูกต้องจนถึงทุกวันนี้ \\nบางคนถึงขั้นเข้าร่วมกับพวกกองโจรล่าสมบัติ หรือ Fatui เพื่อความอยู่รอดและความมั่งคั่ง",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

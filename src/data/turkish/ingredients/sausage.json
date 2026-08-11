@@ -13,6 +13,11 @@
   ],
   "recipes": [
     {
+      "_id": 1701,
+      "id": "podvorye_smoked_sausage",
+      "name": "Tütsülenmiş Podvorye Sosisi"
+    },
+    {
       "_id": 2603,
       "id": "nodkrai_hot_dog",
       "name": "Nod-Krai Usulü Sosisli Sandviç"
@@ -45,6 +50,5 @@
   ],
   "source": [
     "İşlenerek elde edilir."
-  ],
-  "rarity": 0
+  ]
 }

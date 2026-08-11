@@ -19,6 +19,11 @@
     "น้ำแข็ง",
     "ลม"
   ],
+  "daysOfWeek": [
+    "วันจันทร์",
+    "วันพฤหัสบดี",
+    "วันอาทิตย์"
+  ],
   "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
   "domainText": "Weapon Ascension Materials",
   "rewardPreview": [

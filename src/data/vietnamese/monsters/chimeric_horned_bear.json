@@ -1,0 +1,39 @@
+{
+  "_id": 26310401,
+  "id": "chimeric_horned_bear",
+  "monsterId": 26310402,
+  "name": "Gấu Sừng Lai Ghép",
+  "specialNames": [
+    "Gấu Sừng Lai Ghép"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Ma Thú Đột Biến",
+  "filename_icon": "UI_MonsterIcon_Chimera_BearDeer",
+  "description": "Sản phẩm của giả kim sinh vật, ma thú tổng hợp có hình dạng vô cùng đặc biệt.\\nKhông tuân theo thiết kế của con người, mà là ma thú tổng hợp được hình thành từ những lát cắt sinh mệnh tự tổ hợp với nhau. Do đó chúng thậm chí còn sở hữu năng lực thần kỳ trong việc tự do sử dụng sức mạnh nguyên tố.\\nNgay cả khi sinh mệnh đã vỡ vụn đến mức gần như chỉ còn lại những lát cắt, liệu có tồn tại ý chí và sức mạnh nào đó khiến chúng sinh trưởng theo một kế hoạch thần bí nào chăng?\\nĐáp án của câu hỏi này, e rằng đến nay đã không còn ai biết được nữa.",
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 27.431341,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

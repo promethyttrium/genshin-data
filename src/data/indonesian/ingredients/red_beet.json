@@ -1,0 +1,26 @@
+{
+  "_id": 101278,
+  "id": "red_beet",
+  "name": "Red Beet",
+  "description": "Tumbuhan herbal yang dapat tumbuh bahkan di tanah dingin dan beku mengembangkan akar yang besar dan berdaging agar dapat bertahan hidup di lingkungan yang keras.",
+  "recipes": [
+    {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borscht"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Snezhnaya Shashliks"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Sweet Scoops"
+    }
+  ],
+  "source": [
+    "Rekomendasi: Ditemukan di Snezhnaya"
+  ]
+}

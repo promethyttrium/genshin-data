@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Металлический свисток воина",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Деревянный свисток дозорного",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Прочие человеческие фракции",
   "filename_icon": "UI_MonsterIcon_Human_Fat_NoWeapon_Drillhead",
   "description": "Храбрый воин каньона и племенной страж, патрулирующий кристальные горы и реки.\\nВ эпоху, когда хребты были разрушены, и племенам нужно было восстанавливать свои земли, воины использовали копья как метки для определения мест, где рыть проходы. Каждое копьё нужно было вбить глубоко в скалу.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

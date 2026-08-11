@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Launcher_Shamansaurus",
   "description": "Una poderosa guerrera del viento nocturno cuyo valor ha sido reconocido y recompensado con una corona sáurica.\\nSe dice que aquellos guerreros tribales que logran obtener el reconocimiento de un Iktomisaurio poseen unos sentidos extremadamente agudos y una fortaleza mental formidable. Pueden usar su poder para alterar ligeramente la trayectoria de los proyectiles que disparan con sus cañones.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

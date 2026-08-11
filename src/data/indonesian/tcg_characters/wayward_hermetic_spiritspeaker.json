@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Senjata Lain",
     "faction": [
-      null
+      "Monster"
     ],
     "source": "Didapatkan setelah menerima Tantangan Tavern di Cat's Tail dan menang dalam Pertandingan Persahabatan melawan Wayward Hermetic Spiritspeaker"
   },
@@ -18,8 +20,10 @@
     {
       "id": "spiritspeaking_frost_star",
       "name": "Spiritspeaking: Frost Star",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#99FFFFFF\">Cryo DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -38,8 +42,10 @@
     {
       "id": "radiance_in_flux",
       "name": "Radiance in Flux",
-      "desc": "Mengakibatkan ? poin ?, menambahkan 1 <span style=\"color:#FFFFFFFF\">Radiant Hues</span> di urutan ketiga di bagian atas Dek-mu, dan mem<span style=\"color:#FFFFFFFF\">pilih</span> 1 dari 3 efek penguatan <span style=\"color:#FFFFFFFF\">Radiant Hues</span> acak.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#99FFFFFF\">Cryo DMG</span>, menambahkan 1 <span style=\"color:#FFFFFFFF\">Radiant Hues</span> di urutan ketiga di bagian atas Dek-mu. Jika ini adalah 4 kali pertama Skill ini digunakan dalam Pertandingan ini, maka mem<span style=\"color:#FFFFFFFF\">pilih</span> 1 dari 3 efek penguatan <span style=\"color:#FFFFFFFF\">Radiant Hues</span> acak.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -52,8 +58,10 @@
     {
       "id": "chilling_illustration",
       "name": "Chilling Illustration",
-      "desc": "Mengakibatkan ? poin ?, menambahkan 1 <span style=\"color:#FFFFFFFF\">Radiant Hues</span> ke Tangan.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 4 poin <span style=\"color:#99FFFFFF\">Cryo DMG</span>, menambahkan 1 <span style=\"color:#FFFFFFFF\">Radiant Hues</span> ke Tangan.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -73,7 +81,9 @@
       "id": "iridescent_silhouette",
       "name": "Iridescent Silhouette",
       "desc": "(Pasif) Menciptakan 3 <span style=\"color:#FFFFFFFF\">Radiant Hues</span> saat duel dimulai dan semuanya ditempatkan ke dalam Dek-mu.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

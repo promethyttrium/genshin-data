@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Cicin_Thunder_01",
   "description": "Kleine Kreaturen, die leichten Einfluss auf Elektro-Energie nehmen können.\\nGemeinsam mit anderen Wesen werden sie Cicine genannt. Obwohl sie einzeln schwach sind, können sie im richtigen Moment enormen Schaden zufügen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

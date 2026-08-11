@@ -1,0 +1,53 @@
+{
+  "_id": 4707,
+  "id": "domain_of_forgery_cast_iron_i",
+  "name": "Подземелье воли: Чугун I",
+  "entranceId": 2106,
+  "entranceName": "Шрамы одержимости",
+  "description": "Когда-то здесь скрывались мятежники, снедаемые несбыточными надеждами и мечтавшие вернуть прошлое. Их мечты сгорели в кровавом пламени, оставив после себя лишь мёртвую белизну.\nОдолейте засевших здесь злодеев, тогда в награду вам достанутся материалы для усиления снаряжения.",
+  "regionId": 8,
+  "regionName": "Снежная",
+  "recommendedLevel": 15,
+  "unlockRank": 15,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "Анемо",
+    "Крио"
+  ],
+  "daysOfWeek": [
+    "Понедельник",
+    "Четверг",
+    "Воскресенье"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Опыт приключений",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Мора",
+      "count": "1125"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Опыт дружбы",
+      "count": "10"
+    },
+    {
+      "_id": 114085,
+      "id": "rise_of_the_pale_star_army",
+      "name": "Восхождение армии Бледной звезды"
+    }
+  ],
+  "monsterList": []
+}

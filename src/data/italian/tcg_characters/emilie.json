@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Lancia",
     "faction": [
-      null
+      "Fontaine"
     ],
     "talent_card": {
       "_id": 7583,
@@ -29,8 +31,10 @@
     {
       "id": "shadowhunting_spear_custom",
       "name": "Lancia scacciaombre (modificata)",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -50,7 +54,9 @@
       "id": "fragrance_extraction",
       "name": "Estratto fragrante",
       "desc": "Invoca 1 <span style=\"color:#FFFFFFFF\">Teca di Lumidouce: Livello 1</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "aromatic_explication",
       "name": "Rappresentazione aromatica",
-      "desc": "Infligge ? ?, invoca <span style=\"color:#FFFFFFFF\">Teca di Lumidouce: Livello 3</span>.",
-      "skillTag": [],
+      "desc": "Infligge 1 <span style=\"color:#7EC236FF\">DAN da Dendro</span>, invoca <span style=\"color:#FFFFFFFF\">Teca di Lumidouce: Livello 3</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -84,7 +92,9 @@
       "id": "lingering_fragrance",
       "name": "Profumo persistente",
       "desc": "<color=#FFFFFFFF>Quando una tua <span style=\"color:#FFFFFFFF\">Fiammardente</span> entra in campo</color>, la volta successiva che uno dei due giocatori usa un'abilità, innesca 1 iterazione dell'effetto di fine turno della <span style=\"color:#FFFFFFFF\">Fiammardente</span> (due volte per turno).",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

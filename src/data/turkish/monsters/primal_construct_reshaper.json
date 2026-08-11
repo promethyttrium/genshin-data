@@ -25,19 +25,19 @@
       "_id": 112073,
       "id": "radiant_prism",
       "name": "Parlak Prizma",
-      "count": 0.1751
+      "count": 0.175
     },
     {
       "_id": 112072,
       "id": "turbid_prism",
       "name": "Bulanık Prizma",
-      "count": 0.7003
+      "count": 0.7
     },
     {
       "_id": 112071,
       "id": "damaged_prism",
       "name": "Hasarlı Prizma",
-      "count": 2.6263
+      "count": 2.626
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Canavar Makinaları",
   "filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
   "description": "Kadim çöl harabelerinin muhafızları, efendilerinin saf rüyalarını bölmeye cüret eden herkesi cezalandıracak kadar kudretlidir.\\nKavurucu güneşin efendisi bu çöle hükmettiği zamanlarda halkına varlığın ötesinde bulunan bir ütopya vadetmişti. Oysaki bu ütopya, çılgınlıktan doğmuş bir seraptan başka bir şey değildi.\\nGünümüzde o ütopyadan eser kalmadı, dünyanın unuttuğu hayaller ve yeminler ise artık sadece bu makinalara kazınmış yazılarda varlığını sürdürüyor.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

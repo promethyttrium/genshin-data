@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Fungus_Trois_Gamma_Fire",
   "description": "Makhluk spora yang memiliki kecerdasan tertentu dan kemampuan yang kuat untuk beradaptasi dengan lingkungan.\\nKarena kandungan Pyro dari makhluk ini begitu berlimpah, mereka cenderung menjadi penyebab dari kebakaran hutan selama musim kemarau, sehingga mereka dianggap sebagai spesies invasif yang berbahaya bagi hutan.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

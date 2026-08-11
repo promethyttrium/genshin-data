@@ -185,6 +185,21 @@
       "name": "Torta de Veraneio"
     },
     {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Okroshka do Reino da Neve"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
+    },
+    {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "Flores Nevadas Sobre Campos de Neve"
+    },
+    {
       "_id": 3902,
       "id": "delights_of_wondrous_wanderings",
       "name": "Deleites da Viagem Fantástica"
@@ -237,6 +252,5 @@
   ],
   "source": [
     "Encontrado na natureza"
-  ],
-  "rarity": 0
+  ]
 }

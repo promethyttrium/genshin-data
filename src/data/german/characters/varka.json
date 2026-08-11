@@ -595,7 +595,7 @@
     {
       "id": "winds_vanguard",
       "name": "Vorhut des Windbanners",
-      "description": "Verleiht Varka, wenn Truppenmitglieder in der Nähe Verwirbelung auslösen, eine Stapelung <span style=\"color:#FFD780FF\">Schwur des blauen Reißzahns</span> und erhöht dadurch von Varka mit Standardangriffen, heftigen Schlägen, dem besonderen heftigen Schlag <span style=\"color:#FFD780FF\">Azurbiss</span> und der besonderen Elementarfähigkeit <b><span style=\"color:#FFD780FF\">Aufkommen der vier Winde</span></b> verursachten Schaden um 7,5 %. Dieser Effekt hält 8 s an, ist bis zu 4-fach stapelbar. Jede Figur kann Varka höchstens einmal pro Sekunde eine Stapelung <span style=\"color:#FFD780FF\">Schwur des blauen Reißzahns</span> verleihen.",
+      "description": "Verleiht Varka, wenn Truppenmitglieder in der Nähe die Reaktion Verwirbelung oder Stellar-Verwirbelung auslösen, eine Stapelung <span style=\"color:#FFD780FF\">Schwur des blauen Reißzahns</span> und erhöht dadurch von Varka mit Standardangriffen, heftigen Schlägen, dem besonderen heftigen Schlag <span style=\"color:#FFD780FF\">Azurbiss</span> und der besonderen Elementarfähigkeit <b><span style=\"color:#FFD780FF\">Aufkommen der vier Winde</span></b> verursachten Schaden um 7,5 %. Dieser Effekt hält 8 s an, ist bis zu 4-fach stapelbar. Jede Figur kann Varka höchstens einmal pro Sekunde eine Stapelung <span style=\"color:#FFD780FF\">Schwur des blauen Reißzahns</span> verleihen.",
       "level": 4
     },
     {
@@ -631,7 +631,7 @@
       "_id": 1284,
       "id": "for_none_may_take_from_us_our_freedom_of_song",
       "name": "„Denn niemand kann uns die Freiheit nehmen zu singen“",
-      "description": "Verleiht allen Truppenmitgliedern in der Nähe, wenn Varka eine Verwirbelung auslöst, basierend auf dem Elementartyp der Reaktion, 10 s lang jeweils einen <span style=\"color:#80FFD7FF\">Anemo-SCH-Bonus</span> und einen SCH-Bonus des entsprechenden Elements von 20 %.",
+      "description": "Verleiht allen Truppenmitgliedern in der Nähe, wenn Varka die Reaktion Verwirbelung oder Stellar-Verwirbelung auslöst, basierend auf dem Elementartyp der Reaktion, 10 s lang jeweils einen <span style=\"color:#80FFD7FF\">Anemo-SCH-Bonus</span> und einen SCH-Bonus des entsprechenden Elements von 20 %.",
       "level": 4
     },
     {

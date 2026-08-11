@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Gator_Sacred_Water",
   "description": "Eine aufgrund des Zehrens an heiligen Körpern entstellte und veränderte Echse.\\nMajestätische Kreaturen werden zuweilen von den Menschen als Sinnbild großer Macht verehrt und ihre Bilder als Ausdruck des menschlichen Stolzes. Die meisten der Kreaturen, die diese „große Macht“ zu sich nahmen, verendeten infolgedessen, und nur wenige entwickelten sich zu neuen Formen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

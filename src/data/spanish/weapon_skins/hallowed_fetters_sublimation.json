@@ -1,0 +1,21 @@
+{
+  "_id": 340002,
+  "id": "hallowed_fetters_sublimation",
+  "name": "Grilletes Celestiales: Culminación",
+  "description": "Un espléndido miraje de catalizador que reluce con el poder del “tiempo” y procede de las profundidades de las líneas ley. Puede cambiar según el tipo elemental de su portador. Dicen que el nombre de este catalizador era “Gleipnir” cuando aún pertenecía al pecador trascendental de un antiguo reino.",
+  "rarity": 5,
+  "type": {
+    "id": "Catalyst",
+    "name": "Catalizador"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Ilusión resplandeciente: Trascendencia (culminación)",
+    "priority": 1
+  },
+  "item_id": 341402,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphIlia_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphIlia_Great"
+}

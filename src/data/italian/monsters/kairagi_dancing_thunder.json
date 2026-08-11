@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Altre fazioni umane",
   "filename_icon": "UI_MonsterIcon_Samurai_Kairagi_01",
   "description": "Dei samurai divenuti briganti.\\nPossiedono delle abilità avanzate nelle arti marziali, ma per vari motivi non sono riusciti a dar loro uno scopo. Per disperazione, sono finiti sulla via del male. Usano sigilli di carta, creati da un'arte Kamuna andata perduta da secoli, per infondere le loro lame del potere del fulmine.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 6,
   "stats": {

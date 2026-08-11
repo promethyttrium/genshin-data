@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ธาตุน้ำแข็ง",
+    "weapon": "อาวุธอื่น ๆ",
     "faction": [
-      null
+      "มอนสเตอร์"
     ],
     "source": "ได้รับหลังจากเอาชนะ Wayward Hermetic Spiritspeaker ระดับความยากฉันมิตร จากการดูเอลในร้านเหล้าที่ Prince ใน Cat's Tail"
   },
@@ -18,8 +20,10 @@
     {
       "id": "spiritspeaking_frost_star",
       "name": "Spiritspeaking: Frost Star",
-      "desc": "สร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#99FFFFFF\">ความเสียหายน้ำแข็ง</span> 1 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -38,8 +42,10 @@
     {
       "id": "radiance_in_flux",
       "name": "Radiance in Flux",
-      "desc": "สร้าง? ? หน่วย เพิ่ม <span style=\"color:#FFFFFFFF\">สะท้อนสี</span> 1 ใบลงบนตำแหน่งของการ์ดใบที่ 3 ของเด็คการ์ด และ<span style=\"color:#FFFFFFFF\">เลือก</span> 1 จากใน 3 ใบแบบสุ่ม จากเอฟเฟกต์เสริมพลัง <span style=\"color:#FFFFFFFF\">สะท้อนสี</span>",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#99FFFFFF\">ความเสียหายน้ำแข็ง</span> 1 หน่วย เพิ่ม <span style=\"color:#FFFFFFFF\">สะท้อนสี</span> 1 ใบลงบนตำแหน่งของการ์ดใบที่ 3 ของเด็คการ์ด หากเป็นการใช้สกิลนี้ 4 ครั้งแรกในเกมนี้ จะ<span style=\"color:#FFFFFFFF\">เลือก</span> 1 จากใน 3 ใบแบบสุ่ม จากเอฟเฟกต์เสริมพลัง <span style=\"color:#FFFFFFFF\">สะท้อนสี</span>",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -52,8 +58,10 @@
     {
       "id": "chilling_illustration",
       "name": "Chilling Illustration",
-      "desc": "สร้าง? ? หน่วย เพิ่ม <span style=\"color:#FFFFFFFF\">สะท้อนสี</span> 1 ใบลงในมือ",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#99FFFFFF\">ความเสียหายน้ำแข็ง</span> 4 หน่วย เพิ่ม <span style=\"color:#FFFFFFFF\">สะท้อนสี</span> 1 ใบลงในมือ",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -73,7 +81,9 @@
       "id": "iridescent_silhouette",
       "name": "Iridescent Silhouette",
       "desc": "[ติดตัว] เมื่อการต่อสู้เริ่มขึ้น จะสร้าง <span style=\"color:#FFFFFFFF\">สะท้อนสี</span> 3 ใบ และวางในเด็คเท่า ๆ กัน",
-      "skillTag": [],
+      "skillTag": [
+        "สกิลติดตัว"
+      ],
       "points": []
     }
   ]

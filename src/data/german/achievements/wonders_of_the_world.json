@@ -278,8 +278,8 @@
     },
     {
       "id": 81032,
-      "name": "Auftrag gescheitert",
-      "desc": "Ziel der Kopfgeldjagd verloren ...",
+      "name": "AUFTRAG GESCHEITERT  ODER ...",
+      "desc": "Du hast das Ziel während einer Kopfgeldjagd aus den Augen verloren oder musst gar keine Kopfgeldjagden mehr ausführen ...",
       "reward": 5,
       "hidden": true,
       "order": 1033
@@ -4641,6 +4641,214 @@
       "order": 1699
     },
     {
+      "id": 81700,
+      "name": "Verweile doch! du bist so schön!",
+      "desc": "Halte einen Moment inne, um die Schönheit der weißen Birken und des schneebedeckten Palastes auf dich wirken zu lassen.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1700
+    },
+    {
+      "id": 81701,
+      "name": "Der Überwinder des Landes von morgen",
+      "desc": "Sammle alle Relikte, die jemand im Palast der Weißen Krone zurückgelassen hat.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1701
+    },
+    {
+      "id": 81702,
+      "name": "Zinseszins",
+      "desc": "Rolle einen Schneeball so groß wie möglich.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1702
+    },
+    {
+      "id": 81703,
+      "name": "Hochzeitsglocken",
+      "desc": "Lasst die Glocke erklingen, die nicht mehr länger im Zyklus gefangen ist.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1703
+    },
+    {
+      "id": 81704,
+      "name": "Wem die Stunde schlägt",
+      "desc": "Lass die Ungezähmte Glocke erneut erklingen.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1704
+    },
+    {
+      "id": 81705,
+      "name": "Trugbilder im Streichholzschein",
+      "desc": "Schenke dem Leidgeprüften endlich Trost.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1705
+    },
+    {
+      "id": 81706,
+      "name": "Grenzen und Demonstrationen",
+      "desc": "Vielleicht tragen Werke ja einen Namen, nur um eine weitere Resonanz zu finden.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1706
+    },
+    {
+      "id": 81707,
+      "name": "Extremer Raum",
+      "desc": "Rüste das erste Mal das „Auge von Graeae“ aus.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1707
+    },
+    {
+      "id": 81708,
+      "name": "Schnee, Kristall und Geschwindigkeit",
+      "desc": "Lass deinen alten Zug in neuem Glanz erstrahlen.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1708
+    },
+    {
+      "id": 81709,
+      "name": "Durch die Halle des trügerischen Glanzes",
+      "desc": "Sammle alle Gemälde im Haus Hesperides und öffne die dahinter verborgenen Schätze.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1709
+    },
+    {
+      "id": 81710,
+      "name": "Für dich, in jeder Zukunft",
+      "desc": "Auch wenn dieses Du noch nicht erschienen ist.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1710
+    },
+    {
+      "id": 81711,
+      "name": "Denn der Palast dort ist.",
+      "desc": "Erklimme den höchsten Punkt des Zapolyarny-Palasts.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1711
+    },
+    {
+      "id": 81712,
+      "name": "Das letzte Röselein im Winter",
+      "desc": "... Bist du, Lohefalter, verbrannt.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1712
+    },
+    {
+      "id": 81714,
+      "name": "Kälter als ein Schneemann",
+      "desc": "Gewinne im „Kälteausdauerwettbewerb“ gegen den Kontrahenten aus Natlan.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1714
+    },
+    {
+      "id": 81715,
+      "name": "Jaho!",
+      "desc": "Hilf dem „Dorfvorsteher“ der Jack Frosts dabei, die Invasion der Volkodlaks zurückzuschlagen.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1715
+    },
+    {
+      "id": 81716,
+      "name": "Über dem hohen Tisch steht ein noch höherer Tisch",
+      "desc": "Aber wer erinnert sich noch daran, dass der „Hohe Tisch“ von den „Domovoys“ errichtet wurde ...?",
+      "reward": 5,
+      "hidden": true,
+      "order": 1716
+    },
+    {
+      "id": 81717,
+      "name": "Der Eisberg versinkt und ward nie wieder gesehen",
+      "desc": "Werde Zeuge vom Ende des riesigen Snegoviks.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1717
+    },
+    {
+      "id": 81718,
+      "name": "„Der Kirschgarten wurde verkauft“",
+      "desc": "Werde Zeuge davon, wie sich die Hütte auf dem Eis auf den Kopf stellt, zur Ruhe kommt und schließlich versinkt.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1718
+    },
+    {
+      "id": 81720,
+      "name": "Route erfolgreich geplant",
+      "desc": "Lege mithilfe einer Kletterseil-Vorrichtung 30 m am Stück in horizontaler Richtung zurück.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1720
+    },
+    {
+      "id": 81721,
+      "name": "Wie eine Eingebung",
+      "desc": "Der Schneeball löst sich auf, bevor er den Boden erreichen kann ...",
+      "reward": 5,
+      "hidden": true,
+      "order": 1721
+    },
+    {
+      "id": 81722,
+      "name": "Du kannst nicht vorbei!",
+      "desc": "Stoppe erfolgreich einen rollenden Schneeball.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1722
+    },
+    {
+      "id": 81724,
+      "name": "Eiserne Knie",
+      "desc": "Rutsche 20 s am Stück.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1724
+    },
+    {
+      "id": 81728,
+      "name": "Ein Versprechen von einst",
+      "desc": "Damals hatte Zolnyy keinen König. Jeder tat, was er wollte ...",
+      "reward": 5,
+      "hidden": true,
+      "order": 1728
+    },
+    {
+      "id": 81729,
+      "name": "Koski, Pläne.",
+      "desc": "Hilf der Frau aus Natlan, ihren Feuertreibling-Gefährten zu beruhigen.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1729
+    },
+    {
+      "id": 81730,
+      "name": "Als meine Vision Gestalt annahm",
+      "desc": "Nähere dich der Statue, die aus dem Phantom des Mädchens auf der Spitze des Leuchtturms entstanden ist.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1730
+    },
+    {
+      "id": 81731,
+      "name": "Ein betrunkener Körper",
+      "desc": "Man kann jemanden, der wirklich betrunken ist, immer wecken.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1731
+    },
+    {
       "id": 82008,
       "name": "Hüne",
       "desc": "Zerstöre alle Steinsäulen einer Geo-Hypostase, bevor sie sich damit wiederbeleben kann.",
@@ -5451,6 +5659,22 @@
       "order": 2309
     },
     {
+      "id": 82310,
+      "name": "Warte ... Warte ... Jetzt!",
+      "desc": "Unterbrich den Angriff des Unzerstörbaren Werks, während es sich im Zustand „Lebensleuchten“ befindet, indem du seinen Wiederherstellungsschild zerstörst.",
+      "reward": 5,
+      "hidden": true,
+      "order": 2310
+    },
+    {
+      "id": 82311,
+      "name": "„Flügellöwe abgestürzt“",
+      "desc": "Bringe den Chimärischen Flügellöwen zum Absturz, indem du alle Windkugeln zerstörst, während er sich im Zustand „Sturmesstärke“ befindet.",
+      "reward": 5,
+      "hidden": true,
+      "order": 2311
+    },
+    {
       "id": 84000,
       "name": "Beginn einer langen Reise",
       "desc": "Schließ die Archontenaufträge von Mondstadt ab.",
@@ -6233,6 +6457,14 @@
       "reward": 5,
       "hidden": true,
       "order": 4107
+    },
+    {
+      "id": 84584,
+      "name": "Die hochfliegende schwarze Schneeschwänin",
+      "desc": "Höhen erreichen, die kein Schneeschwan je erreicht hat, und wagen zu träumen, was kein Schneeschwan je geträumt hat.",
+      "reward": 5,
+      "hidden": true,
+      "order": 4108
     },
     {
       "id": 85000,
@@ -7593,6 +7825,70 @@
       "reward": 10,
       "hidden": true,
       "order": 5165
+    },
+    {
+      "id": 84391,
+      "name": "Ouvertüre zum tobenden Schneesturm",
+      "desc": "Durchfahre mit dem Zug Wind und Schnee in Snezhnaya.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5166
+    },
+    {
+      "id": 84392,
+      "name": "Mysteriöse Aufführung des Bleichsterns",
+      "desc": "Erlange die „Sternspitzen-Klinge“ aus der Eishöhle.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5167
+    },
+    {
+      "id": 84393,
+      "name": "Der heulende Sturm",
+      "desc": "Nimm die Einladung an und mach bei der „Rokot“ mit.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5168
+    },
+    {
+      "id": 84394,
+      "name": "Gottverlassenes Land des Schnees",
+      "desc": "Schließ „Gottverlassenes Land des Schnees“ ab.",
+      "reward": 10,
+      "hidden": true,
+      "order": 5169
+    },
+    {
+      "id": 84395,
+      "name": "Walzer der Liebe oder des Bedauerns",
+      "desc": "Sieh dir die Vorpremiere von „Seelensucher“ an.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5170
+    },
+    {
+      "id": 84396,
+      "name": "Jenseits des Zyklus’",
+      "desc": "Beobachte, wie Mitya in den Schneesturm tritt.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5171
+    },
+    {
+      "id": 84397,
+      "name": "Die drei Tode des Schicksals",
+      "desc": "Überlebe im Jenseits.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5172
+    },
+    {
+      "id": 84398,
+      "name": "Nachtmusik der toten Seelen",
+      "desc": "Schließ „Nachtmusik der toten Seelen“ ab.",
+      "reward": 10,
+      "hidden": true,
+      "order": 5173
     },
     {
       "id": 84155,

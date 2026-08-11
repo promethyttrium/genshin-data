@@ -1,0 +1,32 @@
+{
+  "_id": 71,
+  "id": "mortal_travails_series_vii",
+  "name": "Mortal Travails: Series VII",
+  "order": 9,
+  "achievements": [
+    {
+      "id": 80525,
+      "name": "Requiem of the Icewind",
+      "desc": "Obtain the power of Cryo.",
+      "reward": 5,
+      "hidden": false,
+      "order": 484
+    },
+    {
+      "id": 80526,
+      "name": "When Song Tears the Night",
+      "desc": "Collect the entire \"Polestar Ballet Anthology\" series.",
+      "reward": 5,
+      "hidden": false,
+      "order": 485
+    },
+    {
+      "id": 80528,
+      "name": "Tales of the Departed",
+      "desc": "Collect the entire \"General History of Snezhnaya\" series.",
+      "reward": 5,
+      "hidden": false,
+      "order": 487
+    }
+  ]
+}

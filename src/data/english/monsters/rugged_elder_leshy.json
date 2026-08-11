@@ -1,0 +1,40 @@
+{
+  "_id": 25137001,
+  "id": "rugged_elder_leshy",
+  "monsterId": 25137006,
+  "name": "Rugged Elder Leshy",
+  "specialNames": [
+    "Juvenile Tree Segment"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystical Beasts",
+  "filename_icon": "UI_MonsterIcon_Leshy_Mature_01",
+  "description": "A Leshy that grows in forests and wilds.\\nWith only fragmentary sentience and no ability to speak, Leshies may appear to be the result of the Golden Realm's early experiments. Yet according to records, the truth is the opposite. Only after its artisans had almost fully mastered the authority over life did they create this race of fae.\\nPerhaps there is some true purpose within this that neither the fae nor humans of the present can fully understand.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.3,
+      "hydro": 0.1,
+      "geo": 0.3,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 21.945072,
+      "attack": 94.62242,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "_id": 3701,
+  "id": "zharkoye",
+  "name": "Zharkoye",
+  "description": "Un piatto di carne servito in un tegame di terracotta. Gli ingredienti tagliati a cubetti vengono posizionati nella pentola, sigillati con dell'impasto e poi cotti al forno. Una volta pronto, si rimuove il croccante coperchio di pane e si aggiunge della panna acida per insaporire. Il procedimento in sé non è complicato, ma controllare la temperatura del forno e il tempo di brasatura richiede una notevole esperienza.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Pezzo di carne cruda",
+      "amount": 3
+    },
+    {
+      "_id": 100080,
+      "id": "potato",
+      "name": "Patata",
+      "amount": 2
+    },
+    {
+      "_id": 100013,
+      "id": "carrot",
+      "name": "Carota",
+      "amount": 2
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Piatti rigenerativi",
+  "results": {
+    "suspicious": {
+      "_id": 108985,
+      "name": "Zharkoye sospetto",
+      "description": "Un piatto di carne servito in un tegame di terracotta. A causa del tempo di cottura eccessivamente lungo, la carne si è completamente sfilacciata, dando la sensazione di masticare una vecchia coperta. Ne basta un boccone per spingerti a far scivolare delicatamente il tegame sempre più lontano dalla tua vista...",
+      "effect": "Ripristina un 30% dei PS max e 600 PS aggiuntivi del personaggio selezionato."
+    },
+    "normal": {
+      "_id": 108986,
+      "name": "Zharkoye",
+      "description": "Un piatto di carne servito in un tegame di terracotta. Gli ingredienti tagliati a cubetti vengono posizionati nella pentola, sigillati con dell'impasto e poi cotti al forno. Una volta pronto, si rimuove il croccante coperchio di pane e si aggiunge della panna acida per insaporire. Il procedimento in sé non è complicato, ma controllare la temperatura del forno e il tempo di brasatura richiede una notevole esperienza.",
+      "effect": "Ripristina un 32% dei PS max e 1.250 PS aggiuntivi del personaggio selezionato."
+    },
+    "delicious": {
+      "_id": 108987,
+      "name": "Zharkoye delizioso",
+      "description": "Un piatto di carne servito in un tegame di terracotta. Rompendo il croccante coperchio di pane, si sprigiona con un calore invitante un improvviso e saporito aroma burroso. La sensazione che ne deriva è come una nevosa notte d'inverno, mentre ci si crogiola nel piacevole tepore del camino dopo aver gettato un nuovo ceppo nel fuoco.",
+      "effect": "Ripristina un 34% dei PS max e 1.900 PS aggiuntivi del personaggio selezionato."
+    }
+  }
+}

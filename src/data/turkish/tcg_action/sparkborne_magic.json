@@ -1,0 +1,32 @@
+{
+  "_id": 213062,
+  "id": "sparkborne_magic",
+  "shareId": 615,
+  "name": "Kıvılcım Büyüsü",
+  "title": "Klee: Kıvılcım Büyüsü",
+  "desc": "\"Ve böylece şirin küçük Dodo Büyücü, arkadaşlarının yardımıyla yeterlilik sınavını geçti. Artık gerçek ve tam teşekküllü bir Dodo Büyücü oldu! Tebrikler!\"\\n\"Dur bir dakika, yorum yazmamız gerekmiyor muydu? Bütün bunların küçük cadıyla ne alakası var?\"",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Bunun eklendiği karakter bir <span style=\"color:#FFFFFFFF\">Yüklü Saldırı</span> kullandığında</span> 2 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir. (Her Turda iki defa)",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Ateş",
+    "card_type": "Ekipman Kartı",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "Ateş",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Yetenek",
+      "Cadılık"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Hızlı Hamle</span>: Bunu <span style=\"color:#FFFFFFFF\">Klee</span> karakterine kuşandır.<br/>Klee karakterine <span style=\"color:#FFFFFFFF\">Patlayıcı Kıvılcım</span> eklenir.<br/><span style=\"color:#FFFFFFFF\">Bunun eklendiği karakter bir <span style=\"color:#FFFFFFFF\">Yüklü Saldırı</span> kullandığında</span> 2 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir. (Her Turda iki defa)<br/>(Bu kartı destene eklemek için destende Klee olmalıdır.)"
+    }
+  ]
+}

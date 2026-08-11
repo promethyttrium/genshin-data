@@ -1,0 +1,1307 @@
+{
+  "_id": 10000007,
+  "id": "traveler_cryo",
+  "name": "旅行者 (冰)",
+  "description": "從世界之外漂流而來的旅行者，被神帶走血親，自此踏上尋找七神之路。",
+  "weapon_type": {
+    "id": "sword",
+    "name": "單手劍"
+  },
+  "element": {
+    "id": "cryo",
+    "name": "冰"
+  },
+  "gender": {
+    "id": "malefemale",
+    "name": "男/女"
+  },
+  "release": 1786561200,
+  "substat": "攻擊力%",
+  "affiliation": "——",
+  "region": {
+    "id": "mainactor",
+    "name": "MAINACTOR"
+  },
+  "rarity": 5,
+  "birthday": [
+    null,
+    null
+  ],
+  "constellation": "旅人座",
+  "domain": "精通秘境：隱修",
+  "cv": {
+    "english": "Sarah Miller-Crews & Various Artists",
+    "chinese": "宴宁&多多poi",
+    "japanese": "悠木碧&古賀葵",
+    "korean": "李诗雅&金佳泠"
+  },
+  "skills": [
+    {
+      "_id": 100554,
+      "id": "foreign_frostglint",
+      "name": "異邦寒芒",
+      "description": "<span style=\"color:#FFD780FF\">普通攻擊</span><br/>進行至多五段的連續劍擊。<br/><br/><span style=\"color:#FFD780FF\">重擊</span><br/>消耗一定體力，瞬間向前方揮出兩劍。<br/><br/><span style=\"color:#FFD780FF\">下落攻擊</span><br/>從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "info": "",
+      "attributes": [
+        {
+          "label": "一段傷害",
+          "values": [
+            "44.5%",
+            "48.1%",
+            "51.7%",
+            "56.9%",
+            "60.5%",
+            "64.6%",
+            "70.3%",
+            "76%",
+            "81.7%",
+            "87.9%",
+            "94.1%",
+            "100.3%",
+            "106.5%",
+            "112.7%",
+            "118.9%"
+          ]
+        },
+        {
+          "label": "二段傷害",
+          "values": [
+            "43.4%",
+            "47%",
+            "50.5%",
+            "55.5%",
+            "59.1%",
+            "63.1%",
+            "68.7%",
+            "74.2%",
+            "79.8%",
+            "85.9%",
+            "91.9%",
+            "98%",
+            "104%",
+            "110.1%",
+            "116.1%"
+          ]
+        },
+        {
+          "label": "三段傷害",
+          "values": [
+            "53%",
+            "57.3%",
+            "61.6%",
+            "67.8%",
+            "72.1%",
+            "77%",
+            "83.8%",
+            "90.6%",
+            "97.3%",
+            "104.7%",
+            "112.1%",
+            "119.5%",
+            "126.9%",
+            "134.3%",
+            "141.7%"
+          ]
+        },
+        {
+          "label": "四段傷害",
+          "values": [
+            "58.3%",
+            "63.1%",
+            "67.8%",
+            "74.6%",
+            "79.3%",
+            "84.8%",
+            "92.2%",
+            "99.7%",
+            "107.1%",
+            "115.3%",
+            "123.4%",
+            "131.5%",
+            "139.7%",
+            "147.8%",
+            "155.9%"
+          ]
+        },
+        {
+          "label": "五段傷害",
+          "values": [
+            "70.8%",
+            "76.5%",
+            "82.3%",
+            "90.5%",
+            "96.3%",
+            "102.9%",
+            "111.9%",
+            "121%",
+            "130%",
+            "139.9%",
+            "149.8%",
+            "159.7%",
+            "169.5%",
+            "179.4%",
+            "189.3%"
+          ]
+        },
+        {
+          "label": "重擊傷害",
+          "values": [
+            "55.9% + 72.2%",
+            "60.5% + 78.1%",
+            "65% + 84%",
+            "71.5% + 92.4%",
+            "76% + 98.3%",
+            "81.3% + 105%",
+            "88.4% + 114.2%",
+            "95.5% + 123.5%",
+            "102.7% + 132.7%",
+            "110.5% + 142.8%",
+            "118.3% + 152.9%",
+            "126.1% + 163%",
+            "133.9% + 173%",
+            "141.7% + 183.1%",
+            "149.5% + 193.2%"
+          ]
+        },
+        {
+          "label": "重擊體力消耗",
+          "values": [
+            "20點",
+            "20點",
+            "20點",
+            "20點",
+            "20點",
+            "20點",
+            "20點",
+            "20點",
+            "20點",
+            "20點",
+            "20點",
+            "20點",
+            "20點",
+            "20點",
+            "20點"
+          ]
+        },
+        {
+          "label": "下墜期間傷害",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "低空/高空墜地衝擊傷害",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 10128,
+      "id": "frostbound_javelin",
+      "name": "聚冰成鋒",
+      "description": "使用冰元素之力凝聚投矛，向敵人擲出，造成多次<span style=\"color:#99FFFFFF\">冰元素傷害</span>。<br/>施放時，旅行者會消耗所有<b><span style=\"color:#FFD780FF\">寒輝</span></b>層數，提升本次元素爆發造成的傷害；若消耗了8層<span style=\"color:#FFD780FF\">寒輝</span>，還會使投矛造成傷害的次數提升。<br/><br/><b><span style=\"color:#FFD780FF\">輝映·星爍</span></b>：本次元素爆發改為造成視為對應星爍反應傷害的<span style=\"color:#99FFFFFF\">冰元素傷害</span>。",
+      "info": "和派蒙一起感受過冰凌的鋒利。",
+      "attributes": [
+        {
+          "label": "投矛單段傷害",
+          "values": [
+            "55.1%",
+            "59.3%",
+            "63.4%",
+            "68.9%",
+            "73%",
+            "77.2%",
+            "82.7%",
+            "88.2%",
+            "93.7%",
+            "99.2%",
+            "104.7%",
+            "110.3%",
+            "117.2%",
+            "124%",
+            "130.9%"
+          ]
+        },
+        {
+          "label": "寒輝傷害提升",
+          "values": [
+            "2.8%",
+            "3%",
+            "3.2%",
+            "3.4%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%",
+            "4.7%",
+            "5%",
+            "5.2%",
+            "5.5%",
+            "5.9%",
+            "6.2%",
+            "6.5%"
+          ]
+        },
+        {
+          "label": "星超導投矛單段傷害",
+          "values": [
+            "36.8%",
+            "39.5%",
+            "42.3%",
+            "45.9%",
+            "48.7%",
+            "51.5%",
+            "55.1%",
+            "58.8%",
+            "62.5%",
+            "66.2%",
+            "69.8%",
+            "73.5%",
+            "78.1%",
+            "82.7%",
+            "87.3%"
+          ]
+        },
+        {
+          "label": "星超導寒輝傷害提升",
+          "values": [
+            "1.8%",
+            "2%",
+            "2.1%",
+            "2.3%",
+            "2.4%",
+            "2.6%",
+            "2.8%",
+            "2.9%",
+            "3.1%",
+            "3.3%",
+            "3.5%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%"
+          ]
+        },
+        {
+          "label": "星擴散投矛單段傷害",
+          "values": [
+            "55.1%",
+            "59.3%",
+            "63.4%",
+            "68.9%",
+            "73%",
+            "77.2%",
+            "82.7%",
+            "88.2%",
+            "93.7%",
+            "99.2%",
+            "104.7%",
+            "110.3%",
+            "117.2%",
+            "124%",
+            "130.9%"
+          ]
+        },
+        {
+          "label": "星擴散寒輝傷害提升",
+          "values": [
+            "2.8%",
+            "3%",
+            "3.2%",
+            "3.4%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%",
+            "4.7%",
+            "5%",
+            "5.2%",
+            "5.5%",
+            "5.9%",
+            "6.2%",
+            "6.5%"
+          ]
+        },
+        {
+          "label": "攻擊段數",
+          "values": [
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3"
+          ]
+        },
+        {
+          "label": "滿層寒輝額外攻擊段數",
+          "values": [
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2"
+          ]
+        },
+        {
+          "label": "冷卻時間",
+          "values": [
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒"
+          ]
+        },
+        {
+          "label": "元素能量",
+          "values": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 10127,
+      "id": "ice_fog_piercer",
+      "name": "冰霧劍",
+      "description": "揮動武器向前刺擊，釋放極寒冰霧，對前方造成<span style=\"color:#99FFFFFF\">冰元素傷害</span>，並在身旁凝結栗烈寒星。<br/><br/><span style=\"color:#FFD780FF\">栗烈寒星</span><br/>·將跟隨隊伍中自己的角色，並間歇性發射冰晶攻擊附近的敵人，造成<span style=\"color:#99FFFFFF\">冰元素傷害</span>。<br/><span style=\"color:#FFD780FF\">輝映·星超導</span>：栗烈寒星將不再間歇性發射冰晶，而是會在旅行者的普通攻擊、重擊或下落攻擊命中敵人時，發射一枚冰晶，協同攻擊敵人，每0.2秒最多觸發一次。<br/>·冰晶命中敵人時，將為旅行者累積1層<b><span style=\"color:#FFD780FF\">寒輝</span></b>，該效果至多累積8層。<br/>·不處於戰鬥狀態下時，<span style=\"color:#FFD780FF\">寒輝</span>將在30秒後清除。",
+      "info": "和派蒙一起觀察過霧凇的凝成。",
+      "attributes": [
+        {
+          "label": "技能傷害",
+          "values": [
+            "91.7%",
+            "98.6%",
+            "105.4%",
+            "114.6%",
+            "121.5%",
+            "128.4%",
+            "137.5%",
+            "146.7%",
+            "155.9%",
+            "165%",
+            "174.2%",
+            "183.4%",
+            "194.8%",
+            "206.3%",
+            "217.7%"
+          ]
+        },
+        {
+          "label": "冰晶傷害",
+          "values": [
+            "21.4%",
+            "23%",
+            "24.6%",
+            "26.7%",
+            "28.3%",
+            "29.9%",
+            "32.1%",
+            "34.2%",
+            "36.4%",
+            "38.5%",
+            "40.6%",
+            "42.8%",
+            "45.5%",
+            "48.1%",
+            "50.8%"
+          ]
+        },
+        {
+          "label": "栗烈寒星持續時間",
+          "values": [
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒"
+          ]
+        },
+        {
+          "label": "冷卻時間",
+          "values": [
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "everkeen_frost",
+      "name": "自銳的凜冰",
+      "description": "<span style=\"color:#FFD780FF\">輝映·星超導</span>：<span style=\"color:#FFD780FF\">栗烈寒星</span>存在期間，旅行者的普通攻擊、重擊、下落攻擊將轉為造成無法被附魔覆蓋的<span style=\"color:#99FFFFFF\">冰元素傷害</span>，且造成的傷害提升，提升值相當於旅行者攻擊力的80%。",
+      "level": 1
+    },
+    {
+      "id": "lucent_ice",
+      "name": "通明的冽冰",
+      "description": "旅行者的元素精通提升，提升值相當於旅行者攻擊力的8%。依此方式，至多使旅行者的元素精通提升160點。",
+      "level": 4
+    },
+    {
+      "id": "stellar_jubilee_illusory_frostmirror",
+      "name": "星耀祝禮·幻變冰鏡",
+      "description": "處於<b><span style=\"color:#FFD780FF\">極星輝域</span></b>中時/隊伍中的角色在附近觸發星擴散反應後的8秒內，旅行者將分別進入<span style=\"color:#FFD780FF\">輝映·星超導</span>/<span style=\"color:#FFD780FF\">輝映·星擴散</span>狀態。<br/>隊伍中的角色觸發超導/冰元素擴散反應時，將轉為觸發星超導/星擴散反應，且基於旅行者的攻擊力，提升隊伍中角色造成的上述反應的基礎傷害：每100點攻擊力都將提升0.35%上述反應的基礎傷害，至多依此方式提升7%傷害。",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 81,
+      "id": "somber_freeze",
+      "name": "漸肅的凝冰",
+      "description": "旅行者造成了星爍反應傷害時，將為自身恢復5點元素能量，此效果至多每0.5秒觸發1次。",
+      "level": 1
+    },
+    {
+      "_id": 82,
+      "id": "frostfall_reverberation",
+      "name": "嗡鳴的隕冰",
+      "description": "元素戰技<color=#FFD780FF><b>冰霧劍</b></color>發射的<span style=\"color:#FFD780FF\">冰晶</span>命中敵人後，還會使目前場上角色的元素精通提升60點，持續5秒。<br/>此外，若受到上述效果影響的角色觸發了星爍反應，或造成了星爍反應傷害，則持續時間內，上述效果改為提升120點元素精通。",
+      "level": 2
+    },
+    {
+      "_id": 83,
+      "id": "glacial_shard",
+      "name": "斷金的銳冰",
+      "description": "元素爆發<color=#FFD780FF><b>聚冰成鋒</b></color>的技能等級提高3級。<br/>至多提升至15級。",
+      "level": 3
+    },
+    {
+      "_id": 84,
+      "id": "enduring_ice",
+      "name": "不化的頑冰",
+      "description": "元素戰技<color=#FFD780FF><b>冰霧劍</b></color>創造的<span style=\"color:#FFD780FF\">栗烈寒星</span>存在時間延長25%。",
+      "level": 4
+    },
+    {
+      "_id": 85,
+      "id": "bittercold_fog",
+      "name": "深寒的霧冰",
+      "description": "元素戰技<color=#FFD780FF><b>冰霧劍</b></color>的技能等級提高3級。<br/>至多提升至15級。",
+      "level": 5
+    },
+    {
+      "_id": 86,
+      "id": "brumal_grimfrost",
+      "name": "肅殺的熙冰",
+      "description": "施放元素爆發<color=#FFD780FF><b>聚冰成鋒</b></color>時，每消耗1層<b><span style=\"color:#FFD780FF\">寒輝</span></b>，隊伍中其他角色造成的星爍反應傷害提升5%，至多依此方式提升40%，持續15秒。",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "基礎生命值",
+          "values": [
+            "-",
+            "912"
+          ]
+        },
+        {
+          "label": "基礎攻擊力",
+          "values": [
+            "-",
+            "18"
+          ]
+        },
+        {
+          "label": "基礎防禦力",
+          "values": [
+            "-",
+            "57"
+          ]
+        },
+        {
+          "label": "攻擊力%",
+          "values": [
+            "-",
+            "0.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "基礎生命值",
+          "values": [
+            "2342",
+            "3024"
+          ]
+        },
+        {
+          "label": "基礎攻擊力",
+          "values": [
+            "46",
+            "59"
+          ]
+        },
+        {
+          "label": "基礎防禦力",
+          "values": [
+            "147",
+            "190"
+          ]
+        },
+        {
+          "label": "攻擊力%",
+          "values": [
+            "0.0%",
+            "0.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "基礎生命值",
+          "values": [
+            "4529",
+            "5013"
+          ]
+        },
+        {
+          "label": "基礎攻擊力",
+          "values": [
+            "88",
+            "98"
+          ]
+        },
+        {
+          "label": "基礎防禦力",
+          "values": [
+            "284",
+            "315"
+          ]
+        },
+        {
+          "label": "攻擊力%",
+          "values": [
+            "0.0%",
+            "6.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104101,
+        "id": "brilliant_diamond_sliver",
+        "name": "璀璨原鑽碎屑",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "風車菊",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112005,
+        "id": "damaged_mask",
+        "name": "破損的面具",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "基礎生命值",
+          "values": [
+            "5766",
+            "6411"
+          ]
+        },
+        {
+          "label": "基礎攻擊力",
+          "values": [
+            "113",
+            "125"
+          ]
+        },
+        {
+          "label": "基礎防禦力",
+          "values": [
+            "362",
+            "402"
+          ]
+        },
+        {
+          "label": "攻擊力%",
+          "values": [
+            "6.0%",
+            "12.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104102,
+        "id": "brilliant_diamond_fragment",
+        "name": "璀璨原鑽斷片",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "風車菊",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112005,
+        "id": "damaged_mask",
+        "name": "破損的面具",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "基礎生命值",
+          "values": [
+            "7164",
+            "7648"
+          ]
+        },
+        {
+          "label": "基礎攻擊力",
+          "values": [
+            "140",
+            "149"
+          ]
+        },
+        {
+          "label": "基礎防禦力",
+          "values": [
+            "450",
+            "480"
+          ]
+        },
+        {
+          "label": "攻擊力%",
+          "values": [
+            "12.0%",
+            "12.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104102,
+        "id": "brilliant_diamond_fragment",
+        "name": "璀璨原鑽斷片",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "風車菊",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112006,
+        "id": "stained_mask",
+        "name": "汙穢的面具",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "基礎生命值",
+          "values": [
+            "8401",
+            "8885"
+          ]
+        },
+        {
+          "label": "基礎攻擊力",
+          "values": [
+            "164",
+            "174"
+          ]
+        },
+        {
+          "label": "基礎防禦力",
+          "values": [
+            "527",
+            "558"
+          ]
+        },
+        {
+          "label": "攻擊力%",
+          "values": [
+            "12.0%",
+            "18.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104103,
+        "id": "brilliant_diamond_chunk",
+        "name": "璀璨原鑽塊",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "風車菊",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112006,
+        "id": "stained_mask",
+        "name": "汙穢的面具",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "基礎生命值",
+          "values": [
+            "9638",
+            "10122"
+          ]
+        },
+        {
+          "label": "基礎攻擊力",
+          "values": [
+            "188",
+            "198"
+          ]
+        },
+        {
+          "label": "基礎防禦力",
+          "values": [
+            "605",
+            "635"
+          ]
+        },
+        {
+          "label": "攻擊力%",
+          "values": [
+            "18.0%",
+            "24.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104103,
+        "id": "brilliant_diamond_chunk",
+        "name": "璀璨原鑽塊",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "風車菊",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112007,
+        "id": "ominous_mask",
+        "name": "不祥的面具",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "基礎生命值",
+          "values": [
+            "10875",
+            "10875"
+          ]
+        },
+        {
+          "label": "基礎攻擊力",
+          "values": [
+            "212",
+            "212"
+          ]
+        },
+        {
+          "label": "基礎防禦力",
+          "values": [
+            "683",
+            "683"
+          ]
+        },
+        {
+          "label": "攻擊力%",
+          "values": [
+            "24.0%",
+            "24.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104104,
+        "id": "brilliant_diamond_gemstone",
+        "name": "璀璨原鑽",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "風車菊",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112007,
+        "id": "ominous_mask",
+        "name": "不祥的面具",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104365,
+          "id": "teachings_of_charity",
+          "name": "「慈愛」的教導",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "嵌合種",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "「堅忍」的指引",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "併生嵌合胞",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104372,
+          "id": "guide_to_glory",
+          "name": "「榮光」的指引",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "併生嵌合胞",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "「慈愛」的指引",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "併生嵌合胞",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "「堅忍」的指引",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "併生嵌合胞",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104373,
+          "id": "philosophies_of_glory",
+          "name": "「榮光」的哲學",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合體",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "昇揚樣本·王族",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "「慈愛」的哲學",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合體",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "昇揚樣本·王族",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "「堅忍」的哲學",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合體",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "昇揚樣本·王族",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104373,
+          "id": "philosophies_of_glory",
+          "name": "「榮光」的哲學",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合體",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "昇揚樣本·王族",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "智識之冕",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 200701,
+      "name": "復地重天",
+      "description": "旅行者的裝扮款式。陪伴雙「星」遍訪無數世界的衣服。它已然見過無數的世界，但還是不明白宇宙的目的究竟為何。但只要思考，總會得到那個「最後的答案」。",
+      "isDefault": false,
+      "characterName": "熒",
+      "characterId": 10000007,
+      "source": [
+        "完成魔神任務「真實之月」後獲得"
+      ],
+      "filename_card": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Card",
+      "filename_icon": "UI_AvatarIcon_PlayerGirlCostumeCWXR",
+      "filename_iconCircle": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Circle",
+      "filename_splash": "UI_Costume_PlayerGirlCostumeCWXR",
+      "filename_sideIcon": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR"
+    },
+    {
+      "id": 200700,
+      "name": "初升之星",
+      "description": "旅行者的裝扮款式。陪伴旅人走過漫漫長路的實用衣裝。",
+      "isDefault": true,
+      "characterName": "熒",
+      "characterId": 10000007,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_PlayerGirl_Circle"
+    }
+  ]
+}

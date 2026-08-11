@@ -8,13 +8,12 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Drillhead_Normal",
   "description": "Завриан с рогом и когтями, способными пробивать камень и твёрдый флогистон.\\nПо легенде, предок тепетлизавров был огромным драконом размером с гору, жил он невероятно долго. Когда он спал, на его спине образовывались горы, а когда просыпался, стряхивал грязь и камни, оставляя сверкающие самоцветы и нефрит среди своих чешуек. Огромные объекты в форме сверла у Детей Эха считаются останками рога этого дракона.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {

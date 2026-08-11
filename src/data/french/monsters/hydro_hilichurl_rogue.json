@@ -13,7 +13,6 @@
   "categoryText": "Brutocollinus",
   "filename_icon": "UI_MonsterIcon_Hilistray_Water",
   "description": "Brutocollinus nomade qui n'est affilié à aucune tribu spécifique. On le trouve souvent errant dans la nature, comme s'il s'était imposé lui-même un exil.\\nPour des raisons encore inconnues, il prête parfois son aide aux autres Brutocollinus ou aux tribus de ces derniers, avant de poursuivre son chemin solitaire. Il semble également posséder un niveau d'intelligence plus élevé que les Brutocollinus de base.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

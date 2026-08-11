@@ -1,0 +1,16 @@
+{
+  "_id": 390001,
+  "id": "unbreakable_durandarte",
+  "name": "無毀・デュランガルド",
+  "description": "地脈の奥より現れた刃の幻影。かつて「デュランガルド」の名で純白の騎士が手にしていたとされる。\\nその名は古語で「傷つくことのない刃」を意味する。その刀剣と同様、彼が信じた道もまた、決して曲がることはなかった——たとえ、かつて純白だった鋼がいかに漆黒に染まろうとも。",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "両手剣"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341901,
+  "icon_path": "UI_EquipIcon_Claymore_VarkaTunkeldegen",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_VarkaTunkeldegen"
+}

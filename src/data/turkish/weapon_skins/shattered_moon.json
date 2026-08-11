@@ -1,0 +1,21 @@
+{
+  "_id": 330001,
+  "id": "shattered_moon",
+  "name": "Parçalanmış Ay",
+  "description": "Ley Hatlarının derinliklerinden ortaya çıkan yanılsamalı ve ihtişamlı bir mızrak. Kuşanan kişinin Element Türüne göre görüntüsü değişir. Efsanelere göre kadim bir ülkedeki ay avcısı bir günahkar tarafından kullanılan bu mızrak, bir zamanlar \"Barnstokkr\" adını taşırmış.",
+  "rarity": 4,
+  "type": {
+    "id": "Polearm",
+    "name": "Mızrak"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "Işıltılı Dönüşüm: Aşkınlık",
+    "priority": 1
+  },
+  "item_id": 341301,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphSpinifer_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphSpinifer"
+}

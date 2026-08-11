@@ -481,9 +481,31 @@
     "Dilimbabbar-Angriffsmatrix",
     "Dilimbabbar-Verteidigungsmatrix",
     "Verfluchter Neugeborener",
+    "???",
+    "Bodenfalke",
     "Verfluchter Neugeborener",
     "Die Sterne bewundernder Pionier",
-    "Nachglühen des Schöpferslichts"
+    "Nachglühen des Schöpferslichts",
+    "Unzerstörbares Werk",
+    "„Zhara“",
+    "Vasily Edipovich Izmaylov",
+    "Eroberer aus dem Eis",
+    "Gusarov",
+    "„Urmensch“",
+    "Aksinya",
+    "Pavlina",
+    "Rückkehrer der Expedition",
+    "Chaotisches Patrouillenboot",
+    "Nastya",
+    "Furiosa",
+    "Klenova, die Erhobene",
+    "Kovaliskaya, die Niederträchtige",
+    "Tsvetaev",
+    "Bragin",
+    "Churin",
+    "Beschwörer ewiger Treue",
+    "Lauerndes Höhlenbiest",
+    "Schneller Vorstoß"
   ],
   "investigation": {
     "investigationId": 44,
@@ -510,22 +532,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Geränderte rote Seide",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Verblasste rote Seide",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Eremite_MuscleMan_Simitar",
   "description": "Mitglied einer unorganisierten Gruppe von Söldnern, die aus der golden glänzenden Wüste kommt. Ist bereit, für jeden gegen Bezahlung zu arbeiten.\\nEin Wüstenkrieger, der gut im Umgang mit einer großen Machete ist. Die von ihm beherrschte Schwerttechnik, die er von einer untergegangenen Zivilisation geerbt hat, ist nicht nur eine Kampftechnik, sondern der daraus entwickelte Schwerttanz ist in allen Ländern zu einer beliebten akrobatischen Darbietung geworden.\\nDiese große Machete sollte in der alten Zeit für berittenen Kampf verwendet worden sein.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

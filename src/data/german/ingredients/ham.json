@@ -79,6 +79,11 @@
       "name": "Freude am Lagerfeuer"
     },
     {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Okroschka"
+    },
+    {
       "_id": 4101,
       "id": "jade_parcels",
       "name": "Gefüllte Jadetaschen"
@@ -111,6 +116,5 @@
   ],
   "source": [
     "Beim Verarbeiten von Gerichten zu erhalten"
-  ],
-  "rarity": 0
+  ]
 }

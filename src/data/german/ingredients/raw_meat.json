@@ -103,6 +103,11 @@
       "name": "Gebratenes Fleisch mit Beeren"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borschtsch"
+    },
+    {
       "_id": 3004,
       "id": "sticky_honey_roast",
       "name": "Honigmöhren-Fleischpfanne"
@@ -248,6 +253,16 @@
       "name": "Pinnekjøtt"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoje im Tontopf"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Schaschlik"
+    },
+    {
       "_id": 4001,
       "id": "moon_pie",
       "name": "Mondkuchen"
@@ -307,6 +322,5 @@
   ],
   "source": [
     "Beute von Tieren"
-  ],
-  "rarity": 0
+  ]
 }

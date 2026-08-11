@@ -1,7 +1,7 @@
 {
   "_id": 20080201,
   "id": "tangled_vines_frostnight_scion",
-  "monsterId": 20080202,
+  "monsterId": 84008022,
   "name": "Tangled Vines: Frostnight Scion",
   "specialNames": [
     "Akar Merambat"
@@ -13,9 +13,8 @@
   "categoryText": "Makhluk Elemental",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Grass",
   "description": "Makhluk elemental dengan tubuh yang indah dan anggun, memiliki ketertarikan yang kuat terhadap unsur elemental. Setelah sekian lama terekspos terhadap Dendro berkonsentrasi tinggi, akhirnya berubah menjadi wujud saat ini.\\nMemiliki resonansi yang aneh dengan tumbuhan dan pepohonan di hutan. Konon, seorang Pelantun Rembulan pernah membuat kontrak bersama hutan dengan bantuan mereka, dan sejak itu, dia berteman dengan makhluk-makhluk di tanah ini.\\nDalam nyanyian doa yang tersisa di ujung utara, mereka adalah kehidupan yang lahir dengan berkah Bulan Embun, melambangkan sumber murni dan cahaya asli. Mungkin karena itulah mereka tak tahan dengan warna putihnya ternoda oleh tujuh warna dari cahaya langit, dan mulai menolak semua makhluk yang terlalu dekat dengan mereka.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

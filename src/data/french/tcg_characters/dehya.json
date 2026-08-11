@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Épée à deux mains",
     "faction": [
-      null,
-      null
+      "Sumeru",
+      "Érémites"
     ],
     "talent_card": {
       "_id": 4367,
@@ -30,8 +32,10 @@
     {
       "id": "sandstorm_assault",
       "name": "Assaut sablé",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,8 +54,10 @@
     {
       "id": "molten_inferno",
       "name": "Enfer en fusion",
-      "desc": "Invoque une <span style=\"color:#FFFFFFFF\">zone de sanctuaire ardent</span>. Si une zone de sanctuaire ardent est déjà présente, inflige d'abord ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Invoque une <span style=\"color:#FFFFFFFF\">zone de sanctuaire ardent</span>. Si une zone de sanctuaire ardent est déjà présente, inflige d'abord 1 pt de <span style=\"color:#FF9999FF\">DGT Pyro</span>.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -64,8 +70,10 @@
     {
       "id": "leonine_bite",
       "name": "Morsure léonine",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et <span style=\"color:#FFFFFFFF\">prépare la capacité</span> : <span style=\"color:#FFFFFFFF\">Pied plongeant d'incinération</span>.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts de <span style=\"color:#FF9999FF\">DGT Pyro</span> et <span style=\"color:#FFFFFFFF\">prépare la capacité</span> : <span style=\"color:#FFFFFFFF\">Pied plongeant d'incinération</span>.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1103,

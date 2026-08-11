@@ -1,0 +1,328 @@
+{
+  "_id": 12436,
+  "id": "blade_of_atonement",
+  "name": "구원의 대검",
+  "description": "루치킨에게 물려 받은 대검. 가장 용맹한 전사만이 이 검을 쥘 자격이 있다",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "양손검"
+  },
+  "domain": "연무 비경·「망념의 상흔」",
+  "passive": "속죄",
+  "bonus": "원소 반응 발동 후 12초 동안 장착 캐릭터의 원소 마스터리가 <span>64/80/96/112/128</span>pt 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터의 공격력이 <span>16%/20%/24%/28%/32%</span> 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+  "specialProp": "공격력%",
+  "stats": {
+    "primary": "기초 공격력",
+    "secondary": "공격력%",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 44,
+        "secondary": 6
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 119,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 144,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 226,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 252,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 293,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 319,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 361,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 387,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 429,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 455,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 497,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 523,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 565,
+        "secondary": 27.6
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114085,
+          "id": "rise_of_the_pale_star_army",
+          "name": "창백한 별군단의 결성",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "영혼의 잔가지",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "키메라의 기초 코어",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114086,
+          "id": "muster_of_the_pale_star_army",
+          "name": "창백한 별군단의 집결",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "영혼의 잔가지",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "키메라의 기초 코어",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114086,
+          "id": "muster_of_the_pale_star_army",
+          "name": "창백한 별군단의 집결",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "영혼의 가지",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "키메라의 이중 코어",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114087,
+          "id": "clarion_of_the_pale_star_army",
+          "name": "창백한 별군단의 명령",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "영혼의 가지",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "키메라의 이중 코어",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114087,
+          "id": "clarion_of_the_pale_star_army",
+          "name": "창백한 별군단의 명령",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "영혼의 큰 가지",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "키메라의 다중 코어",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114088,
+          "id": "triumph_of_the_pale_star_army",
+          "name": "창백한 별군단의 정복",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "영혼의 큰 가지",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "키메라의 다중 코어",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "속죄",
+    "template": "원소 반응 발동 후 12초 동안 장착 캐릭터의 원소 마스터리가 <span style=\"color:#99FFFFFF\">{0}</span>pt 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터의 공격력이 <span style=\"color:#99FFFFFF\">{1}</span> 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+    "params": [
+      [
+        "64",
+        "16%"
+      ],
+      [
+        "80",
+        "20%"
+      ],
+      [
+        "96",
+        "24%"
+      ],
+      [
+        "112",
+        "28%"
+      ],
+      [
+        "128",
+        "32%"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "원소 반응 발동 후 12초 동안 장착 캐릭터의 원소 마스터리가 <span>64</span>pt 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터의 공격력이 <span>16%</span> 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다"
+    },
+    {
+      "refinement": 2,
+      "desc": "원소 반응 발동 후 12초 동안 장착 캐릭터의 원소 마스터리가 <span>80</span>pt 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터의 공격력이 <span>20%</span> 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다"
+    },
+    {
+      "refinement": 3,
+      "desc": "원소 반응 발동 후 12초 동안 장착 캐릭터의 원소 마스터리가 <span>96</span>pt 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터의 공격력이 <span>24%</span> 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다"
+    },
+    {
+      "refinement": 4,
+      "desc": "원소 반응 발동 후 12초 동안 장착 캐릭터의 원소 마스터리가 <span>112</span>pt 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터의 공격력이 <span>28%</span> 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다"
+    },
+    {
+      "refinement": 5,
+      "desc": "원소 반응 발동 후 12초 동안 장착 캐릭터의 원소 마스터리가 <span>128</span>pt 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터의 공격력이 <span>32%</span> 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다"
+    }
+  ]
+}

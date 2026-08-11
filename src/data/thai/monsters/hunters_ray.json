@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "สัตว์อสูรลึกลับ",
   "filename_icon": "UI_MonsterIcon_MantaRay_Larva_02",
   "description": "ปลากระเบนที่สามารถปล่อยใบมีดน้ำได้\\nในบรรดา Fontemer Aberrant นั้น มีสิ่งมีชีวิตประหลาดที่มี \"สีพิเศษ\" อยู่ด้วย ว่ากันว่าร่างกายที่มีสีสันประหลาดนี้ไม่ใช่สิ่งมีชีวิต แต่เป็นดวงวิญญาณในมหาสมุทร ที่ไม่ได้เกิดมาพร้อมกับร่างกาย และไม่เคยกลืนกินเหยื่อ มันจะให้พรแก่ผู้ที่ Fontemer ยอมรับ หรือผู้ที่ควบคุม Fontemer แน่นอนว่าผู้ที่ทำการวิจัย และมีประสบการณ์ด้านปรัชญาธรรมชาติ จะไม่เห็นด้วยกับข้อความที่ไม่มีมูลความจริงนี้",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 65.15,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

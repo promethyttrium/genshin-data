@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Makhluk Elemental",
   "filename_icon": "UI_MonsterIcon_Sylph_Ice_01",
   "description": "Monster yang bisa melayang di udara, terlahir dari konsentrasi Cryo yang tinggi.\\nDahulu ada seorang alkemis yang meneliti Specter. Dia percaya kalau Slime dan Traveler bisa memakai Vision untuk menggunakan elemental, maka Specter harusnya adalah Slime atau Traveler. Kemudian dia ditegur oleh gurunya.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

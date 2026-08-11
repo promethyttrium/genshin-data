@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Su",
+    "weapon": "Kılıç",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 4569,
@@ -29,8 +31,10 @@
     {
       "id": "dance_of_samser",
       "name": "Samser Dansı",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "dance_of_haftkarsvar",
       "name": "Haftkarsvar Dansı",
-      "desc": "? ? verir. Grupta <span style=\"color:#80C0FFFF\">Su Karakterleri</span> ile <span style=\"color:#7EC236FF\">Doğa Karakterleri</span> varsa ve diğer Element türlerinden bir karakter yoksa 1 <span style=\"color:#FFFFFFFF\">Altın Kadeh</span> oluşturur.",
-      "skillTag": [],
+      "desc": "3 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir. Grupta <span style=\"color:#80C0FFFF\">Su Karakterleri</span> ile <span style=\"color:#7EC236FF\">Doğa Karakterleri</span> varsa ve diğer Element türlerinden bir karakter yoksa 1 <span style=\"color:#FFFFFFFF\">Altın Kadeh</span> oluşturur.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "dance_of_abzendegi_distant_dreams_listening_spring",
       "name": "Abzendegi Dansı: Uzak Düşler, Pınarların Sesi",
-      "desc": "? ? verir ve hedef karakter ile sonraki karaktere <span style=\"color:#FFFFFFFF\">Kalıcı Sonsuzluk</span> eklenir.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir ve hedef karakter ile sonraki karaktere <span style=\"color:#FFFFFFFF\">Kalıcı Sonsuzluk</span> eklenir.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1102,

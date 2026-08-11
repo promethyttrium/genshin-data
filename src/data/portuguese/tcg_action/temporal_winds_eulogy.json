@@ -1,0 +1,32 @@
+{
+  "_id": 215032,
+  "id": "temporal_winds_eulogy",
+  "shareId": 617,
+  "name": "Ode ao Vento",
+  "title": "Venti: Ode ao Vento",
+  "desc": "\"Por isso, os Não Revelados podem significar apenas duas coisas: um futuro não baseado nas estrelas, ou um deliberadamente ocultado por aqueles com más intenções. O segundo é genuinamente enfurecedor, e espero que a bruxinha na história nunca se torne assim.\"",
+  "in_play_description": "Após você invocar <span style=\"color:#FFFFFFFF\">Olho da Tempestade</span>, o <span style=\"color:#FFFFFFFF\">Dano Físico</span> do personagem é convertido em <span style=\"color:#80FFD7FF\">Dano Anemo</span> para os próximos dois <span style=\"color:#FFFFFFFF\">Ataques Normais</span> durante esse Turno, além desses ataques custarem 2 <span style=\"color:#FFFFFFFF\">Elemento Indefinido</span> a menos.",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "Anemo",
+    "card_type": "Carta de Equipamento",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "Anemo",
+        "count": 3
+      }
+    ],
+    "tags": [
+      "Talento",
+      "Mágico"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Ações Rápidas</span>: Equipe essa carta a <span style=\"color:#FFFFFFFF\">Venti</span>.<br/>Invoca <span style=\"color:#FFFFFFFF\">Olho da Tempestade</span>.<br/>Após você invocar <span style=\"color:#FFFFFFFF\">Olho da Tempestade</span>, o <span style=\"color:#FFFFFFFF\">Dano Físico</span> do personagem é convertido em <span style=\"color:#80FFD7FF\">Dano Anemo</span> para os próximos dois <span style=\"color:#FFFFFFFF\">Ataques Normais</span> durante esse Turno, além desses ataques custarem 2 <span style=\"color:#FFFFFFFF\">Elemento Indefinido</span> a menos.<br/>(Você deve ter Venti em seu deck para adicionar essa carta a ele.)"
+    }
+  ]
+}

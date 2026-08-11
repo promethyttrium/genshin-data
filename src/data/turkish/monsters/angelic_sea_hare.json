@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Aplysia_Larva_02",
   "description": "Su atarak avlanan bir su canlısı.\\nEvrim açısından bakıldığında Fontemer Sapkınlarının, Fontaine'e özel çevresel faktörlerden ötürü su canlılarından evrildiği sanılmaktadır. Bu yüzden geçmişte Fontaine'in kendi su yaşam formlarının Teyvat'ın diğer bölgelerindekilerden çok da farklı olmadığı sonucu çıkarılabilir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 13.49,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_JellyFish_Larva_02",
   "description": "Sinh vật thủy sinh có thể bắn đạn nước để săn bắt.\\nTuy nhìn giống chiếc nón, nhưng cái miệng để ăn thì nằm bên dưới \"nón\", cho nên việc đội nón lên đầu thực ra là một hành vi không được thông minh lắm. Trước đây từng có người chứng thực điểm này: \"Sau đó nghĩ lại, đó đúng là một hành vi rất ngu xuẩn.\"",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 65.15,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

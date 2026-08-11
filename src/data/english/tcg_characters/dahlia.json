@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Sword",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "source": "Reward for inviting Dahlia to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him"
   },
@@ -18,8 +20,10 @@
     {
       "id": "favonius_bladework_ritual",
       "name": "Favonius Bladework - Ritual",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -38,8 +42,10 @@
     {
       "id": "immersive_ordinance",
       "name": "Immersive Ordinance",
-      "desc": "Deals ? ? and creates <span style=\"color:#FFFFFFFF\">Sacramental Shower</span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#80C0FFFF\">Hydro DMG</span> and creates <span style=\"color:#FFFFFFFF\">Sacramental Shower</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -52,8 +58,10 @@
     {
       "id": "radiant_psalter",
       "name": "Radiant Psalter",
-      "desc": "Deals ? ?, creates 2 stacks of <span style=\"color:#FFFFFFFF\">Shield</span> and 2 stacks of <span style=\"color:#FFFFFFFF\">Favonian Favor</span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#80C0FFFF\">Hydro DMG</span>, creates 2 stacks of <span style=\"color:#FFFFFFFF\">Shield</span> and 2 stacks of <span style=\"color:#FFFFFFFF\">Favonian Favor</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1102,

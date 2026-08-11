@@ -13,7 +13,6 @@
   "categoryText": "Entités élémentaires",
   "filename_icon": "UI_MonsterIcon_Effigy_Ice",
   "description": "Nom de code « Daleth », une entité Cryo de niveau supérieur.\\nSelon les recherches, les Hypostases présentent des différences subtiles en matière de composition physique par rapport aux créatures élémentaires ordinaires. Ces différences émaneraient de leur morphologie très stable et leur mode de mouvement mécanique.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

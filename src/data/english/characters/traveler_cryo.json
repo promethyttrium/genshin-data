@@ -1,0 +1,1307 @@
+{
+  "_id": 10000007,
+  "id": "traveler_cryo",
+  "name": "Traveler (Cryo)",
+  "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+  "weapon_type": {
+    "id": "sword",
+    "name": "Sword"
+  },
+  "element": {
+    "id": "cryo",
+    "name": "Cryo"
+  },
+  "gender": {
+    "id": "malefemale",
+    "name": "Male/Female"
+  },
+  "release": 1786561200,
+  "substat": "ATK%",
+  "affiliation": "-",
+  "region": {
+    "id": "mainactor",
+    "name": "MAINACTOR"
+  },
+  "rarity": 5,
+  "birthday": [
+    null,
+    null
+  ],
+  "constellation": "Viatrix",
+  "domain": "Domain of Mastery: Hermitage",
+  "cv": {
+    "english": "Sarah Miller-Crews & Various Artists",
+    "chinese": "宴宁 & 多多poi",
+    "japanese": "悠木碧 & 古賀葵",
+    "korean": "Lee Sae-ah & Kim Ka-ryoung"
+  },
+  "skills": [
+    {
+      "_id": 100554,
+      "id": "foreign_frostglint",
+      "name": "Foreign Frostglint",
+      "description": "<span style=\"color:#FFD780FF\">Normal Attack</span><br/>Performs up to 5 rapid strikes.<br/><br/><span style=\"color:#FFD780FF\">Charged Attack</span><br/>Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.<br/><br/><span style=\"color:#FFD780FF\">Plunging Attack</span><br/>Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "1-Hit DMG",
+          "values": [
+            "44.5%",
+            "48.1%",
+            "51.7%",
+            "56.9%",
+            "60.5%",
+            "64.6%",
+            "70.3%",
+            "76%",
+            "81.7%",
+            "87.9%",
+            "94.1%",
+            "100.3%",
+            "106.5%",
+            "112.7%",
+            "118.9%"
+          ]
+        },
+        {
+          "label": "2-Hit DMG",
+          "values": [
+            "43.4%",
+            "47%",
+            "50.5%",
+            "55.5%",
+            "59.1%",
+            "63.1%",
+            "68.7%",
+            "74.2%",
+            "79.8%",
+            "85.9%",
+            "91.9%",
+            "98%",
+            "104%",
+            "110.1%",
+            "116.1%"
+          ]
+        },
+        {
+          "label": "3-Hit DMG",
+          "values": [
+            "53%",
+            "57.3%",
+            "61.6%",
+            "67.8%",
+            "72.1%",
+            "77%",
+            "83.8%",
+            "90.6%",
+            "97.3%",
+            "104.7%",
+            "112.1%",
+            "119.5%",
+            "126.9%",
+            "134.3%",
+            "141.7%"
+          ]
+        },
+        {
+          "label": "4-Hit DMG",
+          "values": [
+            "58.3%",
+            "63.1%",
+            "67.8%",
+            "74.6%",
+            "79.3%",
+            "84.8%",
+            "92.2%",
+            "99.7%",
+            "107.1%",
+            "115.3%",
+            "123.4%",
+            "131.5%",
+            "139.7%",
+            "147.8%",
+            "155.9%"
+          ]
+        },
+        {
+          "label": "5-Hit DMG",
+          "values": [
+            "70.8%",
+            "76.5%",
+            "82.3%",
+            "90.5%",
+            "96.3%",
+            "102.9%",
+            "111.9%",
+            "121%",
+            "130%",
+            "139.9%",
+            "149.8%",
+            "159.7%",
+            "169.5%",
+            "179.4%",
+            "189.3%"
+          ]
+        },
+        {
+          "label": "Charged Attack DMG",
+          "values": [
+            "55.9% + 72.2%",
+            "60.5% + 78.1%",
+            "65% + 84%",
+            "71.5% + 92.4%",
+            "76% + 98.3%",
+            "81.3% + 105%",
+            "88.4% + 114.2%",
+            "95.5% + 123.5%",
+            "102.7% + 132.7%",
+            "110.5% + 142.8%",
+            "118.3% + 152.9%",
+            "126.1% + 163%",
+            "133.9% + 173%",
+            "141.7% + 183.1%",
+            "149.5% + 193.2%"
+          ]
+        },
+        {
+          "label": "Charged Attack Stamina Cost",
+          "values": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "label": "Plunge DMG",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "Low/High Plunge DMG",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 10128,
+      "id": "frostbound_javelin",
+      "name": "Frostbound Javelin",
+      "description": "Generates an ice javelin with the power of Cryo, then directs it at enemies to deal multiple instances of <span style=\"color:#99FFFFFF\">Cryo DMG</span>.<br/>When cast, the Traveler consumes all existing stacks of <span style=\"color:#FFD780FF\">Frostglow</span>, which in turn increases the DMG dealt by this Elemental Burst. When 8 stacks of <b><span style=\"color:#FFD780FF\">Frostglow</span></b> are consumed, the number of DMG instances caused by the javelins is also increased.<br/><br/><b><span style=\"color:#FFD780FF\">Radiance: Stellar Glimmer</span></b>: DMG from the current Elemental Burst is changed to <span style=\"color:#99FFFFFF\">Cryo DMG</span> of the corresponding Stellar Glimmer reaction type.",
+      "info": "You felt the keen edge of the icicles alongside Paimon.",
+      "attributes": [
+        {
+          "label": "Ice Javelin DMG",
+          "values": [
+            "55.1% / Strike",
+            "59.3% / Strike",
+            "63.4% / Strike",
+            "68.9% / Strike",
+            "73% / Strike",
+            "77.2% / Strike",
+            "82.7% / Strike",
+            "88.2% / Strike",
+            "93.7% / Strike",
+            "99.2% / Strike",
+            "104.7% / Strike",
+            "110.3% / Strike",
+            "117.2% / Strike",
+            "124% / Strike",
+            "130.9% / Strike"
+          ]
+        },
+        {
+          "label": "Frostglow DMG Bonus",
+          "values": [
+            "2.8%",
+            "3%",
+            "3.2%",
+            "3.4%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%",
+            "4.7%",
+            "5%",
+            "5.2%",
+            "5.5%",
+            "5.9%",
+            "6.2%",
+            "6.5%"
+          ]
+        },
+        {
+          "label": "Stellar-Conduct Ice Javelin Single Strike DMG",
+          "values": [
+            "36.8%",
+            "39.5%",
+            "42.3%",
+            "45.9%",
+            "48.7%",
+            "51.5%",
+            "55.1%",
+            "58.8%",
+            "62.5%",
+            "66.2%",
+            "69.8%",
+            "73.5%",
+            "78.1%",
+            "82.7%",
+            "87.3%"
+          ]
+        },
+        {
+          "label": "Stellar-Conduct Frostglow DMG Bonus",
+          "values": [
+            "1.8%",
+            "2%",
+            "2.1%",
+            "2.3%",
+            "2.4%",
+            "2.6%",
+            "2.8%",
+            "2.9%",
+            "3.1%",
+            "3.3%",
+            "3.5%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%"
+          ]
+        },
+        {
+          "label": "Stellar Swirl Ice Javelin Single Strike DMG",
+          "values": [
+            "55.1%",
+            "59.3%",
+            "63.4%",
+            "68.9%",
+            "73%",
+            "77.2%",
+            "82.7%",
+            "88.2%",
+            "93.7%",
+            "99.2%",
+            "104.7%",
+            "110.3%",
+            "117.2%",
+            "124%",
+            "130.9%"
+          ]
+        },
+        {
+          "label": "Stellar Swirl Frostglow DMG Bonus",
+          "values": [
+            "2.8%",
+            "3%",
+            "3.2%",
+            "3.4%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%",
+            "4.7%",
+            "5%",
+            "5.2%",
+            "5.5%",
+            "5.9%",
+            "6.2%",
+            "6.5%"
+          ]
+        },
+        {
+          "label": "No. of Strikes in Attack",
+          "values": [
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3"
+          ]
+        },
+        {
+          "label": "Additional Frostglow Attack Strikes at Stack Max",
+          "values": [
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2"
+          ]
+        },
+        {
+          "label": "CD",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Energy Cost",
+          "values": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 10127,
+      "id": "ice_fog_piercer",
+      "name": "Ice Fog Piercer",
+      "description": "Stabs at the opponent with the Traveler's weapon, which releases an ice-cold fog. This deals <span style=\"color:#99FFFFFF\">Cryo DMG</span> to opponents up ahead and forms a Frostpierce Star next to the Traveler.<br/><br/><span style=\"color:#FFD780FF\">Frostpierce Star</span><br/>· Follows your own party members around the field and periodically fires ice crystals at nearby opponents, dealing <span style=\"color:#99FFFFFF\">Cryo DMG</span>.<br/><span style=\"color:#FFD780FF\">Radiance: Stellar-Conduct</span>: The Frostpierce Star will no longer fire ice crystals at opponents at intervals but will instead fire an ice crystal at opponents in a coordinated attack when the Traveler hits an opponent with a Normal Attack, Charged Attack, or Plunging Attack. This effect can trigger once every 0.2s.<br/>· When an opponent is hit with an ice crystal, the Traveler gains 1 stack of <b><span style=\"color:#FFD780FF\">Frostglow</span></b> (max 8 stacks).<br/>· When not in combat, <span style=\"color:#FFD780FF\">Frostglow</span> expires after 30s.",
+      "info": "You observed the formation of frost together with Paimon.",
+      "attributes": [
+        {
+          "label": "Skill DMG",
+          "values": [
+            "91.7%",
+            "98.6%",
+            "105.4%",
+            "114.6%",
+            "121.5%",
+            "128.4%",
+            "137.5%",
+            "146.7%",
+            "155.9%",
+            "165%",
+            "174.2%",
+            "183.4%",
+            "194.8%",
+            "206.3%",
+            "217.7%"
+          ]
+        },
+        {
+          "label": "Ice Crystal DMG",
+          "values": [
+            "21.4%",
+            "23%",
+            "24.6%",
+            "26.7%",
+            "28.3%",
+            "29.9%",
+            "32.1%",
+            "34.2%",
+            "36.4%",
+            "38.5%",
+            "40.6%",
+            "42.8%",
+            "45.5%",
+            "48.1%",
+            "50.8%"
+          ]
+        },
+        {
+          "label": "Frostpierce Star Duration",
+          "values": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "label": "CD",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "everkeen_frost",
+      "name": "Ever-Keen Frost",
+      "description": "<span style=\"color:#FFD780FF\">Radiance: Stellar-Conduct</span>: When a <span style=\"color:#FFD780FF\">Frostpierce Star</span> is on the field, DMG from the Traveler's Normal Attacks, Charged Attacks, and Plunging Attacks are converted to <span style=\"color:#99FFFFFF\">Cryo DMG</span> that cannot be overridden by another elemental infusion, and DMG dealt is also increased by 80% of the Traveler's ATK.",
+      "level": 1
+    },
+    {
+      "id": "lucent_ice",
+      "name": "Lucent Ice",
+      "description": "The Traveler's Elemental Mastery is increased by 8% of their ATK. Up to 160 Elemental Mastery can be gained in this way.",
+      "level": 4
+    },
+    {
+      "id": "stellar_jubilee_illusory_frostmirror",
+      "name": "Stellar Jubilee: Illusory Frostmirror",
+      "description": "The Traveler will enter the <b><span style=\"color:#FFD780FF\">Radiance: Stellar-Conduct</span></b> state when inside a <span style=\"color:#FFD780FF\">Polestar Field</span>, or the <span style=\"color:#FFD780FF\">Radiance: Stellar Swirl</span> state for 8s after a nearby party member triggers a Stellar Swirl reaction.<br/>When a party member triggers a Superconduct or Cryo Swirl reaction, it becomes a Stellar-Conduct or Stellar Swirl reaction instead, and the Base DMG of said reaction is also increased by 0.35% for every 100 points of the Traveler's ATK. A maximum 7% increase can be obtained in this way.",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 81,
+      "id": "somber_freeze",
+      "name": "Somber Freeze",
+      "description": "The Traveler regenerates 5 Elemental Energy when they deal Stellar Glimmer DMG. This effect can trigger once every 0.5s.",
+      "level": 1
+    },
+    {
+      "_id": 82,
+      "id": "frostfall_reverberation",
+      "name": "Frostfall Reverberation",
+      "description": "The active character's Elemental Mastery is increased by 60 for 5s when an opponent is hit by an <span style=\"color:#FFD780FF\">ice crystal</span> fired by the Elemental Skill <color=#FFD780FF><b>Ice Fog Piercer</b></color>.<br/>Additionally, when a character affected by the aforementioned effect triggers a Stellar Glimmer reaction or deals Stellar Glimmer reaction DMG, the Elemental Mastery boost described above will be increased to 120 for its duration.",
+      "level": 2
+    },
+    {
+      "_id": 83,
+      "id": "glacial_shard",
+      "name": "Glacial Shard",
+      "description": "Increases the Level of the Elemental Burst <color=#FFD780FF><b>Frostbound Javelin</b></color> by 3.<br/>Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "_id": 84,
+      "id": "enduring_ice",
+      "name": "Enduring Ice",
+      "description": "The duration of the <span style=\"color:#FFD780FF\">Frostpierce Star</span> created by the Elemental Skill <color=#FFD780FF><b>Ice Fog Piercer</b></color> is increased by 25%.",
+      "level": 4
+    },
+    {
+      "_id": 85,
+      "id": "bittercold_fog",
+      "name": "Bittercold Fog",
+      "description": "Increases the Level of the Elemental Skill <color=#FFD780FF><b>Ice Fog Piercer</b></color> by 3.<br/>Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "_id": 86,
+      "id": "brumal_grimfrost",
+      "name": "Brumal Grimfrost",
+      "description": "Every stack of <b><span style=\"color:#FFD780FF\">Frostglow</span></b> consumed when using the Elemental Burst <color=#FFD780FF><b>Frostbound Javelin</b></color> increases Stellar Glimmer reaction DMG dealt by other party members by 5% for 15s. A maximum 40% increase can be obtained in this way.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "-",
+            "912"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "-",
+            "18"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "-",
+            "57"
+          ]
+        },
+        {
+          "label": "ATK%",
+          "values": [
+            "-",
+            "0.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "2342",
+            "3024"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "46",
+            "59"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "147",
+            "190"
+          ]
+        },
+        {
+          "label": "ATK%",
+          "values": [
+            "0.0%",
+            "0.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "4529",
+            "5013"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "88",
+            "98"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "284",
+            "315"
+          ]
+        },
+        {
+          "label": "ATK%",
+          "values": [
+            "0.0%",
+            "6.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104101,
+        "id": "brilliant_diamond_sliver",
+        "name": "Brilliant Diamond Sliver",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Windwheel Aster",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112005,
+        "id": "damaged_mask",
+        "name": "Damaged Mask",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "5766",
+            "6411"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "113",
+            "125"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "362",
+            "402"
+          ]
+        },
+        {
+          "label": "ATK%",
+          "values": [
+            "6.0%",
+            "12.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104102,
+        "id": "brilliant_diamond_fragment",
+        "name": "Brilliant Diamond Fragment",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Windwheel Aster",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112005,
+        "id": "damaged_mask",
+        "name": "Damaged Mask",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "7164",
+            "7648"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "140",
+            "149"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "450",
+            "480"
+          ]
+        },
+        {
+          "label": "ATK%",
+          "values": [
+            "12.0%",
+            "12.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104102,
+        "id": "brilliant_diamond_fragment",
+        "name": "Brilliant Diamond Fragment",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Windwheel Aster",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112006,
+        "id": "stained_mask",
+        "name": "Stained Mask",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "8401",
+            "8885"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "164",
+            "174"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "527",
+            "558"
+          ]
+        },
+        {
+          "label": "ATK%",
+          "values": [
+            "12.0%",
+            "18.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104103,
+        "id": "brilliant_diamond_chunk",
+        "name": "Brilliant Diamond Chunk",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Windwheel Aster",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112006,
+        "id": "stained_mask",
+        "name": "Stained Mask",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "9638",
+            "10122"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "188",
+            "198"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "605",
+            "635"
+          ]
+        },
+        {
+          "label": "ATK%",
+          "values": [
+            "18.0%",
+            "24.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104103,
+        "id": "brilliant_diamond_chunk",
+        "name": "Brilliant Diamond Chunk",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Windwheel Aster",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112007,
+        "id": "ominous_mask",
+        "name": "Ominous Mask",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "10875",
+            "10875"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "212",
+            "212"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "683",
+            "683"
+          ]
+        },
+        {
+          "label": "ATK%",
+          "values": [
+            "24.0%",
+            "24.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104104,
+        "id": "brilliant_diamond_gemstone",
+        "name": "Brilliant Diamond Gemstone",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Windwheel Aster",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112007,
+        "id": "ominous_mask",
+        "name": "Ominous Mask",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104365,
+          "id": "teachings_of_charity",
+          "name": "Teachings of Charity",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Chimeric Core",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guide to Fortitude",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiotic Chimeric Nucleus",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104372,
+          "id": "guide_to_glory",
+          "name": "Guide to Glory",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiotic Chimeric Nucleus",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guide to Charity",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiotic Chimeric Nucleus",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guide to Fortitude",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiotic Chimeric Nucleus",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104373,
+          "id": "philosophies_of_glory",
+          "name": "Philosophies of Glory",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Prime Chimeric Nexus",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Ascended Sample: Queen",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Philosophies of Charity",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Prime Chimeric Nexus",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Ascended Sample: Queen",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophies of Fortitude",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Prime Chimeric Nexus",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Ascended Sample: Queen",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104373,
+          "id": "philosophies_of_glory",
+          "name": "Philosophies of Glory",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Prime Chimeric Nexus",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Ascended Sample: Queen",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Crown of Insight",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 200701,
+      "name": "As Heaven and Earth Are Made Anew",
+      "description": "An outfit worn by the Traveler which has accompanied the twin \"stars\" in their journey through countless worlds. Despite this, they cannot yet cannot grasp the true purpose of the cosmos. Even so, surely every question posed brings them a little closer to the final answer.",
+      "isDefault": false,
+      "characterName": "Lumine",
+      "characterId": 10000007,
+      "source": [
+        "Complete the Archon Quest \"True Moon\" to obtain"
+      ],
+      "filename_card": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Card",
+      "filename_icon": "UI_AvatarIcon_PlayerGirlCostumeCWXR",
+      "filename_iconCircle": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Circle",
+      "filename_splash": "UI_Costume_PlayerGirlCostumeCWXR",
+      "filename_sideIcon": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR"
+    },
+    {
+      "id": 200700,
+      "name": "Rising Star",
+      "description": "The Traveler's outfit. A practical set of clothing to wear during a long journey.",
+      "isDefault": true,
+      "characterName": "Lumine",
+      "characterId": 10000007,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_PlayerGirl_Circle"
+    }
+  ]
+}

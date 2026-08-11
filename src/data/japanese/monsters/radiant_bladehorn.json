@@ -13,7 +13,6 @@
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_Magbeast_Rhino",
   "description": "長い間古き月の力に浸されて独特な生態へと進化した魔獣。\\nかつて境界の地が漆黒の影に覆われた時、巨大なサイの群れが走り回ることで、万物の流転する力を取り戻したという……それは月光に与えられた恩恵に対して彼らが行った、唯一の恩返しであった。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

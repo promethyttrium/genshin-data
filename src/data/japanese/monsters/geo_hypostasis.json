@@ -13,7 +13,6 @@
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Effigy_Rock",
   "description": "高純度の岩元素生命体、コードネーム「ギメル」。\\n無相元素は限界まで濃縮された構造体で、極めて高い質量を有している。\\n外部の元素殼は安定しているが、内部の元素コアはかなり活発である。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

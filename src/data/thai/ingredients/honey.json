@@ -1,0 +1,21 @@
+{
+  "_id": 110017,
+  "id": "honey",
+  "name": "Honey",
+  "description": "ของเหลวสีอำพันที่มีรสชาติหอมหวาน มีวางจำหน่ายตามร้านค้าตลอดทั้งปี สามารถนำมาใช้ทำเครื่องดื่มและซอส หรือจะใช้หมักเนื้อสัตว์ก็ได้",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Rimecurrant Ice Cream"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
+    }
+  ],
+  "source": [
+    "ซื้อจากร้านขายของชำ Snezhnaya"
+  ]
+}

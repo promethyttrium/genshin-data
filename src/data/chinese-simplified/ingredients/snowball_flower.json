@@ -1,0 +1,21 @@
+{
+  "_id": 101280,
+  "id": "snowball_flower",
+  "name": "雪球花",
+  "description": "花序接近球形的可爱花朵，雪落在花瓣上时，整朵花便会如同雪球一般。",
+  "recipes": [
+    {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "雪国冷汤"
+    },
+    {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "雪原上的雪球花"
+    }
+  ],
+  "source": [
+    "推荐：至冬采集"
+  ]
+}

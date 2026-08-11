@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_Mimik_Ice",
   "description": "神出鬼没な擬態植物の魔物。氷元素を利用して戦う。\\n土の中に隠れて獲物を獲る習性がある。時間と養分さえ足りれば、巨大な急凍樹になる可能性もある…",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

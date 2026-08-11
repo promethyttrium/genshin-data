@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Карты персонажей",
     "energy": 3,
+    "element": "Гидро",
+    "weapon": "Катализатор",
     "faction": [
-      null
+      "Мондштадт"
     ],
     "talent_card": {
       "_id": 3209,
@@ -29,8 +31,10 @@
     {
       "id": "whisper_of_water",
       "name": "Шёпот воды",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80C0FFFF\">Гидро урон</span>, 1 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "let_the_show_begin",
       "name": "Да начнётся шоу♪",
-      "desc": "Наносит ?, ? ед. и призывает помощника: <span style=\"color:#FFFFFFFF\">Кольцо мелодии</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80C0FFFF\">Гидро урон</span>, 1 ед. и призывает помощника: <span style=\"color:#FFFFFFFF\">Кольцо мелодии</span>.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -64,7 +70,9 @@
       "id": "shining_miracle",
       "name": "Чудесное сияние♪",
       "desc": "Восстанавливает 4 HP всем вашим персонажам.",
-      "skillTag": [],
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1102,

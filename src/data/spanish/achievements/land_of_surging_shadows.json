@@ -1,0 +1,130 @@
+{
+  "_id": 70,
+  "id": "land_of_surging_shadows",
+  "name": "La tierra de las sombras emergentes",
+  "order": 73,
+  "achievements": [
+    {
+      "id": 86059,
+      "name": "Restaurador de la tundra",
+      "desc": "Despeja 1 Dominio de las Sombras grande en las tierras heladas de Snezhnaya.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9056
+    },
+    {
+      "id": 86062,
+      "name": "Nos vemos en el Dominio de las Sombras",
+      "desc": "Completa un desafío de “Asalto desenfrenado”.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9059
+    },
+    {
+      "id": 86063,
+      "name": "Veterano del Dominio de las Sombras",
+      "desc": "Aumenta al máximo el nivel de análisis del Dominio de las Sombras.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9060
+    },
+    {
+      "id": 86066,
+      "name": "Rey de los derribos desenfrenados",
+      "desc": "Obtén 9 Medallas de asalto.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9063
+    },
+    {
+      "id": 86067,
+      "name": "Armero de la tundra (I)",
+      "desc": "Instala 1 accesorio en 1 arma de fuego.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9064
+    },
+    {
+      "id": 86068,
+      "name": "Armero de la tundra (II)",
+      "desc": "Instala 2 accesorios en 1 arma de fuego.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9065,
+      "preStage": 86067
+    },
+    {
+      "id": 86069,
+      "name": "Armero de la tundra (III)",
+      "desc": "Instala 4 accesorios en 1 arma de fuego.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9066,
+      "preStage": 86068
+    },
+    {
+      "id": 86071,
+      "name": "Tachanka",
+      "desc": "Instala 4 accesorios en cada una de las siguientes armas: Plata Albina de Satanaya, Disco Solar de Balsag y Trueno de Ashamez.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9068
+    },
+    {
+      "id": 86072,
+      "name": "Es mediodía...",
+      "desc": "Golpea consecutivamente los puntos débiles de los enemigos 5 veces en 30 s.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9069
+    },
+    {
+      "id": 86073,
+      "name": "¡Saluden a mi pequeño amigo!",
+      "desc": "Causa 5 Reacciones Elementales con el lanzagranadas en 30 s.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9070
+    },
+    {
+      "id": 86074,
+      "name": "Aquí no existe el apuntado con deslizamiento, señoritas",
+      "desc": "Derrota 20 enemigos mientras te deslizas.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9071
+    },
+    {
+      "id": 86075,
+      "name": "La jabalina de luz sagrada que nos une a todos",
+      "desc": "Obtén el fusil de asalto “Plata Albina de Satanaya”.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9072
+    },
+    {
+      "id": 86076,
+      "name": "Arte marcial: ¡lanzagranadas!",
+      "desc": "Obtén el lanzagranadas “Disco Solar de Balsag”.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9073
+    },
+    {
+      "id": 86077,
+      "name": "Atención, tormenta eléctrica creándose...",
+      "desc": "Obtén el fusil de asalto “Trueno de Ashamez”.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9074
+    },
+    {
+      "id": 86078,
+      "name": "500 gramos de amor",
+      "desc": "Obtén una Granada cristalina.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9075
+    }
+  ]
+}

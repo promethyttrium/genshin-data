@@ -1,0 +1,29 @@
+{
+  "_id": 114095,
+  "id": "the_frost_emperors_lament",
+  "name": "Lamento dell'Imperatore del gelo",
+  "description": "Era un dono che ella aveva preparato per il suo amico sul trono, nella notte in cui la verità si agitò come acque amare, sebbene lei non fosse più quella di un tempo.<br/>Entrambi sembravano comprendere che probabilmente non si sarebbero mai più parlati in quel modo.<br/>Poiché, dopo quella notte, il sentiero che avevano percorso insieme si biforcò, spaccato dalla debolezza dell'uno e dalla collera dell'altra.",
+  "source": [
+    "Segnaposto - Quantità realizzabile: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114094,
+        "id": "the_frost_emperors_ceremony",
+        "name": "Cerimonia dell'Imperatore del gelo",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio della forgiatura: Cicatrici di un'ossessione maledetta",
+  "days": [
+    "Mercoledì",
+    "Sabato",
+    "Domenica"
+  ]
+}

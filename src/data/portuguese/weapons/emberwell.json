@@ -1,0 +1,328 @@
+{
+  "_id": 11436,
+  "id": "emberwell",
+  "name": "Fonte da Ignição",
+  "description": "Uma espada longa feita de gemas, dizem que foi feita para o caminho da justiça. Quando desembainhada, brilha como uma chama azul.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Espada"
+  },
+  "domain": "Domínio da Forja: Cicatrizes da Obsessão Maldita",
+  "passive": "Fogo Estelar sobre as Planícies Nevadas",
+  "bonus": "Nos 12s após desencadear uma reação Elemental, aumenta o ATQ do portador em <span>16%/20%/24%/28%/32%</span>. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o Dano de reações de Brilho Estelar do portador em <span>16%/20%/24%/28%/32%</span>. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo.",
+  "specialProp": "Proficiência Elemental",
+  "stats": {
+    "primary": "ATQ Básico",
+    "secondary": "Proficiência Elemental",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 42,
+        "secondary": 36
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 109,
+        "secondary": 64
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 135,
+        "secondary": 64
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 205,
+        "secondary": 93
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 231,
+        "secondary": 93
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 266,
+        "secondary": 107
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 292,
+        "secondary": 107
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 327,
+        "secondary": 122
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 353,
+        "secondary": 122
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 388,
+        "secondary": 136
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 414,
+        "secondary": 136
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 449,
+        "secondary": 151
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 475,
+        "secondary": 151
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 510,
+        "secondary": 165
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114085,
+          "id": "rise_of_the_pale_star_army",
+          "name": "Ascensão do Exército da Estrela Azul",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112152,
+          "id": "accreted_fragment",
+          "name": "Fragmento de Acreção",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "Granizo Etéreo",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114086,
+          "id": "muster_of_the_pale_star_army",
+          "name": "Reunião do Exército da Estrela Azul",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112152,
+          "id": "accreted_fragment",
+          "name": "Fragmento de Acreção",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "Granizo Etéreo",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114086,
+          "id": "muster_of_the_pale_star_army",
+          "name": "Reunião do Exército da Estrela Azul",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112153,
+          "id": "accreted_mass",
+          "name": "Massa de Acreção",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Cristal Etéreo",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114087,
+          "id": "clarion_of_the_pale_star_army",
+          "name": "Clarim do Exército da Estrela Azul",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112153,
+          "id": "accreted_mass",
+          "name": "Massa de Acreção",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Cristal Etéreo",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114087,
+          "id": "clarion_of_the_pale_star_army",
+          "name": "Clarim do Exército da Estrela Azul",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112154,
+          "id": "accreted_growth",
+          "name": "Amplificação de Acreção",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Escama Cristalina Etérea",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114088,
+          "id": "triumph_of_the_pale_star_army",
+          "name": "Triunfo do Exército da Estrela Azul",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112154,
+          "id": "accreted_growth",
+          "name": "Amplificação de Acreção",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Escama Cristalina Etérea",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "Fogo Estelar sobre as Planícies Nevadas",
+    "template": "Nos 12s após desencadear uma reação Elemental, aumenta o ATQ do portador em <span style=\"color:#99FFFFFF\">{0}</span>. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o Dano de reações de Brilho Estelar do portador em <span style=\"color:#99FFFFFF\">{1}</span>. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo.",
+    "params": [
+      [
+        "16%",
+        "16%"
+      ],
+      [
+        "20%",
+        "20%"
+      ],
+      [
+        "24%",
+        "24%"
+      ],
+      [
+        "28%",
+        "28%"
+      ],
+      [
+        "32%",
+        "32%"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "Nos 12s após desencadear uma reação Elemental, aumenta o ATQ do portador em <span>16%</span>. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o Dano de reações de Brilho Estelar do portador em <span>16%</span>. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo."
+    },
+    {
+      "refinement": 2,
+      "desc": "Nos 12s após desencadear uma reação Elemental, aumenta o ATQ do portador em <span>20%</span>. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o Dano de reações de Brilho Estelar do portador em <span>20%</span>. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo."
+    },
+    {
+      "refinement": 3,
+      "desc": "Nos 12s após desencadear uma reação Elemental, aumenta o ATQ do portador em <span>24%</span>. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o Dano de reações de Brilho Estelar do portador em <span>24%</span>. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo."
+    },
+    {
+      "refinement": 4,
+      "desc": "Nos 12s após desencadear uma reação Elemental, aumenta o ATQ do portador em <span>28%</span>. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o Dano de reações de Brilho Estelar do portador em <span>28%</span>. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo."
+    },
+    {
+      "refinement": 5,
+      "desc": "Nos 12s após desencadear uma reação Elemental, aumenta o ATQ do portador em <span>32%</span>. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o Dano de reações de Brilho Estelar do portador em <span>32%</span>. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo."
+    }
+  ]
+}

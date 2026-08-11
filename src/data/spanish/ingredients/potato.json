@@ -55,6 +55,11 @@
       "name": "Lohikeitto"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borsch"
+    },
+    {
       "_id": 3007,
       "id": "mondstadt_hash_brown",
       "name": "Tortilla de papas de Mondstadt"
@@ -135,6 +140,11 @@
       "name": "Costillas al abedul"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
       "_id": 4402,
       "id": "haggis",
       "name": "Haggis"
@@ -142,6 +152,5 @@
   ],
   "source": [
     "Comprado en tiendas"
-  ],
-  "rarity": 0
+  ]
 }

@@ -1,0 +1,13 @@
+{
+  "_id": 70800040,
+  "id": "faes_hidden_settlement",
+  "name": "ถิ่นฐานของเหล่าภูตตัวน้อย",
+  "areaName": "ยอดเขาเหมันต์มรณะ",
+  "areaId": 80300,
+  "description": "ว่ากันว่าหากมองเห็นก้อนหิมะที่กลิ้งไปมาไม่หยุดบนทุ่งหิมะ ให้ลองตามมันไป แล้วก็จะมาถึงสถานที่แห่งนี้",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 640,
+  "filename_image": "UI_Codex_Scenery_ZDShuangJingCun",
+  "showOnlyUnlocked": true
+}

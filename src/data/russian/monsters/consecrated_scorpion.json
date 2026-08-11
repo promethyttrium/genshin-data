@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Scorpion_Sacred_Electric",
   "description": "Членистоногое, изменившееся после поглощения останков могущественных существ.\\nРазвитие жизненных форм подчиняется законам эволюции, и эти законы милостивы к тем священным хищникам, кому повезло обнаружить останки могущественных существ раньше конкурентов. Животные куда больше похожи на людей, чем последние готовы признать.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

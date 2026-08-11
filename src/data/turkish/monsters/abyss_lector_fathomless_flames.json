@@ -1,7 +1,7 @@
 {
   "_id": 22030201,
   "id": "abyss_lector_fathomless_flames",
-  "monsterId": 22030202,
+  "monsterId": 84203022,
   "name": "Hiçlik Vaizi: Derin Alevler",
   "specialNames": [
     "Alberthonar",
@@ -22,9 +22,8 @@
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_Invoker_Deacon_Fire",
   "description": "Yazıların ve kutsal metinlerin ardındaki manayı araştıran hiçlik ateşinin müritleri. Hiçlik Tarikatının üyeleridir.\\nYüzeydeki insanlar, adlarının taşıdığı anlamı bir nebze çarpıtıp onlara \"Vaiz\" diye hitap eder ama bu ad \"müfessir\" anlamına da gelebilir. İmanları onlara büyük güç verir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

@@ -1,0 +1,40 @@
+{
+  "_id": 25138001,
+  "id": "juvenile_tree_segment",
+  "monsterId": 25138003,
+  "name": "Juvenile Tree Segment",
+  "specialNames": [
+    "Rugged Elder Leshy"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystical Beasts",
+  "filename_icon": "UI_MonsterIcon_Leshy_Normal_01",
+  "description": "A Leshy that grows in forests and wilds.\\nAmong the many fae of Snezhnaya, Leshies are a very unusual kind, rarely appearing in cities. They may well be the longest-lived among all fae, and few members of other long-lived races have ever witnessed a Leshy's life from beginning to end. Of course, most people would likely struggle even to distinguish one Leshy from another.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.2,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -9,9 +9,11 @@
     "hp": 8,
     "card_type": "角色牌",
     "energy": 2,
+    "element": "岩元素",
+    "weapon": "其他武器",
     "faction": [
-      null,
-      null
+      "魔物",
+      "丘丘人"
     ],
     "talent_card": {
       "_id": 3239,
@@ -28,8 +30,10 @@
     {
       "id": "plama_lawa",
       "name": "Plama Lawa",
-      "desc": "造成?点?。",
-      "skillTag": [],
+      "desc": "造成2点?。",
+      "skillTag": [
+        "普通攻击"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -48,8 +52,10 @@
     {
       "id": "movo_lawa",
       "name": "Movo Lawa",
-      "desc": "造成?点?。",
-      "skillTag": [],
+      "desc": "造成3点?。",
+      "skillTag": [
+        "元素战技"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -62,8 +68,10 @@
     {
       "id": "upa_shato",
       "name": "Upa Shato",
-      "desc": "造成?点?。",
-      "skillTag": [],
+      "desc": "造成5点?。",
+      "skillTag": [
+        "元素爆发"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -83,7 +91,9 @@
       "id": "infused_stonehide",
       "name": "魔化：岩盔",
       "desc": "【被动】战斗开始时，初始附属<span style=\"color:#FFFFFFFF\">岩盔</span>和<span style=\"color:#FFFFFFFF\">坚岩之力</span>。",
-      "skillTag": [],
+      "skillTag": [
+        "被动技能"
+      ],
       "points": []
     }
   ]

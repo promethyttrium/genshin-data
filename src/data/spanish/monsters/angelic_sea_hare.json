@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Aplysia_Larva_02",
   "description": "Una criatura acuática que caza gracias a los proyectiles que lanza.\\nDesde el punto de vista evolutivo, los Engendros Fontamarinos son meras criaturas marinas que han evolucionado debido a las particulares condiciones del entorno natural de Fontaine. Ese es el motivo de que, en algún momento del pasado, los Engendros Fontamarinos guardaran un gran parecido con el resto de las criaturas marinas de Teyvat.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 13.49,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

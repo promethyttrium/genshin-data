@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Human_Female_Sword_Hookwalker",
   "description": "Dũng sĩ đến từ Vườn Treo, người bảo vệ bộ tộc tuần tra ở khu vực thung lũng suối rừng.\\nSo với chiến sĩ của các bộ tộc khác, thì những chiến sĩ luôn lượn quanh núi rừng với dây móc sẽ càng nhạy cảm với môi trường xung quanh hơn, và luôn nghĩ cách dùng những đòn tấn công bất ngờ để đánh bại đối thủ.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 12,
   "stats": {

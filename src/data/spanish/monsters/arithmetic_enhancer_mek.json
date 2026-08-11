@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Autómatas",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
   "description": "Un Mecabot diseñado con el propósito de repetir y amplificar el alcance de las señales.\\nEsta máquina es capaz de moverse gracias al flujo de energía producido por las constantes reacciones de control y destrucción que llevan a cabo la ousía y la pneuma dentro de su núcleo interno, un equilibrio que se puede ver alterado si se libera un exceso de energía.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

@@ -43,7 +43,6 @@
   "categoryText": "Dağ Yabanileri",
   "filename_icon": "UI_MonsterIcon_Brute_None_01",
   "description": "Çift elli baltalar kuşanmış kaslı dağ yabanileri.\\nGüçlü vuruşlarla saldırırlar ve baltalarını Ateş elementiyle yüklemek için Ateş Bodurlopları kullanırlar. Bu dağ yabanileri son derece ölümcüldür.\\nGenellikle bir silahı, Alev Baltalı Dağ Azmanı misali art arda savurmak metali aşındırıp balta başının kenarlarının çabucak soyulmasına neden olur. Muazzam güçlü dağ azmanları, bu kenarların tamamen yok olması halinde baltaya farklı bir işlev kazandırıp bu sefer de çekiç niyetine kullanabilir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

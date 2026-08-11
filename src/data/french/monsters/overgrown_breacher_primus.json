@@ -13,7 +13,6 @@
   "categoryText": "Ordre de l'Abîme",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_02",
   "description": "Une forme de vie étrange qui apparaît principalement près d'Elynas.\\nLes premières observations enregistrées d'un Primus briseur à Fontaine apparaissent peu de temps après le cataclysme. Les archives de l'époque montrent des exemples de Primus briseurs attaquant et protégeant les humains.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

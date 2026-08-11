@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Einhänder",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3712,
@@ -29,8 +31,10 @@
     {
       "id": "kamisato_art_marobashi",
       "name": "Kamisato-Stil – Marobashi",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "kamisato_art_kyouka",
       "name": "Kamisato-Stil – Kyouka",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erhält selbst <span style=\"color:#FFFFFFFF\">Takimeguri Kanka</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. <span style=\"color:#80C0FFFF\">Hydro-SCH</span>, erhält selbst <span style=\"color:#FFFFFFFF\">Takimeguri Kanka</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "kamisato_art_suiyuu",
       "name": "Kamisato-Stil – Suiyuu",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 1 <span style=\"color:#FFFFFFFF\">Garten der Reinheit</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#80C0FFFF\">Hydro-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Garten der Reinheit</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1102,

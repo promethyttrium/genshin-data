@@ -1,0 +1,39 @@
+{
+  "_id": 26310401,
+  "id": "chimeric_horned_bear",
+  "monsterId": 26310402,
+  "name": "Рогатая химера-медведь",
+  "specialNames": [
+    "Рогатая химера-медведь"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Мистические звери",
+  "filename_icon": "UI_MonsterIcon_Chimera_BearDeer",
+  "description": "Продукт биоалхимии. Химера весьма необычной формы.\\nОна возникла не по замыслу создателя, а самостоятельно сформировалась из фрагментов живой материи, благодаря чему обрела даже способность свободно управлять силой стихий.\\nНеужели даже жизнь, раздробленная почти до отдельных фрагментов, продолжает следовать некой воле и великой силе, заставляющей её расти по загадочному замыслу?\\nВозможно, сегодня ответа на этот вопрос уже не знает никто.",
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 27.431341,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

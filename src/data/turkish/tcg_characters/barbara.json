@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Karakter Kartı",
     "energy": 3,
+    "element": "Su",
+    "weapon": "Katalizör",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3209,
@@ -29,8 +31,10 @@
     {
       "id": "whisper_of_water",
       "name": "Suyun Fısıltısı",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "let_the_show_begin",
       "name": "Gösteri Başlasın♪",
-      "desc": "? ? verir ve 1 <span style=\"color:#FFFFFFFF\">Melodi Döngüsü</span> çağırır.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir ve 1 <span style=\"color:#FFFFFFFF\">Melodi Döngüsü</span> çağırır.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -64,7 +70,9 @@
       "id": "shining_miracle",
       "name": "Parlayan Mucize♪",
       "desc": "Tüm karakterlerine 4 Can yeniler.",
-      "skillTag": [],
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1102,

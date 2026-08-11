@@ -25,19 +25,19 @@
       "_id": 112097,
       "id": "chasmlight_fin",
       "name": "Aleta luzabisal",
-      "count": 0.2626
+      "count": 0.262
     },
     {
       "_id": 112096,
       "id": "lunar_fin",
       "name": "Aleta lunar",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112095,
       "id": "feathery_fin",
       "name": "Aleta emplumada",
-      "count": 3.9394
+      "count": 3.939
     },
     {
       "_id": 400023,
@@ -83,13 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Striped",
   "description": "Una feroz bestia que vive en las montañas del Valle Chenyu y cuyo rasgo más destacable son los patrones de su piel, conocidos como “xuanwen”.\\nSegún el folclore de la región, en el pasado, estas bestias fueron familiares de los Adeptus, a quienes protegieron y ayudaron a acabar con el mal. Sin embargo, tras la muerte de muchos Adeptus, se transformaron en bestias agresivas. De acuerdo con una leyenda cuya veracidad ya no se puede comprobar, los Adeptus tenían muchas identidades distintas, pero lo único universal era que, por seguridad, no era aconsejable acercarse impulsivamente a estos seres de irascible temperamento.\\nTras varios milenios de imparable actividad humana, el hábitat original de las Bestias Xuanwen se ha reducido cada vez más, de manera que a día de hoy solo se las puede ver en las solitarias montañas del Valle Chenyu.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 4,
   "stats": {
     "resistance": {

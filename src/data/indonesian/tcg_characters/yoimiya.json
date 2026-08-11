@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 3,
+    "element": "Pyro",
+    "weapon": "Bow",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3228,
@@ -29,8 +31,10 @@
     {
       "id": "firework_flareup",
       "name": "Firework Flare-Up",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,7 +54,9 @@
       "id": "niwabi_firedance",
       "name": "Niwabi Fire-Dance",
       "desc": "Karakter ini memperoleh status <span style=\"color:#FFFFFFFF\">Niwabi Enshou</span>. (Skill ini tidak memberikan Energy)",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "ryuukin_saxifrage",
       "name": "Ryuukin Saxifrage",
-      "desc": "Mengakibatkan ? poin ? dan menciptakan <span style=\"color:#FFFFFFFF\">Aurous Blaze</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#FF9999FF\">Pyro DMG</span> dan menciptakan <span style=\"color:#FFFFFFFF\">Aurous Blaze</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1103,

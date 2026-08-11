@@ -13,7 +13,6 @@
   "categoryText": "Abisso",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_02",
   "description": "Una strana forma di vita che si trova principalmente a Elynas.\\nA Fontaine, il primo avvistamento documentato di un Primoplastus della Faglia risale a poco dopo il cataclisma. I documenti del tempo mostrano casi di Primoplasti della Faglia sia ostili che amichevoli nei confronti degli umani.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

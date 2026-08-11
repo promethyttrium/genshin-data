@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_MantaRay_Larva_02",
   "description": "能夠釋放水刃的鰩魚。\\n在原海異種中，存在著詭譎的「異色」生物。據說這種異色體並不是生物，而是海洋中未曾經受肉身誕生，不曾吞下餌食的靈魂，會向原海所認同之人或是駕馭原海之人施以祝福。當然對自然哲學更有研究與心得的人是不會認同這種毫無依據的說法的。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 65.15,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

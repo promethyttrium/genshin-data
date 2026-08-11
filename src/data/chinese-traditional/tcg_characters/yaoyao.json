@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "角色牌",
     "energy": 2,
+    "element": "草元素",
+    "weapon": "長柄武器",
     "faction": [
-      null
+      "璃月"
     ],
     "talent_card": {
       "_id": 4369,
@@ -29,8 +31,10 @@
     {
       "id": "toss_n_turn_spear",
       "name": "顛撲連環槍",
-      "desc": "造成?點?。",
-      "skillTag": [],
+      "desc": "造成2點?。",
+      "skillTag": [
+        "普通攻擊"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -50,7 +54,9 @@
       "id": "raphanus_sky_cluster",
       "name": "雲臺團團降蘆菔",
       "desc": "召喚<span style=\"color:#FFFFFFFF\">月桂·拋擲型</span>。",
-      "skillTag": [],
+      "skillTag": [
+        "元素戰技"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "moonjade_descent",
       "name": "玉顆珊珊月中落",
-      "desc": "造成?點?，生成<span style=\"color:#FFFFFFFF\">桂子仙機</span>。",
-      "skillTag": [],
+      "desc": "造成1點<span style=\"color:#7EC236FF\">草元素傷害</span>，生成<span style=\"color:#FFFFFFFF\">桂子仙機</span>。",
+      "skillTag": [
+        "元素爆發"
+      ],
       "points": [
         {
           "_id": 1107,

@@ -1,0 +1,26 @@
+{
+  "_id": 101278,
+  "id": "red_beet",
+  "name": "Củ Dền Đỏ",
+  "description": "Loài thực vật thân thảo có thể sinh trưởng ngay cả trong lớp đất đóng băng lạnh giá. Để có thể sinh tồn trong môi trường khắc nghiệt, chúng đã mọc ra phần rễ củ phình to.",
+  "recipes": [
+    {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Súp Củ Dền"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Shashlik Snezhnaya"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Viên Kem Ngọt Ngào"
+    }
+  ],
+  "source": [
+    "Đề xuất: Thu thập ở Snezhnaya"
+  ]
+}

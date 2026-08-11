@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "การ์ดตัวละคร",
     "energy": 3,
+    "element": "ธาตุไฟ",
+    "weapon": "ดาบใหญ่",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3231,
@@ -29,8 +31,10 @@
     {
       "id": "tempered_sword",
       "name": "Tempered Sword",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง? 2 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,8 +53,10 @@
     {
       "id": "searing_onslaught",
       "name": "Searing Onslaught",
-      "desc": "สร้าง? ? หน่วย โดยที่ในแต่ละเทิร์น เมื่อใช้สกิลนี้เป็นครั้งที่สาม ความเสียหาย +2",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#FF9999FF\">ความเสียหายไฟ</span> 3 หน่วย โดยที่ในแต่ละเทิร์น เมื่อใช้สกิลนี้เป็นครั้งที่สาม ความเสียหาย +2",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "dawn",
       "name": "Dawn",
-      "desc": "สร้าง? ? หน่วย และตัวละครนี้จะได้รับ <span style=\"color:#FFFFFFFF\">Pyro Infusion</span>",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#FF9999FF\">ความเสียหายไฟ</span> 8 หน่วย และตัวละครนี้จะได้รับ <span style=\"color:#FFFFFFFF\">Pyro Infusion</span>",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1103,

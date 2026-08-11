@@ -549,7 +549,7 @@
     {
       "id": "someone_more_capable",
       "name": "Ứng Cử Viên Phù Hợp Hơn",
-      "description": "Khi Sayu kích hoạt phản ứng khuếch tán trong trận, sẽ hồi 300 HP cho nhân vật phe bạn gần đó và nhân vật của bản thân. Ngoài ra, mỗi điểm Tinh Thông Nguyên Tố của Sayu sẽ hồi thêm 1.2 HP.<br/>Hiệu quả này mỗi 2s chỉ kích hoạt 1 lần.",
+      "description": "Khi Sayu kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán trong trận, sẽ hồi 300 HP cho nhân vật phe bạn gần đó và nhân vật của bản thân. Ngoài ra, mỗi điểm Tinh Thông Nguyên Tố của Sayu sẽ hồi thêm 1.2 HP.<br/>Hiệu quả này mỗi 2s chỉ kích hoạt 1 lần.",
       "level": 1
     },
     {
@@ -591,7 +591,7 @@
       "_id": 534,
       "id": "skiving_new_and_improved",
       "name": "Cách Lười Biếng Mới Mẻ",
-      "description": "Khi Sayu kích hoạt phản ứng khuếch tán trong trận sẽ hồi 1.2 Năng Lượng Nguyên Tố.<br/>Hiệu quả này mỗi 2s chỉ kích hoạt 1 lần.",
+      "description": "Khi Sayu trong trận kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán sẽ hồi phục 1.2 điểm Năng Lượng Nguyên Tố.<br/>Hiệu quả này mỗi 2s chỉ kích hoạt một lần.",
       "level": 4
     },
     {

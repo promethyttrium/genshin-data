@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Hookwalker_Normal",
   "description": "Güçlü arka ayakları ve pofuduk kuyruğu olan bir Sürüngen. Yanak keselerinde bulunan Alev Narı Pektinini tükürerek uzaktaki nesnelerin etrafını sarabilir.\\nEfsanelere göre ilk Yumkazorlar bugünkünden epey farklıymış. Çok daha küçüklermiş, hatta o kadar küçüklermiş ki gözle görmek bile zormuş. Rüzgarda özgürce dolaşabilir, devasa ejderhaların bedenine tutunabilir veya bir araya gelerek bulutlar gibi hareket edebilirlermiş. Ancak yetenekleri zayıfladıktan sonra varlıklarını sürdürebilmeleri için şu anki görünümlerini almaktan başka çareleri kalmamış.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 4,
   "stats": {
     "resistance": {

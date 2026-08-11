@@ -14,14 +14,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurls",
   "filename_icon": "UI_MonsterIcon_Shaman_Wind_01",
   "description": "A wizened, mumbling hilichurl, one that spreads the message of Anemo.\\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. Their ability to command the flowing winds stems from dark, forgotten memories.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

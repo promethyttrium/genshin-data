@@ -1,0 +1,24 @@
+{
+  "_id": 112156,
+  "id": "sprout_node_of_life",
+  "name": "Bourgeon de vie",
+  "description": "Portant de nombreux cristaux, cette branche est lourde en main. On y perçoit encore des traces de vitalité, même après qu'elle se soit détachée du corps du leshy.",
+  "source": [
+    "Butin de Leshy sauvage (Niv.40+)",
+    "Échange Astrions",
+    "Emplacement réservé - Quantité synthétisable : {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112155,
+        "id": "hollow_root_of_life",
+        "name": "Racine creuse de vie",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

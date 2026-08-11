@@ -190,7 +190,7 @@
       "_id": 11322,
       "id": "ringadingding_hexhunter_chime",
       "name": "Ring-A-Ding-Ding! Hexhunter Chime",
-      "description": "Unleash the wind's might to defeat the evil witch and save Descartes! Prune strikes the Witchlure Bell with her Banehunter Oathhammer, dealing <span style=\"color:#80FFD7FF\">Anemo DMG</span>.<br/>If Prune triggers Swirl on an opponent using this attack, <span style=\"color:#FFD780FF\">Ring-A-Ding-Ding! Hexhunter Chime</span> will be changed to <span style=\"color:#FFD780FF\">Clang Clang! Witch-tribution Comes!</span> for the next 6s.<br/><br/><span style=\"color:#FFD780FF\">Clang Clang! Witch-tribution Comes!</span><br/>Prune's hammer is now enshrouded by the element involved in the previous Swirl reaction, causing <b><span style=\"color:#FFD780FF\">Banehunter Oathhammer</span></b> to undergo Elemental Conversion. When activated with a Press, Prune will leap up and kick the Banehunter Oathhammer forward, dealing Elemental DMG of the corresponding type to opponents in front of her.",
+      "description": "Determined to take down the \"evil\" witch and save her beloved Descartes, Prune unleashes the power of the wind! She strikes at the Witchlure Bell using her Banehunter Oathhammer, dealing <span style=\"color:#80FFD7FF\">Anemo DMG</span>.<br/>If Prune triggers a Swirl or Stellar Swirl reaction in the opponent with this attack, her <span style=\"color:#FFD780FF\">Ring-A-Ding-Ding! Hexhunter Chime</span> is changed to <span style=\"color:#FFD780FF\">Clang Clang! Witch-tribution Comes!</span> for the next 6s.<br/><br/><span style=\"color:#FFD780FF\">Clang Clang! Witch-tribution Comes!</span><br/>Ensconces the <b><span style=\"color:#FFD780FF\">Banehunter Oathhammer</span></b> in the element involved in the earlier Swirl or Stellar Swirl reaction. After tapping to unleash, Prune will launch a midair kick at the Banehunter Oathhammer, dealing DMG to opponents in front of her of the corresponding elemental type.",
       "info": "",
       "attributes": [
         {
@@ -369,7 +369,7 @@
     {
       "id": "verdict_and_punishment",
       "name": "Verdict and Punishment",
-      "description": "During the Elemental Burst <color=#FFD780FF><b>The Bell Tolls! The Hunt Is On!</b></color>, after the Witchlure Bell in Hunter-Seeker mode deals DMG to an opponent, if this DMG triggers Swirl on an opponent, it will also summon a <b><span style=\"color:#FFD780FF\">Banehunter Oathhammer</span></b> that will deal 150% of Prune's ATK as DMG to them, with the DMG Type matching the Elemental Conversion from the Swirl. This DMG is considered Elemental Burst DMG.",
+      "description": "During the Elemental Burst <color=#FFD780FF><b>The Bell Tolls! The Hunt Is On!</b></color>, after the Witchlure Bell in Hunter-Seeker mode deals DMG to an opponent, if this DMG triggers Swirl or Stellar Swirl in an opponent, it will also summon a <b><span style=\"color:#FFD780FF\">Banehunter Oathhammer</span></b> that will deal 150% of Prune's ATK as DMG to them, with the DMG Type matching the Elemental Conversion from the Swirl or Stellar Swirl. This DMG is considered Elemental Burst DMG.",
       "level": 1
     },
     {

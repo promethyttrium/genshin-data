@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Geo",
+    "weapon": "Bogen",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 4764,
@@ -29,8 +31,10 @@
     {
       "id": "ripping_fang_fletching",
       "name": "Gefletschte Zähne",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -49,8 +53,10 @@
     {
       "id": "inuzaka_allround_defense",
       "name": "Inuzuka-Allzweckaufstellung",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 1 <span style=\"color:#FFFFFFFF\">Generalbanner</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. <span style=\"color:#FFE699FF\">Geo-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Generalbanner</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -63,8 +69,10 @@
     {
       "id": "juuga_forward_unto_victory",
       "name": "Juuga – Vorwärts zum Sieg",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 1 <span style=\"color:#FFFFFFFF\">Generalbanner</span> und 1 <span style=\"color:#FFFFFFFF\">Würde des Generals</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. <span style=\"color:#FFE699FF\">Geo-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Generalbanner</span> und 1 <span style=\"color:#FFFFFFFF\">Würde des Generals</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1106,

@@ -14,7 +14,6 @@
   "filename_icon": "UI_MonsterIcon_WildHunt_Elite",
   "description": "Ein Ghul, der die eisige Wildnis heimsucht. Wo er auftaucht, wird das Land in pechschwarzen Nebel getaucht und man sagt, dass sein Auftauchen von herannahendem Unheil verkünde.\\nSo viele große Helden eines verlorenen Königreichs liegen in den eisigen Nordlanden begraben. Obwohl die Überbleibsel der Vergangenheit längst in den Wirren der Geschichte verloren gegangen sind, verteidigen diese edlen Geister auch weiterhin ihre goldene Heimat. Erweckt durch die Verseuchung des Abgrunds, machen diese Krieger nun unerbittlich Jagd auf jeden, der es wagt, sich ihnen in den Weg zu stellen.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

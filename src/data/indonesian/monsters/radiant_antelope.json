@@ -13,7 +13,6 @@
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Magbeast_Argali",
   "description": "Monster yang telah berevolusi menjadi ekosistem unik karena terendam jangka panjang dalam kekuatan bulan purba.\\nGuntur aneh pernah jatuh di tanah yang disinari cahaya bulan, dan rusa aneh yang awalnya lemah juga akhirnya memperoleh kemampuan untuk mengendalikan guntur dan kilat. Konon, seseorang pernah menyaksikan rusa aneh itu berdiri di tepi tebing tempat badai berkumpul. Monster itu menarik guntur dan kilat untuk meredam dirinya sendiri.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

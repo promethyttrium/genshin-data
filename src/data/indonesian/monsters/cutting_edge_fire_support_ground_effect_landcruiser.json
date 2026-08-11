@@ -1,7 +1,7 @@
 {
   "_id": 23085301,
   "id": "cutting_edge_fire_support_ground_effect_landcruiser",
-  "monsterId": 23085304,
+  "monsterId": 23085306,
   "name": "Cutting Edge Fire Support Ground Effect Landcruiser",
   "specialNames": [
     "Cutting Edge Fire Support Ground Effect"
@@ -13,7 +13,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuimecha_CoreC_MoveF_AttackB_Fire",
   "description": "Landcruiser elit yang menyeimbangkan teknologi mutakhir, biaya produksi, dan kecepatan pengiriman, juga memberikan daya tembus yang kuat pada rangkaian pertempuran, merupakan titik tumpu penting di garis depan.\\nSetelah dilengkapi dengan mesin jet berkekuatan tinggi, Ground Effect Landcruiser jenis ini memiliki kemampuan untuk menggunakan lebih dari satu senjata api, dan dapat menembakkan kekuatan api yang lumayan ke setiap bagian di garis depan secara tepat waktu. Oleh karena itu, dalam Kekuatan Reaksi Cepat yang disusun bersama oleh Fatui dan Akademi Militer Kerajaan, mereka harus diorganisir secara terpisah sebagai \"Angkatan Reaksi Cepat\" dalam operasi skala besar untuk mencegah terobosan atau serangan balik musuh untuk terus memanfaatkan keunggulan saat situasi sedang menguntungkan. Tentu saja, semua Landcruiser mutakhir memiliki kemampuan untuk melakukan tugasnya secara independen. Dalam operasi jangka panjang, mereka dapat membentuk skuad skala kecil dan memaksimalkan kekuatan tempur berbagai angkatan Fatui ....",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

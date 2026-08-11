@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人类势力",
   "filename_icon": "UI_MonsterIcon_Human_Female_Sword_Shamansaurus",
   "description": "来自谜烟之内的勇士，在漫霾峡谷巡游的部族守卫者。\\n能够借由身上油彩涂鸦的力量，一定程度地凭借意念操控手中的武器进行攻击。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

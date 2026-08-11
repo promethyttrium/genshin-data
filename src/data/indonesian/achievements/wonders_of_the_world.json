@@ -278,8 +278,8 @@
     },
     {
       "id": 81032,
-      "name": "QUEST GAGAL",
-      "desc": "Kehilangan jejak Bounty",
+      "name": "QUEST FAILED  OR ...",
+      "desc": "Kehilangan target di Bounty atau tidak perlu memburu target Bounty lagi ....",
       "reward": 5,
       "hidden": true,
       "order": 1033
@@ -4641,6 +4641,214 @@
       "order": 1699
     },
     {
+      "id": 81700,
+      "name": "Tak Berkedip Mataku Melihat Keindahanmu",
+      "desc": "Berhenti sejenak untuk menikmati keindahan pohon birch putih dan Istana yang Terkubur Salju.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1700
+    },
+    {
+      "id": 81701,
+      "name": "Transcender dari Bangsa Esok Hari",
+      "desc": "Kumpulkan semua relik yang ditinggalkan oleh seseorang di Pale Crown Palace.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1701
+    },
+    {
+      "id": 81702,
+      "name": "Efek Gabungan",
+      "desc": "Gulirkan bola salju terbesar.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1702
+    },
+    {
+      "id": 81703,
+      "name": "Lonceng Pernikahan",
+      "desc": "Bunyikan lonceng yang sudah tidak berbunyi lagi.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1703
+    },
+    {
+      "id": 81704,
+      "name": "Untuk Siapa Loncengnya Berbunyi",
+      "desc": "Buat lonceng yang tak terikat itu berbunyi sekali lagi.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1704
+    },
+    {
+      "id": 81705,
+      "name": "Ilusi dari Cahaya Korek Api",
+      "desc": "Memberikan penghiburan kepada yang sedang menderita.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1705
+    },
+    {
+      "id": 81706,
+      "name": "Batasan dan Tampilan",
+      "desc": "Mungkin sebuah karya diberi nama hanya agar dapat menemukan resonansi lain.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1706
+    },
+    {
+      "id": 81707,
+      "name": "Ruang Ekstrem",
+      "desc": "Kenakan \"Eye of Graeae\" untuk pertama kalinya.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1707
+    },
+    {
+      "id": 81708,
+      "name": "Salju, Kristall, dan Kecepatan",
+      "desc": "Merenovasi kereta tua menjadi seperti baru.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1708
+    },
+    {
+      "id": 81709,
+      "name": "Melalui Aula Kemegahan Palsu",
+      "desc": "Kumpulkan semua lukisan di House of Hesperides dan temukan harta karun tersembunyi di baliknya.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1709
+    },
+    {
+      "id": 81710,
+      "name": "Untuk Setiap Dirimu di Masa Depan",
+      "desc": "Meski kamu yang seperti itu belum datang.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1710
+    },
+    {
+      "id": 81711,
+      "name": "Karena Istana Itu Ada di Sana",
+      "desc": "Capai tempat tertinggi di Zapolyarny Palace.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1711
+    },
+    {
+      "id": 81712,
+      "name": "Mawar Terakhir Musim Dingin",
+      "desc": "...Hangus bagaikan ngengat di dalam api.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1712
+    },
+    {
+      "id": 81714,
+      "name": "Lebih Dingin dari Manusia Salju",
+      "desc": "Menangkan \"lomba adu tahan dingin\" melawan pesaing dari Natlan.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1714
+    },
+    {
+      "id": 81715,
+      "name": "Ya-ho!",
+      "desc": "Bantulah Jack Frost \"Kepala Desa\", untuk menghalau invasi Volkodlak.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1715
+    },
+    {
+      "id": 81716,
+      "name": "Di Atas Meja Tinggi Masih Ada Meja Tinggi",
+      "desc": "Namun, siapakah gerangan yang masih ingat bahwasanya \"High Table\" dibangun oleh Domovoy ...?",
+      "reward": 5,
+      "hidden": true,
+      "order": 1716
+    },
+    {
+      "id": 81717,
+      "name": "Sehabis Bongkahan Es Tenggelam, Tak Terbitlah Lagi",
+      "desc": "Saksikan akhir dari Snegovik raksasa.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1717
+    },
+    {
+      "id": 81718,
+      "name": "\"Kebun Ceri-nya Telah Dijual\"",
+      "desc": "Saksikan kabin di atas es itu terbalik, berhenti bergerak, dan akhirnya tenggelam.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1718
+    },
+    {
+      "id": 81720,
+      "name": "Jalur Perjalanan Telah Disiapkan",
+      "desc": "Gunakan Mekanisme Penghubung untuk menempuh jarak 30 meter (horizontal) dalam sekali jalan.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1720
+    },
+    {
+      "id": 81721,
+      "name": "Layaknya Inspirasi",
+      "desc": "Tembakkan bola salju yang mulai menghilang sebelum mendarat.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1721
+    },
+    {
+      "id": 81722,
+      "name": "Eits, Tidak Boleh Lewat",
+      "desc": "Berhasil menghentikan bola salju yang menggelinding.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1722
+    },
+    {
+      "id": 81724,
+      "name": "Lututnya Belum Jompo",
+      "desc": "Terus berseluncur selama 20 detik.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1724
+    },
+    {
+      "id": 81728,
+      "name": "Janji Masa Lampau",
+      "desc": "Dahulu kala, Zolnyy tidak memiliki raja, dan setiap orang berbuat sesuka hatinya ....",
+      "reward": 5,
+      "hidden": true,
+      "order": 1728
+    },
+    {
+      "id": 81729,
+      "name": "Solusi Koski",
+      "desc": "Bantu orang Natlan menenangkan rekan Flowfire Bird-nya.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1729
+    },
+    {
+      "id": 81730,
+      "name": "Saat Imajinasiku Menjelma Wujud",
+      "desc": "Dekati patung yang terbentuk dari bayangan gadis itu di puncak mercusuar.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1730
+    },
+    {
+      "id": 81731,
+      "name": "Mabuk Semabuk-Mabuknya",
+      "desc": "Kamu selalu bisa membangunkan orang yang benar-benar mabuk.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1731
+    },
+    {
       "id": 82008,
       "name": "Tak Terkalahkan",
       "desc": "Hancurkan seluruh Pilar Batu Pemulihan milik Geo Hypostasis sebelum dia hidup kembali.",
@@ -5451,6 +5659,22 @@
       "order": 2309
     },
     {
+      "id": 82310,
+      "name": "Tunggu ... Sekarang!",
+      "desc": "Hancurkan Perisai HP untuk menghentikan serangannya saat Immortal Construct dalam status Lifeflare.",
+      "reward": 5,
+      "hidden": true,
+      "order": 2310
+    },
+    {
+      "id": 82311,
+      "name": "Singa Bersayap Tersungkur",
+      "desc": "Jatuhkan Chimeric Winged Lion saat berada dalam kondisi Galeforce dengan menghancurkan semua Anemo Orb.",
+      "reward": 5,
+      "hidden": true,
+      "order": 2311
+    },
+    {
       "id": 84000,
       "name": "Akhir dari Permulaan",
       "desc": "Selesaikan quest Mondstadt Archon.",
@@ -6233,6 +6457,14 @@
       "reward": 5,
       "hidden": true,
       "order": 4107
+    },
+    {
+      "id": 84584,
+      "name": "Angsa Salju Hitam yang Mengepakkan Sayap di Angkasa",
+      "desc": "Mencapai ketinggian yang belum pernah dicapai angsa salju mana pun dan berani memimpikan apa yang belum pernah diimpikan angsa salju mana pun.",
+      "reward": 5,
+      "hidden": true,
+      "order": 4108
     },
     {
       "id": 85000,
@@ -7593,6 +7825,70 @@
       "reward": 10,
       "hidden": true,
       "order": 5165
+    },
+    {
+      "id": 84391,
+      "name": "Pembukaan Badai Salju yang Menggelegar",
+      "desc": "Kendarai kereta menembus badai salju Snezhnaya.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5166
+    },
+    {
+      "id": 84392,
+      "name": "Drama Misterius Bintang Pucat",
+      "desc": "Mendapatkan Exaiphanes Blade dari gua es.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5167
+    },
+    {
+      "id": 84393,
+      "name": "Angin Menderu",
+      "desc": "Terima undangan teman dan bergabung dengan Rokot.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5168
+    },
+    {
+      "id": 84394,
+      "name": "Negeri Salju Tanpa Kasih",
+      "desc": "Selesaikan \"Negeri Salju Tanpa Kasih\".",
+      "reward": 10,
+      "hidden": true,
+      "order": 5169
+    },
+    {
+      "id": 84395,
+      "name": "Tarian Cinta atau Penyesalan",
+      "desc": "Tonton pertunjukan ujicoba untuk \"Spirit Seeker\".",
+      "reward": 5,
+      "hidden": true,
+      "order": 5170
+    },
+    {
+      "id": 84396,
+      "name": "Di Luar Lingkaran Tertutup",
+      "desc": "Saksikan Mitya melangkah masuk ke dalam badai salju.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5171
+    },
+    {
+      "id": 84397,
+      "name": "Tiga Jenis Kematian \"Takdir\"",
+      "desc": "Bertahan hidup dari alam baka.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5172
+    },
+    {
+      "id": 84398,
+      "name": "Nyanyian Malam Sang Arwah",
+      "desc": "Selesaikan \"Nyanyian Malam Sang Arwah\".",
+      "reward": 10,
+      "hidden": true,
+      "order": 5173
     },
     {
       "id": 84155,

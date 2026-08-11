@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "ファデュイ",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Male_Fat_CannonShield",
   "description": "ファデュイ特務隊の精鋭士官。重砲で敵陣を破り、重く分厚い大盾で仲間を守る。\\n苦難は盾を霜のように白く染め、固まった血がそこに黒い縁どりをつけた。特務隊の士官は、空虚な言葉では犠牲を避けることはできず、雹のような轟音だけが、この汚れた旧世界を揺るがすことができると知っている。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

@@ -14,14 +14,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurls",
   "filename_icon": "UI_MonsterIcon_Shaman_Grass_01",
   "description": "A wizened, mumbling hilichurl, one that awakens the might of Dendro.\\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. A grudge stirs beneath that mask, and poison ivy sprouts as hateful whispers issue forth from it.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

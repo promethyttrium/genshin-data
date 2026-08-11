@@ -9,9 +9,11 @@
     "hp": 6,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Su",
+    "weapon": "Diğer Silahlar",
     "faction": [
-      null,
-      null
+      "Canavar",
+      "Kozmik Facia"
     ],
     "talent_card": {
       "_id": 5695,
@@ -28,8 +30,10 @@
     {
       "id": "shattering_waves",
       "name": "Parçalayan Dalgalar",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -48,8 +52,10 @@
     {
       "id": "starfall_shower",
       "name": "Yıldız Akını",
-      "desc": "$[D__KEY__DAMAGE_2] ? verir. Bu karakter, <span style=\"color:#FFFFFFFF\">Sonsuz İştah</span> ile kazandığı her 3 ilave Maks. Can için fazladan 1 Hasar verir (En fazla 3 Hasar). Ardından elindeki en yüksek <span style=\"color:#FFFFFFFF\">Mevcut Element Zarı Maliyeti</span>ne sahip 1 karta <span style=\"color:#FFFFFFFF\">Dışarı Atma</span> uygular.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir. Bu karakter, <span style=\"color:#FFFFFFFF\">Sonsuz İştah</span> ile kazandığı her 3 ilave Maks. Can için fazladan 1 Hasar verir (En fazla 3 Hasar). Ardından elindeki en yüksek <span style=\"color:#FFFFFFFF\">Mevcut Element Zarı Maliyeti</span>ne sahip 1 karta <span style=\"color:#FFFFFFFF\">Dışarı Atma</span> uygular.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -62,8 +68,10 @@
     {
       "id": "ravaging_devourer",
       "name": "Yıkan ve Yutan",
-      "desc": "? ? verir ve rakibin hazırdaki tüm karakterlerine 1 <span style=\"color:#FFFFFFFF\">Delme Hasarı</span> verir. 1 <span style=\"color:#FFFFFFFF\">Karanlık Gölge</span> çağırır.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir ve rakibin hazırdaki tüm karakterlerine 1 <span style=\"color:#FFFFFFFF\">Delme Hasarı</span> verir. 1 <span style=\"color:#FFFFFFFF\">Karanlık Gölge</span> çağırır.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -83,7 +91,9 @@
       "id": "insatiable_appetite",
       "name": "Sonsuz İştah",
       "desc": "(Pasif) Savaş başladığında 1 <span style=\"color:#FFFFFFFF\">Derindeki Yutanın Bölgesi</span> oluşur.",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

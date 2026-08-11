@@ -9,9 +9,11 @@
     "hp": 11,
     "card_type": "角色牌",
     "energy": 2,
+    "element": "水元素",
+    "weapon": "其他武器",
     "faction": [
-      null,
-      null
+      "魔物",
+      "聖骸獸"
     ],
     "talent_card": {
       "_id": 9242,
@@ -28,8 +30,10 @@
     {
       "id": "fang_bite",
       "name": "尖牙噬咬",
-      "desc": "造成?點?。",
-      "skillTag": [],
+      "desc": "造成2點?。",
+      "skillTag": [
+        "普通攻擊"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -48,8 +52,10 @@
     {
       "id": "sawtoothed_surge",
       "name": "鱷齒銳波",
-      "desc": "造成?點?，將至多1張<span style=\"color:#FFFFFFFF\">目前元素骰費用</span>最高的手牌置入牌組底部，生成手牌<span style=\"color:#FFFFFFFF\">噬骸能量塊</span>。",
-      "skillTag": [],
+      "desc": "造成3點<span style=\"color:#80C0FFFF\">水元素傷害</span>，將至多1張<span style=\"color:#FFFFFFFF\">目前元素骰費用</span>最高的手牌置入牌組底部，生成手牌<span style=\"color:#FFFFFFFF\">噬骸能量塊</span>。",
+      "skillTag": [
+        "元素戰技"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -62,8 +68,10 @@
     {
       "id": "reptilian_rage",
       "name": "凶鱷狂浪",
-      "desc": "造成?點?，<span style=\"color:#FFFFFFFF\">捨棄</span>至多3張<span style=\"color:#FFFFFFFF\">噬骸能量塊</span>，每<span style=\"color:#FFFFFFFF\">捨棄</span>1張，治療我方受傷最多的角色1點，並使其獲得1點最大生命值。",
-      "skillTag": [],
+      "desc": "造成4點<span style=\"color:#80C0FFFF\">水元素傷害</span>，<span style=\"color:#FFFFFFFF\">捨棄</span>至多3張<span style=\"color:#FFFFFFFF\">噬骸能量塊</span>，每<span style=\"color:#FFFFFFFF\">捨棄</span>1張，治療我方受傷最多的角色1點，並使其獲得1點最大生命值。",
+      "skillTag": [
+        "元素爆發"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -83,7 +91,9 @@
       "id": "consecrated_senses",
       "name": "聖骸感應",
       "desc": "【被動】我方打出或<span style=\"color:#FFFFFFFF\">捨棄</span><span style=\"color:#FFFFFFFF\">噬骸能量塊</span>後，治療我方受傷最多的角色1點。",
-      "skillTag": [],
+      "skillTag": [
+        "被動技能"
+      ],
       "points": []
     }
   ]

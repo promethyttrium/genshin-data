@@ -25,19 +25,19 @@
       "_id": 112073,
       "id": "radiant_prism",
       "name": "Prisma splendente",
-      "count": 0.1751
+      "count": 0.175
     },
     {
       "_id": 112072,
       "id": "turbid_prism",
       "name": "Prisma torbido",
-      "count": 0.7003
+      "count": 0.7
     },
     {
       "_id": 112071,
       "id": "damaged_prism",
       "name": "Prisma danneggiato",
-      "count": 2.6263
+      "count": 2.626
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Automi",
   "filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
   "description": "I guardiani delle antiche rovine perdute del deserto hanno il potere di punire chiunque osi disturbare i sogni puri del loro signore.\\nQueste macchine non furono create per proteggere templi o palazzi, ma per riportare in vita il paradiso tanto agognato da quell'incosciente re del deserto.\\nOggi quell'utopia è scomparsa da tempo, e i sogni e i giuramenti, dimenticati dal mondo, si trovano solo sui mantra incisi su queste macchine.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

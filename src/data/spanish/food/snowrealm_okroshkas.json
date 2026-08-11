@@ -1,0 +1,54 @@
+{
+  "_id": 3702,
+  "id": "snowrealm_okroshkas",
+  "name": "Okroshka de las nieves",
+  "description": "Un tazón de sopa fría. Los ingredientes ya cocinados se colocan de manera uniforme en el cuenco y luego se vierte encima un caldo preparado con smetana. Algunos habitantes de Snezhnaya se retan a beberse de un trago un gran cuenco de esta sopa fría en los días más gélidos, como prueba de que son auténticos guerreros capaces de vencer al inclemente frío.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 101280,
+      "id": "snowball_flower",
+      "name": "Flor bolanívea",
+      "amount": 3
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Huevo de pájaro",
+      "amount": 2
+    },
+    {
+      "_id": 110005,
+      "id": "ham",
+      "name": "Jamón",
+      "amount": 1
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Platos que mejoran la DEF",
+  "results": {
+    "suspicious": {
+      "_id": 108994,
+      "name": "Okroshka de las nieves extraña",
+      "description": "Un tazón de sopa fría. Hay que esforzarse para identificar los ingredientes que flotan en el turbio caldo. Las verduras están desmenuzadas a más no poder, pero los trozos de jamón son enormes. Parece que el cocinero solo recordó el embutido en el último segundo y lo echó a toda prisa...",
+      "effect": "#Aumenta la DEF de todos los miembros del equipo en 165 pts. durante 300 s. En modo multijugador, solo tendrá efecto en tus propios personajes."
+    },
+    "normal": {
+      "_id": 108995,
+      "name": "Okroshka de las nieves",
+      "description": "Un tazón de sopa fría. Los ingredientes ya cocinados se colocan de manera uniforme en el cuenco y luego se vierte encima un caldo preparado con smetana. Algunos habitantes de Snezhnaya se retan a beberse de un trago un gran cuenco de esta sopa fría en los días más gélidos, como prueba de que son auténticos guerreros capaces de vencer al inclemente frío.",
+      "effect": "#Aumenta la DEF de todos los miembros del equipo en 200 pts. durante 300 s. En modo multijugador, solo tendrá efecto en tus propios personajes."
+    },
+    "delicious": {
+      "_id": 108996,
+      "name": "Okroshka de las nieves deliciosa",
+      "description": "Un tazón de sopa fría. El caldo blanco nacarado, reluciente, resulta tan refrescante para el paladar como la nieve recién caída, seguido al instante del vigorizante toque de la smetana. Con crujientes verduras, yemas de huevo firmes y sabrosos trozos de jamón, cada cucharada ofrece una textura única, como si estuvieras abriendo una deliciosa caja sorpresa.",
+      "effect": "#Aumenta la DEF de todos los miembros del equipo en 235 pts. durante 300 s. En modo multijugador, solo tendrá efecto en tus propios personajes."
+    }
+  }
+}

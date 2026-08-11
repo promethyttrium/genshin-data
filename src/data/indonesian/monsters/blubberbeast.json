@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Seal_Larva_01",
   "description": "Mamalia yang hidup di perairan Fontaine. Mereka dapat mengeluarkan suara yang merdu untuk berkomunikasi dengan rekan-rekannya.\\nBerdasarkan prinsip densitas, air sebagai medium penghantar suara memiliki efisiensi yang jauh lebih tinggi dibandingkan udara. Terinspirasi dari Blubberbeast, seseorang dari Institut menciptakan teknologi yang sanggup mengubah gambar menjadi data dan mentransmisikannya secara langsung. Namun berhubung keterbatasan teknis eksperimental, teknologi ini belum banyak digunakan di luar lingkungan Institut.\\nTapi hal ini menjelaskan suatu fakta bahwa teknologi transmisi data berbasis zat cair dan suara bahkan sudah ada dan dikenal di zaman kuno. Tidak ada hal yang baru di dunia ini.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 13.49,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

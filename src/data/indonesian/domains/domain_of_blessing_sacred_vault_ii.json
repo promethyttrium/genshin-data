@@ -1,0 +1,81 @@
+{
+  "_id": 4684,
+  "id": "domain_of_blessing_sacred_vault_ii",
+  "name": "Domain of Blessing: Kubah Suci II",
+  "entranceId": 1811,
+  "entranceName": "Moonchild's Treasures",
+  "description": "Sebuah ruang penyimpanan yang dulu pernah menyimpan benih api peradaban kuno, kini telah dikuasai oleh para penjahat yang mencari relik suci, bersama dengan burung hantu dari langit iblis.\nDengan berkat dari cahaya rembulan, jika kamu bisa mengusir monster yang menyerang, mungkin kamu bisa mendapatkan hadiah berupa Artefak berharga.",
+  "regionId": 7,
+  "regionName": "Nod-Krai",
+  "recommendedLevel": 69,
+  "unlockRank": 35,
+  "disorder": [
+    "After a character triggers a Lunar-Charged, Lunar-Crystallize, or Lunar-Bloom reaction, all party members gain a 35% increase to Lunar-Charged, Lunar-Crystallize, and Lunar-Bloom DMG, as well as a 30% increase to DEF, for 10s."
+  ],
+  "filename_image": "UI_DungeonPic_NKDungeon_Cycle03",
+  "recommendedElements": [
+    "Hydro",
+    "Geo",
+    "Electro",
+    "Dendro"
+  ],
+  "domainType": "UI_ABYSSUS_RELIC",
+  "domainText": "Artifacts",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Adventure EXP",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "2025"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Companionship EXP",
+      "count": "20"
+    },
+    {
+      "_id": 400380,
+      "id": "aubade_of_morningstar_and_moon",
+      "name": "Aubade of Morningstar and Moon",
+      "rarity": 4
+    },
+    {
+      "_id": 400390,
+      "id": "a_day_carved_from_rising_winds",
+      "name": "A Day Carved From Rising Winds",
+      "rarity": 4
+    },
+    {
+      "_id": 400018,
+      "id": "tiny_miracle",
+      "name": "Tiny Miracle",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Instructor",
+      "rarity": 4
+    },
+    {
+      "_id": 400017,
+      "id": "tiny_miracle",
+      "name": "Tiny Miracle",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Instructor",
+      "rarity": 3
+    }
+  ],
+  "monsterList": []
+}

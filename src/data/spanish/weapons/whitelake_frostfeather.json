@@ -1,0 +1,333 @@
+{
+  "_id": 11520,
+  "id": "whitelake_frostfeather",
+  "name": "Pluma Invernal Lagoblanco",
+  "description": "Una espada larga y ligera como las suaves plumas de un cisne níveo. Es capaz de mantener en todo momento su pureza inmaculada.",
+  "rarity": 5,
+  "type": {
+    "id": "Sword",
+    "name": "Espada ligera"
+  },
+  "domain": "Dominio de la forja: Cicatriz de la obsesión",
+  "passive": "Danza final del cisne níveo",
+  "bonus": "Cuando el portador de esta arma golpea a un enemigo con su Habilidad Elemental, obtiene el efecto de “súplica lacustre”, el cual aumenta el ATQ en un <span>8%/10%/12%/14%/16%</span> durante 8 s. Este efecto puede acumularse hasta 3 veces, solo puede activarse una vez cada 0.1 s y la duración de cada acumulación se calcula de forma independiente. Al tener 3 acumulaciones, el Daño CRIT de la reacción de Destello Estelar del portador de esta arma aumenta en un <span>50%/65%/80%/95%/110%</span>, y al causar una reacción de Destello Estelar o infligir daño de Destello Estelar, el portador recupera <span>4/4.5/5/5.5/6</span> pts. de Energía Elemental. La recuperación de Energía Elemental solo podrá ocurrir una vez cada 3.5 s. Los efectos anteriores se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+  "specialProp": "Prob. CRIT",
+  "stats": {
+    "primary": "ATQ Base",
+    "secondary": "Prob. CRIT",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 48,
+        "secondary": 4.8
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 133,
+        "secondary": 8.5
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 164,
+        "secondary": 8.5
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 261,
+        "secondary": 12.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 292,
+        "secondary": 12.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 341,
+        "secondary": 14.3
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 373,
+        "secondary": 14.3
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 423,
+        "secondary": 16.2
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 455,
+        "secondary": 16.2
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 506,
+        "secondary": 18.2
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 537,
+        "secondary": 18.2
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 590,
+        "secondary": 20.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 621,
+        "secondary": 20.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 674,
+        "secondary": 22.1
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 10000,
+      "materials": [
+        {
+          "_id": 114089,
+          "id": "measured_pour_of_the_cellared_spiritual_nectar",
+          "name": "Vertimiento del néctar espiritual de la bodega",
+          "amount": 5,
+          "rarity": 2
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "Raíz vacua vital",
+          "amount": 5,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Semilla quimérica",
+          "amount": 3,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114090,
+          "id": "intoxication_of_the_cellared_spiritual_nectar",
+          "name": "Embriaguez del néctar espiritual de la bodega",
+          "amount": 5,
+          "rarity": 3
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "Raíz vacua vital",
+          "amount": 18,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Semilla quimérica",
+          "amount": 12,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114090,
+          "id": "intoxication_of_the_cellared_spiritual_nectar",
+          "name": "Embriaguez del néctar espiritual de la bodega",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "Nexo de brote vital",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Célula quimérica simbiótica",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114091,
+          "id": "exhilaration_of_the_cellared_spiritual_nectar",
+          "name": "Júbilo del néctar espiritual de la bodega",
+          "amount": 5,
+          "rarity": 4
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "Nexo de brote vital",
+          "amount": 18,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Célula quimérica simbiótica",
+          "amount": 14,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 55000,
+      "materials": [
+        {
+          "_id": 114091,
+          "id": "exhilaration_of_the_cellared_spiritual_nectar",
+          "name": "Júbilo del néctar espiritual de la bodega",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "Núcleo enroscado vital",
+          "amount": 14,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Organismo quimérico primigenio",
+          "amount": 9,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 65000,
+      "materials": [
+        {
+          "_id": 114092,
+          "id": "revelry_of_the_cellared_spiritual_nectar",
+          "name": "Capricho del néctar espiritual de la bodega",
+          "amount": 6,
+          "rarity": 5
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "Núcleo enroscado vital",
+          "amount": 27,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Organismo quimérico primigenio",
+          "amount": 18,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "Danza final del cisne níveo",
+    "template": "Cuando el portador de esta arma golpea a un enemigo con su Habilidad Elemental, obtiene el efecto de “súplica lacustre”, el cual aumenta el ATQ en un <span style=\"color:#99FFFFFF\">{0}</span> durante 8 s. Este efecto puede acumularse hasta 3 veces, solo puede activarse una vez cada 0.1 s y la duración de cada acumulación se calcula de forma independiente. Al tener 3 acumulaciones, el Daño CRIT de la reacción de Destello Estelar del portador de esta arma aumenta en un <span style=\"color:#99FFFFFF\">{1}</span>, y al causar una reacción de Destello Estelar o infligir daño de Destello Estelar, el portador recupera <span style=\"color:#99FFFFFF\">{2}</span> pts. de Energía Elemental. La recuperación de Energía Elemental solo podrá ocurrir una vez cada 3.5 s. Los efectos anteriores se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+    "params": [
+      [
+        "8%",
+        "50%",
+        "4"
+      ],
+      [
+        "10%",
+        "65%",
+        "4.5"
+      ],
+      [
+        "12%",
+        "80%",
+        "5"
+      ],
+      [
+        "14%",
+        "95%",
+        "5.5"
+      ],
+      [
+        "16%",
+        "110%",
+        "6"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "Cuando el portador de esta arma golpea a un enemigo con su Habilidad Elemental, obtiene el efecto de “súplica lacustre”, el cual aumenta el ATQ en un <span>8%</span> durante 8 s. Este efecto puede acumularse hasta 3 veces, solo puede activarse una vez cada 0.1 s y la duración de cada acumulación se calcula de forma independiente. Al tener 3 acumulaciones, el Daño CRIT de la reacción de Destello Estelar del portador de esta arma aumenta en un <span>50%</span>, y al causar una reacción de Destello Estelar o infligir daño de Destello Estelar, el portador recupera <span>4</span> pts. de Energía Elemental. La recuperación de Energía Elemental solo podrá ocurrir una vez cada 3.5 s. Los efectos anteriores se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso."
+    },
+    {
+      "refinement": 2,
+      "desc": "Cuando el portador de esta arma golpea a un enemigo con su Habilidad Elemental, obtiene el efecto de “súplica lacustre”, el cual aumenta el ATQ en un <span>10%</span> durante 8 s. Este efecto puede acumularse hasta 3 veces, solo puede activarse una vez cada 0.1 s y la duración de cada acumulación se calcula de forma independiente. Al tener 3 acumulaciones, el Daño CRIT de la reacción de Destello Estelar del portador de esta arma aumenta en un <span>65%</span>, y al causar una reacción de Destello Estelar o infligir daño de Destello Estelar, el portador recupera <span>4.5</span> pts. de Energía Elemental. La recuperación de Energía Elemental solo podrá ocurrir una vez cada 3.5 s. Los efectos anteriores se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso."
+    },
+    {
+      "refinement": 3,
+      "desc": "Cuando el portador de esta arma golpea a un enemigo con su Habilidad Elemental, obtiene el efecto de “súplica lacustre”, el cual aumenta el ATQ en un <span>12%</span> durante 8 s. Este efecto puede acumularse hasta 3 veces, solo puede activarse una vez cada 0.1 s y la duración de cada acumulación se calcula de forma independiente. Al tener 3 acumulaciones, el Daño CRIT de la reacción de Destello Estelar del portador de esta arma aumenta en un <span>80%</span>, y al causar una reacción de Destello Estelar o infligir daño de Destello Estelar, el portador recupera <span>5</span> pts. de Energía Elemental. La recuperación de Energía Elemental solo podrá ocurrir una vez cada 3.5 s. Los efectos anteriores se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso."
+    },
+    {
+      "refinement": 4,
+      "desc": "Cuando el portador de esta arma golpea a un enemigo con su Habilidad Elemental, obtiene el efecto de “súplica lacustre”, el cual aumenta el ATQ en un <span>14%</span> durante 8 s. Este efecto puede acumularse hasta 3 veces, solo puede activarse una vez cada 0.1 s y la duración de cada acumulación se calcula de forma independiente. Al tener 3 acumulaciones, el Daño CRIT de la reacción de Destello Estelar del portador de esta arma aumenta en un <span>95%</span>, y al causar una reacción de Destello Estelar o infligir daño de Destello Estelar, el portador recupera <span>5.5</span> pts. de Energía Elemental. La recuperación de Energía Elemental solo podrá ocurrir una vez cada 3.5 s. Los efectos anteriores se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso."
+    },
+    {
+      "refinement": 5,
+      "desc": "Cuando el portador de esta arma golpea a un enemigo con su Habilidad Elemental, obtiene el efecto de “súplica lacustre”, el cual aumenta el ATQ en un <span>16%</span> durante 8 s. Este efecto puede acumularse hasta 3 veces, solo puede activarse una vez cada 0.1 s y la duración de cada acumulación se calcula de forma independiente. Al tener 3 acumulaciones, el Daño CRIT de la reacción de Destello Estelar del portador de esta arma aumenta en un <span>110%</span>, y al causar una reacción de Destello Estelar o infligir daño de Destello Estelar, el portador recupera <span>6</span> pts. de Energía Elemental. La recuperación de Energía Elemental solo podrá ocurrir una vez cada 3.5 s. Los efectos anteriores se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso."
+    }
+  ]
+}

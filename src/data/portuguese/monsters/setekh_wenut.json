@@ -36,7 +36,7 @@
       "_id": 113044,
       "id": "pseudostamens",
       "name": "Falso Estame",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104154,
@@ -119,7 +119,6 @@
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Sandworm",
   "description": "Um predador sem olhos das profundezas do Grande Mar de Areias Escarlates que usa som e vibrações para perseguir sua presa.\\nA lenda diz que no passado antigo, antes de o conceito de tempo ser criado, estas criaturas proliferavam com seus progenitores e crias em uma terra de grama verdejante e árvores colossais, atravessando solos lisos como peixes mergulhando em água.\\nCom a passagem das eras, as dádivas do céu há muito tempo reduziu os solos a areia, extinguindo muitas criaturas. Este ramo do gênero deles conseguiu sobreviver ao se adaptar para uma vida mais baseada na terra, e se tornando conhecida como os \"vermes da areia\".\\nAlguns povos do deserto ainda acreditam equivocadamente que vermes da areia são o ponto final da vida de um unagi de areia movediça, provavelmente devido a similaridades superficiais entre os comportamentos das espécies.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

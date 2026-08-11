@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Lancia",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3955,
@@ -29,8 +31,10 @@
     {
       "id": "gleaming_spear_guardian_stance",
       "name": "Lancia splendente - Posizione del guardiano",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -50,7 +54,9 @@
       "id": "sacred_rite_herons_sanctum",
       "name": "Rito sacro: Santuario dell'airone",
       "desc": "Associa <span style=\"color:#FFFFFFFF\">Scudo dell'airone</span> a questo personaggio ed esegue <span style=\"color:#FFFFFFFF\">Preparazione abilità</span>: <span style=\"color:#FFFFFFFF\">Colpo dell'airone</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "sacred_rite_wagtails_tide",
       "name": "Rito sacro: Marea della cutrettola",
-      "desc": "Infligge ? ? e crea <span style=\"color:#FFFFFFFF\">Lode della Corona cremisi</span>.",
-      "skillTag": [],
+      "desc": "Infligge 2 <span style=\"color:#80C0FFFF\">DAN da Hydro</span> e crea <span style=\"color:#FFFFFFFF\">Lode della Corona cremisi</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1102,

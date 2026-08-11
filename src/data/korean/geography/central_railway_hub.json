@@ -1,0 +1,12 @@
+{
+  "_id": 70800033,
+  "id": "central_railway_hub",
+  "name": "철도의 중심",
+  "areaName": "영구 동토",
+  "areaId": 80200,
+  "description": "스네즈나야를 강철 거인에 비유한다면, 철도는 혈관이고 중앙역은 끊임없이 뛰는 심장이다",
+  "regionName": "스네즈나야",
+  "regionId": 8,
+  "sortOrder": 633,
+  "filename_image": "UI_Codex_Scenery_ZDZhiDongBaoCheZhan"
+}

@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Электро",
+    "weapon": "Прочее",
     "faction": [
-      null
+      "Кайраги"
     ]
   },
   "skills": [
     {
       "id": "three_point_slash",
       "name": "Тройной разрез",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -36,8 +40,10 @@
     {
       "id": "leaping_strike",
       "name": "Рассекающий прыжок",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 3 ед.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -51,7 +57,9 @@
       "id": "iai_sheathed",
       "name": "Иай: ното",
       "desc": "<span style=\"color:#FFFFFFFF\">Подготовка навыка</span>: <span style=\"color:#FFFFFFFF\">Иай: дыхание шторма</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -71,14 +79,18 @@
       "id": "kamuna_talisman_electro",
       "name": "Амулет Камуны: Электро",
       "desc": "(Пассивный навык) В начале сражения у персонажа будет <span style=\"color:#FFFFFFFF\">Амулет Камуны: Электро</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Пассивный навык"
+      ],
       "points": []
     },
     {
       "id": "final_frenzy",
       "name": "Финальная лихорадка",
       "desc": "Когда другой ваш кайраги оказывается повержен, у персонажа добавляется <span style=\"color:#FFFFFFFF\">Финальная лихорадка</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Пассивный навык"
+      ],
       "points": []
     }
   ]

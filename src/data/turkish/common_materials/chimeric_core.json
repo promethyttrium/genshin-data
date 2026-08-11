@@ -1,0 +1,11 @@
+{
+  "_id": 112149,
+  "id": "chimeric_core",
+  "name": "Kimerik Çekirdek",
+  "description": "Bu, insan yapımı bir canavarın içinde büyüyen en temel çekirdektir. Yine de ne kadar basit olursa olsun, tüm insan yapımı oluşumların büyümesi için gereken esas taslağı barındırır.",
+  "source": [
+    "Sapkın Kimerik Canavarlardan düşer.",
+    "Yıldız Tozu Takası"
+  ],
+  "rarity": 1
+}

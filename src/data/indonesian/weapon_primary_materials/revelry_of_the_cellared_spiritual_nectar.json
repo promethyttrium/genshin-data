@@ -1,0 +1,29 @@
+{
+  "_id": 114092,
+  "id": "revelry_of_the_cellared_spiritual_nectar",
+  "name": "Revelry of the Cellared Spiritual Nectar",
+  "description": "Bagi sang Grand Duke para Domovoy yang menguasai penambangan kristal dan pengembangan tanah beku, membuka oasis di wilayah kutub hanyalah perkara mudah, begitu pula memindahkan bibit rye berkualitas lebih baik dari tempat lain.<br/>Di antara sekian banyak bangsawan roh yang bertahan hingga kini di Snezhnaya, kedudukan yang dimilikinya sungguh tak tertandingi.<br/>Namun, api ambisi yang kian membara mengalir menuruni kerongkongannya, dan keserakahan peri kuno itu terus tumbuh seiring berlalunya waktu, tanpa batas.",
+  "source": [
+    "Placeholder - Jumlah yang Bisa Di-Craft: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114091,
+        "id": "exhilaration_of_the_cellared_spiritual_nectar",
+        "name": "Exhilaration of the Cellared Spiritual Nectar",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domain of Forgery: Scars of Cursed Obsession",
+  "days": [
+    "Selasa",
+    "Jumat",
+    "Minggu"
+  ]
+}

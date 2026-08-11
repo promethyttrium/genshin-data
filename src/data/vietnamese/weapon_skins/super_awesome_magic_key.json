@@ -1,0 +1,16 @@
+{
+  "_id": 380002,
+  "id": "super_awesome_magic_key",
+  "name": "Chìa Khóa Phép Thuật Siêu Đỉnh",
+  "description": "Món quà Hội Ma Nữ Nhí dành tặng cho bạn tốt. Do thiếu nguyên liệu nên tạo hình đã được tham khảo từ đạo cụ thần kỳ trong \"Truyện Cổ Tích Ngỗng Cánh Tuyết\" của Fontaine.\\nTuy không thể thực sự tùy ý mở cánh cửa dẫn đến không gian khác như trong truyện cổ tích, nhưng vẫn sở hữu sự bền bỉ có thể đồng hành cùng người bạn quan trọng đi qua vô số không gian.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Trọng Kiếm"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341802,
+  "icon_path": "UI_EquipIcon_Claymore_LoliFriend",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_LoliFriend"
+}

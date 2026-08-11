@@ -9,8 +9,10 @@
     "hp": 40,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Geo",
+    "weapon": "Altre armi",
     "faction": [
-      null
+      "Mostro"
     ],
     "talent_card": {
       "_id": 7227,
@@ -27,8 +29,10 @@
     {
       "id": "wolflords_strike",
       "name": "Colpo del Signore dei lupi",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -47,8 +51,10 @@
     {
       "id": "howling_riftcall",
       "name": "Richiamo della Faglia ululante",
-      "desc": "Infligge ? ?, associa 2 accumuli di <span style=\"color:#FFFFFFFF\">Corrosione aurea</span> al personaggio bersaglio e invoca 1 <span style=\"color:#FFFFFFFF\">Teschio di Segugio della Faglia</span>.",
-      "skillTag": [],
+      "desc": "Infligge 2 <span style=\"color:#FFE699FF\">DAN da Geo</span>, associa 2 accumuli di <span style=\"color:#FFFFFFFF\">Corrosione aurea</span> al personaggio bersaglio e invoca 1 <span style=\"color:#FFFFFFFF\">Teschio di Segugio della Faglia</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -61,8 +67,10 @@
     {
       "id": "golden_cankerbind",
       "name": "Intrusione dorata",
-      "desc": "Infligge ? ?, infligge 1 <span style=\"color:#FFFFFFFF\">DAN da perforazione</span> a tutti i personaggi avversari inattivi, quindi associa <span style=\"color:#FFFFFFFF\">Corrosione aurea</span> a tutti i personaggi avversari.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#FFE699FF\">DAN da Geo</span>, infligge 1 <span style=\"color:#FFFFFFFF\">DAN da perforazione</span> a tutti i personaggi avversari inattivi, quindi associa <span style=\"color:#FFFFFFFF\">Corrosione aurea</span> a tutti i personaggi avversari.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1106,

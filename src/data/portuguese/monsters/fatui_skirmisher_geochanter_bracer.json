@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Staff_Rock_01",
   "description": "Um soldado com a capacidade de gerar um Revestimento Geo e defender seus aliados.\\nAo contrário das Feiticeiras Cincin e Agentes de elite, os Soldados Fatui são soldados de menor poder individual.\\nPara completar suas tarefas e reduzir perdas em homens e materiais, suas táticas dependem mais do trabalho em equipe.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

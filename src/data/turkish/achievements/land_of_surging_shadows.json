@@ -1,0 +1,130 @@
+{
+  "_id": 70,
+  "id": "land_of_surging_shadows",
+  "name": "Yükselen Gölgeler Diyarı",
+  "order": 73,
+  "achievements": [
+    {
+      "id": 86059,
+      "name": "Tundra Yenileyen",
+      "desc": "Snezhnaya'da büyük bir Gölge Diyarı temizle.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9056
+    },
+    {
+      "id": 86062,
+      "name": "Gölge Diyarında Görüşürüz O Zaman",
+      "desc": "Bir Hayatta Kalmanın Eşiğinde mücadelesini tamamla.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9059
+    },
+    {
+      "id": 86063,
+      "name": "\"Kıdemli Gölge Dalgıcı\"",
+      "desc": "Gölge Diyarı Analiz Seviyeni en üst seviyeye yükselt.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9060
+    },
+    {
+      "id": 86066,
+      "name": "Hayatta Kalma Kralı",
+      "desc": "9 Hayatta Kalmanın Eşiğinde Madalyası elde et.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9063
+    },
+    {
+      "id": 86067,
+      "name": "Tundra Silah Ustası (I)",
+      "desc": "Bir ateşli silaha 1 aksesuar tak.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9064
+    },
+    {
+      "id": 86068,
+      "name": "Tundra Silah Ustası (II)",
+      "desc": "Bir ateşli silaha 2 aksesuar tak.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9065,
+      "preStage": 86067
+    },
+    {
+      "id": 86069,
+      "name": "Tundra Silah Ustası (III)",
+      "desc": "Bir ateşli silaha 4 aksesuar tak.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9066,
+      "preStage": 86068
+    },
+    {
+      "id": 86071,
+      "name": "Tachanka",
+      "desc": "\"Shatanaya'nın Buz Gümüşü\", \"Balsag'ın Güneş Çarkı\" ve \"Ashamez'in Şimşeği\"nin her birine 4 aksesuar tak.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9068
+    },
+    {
+      "id": 86072,
+      "name": "Öğle Vak...",
+      "desc": "30 saniye içinde düşman zayıf noktalarını art arda 5 kere vur.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9069
+    },
+    {
+      "id": 86073,
+      "name": "Minik Dostlarıma Merhaba De!",
+      "desc": "Bomba Atar ile 30 saniye içinde 5 Element Tepkimesi tetikle.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9070
+    },
+    {
+      "id": 86074,
+      "name": "Kayarken Nişan Almak Hayalden İbaret",
+      "desc": "Kayarken toplam 20 düşmanı alt et.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9071
+    },
+    {
+      "id": 86075,
+      "name": "Kutsal Işık Mızrağıyla Birbirimize Bağlıyız",
+      "desc": "\"Shatanaya'nın Buz Gümüşü\" Taarruz Tüfeğini elde et.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9072
+    },
+    {
+      "id": 86076,
+      "name": "Bomba Atma Sanatı!",
+      "desc": "\"Balsag'ın Güneş Çarkı\" Bomba Atarını elde et.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9073
+    },
+    {
+      "id": 86077,
+      "name": "Uyarı, Yıldırım Felaketi Oluşturuldu...",
+      "desc": "\"Ashamez'in Şimşeği\" Taarruz Tüfeğini elde et.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9074
+    },
+    {
+      "id": 86078,
+      "name": "500 Gram Sevgi",
+      "desc": "Bir Parça Tesirli Kristal elde et.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9075
+    }
+  ]
+}

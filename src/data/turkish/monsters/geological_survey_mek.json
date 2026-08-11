@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Canavar Makinaları",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Probe",
   "description": "Yer altı kaynaklarını ve belirli mineralleri araştırması için tasarlanmış bir Kurmalı Meka.\\nİstenen metal tipinin seçilebilmesinden ötürü bu makina Hazine Avcıları ve Maceracılar arasında çok popülerdir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

@@ -22,7 +22,6 @@
   "categoryText": "Vực Sâu",
   "filename_icon": "UI_MonsterIcon_Invoker_Deacon_Electric_01",
   "description": "Quái vật nơi vực thẳm tối đen như mực, phục vụ cho \"Giáo Đoàn Vực Sâu\" và có thể điều khiển sấm sét.\\nChúng là những nhà thuyết giáo, học sĩ của Vực Sâu sử dụng giông tố sấm sét truyền bá trí tuệ đen tối đến những kẻ vô thần, dùng tia điện tím như một lời thông báo cho sự tồn tại của sức mạnh to lớn đang ăn mòn trí tuệ loài người.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

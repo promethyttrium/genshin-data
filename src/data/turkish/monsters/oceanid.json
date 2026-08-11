@@ -20,7 +20,6 @@
   "categoryText": "Element Yaşam Formları",
   "filename_icon": "UI_MonsterIcon_Oceanid",
   "description": "Muazzam saflıktaki yoğun Su elementlerinden oluşmuş bu yaşam formu, sıklıkla su kütlelerine tutunur.\\nSu kütleleri giderek daha saf bir hal alırken Su elementlerinin çoğaldığı ve Okeanidlerin gücüne güç kattığı söylenir. Bazıları da bir zamanlar uzak diyarlarda yaşayan bu Okeanidlerin uzun zaman önce ölen bir tanrının kalıntılarını dünyanın dört bir yanına taşıdığını söyler. Belki de tanrılarının bu dünyaya duyduğu sevgiyi, yerküre üzerindeki her su kütlesine dağıtmak istediler.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

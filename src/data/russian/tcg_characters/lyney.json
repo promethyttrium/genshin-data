@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Пиро",
+    "weapon": "Стрелковое",
     "faction": [
-      null,
-      null
+      "Фонтейн",
+      "Фатуи"
     ],
     "talent_card": {
       "_id": 4762,
@@ -30,8 +32,10 @@
     {
       "id": "card_force_translocation",
       "name": "Форсирование карты с подменой",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,8 +54,10 @@
     {
       "id": "prop_arrow",
       "name": "Стрела-реквизит",
-      "desc": "Наносит ?, ? ед., призывает помощника «<span style=\"color:#FFFFFFFF\">Хохочущий котошляп</span>», накапливается <span style=\"color:#FFFFFFFF\">Избыточный реквизит</span> (1 уровень).<br/>Если у этого персонажа не менее 6 HP, он получает <span style=\"color:#FFFFFFFF\">Проникающий урон</span>, 1 ед.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FF9999FF\">Пиро урон</span>, 2 ед., призывает помощника «<span style=\"color:#FFFFFFFF\">Хохочущий котошляп</span>», накапливается <span style=\"color:#FFFFFFFF\">Избыточный реквизит</span> (1 уровень).<br/>Если у этого персонажа не менее 6 HP, он получает <span style=\"color:#FFFFFFFF\">Проникающий урон</span>, 1 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -64,8 +70,10 @@
     {
       "id": "bewildering_lights",
       "name": "Ошеломляющие огни",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FF9999FF\">Пиро урон</span>, 3 ед.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -78,8 +86,10 @@
     {
       "id": "wondrous_trick_miracle_parade",
       "name": "Великий фокус: Парад чудес",
-      "desc": "Наносит ?, ? ед., призывается <span style=\"color:#FFFFFFFF\">Хохочущий котошляп</span>, накапливается <span style=\"color:#FFFFFFFF\">Избыточный реквизит</span> (1 уровень).",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FF9999FF\">Пиро урон</span>, 3 ед., призывается <span style=\"color:#FFFFFFFF\">Хохочущий котошляп</span>, накапливается <span style=\"color:#FFFFFFFF\">Избыточный реквизит</span> (1 уровень).",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1103,

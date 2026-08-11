@@ -13,7 +13,6 @@
   "categoryText": "Sinh Mệnh Nguyên Tố",
   "filename_icon": "UI_MonsterIcon_Raijin",
   "description": "Sinh vật nguyên tố Lôi dị thường. Tuy rằng hình dạng khá giống Tinh Linh Nước, nhưng không có trí tuệ và ký ức.\\nKích hoạt Thực Thể Sấm Sét cũng chỉ là sự phẫn nộ thuần túy.\\nNghe nói loại sinh vật này chỉ sinh ra khi sấm sét đánh xuống tại vùng đất chất chứa nhiều căm hận, như Đỉnh Amakumo hoang tàn với sấm sét vang dội. Chỉ cần nỗi oán hận trong lòng đất chưa tiêu tan, thì tiếng sét sẽ không bao giờ dứt.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

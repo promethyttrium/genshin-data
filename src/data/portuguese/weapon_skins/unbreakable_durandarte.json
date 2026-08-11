@@ -1,0 +1,16 @@
+{
+  "_id": 390001,
+  "id": "unbreakable_durandarte",
+  "name": "Indestrutível: Durandarte",
+  "description": "Uma espada gloriosa e ilusória que surgiu das profundezas das Linhas Ley. Dizem que no passado, ela foi empunhada pelo cavaleiro branco sob o nome Durandarte.\\nSeu nome, em línguas antigas, significa \"a lâmina que jamais é destruída\". Assim como a espada que ele portava, o caminho em que o cavaleiro acreditava nunca vacilou, não importa como o aço, outrora puro, escureceu.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Espadão"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341901,
+  "icon_path": "UI_EquipIcon_Claymore_VarkaTunkeldegen",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_VarkaTunkeldegen"
+}

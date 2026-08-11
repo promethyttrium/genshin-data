@@ -33,13 +33,13 @@
       "_id": 112063,
       "id": "dormant_fungal_nucleus",
       "name": "Dormant Fungal Nucleus",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112062,
       "id": "inactivated_fungal_nucleus",
       "name": "Inactivated Fungal Nucleus",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112061,
@@ -57,16 +57,15 @@
       "_id": 112059,
       "id": "fungal_spores",
       "name": "Fungal Spores",
-      "count": 0.2101
+      "count": 0.21
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water",
   "description": "A mimetic life form made out of spores that has extreme adaptability.\\nThis creature may look like a bird, but it cannot fly. Due to the influence of Hydro energies, it is astoundingly agile compared to others of its kind. Some research has inferred that this creature is in fact an aggregation of countless tiny spores rather than a single entity.\\nThis creature has a position of command amongst colonies of Fungi and exhibits heightened intelligence to match.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

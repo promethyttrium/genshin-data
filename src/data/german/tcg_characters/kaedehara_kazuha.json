@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Einhänder",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3959,
@@ -29,8 +31,10 @@
     {
       "id": "garyuu_bladework",
       "name": "Garyuu-Schwertkunst",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "chihayaburu",
       "name": "Chihayaburu",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erhält selbst <span style=\"color:#FFFFFFFF\">Midare Ranzan</span>.<br/>Wenn Verwirbelung ausgelöst wird, wird <span style=\"color:#FFFFFFFF\">Midare Ranzan</span> zum von der Verwirbelung betroffenen Element.<br/><span style=\"color:#FFFFFFFF\">Nach Auswertung der Fähigkeit:</span> Wechselt deine nächste Figur zur aktiven Figur.",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#80FFD7FF\">Anemo-SCH</span>, erhält selbst <span style=\"color:#FFFFFFFF\">Midare Ranzan</span>.<br/>Wenn Verwirbelung ausgelöst wird, wird <span style=\"color:#FFFFFFFF\">Midare Ranzan</span> zum von der Verwirbelung betroffenen Element.<br/><span style=\"color:#FFFFFFFF\">Nach Auswertung der Fähigkeit:</span> Wechselt deine nächste Figur zur aktiven Figur.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "kazuha_slash",
       "name": "Kazuha-Schlag",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 1 <span style=\"color:#FFFFFFFF\">Wirbelndes Herbstfeld</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#80FFD7FF\">Anemo-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Wirbelndes Herbstfeld</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1105,

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Electro",
+    "weapon": "Outras Armas",
     "faction": [
-      null
+      "Fatui"
     ],
     "talent_card": {
       "_id": 5165,
@@ -27,8 +29,10 @@
     {
       "id": "hurtling_bolts",
       "name": "Relâmpago Electro",
-      "desc": "Causa ? ?.",
-      "skillTag": [],
+      "desc": "Causa 1 <span style=\"color:#FFACFFFF\">Dano Electro</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -48,7 +52,9 @@
       "id": "misty_call",
       "name": "Chamado Nevoento",
       "desc": "Invoca <span style=\"color:#FFFFFFFF\">Cicin Electro</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -61,8 +67,10 @@
     {
       "id": "thundering_shield",
       "name": "Escudo Trovejante",
-      "desc": "Causa ? ?, concede a este personagem <span style=\"color:#FFACFFFF\">Aplicação Electro</span>, cria 1 <span style=\"color:#FFFFFFFF\">Revestimento Cicin Electro</span> e prepara <span style=\"color:#FFFFFFFF\">Trovão Furioso</span>.",
-      "skillTag": [],
+      "desc": "Causa 1 <span style=\"color:#FFACFFFF\">Dano Electro</span>, concede a este personagem <span style=\"color:#FFACFFFF\">Aplicação Electro</span>, cria 1 <span style=\"color:#FFFFFFFF\">Revestimento Cicin Electro</span> e prepara <span style=\"color:#FFFFFFFF\">Trovão Furioso</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1104,

@@ -10,7 +10,7 @@
   },
   "domain": "Ancient Watchtower",
   "passive": "The Moonring Sighted",
-  "bonus": "For 12s after triggering a Swirl reaction, ATK increases by <span>24%/30%/36%/42%/48%</span>. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by <span>20%/48%/25%/60%/30%/72%/35%/84%/40%/96%</span> and Elemental Burst DMG dealt is increased by <span>10%/24%/12.5%/30%/15%/36%/17.5%/42%/20%/48%</span>.",
+  "bonus": "For 12s after triggering a Swirl or Stellar Swirl reaction, ATK increases by <span>24%/30%/36%/42%/48%</span>. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by <span>20%/48%/25%/60%/30%/72%/35%/84%/40%/96%</span>, and Elemental Burst DMG dealt is increased by <span>10%/24%/12.5%/30%/15%/36%/17.5%/42%/20%/48%</span>.",
   "specialProp": "CRIT DMG",
   "stats": {
     "primary": "Base ATK",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "The Moonring Sighted",
-    "template": "For 12s after triggering a Swirl reaction, ATK increases by <span style=\"color:#99FFFFFF\">{0}</span>. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by <span style=\"color:#99FFFFFF\">{1}</span> and Elemental Burst DMG dealt is increased by <span style=\"color:#99FFFFFF\">{2}</span>.",
+    "template": "For 12s after triggering a Swirl or Stellar Swirl reaction, ATK increases by <span style=\"color:#99FFFFFF\">{0}</span>. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by <span style=\"color:#99FFFFFF\">{1}</span>, and Elemental Burst DMG dealt is increased by <span style=\"color:#99FFFFFF\">{2}</span>.",
     "params": [
       [
         "24%",
@@ -312,23 +311,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "For 12s after triggering a Swirl reaction, ATK increases by <span>24%</span>. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by <span>20%/48%</span> and Elemental Burst DMG dealt is increased by <span>10%/24%</span>."
+      "desc": "For 12s after triggering a Swirl or Stellar Swirl reaction, ATK increases by <span>24%</span>. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by <span>20%/48%</span>, and Elemental Burst DMG dealt is increased by <span>10%/24%</span>."
     },
     {
       "refinement": 2,
-      "desc": "For 12s after triggering a Swirl reaction, ATK increases by <span>30%</span>. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by <span>25%/60%</span> and Elemental Burst DMG dealt is increased by <span>12.5%/30%</span>."
+      "desc": "For 12s after triggering a Swirl or Stellar Swirl reaction, ATK increases by <span>30%</span>. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by <span>25%/60%</span>, and Elemental Burst DMG dealt is increased by <span>12.5%/30%</span>."
     },
     {
       "refinement": 3,
-      "desc": "For 12s after triggering a Swirl reaction, ATK increases by <span>36%</span>. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by <span>30%/72%</span> and Elemental Burst DMG dealt is increased by <span>15%/36%</span>."
+      "desc": "For 12s after triggering a Swirl or Stellar Swirl reaction, ATK increases by <span>36%</span>. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by <span>30%/72%</span>, and Elemental Burst DMG dealt is increased by <span>15%/36%</span>."
     },
     {
       "refinement": 4,
-      "desc": "For 12s after triggering a Swirl reaction, ATK increases by <span>42%</span>. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by <span>35%/84%</span> and Elemental Burst DMG dealt is increased by <span>17.5%/42%</span>."
+      "desc": "For 12s after triggering a Swirl or Stellar Swirl reaction, ATK increases by <span>42%</span>. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by <span>35%/84%</span>, and Elemental Burst DMG dealt is increased by <span>17.5%/42%</span>."
     },
     {
       "refinement": 5,
-      "desc": "For 12s after triggering a Swirl reaction, ATK increases by <span>48%</span>. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by <span>40%/96%</span> and Elemental Burst DMG dealt is increased by <span>20%/48%</span>."
+      "desc": "For 12s after triggering a Swirl or Stellar Swirl reaction, ATK increases by <span>48%</span>. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by <span>40%/96%</span>, and Elemental Burst DMG dealt is increased by <span>20%/48%</span>."
     }
   ]
 }

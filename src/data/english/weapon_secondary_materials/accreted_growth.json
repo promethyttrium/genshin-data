@@ -1,0 +1,24 @@
+{
+  "_id": 112154,
+  "id": "accreted_growth",
+  "name": "Accreted Growth",
+  "description": "An accretion that has fully fused with an organ or bone. One could even say it's a newly grown bone or organ at the nodes of the Volkodlak's power circulation. Only long-lived Volkodlaks who have ceaselessly honed their strength can form such growths within their bodies.",
+  "source": [
+    "Dropped by Lv. 60+ Volkodlak Brutes",
+    "Stardust Exchange: Craft after exchanging",
+    "Placeholder - Craftable Amount: {0}"
+  ],
+  "rarity": 4,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 112153,
+        "id": "accreted_mass",
+        "name": "Accreted Mass",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

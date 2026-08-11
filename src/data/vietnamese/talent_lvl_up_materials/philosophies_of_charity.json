@@ -1,0 +1,30 @@
+{
+  "_id": 104367,
+  "id": "philosophies_of_charity",
+  "name": "Triết Học Của \"Yêu Thương\"",
+  "description": "Nguyên liệu bồi dưỡng Thiên Phú.\\n\"Yêu thương\" là sự cứu rỗi của vương quốc băng giá.\\nYêu thương là sự quan tâm dành cho chúng sinh. Nó xóa nhòa ranh giới cao thấp và sang hèn, vượt qua huyết thống và quốc gia. Ánh mắt của yêu thương luôn dõi theo tất cả mọi người, ban sự chở che cho những người bất hạnh, và hứa hẹn với tất cả một sự giải thoát vĩnh hằng.",
+  "source": [
+    "Số lượng có thể ghép - chiếm chỗ: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104366,
+        "id": "guide_to_charity",
+        "name": "Hướng Dẫn Của \"Yêu Thương\"",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Bí Cảnh Tinh Thông: Mặc Tưởng IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Thứ 2",
+    "Thứ 5",
+    "Chủ Nhật"
+  ]
+}

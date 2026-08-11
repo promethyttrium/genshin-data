@@ -1,0 +1,40 @@
+{
+  "_id": 25137001,
+  "id": "rugged_elder_leshy",
+  "monsterId": 25137006,
+  "name": "Lesij anziano robusto",
+  "specialNames": [
+    "Giovane segmento d'albero"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestie mistiche",
+  "filename_icon": "UI_MonsterIcon_Leshy_Mature_01",
+  "description": "Un Lesij che cresce nelle foreste e nelle terre selvagge.\\nEssendo dotati solo di una coscienza frammentaria e incapaci di parlare, i Lesij potrebbero sembrare il risultato dei primi esperimenti del regno dorato. Eppure, secondo i registri, la verità è l'opposto: questa razza di Fate fu creata solo dopo che gli artigiani ebbero quasi del tutto padroneggiato l'autorità sulla vita.\\nForse in ciò si cela un autentico scopo che né le Fate né gli umani del presente riescono a comprendere appieno.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.3,
+      "hydro": 0.1,
+      "geo": 0.3,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 21.945072,
+      "attack": 94.62242,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

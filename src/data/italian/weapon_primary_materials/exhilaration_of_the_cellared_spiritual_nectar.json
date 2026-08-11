@@ -1,0 +1,29 @@
+{
+  "_id": 114091,
+  "id": "exhilaration_of_the_cellared_spiritual_nectar",
+  "name": "Euforia del nettare spirituale invecchiato",
+  "description": "Secondo la leggenda, molto tempo fa innumerevoli barili di vino pregiato vennero versati in un lago ghiacciato.<br/>Alcuni dicono che il vino fosse destinato alle provviste di guerra, e che doveva essere distrutto in seguito a un imprevisto. Altri sostengono che un certo granduca dei Domovoj avesse perso una scommessa con il sovrano dei Folletti dell'acqua.<br/>Solo quando delle inestinguibili fiamme azzurre e infernali si propagarono sul lago, e i nemici sottostanti si contorsero tra onde soffocanti, tutto fu chiaro...<br/>Nelle mani di persone esperte dei mutamenti del mondo, l'acqua stessa poteva bruciare, e anche il nettare più dolce poteva rivelarsi più letale del veleno.",
+  "source": [
+    "Segnaposto - Quantità realizzabile: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114090,
+        "id": "intoxication_of_the_cellared_spiritual_nectar",
+        "name": "Ebbrezza del nettare spirituale invecchiato",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio della forgiatura: Cicatrici di un'ossessione maledetta",
+  "days": [
+    "Martedì",
+    "Venerdì",
+    "Domenica"
+  ]
+}

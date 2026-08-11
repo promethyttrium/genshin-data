@@ -197,7 +197,6 @@
   "categoryText": "Kẻ Thù Mạnh Đáng Nhớ",
   "filename_icon": "UI_MonsterIcon_Tartaglia",
   "description": "Quan Chấp Hành thứ 11 của Fatui, \"Childe\" Tartaglia.\\nHấp thu sức mạnh từ trong \"Delusion\" xui xẻo, học được võ thuật chiến đấu từ trong bóng tối.\\n\\nLà một chiến sĩ thuần túy khao khát chiến đấu.\\nNhững trận chiến ác liệt, những lần đối mặt với sinh tử, với anh ta mà nói đều là những trận thử thách vui vẻ.\\nMọi người đều nói chiến tích của \"Childe\" vang vọng khắp xa gần.\\nNhưng bản thân anh ta lại không tán đồng với những lời lẽ thổi phồng này.\\n\\nSuy cho cùng thì...\\n<i>\"Vận mệnh của bạn là sẽ trở thành mắt bão của chiến tranh, </i>\\n<i>\"Tiếng đao kiếm va vào nhau sẽ là âm nhạc đồng hành cùng bạn.</i>\\n<i>\"Ký ức đen tối khi bước vào đêm đen,</i>\\n<i>\"cuối cùng sẽ trở thành sức mạnh để bạn lật đổ thế giới.\"</i>",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

@@ -197,7 +197,6 @@
   "categoryText": "Şanlı Düşmanlar",
   "filename_icon": "UI_MonsterIcon_Tartaglia",
   "description": "Fatui Habercilerinin On Birincisi \"Asilzade\" Tartaglia.\\nSahip olduğu uğursuz Sanrıdan güç alır ve karanlık bir diyarda öğrendiği dövüş sanatlarını kullanarak dövüşür.\\n\\nSavaşmaya doyamayan gerçek bir savaşçıdır.\\nHer kanlı çatışma, her ölüm kalım mücadelesi onun için heyecanlı bir imtihandır.\\nGenç Asilzade'nin savaşlardaki ustalığı sayesinde ülkede ün kazandığı söylenir.\\nAma o, böyle büyük konuşmaları hiç ciddiye almamış.\\n\\nSonuçta...\\n<i>\"Daima fırtınanın gözü olacaksın...</i>\\n<i>\"Kılıçların çarpışmasını daima işiteceksin.\"</i>\\n<i>\"Zifiri karanlığa adım attığında, o simsiyah ortamda...\"</i>\\n<i>\"Sonunda dünyayı değiştirmene yardım edecek gücü elde edeceksin.\"</i>",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

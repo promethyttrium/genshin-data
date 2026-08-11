@@ -13,7 +13,6 @@
   "categoryText": "Vida Elemental",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Electric",
   "description": "Uma forma de vida elemental que possui afinidade elemental enorme. Os longos anos de exposição ao Electro resultaram na sua forma atual.\\nUma das manifestações com temperamento mais violento. Comanda os raios ferozes como servos, ao ponto de qualquer terra em seu caminho ser marcada por uma calamidade trovejante.\\nNas orações do norte longínquo, dizem que nasceram das bênçãos da Lua Gelada, simbolizando a fonte pura do brilho primordial. Talvez seja por isso que acham o manchar de sua pureza com as sete cores da luz divina insuportável, rejeitando toda vida que se aproxima.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

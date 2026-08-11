@@ -1,0 +1,21 @@
+{
+  "_id": 330004,
+  "id": "starlight_of_fylkir_sublimation",
+  "name": "フュルキルの星芒・真化",
+  "description": "地脈の最深部から顕現した、「永遠」の光を放つ輝ける刃の幻像。持ち主の元素タイプに応じて自身を変化させることができる。今ではもう追憶することすらできない古の時代、高天の御使が金で飾られた長槍をシャール・フィンドニールの大司祭に授け、未だ蒼銀に葬られていない都市国家を導くことを許したと言われている。",
+  "rarity": 5,
+  "type": {
+    "id": "Polearm",
+    "name": "長柄武器"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1004,
+    "name": "輝きの幻形・永遠（真化）",
+    "priority": 2
+  },
+  "item_id": 341304,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphFylkir_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphFylkir_Great"
+}

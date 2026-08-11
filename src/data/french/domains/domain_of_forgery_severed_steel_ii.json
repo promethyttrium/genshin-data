@@ -1,0 +1,58 @@
+{
+  "_id": 4716,
+  "id": "domain_of_forgery_severed_steel_ii",
+  "name": "Donjon d'entraînement : Acier tranché II",
+  "entranceId": 2106,
+  "entranceName": "Cicatrice d'une obsession maudite",
+  "description": "Jadis refuge secret pour les rebelles rêvant d'un retour à l'ancien ordre, leurs illusions périrent dans les flammes sanglantes, ne laissant derrière elles que des cendres infinies.\nVaincre les ennemis qui rôdent ici peut vous faire gagner des objets qui peuvent être utilisés pour renforcer votre équipement.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 36,
+  "unlockRank": 21,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "Anémo",
+    "Cryo"
+  ],
+  "daysOfWeek": [
+    "Mercredi",
+    "Samedi",
+    "Dimanche"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP d'aventure",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "1550"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP d'affinité",
+      "count": "15"
+    },
+    {
+      "_id": 114094,
+      "id": "the_frost_emperors_ceremony",
+      "name": "Cérémonie de l'empereur glacial"
+    },
+    {
+      "_id": 114093,
+      "id": "the_frost_emperors_revival",
+      "name": "Renaissance de l'empereur glacial"
+    }
+  ],
+  "monsterList": []
+}

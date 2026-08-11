@@ -1,7 +1,7 @@
 {
   "_id": 26220301,
   "id": "gluttonous_yumkasaur_mountain_king",
-  "monsterId": 26220303,
+  "monsterId": 84622032,
   "name": "Gefräßiger Yumkasaurier-Bergkönig",
   "specialNames": [
     "König des Berges"
@@ -15,7 +15,7 @@
   "description": "Der mächtige Yumkasaurier, der seit den Urzeiten bis heute überlebt und zahllose Schlachten miterlebt hat.\\nDer „Bergkönig“, der sich einst an der Seite der Helden der schwarzen Flut stellte, genießt in den Herzen der Mitglieder des Stammes der „Nachkommen der Baumkrone“ hohes Ansehen. Einige Stammesangehörige glauben, dass er einen besonderen Körperbau hat, der dem des „Tyrannen“ der Qucusaurier ähnelt ... Vielleicht liegt es aber auch nur daran, dass er so lange gelebt und so viel gefressen hat.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 7,
-  "budget": 1,
+  "budget": 2,
   "stats": {
     "resistance": {
       "physical": 0.1,

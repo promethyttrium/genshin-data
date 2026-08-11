@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Catalisador",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 8274,
@@ -29,8 +31,10 @@
     {
       "id": "black_pheasant_strides_on_water",
       "name": "Faisão Negro Caminha sobre a Água",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#80FFD7FF\">Dano Anemo</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "swallowwisp_pinion_dance",
       "name": "Dança das Plumas da Fênix",
-      "desc": "Cria 2 acúmulos de <span style=\"color:#FFFFFFFF\">Escudo da Fênix</span>, ganha 1 acúmulo de <span style=\"color:#FFFFFFFF\">Troca Eficiente</span> e causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?. Se essa Habilidade desencadear Redemoinho, cria 1 acúmulo adicional de <span style=\"color:#FFFFFFFF\">Escudo da Fênix</span>.",
-      "skillTag": [],
+      "desc": "Cria 2 acúmulos de <span style=\"color:#FFFFFFFF\">Escudo da Fênix</span>, ganha 1 acúmulo de <span style=\"color:#FFFFFFFF\">Troca Eficiente</span> e causa 1 ponto de <span style=\"color:#80FFD7FF\">Dano Anemo</span>. Se essa Habilidade desencadear Redemoinho, cria 1 acúmulo adicional de <span style=\"color:#FFFFFFFF\">Escudo da Fênix</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "lustrous_moonrise",
       "name": "Aurora da Lua Cintilante",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, cria 2 acúmulos de <span style=\"color:#FFFFFFFF\">Escudo da Fênix</span>.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#80FFD7FF\">Dano Anemo</span>, cria 2 acúmulos de <span style=\"color:#FFFFFFFF\">Escudo da Fênix</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1105,

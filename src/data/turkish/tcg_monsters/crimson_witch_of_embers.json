@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Ateş",
+    "weapon": "Diğer Silahlar",
     "faction": [
-      null
+      "Fatui"
     ]
   },
   "skills": [
     {
       "id": "crimson_lotus_moth",
       "name": "Kızıl Nilüfer Güvesi",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -36,8 +40,10 @@
     {
       "id": "decimating_lash",
       "name": "Ölümcül Kırbaç",
-      "desc": "? ? verir ve hedef karaktere <span style=\"color:#FFFFFFFF\">Kavurucu Sıcak</span> eklenir.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir ve hedef karaktere <span style=\"color:#FFFFFFFF\">Kavurucu Sıcak</span> eklenir.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,8 +56,10 @@
     {
       "id": "whirling_blaze",
       "name": "Girdap Alevi",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "6 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1103,

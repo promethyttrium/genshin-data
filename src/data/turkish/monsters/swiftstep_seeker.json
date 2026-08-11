@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Human_Female_Sword_Hookwalker",
   "description": "Gök Kubbenin savaşçısı, ormanlık vadilerde ve dağlardaki derelerde devriye gezen bir kabile savaşçısı.\\nDiğer kabilelerdeki savaşçıların aksine ellerinde kancayla dağlarda dolaşan bu savaşçılar sürekli beklenmedik saldırılarla düşmanlarını nasıl yenebileceklerini düşünürler.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 12,
   "stats": {

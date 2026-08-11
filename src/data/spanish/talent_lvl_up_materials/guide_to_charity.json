@@ -1,0 +1,30 @@
+{
+  "_id": 104366,
+  "id": "guide_to_charity",
+  "name": "Guía del amor",
+  "description": "Material de mejora de talento.\\nEl amor es la redención de la Nación del Hielo.\\nEl amor da lugar a la compasión hacia los demás. En la nación de las ventiscas, quien se arrepienta sinceramente de los pecados de su alma recibirá el perdón en nombre del amor.",
+  "source": [
+    "Cantidad sintetizable: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104365,
+        "id": "teachings_of_charity",
+        "name": "Enseñanzas del amor",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio de la maestría: Meditación IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Lunes",
+    "Jueves",
+    "Domingo"
+  ]
+}

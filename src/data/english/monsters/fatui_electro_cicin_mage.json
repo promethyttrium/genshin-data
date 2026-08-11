@@ -52,7 +52,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Summoner_01",
   "description": "A Fatui mage who can command Electro Cicins in battle. Their origins and what they look like under that mask are both mysteries.\\nSimilarly to the way that Electro Cicins go crazy for Mist Grass, Cicin Mages take great pleasure in toying with their prey.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

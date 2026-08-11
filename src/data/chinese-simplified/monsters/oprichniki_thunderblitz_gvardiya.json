@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "愚人众",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Female_Slim_MachineGun",
   "description": "隶属于愚人众特辖队的精锐士官，擅长操持双铳进行战斗。\\n与先遣队不同，特辖队的士官几乎皆由至冬皇家军事学院所出，无论是以贵族的身份，还是以平民的天赋。毕竟在女皇仁爱的理想中，两者原本便也不存在区别。正如传统中只能由妖精缙绅担任的「近卫军」，如今也已演变为特辖队士官的荣誉头衔，平等地授予那些构筑新世界的人们。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "캐릭터 카드",
     "energy": 2,
+    "element": "불 원소",
+    "weapon": "기타 무기",
     "faction": [
-      null
+      "우인단"
     ],
     "talent_card": {
       "_id": 3237,
@@ -27,8 +29,10 @@
     {
       "id": "thrust",
       "name": "찌르기",
-      "desc": "?를 ?pt 준다.",
-      "skillTag": [],
+      "desc": "?를 2pt 준다.",
+      "skillTag": [
+        "일반 공격"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -47,8 +51,10 @@
     {
       "id": "prowl",
       "name": "기회 포착",
-      "desc": "?를 ?pt 주고 본 캐릭터에게 <span style=\"color:#FFFFFFFF\">잠행</span>이 부착된다.",
-      "skillTag": [],
+      "desc": "<span style=\"color:#FF9999FF\">불 원소 피해</span>를 1pt 주고 본 캐릭터에게 <span style=\"color:#FFFFFFFF\">잠행</span>이 부착된다.",
+      "skillTag": [
+        "원소전투 스킬"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -61,8 +67,10 @@
     {
       "id": "blade_ablaze",
       "name": "불태워진 칼날",
-      "desc": "?를 ?pt 준다.",
-      "skillTag": [],
+      "desc": "<span style=\"color:#FF9999FF\">불 원소 피해</span>를 5pt 준다.",
+      "skillTag": [
+        "원소폭발"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -82,7 +90,9 @@
       "id": "stealth_master",
       "name": "잠행 마스터",
       "desc": "[패시브] 전투 시작 시, 시작부터 <span style=\"color:#FFFFFFFF\">잠행</span>이 부착된다.",
-      "skillTag": [],
+      "skillTag": [
+        "패시브 스킬"
+      ],
       "points": []
     }
   ]

@@ -13,7 +13,6 @@
   "categoryText": "Seres elementales",
   "filename_icon": "UI_MonsterIcon_Effigy_Water",
   "description": "Nombre en clave: He. Un ser Hydro de alta pureza.\\nLos Hipóstasis tienen una fuerte capacidad de rechazo, pues ahuyentan despiadadamente a toda persona que se les acerca.\\nEntre las cosas que rechazan, se incluyen hasta los elementos de la naturaleza.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

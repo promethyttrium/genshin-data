@@ -1,0 +1,90 @@
+{
+  "_id": 1516,
+  "id": "jahoda",
+  "shareId": 609,
+  "name": "雅珂达",
+  "title": "系风攘影·雅珂达",
+  "desc": "千虑秘闻，亦有一得。",
+  "attributes": {
+    "hp": 10,
+    "card_type": "角色牌",
+    "energy": 2,
+    "element": "风元素",
+    "weapon": "弓",
+    "faction": [
+      "挪德卡莱"
+    ],
+    "source": "在猫尾酒馆中邀请雅珂达进行对局，在友好对局难度中获得胜利后获取"
+  },
+  "skills": [
+    {
+      "id": "strike_while_the_arrows_hot",
+      "name": "见机行矢",
+      "desc": "造成2点?。",
+      "skillTag": [
+        "普通攻击"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "风元素",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "无色元素",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "savvy_strategy_splitting_the_spoils",
+      "name": "奇策·财富分配方案",
+      "desc": "造成2点<span style=\"color:#80FFD7FF\">风元素伤害</span>，生成1层<span style=\"color:#FFFFFFFF\">敏捷切换</span>，我方切换到下一个角色。如果手牌中没有任意元素的<span style=\"color:#FFFFFFFF\">呼噜噜秘藏瓶</span>，则生成手牌<span style=\"color:#FFFFFFFF\">呼噜噜秘藏瓶</span>；否则，赋予手牌中所有的<span style=\"color:#FFFFFFFF\">呼噜噜秘藏瓶</span><span style=\"color:#FFFFFFFF\">费用降低</span>。",
+      "skillTag": [
+        "元素战技"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "风元素",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "hidden_aces_seven_tools_of_the_hunter",
+      "name": "秘器·猎人的七道具",
+      "desc": "造成3点<span style=\"color:#80FFD7FF\">风元素伤害</span>，生成<span style=\"color:#FFFFFFFF\">猫型家用互助协调器</span>。",
+      "skillTag": [
+        "元素爆发"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "风元素",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "充能",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "moonsign_benediction_rooftop_dash",
+      "name": "月兆祝赐·檐上趱行",
+      "desc": "【被动】战斗开始时，生成手牌<span style=\"color:#FFFFFFFF\">呼噜噜秘藏瓶</span>。<br/>我方触发月反应或扩散反应后，使我方手牌中所有<span style=\"color:#FFFFFFFF\">呼噜噜秘藏瓶</span>附着<span style=\"color:#FFFFFFFF\">费用降低</span>。（每回合2次）",
+      "skillTag": [
+        "被动技能"
+      ],
+      "points": []
+    }
+  ]
+}

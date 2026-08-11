@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Warrior's Metal Whistle",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Sentry's Wooden Whistle",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Other Human Factions",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Flamingo",
   "description": "A powerful warrior from the clifftops, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\\nEven in Natlan, the Nation of Pyro, members of the Flower-Feather Clan have a unique approach when it comes to wielding fire and flames. For these tribal warriors, armed as they are with heavy hammers, flames are something that burst forth from violent collisions, symbols of intense passion. When they do battle, the fight usually ends within an instant— and they are always the ones who stand victorious.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

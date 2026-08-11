@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl-Stämme",
   "filename_icon": "UI_MonsterIcon_Hili_Ice_Range",
   "description": "Die naturverbundenen, umherziehenden Bewohner der Wildnis von Teyvat.\\nDiese Schützen führen einfache Armbrüste, ihre Pfeilspitzen sind mit ewigem Eis umhüllt. Durch diese Pfeile zugefügte Wunden sollen sehr langsam heilen, da die Kälte die Blutzirkulation verlangsamt.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

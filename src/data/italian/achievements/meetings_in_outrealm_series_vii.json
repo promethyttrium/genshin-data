@@ -1,0 +1,80 @@
+{
+  "_id": 72,
+  "id": "meetings_in_outrealm_series_vii",
+  "name": "Incontri in un altro mondo: Serie VII",
+  "order": 37,
+  "achievements": [
+    {
+      "id": 86079,
+      "name": "La caduta dell'Essere",
+      "desc": "Sconfiggi un Herra della Notte gelata in modalità cooperativa.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9076
+    },
+    {
+      "id": 86080,
+      "name": "Ventisei. Penetrazione!",
+      "desc": "Sconfiggi un Incrociatore terrestre super pesante: Fortezza meccanizzata in modalità cooperativa.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9077
+    },
+    {
+      "id": 86081,
+      "name": "E allora non dirlo!",
+      "desc": "Sconfiggi un Signore delle profondità nascoste: Sussurratore di incubi in modalità cooperativa.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9078
+    },
+    {
+      "id": 86082,
+      "name": "Rifiuta la menzogna, rivela la verità",
+      "desc": "Sconfiggi il Luminare in modalità cooperativa.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9079
+    },
+    {
+      "id": 86083,
+      "name": "Cosa hai protetto, alla fine?",
+      "desc": "Sconfiggi un Gecoluna radioso in modalità cooperativa.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9080
+    },
+    {
+      "id": 86084,
+      "name": "\"Se affilassi la mia spada scintillante...\"",
+      "desc": "Sconfiggi l'Osservatore: Veglia sacrilega in modalità cooperativa.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9081
+    },
+    {
+      "id": 86085,
+      "name": "Ignoranza indipendente",
+      "desc": "Sconfiggi il Luminare in modalità cooperativa.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9082
+    },
+    {
+      "id": 86086,
+      "name": "Immortalità spezzata",
+      "desc": "Sconfiggi un Costrutto immortale in modalità cooperativa.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9083
+    },
+    {
+      "id": 86087,
+      "name": "Vitalità infinita",
+      "desc": "Sconfiggi un Leone alato chimerico in modalità cooperativa.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9084
+    }
+  ]
+}

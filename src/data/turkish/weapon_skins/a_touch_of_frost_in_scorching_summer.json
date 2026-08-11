@@ -1,0 +1,16 @@
+{
+  "_id": 380003,
+  "id": "a_touch_of_frost_in_scorching_summer",
+  "name": "Kavurucu Yaza Bir Buzul Dokunuşu!",
+  "description": "Ayaz Perilerinden iyi dostlarına küçük bir hediye! İnanılmaz lezzetli görünüyor, böğürtlen reçeli aromalı gibi. Tek bir ısırıkla ferahlatıcı bir serinlik ve keyifli bir tatlılık dilinin üzerinde birlikte dans edecek gibi bir duruşu var... Ah bir de gerçekten yenilebilir olsa. Her halükarda aşırı lezzetli görünüyor.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Kılıç"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341803,
+  "icon_path": "UI_EquipIcon_Sword_Icecream",
+  "image_path": "UI_Gacha_EquipIcon_Sword_Icecream"
+}

@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automaton",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Probe",
   "description": "Clockwork Meka yang didesain dan diciptakan untuk mendeteksi sumber daya tanah dan bijih tertentu di dalam tanah.\\nKarena bisa mengatur jenis logam yang dicari, mekanisme ini benar-benar populer di kalangan Treasure Hoarder dan petualang.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

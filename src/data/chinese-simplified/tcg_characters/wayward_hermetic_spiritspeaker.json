@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "角色牌",
     "energy": 2,
+    "element": "冰元素",
+    "weapon": "其他武器",
     "faction": [
-      null
+      "魔物"
     ],
     "source": "在猫尾酒馆中小王子处进行酒馆挑战，在友好对局难度灵觉隐修的迷者中获得胜利后获取"
   },
@@ -18,8 +20,10 @@
     {
       "id": "spiritspeaking_frost_star",
       "name": "灵觉·寒星",
-      "desc": "造成?点?。",
-      "skillTag": [],
+      "desc": "造成1点<span style=\"color:#99FFFFFF\">冰元素伤害</span>。",
+      "skillTag": [
+        "普通攻击"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -38,8 +42,10 @@
     {
       "id": "radiance_in_flux",
       "name": "千变的浮彩",
-      "desc": "造成?点?，将1张<span style=\"color:#FFFFFFFF\">浮彩</span>加入牌库中第3张的位置，并从3个随机的<span style=\"color:#FFFFFFFF\">浮彩</span>强化效果中<span style=\"color:#FFFFFFFF\">挑选</span>1个。",
-      "skillTag": [],
+      "desc": "造成1点<span style=\"color:#99FFFFFF\">冰元素伤害</span>，将1张<span style=\"color:#FFFFFFFF\">浮彩</span>加入牌库中第3张的位置。如果是本局游戏前4次使用此技能，则从3个随机的<span style=\"color:#FFFFFFFF\">浮彩</span>强化效果中<span style=\"color:#FFFFFFFF\">挑选</span>1个。",
+      "skillTag": [
+        "元素战技"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -52,8 +58,10 @@
     {
       "id": "chilling_illustration",
       "name": "沍寒的图绘",
-      "desc": "造成?点?，将1张<span style=\"color:#FFFFFFFF\">浮彩</span>加入手牌。",
-      "skillTag": [],
+      "desc": "造成4点<span style=\"color:#99FFFFFF\">冰元素伤害</span>，将1张<span style=\"color:#FFFFFFFF\">浮彩</span>加入手牌。",
+      "skillTag": [
+        "元素爆发"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -73,7 +81,9 @@
       "id": "iridescent_silhouette",
       "name": "斑斓的绚影",
       "desc": "【被动】战斗开始时，生成3张<span style=\"color:#FFFFFFFF\">浮彩</span>，均匀放入牌库。",
-      "skillTag": [],
+      "skillTag": [
+        "被动技能"
+      ],
       "points": []
     }
   ]

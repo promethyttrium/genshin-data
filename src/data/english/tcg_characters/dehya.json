@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Claymore",
     "faction": [
-      null,
-      null
+      "Sumeru",
+      "The Eremites"
     ],
     "talent_card": {
       "_id": 4367,
@@ -30,8 +32,10 @@
     {
       "id": "sandstorm_assault",
       "name": "Sandstorm Assault",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,8 +54,10 @@
     {
       "id": "molten_inferno",
       "name": "Molten Inferno",
-      "desc": "Summon <span style=\"color:#FFFFFFFF\">Fiery Sanctum Field</span>. If Fiery Sanctum Field already exists, then first deal ? ?.",
-      "skillTag": [],
+      "desc": "Summon <span style=\"color:#FFFFFFFF\">Fiery Sanctum Field</span>. If Fiery Sanctum Field already exists, then first deal 1 <span style=\"color:#FF9999FF\">Pyro DMG</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -64,8 +70,10 @@
     {
       "id": "leonine_bite",
       "name": "Leonine Bite",
-      "desc": "Deals ? ?, then performs \"<span style=\"color:#FFFFFFFF\">Prepare Skill</span>\" for <span style=\"color:#FFFFFFFF\">Incineration Drive</span>.",
-      "skillTag": [],
+      "desc": "Deals 3 <span style=\"color:#FF9999FF\">Pyro DMG</span>, then performs \"<span style=\"color:#FFFFFFFF\">Prepare Skill</span>\" for <span style=\"color:#FFFFFFFF\">Incineration Drive</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1103,

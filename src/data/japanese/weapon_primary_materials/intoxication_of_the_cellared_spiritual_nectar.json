@@ -1,0 +1,29 @@
+{
+  "_id": 114090,
+  "id": "intoxication_of_the_cellared_spiritual_nectar",
+  "name": "蔵に眠る霊薬の酩酊",
+  "description": "他の地では食糧の豊作を祝う余興にすぎないものも、極寒の中を行く諸氏族にとっては、生きるために欠かせないものだった。<br/>酒造りの技に最も長けた小さき者たちは、かつてその技を頼りに、当時忠誠を誓っていた王の宝庫へ富を蓄えたという。<br/>こうしてフェイの醸造酒は氏族間の交易を通じ、毒を滴らせる蜜のように凍土全域へと流れていった。",
+  "source": [
+    "合成可能数：{0}"
+  ],
+  "location": "スネージナヤ",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114089,
+        "id": "measured_pour_of_the_cellared_spiritual_nectar",
+        "name": "蔵に眠る霊薬の酌量",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "煉武秘境・「妄執の傷跡」",
+  "days": [
+    "火曜",
+    "金曜",
+    "日曜"
+  ]
+}

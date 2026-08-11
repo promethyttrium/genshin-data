@@ -8,13 +8,12 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Shamansaurus_Normal",
   "description": "Der Iktomisaurier nutzt seine Federn, um sich in die Luft zu befördern und er ist der einzige Saurier, der die Kunst beherrscht, sich in den Zustand des „Seelensprechers“ zu versetzen.\\nDer Legende nach sollen seine Vorfahren keine wirkliche physische Form besessen haben, sondern wie wandernde Seelen durch die Welten der Geister und der Realität gereist sein und ihre Gestalt im nächtlichen Dämmerlicht manifestiert haben. Es wird auch gemunkelt, dass die ersten Iktomisaurier keine echten Saurier gewesen seien, sondern vielmehr eine Spezies, die sich von der normalen Saurierpopulation unterschied und aus dem Reich von Yohualtecuhtin, Herrscher der Nacht, hervorgegangen ist.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {

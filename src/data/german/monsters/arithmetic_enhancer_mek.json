@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automata",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
   "description": "Ein Uhrwerk-Mecha, der zur Weiterleitung und Verstärkung von Signalen entwickelt wurde.\\nDie Energie, die das Uhrwerk antreibt, wird durch eine durch Ousia- und Pneuma-Energie kontrollierte Annihilationsreaktion innerhalb des Energiekerns erzeugt. Eine Überlastung mit zu viel Energie führt daher zu einer Störung des ursprünglichen Gleichgewichts.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

@@ -36,7 +36,7 @@
       "_id": 113044,
       "id": "pseudostamens",
       "name": "Smaragdstaubgefäß",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104154,
@@ -119,7 +119,6 @@
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Sandworm",
   "description": "Ein in der Tiefe der Wüste lebendes blindes Raubtier, das seine Beute mithilfe von Geräuschen und Erschütterungen der Erde aufspürt.\\nDer Legende nach waren die Gebiete, über die sie in prähistorischer Zeit herrschten, mit Pflanzen und riesigen Bäumen bewachsen, und gemeinsam mit ihrem Herrscher durchdrangen sie den feuchten Schlamm ihres Herrschaftsgebiets, so wie Fische das Wasser.\\nNach vielen Äonen verwandelte sich der Schlamm durch die Gnade des Himmels zu grobem Sand. Viele Lebensformen vergingen, viele Arten starben aus und aus dieser auf das Land angewiesenen Art wurden die „Wenut“.\\nDie Wüstenbewohner scheinen aufgrund ihrer ähnlichen Lebensweise fälschlich anzunehmen, dass „Wenut“ die vollständig entwickelte Form der Treibsandaale nach deren Verpuppung seien.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

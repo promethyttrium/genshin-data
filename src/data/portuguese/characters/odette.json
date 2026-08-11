@@ -1,0 +1,1393 @@
+{
+  "_id": 10000150,
+  "id": "odette",
+  "name": "Odette",
+  "title": "Graça Girante na Neve",
+  "description": "Uma renomada bailarina de Snezhnaya, ela desabrocha em meio à paisagem congelada com uma beleza tão cortante quanto a geada.",
+  "weapon_type": {
+    "id": "sword",
+    "name": "Espada"
+  },
+  "element": {
+    "id": "cryo",
+    "name": "Cryo"
+  },
+  "gender": {
+    "id": "female",
+    "name": "Feminino"
+  },
+  "release": 1786395600,
+  "substat": "Dano Crítico",
+  "affiliation": "Companhia Korolevskiy",
+  "region": {
+    "id": "snezhnaya_star",
+    "name": "SNEZHNAYA_STAR"
+  },
+  "rarity": 5,
+  "birthday": [
+    20,
+    2
+  ],
+  "constellation": "Cygnus Olor",
+  "domain": "Domínio da Proficiência: Contemplação",
+  "cv": {
+    "english": "Alexis Tipton",
+    "chinese": "潘丹妮",
+    "japanese": "上坂堇",
+    "korean": "Choi Hyun-ji"
+  },
+  "skills": [
+    {
+      "_id": 11501,
+      "id": "snow_swan_variation",
+      "name": "Variação do Cisne da Neve",
+      "description": "<span style=\"color:#FFD780FF\">Ataque Normal</span><br/>Realiza até 5 golpes rápidos.<br/><br/><span style=\"color:#FFD780FF\">Ataque Carregado</span><br/>Consome uma certa quantidade de Stamina para brandir a espada em frente em um lampejo brilhante.<br/><br/><span style=\"color:#FFD780FF\">Ataque Imersivo</span><br/>Mergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Dano do 1° Golpe",
+          "values": [
+            "51.9%",
+            "56.1%",
+            "60.3%",
+            "66.3%",
+            "70.5%",
+            "75.4%",
+            "82%",
+            "88.6%",
+            "95.3%",
+            "102.5%",
+            "109.7%",
+            "117%",
+            "124.2%",
+            "131.5%",
+            "138.7%"
+          ]
+        },
+        {
+          "label": "Dano do 2° Golpe",
+          "values": [
+            "51.5%",
+            "55.7%",
+            "59.9%",
+            "65.9%",
+            "70.1%",
+            "74.9%",
+            "81.5%",
+            "88%",
+            "94.6%",
+            "101.8%",
+            "109%",
+            "116.2%",
+            "123.4%",
+            "130.6%",
+            "137.8%"
+          ]
+        },
+        {
+          "label": "Dano do 3° Golpe",
+          "values": [
+            "32.6% + 38.3%",
+            "35.3% + 41.4%",
+            "37.9% + 44.5%",
+            "41.7% + 49%",
+            "44.4% + 52.1%",
+            "47.4% + 55.6%",
+            "51.6% + 60.5%",
+            "55.7% + 65.4%",
+            "59.9% + 70.3%",
+            "64.5% + 75.7%",
+            "69% + 81%",
+            "73.6% + 86.3%",
+            "78.1% + 91.7%",
+            "82.7% + 97%",
+            "87.2% + 102.4%"
+          ]
+        },
+        {
+          "label": "Dano do 4° Golpe",
+          "values": [
+            "74.6%",
+            "80.6%",
+            "86.7%",
+            "95.4%",
+            "101.5%",
+            "108.4%",
+            "117.9%",
+            "127.5%",
+            "137%",
+            "147.4%",
+            "157.8%",
+            "168.2%",
+            "178.6%",
+            "189%",
+            "199.4%"
+          ]
+        },
+        {
+          "label": "Dano do 5° Golpe",
+          "values": [
+            "90.2%",
+            "97.6%",
+            "104.9%",
+            "115.4%",
+            "122.7%",
+            "131.1%",
+            "142.7%",
+            "154.2%",
+            "165.7%",
+            "178.3%",
+            "190.9%",
+            "203.5%",
+            "216.1%",
+            "228.7%",
+            "241.3%"
+          ]
+        },
+        {
+          "label": "Dano de Ataque Carregado",
+          "values": [
+            "107.4%",
+            "116.2%",
+            "124.9%",
+            "137.4%",
+            "146.1%",
+            "156.1%",
+            "169.9%",
+            "183.6%",
+            "197.3%",
+            "212.3%",
+            "227.3%",
+            "242.3%",
+            "257.3%",
+            "272.3%",
+            "287.3%"
+          ]
+        },
+        {
+          "label": "Consumo de Stamina de Ataque Carregado",
+          "values": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "label": "Dano Durante a Queda",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "Dano de Queda de Baixa/Alta Altitude",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11502,
+      "id": "adagio_phantom_night_dancers",
+      "name": "Dança Lenta: Transe da Noite Fantasma",
+      "description": "Com passos de dança lentos e graciosos, causa <span style=\"color:#99FFFFFF\">Dano Cryo em AdE</span> e invoca <b><span style=\"color:#FFD780FF\">Sombra Dançarina</span></b> ao seu lado.<br/>Se já houver uma <span style=\"color:#FFD780FF\">Sombra Dançarina</span> invocada por Odette em campo, invoca novamente e redefine sua duração.<br/><br/><span style=\"color:#FFD780FF\">Sombra Dançarina</span><br/>Alterna entre os passos de dança <span style=\"color:#FFD780FF\">Pluma</span> e <span style=\"color:#FFD780FF\">Asa</span>, atacando os inimigos próximos periodicamente com passos de dança graciosos, causando <span style=\"color:#99FFFFFF\">Dano Cryo em AdE</span>.<br/>Além disso, nos 6s após lançar a Habilidade Elemental <span style=\"color:#FFD780FF\">Dança Lenta: Transe da Noite Fantasma</span>, a Habilidade Elemental <span style=\"color:#FFD780FF\">Dança Lenta: Transe da Noite Fantasma</span> de Odette será substituída pela Habilidade Elemental especial <b><color=#FFD780FF>Dança Lenta: Final da Alvorada</b></color><b></b>, fazendo uma valsa contra os inimigos próximos, causando continuamente <span style=\"color:#99FFFFFF\">Dano Cryo em AdE</span>, e quando a valsa acabar, causa uma instância de <span style=\"color:#99FFFFFF\">Dano Cryo em AdE</span> que é considerado Dano de Supercondutor Estelar ou Redemoinho Estelar.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Dano de Habilidade",
+          "values": [
+            "108.1%",
+            "116.2%",
+            "124.3%",
+            "135.1%",
+            "143.2%",
+            "151.3%",
+            "162.1%",
+            "172.9%",
+            "183.7%",
+            "194.5%",
+            "205.4%",
+            "216.2%",
+            "229.7%",
+            "243.2%",
+            "256.7%"
+          ]
+        },
+        {
+          "label": "Dano Contínuo de Final da Alvorada",
+          "values": [
+            "95.8%",
+            "103%",
+            "110.2%",
+            "119.8%",
+            "127%",
+            "134.2%",
+            "143.8%",
+            "153.3%",
+            "162.9%",
+            "172.5%",
+            "182.1%",
+            "191.7%",
+            "203.7%",
+            "215.6%",
+            "227.6%"
+          ]
+        },
+        {
+          "label": "Dano de Supercondutor Estelar/Redemoinho Estelar de Final da Alvorada",
+          "values": [
+            "305.8% / 458.6%",
+            "328.7% / 493%",
+            "351.6% / 527.4%",
+            "382.2% / 573.3%",
+            "405.1% / 607.7%",
+            "428.1% / 642.1%",
+            "458.6% / 688%",
+            "489.2% / 733.8%",
+            "519.8% / 779.7%",
+            "550.4% / 825.6%",
+            "580.9% / 871.4%",
+            "611.5% / 917.3%",
+            "649.7% / 974.6%",
+            "688% / 1031.9%",
+            "726.2% / 1089.3%"
+          ]
+        },
+        {
+          "label": "Dano de Passo de Dança da Pluma",
+          "values": [
+            "43%",
+            "46.3%",
+            "49.5%",
+            "53.8%",
+            "57%",
+            "60.3%",
+            "64.6%",
+            "68.9%",
+            "73.2%",
+            "77.5%",
+            "81.8%",
+            "86.1%",
+            "91.5%",
+            "96.8%",
+            "102.2%"
+          ]
+        },
+        {
+          "label": "Dano de Supercondutor Estelar/Redemoinho Estelar de Passo de Dança da Pluma",
+          "values": [
+            "27% / 40.5%",
+            "29.1% / 43.6%",
+            "31.1% / 46.6%",
+            "33.8% / 50.7%",
+            "35.8% / 53.7%",
+            "37.8% / 56.7%",
+            "40.5% / 60.8%",
+            "43.2% / 64.8%",
+            "45.9% / 68.9%",
+            "48.6% / 73%",
+            "51.3% / 77%",
+            "54% / 81.1%",
+            "57.4% / 86.1%",
+            "60.8% / 91.2%",
+            "64.2% / 96.3%"
+          ]
+        },
+        {
+          "label": "Dano de Passo de Dança da Asa",
+          "values": [
+            "51.5%",
+            "55.3%",
+            "59.2%",
+            "64.3%",
+            "68.2%",
+            "72%",
+            "77.2%",
+            "82.3%",
+            "87.5%",
+            "92.6%",
+            "97.8%",
+            "102.9%",
+            "109.4%",
+            "115.8%",
+            "122.2%"
+          ]
+        },
+        {
+          "label": "Dano de Supercondutor Estelar/Redemoinho Estelar de Passo de Dança da Asa",
+          "values": [
+            "32.3% / 48.5%",
+            "34.7% / 52.1%",
+            "37.2% / 55.7%",
+            "40.4% / 60.6%",
+            "42.8% / 64.2%",
+            "45.2% / 67.8%",
+            "48.5% / 72.7%",
+            "51.7% / 77.5%",
+            "54.9% / 82.4%",
+            "58.2% / 87.2%",
+            "61.4% / 92.1%",
+            "64.6% / 96.9%",
+            "68.7% / 103%",
+            "72.7% / 109%",
+            "76.7% / 115.1%"
+          ]
+        },
+        {
+          "label": "Recarga de Final da Alvorada",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Duração de Sombra Dançarina",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "Tempo de Recarga",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11505,
+      "id": "presto_bluebird_finale",
+      "name": "Dança Rápida: Sonho de Penas Escuras",
+      "description": "Com passos rápidos de dança, causa várias instâncias de <span style=\"color:#99FFFFFF\">Dano Cryo em AdE</span>, invoca <b><span style=\"color:#FFD780FF\">Sombra Dançarina</span></b> e obtém <span style=\"color:#FFD780FF\">Sonho do Cisne da Neve</span>: aumenta o Dano de Brilho Estelar de Odette.<br/>Além disso, nos 6s após lançar o Supremo <span style=\"color:#FFD780FF\">Dança Rápida: Sonho de Penas Escuras</span>, a Habilidade Elemental <span style=\"color:#FFD780FF\">Dança Lenta: Transe da Noite Fantasma</span> de Odette será substituída pela Habilidade Elemental especial <b><span style=\"color:#FFD780FF\">Dança Lenta: Final da Alvorada</span></b><b></b>.<br/><br/>Se houver uma Sombra Dançarina invocada por Odette, invocará ela para seu lado, e redefinirá sua duração.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "Dano de Corte",
+          "values": [
+            "110.2% x3",
+            "118.4% x3",
+            "126.7% x3",
+            "137.7% x3",
+            "146% x3",
+            "154.2% x3",
+            "165.3% x3",
+            "176.3% x3",
+            "187.3% x3",
+            "198.3% x3",
+            "209.3% x3",
+            "220.4% x3",
+            "234.1% x3",
+            "247.9% x3",
+            "261.7% x3"
+          ]
+        },
+        {
+          "label": "Dano do Corte Final",
+          "values": [
+            "170.3%",
+            "183%",
+            "195.8%",
+            "212.8%",
+            "225.6%",
+            "238.4%",
+            "255.4%",
+            "272.4%",
+            "289.5%",
+            "306.5%",
+            "323.5%",
+            "340.5%",
+            "361.8%",
+            "383.1%",
+            "404.4%"
+          ]
+        },
+        {
+          "label": "Aumento de Dano de Brilho Estelar de Sonho do Cisne da Neve",
+          "values": [
+            "14%",
+            "18%",
+            "22%",
+            "26%",
+            "30%",
+            "34%",
+            "38%",
+            "42%",
+            "46%",
+            "50%",
+            "54%",
+            "58%",
+            "62%",
+            "66%",
+            "70%"
+          ]
+        },
+        {
+          "label": "Duração de Sonho do Cisne da Neve",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "Duração de Sombra Dançarina",
+          "values": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "label": "Tempo de Recarga",
+          "values": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "label": "Energia Elemental",
+          "values": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "spring_rite_of_the_chosen_one",
+      "name": "Primavera do Escolhido",
+      "description": "Quando Odette invocar <b><span style=\"color:#FFD780FF\">Sombra Dançarina</span></b>, obtém 4 acúmulos de <b><span style=\"color:#FFD780FF\">Esplendor Maravilhoso</span></b>.",
+      "level": 1
+    },
+    {
+      "id": "pathetique_of_pateticheskaya",
+      "name": "Elegia da Sinceridade Escarlate",
+      "description": "Com base no ATQ de Odette que ultrapassar 1.000, cada 100 de ATQ fazem o Dano de Brilho Estelar de Odette causar mais 1.5% de Dano adicional original. É possível causar até 30% de Dano adicional original dessa forma.",
+      "level": 4
+    },
+    {
+      "id": "stellar_jubilee_dance_of_aurore",
+      "name": "Bênção das Estrelas: Dança da Manhã Prateada",
+      "description": "Quando estiver dentro do <b><span style=\"color:#FFD780FF\">Campo da Estrela Polar</span></b>/nos 8s após o personagem próximo da equipe desencadear Redemoinho Estelar, Odette entrará nos estados <span style=\"color:#FFD780FF\">Brilho Reluzente: Supercondutor Estelar</span>/<span style=\"color:#FFD780FF\">Brilho Reluzente: Redemoinho Estelar</span> respectivamente.<br/>Quando um personagem desencadear Supercondutor/Redemoinho Cryo, converterá para desencadear Supercondutor Estelar/Redemoinho Estelar, e aumenta o Dano Básico dessa reação com base no ATQ de Odette: cada 100 de ATQ aumenta o Dano Básico em 0.7%. É possível acumular até 14% dessa forma.",
+      "level": 0
+    },
+    {
+      "id": "echo_of_winter_daydreams",
+      "name": "Eco de um Sonho de Inverno",
+      "description": "Mostra a localização de <span style=\"color:#FFD780FF\">Especialidades de Snezhnaya</span> próximas no mapa.<br/>Ao praticar sua dança no tempo livre, talvez possa ter algum outro efeito...",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1501,
+      "id": "on_this_danceless_morn_she_gazes_at_her_reflection",
+      "name": "\"Nessa Manhã sem Dança, Ela Olha para sua Sombra\"",
+      "description": "Ao lançar a Habilidade Elemental <b><span style=\"color:#FFD780FF\">Dança Lenta: Final da Alvorada</span></b>, quando a valsa acabar, Odette causa uma instância adicional de <span style=\"color:#99FFFFFF\">Dano Cryo em AdE</span> contra os inimigos próximos. Esse Dano é considerado:<br/>· <span style=\"color:#FFD780FF\">Brilho Reluzente: Supercondutor Estelar</span> ou não está em Brilho Reluzente: causa 300% do ATQ de Odette como Dano de Supercondutor Estelar.<br/>· <span style=\"color:#FFD780FF\">Brilho Reluzente: Redemoinho Estelar</span>: causa 450% do ATQ de Odette como Dano de Redemoinho Estelar.<br/><br/>Além disso, o Talento de Ascensão \"Primavera do Escolhido\" é fortalecido: ao invocar <b><span style=\"color:#FFD780FF\">Sombra Dançarina</span></b>, Odette obtém 2 acúmulos adicionais de <b><span style=\"color:#FFD780FF\">Esplendor Maravilhoso</span></b>, e quando Odette não for a personagem ativa, a velocidade de remoção de <span style=\"color:#FFD780FF\">Esplendor Maravilhoso</span> é aumentada para 2 acúmulos por segundo.",
+      "level": 1
+    },
+    {
+      "_id": 1502,
+      "id": "i_must_see_the_snow_swans_unseen_dream_for_myself_she_thought",
+      "name": "\"Devo Ver o Sonho do Cisne da Neve, Pensou Ela\"",
+      "description": "O Talento de Ascensão \"Primavera do Escolhido\" é fortalecido: cada acúmulo de <b><span style=\"color:#FFD780FF\">Esplendor Maravilhoso</span></b> aumenta o ATQ do personagem em 7%.<br/>Além disso, quando <b><span style=\"color:#FFD780FF\">Sombra Dançarina</span></b> está em campo, se Odette estiver no estado <b><span style=\"color:#FFD780FF\">Brilho Reluzente: Brilho Estelar</span></b>, a <span style=\"color:#FFD780FF\">Sombra Dançarina</span> reduzirá a RES Elemental correspondente dos inimigos próximos em 20%.<br/>· <span style=\"color:#FFD780FF\">Brilho Reluzente: Supercondutor Estelar</span>: <span style=\"color:#99FFFFFF\">Cryo</span>, <span style=\"color:#FFACFFFF\">Electro</span>.<br/>· <span style=\"color:#FFD780FF\">Brilho Reluzente: Redemoinho Estelar</span>: <span style=\"color:#99FFFFFF\">Cryo</span>, <span style=\"color:#80FFD7FF\">Anemo</span>.",
+      "level": 2
+    },
+    {
+      "_id": 1503,
+      "id": "ill_chase_the_shouting_wind_along_climbing_alone_as_i_go",
+      "name": "\"Preciso Seguir o Vento Uivante e Continuar Avançando por Conta Própria\"",
+      "description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF><b>Dança Lenta: Transe da Noite Fantasma</b></color> em 3 níveis. <br/>O nível máximo de elevação é 15.",
+      "level": 3
+    },
+    {
+      "_id": 1504,
+      "id": "up_up_the_long_delirious_burning_blue",
+      "name": "\"Para Cima, Enquanto Caio no Céu Enevoado e Ardente\"",
+      "description": "O Supremo <span style=\"color:#FFD780FF\">Dança Rápida: Sonho de Penas Escuras</span> é fortalecido: quando Odette obter <span style=\"color:#FFD780FF\">Sonho do Cisne da Neve</span>, aumentará o Dano de Brilho Estelar dos outros personagens próximos. O aumento é de 50% do efeito <span style=\"color:#FFD780FF\">Sonho do Cisne da Neve</span>.<br/><br/>Além disso, quando um personagem da equipe causar Dano de Brilho Estelar contra um inimigo, Odette faz um Ataque Coordenado contra o inimigo, causando <span style=\"color:#99FFFFFF\">Dano Cryo em AdE</span> uma vez. Esse efeito pode ser desencadeado uma vez a cada 3.5s, e o Dano é considerado de: <br/>· Quando está em <span style=\"color:#FFD780FF\">Brilho Reluzente: Supercondutor Estelar</span> ou não está em Brilho Reluzente: 66% do ATQ de Odette como Dano de Supercondutor Estelar.<br/>· <span style=\"color:#FFD780FF\">Brilho Reluzente: Redemoinho Estelar</span>: 99% do ATQ de Odette como Dano de Redemoinho Estelar.",
+      "level": 4
+    },
+    {
+      "_id": 1505,
+      "id": "oh_i_have_slipped_the_surly_bonds_of_earth",
+      "name": "\"Veja, Me Despedi do Sofrimento Terreno\"",
+      "description": "Aumenta o nível de <color=#FFD780FF><b>Dança Rápida: Sonho de Penas Escuras</b></color> em 3.<br/>O nível máximo de elevação é 15.",
+      "level": 5
+    },
+    {
+      "_id": 1506,
+      "id": "put_out_my_hand_and_touched_the_face_of_the_divine",
+      "name": "\"Estenda sua Mão para Tocar o Céu\"",
+      "description": "O Talento de Ascensão \"Primavera do Escolhido\" é fortalecido: quando Odette conceder <b><span style=\"color:#FFD780FF\">Esplendor Maravilhoso</span></b> para todos os membros da equipe próximos, seu Esplendor Maravilhoso não será reduzido.<br/>Além disso, personagens sob efeito de <span style=\"color:#FFD780FF\">Esplendor Maravilhoso</span> têm seu Dano de Brilho Estelar causado contra inimigos <b><span style=\"color:#FFD780FF\">Elevado</span></b> em 25%, e Eleva o Dano de Brilho Estelar causado contra os inimigos por Odette em 20% adicionais.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "-",
+            "1011"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "-",
+            "26"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "-",
+            "61"
+          ]
+        },
+        {
+          "label": "Dano Crítico",
+          "values": [
+            "-",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "2621",
+            "3488"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "68",
+            "90"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "159",
+            "211"
+          ]
+        },
+        {
+          "label": "Dano Crítico",
+          "values": [
+            "50.0%",
+            "50.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "5219",
+            "5834"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "135",
+            "151"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "316",
+            "354"
+          ]
+        },
+        {
+          "label": "Dano Crítico",
+          "values": [
+            "50.0%",
+            "59.6%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104161,
+        "id": "shivada_jade_sliver",
+        "name": "Lasca de Jade Shivada",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Flor Imortal Gélida",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Granizo Etéreo",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "6712",
+            "7533"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "173",
+            "194"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "407",
+            "457"
+          ]
+        },
+        {
+          "label": "Dano Crítico",
+          "values": [
+            "59.6%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "Fragmento de Jade Shivada",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Galho de Flor Intocado",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Flor Imortal Gélida",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Granizo Etéreo",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "8421",
+            "9036"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "217",
+            "233"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "511",
+            "548"
+          ]
+        },
+        {
+          "label": "Dano Crítico",
+          "values": [
+            "69.2%",
+            "69.2%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104162,
+        "id": "shivada_jade_fragment",
+        "name": "Fragmento de Jade Shivada",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Galho de Flor Intocado",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Flor Imortal Gélida",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Cristal Etéreo",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "9932",
+            "10547"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "256",
+            "272"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "602",
+            "639"
+          ]
+        },
+        {
+          "label": "Dano Crítico",
+          "values": [
+            "69.2%",
+            "78.8%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "Pedaço de Jade Shivada",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Galho de Flor Intocado",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Flor Imortal Gélida",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Cristal Etéreo",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "11453",
+            "12068"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "295",
+            "311"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "694",
+            "732"
+          ]
+        },
+        {
+          "label": "Dano Crítico",
+          "values": [
+            "78.8%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104163,
+        "id": "shivada_jade_chunk",
+        "name": "Pedaço de Jade Shivada",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Galho de Flor Intocado",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Flor Imortal Gélida",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "Escama Cristalina Etérea",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Ascender",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "Vida Básica",
+          "values": [
+            "12981",
+            "12981"
+          ]
+        },
+        {
+          "label": "ATQ Básico",
+          "values": [
+            "335",
+            "335"
+          ]
+        },
+        {
+          "label": "DEF Básica",
+          "values": [
+            "787",
+            "787"
+          ]
+        },
+        {
+          "label": "Dano Crítico",
+          "values": [
+            "88.4%",
+            "88.4%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104164,
+        "id": "shivada_jade_gemstone",
+        "name": "Gema de Jade Shivada",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113090,
+        "id": "unscorched_blossom_branch",
+        "name": "Galho de Flor Intocado",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101275,
+        "id": "frostfairy_flower",
+        "name": "Flor Imortal Gélida",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112148,
+        "id": "ethereal_crystalscale_stone",
+        "name": "Escama Cristalina Etérea",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104365,
+          "id": "teachings_of_charity",
+          "name": "Ensinamentos da Caridade",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "Granizo Etéreo",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guia da Caridade",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Cristal Etéreo",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guia da Caridade",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Cristal Etéreo",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guia da Caridade",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Cristal Etéreo",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guia da Caridade",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Cristal Etéreo",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Filosofia da Caridade",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Escama Cristalina Etérea",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Galho Seco Retorcido",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Filosofia da Caridade",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Escama Cristalina Etérea",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Galho Seco Retorcido",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Filosofia da Caridade",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Escama Cristalina Etérea",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Galho Seco Retorcido",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Filosofia da Caridade",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Escama Cristalina Etérea",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113088,
+          "id": "twisted_withered_branch",
+          "name": "Galho Seco Retorcido",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Coroa da Sabedoria",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 215000,
+      "name": "Balé do Cisne da Neve",
+      "description": "Vestuário de Odette. Uma roupa de balé de confecção excepcional, inspirada nos cisnes da neve, que tem sido a fiel companheira da dedicada bailarina ao longo de inúmeras longas noites. As joias que adornam a roupa brilham com uma elegância silenciosa sob as luzes do palco, assim como a própria bailarina brilhante.",
+      "isDefault": true,
+      "characterName": "Odette",
+      "characterId": 10000150,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Odette_Circle"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "_id": 25138001,
+  "id": "juvenile_tree_segment",
+  "monsterId": 25138003,
+  "name": "Segment d'arbre juvénile",
+  "specialNames": [
+    "Vénérable leshy noueux"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bêtes mystiques",
+  "filename_icon": "UI_MonsterIcon_Leshy_Normal_01",
+  "description": "Un leshy qui vit dans les forêts et les contrées sauvages.\\nParmi les nombreux nivéoles de Snezhnaya, les leshy sont une espèce très particulière, apparaissant rarement dans les villes. Ils sont probablement ceux qui vivent le plus longtemps parmi tous les nivéoles, et rares sont les membres d'autres races à longue durée de vie qui ont vu un leshy vivre du début à la fin. Bien sûr, la plupart des gens auraient sans doute du mal à distinguer un leshy d'un autre.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.2,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -79,6 +79,11 @@
       "name": "篝火邊的歡騰"
     },
     {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "雪國冷湯"
+    },
+    {
       "_id": 4101,
       "id": "jade_parcels",
       "name": "翡玉什錦袋"
@@ -111,6 +116,5 @@
   ],
   "source": [
     "烹飪加工獲得"
-  ],
-  "rarity": 0
+  ]
 }

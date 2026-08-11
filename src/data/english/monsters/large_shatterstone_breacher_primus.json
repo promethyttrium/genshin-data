@@ -13,7 +13,6 @@
   "categoryText": "The Abyss",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_01",
   "description": "A strange life form that mostly appears in Elynas.\\nMelusines perceive Breacher Primuses as harmless creatures, and many even find them completely adorable.\\nThe visual perception of Melusines is very different from humans.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

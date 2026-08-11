@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Cicin_Water_01",
   "description": "Suyu çok az kullanabilen küçük yaratıklar.\\nOnlar ve bu tür diğer yaratıklar Cicinler olarak bilinmektedir, nadir bulunan ve göz kamaştırıcı bir güzelliğe sahip olan Sis Otunu çok severler. Fatui Büyücüleri bu ilişkiden istifade ederek Cicinleri savaşta kendi saflarına çekmiştir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

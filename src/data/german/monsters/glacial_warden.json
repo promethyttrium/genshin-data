@@ -1,0 +1,40 @@
+{
+  "_id": 25135101,
+  "id": "glacial_warden",
+  "monsterId": 25135106,
+  "name": "Frostwächter",
+  "specialNames": [
+    "Frostwächter"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystische Bestien",
+  "filename_icon": "UI_MonsterIcon_Snegurochka_Male",
+  "description": "Im Eis und Schnee und aus Liebe geborener Snegovik.\\nDie männlichen Snegoviki sind geborene Ritter. Die meisten von ihnen können von Geburt an Waffen aus Eis und Schnee formen.\\nDer Legende nach setzte in der Schlacht, in der Zar Belyi gegen die pechschwarzen Ströme der Athame Artis kämpfte, ein Snegovik aus seiner Leibgarde eine Kraft frei, die nicht zu seiner Gruppe gehörte. Sein Körper wuchs daraufhin ins Ungeheure.\\nSein endgültiges Schicksal bleibt unbekannt. Doch wer ein Tabu bricht, dem blüht wohl kaum etwas Gutes.",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 81.504,
+      "attack": 75.36,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

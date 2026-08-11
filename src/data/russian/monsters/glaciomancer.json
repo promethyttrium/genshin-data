@@ -1,0 +1,40 @@
+{
+  "_id": 25135001,
+  "id": "glaciomancer",
+  "monsterId": 25135004,
+  "name": "Колдун льдов",
+  "specialNames": [
+    "Колдун льдов"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Мистические звери",
+  "filename_icon": "UI_MonsterIcon_Human_Female_Staff_Snegurochka",
+  "description": "Снеговик, рождённый среди льдов и снегов ради любви.\\nЖенщин-снеговиков называют снегурочками, и большинство из них с рождения способны свободно управлять силой льда и снега. Легенда гласит, что души снеговиков при сотворении остаются неполными и, лишь полюбив человека, они обретают совершенство.\\nНо нужна ли любовь тому, кто уже стал совершенным? Возможно, нет.\\nНаверное, именно поэтому так много историй любви между снеговиками и людьми заканчиваются трагедией.",
+  "bgm": 1,
+  "budget": 5,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 4.57189,
+      "attack": 58.575787,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

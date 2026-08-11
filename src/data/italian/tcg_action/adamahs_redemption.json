@@ -1,0 +1,39 @@
+{
+  "_id": 213171,
+  "id": "adamahs_redemption",
+  "shareId": 611,
+  "name": "Redenzione dell'Adamah",
+  "title": "Durin: Redenzione dell'Adamah",
+  "desc": "\"Una svolta nel destino.\"",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Quando il personaggio associato usa Principio della purezza: Trasmutazione luminosa:</span> le tue successive 4 iterazioni di DAN infliggono DAN +1.<br/><span style=\"color:#FFFFFFFF\">Quando il personaggio associato usa Principio dell'oscurità: Stelle quiescenti:</span> il tuo <span style=\"color:#FFFFFFFF\">Durin</span> e <span style=\"color:#FFFFFFFF\">Negazione delle tenebre</span> infliggono DAN +2.",
+  "attributes": {
+    "cost": 4,
+    "cost_type": "Pyro",
+    "card_type": "Carta equipaggiamento",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "Pyro",
+        "count": 4
+      },
+      {
+        "_id": 1110,
+        "id": "energy",
+        "type": "Energia",
+        "count": 2
+      }
+    ],
+    "source": "Ricompensa ottenuta sfidando Durin a duello alla Coda di Gatto e completando tutti gli obiettivi della sfida corrispondente",
+    "tags": [
+      "Talento",
+      "Azione di combattimento"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Azione di combattimento</span>: quando il tuo personaggio attivo è <span style=\"color:#FFFFFFFF\">Durin</span>, equipaggia questa carta.<br/>Dopo che Durin ha equipaggiato questa carta, usa immediatamente <span style=\"color:#FFD780FF\">Principio della purezza: Trasmutazione luminosa</span> o <span style=\"color:#FFD780FF\">Principio dell'oscurità: Stelle quiescenti</span> una volta in base al Tripudio elementale attuale del personaggio.<br/><span style=\"color:#FFFFFFFF\">Quando il personaggio associato usa Principio della purezza: Trasmutazione luminosa:</span> le tue successive 4 iterazioni di DAN infliggono DAN +1.<br/><span style=\"color:#FFFFFFFF\">Quando il personaggio associato usa Principio dell'oscurità: Stelle quiescenti:</span> il tuo <span style=\"color:#FFFFFFFF\">Durin</span> e <span style=\"color:#FFFFFFFF\">Negazione delle tenebre</span> infliggono DAN +2.<br/>(Per aggiungere questa carta, il tuo mazzo deve contenere Durin.)"
+    }
+  ]
+}

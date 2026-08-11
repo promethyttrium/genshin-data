@@ -8,17 +8,21 @@
     "hp": 3,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Tidak ada tipe elemen",
+    "weapon": "Senjata Lain",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "shooting",
       "name": "Shooting",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "multishot",
       "name": "Multishot",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 5 poin ?.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1108,
@@ -52,7 +58,9 @@
       "id": "hide",
       "name": "Hide",
       "desc": "[Pasif] Berganti ke Karakter selanjutnya setelah Karakter ini menggunakan Skill.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

@@ -32,7 +32,6 @@
   "categoryText": "Autómatas",
   "filename_icon": "UI_MonsterIcon_Gargoyle",
   "description": "Una imponente máquina de combate con aspecto de dragón.\\nCuenta la leyenda que se trata de un arma de guerra vestigio de una civilización ya extinta. Conserva la apariencia básica de un Dragarto, pero ha sido modificada para mejorar su rendimiento. En comparación con un Dragarto real, tiene una mayor capacidad de “absorber” y “contrarrestar” el poder de los elementos.\\nA juzgar por sus habilidades, la civilización que creó esta temible arma de guerra debió de ser extremadamente ambiciosa...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

@@ -13,8 +13,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuimecha_AMP",
   "description": "Um mecanismo super pesado desenvolvido em colaboração pelo Palácio do Arsenal e o Escritório de Design de Experimentos de Kuuvahki, é referido como Tipo Drzislav nos arquivos internos.\\nO projeto original era destinado ao uso civil, um veículo gigantesco para qualquer terreno construído para transporte e escavação, equipado com brocas e cortadores. Porém, os modelos de produção posteriores foram modificados para versões militares, equipados com armas pesadas.\\nAfinal de contas, neste mundo mortal debaixo da lua, até os projetos mais perfeitos e divinos podem se desviar de sua proposta original — muito menos máquinas criadas por mãos mortais, feitas de uma humilde boa vontade e imperfeitas desde o início.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 1,
   "stats": {
     "resistance": {

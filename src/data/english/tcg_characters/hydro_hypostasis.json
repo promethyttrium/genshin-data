@@ -1,0 +1,90 @@
+{
+  "_id": 2208,
+  "id": "hydro_hypostasis",
+  "shareId": 610,
+  "name": "Hydro Hypostasis",
+  "title": "Hydro Hypostasis",
+  "desc": "Code Name: He. A high-purity Hydro entity. They have strong rejection properties, and will mercilessly expel any that test them.",
+  "attributes": {
+    "hp": 8,
+    "card_type": "Character Card",
+    "energy": 2,
+    "element": "Hydro",
+    "weapon": "Other Weapons",
+    "faction": [
+      "Monster"
+    ],
+    "source": "Reward for accepting the Tavern Challenge at The Cat's Tail and claiming victory in a Friendly Fracas with Hydro Hypostasis"
+  },
+  "skills": [
+    {
+      "id": "droplet_diffusion",
+      "name": "Droplet Diffusion",
+      "desc": "Deals 1 <span style=\"color:#80C0FFFF\">Hydro DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Hydro",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Unaligned Element",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "surging_tides",
+      "name": "Surging Tides",
+      "desc": "Deals 2 <span style=\"color:#80C0FFFF\">Hydro DMG</span>, then performs \"<span style=\"color:#FFFFFFFF\">Prepare Skill</span>\" for <span style=\"color:#FFFFFFFF\">Overflow</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Hydro",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "calamitous_tides",
+      "name": "Calamitous Tides",
+      "desc": "Deals 3 <span style=\"color:#80C0FFFF\">Hydro DMG</span> and summons <span style=\"color:#FFFFFFFF\">Water Droplet</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Hydro",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Energy",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "hydro_crystal_core",
+      "name": "Hydro Crystal Core",
+      "desc": "(Passive) When the battle begins, this character starts with <span style=\"color:#FFFFFFFF\">Hydro Crystal Core</span> attached. If <span style=\"color:#FFFFFFFF\">Water Droplet</span> is on the field when <span style=\"color:#FFFFFFFF\">Hydro Crystal Core</span> is consumed: Reattach <span style=\"color:#FFFFFFFF\">Hydro Crystal Core</span>, and decreases the Usage(s) of <span style=\"color:#FFFFFFFF\">Water Droplet</span> by 1.",
+      "skillTag": [
+        "Passive Skill"
+      ],
+      "points": []
+    }
+  ]
+}

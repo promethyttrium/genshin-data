@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Sailor_01",
   "description": "Ein Mitglied der kriminellen Gruppierung ohne Hauptquartier, die überall auf dem Kontinent ihre Spuren hinterlässt, selbst in unerkundeten Sphären.\\n<i>„Stehlen? Was soll das heißen, Stehlen? Das ist Wiederentdecken durch den, der den Schatz zu schätzen weiß! So sind alle glücklich! Ist doch super, oder?“</i>\\nEin Seemann der Schatzräuber, als er nach einem zweifelhaften Fund befragt wurde.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

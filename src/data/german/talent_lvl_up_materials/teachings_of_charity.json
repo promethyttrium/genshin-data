@@ -1,0 +1,18 @@
+{
+  "_id": 104365,
+  "id": "teachings_of_charity",
+  "name": "Lehren der „Güte“",
+  "description": "Material zur Verbesserung von Talenten.\\n„Güte“ ist die Erlösung des Reiches des Eises.\\nGüte ist die gegenseitige Fürsorge und der Beistand unter den Sterblichen. Auf diesem weiten Land trotzen die Menschen damit der Kälte von Frost und Schnee und heilen die Narben, die sich in ihre Erinnerungen eingebrannt haben.",
+  "source": [
+    "Bei Geschenkhändler einzutauschen"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Sphäre des Verständnisses: Kontemplation IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Montag",
+    "Donnerstag",
+    "Sonntag"
+  ]
+}

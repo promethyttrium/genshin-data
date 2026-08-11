@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 3,
+    "element": "Pyro",
+    "weapon": "Arco",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3228,
@@ -29,8 +31,10 @@
     {
       "id": "firework_flareup",
       "name": "Pirotecnia",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,7 +54,9 @@
       "id": "niwabi_firedance",
       "name": "Dança de Fogo Niwabi",
       "desc": "Este personagem é afetado por <span style=\"color:#FFFFFFFF\">Niwabi Enshou</span>. (Esta habilidade não gera  Carga)",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "ryuukin_saxifrage",
       "name": "Saxifraga Ryuukin",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, gera <span style=\"color:#FFFFFFFF\">Flama Dourada</span>.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#FF9999FF\">Dano Pyro</span>, gera <span style=\"color:#FFFFFFFF\">Flama Dourada</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1103,

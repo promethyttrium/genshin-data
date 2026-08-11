@@ -16,6 +16,11 @@
   "recommendedElements": [
     "Elektro"
   ],
+  "daysOfWeek": [
+    "Montag",
+    "Donnerstag",
+    "Sonntag"
+  ],
   "domainType": "UI_ABYSSUS_AVATAR_PROUD",
   "domainText": "Talent Level-Up Material",
   "rewardPreview": [

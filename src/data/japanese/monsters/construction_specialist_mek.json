@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "機構の平歯車",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "整合の歯車",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "自律装置",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Excavator",
   "description": "建築工事や発掘調査に計り知れない価値を持つ大型クロックワーク·マシナリー。その名はクレメンタイン線を建設する際にカーレスが雇ったエンジニアに由来する。\\nこのエンジニアはカーレスの資金援助を受け、ポワソントンネルを貫通させた伝説的な巨大重機「黄金楽団船」を建造した。完成後にこれと似た構造で、サイズを縮小したクロックワーク·マシナリーを設計した。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 2,
   "stats": {

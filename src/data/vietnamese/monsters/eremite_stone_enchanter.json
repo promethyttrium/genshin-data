@@ -31,22 +31,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Băng Đỏ Viền Vàng",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Băng Đỏ Phai Màu",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Eremite_Male_Strong_Katar",
   "description": "Một thành viên trong nhóm lính đánh thuê riêng lẻ đến từ sa mạc, sẵn sàng làm việc cho bất kỳ ai để nhận thù lao.\\nVào thời cổ đại, những chiến binh mặc giáp dày này là những người bảo vệ đáng tin cậy nhất của vua mặt trời. Có lẽ chính vì vậy mà chúng vẫn tỏa ra ánh vàng rực rỡ như mặt trời cho đến ngày nay.\\nTrong vũ khí có phong ấn ác linh, sẽ thức tỉnh khi gặp nguy hiểm. Chỉ có tiếng ai oán của kẻ thua cuộc mới có thể làm nguôi ngoai cơn thịnh nộ... Dù cho kẻ thua cuộc có là chủ nhân của vũ khí hay là kẻ địch.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

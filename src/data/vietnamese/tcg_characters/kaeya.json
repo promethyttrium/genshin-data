@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Băng",
+    "weapon": "Kiếm Đơn",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3210,
@@ -29,8 +31,10 @@
     {
       "id": "ceremonial_bladework",
       "name": "Nghi Lễ Kiếm Thuật",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "frostgnaw",
       "name": "Đột Kích Băng Giá",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 3 điểm <span style=\"color:#99FFFFFF\">Sát Thương Nguyên Tố Băng</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "glacial_waltz",
       "name": "Vũ Điệu Giá Rét",
-      "desc": "Gây ? điểm ?, tạo 1 <span style=\"color:#FFFFFFFF\">Nhũ Băng Lạnh Giá</span>.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm <span style=\"color:#99FFFFFF\">Sát Thương Nguyên Tố Băng</span>, tạo 1 <span style=\"color:#FFFFFFFF\">Nhũ Băng Lạnh Giá</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1101,

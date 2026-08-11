@@ -22,7 +22,6 @@
   "categoryText": "Abisso",
   "filename_icon": "UI_MonsterIcon_Invoker_Deacon_Electric_01",
   "description": "Un mostro che serve l'Ordine dell'Abisso e controlla il potere del fulmine mentre canta le lodi dell'oscurità.\\nGli evangelisti e studiosi dell'Abisso. I loro violenti fulmini colpiscono i cuori dei miscredenti con oscura saggezza, distorta dalle oscure profondità di una notte eterna, e il bagliore viola annuncia l'esistenza di un grande potere in grado di corrodere la mente umana.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

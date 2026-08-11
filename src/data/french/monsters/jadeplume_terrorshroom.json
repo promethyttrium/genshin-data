@@ -37,7 +37,7 @@
       "_id": 113036,
       "id": "majestic_hooked_beak",
       "name": "Bec crochu majestueux",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104134,
@@ -120,7 +120,6 @@
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Fungus_Raptor",
   "description": "Un Fongus de grande taille qui a acquis sa forme si spécifique au fil des années.\\nSon intelligence égale voire dépasse celle des animaux, et il chasse activement ses proies pour se nourrir. Sa queue a un beau plumage de jade qui semble très similaire à celui de l'ancienne bête sacrée que l'école du Spantamad vénère. Si l'on se fie à la théorie de l'évolution par mimétisme, il semble tout à fait probable que ces deux êtres aient existé au même moment sur terre.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

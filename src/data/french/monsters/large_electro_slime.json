@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Entités élémentaires",
   "filename_icon": "UI_MonsterIcon_Slime_Electric_03",
   "description": "Un monstre issu de l'accumulation d'élément Électro présent à l'état naturel.\\nCes créatures au corps regorgeant d'élément Électro le libèrent de façon intermittente sous la forme de décharges. Ces propriétés uniques sont actuellement à l'étude dans la conception de nouveaux moyens de production. Qui sait, peut-être ces recherches déboucheront-elles un jour sur quelque révolution dans le domaine...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

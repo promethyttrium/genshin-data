@@ -1,0 +1,39 @@
+{
+  "_id": 26310301,
+  "id": "chimeric_winged_elephant",
+  "monsterId": 26310302,
+  "name": "Elefante alato chimerico",
+  "specialNames": [
+    "Elefante alato chimerico"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestie mistiche",
+  "filename_icon": "UI_MonsterIcon_Chimera_ElephantBird",
+  "description": "Un prodotto della bioalchimia un tempo diffuso nelle terre ghiacciate, un aberrante mostro chimerico.\\nUn elefante dalle zampe corte dotato di ali sarebbe capace di migrare senza essere limitato dal terreno, nonché in grado di raggiungere frutti che crescono in luoghi più elevati.\\nA tal fine, il suo creatore diede vita a una bestia che risponde a tale descrizione. In seguito, durante la guerra contro la marea oscura, gli Elefanti alati chimerici collaborarono con le Vile nei servizi di spionaggio e comunicazione, assicurandosi che gli ordini dello Tsar Belyi venissero trasmessi in modo fluido e rapido durante l'avanzata del suo esercito.",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.2,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 5.486268,
+      "attack": 54.069954,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

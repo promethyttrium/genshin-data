@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Alpha_Fire",
   "description": "Un organismo fatto di spore e dotato di una certa intelligenza. Possiede un'estrema capacità di adattamento.\\nL'aspetto esplosivo può trarre in inganno, ma questa creatura è in realtà un'anima mite e gentile... purché ci si tenga a debita distanza.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

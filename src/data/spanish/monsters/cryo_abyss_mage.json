@@ -37,12 +37,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_Abyss_Ice_01",
   "description": "Una criatura del abismo que utiliza el frío extremo del elemento Cryo para luchar.\\nAunque posee un gran poder e incluso puede condensar la humedad de la atmósfera en carámbanos, su cuerpo es bastante débil. Una vez rota la protección que lo protege, acabar con él es pan comido.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

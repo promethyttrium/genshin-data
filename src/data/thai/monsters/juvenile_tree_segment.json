@@ -1,0 +1,40 @@
+{
+  "_id": 25138001,
+  "id": "juvenile_tree_segment",
+  "monsterId": 25138003,
+  "name": "ต้นไม้แตกกิ่งที่เยาว์วัย",
+  "specialNames": [
+    "เลชีเฒ่าผู้ทรงพลัง"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "สัตว์อสูรลึกลับ",
+  "filename_icon": "UI_MonsterIcon_Leshy_Normal_01",
+  "description": "เลชีที่เติบโตอยู่ท่ามกลางป่าเขา\\nในบรรดาภูตมากมายของ Snezhnaya เลชีนับว่าเป็นเผ่าพันธุ์หนึ่งที่พิเศษมาก มันแทบจะไม่ปรากฏให้เห็นในเมืองเลย ในบรรดาภูตทั้งหลาย เลชีอาจจะมีอายุยืนยาวที่สุด น้อยนักที่จะมีเผ่าพันธุ์อายุยืนอื่นใดได้มีโอกาสร่วมเป็นสักขีพยานตลอดช่วงชีวิตของเลชี ทว่าคนส่วนใหญ่ก็อาจจะแยกแยะเลชีแต่ละตัวไม่ออกด้วยซ้ำไป",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.2,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

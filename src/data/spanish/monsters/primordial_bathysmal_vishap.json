@@ -25,19 +25,19 @@
       "_id": 112043,
       "id": "fossilized_bone_shard",
       "name": "Fragmento de hueso fosilizado",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112042,
       "id": "sturdy_bone_shard",
       "name": "Fragmento de hueso sólido",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112041,
       "id": "fragile_bone_shard",
       "name": "Fragmento de hueso frágil",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Drake_Deepsea_Water",
   "description": "Un Dragarto que vive en el fondo del mar.\\nAntes eran la raza dominante en el océano y, de hecho, los dragones dominaban el mundo entero en el pasado. Pero sus Siete Soberanos fueron derrotados por un poder procedente del cielo que acabó con todos ellos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Fungus_Un_Delta_Wind",
   "description": "Un organismo fúngico con cierta inteligencia. Tiene una gran capacidad de adaptación al entorno.\\nEste Hongo posee un gorro de gran tamaño, pero la estructura de su paraguas está vacía, por lo que no es una suculenta comida.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

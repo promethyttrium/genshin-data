@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "Uçarlop Kalbi",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "Uçarlop Kabuğu",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Element Yaşam Formları",
   "filename_icon": "UI_MonsterIcon_Sylph_Water_01",
   "description": "Havada süzülebilen, yüksek yoğunluktaki Su elementinden oluşan bir canavar.\\nAy ışığıyla aydınlanan gecelerde, nehir kıyısında süzülen Su Uçarlopları etrafa ruhani bir parıltı yayar. Nehir kıyısından geçenlerin bu Uçarlopları, ürkütücü görünümlerinden ötürü dünyada dolaşan ruhlara benzetmesi sonucunda bu yaratıklar çok sayıda halk hikayesine konu olmuştur.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

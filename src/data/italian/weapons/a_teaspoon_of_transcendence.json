@@ -10,7 +10,7 @@
   },
   "domain": "Dominio della forgiatura: Oblazione lunare",
   "passive": "Promozione della Fata bianca",
-  "bonus": "L'ATT aumenta di un <span>28%/35%/42%/49%/56%</span>.<br/>Inoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da Astroconduzione di un <span>16%/20%/24%/28%/32%</span> per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli.",
+  "bonus": "L'ATT aumenta di un <span>28%/35%/42%/49%/56%</span>.<br/>Inoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da reazioni di Astroconduzione e Turbinio astrale di un <span>16%/20%/24%/28%/32%</span> per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli.",
   "specialProp": "DAN da CRIT",
   "stats": {
     "primary": "ATT di base",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Promozione della Fata bianca",
-    "template": "L'ATT aumenta di un <span style=\"color:#99FFFFFF\">{0}</span>.<br/>Inoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da Astroconduzione di un <span style=\"color:#99FFFFFF\">{1}</span> per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli.",
+    "template": "L'ATT aumenta di un <span style=\"color:#99FFFFFF\">{0}</span>.<br/>Inoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da reazione di Astroconduzione e Turbinio astrale di un <span style=\"color:#99FFFFFF\">{1}</span> per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli.",
     "params": [
       [
         "28%",
@@ -307,23 +306,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "L'ATT aumenta di un <span>28%</span>.<br/>Inoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da Astroconduzione di un <span>16%</span> per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli."
+      "desc": "L'ATT aumenta di un <span>28%</span>.<br/>Inoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da reazioni di Astroconduzione e Turbinio astrale di un <span>16%</span> per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli."
     },
     {
       "refinement": 2,
-      "desc": "L'ATT aumenta di un <span>35%</span>.<br/>Inoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da Astroconduzione di un <span>20%</span> per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli."
+      "desc": "L'ATT aumenta di un <span>35%</span>.<br/>Inoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da reazione di Astroconduzione e Turbinio astrale di un <span>20%</span> per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli."
     },
     {
       "refinement": 3,
-      "desc": "L'ATT aumenta di un <span>42%</span>.<br/>Inoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da Astroconduzione di un <span>24%</span> per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli."
+      "desc": "L'ATT aumenta di un <span>42%</span>.<br/>Inoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da reazione di Astroconduzione e Turbinio astrale di un <span>24%</span> per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli."
     },
     {
       "refinement": 4,
-      "desc": "L'ATT aumenta di un <span>49%</span>.<br/>Inoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da Astroconduzione di un <span>28%</span> per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli."
+      "desc": "L'ATT aumenta di un <span>49%</span>.<br/>Inoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da reazione di Astroconduzione e Turbinio astrale di un <span>28%</span> per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli."
     },
     {
       "refinement": 5,
-      "desc": "L'ATT aumenta di un <span>56%</span>.<br/>Inoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da Astroconduzione di un <span>32%</span> per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli."
+      "desc": "L'ATT aumenta di un <span>56%</span>.<br/>Inoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da reazione di Astroconduzione e Turbinio astrale di un <span>32%</span> per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli."
     }
   ]
 }

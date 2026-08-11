@@ -8,9 +8,10 @@
   "attributes": {
     "hp": 10,
     "card_type": "Figurenkarte",
-    "energy": 0,
+    "element": "Pyro",
+    "weapon": "Zweihänder",
     "faction": [
-      null
+      "Natlan"
     ],
     "talent_card": {
       "_id": 7824,
@@ -29,8 +30,10 @@
     {
       "id": "flames_weave_life",
       "name": "Flammengewebtes Leben",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,7 +53,9 @@
       "id": "the_named_moment",
       "name": "Moment des Benennens",
       "desc": "Tritt in den Zustand <span style=\"color:#FFFFFFFF\">Nachtseelensegen</span> ein und erhält 2 <span style=\"color:#FFFFFFFF\">Nachtseelenpunkte</span>; <span style=\"color:#FFFFFFFF\">wählt</span> 1 aus den 3 <span style=\"color:#FFFFFFFF\">Flammenreiter</span>-Karten aus und fügt diese deiner Hand hinzu.",
-      "skillTag": [],
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +68,10 @@
     {
       "id": "hour_of_burning_skies",
       "name": "Stunde brennender Himmel",
-      "desc": "Die Figur tritt in den Zustand <span style=\"color:#FFFFFFFF\">Nachtseelensegen</span> ein, erhält 1 <span style=\"color:#FFFFFFFF\">Nachtseelenpunkt</span> und verbraucht den gesamten Kampfgeist, um der aktiven Figur deines Gegners $[D__KEY__ELEMENT|s1] in Höhe des Werts des Kampfgeistes zuzufügen.<br/>Erhält selbst <span style=\"color:#FFFFFFFF\">Schmelztiegel von Tod und Leben</span>, wenn 6 Pkt. <span style=\"color:#FFFFFFFF\">Kampfgeist</span> verbraucht wurden.",
-      "skillTag": [],
+      "desc": "Die Figur tritt in den Zustand <span style=\"color:#FFFFFFFF\">Nachtseelensegen</span> ein, erhält 1 <span style=\"color:#FFFFFFFF\">Nachtseelenpunkt</span> und verbraucht den gesamten Kampfgeist, um der aktiven Figur deines Gegners <span style=\"color:#FF9999FF\">Pyro-SCH</span> in Höhe des Werts des Kampfgeistes zuzufügen.<br/>Erhält selbst <span style=\"color:#FFFFFFFF\">Schmelztiegel von Tod und Leben</span>, wenn 6 Pkt. <span style=\"color:#FFFFFFFF\">Kampfgeist</span> verbraucht wurden.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -78,7 +85,9 @@
       "id": "fighting_spirit",
       "name": "Kampfgeist",
       "desc": "Diese Figur erhält keine <span style=\"color:#FFFFFFFF\">Aufladung</span>.<br/>Erhält selbst nach Verbrauchen von <span style=\"color:#FFFFFFFF\">Nachtseelenpunkten</span> oder Anwenden von Standardangriffen durch deine Figuren 1 Pkt. Kampfgeist.<br/>Erhält beim Anwenden ihrer eigenen <span style=\"color:#FFFFFFFF\">Elementarfähigkeit</span> oder <span style=\"color:#FFFFFFFF\">Spezialfähigkeit</span> <span style=\"color:#FFFFFFFF\">Allfeuerrüstung – Ring des Sengenden Glanzes</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

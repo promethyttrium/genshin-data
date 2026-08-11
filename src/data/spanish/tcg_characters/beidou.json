@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Carta de personaje",
     "energy": 3,
+    "element": "Electro",
+    "weapon": "Mandoble",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3459,
@@ -29,8 +31,10 @@
     {
       "id": "oceanborne",
       "name": "Conquista del océano",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,7 +54,9 @@
       "id": "tidecaller",
       "name": "Invocadora de mareas",
       "desc": "Este personaje entra en el estado de <span style=\"color:#FFFFFFFF\">Invocadora de mareas: Protección del oleaje</span> y <span style=\"color:#FFFFFFFF\">prepara la habilidad</span> <span style=\"color:#FFFFFFFF\">Conquistadora de mareas</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "stormbreaker",
       "name": "Quebrantatormentas",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y crea un <span style=\"color:#FFFFFFFF\">escudo del trueno</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#FFACFFFF\">Daño Electro</span> y crea un <span style=\"color:#FFFFFFFF\">escudo del trueno</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1104,

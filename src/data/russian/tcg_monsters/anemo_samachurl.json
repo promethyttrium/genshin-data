@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Анемо",
+    "weapon": "Прочее",
     "faction": [
-      null,
-      null
+      "Монстр",
+      "Хиличурл"
     ]
   },
   "skills": [
     {
       "id": "staff_strike",
       "name": "Удар посохом",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 1 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "prayer_to_the_winds",
       "name": "Молитва ветру",
-      "desc": "Наносит ?, ? ед. Призывает помощника: <span style=\"color:#FFFFFFFF\">Торнадо</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80FFD7FF\">Анемо урон</span>, 2 ед. Призывает помощника: <span style=\"color:#FFFFFFFF\">Торнадо</span>.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -45,8 +51,10 @@
     {
       "id": "galeforce_shock",
       "name": "Удар циклона",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80FFD7FF\">Анемо урон</span>, 5 ед.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1105,

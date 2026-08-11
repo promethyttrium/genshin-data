@@ -1,0 +1,21 @@
+{
+  "_id": 340004,
+  "id": "dawnstar_of_shahar_sublimation",
+  "name": "Shahar'ın Şafak Yıldızı - Dönüşüm",
+  "description": "Ley Hatlarının derinliklerinden gün yüzüne çıkan, \"Sonsuzluk\" ışığıyla parıldayan fevkalade ve düşsel bir silah. Sahibinin Element Türüne göre farklı bir surete bürünebilir. Rivayet odur ki, tüm geçmiş günlerin anılarının ötesinde kalan kadim bir çağda, ilk ilahi elçi bu yaldızlı kutsal mührü Hyperborea'nın başrahibine bahşetmiş ve ona, ulu şehir gölgelere karışmadan önce buraya liderlik etme hakkı tanımıştır.",
+  "rarity": 5,
+  "type": {
+    "id": "Catalyst",
+    "name": "Katalizör"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1004,
+    "name": "Işıltılı Dönüşüm: Sonsuzluk - Dönüşüm",
+    "priority": 2
+  },
+  "item_id": 341404,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphShahar_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphShahar_Great"
+}

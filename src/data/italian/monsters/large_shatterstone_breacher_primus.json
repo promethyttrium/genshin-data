@@ -13,7 +13,6 @@
   "categoryText": "Abisso",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_01",
   "description": "Una strana forma di vita che si trova principalmente a Elynas.\\nPer le Melusine, i Primoplasti della Faglia sono totalmente innocui e, per alcune, addirittura adorabili.\\nLa percezione visiva delle Melusine è molto diversa da quella umana.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Elementare Lebensformen",
   "filename_icon": "UI_MonsterIcon_Slime_Rock_03",
   "description": "Ein Monster, das durch die Ansammlung von Geo-Kraft in der Erde hervorgebracht wurde.\\nEs kann mit seiner Körperenergie einen schützenden Steinpanzer erzeugen. Früher kursierte unter den Schatzräubern die Legende eines „Goldenen Geo-Schleimkönigs“. Sie waren der Ansicht, dass Geo-Schleime zu den Edelsteinen und Erzen zählten, da diese wie jene Mineralien über Geo-Energie verfügen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

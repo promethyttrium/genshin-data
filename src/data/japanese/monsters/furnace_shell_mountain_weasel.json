@@ -13,8 +13,6 @@
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_VolcanoWeasel",
   "description": "外界から隔絶された特殊な燃素環境で生息しているがために、特殊な姿を持つ古代種のイタチ。\\n豊富な燃素を蓄えた生物を摂取することで、背中の殻に力を蓄えることができる古代の獣。聖山の廃墟で長らく生活している間、燃素と独特な親和性を持っているからか、だんだんと聖山の廃墟にある秘源装置から影響を受けるようになった。そのため、秘源装置と互いに依存する独特な生態を持っている。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

@@ -1,0 +1,40 @@
+{
+  "_id": 25135101,
+  "id": "glacial_warden",
+  "monsterId": 25135106,
+  "name": "Glacial Warden",
+  "specialNames": [
+    "Glacial Warden"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Makhluk Mistis",
+  "filename_icon": "UI_MonsterIcon_Snegurochka_Male",
+  "description": "Snegovik yang lahir dari salju dan es yang hidup demi cinta.\\nSnegovik jantan adalah knight sejati. Sebagian besar dari mereka terlahir dengan kemampuan bebas memanfaatkan es dan salju untuk menempa senjata sendiri.\\nKonon, dalam pertempuran Belyi Tsar melawan Athame Artis, ada Snegovik yang bertugas sebagai pengawalnya membangkitkan kekuatan yang bukan milik ras ini, hingga tubuhnya berubah menjadi sangat besar.\\nMeskipun tidak diketahui bagaimana nasibnya pada akhirnya, melanggar pantangan tentu tidak akan berakhir baik.",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 81.504,
+      "attack": 75.36,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

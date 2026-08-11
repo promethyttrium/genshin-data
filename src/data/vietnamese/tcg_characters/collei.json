@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Thảo",
+    "weapon": "Cung",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3234,
@@ -29,8 +31,10 @@
     {
       "id": "supplicants_bowmanship",
       "name": "Mũi Tên Chúc Tụng",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -49,8 +53,10 @@
     {
       "id": "floral_brush",
       "name": "Xua Hoa Quét Lá",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 3 điểm <span style=\"color:#7EC236FF\">Sát Thương Nguyên Tố Thảo</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "trumpcard_kitty",
       "name": "Báu Vật Meo Meo",
-      "desc": "Gây ? điểm ?, triệu hồi <span style=\"color:#FFFFFFFF\">Cuilein-Anbar</span>.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#7EC236FF\">Sát Thương Nguyên Tố Thảo</span>, triệu hồi <span style=\"color:#FFFFFFFF\">Cuilein-Anbar</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1107,

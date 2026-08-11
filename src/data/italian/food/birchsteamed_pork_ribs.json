@@ -2,7 +2,7 @@
   "_id": 3612,
   "id": "birchsteamed_pork_ribs",
   "name": "Costine di maiale cotte al vapore su legno di betulla",
-  "description": "Un piatto preparato con rami e costine. Le costine vengono marinate, essiccate all'aria, poi posizionate su rami di betulla e cotte al vapore. Quando viene servita, la carne è così tenera da sfaldarsi, emandando un caratteristico aroma legnoso. È uno dei tradizionali piatti festivi di Nod-Krai.",
+  "description": "Un piatto preparato con rami e costine. Le costine vengono marinate, essiccate all'aria, poi posizionate su rami di betulla e cotte al vapore. Quando viene servita, la carne è così tenera da sfaldarsi, emanando un caratteristico aroma legnoso. È uno dei tradizionali piatti festivi di Nod-Krai.",
   "rarity": 3,
   "ingredients": [
     {
@@ -41,7 +41,7 @@
     "normal": {
       "_id": 108978,
       "name": "Costine di maiale cotte al vapore su legno di betulla",
-      "description": "Un piatto preparato con rami e costine. Le costine vengono marinate, essiccate all'aria, poi posizionate su rami di betulla e cotte al vapore. Quando viene servita, la carne è così tenera da sfaldarsi, emandando un caratteristico aroma legnoso. È uno dei tradizionali piatti festivi di Nod-Krai.",
+      "description": "Un piatto preparato con rami e costine. Le costine vengono marinate, essiccate all'aria, poi posizionate su rami di betulla e cotte al vapore. Quando viene servita, la carne è così tenera da sfaldarsi, emanando un caratteristico aroma legnoso. È uno dei tradizionali piatti festivi di Nod-Krai.",
       "effect": "#Riduce di un 20% il consumo di vigore di tutti i membri del gruppo mentre planano e durante gli scatti per 900 s. In modalità cooperativa, si applica solo ai tuoi personaggi."
     },
     "delicious": {

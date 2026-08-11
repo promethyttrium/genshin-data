@@ -79,6 +79,11 @@
       "name": "Algarabía junto a la hoguera"
     },
     {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Okroshka de las nieves"
+    },
+    {
       "_id": 4101,
       "id": "jade_parcels",
       "name": "Rollitos de jade"
@@ -111,6 +116,5 @@
   ],
   "source": [
     "Procesar comida"
-  ],
-  "rarity": 0
+  ]
 }

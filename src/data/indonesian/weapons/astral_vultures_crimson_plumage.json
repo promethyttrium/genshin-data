@@ -10,7 +10,7 @@
   },
   "domain": "Ancient Watchtower",
   "passive": "The Moonring Sighted",
-  "bonus": "Dalam 12 detik setelah memicu reaksi Swirl, ATK meningkat <span>24%/30%/36%/42%/48%</span>. Selain itu, saat di dalam party terdapat minimum 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat <span>20%/48%/25%/60%/30%/72%/35%/84%/40%/96%</span> dan DMG Elemental Burst meningkat <span>10%/24%/12,5%/30%/15%/36%/17,5%/42%/20%/48%</span>.",
+  "bonus": "Setelah memicu reaksi Swirl atau Stellar Swirl, ATK meningkat <span>24%/30%/36%/42%/48%</span> selama 12 detik. Selain itu, saat di dalam party terdapat setidaknya 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat <span>20%/48%/25%/60%/30%/72%/35%/84%/40%/96%</span> dan DMG Elemental Burst meningkat <span>10%/24%/12,5%/30%/15%/36%/17,5%/42%/20%/48%</span>.",
   "specialProp": "CRIT DMG",
   "stats": {
     "primary": "Base ATK",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "The Moonring Sighted",
-    "template": "Dalam 12 detik setelah memicu reaksi Swirl, ATK meningkat <span style=\"color:#99FFFFFF\">{0}</span>. Selain itu, saat di dalam party terdapat minimum 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat <span style=\"color:#99FFFFFF\">{1}</span> dan DMG Elemental Burst meningkat <span style=\"color:#99FFFFFF\">{2}</span>.",
+    "template": "Setelah memicu reaksi Swirl atau Stellar Swirl, ATK meningkat <span style=\"color:#99FFFFFF\">{0}</span> selama 12 detik. Selain itu, saat di dalam party terdapat minimum 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat <span style=\"color:#99FFFFFF\">{1}</span> dan DMG Elemental Burst meningkat <span style=\"color:#99FFFFFF\">{2}</span>.",
     "params": [
       [
         "24%",
@@ -312,23 +311,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "Dalam 12 detik setelah memicu reaksi Swirl, ATK meningkat <span>24%</span>. Selain itu, saat di dalam party terdapat minimum 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat <span>20%/48%</span> dan DMG Elemental Burst meningkat <span>10%/24%</span>."
+      "desc": "Setelah memicu reaksi Swirl atau Stellar Swirl, ATK meningkat <span>24%</span> selama 12 detik. Selain itu, saat di dalam party terdapat setidaknya 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat <span>20%/48%</span> dan DMG Elemental Burst meningkat <span>10%/24%</span>."
     },
     {
       "refinement": 2,
-      "desc": "Dalam 12 detik setelah memicu reaksi Swirl, ATK meningkat <span>30%</span>. Selain itu, saat di dalam party terdapat minimum 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat <span>25%/60%</span> dan DMG Elemental Burst meningkat <span>12,5%/30%</span>."
+      "desc": "Setelah memicu reaksi Swirl atau Stellar Swirl, ATK meningkat <span>30%</span> selama 12 detik. Selain itu, saat di dalam party terdapat setidaknya 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat <span>25%/60%</span> dan DMG Elemental Burst meningkat <span>12,5%/30%</span>."
     },
     {
       "refinement": 3,
-      "desc": "Dalam 12 detik setelah memicu reaksi Swirl, ATK meningkat <span>36%</span>. Selain itu, saat di dalam party terdapat minimum 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat <span>30%/72%</span> dan DMG Elemental Burst meningkat <span>15%/36%</span>."
+      "desc": "Setelah memicu reaksi Swirl atau Stellar Swirl, ATK meningkat <span>36%</span> selama 12 detik. Selain itu, saat di dalam party terdapat minimum 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat <span>30%/72%</span> dan DMG Elemental Burst meningkat <span>15%/36%</span>."
     },
     {
       "refinement": 4,
-      "desc": "Dalam 12 detik setelah memicu reaksi Swirl, ATK meningkat <span>42%</span>. Selain itu, saat di dalam party terdapat minimum 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat <span>35%/84%</span> dan DMG Elemental Burst meningkat <span>17,5%/42%</span>."
+      "desc": "Setelah memicu reaksi Swirl atau Stellar Swirl, ATK meningkat <span>42%</span> selama 12 detik. Selain itu, saat di dalam party terdapat minimum 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat <span>35%/84%</span> dan DMG Elemental Burst meningkat <span>17,5%/42%</span>."
     },
     {
       "refinement": 5,
-      "desc": "Dalam 12 detik setelah memicu reaksi Swirl, ATK meningkat <span>48%</span>. Selain itu, saat di dalam party terdapat minimum 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat <span>40%/96%</span> dan DMG Elemental Burst meningkat <span>20%/48%</span>."
+      "desc": "Setelah memicu reaksi Swirl atau Stellar Swirl, ATK meningkat <span>48%</span> selama 12 detik. Selain itu, saat di dalam party terdapat minimum 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat <span>40%/96%</span> dan DMG Elemental Burst meningkat <span>20%/48%</span>."
     }
   ]
 }

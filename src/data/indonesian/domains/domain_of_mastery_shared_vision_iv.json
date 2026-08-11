@@ -1,0 +1,63 @@
+{
+  "_id": 4702,
+  "id": "domain_of_mastery_shared_vision_iv",
+  "name": "Domain of Mastery: Observasi Bersama IV",
+  "entranceId": 2074,
+  "entranceName": "Relics of the Fallen Grace",
+  "description": "Tempat suci yang dahulu dibangun oleh peri kuno, kini telah dikuasai oleh para penjahat.\nKalau kamu bisa mengalahkan musuh yang berkeliaran di sini, mungkin kamu bisa mendapat pencerahan untuk mengembangkan Talenta-mu.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 88,
+  "unlockRank": 45,
+  "disorder": [
+    "· When a character triggers Superconduct or Stellar-Conduct reactions, or deals Stellar-Conduct DMG, a shockwave will be unleashed at the target enemy's location, dealing Electro DMG."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_03",
+  "recommendedElements": [
+    "Cryo",
+    "Electro"
+  ],
+  "daysOfWeek": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ],
+  "domainType": "UI_ABYSSUS_AVATAR_PROUD",
+  "domainText": "Talent Level-Up Material",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Adventure EXP",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "2375"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Companionship EXP",
+      "count": "20"
+    },
+    {
+      "_id": 104373,
+      "id": "philosophies_of_glory",
+      "name": "Philosophies of Glory"
+    },
+    {
+      "_id": 104372,
+      "id": "guide_to_glory",
+      "name": "Guide to Glory"
+    },
+    {
+      "_id": 104371,
+      "id": "teachings_of_glory",
+      "name": "Teachings of Glory"
+    }
+  ],
+  "monsterList": []
+}

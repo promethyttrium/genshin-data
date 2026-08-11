@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "角色牌",
     "energy": 2,
+    "element": "風元素",
+    "weapon": "其他武器",
     "faction": [
-      null
+      "魔物"
     ],
     "source": "在貓尾酒館中小王子處進行酒館挑戰，在友好對局難度黑蛇騎士·斬風之劍中獲得勝利後獲得"
   },
@@ -18,8 +20,10 @@
     {
       "id": "halfsword_technique",
       "name": "半劍技術",
-      "desc": "造成?點?。",
-      "skillTag": [],
+      "desc": "造成2點?。",
+      "skillTag": [
+        "普通攻擊"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -38,8 +42,10 @@
     {
       "id": "rising_slash",
       "name": "低位撩斬",
-      "desc": "造成?點?，抽1張牌。",
-      "skillTag": [],
+      "desc": "造成3點<span style=\"color:#80FFD7FF\">風元素傷害</span>，抽1張牌。",
+      "skillTag": [
+        "元素戰技"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -53,7 +59,9 @@
       "id": "guard_stance",
       "name": "近衛姿態",
       "desc": "<span style=\"color:#FFFFFFFF\">準備技能</span>：<span style=\"color:#FFFFFFFF\">捨身架勢</span>，然後<span style=\"color:#FFFFFFFF\">準備技能</span>：<span style=\"color:#FFFFFFFF\">怒風循擊</span>。",
-      "skillTag": [],
+      "skillTag": [
+        "元素爆發"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -73,7 +81,9 @@
       "id": "vanguard_momentum",
       "name": "前驅氣勢",
       "desc": "【被動】我方觸發擴散反應，或敵方失去<span style=\"color:#FFFFFFFF\">護盾</span>、<span style=\"color:#FFFFFFFF\">傷害抵消</span>狀態以及出戰狀態時，抽1張牌。（每回合2次）",
-      "skillTag": [],
+      "skillTag": [
+        "被動技能"
+      ],
       "points": []
     }
   ]

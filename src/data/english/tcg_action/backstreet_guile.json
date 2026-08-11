@@ -1,0 +1,33 @@
+{
+  "_id": 215161,
+  "id": "backstreet_guile",
+  "shareId": 612,
+  "name": "Backstreet Guile",
+  "title": "Jahoda: Backstreet Guile",
+  "desc": "\"Finders keepers!\"",
+  "in_play_description": "When <span style=\"color:#FFFFFFFF\">Jahoda</span> switches to the active character, if the number of cards in your opponent's Hand is greater than or equal to yours, randomly copy 2 cards from their Hand. (Once per Round)",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "Anemo",
+    "card_type": "Equipment Card",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "Anemo",
+        "count": 3
+      }
+    ],
+    "source": "Reward for inviting Jahoda to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "tags": [
+      "Talent",
+      "Combat Action"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Combat Action</span>: When your active character is <span style=\"color:#FFFFFFFF\">Jahoda</span>, equip this card.<br/>After Jahoda equips this card, immediately use <span style=\"color:#FFD780FF\">Savvy Strategy: Splitting the Spoils</span> once.<br/>When <span style=\"color:#FFFFFFFF\">Jahoda</span> switches to the active character, if the number of cards in your opponent's Hand is greater than or equal to yours, randomly copy 2 cards from their Hand. (Once per Round)<br/>(You must have Jahoda in your deck to add this card to your deck.)"
+    }
+  ]
+}

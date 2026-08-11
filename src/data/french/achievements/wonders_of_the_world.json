@@ -278,8 +278,8 @@
     },
     {
       "id": 81032,
-      "name": "Prime perdue",
-      "desc": "Perdez la cible d'une Prime.",
+      "name": "QUEST FAILED  OR ...",
+      "desc": "Vous avez perdu la trace de votre cible pendant une prime ou n'avez plus besoin de poursuivre de primes du tout...",
       "reward": 5,
       "hidden": true,
       "order": 1033
@@ -4641,6 +4641,214 @@
       "order": 1699
     },
     {
+      "id": 81700,
+      "name": "Arrête-toi donc, c'est si beau !",
+      "desc": "Prenez un instant pour admirer la beauté des bouleaux blancs et du palais enseveli sous la neige.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1700
+    },
+    {
+      "id": 81701,
+      "name": "Transcendant du pays de demain",
+      "desc": "Récupérez toutes les reliques laissées par quelqu'un dans le Palais de la couronne pâle.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1701
+    },
+    {
+      "id": 81702,
+      "name": "Effet boule de neige",
+      "desc": "Roulez la plus grosse boule de neige.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1702
+    },
+    {
+      "id": 81703,
+      "name": "Les cloches nuptiales",
+      "desc": "Sonnez la cloche qui ne sonne plus.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1703
+    },
+    {
+      "id": 81704,
+      "name": "Pour qui cela sonne",
+      "desc": "Faites sonner à nouveau la cloche non entravée.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1704
+    },
+    {
+      "id": 81705,
+      "name": "Visions dans l'allumette",
+      "desc": "Apportez enfin du réconfort à celui qui est troublé.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1705
+    },
+    {
+      "id": 81706,
+      "name": "Limites et démonstrations",
+      "desc": "Peut-être qu'une œuvre reçoit un nom uniquement pour trouver un autre écho...",
+      "reward": 5,
+      "hidden": true,
+      "order": 1706
+    },
+    {
+      "id": 81707,
+      "name": "« Invasion Snezhnaya »",
+      "desc": "Mettez Œil de Graie pour la première fois.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1707
+    },
+    {
+      "id": 81708,
+      "name": "Neige, kristall et vitesse",
+      "desc": "Donnez une nouvelle vie à votre vieux train.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1708
+    },
+    {
+      "id": 81709,
+      "name": "À travers le hall de la fausse splendeur",
+      "desc": "Collectez tous les tableaux du Manoir des Hespérides et découvrez le trésor caché qui s'y trouve.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1709
+    },
+    {
+      "id": 81710,
+      "name": "Pour chaque « toi » du futur",
+      "desc": "Même si ce « tu » n'est pas encore là.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1710
+    },
+    {
+      "id": 81711,
+      "name": "Car le palais est là",
+      "desc": "Atteignez le point culminant du Palais zapolyarny.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1711
+    },
+    {
+      "id": 81712,
+      "name": "La dernière rose de l'hiver",
+      "desc": "... Périssant comme un papillon de nuit attiré par une flamme.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1712
+    },
+    {
+      "id": 81714,
+      "name": "Plus froid qu'un bonhomme de neige",
+      "desc": "Remportez une « épreuve d'endurance au froid » contre un concurrent natlanois.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1714
+    },
+    {
+      "id": 81715,
+      "name": "Ya-ho !",
+      "desc": "Aidez le chef du Village des jack frost à repousser l'invasion des volkodlak.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1715
+    },
+    {
+      "id": 81716,
+      "name": "Au-dessus de la Haute table",
+      "desc": "Mais qui se souvient encore que la Haute table a été construite par les domovoy...?",
+      "reward": 5,
+      "hidden": true,
+      "order": 1716
+    },
+    {
+      "id": 81717,
+      "name": "L'iceberg coule et ne remonte jamais",
+      "desc": "Assistez à la fin du snegovik colossal.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1717
+    },
+    {
+      "id": 81718,
+      "name": "« La cerisaie a été vendue »",
+      "desc": "Observez la cabane sur la glace se retourner, s'immobiliser, puis finalement couler.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1718
+    },
+    {
+      "id": 81720,
+      "name": "Itinéraire planifié avec succès",
+      "desc": "Utilisez un dispositif de liaison pour parcourir 30 mètres horizontalement en une seule descente.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1720
+    },
+    {
+      "id": 81721,
+      "name": "Tout comme l'inspiration",
+      "desc": "Lancez une boule de neige qui commence à disparaître avant même d'atterrir.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1721
+    },
+    {
+      "id": 81722,
+      "name": "Vous ne passerez PAS !!!",
+      "desc": "Arrêtez une boule de neige qui roule.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1722
+    },
+    {
+      "id": 81724,
+      "name": "Genoux robustes",
+      "desc": "Glissez pendant 20 s.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1724
+    },
+    {
+      "id": 81728,
+      "name": "Une promesse d'antan",
+      "desc": "À l'époque, Zolnyy n'avait pas de roi, et chacun faisait ce qu'il voulait...",
+      "reward": 5,
+      "hidden": true,
+      "order": 1728
+    },
+    {
+      "id": 81729,
+      "name": "Koski, options.",
+      "desc": "Aidez la femme natlanoise à calmer son oiseau flufeu.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1729
+    },
+    {
+      "id": 81730,
+      "name": "Alors que ma vision se gèle en une forme",
+      "desc": "Approchez-vous de la statue formée par le fantôme de la jeune fille au sommet du phare.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1730
+    },
+    {
+      "id": 81731,
+      "name": "En ébriété",
+      "desc": "On peut toujours réveiller quelqu'un qui est vraiment ivre.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1731
+    },
+    {
       "id": 82008,
       "name": "Invincible",
       "desc": "Détruisez tous les piliers rocheux d'une Hypostase Géo avant qu'elle ne se régénère.",
@@ -5451,6 +5659,22 @@
       "order": 2309
     },
     {
+      "id": 82310,
+      "name": "Attendez... Maintenant !",
+      "desc": "Interrompez l'attaque d'une Structure immortelle en brisant ses boucliers de PV alors qu'elle est dans l'état Éclat vital.",
+      "reward": 5,
+      "hidden": true,
+      "order": 2310
+    },
+    {
+      "id": 82311,
+      "name": "Lion ailé à terre",
+      "desc": "Faites tomber un Lion ailé chimérique du ciel en détruisant tous les orbes Anémo lorsqu'il se trouve en état venteux.",
+      "reward": 5,
+      "hidden": true,
+      "order": 2311
+    },
+    {
       "id": 84000,
       "name": "Le début d'un long voyage",
       "desc": "Terminez les quêtes d'Archons de Mondstadt.",
@@ -6233,6 +6457,14 @@
       "reward": 5,
       "hidden": true,
       "order": 4107
+    },
+    {
+      "id": 84584,
+      "name": "L'envol du cygne noir des neiges",
+      "desc": "Atteignez des sommets qu'aucun cygne des neiges n'a jamais atteints et osez rêver ce qu'aucun cygne des neiges n'a jamais osé rêver.",
+      "reward": 5,
+      "hidden": true,
+      "order": 4108
     },
     {
       "id": 85000,
@@ -7593,6 +7825,70 @@
       "reward": 10,
       "hidden": true,
       "order": 5165
+    },
+    {
+      "id": 84391,
+      "name": "Ouverture de blizzard rugissant",
+      "desc": "Conduisez le train à travers le vent et la neige à Snezhnaya.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5166
+    },
+    {
+      "id": 84392,
+      "name": "Jeu mystérieux de l'étoile pâle",
+      "desc": "Récupérez la Lame exaphane dans la grotte de glace.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5167
+    },
+    {
+      "id": 84393,
+      "name": "Le vent hurlant",
+      "desc": "Acceptez l'invitation de votre compagnon à rejoindre la Rokot.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5168
+    },
+    {
+      "id": 84394,
+      "name": "L'impitoyable hiver éternel",
+      "desc": "Terminez « L'impitoyable hiver éternel ».",
+      "reward": 10,
+      "hidden": true,
+      "order": 5169
+    },
+    {
+      "id": 84395,
+      "name": "Valse de l'amour ou du regret",
+      "desc": "Vous avez assisté à la représentation test de « L'âme errante ».",
+      "reward": 5,
+      "hidden": true,
+      "order": 5170
+    },
+    {
+      "id": 84396,
+      "name": "Au-delà du cycle",
+      "desc": "Observez Mitya s'avancer dans la tempête de neige.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5171
+    },
+    {
+      "id": 84397,
+      "name": "Les trois morts du destin",
+      "desc": "Survivez dans l'au-delà.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5172
+    },
+    {
+      "id": 84398,
+      "name": "Nocturne de spectre",
+      "desc": "Terminez « Nocturne de spectre ».",
+      "reward": 10,
+      "hidden": true,
+      "order": 5173
     },
     {
       "id": 84155,

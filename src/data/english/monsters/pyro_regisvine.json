@@ -38,7 +38,7 @@
       "_id": 113011,
       "id": "everflame_seed",
       "name": "Everflame Seed",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -133,7 +133,6 @@
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Regisvine_Fire",
   "description": "A giant vine that has absorbed the ancient flame that rages within the ley lines.\\nIt is restless as if filled with endless fury.\\nPoets, bards, and even some academics believe that elements also contain emotions and hopes. If this is true, then one can only wonder what emotions cause the Pyro Regisvine to burn eternally, writhing like one longing to be free of the confines of the earth...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humains",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
   "description": "Un membre du groupe hétéroclite de bandits dont on peut trouver des traces un peu partout sur le continent, même dans ses recoins les plus perdus.\\nLeur responsabilité est de traquer les cibles potentielles. La voie du crime est généralement choisie pour des raisons de pauvreté ou par manque d'éducation, mais à en juger par leur accoutrement, ils n'ont pas l'air d'avoir fait fortune de cette façon...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

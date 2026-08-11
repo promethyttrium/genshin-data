@@ -1,0 +1,182 @@
+{
+  "_id": 69,
+  "id": "snezhnaya_sacred_city_of_ice_and_pale_star_i",
+  "name": "Snezhnaya – Die heilige Stadt des Eises und Bleichsterns I",
+  "order": 72,
+  "achievements": [
+    {
+      "id": 80504,
+      "name": "Erkundung des Landes – Das schneebedeckte Nordreich I",
+      "desc": "Schalte die Gebiete Ewigeisiges Ödland, Eiswüste der Urzeitbestien, Flammenfedertal, Birken-Schneegrab und Gipfel des Kältetods in der Region um Snezhnaya auf der Karte frei.",
+      "reward": 5,
+      "hidden": false,
+      "order": 463
+    },
+    {
+      "id": 80505,
+      "name": "Durch die vereisten Schneelande I",
+      "desc": "Aktiviere alle Teleportationspunkte in den Gebieten Ewigeisiges Ödland, Eiswüste der Urzeitbestien, Flammenfedertal, Birken-Schneegrab und Gipfel des Kältetods in der Region um Snezhnaya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 464
+    },
+    {
+      "id": 80506,
+      "name": "Heiliger Marsch – Das schneebedeckte Nordreich I",
+      "desc": "Schalte alle Schreine der Tiefe in den Gebieten Ewigeisiges Ödland, Eiswüste der Urzeitbestien, Flammenfedertal, Birken-Schneegrab und Gipfel des Kältetods in der Region um Snezhnaya frei.",
+      "reward": 10,
+      "hidden": false,
+      "order": 465
+    },
+    {
+      "id": 80507,
+      "name": "Blass und doch strahlend wie Eis",
+      "desc": "Opfere einer Statue der Sieben im Gebiet von Snezhnaya und erreiche die Höchststufe dabei.",
+      "reward": 20,
+      "hidden": false,
+      "order": 466
+    },
+    {
+      "id": 80508,
+      "name": "Gaben des Schattenreichs – Das schneebedeckte Nordreich I",
+      "desc": "Schalte alle Schattenreich-Reliktschatzkammern im Ewigeisigen Ödland, in der Eiswüste der Urzeitbestien, im Flammenfedertal, im Birken-Schneegrab und auf dem Gipfel des Kältetods in der Region um Snezhnaya frei.",
+      "reward": 10,
+      "hidden": false,
+      "order": 467
+    },
+    {
+      "id": 80509,
+      "name": "Wegweiser auf den gefrorenen Ebenen I",
+      "desc": "Folge 3 Seelien in den Gebieten Ewigeisiges Ödland, Eiswüste der Urzeitbestien, Flammenfedertal, Birken-Schneegrab und Gipfel des Kältetods zu ihren Seeliengärten.",
+      "reward": 5,
+      "hidden": false,
+      "order": 468
+    },
+    {
+      "id": 80510,
+      "name": "Wegweiser auf den gefrorenen Ebenen I",
+      "desc": "Folge 5 Seelien in den Gebieten Ewigeisiges Ödland, Eiswüste der Urzeitbestien, Flammenfedertal, Birken-Schneegrab und Gipfel des Kältetods zu ihren Seeliengärten.",
+      "reward": 10,
+      "hidden": false,
+      "order": 469,
+      "preStage": 80509
+    },
+    {
+      "id": 80511,
+      "name": "Wegweiser auf den gefrorenen Ebenen I",
+      "desc": "Folge 10 Seelien in den Gebieten Ewigeisiges Ödland, Eiswüste der Urzeitbestien, Flammenfedertal, Birken-Schneegrab und Gipfel des Kältetods zu ihren Seeliengärten.",
+      "reward": 20,
+      "hidden": false,
+      "order": 470,
+      "preStage": 80510
+    },
+    {
+      "id": 80512,
+      "name": "Schatzsucher im Winter I",
+      "desc": "Öffne 65 Truhen im Ewigeisigen Ödland, in der Eiswüste der Urzeitbestien, im Flammenfedertal, im Birken-Schneegrab und auf dem Gipfel des Kältetods.",
+      "reward": 5,
+      "hidden": false,
+      "order": 471
+    },
+    {
+      "id": 80513,
+      "name": "Schatzsucher im Winter I",
+      "desc": "Öffne 130 Truhen im Ewigeisigen Ödland, in der Eiswüste der Urzeitbestien, im Flammenfedertal, im Birken-Schneegrab und auf dem Gipfel des Kältetods.",
+      "reward": 10,
+      "hidden": false,
+      "order": 472,
+      "preStage": 80512
+    },
+    {
+      "id": 80514,
+      "name": "Schatzsucher im Winter I",
+      "desc": "Öffne 260 Truhen im Ewigeisigen Ödland, in der Eiswüste der Urzeitbestien, im Flammenfedertal, im Birken-Schneegrab und auf dem Gipfel des Kältetods.",
+      "reward": 20,
+      "hidden": false,
+      "order": 473,
+      "preStage": 80513
+    },
+    {
+      "id": 80515,
+      "name": "Abenteurer im Winter I",
+      "desc": "Schließ 6 Zeitherausforderungen im Ewigeisigen Ödland, in der Eiswüste der Urzeitbestien, im Flammenfedertal, im Birken-Schneegrab und auf dem Gipfel des Kältetods ab.",
+      "reward": 5,
+      "hidden": false,
+      "order": 474
+    },
+    {
+      "id": 80516,
+      "name": "Abenteurer im Winter I",
+      "desc": "Schließ 12 Zeitherausforderungen im Ewigeisigen Ödland, in der Eiswüste der Urzeitbestien, im Flammenfedertal, im Birken-Schneegrab und auf dem Gipfel des Kältetods ab.",
+      "reward": 10,
+      "hidden": false,
+      "order": 475,
+      "preStage": 80515
+    },
+    {
+      "id": 80517,
+      "name": "Abenteurer im Winter I",
+      "desc": "Schließ 24 Zeitherausforderungen im Ewigeisigen Ödland, in der Eiswüste der Urzeitbestien, im Flammenfedertal, im Birken-Schneegrab und auf dem Gipfel des Kältetods ab.",
+      "reward": 20,
+      "hidden": false,
+      "order": 476,
+      "preStage": 80516
+    },
+    {
+      "id": 80518,
+      "name": "Die Stufen der Liebe",
+      "desc": "Schließ „Hesperides der Liebe und des Hasses“ ab.",
+      "reward": 10,
+      "hidden": false,
+      "order": 477
+    },
+    {
+      "id": 80519,
+      "name": "Vereint für ewiges Glück",
+      "desc": "Schließ „Wo das Leben haust“ ab.",
+      "reward": 10,
+      "hidden": false,
+      "order": 478
+    },
+    {
+      "id": 80520,
+      "name": "Tausend Arten der Liebe, mit anderen Worten ein einziger Seufzer",
+      "desc": "Verhindere, dass der „Urmensch“ die Welt in einen Hof ohne Liebe und Sorgen verwandelt.",
+      "reward": 10,
+      "hidden": false,
+      "order": 479
+    },
+    {
+      "id": 80521,
+      "name": "Die Geburt der Sängerin in der Muschel",
+      "desc": "Erhöhe die Konstruktionsstufe von „Treffpunkt – Höhle des Gezeitenlieds“ auf die Höchststufe.",
+      "reward": 5,
+      "hidden": false,
+      "order": 480
+    },
+    {
+      "id": 80522,
+      "name": "In der wachen Welt nach Werten jagen",
+      "desc": "Erhöhe die Konstruktionsstufe von „Treffpunkt – Hütte des Jägers“ auf die Höchststufe.",
+      "reward": 5,
+      "hidden": false,
+      "order": 481
+    },
+    {
+      "id": 80523,
+      "name": "Die Verherrlichung der Auserwählten",
+      "desc": "Erhöhe die Konstruktionsstufe von „Treffpunkt – Korolevskiy-Theater“ auf die Höchststufe.",
+      "reward": 5,
+      "hidden": false,
+      "order": 482
+    },
+    {
+      "id": 80529,
+      "name": "„Wintermorgen“",
+      "desc": "Schließ die Renovierung von „Rankova Zorya“ ab.",
+      "reward": 5,
+      "hidden": false,
+      "order": 488
+    }
+  ]
+}

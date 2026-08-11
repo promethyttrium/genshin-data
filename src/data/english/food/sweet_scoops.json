@@ -1,0 +1,54 @@
+{
+  "_id": 4906,
+  "id": "sweet_scoops",
+  "name": "Sweet Scoops",
+  "description": "An assortment of ice cream scoops. Four different flavors are served in separate paper bowls and packed together in a single box. Tasters usually fall into two camps: those who dig into whichever flavor they feel like, and those who finish each bowl in order. Either way, there is never anything left at the bottom of the box at the end.",
+  "rarity": 4,
+  "ingredients": [
+    {
+      "_id": 101265,
+      "id": "midsommar_berry",
+      "name": "Midsommar Berry",
+      "amount": 3
+    },
+    {
+      "_id": 101264,
+      "id": "lakkaberry",
+      "name": "Lakkaberry",
+      "amount": 3
+    },
+    {
+      "_id": 101281,
+      "id": "rimecurrant",
+      "name": "Rimecurrant",
+      "amount": 3
+    },
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Red Beet",
+      "amount": 3
+    }
+  ],
+  "dish_type": "ATK-Boosting Dish",
+  "results": {
+    "suspicious": {
+      "_id": 132018,
+      "name": "Suspicious Sweet Scoops",
+      "description": "An assortment of ice cream scoops. The cratered surfaces look like crumpled paper balls struggling to hold their original form. Once in your mouth, a gritty layer of ice flakes completely masks the flavor, leaving zero room for any culinary nuance. Right now, your only desire is to close your eyes and wonder why you ever decided to challenge it...",
+      "effect": "Increases all party members' ATK by 224 and CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s)."
+    },
+    "normal": {
+      "_id": 132019,
+      "name": "Sweet Scoops",
+      "description": "An assortment of ice cream scoops. Four different flavors are served in separate paper bowls and packed together in a single box. Tasters usually fall into two camps: those who dig into whichever flavor they feel like, and those who finish each bowl in order. Either way, there is never anything left at the bottom of the box at the end.",
+      "effect": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s)."
+    },
+    "delicious": {
+      "_id": 132020,
+      "name": "Delicious Sweet Scoops",
+      "description": "An assortment of ice cream scoops. Silky and dense, each scoop dissolves gracefully on the palate, giving way to a crisp, refreshing sweetness that gently blankets the senses. Even long after the carton is empty, you find yourself reluctant to put it down, closing your eyes to savor the lingering aftertaste of pure bliss...",
+      "effect": "Increases all party members' ATK by 320 and CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s)."
+    }
+  }
+}

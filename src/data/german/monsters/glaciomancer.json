@@ -1,0 +1,40 @@
+{
+  "_id": 25135001,
+  "id": "glaciomancer",
+  "monsterId": 25135004,
+  "name": "Frostmagier",
+  "specialNames": [
+    "Frostmagier"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystische Bestien",
+  "filename_icon": "UI_MonsterIcon_Human_Female_Staff_Snegurochka",
+  "description": "Im Eis und Schnee und aus Liebe geborener Snegovik.\\nDie weiblichen Snegoviki werden Snegurochka genannt. Die meisten von ihnen sind geborene Magier, die frei über die Kräfte von Eis und Schnee verfügen können. Der Legende nach ist die Seele der Snegoviki bei ihrer Erschaffung unvollständig. Sie müssen sich in einen Menschen verlieben, um Vollkommenheit zu erlangen.\\nDoch braucht ein Snegovik, der diese erlangt hat, überhaupt noch so etwas wie die Liebe? Vielleicht lautet die Antwort darauf ja: Nein.\\nDas ist wohl auch der Grund, warum so viele Geschichten über die Liebe zwischen Snegoviki und Menschen letztlich in einer Tragödie enden.",
+  "bgm": 1,
+  "budget": 5,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 4.57189,
+      "attack": 58.575787,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

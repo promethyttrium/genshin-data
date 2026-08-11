@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Male_Fat_CannonShield",
   "description": "Un ufficiale Fatuus d'élite degli Oprichniki, che usa un cannone pesante per guastare le formazioni nemiche e un potente scudo per proteggere i propri compagni.\\nLe aspre battaglie hanno tinto il suo scudo di un bianco gelido, e strati di sangue ne hanno annerito i bordi. Gli ufficiali degli Oprichniki sanno che le parole vuote non servono a riportare in vita coloro che si sono sacrificati... Solo un bombardamento incessante, simile a una tormenta di neve, è in grado di scuotere la corruzione del Vecchio Mondo.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

@@ -36,7 +36,7 @@
       "_id": 113039,
       "id": "light_guiding_tetrahedron",
       "name": "Tétraèdre de lumière",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -151,7 +151,6 @@
   "categoryText": "Automates",
   "filename_icon": "UI_MonsterIcon_Monolith_Starchild",
   "description": "Une machine à mouvement perpétuel qui domine les nombreux édifices éparpillés dans le désert.\\nIl semble que la volonté du souverain solitaire habite toujours ce dispositif. Peut-être était-ce parce qu'il avait reçu en rêve les instructions d'un ami ou parce qu'il désirait ardemment posséder l'autorité des dieux, mais le roi de cette nation perdue a créé ces machines mystérieuses qui n'auraient pas dû avoir leur place dans ce monde.\\nAu milieu des ruines de la cité aux mille piliers, les anciens cristaux reflètent encore la gloire du paradis doré, bien que personne ne se souvienne du rêve du roi.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

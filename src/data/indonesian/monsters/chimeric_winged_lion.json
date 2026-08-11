@@ -1,0 +1,41 @@
+{
+  "_id": 26310501,
+  "id": "chimeric_winged_lion",
+  "monsterId": 26310507,
+  "name": "Chimeric Winged Lion",
+  "specialNames": [
+    "Chimeric Winged Lion"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Makhluk Mistis",
+  "filename_icon": "UI_MonsterIcon_Chimera_Manticore",
+  "description": "Makhluk hasil bio-alkimia, salah satu monster buatan yang ditinggalkan.\\nDemi mewujudkan sebuah cita-cita agung, seorang alkimiawan menciptakan banyak tubuh primordial yang disebut \"Prototipe\" dengan teknik yang tidak dapat diulangi.\\nDi antara semuanya, hanya satu yang berhasil bertumbuh menjadi ciptaan sempurna sesuai rencana, sedangkan prototipe lain yang hampir sempurna namun pada akhirnya gagal dijadikan berbagai makhluk berkepala dua secara sembarangan.\\nMeski dianggap sebagai produk gagal, kekuatan yang dimiliki makhluk-makhluk berkepala dua yang istimewa ini tetaplah luar biasa. Dalam ranah monster buatan, sudah tidak ada hal lain yang mampu menandingi mereka.",
+  "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.5,
+      "cryo": 0.1,
+      "electro": 0.5
+    },
+    "base": {
+      "hp": 350.27457,
+      "attack": 95.456,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

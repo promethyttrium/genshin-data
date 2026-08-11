@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Katalysator",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 4567,
@@ -29,8 +31,10 @@
     {
       "id": "the_classics_of_acupuncture",
       "name": "Klassische Akupunktur",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#7EC236FF\">Dendro-SCH</span>.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -49,8 +53,10 @@
     {
       "id": "universal_diagnosis",
       "name": "Universal-Diagnose",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 1 <span style=\"color:#FFFFFFFF\">Unruhspiral-Geist</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#7EC236FF\">Dendro-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Unruhspiral-Geist</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -64,7 +70,9 @@
       "id": "holistic_revivification",
       "name": "Ganzheitliche Heilung",
       "desc": "Erschafft 1 <span style=\"color:#FFFFFFFF\">Pulsierende Klarheit</span> und 1 <span style=\"color:#FFFFFFFF\">Makelloser Schild</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1107,

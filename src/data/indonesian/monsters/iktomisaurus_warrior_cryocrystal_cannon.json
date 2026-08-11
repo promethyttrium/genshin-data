@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Launcher_Shamansaurus",
   "description": "Pejuang kuat dari dalam asap misterius yang keberaniannya telah diakui sehingga memungkinkannya mengenakan Mahkota Saurian.\\nTanpa kecuali, dikatakan bahwa prajurit suku yang mendapatkan pengakuan Iktomisaurus harus memiliki indra yang sangat peka dan kekuatan mental yang tangguh. Mereka bahkan dapat menggunakan kekuatannya untuk membuat perubahan kecil pada lintasan proyektil yang mereka tembakkan dari meriam.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Lança",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 4369,
@@ -29,8 +31,10 @@
     {
       "id": "toss_n_turn_spear",
       "name": "Lança Vorpal",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -50,7 +54,9 @@
       "id": "raphanus_sky_cluster",
       "name": "Rabanete das Nuvens",
       "desc": "Invoca 1 <span style=\"color:#FFFFFFFF\">Yuegui: Modo de Arremesso</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "moonjade_descent",
       "name": "Descida da Lua de Jade",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, cria 1 <span style=\"color:#FFFFFFFF\">Legado Adepti</span>.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#7EC236FF\">Dano Dendro</span>, cria 1 <span style=\"color:#FFFFFFFF\">Legado Adepti</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1107,

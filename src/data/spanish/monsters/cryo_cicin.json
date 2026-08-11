@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Cicin_Ice_01",
   "description": "Una pequeña criatura con cierta capacidad de canalización del elemento Cryo.\\nSe llaman Cicines voladores, como todos los de su especie. Aunque son bastante débiles, esta misma característica les ha permitido desarrollar una curiosa forma de desplazarse para escapar de sus depredadores.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

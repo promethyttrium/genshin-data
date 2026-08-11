@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automi",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Probe",
   "description": "Un Mekautoma ideato per la ricognizione sotterranea e la ricerca di determinati minerali.\\nPoiché è possibile impostare il tipo di metallo, questo dispositivo è molto popolare tra i Cacciatori di tesori e gli avventurieri.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

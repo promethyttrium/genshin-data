@@ -1,0 +1,30 @@
+{
+  "_id": 104373,
+  "id": "philosophies_of_glory",
+  "name": "「荣光」的哲学",
+  "description": "天赋培养素材。\\n「荣光」是冰之国土的信仰。\\n荣光是火炬台上不熄的火焰，如今与风雪的国度共存亡。火焰点燃高尚的激情，为了维系它的永恒燃烧，人们甘愿奉献出自己的一切。",
+  "source": [
+    "占位-可合成数量:{0}"
+  ],
+  "location": "至冬",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104372,
+        "id": "guide_to_glory",
+        "name": "「荣光」的指引",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "精通秘境：共观 IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "周三",
+    "周六",
+    "周日"
+  ]
+}

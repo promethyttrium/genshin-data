@@ -1,7 +1,7 @@
 {
   "_id": 22020101,
   "id": "abyss_herald_wicked_torrents",
-  "monsterId": 22020103,
+  "monsterId": 84202012,
   "name": "Hiçliğin Habercisi: Habis Dalgalar",
   "specialNames": [
     "Wynfled",
@@ -22,9 +22,8 @@
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_Invoker_Herald_Water_01",
   "description": "Savaşta Su kullanan Hiçlik Tarikatı hizmetkarları.\\nHiçliğin öncü kuvveti olan bu sessiz kişiler, Gelgit Kılıçlarını savurduklarında önlerinde duran her şeyi bir anda yıkıp geçer, zırhları paramparça edip dalalete düşenlerin kökünü kazır. Ahmak halkların boynuna lanet halkasını geçirecek olan onlardır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

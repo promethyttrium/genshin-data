@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Warrior's Metal Whistle",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Sentry's Wooden Whistle",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Human_Fat_NoWeapon_Mosasaurus",
   "description": "Seorang petarung dari sumber mata air, dan merupakan penjaga suku yang melindungi perairan dan pesisirnya.\\nJangan pernah meremehkan kemampuan dari para petarung bersenjatakan trisula ini karena mereka selalu mengasah kemampuan dengan cara berburu ikan. Konon di masa lalu, para penduduk suku menggunakan keahlian mereka ini untuk berburu monster laut raksasa dengan sisik setangguh baja.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -13,7 +13,6 @@
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_02",
   "description": "Estranhas criaturas que habitam principalmente no corpo de Elynas.\\nOs primeiros Primofissuradores registrados em Fontaine surgiram logo após a catástrofe que ocorreu. Foi também nessa época que foram registrados os primeiros casos de Primofissuradores atacando e protegendo as pessoas.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

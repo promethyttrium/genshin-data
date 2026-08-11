@@ -1,7 +1,7 @@
 {
   "_id": 22020101,
   "id": "abyss_herald_wicked_torrents",
-  "monsterId": 22020103,
+  "monsterId": 84202012,
   "name": "Apôtre de l'Abîme - Torrent",
   "specialNames": [
     "Weinfiel (Mage de l'Abîme)",
@@ -22,9 +22,8 @@
   "categoryText": "Ordre de l'Abîme",
   "filename_icon": "UI_MonsterIcon_Invoker_Herald_Water_01",
   "description": "Un monstre au service de l'Ordre de l'Abîme. Il utilise l'élément Hydro en combat.\\nCes silhouettes silencieuses constituent l'avant-garde de l'Abîme. Elles combattent à l'aide de torrents d'eau capables de tout engloutir en un instant et de briser les armures, sous le regard impuissant des hérétiques. Les masses ne peuvent y échapper.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

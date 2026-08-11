@@ -68,6 +68,11 @@
       "name": "Fricassée de poulet"
     },
     {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Glace à la givroseille"
+    },
+    {
       "_id": 4403,
       "id": "fontinalia_mousse",
       "name": "Mousse fontinalienne"
@@ -85,6 +90,5 @@
   ],
   "source": [
     "Cuisine (préparation)"
-  ],
-  "rarity": 0
+  ]
 }

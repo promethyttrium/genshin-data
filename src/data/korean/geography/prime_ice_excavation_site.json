@@ -1,0 +1,12 @@
+{
+  "_id": 70800038,
+  "id": "prime_ice_excavation_site",
+  "name": "순얼음 채굴장",
+  "areaName": "영구 동토",
+  "areaId": 80200,
+  "description": "고대 문명이 남긴 유산은 오늘날까지도 사람들에게 큰 도움을 주고 있다.\n수많은 장인과 채굴자들이 미래의 초석을 마련하고자 이곳에서 밤낮없이 일하고 있다",
+  "regionName": "스네즈나야",
+  "regionId": 8,
+  "sortOrder": 638,
+  "filename_image": "UI_Codex_Scenery_ZDCaiBingZhen1"
+}

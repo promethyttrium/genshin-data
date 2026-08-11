@@ -1,0 +1,16 @@
+{
+  "_id": 380001,
+  "id": "phantasmal_gift_star_omen",
+  "name": "Rito Ilusorio: Augurio Estelar",
+  "description": "“En principio, muchos fenómenos de este mundo se pueden considerar ‘imágenes’. Por lo tanto, las ‘imágenes’ que vislumbras en la bola de cristal son, en cierto sentido, una extensión de la realidad material. En resumen, aunque ni Alice ni Nicole lo reconozcan, ¡la legitimidad de la hidromancia es innegable!”.",
+  "rarity": 4,
+  "type": {
+    "id": "Catalyst",
+    "name": "Catalizador"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341801,
+  "icon_path": "UI_EquipIcon_Catalyst_Kristall",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_Kristall"
+}

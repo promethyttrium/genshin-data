@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Cicin_Water_01",
   "description": "Une petite bestiole qui peut manipuler l'élément Hydro.\\nElle fait partie d'un ensemble de créatures qui s'apparentent aux lucioles et qui sont friandes d'herbe brumeuse. Les Mages des Fatui exploitent cette faiblesse pour les manipuler au combat.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

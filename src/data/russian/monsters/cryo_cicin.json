@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Cicin_Ice_01",
   "description": "Маленькое существо, способное слегка направлять элемент Крио.\\nПодобные существа имеют общее название «цицины». По отдельности они весьма слабы, но именно из-за своей слабости им удалось развить особый способ передвижения, позволяющий избегать хищников.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

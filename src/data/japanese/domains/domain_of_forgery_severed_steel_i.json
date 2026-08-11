@@ -1,0 +1,53 @@
+{
+  "_id": 4715,
+  "id": "domain_of_forgery_severed_steel_i",
+  "name": "煉武秘境・断鋼 I",
+  "entranceId": 2106,
+  "entranceName": "妄執の傷跡",
+  "description": "不満を抱く反逆者たちは、かつてこの地に潜み、旧き世を取り戻そうとしていた。彼らの夢は血色の焔と共に潰え、果てしない蒼白だけが残された。\n中に潜む敵を倒すと、装備強化素材を獲得できるかもしれない。",
+  "regionId": 8,
+  "regionName": "スネージナヤ",
+  "recommendedLevel": 15,
+  "unlockRank": 15,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "風元素",
+    "氷元素"
+  ],
+  "daysOfWeek": [
+    "水曜",
+    "土曜",
+    "日曜"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "冒険経験",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "モラ",
+      "count": "1125"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "好感度経験値",
+      "count": "10"
+    },
+    {
+      "_id": 114093,
+      "id": "the_frost_emperors_revival",
+      "name": "氷の皇帝の復活"
+    }
+  ],
+  "monsterList": []
+}

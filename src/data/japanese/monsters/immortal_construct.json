@@ -1,0 +1,158 @@
+{
+  "_id": 25140101,
+  "id": "immortal_construct",
+  "monsterId": 25140101,
+  "name": "不滅の副産物",
+  "specialNames": [
+    "永遠なる焔の翼の不完全な体"
+  ],
+  "investigation": {
+    "investigationId": 97,
+    "name": "不滅の副産物",
+    "categoryType": "Boss",
+    "categoryText": "BOSS",
+    "description": "ある私心に基づく計画を実現するために製造された副産物。\\n器となる肉体はすでにその機能を失っており、今では不完全で知性のない獣として辺りを徘徊することしかできない。"
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Zharptitsa_02",
+  "rewardPreviewId": 15213,
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "冒険経験",
+      "count": 200
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "モラ"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "好感度経験値"
+    },
+    {
+      "_id": 113090,
+      "id": "unscorched_blossom_branch",
+      "name": "炎中不滅の枝",
+      "count": 2.556
+    },
+    {
+      "_id": 104114,
+      "id": "agnidus_agate_gemstone",
+      "name": "炎願のアゲート"
+    },
+    {
+      "_id": 104113,
+      "id": "agnidus_agate_chunk",
+      "name": "炎願のアゲート·塊"
+    },
+    {
+      "_id": 104112,
+      "id": "agnidus_agate_fragment",
+      "name": "炎願のアゲート·欠片"
+    },
+    {
+      "_id": 104111,
+      "id": "agnidus_agate_sliver",
+      "name": "炎願のアゲート·砕屑"
+    },
+    {
+      "_id": 400089,
+      "id": "gladiators_finale",
+      "name": "剣闘士のフィナーレ",
+      "rarity": 5
+    },
+    {
+      "_id": 400099,
+      "id": "wanderers_troupe",
+      "name": "大地を流浪する楽団",
+      "rarity": 5
+    },
+    {
+      "_id": 400088,
+      "id": "gladiators_finale",
+      "name": "剣闘士のフィナーレ",
+      "rarity": 4
+    },
+    {
+      "_id": 400098,
+      "id": "wanderers_troupe",
+      "name": "大地を流浪する楽団",
+      "rarity": 4
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "狂戦士",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "教官",
+      "rarity": 4
+    },
+    {
+      "_id": 400128,
+      "id": "prayers_for_illumination",
+      "name": "火祭りの人",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "狂戦士",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "教官",
+      "rarity": 3
+    },
+    {
+      "_id": 400127,
+      "id": "prayers_for_illumination",
+      "name": "火祭りの人",
+      "rarity": 3
+    },
+    {
+      "_id": 400047,
+      "id": "adventurer",
+      "name": "冒険者",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種の魔獣",
+  "filename_icon": "UI_MonsterIcon_Zharptitsa_02",
+  "description": "コシチェイという名の錬金術師が「焔の鳥」と呼ばれる個体を製造した際の副産物。\\nそれはこの陰鬱な錬金術師の癖なのかもしれない。同じロットの実験体のうちどれか一つでも成功すると、その他のものはすべて廃棄されるか、適当に処分されてしまうのだ。\\n何らかの力を融合して完全体となるはずだったこの派生の創造物は、今や不完全で知性を持たぬ野獣として、峡谷の中を果てしなく彷徨い続けるしかない。",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.5,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 421.104,
+      "attack": 100.48,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

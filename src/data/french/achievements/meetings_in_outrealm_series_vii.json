@@ -1,0 +1,80 @@
+{
+  "_id": 72,
+  "id": "meetings_in_outrealm_series_vii",
+  "name": "Rencontres dans un autre monde - Partie VII",
+  "order": 37,
+  "achievements": [
+    {
+      "id": 86079,
+      "name": "La chute de l'être",
+      "desc": "Affrontez un Herra de la nuit glaciale avec l'aide d'un autre joueur.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9076
+    },
+    {
+      "id": 86080,
+      "name": "Vingt-six. Pénétration !",
+      "desc": "Affrontez un Croiseur terrestre super-lourd « Forteresse mécanisée » avec l'aide d'un autre joueur.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9077
+    },
+    {
+      "id": 86081,
+      "name": "Alors ne le dis pas !",
+      "desc": "Affrontez un Seigneur chuchoteur de cauchemars des fonds cachés avec l'aide d'un autre joueur.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9078
+    },
+    {
+      "id": 86082,
+      "name": "Refusez le mensonge, révélez la vérité",
+      "desc": "Affrontez « Le Docteur » avec l'aide d'un autre joueur.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9079
+    },
+    {
+      "id": 86083,
+      "name": "Qu'avez-vous donc protégé ?",
+      "desc": "Affrontez un Lunigecko radieux avec l'aide d'un autre joueur.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9080
+    },
+    {
+      "id": 86084,
+      "name": "« Si j'aiguise mon épée scintillante... »",
+      "desc": "Affrontez un Veilleur « Veille déchue » avec l'aide d'un autre joueur.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9081
+    },
+    {
+      "id": 86085,
+      "name": "Ignorance indépendante",
+      "desc": "Affrontez Dottore avec l'aide d'un autre joueur.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9082
+    },
+    {
+      "id": 86086,
+      "name": "Immortalité tronquée",
+      "desc": "Affrontez une Structure immortelle avec l'aide d'un autre joueur.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9083
+    },
+    {
+      "id": 86087,
+      "name": "Vitalité sans fin",
+      "desc": "Affrontez un Lion ailé chimérique avec l'aide d'un autre joueur.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9084
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "_id": 340002,
+  "id": "hallowed_fetters_sublimation",
+  "name": "Lien sacré (sublimé)",
+  "description": "Une épée glorieuse et illusoire, scintillant du pouvoir du « temps », surgie des profondeurs des lignes énergétiques. Son apparence peut changer selon le type élémentaire de son porteur. La légende raconte que cette épée portait autrefois le nom de Gleipnir, alors qu'elle était portée par un pécheur transcendant sur une terre antique.",
+  "rarity": 5,
+  "type": {
+    "id": "Catalyst",
+    "name": "Catalyseur"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Métamorphose radieuse : Transcendance (sublimée)",
+    "priority": 1
+  },
+  "item_id": 341402,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphIlia_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphIlia_Great"
+}

@@ -1,0 +1,328 @@
+{
+  "_id": 15435,
+  "id": "jade_vista",
+  "name": "千鈞懸黎",
+  "description": "千鈞の力を秘めた長弓。深く暗い夜の中でもなお、夢色の輝きを放つ。",
+  "rarity": 4,
+  "type": {
+    "id": "Bow",
+    "name": "弓"
+  },
+  "domain": "震雷連山密宮",
+  "passive": "夜を飾る灯火",
+  "bonus": "装備者を除き、以下の条件に合うチーム内キャラクターが1名いるごとに、以下の効果を獲得する。・元素タイプが装備者と同じ場合、装備者の元素熟知+<span>64/80/96/112/128</span>。・元素タイプが装備者と異なる場合、装備者の攻撃力+<span>12%/15%/18%/21%/24%</span>。上記2種類の効果は合計で最大3層まで重ね掛けでき、元素タイプが同じだった場合の効果が優先して発動する。",
+  "specialProp": "会心率",
+  "stats": {
+    "primary": "基礎攻撃力",
+    "secondary": "会心率",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 42,
+        "secondary": 6
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 109,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 135,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 205,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 231,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 266,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 292,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 327,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 353,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 388,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 414,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 449,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 475,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 510,
+        "secondary": 27.6
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114021,
+          "id": "grain_of_aerosiderite",
+          "name": "漆黒の隕鉄の一粒",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112041,
+          "id": "fragile_bone_shard",
+          "name": "脆い骨片",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112032,
+          "id": "recruits_insignia",
+          "name": "新兵の記章",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114022,
+          "id": "piece_of_aerosiderite",
+          "name": "漆黒の隕鉄の一片",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112041,
+          "id": "fragile_bone_shard",
+          "name": "脆い骨片",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112032,
+          "id": "recruits_insignia",
+          "name": "新兵の記章",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114022,
+          "id": "piece_of_aerosiderite",
+          "name": "漆黒の隕鉄の一片",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112042,
+          "id": "sturdy_bone_shard",
+          "name": "丈夫な骨片",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112033,
+          "id": "sergeants_insignia",
+          "name": "士官の記章",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114023,
+          "id": "bit_of_aerosiderite",
+          "name": "漆黒の隕鉄の一角",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112042,
+          "id": "sturdy_bone_shard",
+          "name": "丈夫な骨片",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112033,
+          "id": "sergeants_insignia",
+          "name": "士官の記章",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114023,
+          "id": "bit_of_aerosiderite",
+          "name": "漆黒の隕鉄の一角",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112043,
+          "id": "fossilized_bone_shard",
+          "name": "石化した骨片",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112034,
+          "id": "lieutenants_insignia",
+          "name": "尉官の記章",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114024,
+          "id": "chunk_of_aerosiderite",
+          "name": "漆黒の隕鉄の塊",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112043,
+          "id": "fossilized_bone_shard",
+          "name": "石化した骨片",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112034,
+          "id": "lieutenants_insignia",
+          "name": "尉官の記章",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "夜を飾る灯火",
+    "template": "装備者を除き、以下の条件に合うチーム内キャラクターが1名いるごとに、以下の効果を獲得する。・元素タイプが装備者と同じ場合、装備者の元素熟知+<span style=\"color:#99FFFFFF\">{0}</span>。・元素タイプが装備者と異なる場合、装備者の攻撃力+<span style=\"color:#99FFFFFF\">{1}</span>。上記2種類の効果は合計で最大3層まで重ね掛けでき、元素タイプが同じだった場合の効果が優先して発動する。",
+    "params": [
+      [
+        "64",
+        "12%"
+      ],
+      [
+        "80",
+        "15%"
+      ],
+      [
+        "96",
+        "18%"
+      ],
+      [
+        "112",
+        "21%"
+      ],
+      [
+        "128",
+        "24%"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "装備者を除き、以下の条件に合うチーム内キャラクターが1名いるごとに、以下の効果を獲得する。・元素タイプが装備者と同じ場合、装備者の元素熟知+<span>64</span>。・元素タイプが装備者と異なる場合、装備者の攻撃力+<span>12%</span>。上記2種類の効果は合計で最大3層まで重ね掛けでき、元素タイプが同じだった場合の効果が優先して発動する。"
+    },
+    {
+      "refinement": 2,
+      "desc": "装備者を除き、以下の条件に合うチーム内キャラクターが1名いるごとに、以下の効果を獲得する。・元素タイプが装備者と同じ場合、装備者の元素熟知+<span>80</span>。・元素タイプが装備者と異なる場合、装備者の攻撃力+<span>15%</span>。上記2種類の効果は合計で最大3層まで重ね掛けでき、元素タイプが同じだった場合の効果が優先して発動する。"
+    },
+    {
+      "refinement": 3,
+      "desc": "装備者を除き、以下の条件に合うチーム内キャラクターが1名いるごとに、以下の効果を獲得する。・元素タイプが装備者と同じ場合、装備者の元素熟知+<span>96</span>。・元素タイプが装備者と異なる場合、装備者の攻撃力+<span>18%</span>。上記2種類の効果は合計で最大3層まで重ね掛けでき、元素タイプが同じだった場合の効果が優先して発動する。"
+    },
+    {
+      "refinement": 4,
+      "desc": "装備者を除き、以下の条件に合うチーム内キャラクターが1名いるごとに、以下の効果を獲得する。・元素タイプが装備者と同じ場合、装備者の元素熟知+<span>112</span>。・元素タイプが装備者と異なる場合、装備者の攻撃力+<span>21%</span>。上記2種類の効果は合計で最大3層まで重ね掛けでき、元素タイプが同じだった場合の効果が優先して発動する。"
+    },
+    {
+      "refinement": 5,
+      "desc": "装備者を除き、以下の条件に合うチーム内キャラクターが1名いるごとに、以下の効果を獲得する。・元素タイプが装備者と同じ場合、装備者の元素熟知+<span>128</span>。・元素タイプが装備者と異なる場合、装備者の攻撃力+<span>24%</span>。上記2種類の効果は合計で最大3層まで重ね掛けでき、元素タイプが同じだった場合の効果が優先して発動する。"
+    }
+  ]
+}

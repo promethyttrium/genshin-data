@@ -1,0 +1,54 @@
+{
+  "_id": 3701,
+  "id": "zharkoye",
+  "name": "Zharkoye",
+  "description": "Toprak güveçte servis edilen bir et yemeği. Küp küp doğranan malzemeler güvece yerleştirilir, ağzı hamurla kapatılır ve fırına verilir. Piştikten sonra çıtır hamur kapağı kaldırılır ve ekşi krema eklenir. Pişirme yöntemi karmaşık olmamasına rağmen fırın sıcaklığını ve pişirme süresini kontrol etmek oldukça fazla deneyim gerektirir.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Çiğ Et",
+      "amount": 3
+    },
+    {
+      "_id": 100080,
+      "id": "potato",
+      "name": "Patates",
+      "amount": 2
+    },
+    {
+      "_id": 100013,
+      "id": "carrot",
+      "name": "Havuç",
+      "amount": 2
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 2
+    }
+  ],
+  "dish_type": "İyileştirici Yemek",
+  "results": {
+    "suspicious": {
+      "_id": 108985,
+      "name": "Zharkoye (Tuhaf)",
+      "description": "Toprak güveçte servis edilen bir et yemeği. Güvecin içinde aşırı uzun süre pişirildiğinden etler parçalanıp tel tel olmuş, sanki eski bir battaniyeyi çiğniyormuşsun hissi veriyor. Tek bir lokma bile güveci yavaşça iterek gözünün önünden uzaklaştırman için yeterli...",
+      "effect": "Seçili karakterin Maks. Canını %30 yeniler, ardından 600 Can verir."
+    },
+    "normal": {
+      "_id": 108986,
+      "name": "Zharkoye",
+      "description": "Toprak güveçte servis edilen bir et yemeği. Küp küp doğranan malzemeler güvece yerleştirilir, ağzı hamurla kapatılır ve fırına verilir. Piştikten sonra çıtır hamur kapağı kaldırılır ve ekşi krema eklenir. Pişirme yöntemi karmaşık olmamasına rağmen fırın sıcaklığını ve pişirme süresini kontrol etmek oldukça fazla deneyim gerektirir.",
+      "effect": "Seçili karakterin Maks. Canını %32 yeniler, ardından 1.250 Can verir."
+    },
+    "delicious": {
+      "_id": 108987,
+      "name": "Zharkoye (Lezzetli)",
+      "description": "Toprak güveçte servis edilen bir et yemeği. Üzerindeki çıtır hamur kapağını kırarak açınca davetkar bir sıcaklık eşliğinde aniden etrafa iştah kabartan, buram buram bir tereyağı kokusu yayılır. Tıpkı karlı bir kış gecesinde şömineye taze bir kütük attıktan sonraki o huzur verici sıcaklık gibi insanın içini ısıtır.",
+      "effect": "Seçili karakterin Maks. Canını %34 yeniler, ardından 1.900 Can verir."
+    }
+  }
+}

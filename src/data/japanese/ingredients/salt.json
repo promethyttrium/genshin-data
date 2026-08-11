@@ -45,6 +45,16 @@
       "name": "ミートライ麦パン"
     },
     {
+      "_id": 2701,
+      "id": "stroganina",
+      "name": "鮮魚のストロガニナ"
+    },
+    {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "グルポフ黒パン"
+    },
+    {
       "_id": 3012,
       "id": "sunshine_sprat",
       "name": "バター魚焼き"
@@ -119,6 +129,5 @@
   ],
   "source": [
     "雑貨屋で購入"
-  ],
-  "rarity": 0
+  ]
 }

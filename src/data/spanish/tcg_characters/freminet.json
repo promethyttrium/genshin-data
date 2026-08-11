@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Mandoble",
     "faction": [
-      null,
-      null
+      "Fontaine",
+      "Fatui"
     ],
     "talent_card": {
       "_id": 6593,
@@ -30,8 +32,10 @@
     {
       "id": "flowing_eddies",
       "name": "Espada vortiginosa",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,8 +54,10 @@
     {
       "id": "pressurized_floe",
       "name": "Criopresurización",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y el personaje obtiene el efecto de <span style=\"color:#FFFFFFFF\">hora de Pers</span> si aún no lo tiene.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#99FFFFFF\">Daño Cryo</span> y el personaje obtiene el efecto de <span style=\"color:#FFFFFFFF\">hora de Pers</span> si aún no lo tiene.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -64,8 +70,10 @@
     {
       "id": "shadowhunters_ambush",
       "name": "Emboscada cazasombras",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y este personaje obtiene el efecto de <span style=\"color:#FFFFFFFF\">modo acecho subacuático</span>.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts. de <span style=\"color:#99FFFFFF\">Daño Cryo</span> y este personaje obtiene el efecto de <span style=\"color:#FFFFFFFF\">modo acecho subacuático</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1101,

@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "キャラカード",
     "energy": 2,
+    "element": "風元素",
+    "weapon": "片手剣",
     "faction": [
-      null
+      "モンド"
     ],
     "talent_card": {
       "_id": 3222,
@@ -29,8 +31,10 @@
     {
       "id": "favonius_bladework",
       "name": "西風剣術",
-      "desc": "?を?与える。",
-      "skillTag": [],
+      "desc": "?を2与える。",
+      "skillTag": [
+        "通常攻撃"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "gale_blade",
       "name": "風圧剣",
-      "desc": "?を?与え、相手のキャラを次のキャラにチェンジさせる。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#80FFD7FF\">風元素ダメージ</span>を3与え、相手のキャラを次のキャラにチェンジさせる。",
+      "skillTag": [
+        "元素スキル"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -64,7 +70,9 @@
       "id": "dandelion_breeze",
       "name": "蒲公英の風",
       "desc": "味方のチーム全員のHPを2回復する。また、<span style=\"color:#FFFFFFFF\">蒲公英エリア</span>を召喚する。",
-      "skillTag": [],
+      "skillTag": [
+        "元素爆発"
+      ],
       "points": [
         {
           "_id": 1105,

@@ -1,0 +1,72 @@
+{
+  "_id": 26310201,
+  "id": "chimeric_burrowbeast",
+  "monsterId": 26310201,
+  "name": "Bestia Quimérica Terralanzadera",
+  "specialNames": [
+    "Bestia Quimérica Terralanzadera"
+  ],
+  "investigation": {
+    "investigationId": 100,
+    "name": "Monstruo Quimérico Aberrante",
+    "categoryType": "Common",
+    "categoryText": "Normal",
+    "description": "Un Monstruo Quimérico Aberrante, producto de la bioalquimia que tanto prosperó en el pasado en Snezhnaya antes de ser prohibida.\\nLa mayoría de ellos fueron consumidos durante la guerra contra la marea de bestias oscuras. Los pocos ejemplares que han sobrevivido hasta hoy son una verdadera rareza."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Chimera_BeetleLion",
+  "rewardPreviewId": 16029,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 112151,
+      "id": "prime_chimeric_nexus",
+      "name": "Organismo quimérico primigenio",
+      "count": 0.084
+    },
+    {
+      "_id": 112150,
+      "id": "symbiotic_chimeric_nucleus",
+      "name": "Célula quimérica simbiótica",
+      "count": 0.336
+    },
+    {
+      "_id": 112149,
+      "id": "chimeric_core",
+      "name": "Semilla quimérica",
+      "count": 1.26
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestias exóticas",
+  "filename_icon": "UI_MonsterIcon_Chimera_OwlPangolin",
+  "description": "Un Monstruo Quimérico Aberrante, producto de la bioalquimia que tanto prosperó en el pasado en las tierras heladas.\\nSi adquiriera la capacidad de ver con claridad en las sombras, ¿podría una criatura capaz de desplazarse bajo la tierra y el hielo convertirse en un depredador aún más letal?\\nEl resultado del experimento fue sorprendentemente exitoso. Esta Bestia Terralanzadera se desplaza bajo la superficie durante la noche, excavando trampas en la oscuridad o acechando a sus presas desde las sombras.\\nSegún un reportaje de «El Véstnik», un trabajador de Svetloledovka afirmó haber visto una vez una Bestia Terralanzadera de casi el tamaño de dos personas... Aunque seguramente no sea más que una tontería.",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.2
+    },
+    "base": {
+      "hp": 27.168,
+      "attack": 30.144,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

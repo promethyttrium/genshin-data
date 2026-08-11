@@ -25,19 +25,19 @@
       "_id": 112142,
       "id": "jeweled_flaming_hilt",
       "name": "Kiếm Lửa Rực Rỡ",
-      "count": 0.2626
+      "count": 0.262
     },
     {
       "_id": 112141,
       "id": "fractured_flaming_hilt",
       "name": "Kiếm Lửa Tàn Lụi",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112140,
       "id": "faded_flaming_hilt",
       "name": "Kiếm Lửa Phai Màu",
-      "count": 3.9394
+      "count": 3.939
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Cơ Quan Tự Động",
   "filename_icon": "UI_MonsterIcon_Watcher_Normal_01",
   "description": "Tạo vật bóng tối sinh ra từ sự dâng trào của đấng quyền năng nguyên sơ, là người thủ hộ của điện trụ trên trời cao.\\nLà người thủ hộ của Điện Trụ Không Gian, tuy được ban \"mắt\", nhưng chỉ có thể ngợi ca \"lý tưởng\" của thực tại vĩnh cửu, không thể nhìn thấy sự phức tạp của thế giới hiện tượng, nên không được xem là đồng loại của thiên sứ. Liệu sự khác biệt này là do thiết kế lý trí của đấng tạo hóa, hay cũng có thể là chủ nhân mà chúng phục vụ cũng không hiểu được ý định của đấng nguyên sơ. E là giờ đây cũng không còn cách nào biết được.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

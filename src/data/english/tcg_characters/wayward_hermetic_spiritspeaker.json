@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Other Weapons",
     "faction": [
-      null
+      "Monster"
     ],
     "source": "Reward for accepting the Tavern Challenge at The Cat's Tail and claiming victory in a Friendly Fracas with the Wayward Hermetic Spiritspeaker"
   },
@@ -18,8 +20,10 @@
     {
       "id": "spiritspeaking_frost_star",
       "name": "Spiritspeaking: Frost Star",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#99FFFFFF\">Cryo DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -38,8 +42,10 @@
     {
       "id": "radiance_in_flux",
       "name": "Radiance in Flux",
-      "desc": "Deals ? ?, places 1 <span style=\"color:#FFFFFFFF\">Radiant Hues</span> third from the top of your deck, and <span style=\"color:#FFFFFFFF\">Select</span> 1 of 3 random <span style=\"color:#FFFFFFFF\">Radiant Hues</span> enhancement effects.",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#99FFFFFF\">Cryo DMG</span>, places 1 <span style=\"color:#FFFFFFFF\">Radiant Hues</span> third from the top of your deck. If this is one of the first 4 times this skill is being used this game, then <span style=\"color:#FFFFFFFF\">Select</span> 1 of 3 random <span style=\"color:#FFFFFFFF\">Radiant Hues</span> enhancement effects.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -52,8 +58,10 @@
     {
       "id": "chilling_illustration",
       "name": "Chilling Illustration",
-      "desc": "Deals ? ?, and adds 1 <span style=\"color:#FFFFFFFF\">Radiant Hues</span> to your Hand.",
-      "skillTag": [],
+      "desc": "Deals 4 <span style=\"color:#99FFFFFF\">Cryo DMG</span>, and adds 1 <span style=\"color:#FFFFFFFF\">Radiant Hues</span> to your Hand.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -73,7 +81,9 @@
       "id": "iridescent_silhouette",
       "name": "Iridescent Silhouette",
       "desc": "(Passive) When battle begins, create 3 <span style=\"color:#FFFFFFFF\">Radiant Hues</span> and place them evenly into your deck.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

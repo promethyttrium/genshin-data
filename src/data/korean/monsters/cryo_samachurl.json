@@ -15,14 +15,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "츄츄 부족",
   "filename_icon": "UI_MonsterIcon_Shaman_Ice_01",
   "description": "구시렁대는 연로한 츄츄족. 얼음 원소의 간구자다.\\n원소 통제에 타고난 재능이 있으며, 나이가 들수록 능력이 점점 강해진다. 이러한 샤먼들은 서리의 속삭임으로 적을 제어하는 법을 잘 알고 있다",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

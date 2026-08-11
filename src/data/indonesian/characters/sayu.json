@@ -549,7 +549,7 @@
     {
       "id": "someone_more_capable",
       "name": "Someone More Capable",
-      "description": "Saat Sayu berada di medan pertempuran dan memicu reaksi Swirl, Sayu akan memulihkan 300 HP untuk anggota party dan kawan yang ada di sekitar. Sayu juga akan memulihkan 1,2 HP tambahan untuk setiap poin Elemental Mastery yang dimiliki Sayu.<br/>Efek ini hanya dapat terpicu setiap 2 detik.",
+      "description": "Saat Sayu berada di medan pertempuran dan memicu reaksi Swirl atau Stellar Swirl, Sayu akan memulihkan 300 HP untuk anggota party dan kawan yang ada di sekitar. Sayu juga akan memulihkan 1,2 HP tambahan untuk setiap poin Elemental Mastery yang dimiliki Sayu.<br/>Efek ini hanya dapat terpicu setiap 2 detik.",
       "level": 1
     },
     {
@@ -591,7 +591,7 @@
       "_id": 534,
       "id": "skiving_new_and_improved",
       "name": "Skiving: New and Improved",
-      "description": "Setiap kali Sayu memicu reaksi Swirl, 1,2 Energy terpulihkan.<br/>Dapat terpicu setiap 2 detik.",
+      "description": "Sayu akan memulihkan 1,2 Energy-nya setiap kali ia memicu reaksi Swirl atau Stellar Swirl di medan pertempuran.<br/>Dapat terpicu setiap 2 detik.",
       "level": 4
     },
     {

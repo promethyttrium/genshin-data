@@ -45,6 +45,16 @@
       "name": "Kalakukko"
     },
     {
+      "_id": 2701,
+      "id": "stroganina",
+      "name": "Stroganina"
+    },
+    {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "Glupov-Roggenbrot"
+    },
+    {
       "_id": 3012,
       "id": "sunshine_sprat",
       "name": "Butterbratling"
@@ -119,6 +129,5 @@
   ],
   "source": [
     "In Gemischtwarenläden zu erstehen"
-  ],
-  "rarity": 0
+  ]
 }

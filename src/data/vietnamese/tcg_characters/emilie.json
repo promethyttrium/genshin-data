@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Thảo",
+    "weapon": "Vũ Khí Cán Dài",
     "faction": [
-      null
+      "Fontaine"
     ],
     "talent_card": {
       "_id": 7583,
@@ -29,8 +31,10 @@
     {
       "id": "shadowhunting_spear_custom",
       "name": "Săn Bóng Tối (Cải Tiến)",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -50,7 +54,9 @@
       "id": "fragrance_extraction",
       "name": "Chiết Xuất Nước Hoa",
       "desc": "Triệu hồi <span style=\"color:#FFFFFFFF\">Hộp Lumidouce Cấp 1</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "aromatic_explication",
       "name": "Trình Diễn Hương Thơm",
-      "desc": "Gây ? điểm ?. Triệu hồi <span style=\"color:#FFFFFFFF\">Hộp Lumidouce Cấp 3</span>.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm <span style=\"color:#7EC236FF\">Sát Thương Nguyên Tố Thảo</span>. Triệu hồi <span style=\"color:#FFFFFFFF\">Hộp Lumidouce Cấp 3</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -84,7 +92,9 @@
       "id": "lingering_fragrance",
       "name": "Dư Hương",
       "desc": "<color=#FFFFFFFF>Khi <span style=\"color:#FFFFFFFF\">Lửa Thiêu Đốt</span> của phe ta vào trận:</color> Sau khi nhân vật hai phe dùng kỹ năng lần kế tiếp, kích hoạt 1 lần hiệu quả kết thúc hiệp của <span style=\"color:#FFFFFFFF\">Lửa Thiêu Đốt</span>. (Mỗi hiệp 2 lần)",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Bị Động"
+      ],
       "points": []
     }
   ]

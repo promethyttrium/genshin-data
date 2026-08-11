@@ -25,19 +25,19 @@
       "_id": 112079,
       "id": "wanderers_blooming_flower",
       "name": "Flor Florescente do Andarilho",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112078,
       "id": "treasured_flower",
       "name": "Flor Estimada",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112077,
       "id": "a_flower_yet_to_bloom",
       "name": "Flor Que Ainda Não Floresceu",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hilistray_Wind",
   "description": "Hilichurls andarilhos que não pertencem a nenhuma tribo. É quase como se estivessem procurando pelo destino de sua espécie, procurando descobrir algum esplendor perdido que pertencia ao seu povo.\\nSe esses monstros, capazes apenas de usar uma linguagem rudimentar e desprovidos de uma história, pudessem registrar seus próprios contos épicos e lendas, os Hilichurls andarilhos seriam os heróis desses contos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

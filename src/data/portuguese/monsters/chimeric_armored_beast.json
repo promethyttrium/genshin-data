@@ -1,0 +1,39 @@
+{
+  "_id": 26310101,
+  "id": "chimeric_armored_beast",
+  "monsterId": 26310102,
+  "name": "Besta Quimérica Armada",
+  "specialNames": [
+    "Besta Quimérica Armada"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Monstros diversos",
+  "filename_icon": "UI_MonsterIcon_Chimera_BeetleLion",
+  "description": "Um produto da Bioalquimia amplamente difundida pelas terras congeladas no passado, um monstro quimérico anômalo.\\nSe uma fera de quatro pernas recebesse uma carapaça e um chifre como o de um Onikabuto, poderia muito bem se tornar a força capaz de romper formações inimigas.\\nEm teoria, monstros sintéticos feitos para uma única função sobrevivem raramente na natureza. Quando perdem o lugar ou propósito original, a maioria perece por ter desafiado as leis da natureza. Mas, claramente, a Besta Quimérica Armada não é uma delas.\\nHoje, nas terras congeladas de Snezhnaya, bestas blindadas podem ser vistas caçando frequentemente em grupo.",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 7.315024,
+      "attack": 58.575787,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

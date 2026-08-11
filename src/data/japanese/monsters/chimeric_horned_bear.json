@@ -1,0 +1,39 @@
+{
+  "_id": 26310401,
+  "id": "chimeric_horned_bear",
+  "monsterId": 26310402,
+  "name": "合成獣・ホーンベア",
+  "specialNames": [
+    "合成獣・ホーンベア"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種の魔獣",
+  "filename_icon": "UI_MonsterIcon_Chimera_BearDeer",
+  "description": "生物錬金術の産物であり、非常に特殊な成型を遂げた合成魔獣。\\n人工的な構想によるものではなく、生命の断片が自ら組み合わさって形成された合成魔物であるため、元素力を自在に操る不可思議な力さえ備えている。\\n生命がわずかな断片しか残らないほどに砕け散ったとしても、何らかの意志と偉大なる力が働き、ある神秘的な計画に従って彼らを成長させているのだろうか？\\nその答えを知る者は、今となってはもう誰もいないのかもしれない。",
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 27.431341,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

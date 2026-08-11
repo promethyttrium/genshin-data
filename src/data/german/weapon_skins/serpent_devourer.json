@@ -1,0 +1,21 @@
+{
+  "_id": 310001,
+  "id": "serpent_devourer",
+  "name": "Schlangenverschlinger",
+  "description": "Eine schimmernde, illusorische Waffe aus den Tiefen des Flusses der Elemente. Sie kann sich je nach Elementartyp ihres Trägers wandeln. Es wird gesagt, dass sie einst den Namen „Logseims“ trug, als sie von einem goldenen Sünder in einem uralten Reich getragen wurde.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Einhänder"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "Strahlendes Trugbild – Transzendenz",
+    "priority": 1
+  },
+  "item_id": 341101,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphVinces_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphVinces"
+}

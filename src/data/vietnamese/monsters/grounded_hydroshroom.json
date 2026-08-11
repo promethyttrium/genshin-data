@@ -33,13 +33,13 @@
       "_id": 112063,
       "id": "dormant_fungal_nucleus",
       "name": "Nhân Bào Nấm Bất Động",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112062,
       "id": "inactivated_fungal_nucleus",
       "name": "Nhân Bào Nấm Đã Chết",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112061,
@@ -57,16 +57,15 @@
       "_id": 112059,
       "id": "fungal_spores",
       "name": "Bào Tử Nấm Quỷ",
-      "count": 0.2101
+      "count": 0.21
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water",
   "description": "Sinh vật mô phỏng được cấu thành từ bào tử, có khả năng thích nghi hoàn cảnh rất tốt.\\nNhìn giống loài chim, nhưng hình như không có khả năng bay lượn. Hoặc là do nguyên tố Thủy ảnh hưởng nên hành động của chúng nhanh nhẹn hơn nhiều so với đồng loại. Cũng có nghiên cứu suy đoán rằng loại Nấm Quỷ này thực tế là một thân nấm được hình thành bởi vô số bào tử chứ không phải là một thể độc lập.\\nCó địa vị cao trong quần thể Nấm Quỷ, cho thấy nó sở hữu trí tuệ khá cao.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

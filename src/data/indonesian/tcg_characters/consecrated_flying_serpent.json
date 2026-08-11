@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Senjata Lain",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Consecrated Beast"
     ],
     "talent_card": {
       "_id": 5697,
@@ -28,8 +30,10 @@
     {
       "id": "whirling_tail",
       "name": "Whirling Tail",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -48,8 +52,10 @@
     {
       "id": "swirling_squall",
       "name": "Swirling Squall",
-      "desc": "Mengakibatkan ? poin ? dan mengambil 1 kartu.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#80FFD7FF\">Anemo DMG</span> dan mengambil 1 kartu.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -62,8 +68,10 @@
     {
       "id": "scattershot_vortex",
       "name": "Scattershot Vortex",
-      "desc": "Mengakibatkan ? poin ? dan mem<span style=\"color:#FFFFFFFF\">buang</span> semua <span style=\"color:#FFFFFFFF\">Bonecruncher's Energy Block</span> yang ada di Tangan. Setiap <span style=\"color:#FFFFFFFF\">Buang</span> 2 kartu, akan meningkatkan DMG ini sebanyak 1 kali lipat.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#80FFD7FF\">Anemo DMG</span> dan mem<span style=\"color:#FFFFFFFF\">buang</span> semua <span style=\"color:#FFFFFFFF\">Bonecruncher's Energy Block</span> yang ada di Tangan. Setiap <span style=\"color:#FFFFFFFF\">Buang</span> 2 kartu, akan meningkatkan DMG ini sebanyak 1 kali lipat.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -83,7 +91,9 @@
       "id": "immortal_remnants_anemo",
       "name": "Immortal Remnants: Anemo",
       "desc": "[Pasif] Menciptakan 6 <span style=\"color:#FFFFFFFF\">Bonecruncher's Energy Block</span> saat duel dimulai dan semuanya diletakkan ke dalam Dek-mu.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

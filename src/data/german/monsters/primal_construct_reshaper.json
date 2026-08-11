@@ -25,19 +25,19 @@
       "_id": 112073,
       "id": "radiant_prism",
       "name": "Leuchtendes Prisma",
-      "count": 0.1751
+      "count": 0.175
     },
     {
       "_id": 112072,
       "id": "turbid_prism",
       "name": "Trübes Prisma",
-      "count": 0.7003
+      "count": 0.7
     },
     {
       "_id": 112071,
       "id": "damaged_prism",
       "name": "Zerbrochenes Prisma",
-      "count": 2.6263
+      "count": 2.626
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Automata",
   "filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
   "description": "Wächter der uralten, in der Wüste verlorenen Ruinen. Ihre Kräfte reichen aus, um alle zu bestrafen, die es wagen, den Traum des Königs zu stören.\\nDer König der gleißenden Sonne, der das Sandmeer beherrscht, versprach seinem Volk ein Paradies auf der anderen Seite, später sollte sich herausstellen, dass all dies nur der Größenwahn des irren Königs war.\\nHeute ist dieses „Paradies“ längst verschwunden. Lediglich Einkerbungen auf diesen Maschinen erinnern noch an diesen von den Menschen vergessenen Traum und den Schwur.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

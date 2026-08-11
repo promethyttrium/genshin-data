@@ -1,0 +1,24 @@
+{
+  "_id": 112157,
+  "id": "coiled_core_of_life",
+  "name": "Gewundener Kern des Lebens",
+  "description": "Ein Aststück, an dem sich ein vollständiger Kristallkern entwickelt hat, der eine unversiegbar scheinende Lebenskraft birgt. Würde man es jetzt in die Erde pflanzen, ließe sich daraus wohl bald ein neuer Leschi heranziehen.",
+  "source": [
+    "Beute von Wildnis-Leschi ab Stufe 60",
+    "Mit Sternenstaub kaufen: Herstellbar nach Erhalt",
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "rarity": 4,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 112156,
+        "id": "sprout_node_of_life",
+        "name": "Sprossknoten des Lebens",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

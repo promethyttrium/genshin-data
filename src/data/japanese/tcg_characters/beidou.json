@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "キャラカード",
     "energy": 3,
+    "element": "雷元素",
+    "weapon": "両手剣",
     "faction": [
-      null
+      "璃月"
     ],
     "talent_card": {
       "_id": 3459,
@@ -29,8 +31,10 @@
     {
       "id": "oceanborne",
       "name": "征浪",
-      "desc": "?を?与える。",
-      "skillTag": [],
+      "desc": "?を2与える。",
+      "skillTag": [
+        "通常攻撃"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,7 +54,9 @@
       "id": "tidecaller",
       "name": "浪追い",
       "desc": "本キャラに<span style=\"color:#FFFFFFFF\">浪追い·波囲の守り</span>を付与し、<span style=\"color:#FFFFFFFF\">スキル準備</span>に入る：<span style=\"color:#FFFFFFFF\">潮踏み</span>。",
-      "skillTag": [],
+      "skillTag": [
+        "元素スキル"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "stormbreaker",
       "name": "雷斫り",
-      "desc": "?を?与え、<span style=\"color:#FFFFFFFF\">雷獣の盾</span>を生成する。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#FFACFFFF\">雷元素ダメージ</span>を2与え、<span style=\"color:#FFFFFFFF\">雷獣の盾</span>を生成する。",
+      "skillTag": [
+        "元素爆発"
+      ],
       "points": [
         {
           "_id": 1104,

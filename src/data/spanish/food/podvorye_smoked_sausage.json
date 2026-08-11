@@ -1,0 +1,42 @@
+{
+  "_id": 1701,
+  "id": "podvorye_smoked_sausage",
+  "name": "Salchicha ahumada al estilo Podvorye",
+  "description": "Una salchicha sazonada y ahumada, cortada en finas rodajas y servida directamente. Es el plato estrella del Restaurante Podvorye y una opción que nadie sería capaz de rechazar.",
+  "rarity": 1,
+  "ingredients": [
+    {
+      "_id": 110011,
+      "id": "sausage",
+      "name": "Salchicha",
+      "amount": 1
+    },
+    {
+      "_id": 100077,
+      "id": "pepper",
+      "name": "Pimienta",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Platos que regeneran Vida",
+  "results": {
+    "suspicious": {
+      "_id": 108988,
+      "name": "Salchicha ahumada al estilo Podvorye extraña",
+      "description": "Una salchicha cortada en rodajas dispares, con algunos trozos aún pegados entre sí. Al tomarlos, parecen una hilera de enredaderas marchitas y chamuscadas por el humo...",
+      "effect": "#Restaura un 8% de la Vida Máx. y 800 pts. de Vida al personaje seleccionado."
+    },
+    "normal": {
+      "_id": 108989,
+      "name": "Salchicha ahumada al estilo Podvorye",
+      "description": "Una salchicha sazonada y ahumada, cortada en finas rodajas y servida directamente. Es el plato estrella del Restaurante Podvorye y una opción que nadie sería capaz de rechazar.",
+      "effect": "#Restaura un 9% de la Vida Máx. y 1000 pts. de Vida al personaje seleccionado."
+    },
+    "delicious": {
+      "_id": 108990,
+      "name": "Salchicha ahumada al estilo Podvorye deliciosa",
+      "description": "Una salchicha cortada en rodajas. La firmeza de su textura marca el ritmo mientras que el ahumado y su sabroso sabor llevan la melodía, bailando en el paladar en un dúo perfectamente armonioso. Con razón siempre es el primer plato en quedar vacío.",
+      "effect": "#Restaura un 10% de la Vida Máx. y 1200 pts. de Vida al personaje seleccionado."
+    }
+  }
+}

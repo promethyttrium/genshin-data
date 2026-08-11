@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Forme di vita elementali",
   "filename_icon": "UI_MonsterIcon_Slime_Electric_03",
   "description": "Un mostro creato dalla coalescenza di Electro presente in natura.\\nA causa dell'abbondante quantità di Electro contenuta al suo interno, emette occasionalmente delle scosse elettriche nell'area circostante. Al momento, alcuni stanno tentando di sfruttare questa energia per facilitare le attività di produzione. Forse da questo fenomeno nascerà qualche nuova scienza?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

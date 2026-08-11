@@ -190,7 +190,7 @@
       "_id": 11322,
       "id": "ringadingding_hexhunter_chime",
       "name": "Ding ding ding ! Carillon de chasse aux sorcières",
-      "description": "Libère la puissance du vent pour vaincre la sorcière maléfique et sauver Descartes ! Prune frappe sa cloche de l'ensorceleuse avec son marteau-serment de chasse des fléaux, infligeant des <span style=\"color:#80FFD7FF\">DGT Anémo</span>.<br/>Si Prune déclenche une réaction de Dispersion sur un ennemi grâce à cette attaque, <span style=\"color:#FFD780FF\">Ding ding ding ! Carillon de chasse aux sorcières</span> est converti en <span style=\"color:#FFD780FF\">Bang bang ! Arrivée de la rétribution de sorcière</span> pendant 6 s.<br/><br/><span style=\"color:#FFD780FF\">Bang bang ! Arrivée de la rétribution de sorcière</span><br/>Le <b><span style=\"color:#FFD780FF\">marteau-serment de chasse des fléaux</span></b> subit une conversion de l'élément impliqué dans la réaction de Dispersion. Utiliser un appui simple permet à Prune de bondir et de propulser son marteau vers l'avant d'un coup de pied, infligeant des DGT de l'élément correspondant aux ennemis devant elle.",
+      "description": "Libère la puissance du vent pour vaincre la sorcière maléfique et sauver Descartes ! Prune frappe sa cloche de l'ensorceleuse avec son marteau-serment de chasse des fléaux, infligeant des <span style=\"color:#80FFD7FF\">DGT Anémo</span>.<br/>Si Prune déclenche une réaction de Dispersion ou d'Astrodispersion sur un ennemi grâce à cette attaque, <span style=\"color:#FFD780FF\">Ding ding ding ! Carillon de chasse aux sorcières</span> est converti en <span style=\"color:#FFD780FF\">Bang bang ! Arrivée de la rétribution de sorcière</span> pendant 6 s.<br/><br/><span style=\"color:#FFD780FF\">Bang bang ! Arrivée de la rétribution de sorcière</span><br/>Le <b><span style=\"color:#FFD780FF\">marteau-serment de chasse des fléaux</span></b> subit une conversion de l'élément impliqué dans la réaction de Dispersion ou d'Astrodispersion. Utiliser un appui simple permet à Prune de bondir et de propulser son marteau vers l'avant d'un coup de pied, infligeant des DGT de l'élément correspondant aux ennemis devant elle.",
       "info": "",
       "attributes": [
         {
@@ -369,7 +369,7 @@
     {
       "id": "verdict_and_punishment",
       "name": "Verdict et peine",
-      "description": "Lorsque la cloche de l'ensorceleuse du mode Chasse-traque inflige des DGT à un ennemi pendant le déchaînement élémentaire <color=#FFD780FF><b>Le glas sonne ! La chasse est ouverte</b></color>, déclencher par la même occasion une réaction de Dispersion sur l'ennemi invoque un <b><span style=\"color:#FFD780FF\">marteau-serment de chasse des fléaux</span></b> dont l'élément est converti selon la réaction élémentaire, infligeant des DGT élémentaires d'une valeur équivalant à 150 % de l'ATQ de Prune. Ces dégâts sont considérés comme des DGT de déchaînement élémentaire.",
+      "description": "Lorsque la cloche de l'ensorceleuse du mode Chasse-traque inflige des DGT à un ennemi pendant le déchaînement élémentaire <color=#FFD780FF><b>Le glas sonne ! La chasse est ouverte</b></color>, déclencher par la même occasion une réaction de Dispersion ou d'Astrodispersion sur l'ennemi invoque un <b><span style=\"color:#FFD780FF\">marteau-serment de chasse des fléaux</span></b> dont l'élément est converti selon la réaction élémentaire, infligeant des DGT élémentaires d'une valeur équivalant à 150 % de l'ATQ de Prune. Ces dégâts sont considérés comme des DGT de déchaînement élémentaire.",
       "level": 1
     },
     {

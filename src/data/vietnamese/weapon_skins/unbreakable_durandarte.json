@@ -1,0 +1,16 @@
+{
+  "_id": 390001,
+  "id": "unbreakable_durandarte",
+  "name": "Bất Hoại - Durandal",
+  "description": "Hình hài ảo ảnh của binh khí được thể hiện từ nơi sâu thẳm nhất của Địa Mạch, theo truyền thuyết, nó từng được nắm giữ bởi kỵ sĩ trắng thuần khiết dưới danh xưng \"Durandal\".\\nTrong ngôn ngữ cổ xưa, danh xưng đó có nghĩa là \"lưỡi kiếm sắc bén vĩnh viễn không bị hủy hoại\". Cũng như thanh kiếm mà ngài đeo bên mình, con đường mà kỵ sĩ kiên định theo đuổi chưa từng bị bẻ cong, bất kể thép trắng thuần khiết ban đầu giờ đây đã bị nhuộm đen như thế nào đi nữa.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Trọng Kiếm"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341901,
+  "icon_path": "UI_EquipIcon_Claymore_VarkaTunkeldegen",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_VarkaTunkeldegen"
+}

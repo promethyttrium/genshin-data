@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Epsilon_Wind",
   "description": "Sporengeschöpf mit einer gewissen Intelligenz. Hat eine starke Fähigkeit zur Anpassung an die Umwelt.\\nDurch ihre längliche Säule nimmt die Pilzbestie schnell Nährstoffe auf, ihre schirmförmige Kappe dreht sich mit dem Wind.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

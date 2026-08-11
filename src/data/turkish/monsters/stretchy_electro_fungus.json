@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Delta_Electric",
   "description": "Bir miktar zekaya sahip olan bir spor organizması. Ortama uyum sağlama konusunda oldukça yeteneklidir.\\nDiğer mantarların aksine bu yaratığın şapkasında parlak filizler vardır. Tehlikede anında kendini korumak için ufak elektrik topları saçar.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

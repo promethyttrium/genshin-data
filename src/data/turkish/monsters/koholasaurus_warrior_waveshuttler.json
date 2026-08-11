@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
   "description": "Kaplıcaların kaynağından gelen ve yiğitliğiyle tanınan, bundan dolayı Sürüngen Tacına layık görülen güçlü bir savaşçı.\\nDalgaların gücünü geçici olarak kullanarak ileri ve geri gidebilir. Efsanelere göre kabilenin kahramanları, olağanüstü hızdan yararlanarak herhangi bir araca ihtiyaç duymadan dalgaların üzerine hareket edebilirmiş. Günümüzde ise kabileler bunun dalgaları kontrol etmek için kullanılan çok gelişmiş ve karmaşık bir sanat olduğuna ve temelinde hareket eyleminin yattığına inanır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

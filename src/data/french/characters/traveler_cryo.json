@@ -1,0 +1,1307 @@
+{
+  "_id": 10000007,
+  "id": "traveler_cryo",
+  "name": "Voyageuse (Cryo)",
+  "description": "Un voyageur venant d'un autre monde qui a été séparé de sa sœur. Il débute son périple à la recherche des Sept Archons de Teyvat dans l'espoir de la retrouver.",
+  "weapon_type": {
+    "id": "sword",
+    "name": "Épée à une main"
+  },
+  "element": {
+    "id": "cryo",
+    "name": "Cryo"
+  },
+  "gender": {
+    "id": "malefemale",
+    "name": "Homme/Femme"
+  },
+  "release": 1786561200,
+  "substat": "ATQ%",
+  "affiliation": "——",
+  "region": {
+    "id": "mainactor",
+    "name": "MAINACTOR"
+  },
+  "rarity": 5,
+  "birthday": [
+    null,
+    null
+  ],
+  "constellation": "Viatrix",
+  "domain": "Donjon de la maîtrise : Ermitage",
+  "cv": {
+    "english": "Sarah Miller-Crews & autres",
+    "chinese": "宴宁 & 多多poi",
+    "japanese": "悠木碧 & 古賀葵",
+    "korean": "Lee Sae-ah & Kim Ka-ryoung"
+  },
+  "skills": [
+    {
+      "_id": 100554,
+      "id": "foreign_frostglint",
+      "name": "Givre scintillant au loin",
+      "description": "<span style=\"color:#FFD780FF\">Attaque normale</span><br/>Enchaîne jusqu'à 5 coups d'épée.<br/><br/><span style=\"color:#FFD780FF\">Attaque chargée</span><br/>Consomme de l'endurance pour déclencher deux coups d'épée rapides.<br/><br/><span style=\"color:#FFD780FF\">Attaque plongeante</span><br/>Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "DGT 1er coup",
+          "values": [
+            "44.5%",
+            "48.1%",
+            "51.7%",
+            "56.9%",
+            "60.5%",
+            "64.6%",
+            "70.3%",
+            "76%",
+            "81.7%",
+            "87.9%",
+            "94.1%",
+            "100.3%",
+            "106.5%",
+            "112.7%",
+            "118.9%"
+          ]
+        },
+        {
+          "label": "DGT 2e coup",
+          "values": [
+            "43.4%",
+            "47%",
+            "50.5%",
+            "55.5%",
+            "59.1%",
+            "63.1%",
+            "68.7%",
+            "74.2%",
+            "79.8%",
+            "85.9%",
+            "91.9%",
+            "98%",
+            "104%",
+            "110.1%",
+            "116.1%"
+          ]
+        },
+        {
+          "label": "DGT 3e coup",
+          "values": [
+            "53%",
+            "57.3%",
+            "61.6%",
+            "67.8%",
+            "72.1%",
+            "77%",
+            "83.8%",
+            "90.6%",
+            "97.3%",
+            "104.7%",
+            "112.1%",
+            "119.5%",
+            "126.9%",
+            "134.3%",
+            "141.7%"
+          ]
+        },
+        {
+          "label": "DGT 4e coup",
+          "values": [
+            "58.3%",
+            "63.1%",
+            "67.8%",
+            "74.6%",
+            "79.3%",
+            "84.8%",
+            "92.2%",
+            "99.7%",
+            "107.1%",
+            "115.3%",
+            "123.4%",
+            "131.5%",
+            "139.7%",
+            "147.8%",
+            "155.9%"
+          ]
+        },
+        {
+          "label": "DGT 5e coup",
+          "values": [
+            "70.8%",
+            "76.5%",
+            "82.3%",
+            "90.5%",
+            "96.3%",
+            "102.9%",
+            "111.9%",
+            "121%",
+            "130%",
+            "139.9%",
+            "149.8%",
+            "159.7%",
+            "169.5%",
+            "179.4%",
+            "189.3%"
+          ]
+        },
+        {
+          "label": "DGT attaque chargée",
+          "values": [
+            "55.9% + 72.2%",
+            "60.5% + 78.1%",
+            "65% + 84%",
+            "71.5% + 92.4%",
+            "76% + 98.3%",
+            "81.3% + 105%",
+            "88.4% + 114.2%",
+            "95.5% + 123.5%",
+            "102.7% + 132.7%",
+            "110.5% + 142.8%",
+            "118.3% + 152.9%",
+            "126.1% + 163%",
+            "133.9% + 173%",
+            "141.7% + 183.1%",
+            "149.5% + 193.2%"
+          ]
+        },
+        {
+          "label": "Coût d'endurance attaque chargée",
+          "values": [
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts"
+          ]
+        },
+        {
+          "label": "DGT durant la chute",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "DGT chute basse/élevée",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 10128,
+      "id": "frostbound_javelin",
+      "name": "Javelot de congélation",
+      "description": "Utilise l'élément Cryo pour créer un javelot de glace avant de le lancer sur les ennemis pour infliger plusieurs fois des <span style=\"color:#99FFFFFF\">DGT Cryo</span>.<br/>Lors de l'utilisation le voyageur consomme toute sa <b><span style=\"color:#FFD780FF\">lueur givrée</span></b> pour augmenter les DGT infligés par ce déchaînement élémentaire. Consommer 8 cumuls de <span style=\"color:#FFD780FF\">lueur givrée</span> permet également d'augmenter le nombre d'instances de DGT infligés par le javelot.<br/><br/><b><span style=\"color:#FFD780FF\">Radiance astrale</span></b> : convertit les DGT infligés en <span style=\"color:#99FFFFFF\">DGT Cryo</span> considérés comme des DGT de réaction astrale correspondante.",
+      "info": "Paimon et vous avez ressenti la morsure glacée des stalactites.",
+      "attributes": [
+        {
+          "label": "DGT javelot de glace",
+          "values": [
+            "55.1% / coup",
+            "59.3% / coup",
+            "63.4% / coup",
+            "68.9% / coup",
+            "73% / coup",
+            "77.2% / coup",
+            "82.7% / coup",
+            "88.2% / coup",
+            "93.7% / coup",
+            "99.2% / coup",
+            "104.7% / coup",
+            "110.3% / coup",
+            "117.2% / coup",
+            "124% / coup",
+            "130.9% / coup"
+          ]
+        },
+        {
+          "label": "Bonus de DGT (lueur givrée)",
+          "values": [
+            "2.8%",
+            "3%",
+            "3.2%",
+            "3.4%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%",
+            "4.7%",
+            "5%",
+            "5.2%",
+            "5.5%",
+            "5.9%",
+            "6.2%",
+            "6.5%"
+          ]
+        },
+        {
+          "label": "DGT d'Astroconduction javelot de glace",
+          "values": [
+            "36.8% / coup",
+            "39.5% / coup",
+            "42.3% / coup",
+            "45.9% / coup",
+            "48.7% / coup",
+            "51.5% / coup",
+            "55.1% / coup",
+            "58.8% / coup",
+            "62.5% / coup",
+            "66.2% / coup",
+            "69.8% / coup",
+            "73.5% / coup",
+            "78.1% / coup",
+            "82.7% / coup",
+            "87.3% / coup"
+          ]
+        },
+        {
+          "label": "Bonus de DGT d'Astroconduction (lueur givrée)",
+          "values": [
+            "1.8%",
+            "2%",
+            "2.1%",
+            "2.3%",
+            "2.4%",
+            "2.6%",
+            "2.8%",
+            "2.9%",
+            "3.1%",
+            "3.3%",
+            "3.5%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%"
+          ]
+        },
+        {
+          "label": "DGT d'Astrodispersion javelot de glace",
+          "values": [
+            "55.1% / coup",
+            "59.3% / coup",
+            "63.4% / coup",
+            "68.9% / coup",
+            "73% / coup",
+            "77.2% / coup",
+            "82.7% / coup",
+            "88.2% / coup",
+            "93.7% / coup",
+            "99.2% / coup",
+            "104.7% / coup",
+            "110.3% / coup",
+            "117.2% / coup",
+            "124% / coup",
+            "130.9% / coup"
+          ]
+        },
+        {
+          "label": "Bonus de DGT d'Astrodispersion (lueur givrée)",
+          "values": [
+            "2.8%",
+            "3%",
+            "3.2%",
+            "3.4%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%",
+            "4.7%",
+            "5%",
+            "5.2%",
+            "5.5%",
+            "5.9%",
+            "6.2%",
+            "6.5%"
+          ]
+        },
+        {
+          "label": "Enchaînement d'attaques",
+          "values": [
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3"
+          ]
+        },
+        {
+          "label": "Enchaînement d'attaques supplémentaires (lueur givrée, cumuls max)",
+          "values": [
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2"
+          ]
+        },
+        {
+          "label": "Temps de recharge",
+          "values": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "label": "Énergie élémentaire",
+          "values": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 10127,
+      "id": "ice_fog_piercer",
+      "name": "Percée du brouillard givrant",
+      "description": "Poignarde l'adversaire et libère un brouillard glacial, infligeant des <span style=\"color:#99FFFFFF\">DGT Cryo</span> devant le voyageur et formant une étoile perce-givre à ses côtés.<br/><br/><span style=\"color:#FFD780FF\">Étoile perce-givre</span><br/>· Suit votre personnage dans l'équipe et tire périodiquement des cristaux de glace sur les ennemis proches, infligeant des <span style=\"color:#99FFFFFF\">DGT Cryo</span>.<br/><span style=\"color:#FFD780FF\">Radiance « Astroconduction »</span> : l'étoile perce-givre ne tire plus périodiquement de cristaux de glace sur les ennemis, mais en tire lors d'une attaque coordonnée lorsque le voyageur touche un ennemi avec une attaque normale, chargée ou plongeante, cet effet pouvant être déclenché une fois toutes les 0,2 s.<br/>· Lorsqu'un cristal de glace touche un ennemi, le voyageur obtient 1 cumul de <b><span style=\"color:#FFD780FF\">lueur givrée</span></b>, jusqu'à un maximum de 8 cumuls.<br/>· Hors combat, la <span style=\"color:#FFD780FF\">lueur givrée</span> prend fin après 30 s.",
+      "info": "Paimon et vous avez observé la formation des cristaux de givre.",
+      "attributes": [
+        {
+          "label": "DGT compétence",
+          "values": [
+            "91.7%",
+            "98.6%",
+            "105.4%",
+            "114.6%",
+            "121.5%",
+            "128.4%",
+            "137.5%",
+            "146.7%",
+            "155.9%",
+            "165%",
+            "174.2%",
+            "183.4%",
+            "194.8%",
+            "206.3%",
+            "217.7%"
+          ]
+        },
+        {
+          "label": "DGT cristal de glace",
+          "values": [
+            "21.4%",
+            "23%",
+            "24.6%",
+            "26.7%",
+            "28.3%",
+            "29.9%",
+            "32.1%",
+            "34.2%",
+            "36.4%",
+            "38.5%",
+            "40.6%",
+            "42.8%",
+            "45.5%",
+            "48.1%",
+            "50.8%"
+          ]
+        },
+        {
+          "label": "Durée d'étoile perce-givre",
+          "values": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "label": "Temps de recharge",
+          "values": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "everkeen_frost",
+      "name": "Gelée toujours vive",
+      "description": "<span style=\"color:#FFD780FF\">Radiance « Astroconduction »</span> : Pendant la durée d'une <span style=\"color:#FFD780FF\">étoile perce-givre</span>, les attaques normales, chargées et plongeantes du voyageur sont converties pour infliger des <span style=\"color:#99FFFFFF\">DGT Cryo</span> ne pouvant pas être enchantés, et les DGT infligés augmentent d'une valeur équivalant à 80 % de son ATQ.",
+      "level": 1
+    },
+    {
+      "id": "lucent_ice",
+      "name": "Glace lucide",
+      "description": "La maîtrise élémentaire du voyageur augmente d'une valeur équivalant à 8 % de son ATQ, la maîtrise élémentaire pouvant être augmentée d'un maximum de 160 pts de cette manière.",
+      "level": 4
+    },
+    {
+      "id": "stellar_jubilee_illusory_frostmirror",
+      "name": "Jubilé stellaire : Miroir de givre illusoire",
+      "description": "Le voyageur passe en <span style=\"color:#FFD780FF\">radiance « Astroconduction »</span> ou en <span style=\"color:#FFD780FF\">radiance « Astrodispersion »</span> pendant 8 s lorsqu'il est dans une <b><span style=\"color:#FFD780FF\">étendue polaris</span></b> ou lorsqu'un personnage de l'équipe a déclenché une réaction d'Astrodispersion à proximité, respectivement.<br/>Lorsqu'un personnage de l'équipe déclenche une réaction de Supraconduction ou de Dispersion Cryo, elle est convertie en réaction d'Astroconduction ou d'Astrodispersion, dont les DGT de base augmentent selon l'ATQ du voyageur : chaque tranche de 100 pts d'ATQ augmente les DGT de base de ces réactions de 0,35 %, les DGT pouvant être augmentés d'un maximum de 7 % de cette manière.",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 81,
+      "id": "somber_freeze",
+      "name": "Gel sombre",
+      "description": "Le voyageur récupère 5 pts d'énergie élémentaire en infligeant des DGT de réaction astrale, cet effet pouvant être déclenché une fois toutes les 0,5 s.",
+      "level": 1
+    },
+    {
+      "_id": 82,
+      "id": "frostfall_reverberation",
+      "name": "Réverbération de givre",
+      "description": "Lorsqu'un <span style=\"color:#FFD780FF\">cristal de glace</span> tiré par la compétence élémentaire <color=#FFD780FF><b>Percée du brouillard givrant</b></color> a touché un ennemi, la maîtrise élémentaire du personnage déployé augmente de 60 pts pendant 5 s.<br/>De plus, si un personnage affecté par cet effet déclenche une réaction astrale ou inflige des DGT de réaction astrale, l'augmentation passe à 120 pts pendant la durée restante.",
+      "level": 2
+    },
+    {
+      "_id": 83,
+      "id": "glacial_shard",
+      "name": "Éclat glaciaire",
+      "description": "Niveau d'aptitude <color=#FFD780FF><b>Javelot de congélation</b></color> +3.<br/>Niveau max : 15",
+      "level": 3
+    },
+    {
+      "_id": 84,
+      "id": "enduring_ice",
+      "name": "Glace persistante",
+      "description": "La durée de l'<span style=\"color:#FFD780FF\">étoile perce-givre</span> créée par la compétence élémentaire <color=#FFD780FF><b>Percée du brouillard givrant</b></color> augmente de 25 %.",
+      "level": 4
+    },
+    {
+      "_id": 85,
+      "id": "bittercold_fog",
+      "name": "Brouillard glacial",
+      "description": "Niveau d'aptitude <color=#FFD780FF><b>Percée du brouillard givrant</b></color> +3.<br/>Niveau max : 15",
+      "level": 5
+    },
+    {
+      "_id": 86,
+      "id": "brumal_grimfrost",
+      "name": "Givremort hivernal",
+      "description": "Chaque cumul de <b><span style=\"color:#FFD780FF\">lueur givrée</span></b> consommé en utilisant le déchaînement élémentaire <color=#FFD780FF><b>Javelot de congélation</b></color> augmente les DGT de réaction astrale des autres personnages de l'équipe de 5 % pendant 15 s, les DGT pouvant être augmentés d'un maximum de 40 % de cette manière.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Élever",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "PV de base",
+          "values": [
+            "-",
+            "912"
+          ]
+        },
+        {
+          "label": "ATQ de base",
+          "values": [
+            "-",
+            "18"
+          ]
+        },
+        {
+          "label": "DÉF de base",
+          "values": [
+            "-",
+            "57"
+          ]
+        },
+        {
+          "label": "ATQ%",
+          "values": [
+            "-",
+            "0.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Élever",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "PV de base",
+          "values": [
+            "2342",
+            "3024"
+          ]
+        },
+        {
+          "label": "ATQ de base",
+          "values": [
+            "46",
+            "59"
+          ]
+        },
+        {
+          "label": "DÉF de base",
+          "values": [
+            "147",
+            "190"
+          ]
+        },
+        {
+          "label": "ATQ%",
+          "values": [
+            "0.0%",
+            "0.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Élever",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "PV de base",
+          "values": [
+            "4529",
+            "5013"
+          ]
+        },
+        {
+          "label": "ATQ de base",
+          "values": [
+            "88",
+            "98"
+          ]
+        },
+        {
+          "label": "DÉF de base",
+          "values": [
+            "284",
+            "315"
+          ]
+        },
+        {
+          "label": "ATQ%",
+          "values": [
+            "0.0%",
+            "6.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104101,
+        "id": "brilliant_diamond_sliver",
+        "name": "Éclat de diamant scintillant",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Chrysanthème à aubes",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112005,
+        "id": "damaged_mask",
+        "name": "Masque endommagé",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Élever",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "PV de base",
+          "values": [
+            "5766",
+            "6411"
+          ]
+        },
+        {
+          "label": "ATQ de base",
+          "values": [
+            "113",
+            "125"
+          ]
+        },
+        {
+          "label": "DÉF de base",
+          "values": [
+            "362",
+            "402"
+          ]
+        },
+        {
+          "label": "ATQ%",
+          "values": [
+            "6.0%",
+            "12.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104102,
+        "id": "brilliant_diamond_fragment",
+        "name": "Fragment de diamant scintillant",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Chrysanthème à aubes",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112005,
+        "id": "damaged_mask",
+        "name": "Masque endommagé",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Élever",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "PV de base",
+          "values": [
+            "7164",
+            "7648"
+          ]
+        },
+        {
+          "label": "ATQ de base",
+          "values": [
+            "140",
+            "149"
+          ]
+        },
+        {
+          "label": "DÉF de base",
+          "values": [
+            "450",
+            "480"
+          ]
+        },
+        {
+          "label": "ATQ%",
+          "values": [
+            "12.0%",
+            "12.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104102,
+        "id": "brilliant_diamond_fragment",
+        "name": "Fragment de diamant scintillant",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Chrysanthème à aubes",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112006,
+        "id": "stained_mask",
+        "name": "Masque sale",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Élever",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "PV de base",
+          "values": [
+            "8401",
+            "8885"
+          ]
+        },
+        {
+          "label": "ATQ de base",
+          "values": [
+            "164",
+            "174"
+          ]
+        },
+        {
+          "label": "DÉF de base",
+          "values": [
+            "527",
+            "558"
+          ]
+        },
+        {
+          "label": "ATQ%",
+          "values": [
+            "12.0%",
+            "18.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104103,
+        "id": "brilliant_diamond_chunk",
+        "name": "Morceau de diamant scintillant",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Chrysanthème à aubes",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112006,
+        "id": "stained_mask",
+        "name": "Masque sale",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Élever",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "PV de base",
+          "values": [
+            "9638",
+            "10122"
+          ]
+        },
+        {
+          "label": "ATQ de base",
+          "values": [
+            "188",
+            "198"
+          ]
+        },
+        {
+          "label": "DÉF de base",
+          "values": [
+            "605",
+            "635"
+          ]
+        },
+        {
+          "label": "ATQ%",
+          "values": [
+            "18.0%",
+            "24.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104103,
+        "id": "brilliant_diamond_chunk",
+        "name": "Morceau de diamant scintillant",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Chrysanthème à aubes",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112007,
+        "id": "ominous_mask",
+        "name": "Masque sinistre",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Élever",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "PV de base",
+          "values": [
+            "10875",
+            "10875"
+          ]
+        },
+        {
+          "label": "ATQ de base",
+          "values": [
+            "212",
+            "212"
+          ]
+        },
+        {
+          "label": "DÉF de base",
+          "values": [
+            "683",
+            "683"
+          ]
+        },
+        {
+          "label": "ATQ%",
+          "values": [
+            "24.0%",
+            "24.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104104,
+        "id": "brilliant_diamond_gemstone",
+        "name": "Diamant scintillant",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Chrysanthème à aubes",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112007,
+        "id": "ominous_mask",
+        "name": "Masque sinistre",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104365,
+          "id": "teachings_of_charity",
+          "name": "Enseignement de la Charité",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Graine chimérique",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guide de la Persévérance",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Noyau chimérique",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104372,
+          "id": "guide_to_glory",
+          "name": "Guide de la Gloire",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Noyau chimérique",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Guide de la Charité",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Noyau chimérique",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guide de la Persévérance",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Noyau chimérique",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104373,
+          "id": "philosophies_of_glory",
+          "name": "Philosophie de la Gloire",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Cœur chimérique",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Échantillon ascensionné : Dame",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Philosophie de la Charité",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Cœur chimérique",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Échantillon ascensionné : Dame",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophie de la Persévérance",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Cœur chimérique",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Échantillon ascensionné : Dame",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104373,
+          "id": "philosophies_of_glory",
+          "name": "Philosophie de la Gloire",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Cœur chimérique",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Échantillon ascensionné : Dame",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Couronne de la sagesse",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 200701,
+      "name": "Alors que le ciel et la terre sont recréés",
+      "description": "Une tenue portée par {M#le voyageur}{F#la voyageuse}, un compagnon qui l'accompagne dans ses périples à travers les étoiles. Elle a traversé d'innombrables mondes, mais ne parvient toujours pas à saisir le véritable sens du cosmos. Pourtant, chaque question rapproche un peu plus de la réponse ultime...",
+      "isDefault": false,
+      "characterName": "Lumine",
+      "characterId": 10000007,
+      "source": [
+        "Obtenu après avoir terminé la quête d'Archons « La lune véritable »"
+      ],
+      "filename_card": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Card",
+      "filename_icon": "UI_AvatarIcon_PlayerGirlCostumeCWXR",
+      "filename_iconCircle": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Circle",
+      "filename_splash": "UI_Costume_PlayerGirlCostumeCWXR",
+      "filename_sideIcon": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR"
+    },
+    {
+      "id": 200700,
+      "name": "Étoile montante",
+      "description": "Tenue {M#du voyageur}{F#de la voyageuse}. Un vêtement qui accompagne {M#l'aventurier}{F#l'aventurière} au cours de son voyage.",
+      "isDefault": true,
+      "characterName": "Lumine",
+      "characterId": 10000007,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_PlayerGirl_Circle"
+    }
+  ]
+}

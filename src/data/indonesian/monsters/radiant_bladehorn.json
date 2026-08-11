@@ -13,7 +13,6 @@
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Magbeast_Rhino",
   "description": "Monster yang telah berevolusi menjadi ekosistem unik karena terendam jangka panjang dalam kekuatan bulan purba.\\nKonon katanya di masa lampau, saat daerah perbatasan diliputi bayang-bayang gelap, hanya badak raksasa yang mampu mengembalikan kekuatan yang mampu membuat segalanya kembali ke tempat ini melalui terjangan kawanannya ... Ini adalah satu-satunya imbalan yang diminta oleh cahaya bulan setelah memberikan hadiahnya.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

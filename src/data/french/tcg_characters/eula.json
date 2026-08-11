@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Épée à deux mains",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3601,
@@ -29,8 +31,10 @@
     {
       "id": "favonius_bladework_edel",
       "name": "Escrime de Favonius : Aristocratie",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "icetide_vortex",
       "name": "Vortex des mers glacées",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?. Si le personnage n'est pas affecté par un <span style=\"color:#FFFFFFFF\">cœur de glace</span>, il obtient un <span style=\"color:#FFFFFFFF\">cœur de glace</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#99FFFFFF\">DGT Cryo</span>. Si le personnage n'est pas affecté par un <span style=\"color:#FFFFFFFF\">cœur de glace</span>, il obtient un <span style=\"color:#FFFFFFFF\">cœur de glace</span>.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "glacial_illumination",
       "name": "Lame de fond",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et invoque une <span style=\"color:#FFFFFFFF\">épée de lumière</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#99FFFFFF\">DGT Cryo</span> et invoque une <span style=\"color:#FFFFFFFF\">épée de lumière</span>.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1101,

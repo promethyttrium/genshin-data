@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Rüzgar",
+    "weapon": "Katalizör",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 8274,
@@ -29,8 +31,10 @@
     {
       "id": "black_pheasant_strides_on_water",
       "name": "Suda Süzülen Kara Sülün",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#80FFD7FF\">Rüzgar Hasarı</span> verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "swallowwisp_pinion_dance",
       "name": "Kırlangıç Ruhu Dansı",
-      "desc": "2 kademe <span style=\"color:#FFFFFFFF\">Kırlangıç Ruhu Kalkanı</span> oluşturur, 1 kademe <span style=\"color:#FFFFFFFF\">Verimli Değişim</span> kazanırsın ve ? ? verir. Bu Beceri Girdap tetiklerse fazladan 1 kademe <span style=\"color:#FFFFFFFF\">Kırlangıç Ruhu Kalkanı</span> oluşur.",
-      "skillTag": [],
+      "desc": "2 kademe <span style=\"color:#FFFFFFFF\">Kırlangıç Ruhu Kalkanı</span> oluşturur, 1 kademe <span style=\"color:#FFFFFFFF\">Verimli Değişim</span> kazanırsın ve 1 <span style=\"color:#80FFD7FF\">Rüzgar Hasarı</span> verir. Bu Beceri Girdap tetiklerse fazladan 1 kademe <span style=\"color:#FFFFFFFF\">Kırlangıç Ruhu Kalkanı</span> oluşur.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "lustrous_moonrise",
       "name": "Görkemli Ay Doğumu",
-      "desc": "? ? verir ve 2 kademe <span style=\"color:#FFFFFFFF\">Kırlangıç Ruhu Kalkanı</span> oluşturur.",
-      "skillTag": [],
+      "desc": "3 <span style=\"color:#80FFD7FF\">Rüzgar Hasarı</span> verir ve 2 kademe <span style=\"color:#FFFFFFFF\">Kırlangıç Ruhu Kalkanı</span> oluşturur.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1105,

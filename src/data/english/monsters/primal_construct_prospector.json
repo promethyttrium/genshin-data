@@ -13,7 +13,6 @@
   "categoryText": "Automatons",
   "filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
   "description": "The guardians of the lost ancient desert ruins have power enough to punish any who would presume to disturb the pure dreams of their lord.\\nThe master of the sands once took to studying taboo knowledge in an effort to create a dream paradise, and these machines may or may not have been the fruits of that research.\\nToday, that utopia is long gone, and the dreams and oaths, forgotten by the world, are now only found in the mantras inscribed upon these machines.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

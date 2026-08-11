@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_Hound_Kanis_Rock",
   "description": "Uma besta com sangue demoníaco que pode corroer as fronteiras do mundo. \"Ouro\" as chamou de \"Alfisol\".\\nPossuem uma natureza de se infiltrarem em locais e devorarem as essências elementais. Mas se deve ficar satisfeito, pois hoje a quantidade desses monstros não é grande.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

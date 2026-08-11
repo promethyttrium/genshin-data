@@ -41,7 +41,7 @@
       "_id": 11331,
       "id": "formule_phenomenale_selfevident_proposition",
       "name": "事象式：自明の演繹",
-      "description": "<span style=\"color:#FFD780FF\">通常攻撃</span><br/>数式によって刃を操る糸を紡ぎ出し、最大3段の連続斬りを行う。<br/><br/><span style=\"color:#FFD780FF\">重撃</span><br/>多機能汎用支援型自動マシナリー<span style=\"color:#FFD780FF\">「ファジオ」</span>を召喚し、<color=#FFD780FF><b>演算</b></color>モードに切り替えて前方の敵に一定時間ごとに冷却ビームを発射する掃射攻撃を行い、<span style=\"color:#99FFFFFF\">氷元素範囲ダメージ</span>を与える。<br/><span style=\"color:#FFD780FF\">輝映・星電導</span>：冷却ビームが星電導反応ダメージと見なされる<span style=\"color:#99FFFFFF\">氷元素範囲ダメージ</span>に変わる。<br/><span style=\"color:#FFD780FF\">演算</span>モード中、ファジオの<color=#FFD780FF><b>演算負荷</b></color>は上昇し続ける。また、冷却ビームを発射した際、演算負荷はさらに上昇する。<br/>演算負荷が上限の100に達すると、ファジオは<span style=\"color:#FFD780FF\">高負荷</span>モードに切り替わり、<span style=\"color:#99FFFFFF\">氷元素ダメージ</span>を与える射撃の間隔が長くなり、演算モードへの切り替えができなくなる。<br/><span style=\"color:#FFD780FF\">演算</span>モード以外の状態では、ファジオの<span style=\"color:#FFD780FF\">演算負荷</span>は緩やかに低下し続ける。サンドローネが待機中の場合、ファジオの整備に集中し、演算負荷の低下速度が元の300%に上がる。<br/><span style=\"color:#FFD780FF\">演算負荷</span>が50未満まで低下すると、ファジオは<span style=\"color:#FFD780FF\">高負荷</span>モードを終了する。<br/><br/><span style=\"color:#FFD780FF\">落下攻撃</span><br/>空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "description": "<span style=\"color:#FFD780FF\">通常攻撃</span><br/>数式によって刃を操る糸を紡ぎ出し、最大3段の連続斬りを行う。<br/><br/><span style=\"color:#FFD780FF\">重撃</span><br/>多機能汎用支援型自動マシナリー<span style=\"color:#FFD780FF\">「ファジオ」</span>を召喚し、<color=#FFD780FF><b>演算</b></color>モードに切り替えて前方の敵に一定時間ごとに冷却ビームを発射する掃射攻撃を行い、<span style=\"color:#99FFFFFF\">氷元素範囲ダメージ</span>を与える。<br/><b><span style=\"color:#FFD780FF\">輝映・星閃</span></b>：冷却ビームが、対応する星反応ダメージと見なされる<span style=\"color:#99FFFFFF\">氷元素範囲ダメージ</span>に変わる。<br/><span style=\"color:#FFD780FF\">演算</span>モード中、ファジオの<color=#FFD780FF><b>演算負荷</b></color>は上昇し続ける。また、冷却ビームを発射した際、演算負荷はさらに上昇する。<br/>演算負荷が上限の100に達すると、ファジオは<span style=\"color:#FFD780FF\">高負荷</span>モードに切り替わり、<span style=\"color:#99FFFFFF\">氷元素ダメージ</span>を与える射撃の間隔が長くなり、演算モードへの切り替えができなくなる。<br/><span style=\"color:#FFD780FF\">演算</span>モード以外の状態では、ファジオの<span style=\"color:#FFD780FF\">演算負荷</span>は緩やかに低下し続ける。サンドローネが待機中の場合、ファジオの整備に集中し、演算負荷の低下速度が元の300%に上がる。<br/><span style=\"color:#FFD780FF\">演算負荷</span>が50未満まで低下すると、ファジオは<span style=\"color:#FFD780FF\">高負荷</span>モードを終了する。<br/><br/><span style=\"color:#FFD780FF\">落下攻撃</span><br/>空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
       "info": "",
       "attributes": [
         {
@@ -165,6 +165,26 @@
           ]
         },
         {
+          "label": "重撃冷却ビームの星拡散ダメージ",
+          "values": [
+            "122.5%",
+            "132.5%",
+            "142.5%",
+            "156.8%",
+            "166.7%",
+            "178.1%",
+            "193.8%",
+            "209.5%",
+            "225.2%",
+            "242.3%",
+            "259.4%",
+            "276.4%",
+            "293.6%",
+            "310.6%",
+            "327.8%"
+          ]
+        },
+        {
           "label": "高負荷モード時ダメージ",
           "values": [
             "43%",
@@ -230,7 +250,7 @@
       "_id": 11332,
       "id": "formule_phenomenale_differential_analysis",
       "name": "事象式：自在な解析",
-      "description": "淑女の完璧な所作で<span style=\"color:#FFD780FF\">お茶会用アサルト浮遊装置</span>に搭乗し、浮遊したまま6秒間前進する。搭乗中は浮遊の方向も操作でき、ダッシュを一回押しするとスタミナを10消費して優雅な高速浮遊モードに入り、毎秒スタミナを15ずつ消費しながらより速い速度で前進する。<br/><br/>浮遊開始時、近くに敵がいた場合、サンドローネはさらにプリズム共振砲を1台呼び出し、凶暴な敵に向かってプリズム弾を2発発射して<span style=\"color:#99FFFFFF\">氷元素ダメージ</span>を与える。<br/><span style=\"color:#FFD780FF\">輝映・星電導</span>：2発目のプリズム弾が星電導反応ダメージとみなされる<span style=\"color:#99FFFFFF\">氷元素ダメージ</span>に変化する。<br/><br/>お茶会用アサルト浮遊装置に搭乗中、サンドローネは優雅にそして秘密裏にファジオを修理し、その<color=#FFD780FF><b>演算負荷</b></color>を素早く低下させる。",
+      "description": "淑女の完璧な所作で<span style=\"color:#FFD780FF\">お茶会用アサルト浮遊装置</span>に搭乗し、浮遊したまま6秒間前進する。搭乗中は移動の方向を操作でき、ダッシュを一回押しするとスタミナを10消費して優雅な高速浮遊モードに入り、毎秒スタミナを15ずつ消費しながらより速い速度で前進する。<br/><br/>浮遊開始時、近くに敵がいた場合、サンドローネはさらにプリズム共振砲を1台呼び出し、凶暴な敵に向かってプリズム弾を2発発射して<span style=\"color:#99FFFFFF\">氷元素ダメージ</span>を与える。<br/><b><span style=\"color:#FFD780FF\">輝映・星閃</span></b>：2発目のプリズム弾が対応する星反応ダメージとみなされる<span style=\"color:#99FFFFFF\">氷元素ダメージ</span>に変化する。<br/><br/>お茶会用アサルト浮遊装置に搭乗中、サンドローネは優雅にそして秘密裏にファジオを修理し、その<color=#FFD780FF><b>演算負荷</b></color>を素早く低下させる。",
       "info": "",
       "attributes": [
         {
@@ -274,6 +294,26 @@
           ]
         },
         {
+          "label": "プリズム弾の星拡散ダメージ",
+          "values": [
+            "32.4%",
+            "34.8%",
+            "37.3%",
+            "40.5%",
+            "42.9%",
+            "45.4%",
+            "48.6%",
+            "51.8%",
+            "55.1%",
+            "58.3%",
+            "61.6%",
+            "64.8%",
+            "68.8%",
+            "72.9%",
+            "77%"
+          ]
+        },
+        {
           "label": "クールタイム",
           "values": [
             "4秒",
@@ -299,7 +339,7 @@
       "_id": 11335,
       "id": "formule_phenomenale_qed",
       "name": "事象式：Q.E.D",
-      "description": "淑女の優雅な礼儀をもって、大量のプリズム共振砲で前方に広域砲撃を行った後、敵に負温度エネルギー光線を発射し、<span style=\"color:#99FFFFFF\">氷元素範囲ダメージ</span>を与える。<br/><span style=\"color:#FFD780FF\">輝映・星電導</span>：負温度エネルギー光線は星電導反応ダメージとみなされる<span style=\"color:#99FFFFFF\">氷元素範囲ダメージ</span>を与えるようになる。",
+      "description": "淑女の優雅な礼儀をもって、大量のプリズム共振砲で前方に広域砲撃を行った後、敵に負温度エネルギー光線を発射し、<span style=\"color:#99FFFFFF\">氷元素範囲ダメージ</span>を与える。<br/><b><span style=\"color:#FFD780FF\">輝映・星閃</span></b>：負温度エネルギー光線は対応する星反応ダメージとみなされる<span style=\"color:#99FFFFFF\">氷元素範囲ダメージ</span>を与えるようになる。",
       "info": "",
       "attributes": [
         {
@@ -363,6 +403,26 @@
           ]
         },
         {
+          "label": "エネルギー光線の星拡散ダメージ",
+          "values": [
+            "330.8%",
+            "355.6%",
+            "380.4%",
+            "413.5%",
+            "438.3%",
+            "463.1%",
+            "496.2%",
+            "529.3%",
+            "562.4%",
+            "595.4%",
+            "628.5%",
+            "661.6%",
+            "702.9%",
+            "744.3%",
+            "785.6%"
+          ]
+        },
+        {
           "label": "クールタイム",
           "values": [
             "15秒",
@@ -409,7 +469,7 @@
     {
       "id": "eternal_speculation_engine",
       "name": "悠久の演算機関",
-      "description": "<span style=\"color:#FFD780FF\">輝映・星電導</span>：元素スキル<b><span style=\"color:#FFD780FF\">事象式：自在な解析</span></b>を発動する際、ファジオの<color=#FFD780FF><b>演算負荷</b></color>が50を超えている場合、演算負荷を低下させると同時に、付近の敵に向けて発射された2発目のプリズム弾が元の400%のダメージを与える。<br/>また、ファジオの<span style=\"color:#FFD780FF\">演算負荷</span>が10低下するごとに、60秒間持続する<span style=\"color:#FFD780FF\">改良戦術</span>効果を1層獲得し、この効果は最大10層まで重ね掛けできる。サンドローネが<span style=\"color:#FFD780FF\">輝映・星電導</span>状態で元素爆発<b><span style=\"color:#FFD780FF\">事象式：Q.E.D</span></b>を発動すると、改良戦術の全ての層をクリアし、負温度エネルギー光線によって元の100%+クリアした層数×10%のダメージを与える。",
+      "description": "<b><span style=\"color:#FFD780FF\">輝映・星閃</span></b>：元素スキル<b><span style=\"color:#FFD780FF\">事象式：自在な解析</span></b>を発動する際、ファジオの<color=#FFD780FF><b>演算負荷</b></color>が50を超えている場合、演算負荷を低下させると同時に、付近の敵に向けて発射された2発目のプリズム弾が元の400%のダメージを与える。<br/>また、ファジオの<span style=\"color:#FFD780FF\">演算負荷</span>が10低下するごとに、60秒間持続する<span style=\"color:#FFD780FF\">改良戦術</span>効果を1層獲得し、この効果は最大10層まで重ね掛けできる。サンドローネが<span style=\"color:#FFD780FF\">輝映・星閃</span>状態で元素爆発<b><span style=\"color:#FFD780FF\">事象式：Q.E.D</span></b>を発動すると、改良戦術の全ての層をクリアし、負温度エネルギー光線によって元の100%+クリアした層数×10%のダメージを与える。",
       "level": 1
     },
     {
@@ -419,9 +479,9 @@
       "level": 4
     },
     {
-      "id": "light_of_rationalisme",
+      "id": "stellar_jubilee_light_of_rationalisme",
       "name": "星光の祝福・理論のみを光に",
-      "description": "チーム内のキャラクターが超電導反応を起こすと、超電導反応は星電導反応へと変わり、サンドローネの攻撃力に基づいて、チームのキャラクターが与える星電導反応の基礎ダメージがアップする。攻撃力100につき、星電導反応の基礎ダメージ+0.7%。この方法でアップできるダメージは最大14%まで。<br/>また、<b><span style=\"color:#FFD780FF\">極星フィールド</span></b>にいる間、サンドローネは<span style=\"color:#FFD780FF\">輝映・星電導</span>状態に入る。",
+      "description": "<b><span style=\"color:#FFD780FF\">極星フィールド</span></b>内にいる時/チーム内のキャラクターが付近で星拡散反応を起こした後の8秒間、サンドローネはそれぞれ<span style=\"color:#FFD780FF\">輝映・星電導</span>/<span style=\"color:#FFD780FF\">輝映・星拡散</span>状態に入る。<br/>チーム内のキャラクターが超電導/氷元素拡散反応を起こすと、超電導/氷元素拡散反応は星電導/星拡散反応へと変わり、サンドローネの攻撃力に基づいて、チームのキャラクターが与える上記反応の基礎ダメージがアップする。攻撃力100につき、上記反応の基礎ダメージ+0.7%。この方法でアップできるダメージは最大14%まで。",
       "level": 0
     },
     {
@@ -436,14 +496,14 @@
       "_id": 1331,
       "id": "morrow_after_the_golden_dusk",
       "name": "まばゆき黄金は 遠き日の夕暮れ",
-      "description": "<color=#FFD780FF><b>演算</b></color>モード中、ファジオの<color=#FFD780FF><b>演算負荷</b></color>の上昇速度が50%低下し、チーム内の全キャラクターの与える星電導反応のダメージ+30%。",
+      "description": "<color=#FFD780FF><b>演算</b></color>モード中、ファジオの<color=#FFD780FF><b>演算負荷</b></color>の上昇速度が50%低下し、チーム内の全キャラクターの与える星反応のダメージ+30%。",
       "level": 1
     },
     {
       "_id": 1332,
       "id": "an_heiress_gazed_into_the_lookingglass",
       "name": "りりしき影を鏡に 遺して巡る歳月",
-      "description": "<span style=\"color:#FFD780FF\">輝映・星電導</span>：重撃で発射した冷却ビームの会心ダメージ+40%。冷却ビームを発射するたび、その回の<color=#FFD780FF><b>演算</b></color>モード中に発射したすべての冷却ビームの与える会心ダメージがさらに20%アップする。この効果は最大3層まで重ね掛けできる。",
+      "description": "<span style=\"color:#FFD780FF\">輝映・星閃</span>：重撃で発射した冷却ビームの会心ダメージ+40%。冷却ビームを発射するたび、その回の<color=#FFD780FF><b>演算</b></color>モード中に発射したすべての冷却ビームの与える会心ダメージがさらに20%アップする。この効果は最大3層まで重ね掛けできる。",
       "level": 2
     },
     {
@@ -457,7 +517,7 @@
       "_id": 1334,
       "id": "in_knowledge_lies_the_worlds_true_ground",
       "name": "ねむたき世事は数にして 昼夜を往来す",
-      "description": "サンドローネの星電導反応ダメージが敵に命中した際、さらにプリズム共振砲を1台生成して連携攻撃を行い、敵にサンドローネの攻撃力の125%に相当する<span style=\"color:#99FFFFFF\">氷元素ダメージ</span>を1回与える。このダメージは星電導反応によるダメージとみなされる。この効果は4秒ごとに最大1回発動できる。",
+      "description": "サンドローネの星電導/星拡散反応ダメージが敵に命中した際、さらにプリズム共振砲を1台生成して連携攻撃を行い、敵にサンドローネの攻撃力の125%/187.5%に相当する<span style=\"color:#99FFFFFF\">氷元素ダメージ</span>を1回与える。このダメージは対応する星反応によるダメージとみなされる。この効果は4秒ごとに最大1回発動できる。",
       "level": 4
     },
     {
@@ -471,7 +531,7 @@
       "_id": 1336,
       "id": "narcissus_wakes_her_eyes_upon_the_dawn",
       "name": "てづから水仙の夢から醒めて 薄明を掴まん",
-      "description": "<color=#FFD780FF><b>演算</b></color>モード中、ファジオが3回目の冷却ビームを発射する際、より威力の強い<span style=\"color:#FFD780FF\">集束型冷却ビーム</span>を発射し続けるようになり、本来後に発射される冷却ビームを基準として、サンドローネの攻撃力100%分の<span style=\"color:#99FFFFFF\">氷元素範囲ダメージ</span>を最大4段追加で与える。<br/><span style=\"color:#FFD780FF\">輝映・星電導</span>：<span style=\"color:#FFD780FF\">集束型冷却ビーム</span>がサンドローネの攻撃力80%分の<span style=\"color:#99FFFFFF\">氷元素範囲ダメージ</span>を最大4段追加で与えるようになる。このダメージは星電導反応によるダメージとみなされる。<br/>また、サンドローネが与えるすべての星電導反応ダメージが20%<b><span style=\"color:#FFD780FF\">向上</span></b>する。",
+      "description": "<color=#FFD780FF><b>演算</b></color>モード中、ファジオが3回目の冷却ビームを発射する際、より威力の強い<span style=\"color:#FFD780FF\">集束型冷却ビーム</span>を発射し続けるようになり、本来後に発射される冷却ビームを基準として、サンドローネの攻撃力100%分の<span style=\"color:#99FFFFFF\">氷元素範囲ダメージ</span>を最大4段追加で与える。<br/><span style=\"color:#FFD780FF\">輝映・星閃</span>：<span style=\"color:#FFD780FF\">集束型冷却ビーム</span>が対応する星反応ダメージとみなされる<span style=\"color:#99FFFFFF\">氷元素範囲ダメージ</span>を最大4段追加で与えるようになる。このダメージはサンドローネの攻撃力の以下の割合に相当する。<br/><span style=\"color:#FFD780FF\">輝映・星電導</span>：80%。<br/><span style=\"color:#FFD780FF\">輝映・星拡散</span>：120%。<br/>また、サンドローネが与えるすべての星反応ダメージは20%<b><span style=\"color:#FFD780FF\">向上</span></b>する。",
       "level": 6
     }
   ],

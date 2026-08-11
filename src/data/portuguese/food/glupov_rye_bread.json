@@ -1,0 +1,48 @@
+{
+  "_id": 2702,
+  "id": "glupov_rye_bread",
+  "name": "Pão de Centeio Glupov",
+  "description": "Um pão denso e caloroso. A massa deve ser fermentada por muito tempo em baixa temperatura. Ao ser assada, ela forma uma casca dura, com um miolo de textura fina. O pão finalizado dura por muito tempo, tornando-o um alimento comum entre os comerciantes, soldados e caçadores viajantes de Snezhnaya.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 110016,
+      "id": "rye_flour",
+      "name": "Farinha de Centeio",
+      "amount": 2
+    },
+    {
+      "_id": 100075,
+      "id": "salt",
+      "name": "Sal",
+      "amount": 1
+    },
+    {
+      "_id": 110006,
+      "id": "sugar",
+      "name": "Açúcar",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Pratos de Regeneração",
+  "results": {
+    "suspicious": {
+      "_id": 132004,
+      "name": "Pão de Centeio Glupov Estranho",
+      "description": "Um pão denso e caloroso. Parece tão pesado que não dá para deixar de pensar se o passo de fermentação foi completamente ignorado. Mesmo colocando-o na sopa, não é o suficiente para amolecer esse pão... Será que isso, na verdade, é uma ferramenta feita para forjar a determinação de um guerreiro?",
+      "effect": "Restaura 18% da Vida Máxima do personagem selecionado e regenera 300 de Vida a cada 5s por 30s."
+    },
+    "normal": {
+      "_id": 132005,
+      "name": "Pão de Centeio Glupov",
+      "description": "Um pão denso e caloroso. A massa deve ser fermentada por muito tempo em baixa temperatura. Ao ser assada, ela forma uma casca dura, com um miolo de textura fina. O pão finalizado dura por muito tempo, tornando-o um alimento comum entre os comerciantes, soldados e caçadores viajantes de Snezhnaya.",
+      "effect": "Restaura 20% da Vida Máxima do personagem selecionado e regenera 390 de Vida a cada 5s por 30s."
+    },
+    "delicious": {
+      "_id": 132006,
+      "name": "Pão de Centeio Glupov Delicioso",
+      "description": "Um pão denso e caloroso. Só uma mordidinha proporciona uma acidez suave e constante, seguida pelo aroma rústico, único do grão de centeio. Possui uma textura pesada e rica que torna cada mastigada incrivelmente satisfatória, culminando em uma doçura persistente no fundo da garganta, como uma centelha vibrante de vida enterrada sob a terra congelada.",
+      "effect": "Restaura 22% da Vida Máxima do personagem selecionado e regenera 470 de Vida a cada 5s por 30s."
+    }
+  }
+}

@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ธาตุไม้",
+    "weapon": "สื่อเวท",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 4567,
@@ -29,8 +31,10 @@
     {
       "id": "the_classics_of_acupuncture",
       "name": "The Classics of Acupuncture",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง<span style=\"color:#7EC236FF\">ความเสียหายไม้</span> 1 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -49,8 +53,10 @@
     {
       "id": "universal_diagnosis",
       "name": "Universal Diagnosis",
-      "desc": "สร้าง? ? หน่วย และเรียก <span style=\"color:#FFFFFFFF\">Gossamer Sprite</span>",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#7EC236FF\">ความเสียหายไม้</span> 1 หน่วย และเรียก <span style=\"color:#FFFFFFFF\">Gossamer Sprite</span>",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -64,7 +70,9 @@
       "id": "holistic_revivification",
       "name": "Holistic Revivification",
       "desc": "สร้าง <span style=\"color:#FFFFFFFF\">Pulsing Clarity</span> และ <span style=\"color:#FFFFFFFF\">Seamless Shield</span>",
-      "skillTag": [],
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1107,

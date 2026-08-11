@@ -1,0 +1,29 @@
+{
+  "_id": 114088,
+  "id": "triumph_of_the_pale_star_army",
+  "name": "Triunfo do Exército da Estrela Azul",
+  "description": "\"Todos saúdem o Czar, Protetor de todos os feéricos, Herdeiro da Estrela Azul, soberano nascido de sangue sagrado!\"<br/>\"Louvado seja, pois a tundra inteira agora se une sob o brilho da Estrela Polar!\"<br/>\"Louvado seja, pois Vossa Majestade abateu o falso rei e abraçou todos os feéricos. Tal é sua benevolência, tal é sua misericórdia!\"",
+  "source": [
+    "Quantidade a ser fabricada: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114087,
+        "id": "clarion_of_the_pale_star_army",
+        "name": "Clarim do Exército da Estrela Azul",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domínio da Forja: Cicatrizes da Obsessão Maldita",
+  "days": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ]
+}

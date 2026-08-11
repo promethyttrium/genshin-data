@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Su",
+    "weapon": "Kılıç",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "source": "Dahlia'yı Kedi Kuyruğu'nda bir düelloya davet etme ve onunla yaptığın Dostluk Düellosunu kazanma ödülü."
   },
@@ -18,8 +20,10 @@
     {
       "id": "favonius_bladework_ritual",
       "name": "Favonius Kılıç Tekniği - Ayin",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -38,8 +42,10 @@
     {
       "id": "immersive_ordinance",
       "name": "Kutsal Emir",
-      "desc": "? ? verir ve <span style=\"color:#FFFFFFFF\">Mukaddes Yağmur</span> oluşturur.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir ve <span style=\"color:#FFFFFFFF\">Mukaddes Yağmur</span> oluşturur.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -52,8 +58,10 @@
     {
       "id": "radiant_psalter",
       "name": "Işıltılı İlahi",
-      "desc": "? ? verir, 2 kademe <span style=\"color:#FFFFFFFF\">Kalkan</span> ve 2 kademe <span style=\"color:#FFFFFFFF\">Favonius Lütfu</span> oluşturur.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir, 2 kademe <span style=\"color:#FFFFFFFF\">Kalkan</span> ve 2 kademe <span style=\"color:#FFFFFFFF\">Favonius Lütfu</span> oluşturur.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1102,

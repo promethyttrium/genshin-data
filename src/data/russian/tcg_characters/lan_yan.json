@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Анемо",
+    "weapon": "Катализатор",
     "faction": [
-      null
+      "Ли Юэ"
     ],
     "talent_card": {
       "_id": 8274,
@@ -29,8 +31,10 @@
     {
       "id": "black_pheasant_strides_on_water",
       "name": "Чёрный фазан на водной глади",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80FFD7FF\">Анемо урон</span>, 1 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "swallowwisp_pinion_dance",
       "name": "Порхающий танец ласточкиных перьев",
-      "desc": "Вы получаете <span style=\"color:#FFFFFFFF\">Щит порхающей ласточки</span>, 2 уровня, затем получаете <span style=\"color:#FFFFFFFF\">Эффективный обмен</span>, 1 уровень, и наносит ?, ? ед. Если этот навык вызывает Рассеивание, то вы дополнительно получаете <span style=\"color:#FFFFFFFF\">Щит порхающей ласточки</span>, 1 уровень.",
-      "skillTag": [],
+      "desc": "Вы получаете <span style=\"color:#FFFFFFFF\">Щит порхающей ласточки</span>, 2 уровня, затем получаете <span style=\"color:#FFFFFFFF\">Эффективный обмен</span>, 1 уровень, и наносит <span style=\"color:#80FFD7FF\">Анемо урон</span>, 1 ед. Если этот навык вызывает Рассеивание, то вы дополнительно получаете <span style=\"color:#FFFFFFFF\">Щит порхающей ласточки</span>, 1 уровень.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "lustrous_moonrise",
       "name": "Лучезарный восход луны",
-      "desc": "Наносит ?, ? ед., вы получаете <span style=\"color:#FFFFFFFF\">Щит порхающей ласточки</span>, 2 уровня.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80FFD7FF\">Анемо урон</span>, 3 ед., вы получаете <span style=\"color:#FFFFFFFF\">Щит порхающей ласточки</span>, 2 уровня.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1105,

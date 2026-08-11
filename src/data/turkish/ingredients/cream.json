@@ -68,6 +68,11 @@
       "name": "Tavuk Frikase"
     },
     {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Buz Yemişi Dondurması"
+    },
+    {
       "_id": 4403,
       "id": "fontinalia_mousse",
       "name": "Fontinalia Musu"
@@ -85,6 +90,5 @@
   ],
   "source": [
     "İşlenerek elde edilir."
-  ],
-  "rarity": 0
+  ]
 }

@@ -18,6 +18,11 @@
     "Крио",
     "Электро"
   ],
+  "daysOfWeek": [
+    "Понедельник",
+    "Четверг",
+    "Воскресенье"
+  ],
   "domainType": "UI_ABYSSUS_AVATAR_PROUD",
   "domainText": "Talent Level-Up Material",
   "rewardPreview": [

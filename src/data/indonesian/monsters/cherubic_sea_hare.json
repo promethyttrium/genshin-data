@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Aplysia_Mature",
   "description": "Wujud dari Angelic Sea Hare setelah dewasa. \"Sepasang sayap\" yang ada di punggungnya sebenarnya merupakan sebongkah lemak yang menyimpan energi elemental.\\nHewan air ini menghabiskan seluruh hidupnya untuk makan dan menyimpan energi dalam jumlah besar yang sebenarnya berlebihan untuk melakukan aktivitas yang nyata. Mungkin seandainya laut pun bisa mengering, mereka masih dapat terus bertahan hidup dalam waktu yang lama setelahnya, atau barangkali bisa menjadi nutrisi penting bagi organisme lain.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

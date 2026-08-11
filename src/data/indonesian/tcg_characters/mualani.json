@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Catalyst",
     "faction": [
-      null
+      "Natlan"
     ],
     "talent_card": {
       "_id": 7357,
@@ -29,8 +31,10 @@
     {
       "id": "cooling_treatment",
       "name": "Cooling Treatment",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#80C0FFFF\">Hydro DMG</span>.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -50,7 +54,9 @@
       "id": "surfshark_wavebreaker",
       "name": "Surfshark Wavebreaker",
       "desc": "Memberikan <span style=\"color:#FFFFFFFF\">Bitey Shark</span> kepada diri sendiri, memasuki <span style=\"color:#FFFFFFFF\">Nightsoul's Blessing</span>, dan mendapatkan 2 <span style=\"color:#FFFFFFFF\">\"poin Nightsoul\"</span>. (Setelah Karakter memasuki <span style=\"color:#FFFFFFFF\">Nightsoul's Blessing</span>, Skill ini tidak dapat digunakan)<br/>(Karakter yang memiliki <span style=\"color:#FFFFFFFF\">Bitey Shark</span> dapat menggunakan Skill: <span style=\"color:#FFFFFFFF\">Sharky Surfboard</span>)",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "boomsharkalaka",
       "name": "Boomsharka-laka",
-      "desc": "Mengakibatkan ? poin ? dan memanggil <span style=\"color:#FFFFFFFF\">Shark Missile</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#80C0FFFF\">Hydro DMG</span> dan memanggil <span style=\"color:#FFFFFFFF\">Shark Missile</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1102,

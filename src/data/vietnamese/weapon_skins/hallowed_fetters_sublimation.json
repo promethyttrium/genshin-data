@@ -1,0 +1,21 @@
+{
+  "_id": 340002,
+  "id": "hallowed_fetters_sublimation",
+  "name": "Xích Thánh - Thăng Hoa",
+  "description": "Ảo ảnh vũ khí rực rỡ phản chiếu sức mạnh của \"Thời Gian\" xuất hiện nơi sâu thẳm trong Địa Mạch, có thể biến đổi tùy theo loại nguyên tố của người cầm. Nghe nói nó từng mang cái tên \"Gleipnir\" và được nắm giữ bởi tội nhân siêu việt của vương đô cổ xưa.",
+  "rarity": 5,
+  "type": {
+    "id": "Catalyst",
+    "name": "Pháp Khí"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Huyễn Hình Rạng Rỡ: Siêu Việt - Thăng Hoa",
+    "priority": 1
+  },
+  "item_id": 341402,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphIlia_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphIlia_Great"
+}

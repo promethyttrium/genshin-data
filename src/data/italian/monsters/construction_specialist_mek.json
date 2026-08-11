@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Ingranaggio cilindrico",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Ingranaggio dentato",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automi",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Excavator",
   "description": "Un tipo di grosso Mekautoma che ha anche un valore incommensurabile se utilizzato nella costruzione di edifici e scavi archeologici. Il nome deriva da un ingegnere impiegato da Callas durante la costruzione della Linea Clémentine.\\nGrazie all'aiuto finanziario di Callas, l'ingegnere costruì la leggendaria \"Nave dorata\", un gigantesco macchinario da costruzione usato per scavare il Tunnel Poisson. Una volta che fu completato il lavoro, questo tipo di Mekautoma venne progettato con una struttura simile ma in scala ridotta.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 2,
   "stats": {

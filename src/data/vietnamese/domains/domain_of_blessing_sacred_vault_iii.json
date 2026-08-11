@@ -1,0 +1,93 @@
+{
+  "_id": 4685,
+  "id": "domain_of_blessing_sacred_vault_iii",
+  "name": "Bí Cảnh Chúc Phúc: Kho Thánh III",
+  "entranceId": 1811,
+  "entranceName": "Kho Tàng Của Nguyệt Đồng",
+  "description": "Nơi đây từng là kho tàng chôn giấu mồi lửa của nền văn minh cổ đại, nhưng giờ đây lại bị những kẻ xấu xa thèm khát báu vật thiêng liêng và đám chim cú của bầu trời ma quái chiếm giữ.\nDưới sự che chở của ánh trăng, nếu có thể đánh đuổi lũ ma vật đang chiếm đóng nơi này, có lẽ sẽ nhận được những Thánh Di Vật quý giá.",
+  "regionId": 7,
+  "regionName": "Nod-Krai",
+  "recommendedLevel": 80,
+  "unlockRank": 40,
+  "disorder": [
+    "After a character triggers a Lunar-Charged, Lunar-Crystallize, or Lunar-Bloom reaction, all party members gain a 35% increase to Lunar-Charged, Lunar-Crystallize, and Lunar-Bloom DMG, as well as a 30% increase to DEF, for 10s."
+  ],
+  "filename_image": "UI_DungeonPic_NKDungeon_Cycle03",
+  "recommendedElements": [
+    "Thủy",
+    "Nham",
+    "Lôi",
+    "Thảo"
+  ],
+  "domainType": "UI_ABYSSUS_RELIC",
+  "domainText": "Artifacts",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP Mạo Hiểm",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "2200"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP Yêu Thích",
+      "count": "20"
+    },
+    {
+      "_id": 400381,
+      "id": "aubade_of_morningstar_and_moon",
+      "name": "Aubade of Morningstar and Moon",
+      "rarity": 5
+    },
+    {
+      "_id": 400391,
+      "id": "a_day_carved_from_rising_winds",
+      "name": "A Day Carved From Rising Winds",
+      "rarity": 5
+    },
+    {
+      "_id": 400380,
+      "id": "aubade_of_morningstar_and_moon",
+      "name": "Aubade of Morningstar and Moon",
+      "rarity": 4
+    },
+    {
+      "_id": 400390,
+      "id": "a_day_carved_from_rising_winds",
+      "name": "A Day Carved From Rising Winds",
+      "rarity": 4
+    },
+    {
+      "_id": 400018,
+      "id": "tiny_miracle",
+      "name": "Tiny Miracle",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Instructor",
+      "rarity": 4
+    },
+    {
+      "_id": 400017,
+      "id": "tiny_miracle",
+      "name": "Tiny Miracle",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Instructor",
+      "rarity": 3
+    }
+  ],
+  "monsterList": []
+}

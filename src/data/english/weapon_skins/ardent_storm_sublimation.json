@@ -1,0 +1,21 @@
+{
+  "_id": 320002,
+  "id": "ardent_storm_sublimation",
+  "name": "Ardent Storm - Sublimation",
+  "description": "A glorious, illusory claymore glimmering with the power of \"Reason\" that emerged from the depths of the Ley Lines. It can change its appearance based on the Elemental Type of its wielder. Legend has it that this claymore once held the name \"Starkuthr\" when it was wielded by a transcendent sinner in an ancient land.",
+  "rarity": 5,
+  "type": {
+    "id": "Claymore",
+    "name": "Claymore"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Radiant Metamorphosis: Transcendence - Sublimation",
+    "priority": 1
+  },
+  "item_id": 341202,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Claymore_MorphGravitas_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_MorphGravitas_Great"
+}

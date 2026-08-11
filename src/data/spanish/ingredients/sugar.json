@@ -68,6 +68,11 @@
       "name": "Bastoncitos de mahís"
     },
     {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "Pan de centeno de Glupov"
+    },
+    {
       "_id": 3004,
       "id": "sticky_honey_roast",
       "name": "Asado a la miel"
@@ -282,6 +287,5 @@
   ],
   "source": [
     "Procesar comida"
-  ],
-  "rarity": 0
+  ]
 }

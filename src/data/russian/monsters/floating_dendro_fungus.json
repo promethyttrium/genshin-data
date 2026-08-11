@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Fungus_Un_Delta_Grass",
   "description": "Споры с зачатками интеллекта. Прекрасно умеют приспосабливаться к окружающей среде.\\nОдин учёный высказал предположение, что это какой-то вид Дендро призрака. Получив резкую критику своей позиции, он отступил, заявив, что это просто «образное выражение».",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

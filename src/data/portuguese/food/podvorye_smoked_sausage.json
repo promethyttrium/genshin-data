@@ -1,0 +1,42 @@
+{
+  "_id": 1701,
+  "id": "podvorye_smoked_sausage",
+  "name": "Linguiça Defumada Podvorye",
+  "description": "Uma linguiça defumada de carne temperada, fatiada finamente antes de ser servida. Um prato clássico do Restaurante Podvorye e uma escolha confiável que ninguém à mesa recusaria.",
+  "rarity": 1,
+  "ingredients": [
+    {
+      "_id": 110011,
+      "id": "sausage",
+      "name": "Salsicha",
+      "amount": 1
+    },
+    {
+      "_id": 100077,
+      "id": "pepper",
+      "name": "Pimenta",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Pratos de Regeneração",
+  "results": {
+    "suspicious": {
+      "_id": 108988,
+      "name": "Linguiça Defumada Podvorye Estranha",
+      "description": "Linguiça fatiada. Os pedaços são cortados em várias espessuras, com alguns presos aos outros. Ao pegar um pedaço, ele parece exatamente uma videira murcha escurecida por fumaça...",
+      "effect": "Restaura 8% de Vida Máxima e 800 de Vida adicional para o personagem selecionado."
+    },
+    "normal": {
+      "_id": 108989,
+      "name": "Linguiça Defumada Podvorye",
+      "description": "Uma linguiça defumada de carne temperada, fatiada finamente antes de ser servida. Um prato clássico do Restaurante Podvorye e uma escolha confiável que ninguém à mesa recusaria.",
+      "effect": "Restaura 9% de Vida Máxima e 1000 de Vida adicional para o personagem selecionado."
+    },
+    "delicious": {
+      "_id": 108990,
+      "name": "Linguiça Defumada Podvorye Deliciosa",
+      "description": "Linguiça fatiada. A textura firme determina o ritmo, enquanto os sabores salgados e defumados carregam a melodia, dançando pelo paladar em um dueto harmônico perfeito. Não é surpresa esse ser sempre o primeiro prato a ficar vazio.",
+      "effect": "Restaura 10% de Vida Máxima e 1200 de Vida adicional ao personagem selecionado."
+    }
+  }
+}

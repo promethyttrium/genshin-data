@@ -19,6 +19,11 @@
     "氷元素",
     "風元素"
   ],
+  "daysOfWeek": [
+    "水曜",
+    "土曜",
+    "日曜"
+  ],
   "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
   "domainText": "Weapon Ascension Materials",
   "rewardPreview": [

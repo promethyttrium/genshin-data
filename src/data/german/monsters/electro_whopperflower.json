@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Mimik_Electric",
   "description": "Ein mit elementarer Energie gefülltes, mimetisches Pflanzenmonster, das seine Beute mit Elektro-Kraft angreift.\\nEs kann starke Elementarenergie aus seiner Blütenkrone freisetzen, wenn es voller elementarer Energie ist, daher haben einige Gelehrte auch versucht, es für andere Zwecke zu nutzen ...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

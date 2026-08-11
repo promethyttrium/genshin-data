@@ -1,0 +1,32 @@
+{
+  "_id": 215032,
+  "id": "temporal_winds_eulogy",
+  "shareId": 617,
+  "name": "Éloge au vent temporel",
+  "title": "Venti - Éloge au vent temporel",
+  "desc": "« Dès lors, ce que l'on appelle le « non révélé » ne peut signifier que deux choses : un avenir non guidé par les étoiles, ou un avenir délibérément obscurci par des personnes mal intentionnées. Cette dernière hypothèse est véritablement exaspérante... J'espère de tout cœur que la petite sorcière de l'histoire ne deviendra jamais une telle personne. »",
+  "in_play_description": "Lorsque vous avez invoqué un <span style=\"color:#FFFFFFFF\">œil de la tempête</span> : Convertit les <span style=\"color:#FFFFFFFF\">DGT physiques</span> des 2 prochaines <span style=\"color:#FFFFFFFF\">attaques normales</span> pendant la manche du personnage affecté en <span style=\"color:#80FFD7FF\">DGT Anémo</span> et dépense 2 dés d'<span style=\"color:#FFFFFFFF\">élément neutre</span> en moins.",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "Anémo",
+    "card_type": "Carte d'équipement",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "Anémo",
+        "count": 3
+      }
+    ],
+    "tags": [
+      "Aptitude",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Action rapide</span> : S'équipe sur votre <span style=\"color:#FFFFFFFF\">Venti</span>.<br/>Invoque un <span style=\"color:#FFFFFFFF\">œil de la tempête</span>.<br/>Lorsque vous avez invoqué un <span style=\"color:#FFFFFFFF\">œil de la tempête</span> : Convertit les <span style=\"color:#FFFFFFFF\">DGT physiques</span> des 2 prochaines <span style=\"color:#FFFFFFFF\">attaques normales</span> pendant la manche du personnage affecté en <span style=\"color:#80FFD7FF\">DGT Anémo</span> et dépense 2 dés d'<span style=\"color:#FFFFFFFF\">élément neutre</span> en moins.<br/>(Votre deck doit contenir Venti pour pouvoir y ajouter cette carte)"
+    }
+  ]
+}

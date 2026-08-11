@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Gator_Sacred_Water",
   "description": "Büyük yaşam formlarından beslenerek mutasyona uğramış bir sürüngen.\\nİnsanlar bazen heybetli canavarları daha büyük bir gücün vücut bulmuş hali olarak görerek onlara saygı duyarlar. Kimi zaman da bunu bir benzetme olarak kullanarak kendi egolarını tatmin ederler. Bununla birlikte, \"daha büyük gücü\" özümseyen canavarların çoğu bizzat gücün kendisi yüzünden ölmüştür. Yalnızca içlerinden birkaçı yeni bir forma evrilmiştir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

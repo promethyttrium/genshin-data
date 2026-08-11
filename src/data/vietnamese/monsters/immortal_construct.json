@@ -1,0 +1,158 @@
+{
+  "_id": 25140101,
+  "id": "immortal_construct",
+  "monsterId": 25140101,
+  "name": "Tạo Vật Phái Sinh Bất Diệt",
+  "specialNames": [
+    "Cơ Thể Lỗi Của Cánh Lửa Vĩnh Hằng"
+  ],
+  "investigation": {
+    "investigationId": 97,
+    "name": "Tạo Vật Phái Sinh Bất Diệt",
+    "categoryType": "Boss",
+    "categoryText": "Thủ Lĩnh",
+    "description": "Sản phẩm phụ được tạo ra để thực hiện một kế hoạch ích kỷ nào đó.\\nCơ thể vốn được dùng làm vật chứa nay đã mất đi công dụng, giờ đây chỉ có thể lang thang khắp nơi như một con dã thú khiếm khuyết và vô tri."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Zharptitsa_02",
+  "rewardPreviewId": 15213,
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP Mạo Hiểm",
+      "count": 200
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP Yêu Thích"
+    },
+    {
+      "_id": 113090,
+      "id": "unscorched_blossom_branch",
+      "name": "Cành Hoa Bất Diệt Trong Lửa",
+      "count": 2.556
+    },
+    {
+      "_id": 104114,
+      "id": "agnidus_agate_gemstone",
+      "name": "Mã Não Cháy"
+    },
+    {
+      "_id": 104113,
+      "id": "agnidus_agate_chunk",
+      "name": "Miếng Mã Não Cháy"
+    },
+    {
+      "_id": 104112,
+      "id": "agnidus_agate_fragment",
+      "name": "Mảnh Mã Não Cháy"
+    },
+    {
+      "_id": 104111,
+      "id": "agnidus_agate_sliver",
+      "name": "Vụn Mã Não Cháy"
+    },
+    {
+      "_id": 400089,
+      "id": "gladiators_finale",
+      "name": "Lễ Bế Mạc Của Giác Đấu Sĩ",
+      "rarity": 5
+    },
+    {
+      "_id": 400099,
+      "id": "wanderers_troupe",
+      "name": "Đoàn Hát Lang Thang Đại Lục",
+      "rarity": 5
+    },
+    {
+      "_id": 400088,
+      "id": "gladiators_finale",
+      "name": "Lễ Bế Mạc Của Giác Đấu Sĩ",
+      "rarity": 4
+    },
+    {
+      "_id": 400098,
+      "id": "wanderers_troupe",
+      "name": "Đoàn Hát Lang Thang Đại Lục",
+      "rarity": 4
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Cuồng Chiến",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Giáo Quan",
+      "rarity": 4
+    },
+    {
+      "_id": 400128,
+      "id": "prayers_for_illumination",
+      "name": "Người Tế Hỏa",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Cuồng Chiến",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Giáo Quan",
+      "rarity": 3
+    },
+    {
+      "_id": 400127,
+      "id": "prayers_for_illumination",
+      "name": "Người Tế Hỏa",
+      "rarity": 3
+    },
+    {
+      "_id": 400047,
+      "id": "adventurer",
+      "name": "Nhà Mạo Hiểm",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Ma Thú Đột Biến",
+  "filename_icon": "UI_MonsterIcon_Zharptitsa_02",
+  "description": "Sản phẩm phụ khi Giả Kim Thuật Sĩ Koshchei chế tạo ra cá thể mang tên chim lửa.\\nĐây có lẽ là thói quen của vị Giả Kim Thuật Sĩ u ám này, một khi vật thí nghiệm nào đó trong cùng một đợt đạt đến thành công, những vật còn lại đều sẽ bị vứt bỏ hoặc xử lý tùy ý.\\nCòn tạo vật phái sinh này đáng lẽ phải dung hợp một loại sức mạnh nào đó để trở thành một cá thể hoàn chỉnh, thì nay cũng chỉ có thể không ngừng lang thang giữa các hẻm núi như một con dã thú khiếm khuyết và vô tri.",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.5,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 421.104,
+      "attack": 100.48,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

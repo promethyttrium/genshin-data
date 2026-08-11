@@ -13,7 +13,6 @@
   "categoryText": "Seres elementales",
   "filename_icon": "UI_MonsterIcon_Effigy_Electric",
   "description": "Nombre en clave: Álef. Un ser Electro de gran pureza.\\nLa estructura elemental de los Hipóstasis Elementales es la más pura de todas. Generalmente se forman en un lugar con Energía Elemental explosiva, o en una línea ley elemental obstruida.\\nLos Hipóstasis Elementales han desarrollado mecanismos de ataque basados en su atributo elemental.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

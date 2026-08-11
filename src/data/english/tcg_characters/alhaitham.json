@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Sword",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 4765,
@@ -29,8 +31,10 @@
     {
       "id": "abductive_reasoning",
       "name": "Abductive Reasoning",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -49,8 +53,10 @@
     {
       "id": "universality_an_elaboration_on_form",
       "name": "Universality: An Elaboration on Form",
-      "desc": "Deals ? ?. This character gains <span style=\"color:#FFFFFFFF\">Chisel-Light Mirror</span>.",
-      "skillTag": [],
+      "desc": "Deals 2 <span style=\"color:#7EC236FF\">Dendro DMG</span>. This character gains <span style=\"color:#FFFFFFFF\">Chisel-Light Mirror</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "particular_field_fetters_of_phenomena",
       "name": "Particular Field: Fetters of Phenomena",
-      "desc": "Deals ? ?, consumes <span style=\"color:#FFFFFFFF\">Chisel-Light Mirror</span>, with the DMG bonus based on <span style=\"color:#FFFFFFFF\">Chisel-Light Mirror</span>'s <span style=\"color:#FFFFFFFF\">Duration (Rounds)</span> consumed.<br/>If <span style=\"color:#FFFFFFFF\">Chisel-Light Mirror</span> <span style=\"color:#FFFFFFFF\">Duration (Rounds)</span> consumed is 0/1/2, then apply <span style=\"color:#FFFFFFFF\">Chisel-Light Mirror</span> with 3/2/1 <span style=\"color:#FFFFFFFF\">Duration (Rounds)</span> to this character.",
-      "skillTag": [],
+      "desc": "Deals 4 <span style=\"color:#7EC236FF\">Dendro DMG</span>, consumes <span style=\"color:#FFFFFFFF\">Chisel-Light Mirror</span>, with the DMG bonus based on <span style=\"color:#FFFFFFFF\">Chisel-Light Mirror</span>'s <span style=\"color:#FFFFFFFF\">Duration (Rounds)</span> consumed.<br/>If <span style=\"color:#FFFFFFFF\">Chisel-Light Mirror</span> <span style=\"color:#FFFFFFFF\">Duration (Rounds)</span> consumed is 0/1/2, then apply <span style=\"color:#FFFFFFFF\">Chisel-Light Mirror</span> with 3/2/1 <span style=\"color:#FFFFFFFF\">Duration (Rounds)</span> to this character.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1107,

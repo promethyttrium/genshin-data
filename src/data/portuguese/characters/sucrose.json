@@ -369,7 +369,7 @@
     {
       "id": "catalyst_conversion",
       "name": "Conversão de Catalisador",
-      "description": "Quando Sucrose ativa um efeito de Redemoinho, todos os personagens na equipe com o elemento correspondente (exceto Sucrose) possuem sua Proficiência Elemental aumentada em 50 por 8s.",
+      "description": "Quando Sucrose ativa um efeito de Redemoinho ou Redemoinho Estelar, todos os personagens na equipe com o elemento correspondente (exceto Sucrose) possuem sua Proficiência Elemental aumentada em 50 por 8s.",
       "level": 1
     },
     {

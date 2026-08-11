@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Espadão",
     "faction": [
-      null,
-      null
+      "Fontaine",
+      "Fatui"
     ],
     "talent_card": {
       "_id": 6593,
@@ -30,8 +32,10 @@
     {
       "id": "flowing_eddies",
       "name": "Fluxo de Turbilhonamento",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,8 +54,10 @@
     {
       "id": "pressurized_floe",
       "name": "Fluxo Pressurizado",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, caso este personagem ainda não tenha ganho <span style=\"color:#FFFFFFFF\">Tempo Pers</span>, ganhará <span style=\"color:#FFFFFFFF\">Tempo Pers</span>.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de <span style=\"color:#99FFFFFF\">Dano Cryo</span>, caso este personagem ainda não tenha ganho <span style=\"color:#FFFFFFFF\">Tempo Pers</span>, ganhará <span style=\"color:#FFFFFFFF\">Tempo Pers</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -64,8 +70,10 @@
     {
       "id": "shadowhunters_ambush",
       "name": "Emboscada das Sombras",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?. Esse personagem ganha <span style=\"color:#FFFFFFFF\">Modo Caçador Secreto</span>.",
-      "skillTag": [],
+      "desc": "Causa 4 pontos de <span style=\"color:#99FFFFFF\">Dano Cryo</span>. Esse personagem ganha <span style=\"color:#FFFFFFFF\">Modo Caçador Secreto</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1101,

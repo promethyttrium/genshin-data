@@ -1,0 +1,17 @@
+{
+  "_id": 114093,
+  "id": "the_frost_emperors_revival",
+  "name": "Ayaz İmparatorunun Dirilişi",
+  "description": "Karlı düzlüklerden çıkan kahraman henüz donmuş diyarın hükümdarı olmamıştı ama o zamanlar bile etrafındakilere gereğinden fazla içini dökme gibi bir alışkanlığı vardı.<br/>Bu yüzden, o dönemde henüz insan suretine bürünmemiş olan kar Feylerinden bir hediye aldığında çok şaşırdı.<br/>Bildiği kadarıyla onlara, kanatları andıran dağların derinliklerinde buz kadar soluk renkli bir yumurtadan doğduğunu hiç söylememiş ve doğum tarihinden de hiç bahsetmemişti.",
+  "source": [
+    "Hediye Dükkanında takas edilir."
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Döküm Zindanı: Lanetli Saplantının Yara İzleri",
+  "days": [
+    "Çarşamba",
+    "Cumartesi",
+    "Pazar"
+  ]
+}

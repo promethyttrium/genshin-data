@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Figurenkarte",
     "energy": 3,
+    "element": "Hydro",
+    "weapon": "Bogen",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 4761,
@@ -29,8 +31,10 @@
     {
       "id": "stealthy_bowshot",
       "name": "Bogen der Unterströmung",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "lingering_lifeline",
       "name": "Seil der Todesbotin",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erhält selbst 2 Stapelungen von <span style=\"color:#FFFFFFFF\">Durchstoß</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#80C0FFFF\">Hydro-SCH</span>, erhält selbst 2 Stapelungen von <span style=\"color:#FFFFFFFF\">Durchstoß</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "depthclarion_dice",
       "name": "Würfel des Strategems",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 1 <span style=\"color:#FFFFFFFF\">Würfel der Mystik</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#80C0FFFF\">Hydro-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Würfel der Mystik</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -84,7 +92,9 @@
       "id": "breakthrough",
       "name": "Durchstoß",
       "desc": "Passiv – Erhält zu Beginn des Kampfes <span style=\"color:#FFFFFFFF\">Durchstoß</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

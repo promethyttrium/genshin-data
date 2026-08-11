@@ -1,0 +1,16 @@
+{
+  "_id": 380003,
+  "id": "a_touch_of_frost_in_scorching_summer",
+  "name": "Sương Mát Giữa Hè Nóng!",
+  "description": "Món quà nhỏ mà các Sương Linh tặng cho bạn tốt! Tuy trông có vẻ rất ngon, hình như còn có vị mứt mâm xôi, cắn một miếng, chắc chắn vị mát lạnh dễ chịu và ngọt ngào tuyệt vời sẽ cùng nhau nhảy múa trên đầu lưỡi, nhưng thực ra thì không ăn được đâu... mặc dù là trông thật sự rất ngon!",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Kiếm Đơn"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341803,
+  "icon_path": "UI_EquipIcon_Sword_Icecream",
+  "image_path": "UI_Gacha_EquipIcon_Sword_Icecream"
+}

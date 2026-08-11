@@ -1,0 +1,130 @@
+{
+  "_id": 70,
+  "id": "land_of_surging_shadows",
+  "name": "Land of Surging Shadows",
+  "order": 73,
+  "achievements": [
+    {
+      "id": 86059,
+      "name": "Tundra Restorer",
+      "desc": "Clear a large Shadow Realm in Snezhnaya.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9056
+    },
+    {
+      "id": 86062,
+      "name": "Then I'll See You in the Shadow Realm",
+      "desc": "Complete an Edge of Survival challenge.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9059
+    },
+    {
+      "id": 86063,
+      "name": "\"Veteran Shadowdiver\"",
+      "desc": "Raise your Shadow Realm Analysis Level to maximum.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9060
+    },
+    {
+      "id": 86066,
+      "name": "Ace of Survival",
+      "desc": "Obtain 9 Edge of Survival Medal(s).",
+      "reward": 20,
+      "hidden": false,
+      "order": 9063
+    },
+    {
+      "id": 86067,
+      "name": "Tundra Gunsmith (I)",
+      "desc": "Install 1 accessory on 1 firearm.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9064
+    },
+    {
+      "id": 86068,
+      "name": "Tundra Gunsmith (II)",
+      "desc": "Install 2 accessories on 1 firearm.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9065,
+      "preStage": 86067
+    },
+    {
+      "id": 86069,
+      "name": "Tundra Gunsmith (III)",
+      "desc": "Install 4 accessories on 1 firearm.",
+      "reward": 20,
+      "hidden": false,
+      "order": 9066,
+      "preStage": 86068
+    },
+    {
+      "id": 86071,
+      "name": "Tachanka",
+      "desc": "Install 4 accessories each on \"Shatanaya's Frostsilver,\" \"Balsag's Sunwheel,\" and \"Ashamez's Thunder.\"",
+      "reward": 20,
+      "hidden": false,
+      "order": 9068
+    },
+    {
+      "id": 86072,
+      "name": "It's High N—",
+      "desc": "Hit enemy weak points 5 times in a row within 30 seconds.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9069
+    },
+    {
+      "id": 86073,
+      "name": "Say Hello to My Little Friends!",
+      "desc": "Trigger 5 elemental reactions with the Grenade Launcher within 30 seconds.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9070
+    },
+    {
+      "id": 86074,
+      "name": "Aiming While Sliding is Pure Fantasy",
+      "desc": "Defeat a total of 20 enemies while sliding.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9071
+    },
+    {
+      "id": 86075,
+      "name": "For We Are Bound by the Sacred Light Spear",
+      "desc": "Obtain the Assault Rifle \"Shatanaya's Frostsilver.\"",
+      "reward": 5,
+      "hidden": false,
+      "order": 9072
+    },
+    {
+      "id": 86076,
+      "name": "The Martial Art of Grenade Launching!",
+      "desc": "Obtain the Grenade Launcher \"Balsag's Sunwheel.\"",
+      "reward": 5,
+      "hidden": false,
+      "order": 9073
+    },
+    {
+      "id": 86077,
+      "name": "Warning, Lightning Disaster Created...",
+      "desc": "Obtain the Assault Rifle \"Ashamez's Thunder.\"",
+      "reward": 5,
+      "hidden": false,
+      "order": 9074
+    },
+    {
+      "id": 86078,
+      "name": "500 Grams of Love",
+      "desc": "Obtain a Frag Crystal.",
+      "reward": 5,
+      "hidden": false,
+      "order": 9075
+    }
+  ]
+}

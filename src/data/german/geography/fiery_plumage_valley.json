@@ -1,0 +1,13 @@
+{
+  "_id": 70800041,
+  "id": "fiery_plumage_valley",
+  "name": "Tal der feurigen Gefieder",
+  "areaName": "Flammenfedertal",
+  "areaId": 80400,
+  "description": "Es heißt, dass an einem Tag, der längst in den Tiefen der Zeit verloren gegangen ist, das ewig gefrorene Eis schmolz und Bäume mit Blättern, die wie in Flammen stehendes Gefieder aussahen, aus dem Boden sprossen.\nIn diesem Moment wählte der Suchende der Ewigkeit diesen Ort, um seine endlosen Tage dort zu verankern, und begann eine stille Wache für denjenigen, auf den er wartete.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 641,
+  "filename_image": "UI_Codex_Scenery_ZDHuoNiaoHeZhuView",
+  "showOnlyUnlocked": true
+}

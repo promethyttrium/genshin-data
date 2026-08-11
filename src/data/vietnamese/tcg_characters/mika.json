@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Băng",
+    "weapon": "Vũ Khí Cán Dài",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "source": "Nhận được sau khi mời Mika giao đấu trong Quán Rượu Đuôi Mèo, và giành chiến thắng trong Đánh Giải Trí"
   },
@@ -18,8 +20,10 @@
     {
       "id": "spear_of_favonius_arrows_passage",
       "name": "Tây Phong Thương Thuật - Kế Thừa",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -38,8 +42,10 @@
     {
       "id": "starfrost_swirl",
       "name": "Sao Băng Lưu Chuyển",
-      "desc": "Gây ? điểm ?, sinh ra <span style=\"color:#FFFFFFFF\">Gió Linh Hồn</span>.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#99FFFFFF\">Sát Thương Nguyên Tố Băng</span>, sinh ra <span style=\"color:#FFFFFFFF\">Gió Linh Hồn</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -53,7 +59,9 @@
       "id": "skyfeather_song",
       "name": "Lông Vũ Chúc Tụng",
       "desc": "Chữa trị 1 điểm cho tất cả nhân vật phe ta, sinh ra <span style=\"color:#FFFFFFFF\">Tâm Đắc Của Lông Chim Ưng</span> và <span style=\"color:#FFFFFFFF\">Chúc Phúc Của Lông Chim Ưng</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -73,7 +81,9 @@
       "id": "suppressive_barrage",
       "name": "Hỏa Lực Yểm Trợ",
       "desc": "(Bị động) <span style=\"color:#FFFFFFFF\">Sau khi bản thân dùng kỹ năng:</span> <span style=\"color:#FFFFFFFF\">Sát Thương Vật Lý</span> phe ta gây ra lần sau +1. (Mỗi hiệp 2 lần)",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Bị Động"
+      ],
       "points": []
     }
   ]

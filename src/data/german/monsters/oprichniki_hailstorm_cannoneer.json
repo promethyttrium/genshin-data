@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Male_Fat_CannonShield",
   "description": "Ein Eliteoffizier der Fatui-Oprichniki, der mit einer schweren Kanone feindliche Formationen in Stücke schießt und seinen Kameraden mit einem mächtigen Schild Schutz bietet.\\nDas Leid heftiger Kämpfe hat den Schild frostweiß werden lassen, und vergossenes Blut hat seine Ränder in Schwarz getränkt. Die Offiziere der Oprichniki wissen: Leere Worthülsen werden diejenigen, die unweigerlich geopfert wurden, nicht zurückbringen; nur ein Bombardement, einem Hagelsturm gleich, kann diese alte, von Unreinheit verdorbene Welt erschüttern.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

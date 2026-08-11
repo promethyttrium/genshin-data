@@ -177,7 +177,6 @@
   "categoryText": "Musuh Kuat",
   "filename_icon": "UI_MonsterIcon_Shougun_Mitakenarukami",
   "description": "Boneka yang mewakili kekuatan Raiden Shogun. Saat menghadapi musuh yang mengancam \"keabadian\", dia mengungkapkan bentuknya yang seperti ini.\\nSebagai pembantu Raiden dalam menjalankan \"keabadian\", dia tidak pernah ragu, tidak pernah takut, dan selalu memberikan yang terbaik.\\nDia telah mendengar bahwa selama era Makoto dan Ei, Ei memikul tanggung jawab yang sama dengannya dan melalui banyak rasa sakit dan kehilangan.\\nKetika dua bayangan bergabung menjadi satu, dia hanya melihat bekas luka kecil di dalam \"keabadiannya\". Karena takdir selalu berputar, dia harus memenuhi janjinya dan menyatakan perang \"kepadanya\".\\n\\n<i>\"Wujudku adalah simbol keagungan tertinggi, di mana telah diberikan kekuasaan atas seluruh alam. Ini adalah sebuah perwujudan terpadu dari semua yang merupakan Raiden Shogun\".</i>\\n<i>Secara naluriah aku juga mewarisi rasa sakit Ei — rasa sakit karena kehilangan tak terelakkan seiring dengan dirinya yang terus bergerak maju. Demikian juga hal itu mewarisi tekadnya dalam mencapai keabadian.</i>\\n<i>Tekad, keberanian, cinta, dan kebencian ... Semua ini akan terdegradasi dan terdistorsi oleh arus waktu yang tiada henti.</i>\\n<i>Namun 'aturan' yang ada, tidak akan pernah berubah.</i>",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

@@ -43,7 +43,6 @@
   "categoryText": "Hilichurl",
   "filename_icon": "UI_MonsterIcon_Brute_None_01",
   "description": "Degli Hilichurl muscolosi che brandiscono grandi asce a due mani.\\nAttaccano con grandi colpi e usano i Melmosi di Pyro per infondere le asce di questo elemento. Sono molto letali.\\nDi solito, spegnendo ripetutamente le fiamme di un'arma come fa un Mitachurl con ascia di fuoco, la durezza del metallo diminuisce e il filo della testa dell'ascia si scheggia più facilmente. Ma i Mitachurl sono così forti che, anche se l'ascia si smussa completamente, possono comunque usare le loro armi come martelli.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

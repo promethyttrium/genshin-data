@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Altre fazioni umane",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
   "description": "Uno dei membri di un'organizzazione criminale decentralizzata che si è estesa in ogni angolo del continente, e perfino nelle profondità di domini sconosciuti.\\nSvolgono il lavoro più duro, spesso inseguendo i bersagli. Di solito finiscono per unirsi a circoli criminali a causa della loro povertà o per mancanza d'istruzione, ma non sembrano essersi arricchiti dopo aver scelto una vita del genere...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

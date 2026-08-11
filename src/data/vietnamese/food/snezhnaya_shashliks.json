@@ -1,0 +1,65 @@
+{
+  "_id": 3705,
+  "id": "snezhnaya_shashliks",
+  "name": "Shashlik Snezhnaya",
+  "description": "Xiên thịt nướng tảng lớn. Thịt sau khi được tẩm ướp với gia vị xiên vào que sắt, trở đều trên than hồng cho đến khi ngoài giòn trong mềm. Từ những buổi tụ tập trong sân vườn, trên đường đi săn, hay thậm chí là một khoảng trống nhỏ được dọn ra trên nền tuyết, bất cứ nơi nào có thể nhóm lửa ở Snezhnaya đều sẽ thấy bóng dáng của món ăn này.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Thịt Rừng",
+      "amount": 3
+    },
+    {
+      "_id": 100064,
+      "id": "fowl",
+      "name": "Thịt Gia Cầm",
+      "amount": 3
+    },
+    {
+      "_id": 101281,
+      "id": "rimecurrant",
+      "name": "Lý Gai Băng Giá",
+      "amount": 1
+    },
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Củ Dền Đỏ",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Món Dạng Mạo Hiểm",
+  "results": {
+    "suspicious": {
+      "_id": 132010,
+      "name": "Shashlik Snezhnaya Kỳ Lạ",
+      "description": "Xiên thịt nướng tảng lớn. Lớp vỏ cháy đen vừa đắng vừa cứng, như đang gặm một lớp than mỏng. Nhưng bi kịch vẫn chưa kết thúc, phần thịt bên trong chín quá mức vừa khô vừa dai, xem ra nước thịt đã bốc hơi hoàn toàn trước khi ra lò...",
+      "effect": "Giảm 15% tiêu hao thể lực cho toàn thành viên đội khi xung kích và leo trèo, kéo dài 900s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    },
+    "normal": {
+      "_id": 132011,
+      "name": "Shashlik Snezhnaya",
+      "description": "Xiên thịt nướng tảng lớn. Thịt sau khi được tẩm ướp với gia vị xiên vào que sắt, trở đều trên than hồng cho đến khi ngoài giòn trong mềm. Từ những buổi tụ tập trong sân vườn, trên đường đi săn, hay thậm chí là một khoảng trống nhỏ được dọn ra trên nền tuyết, bất cứ nơi nào có thể nhóm lửa ở Snezhnaya đều sẽ thấy bóng dáng của món ăn này.",
+      "effect": "Giảm 20% tiêu hao thể lực cho toàn thành viên đội khi xung kích và leo trèo, kéo dài 900s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    },
+    "delicious": {
+      "_id": 132012,
+      "name": "Shashlik Snezhnaya Ngon",
+      "description": "Xiên thịt nướng tảng lớn. Cùng với tiếng giòn nhẹ khi cắn, nước thịt liền trào ra không ngớt. Gia vị tẩm ướp dưới ánh lửa đã hóa thành tầng hương vị đậm đà, làm nổi bật vị ngọt tươi vốn có của thịt. Khóe miệng bóng nhẫy dầu mỡ và nước thịt, nhưng trước món ngon nhường này thì chẳng còn tâm trí đâu để mà bận tâm nữa...",
+      "effect": "Giảm 25% tiêu hao thể lực cho toàn thành viên đội khi xung kích và leo trèo, kéo dài 900s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân."
+    },
+    "special": {
+      "_id": 132016,
+      "id": "the_bullseye_roast",
+      "name": "\"Không Trượt Phát Nào\"",
+      "description": "Món ăn độc quyền của Alyosha. Trong tiếng kêu vui vẻ của Tugarin, anh ấy đưa tới một xiên thịt nướng lớn, mỡ vẫn còn xèo xèo lách tách, miếng thịt thì được cắt dày hơn xiên nướng thông thường. Cắn một miếng có thể cảm nhận được mùi thịt rừng đã hoàn toàn bị lửa than thuần phục... Xem ra dù là đạn hay độ lửa, anh ấy đều kiểm soát vô cùng chuẩn xác!",
+      "effect": "Giảm 25% tiêu hao thể lực cho toàn thành viên đội khi xung kích và leo trèo, kéo dài 1500s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+      "character": {
+        "id": "alyosha",
+        "name": "Alyosha"
+      }
+    }
+  }
+}

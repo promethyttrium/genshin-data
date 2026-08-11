@@ -1,0 +1,68 @@
+{
+  "_id": 4718,
+  "id": "domain_of_forgery_severed_steel_iv",
+  "name": "Döküm Zindanı: Kesik Çelik IV",
+  "entranceId": 2106,
+  "entranceName": "Lanetli Saplantının Yara İzleri",
+  "description": "Bir zamanlar eski düzene geri dönme hayalinin peşinde koşan asiler için gizli bir sığınaktı. Aldandıkları hayalleri, kızıl alevlerle birlikte yok oldu ve geriye yalnızca uçsuz bucaksız saçılan külleri kaldı.\nBurada pusuda bekleyen düşmanları alt ederek ekipman geliştirmek için eşyalar kazanılabilir.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 80,
+  "unlockRank": 40,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "Rüzgar",
+    "Buz"
+  ],
+  "daysOfWeek": [
+    "Çarşamba",
+    "Cumartesi",
+    "Pazar"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Macera TP",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "2200"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Yoldaşlık TP",
+      "count": "20"
+    },
+    {
+      "_id": 114096,
+      "id": "the_frost_emperors_farewell",
+      "name": "Ayaz İmparatorunun Vedası"
+    },
+    {
+      "_id": 114095,
+      "id": "the_frost_emperors_lament",
+      "name": "Ayaz İmparatorunun Ağıdı"
+    },
+    {
+      "_id": 114094,
+      "id": "the_frost_emperors_ceremony",
+      "name": "Ayaz İmparatorunun Töreni"
+    },
+    {
+      "_id": 114093,
+      "id": "the_frost_emperors_revival",
+      "name": "Ayaz İmparatorunun Dirilişi"
+    }
+  ],
+  "monsterList": []
+}

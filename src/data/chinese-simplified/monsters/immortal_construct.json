@@ -1,0 +1,158 @@
+{
+  "_id": 25140101,
+  "id": "immortal_construct",
+  "monsterId": 25140101,
+  "name": "不灭衍生造物",
+  "specialNames": [
+    "永恒焰羽的残次身躯"
+  ],
+  "investigation": {
+    "investigationId": 97,
+    "name": "不灭衍生造物",
+    "categoryType": "Boss",
+    "categoryText": "首领",
+    "description": "为某个私心的计划的实现，被制造而出的副产物。\\n原本因作为载体的身躯已然失去了其功用，如今只能作为残缺无智的野兽四处徘徊。"
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Zharptitsa_02",
+  "rewardPreviewId": 15213,
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "冒险阅历",
+      "count": 200
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "摩拉"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "好感经验"
+    },
+    {
+      "_id": 113090,
+      "id": "unscorched_blossom_branch",
+      "name": "焰中不灭花枝",
+      "count": 2.556
+    },
+    {
+      "_id": 104114,
+      "id": "agnidus_agate_gemstone",
+      "name": "燃愿玛瑙"
+    },
+    {
+      "_id": 104113,
+      "id": "agnidus_agate_chunk",
+      "name": "燃愿玛瑙块"
+    },
+    {
+      "_id": 104112,
+      "id": "agnidus_agate_fragment",
+      "name": "燃愿玛瑙断片"
+    },
+    {
+      "_id": 104111,
+      "id": "agnidus_agate_sliver",
+      "name": "燃愿玛瑙碎屑"
+    },
+    {
+      "_id": 400089,
+      "id": "gladiators_finale",
+      "name": "角斗士的终幕礼",
+      "rarity": 5
+    },
+    {
+      "_id": 400099,
+      "id": "wanderers_troupe",
+      "name": "流浪大地的乐团",
+      "rarity": 5
+    },
+    {
+      "_id": 400088,
+      "id": "gladiators_finale",
+      "name": "角斗士的终幕礼",
+      "rarity": 4
+    },
+    {
+      "_id": 400098,
+      "id": "wanderers_troupe",
+      "name": "流浪大地的乐团",
+      "rarity": 4
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "战狂",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "教官",
+      "rarity": 4
+    },
+    {
+      "_id": 400128,
+      "id": "prayers_for_illumination",
+      "name": "祭火之人",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "战狂",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "教官",
+      "rarity": 3
+    },
+    {
+      "_id": 400127,
+      "id": "prayers_for_illumination",
+      "name": "祭火之人",
+      "rarity": 3
+    },
+    {
+      "_id": 400047,
+      "id": "adventurer",
+      "name": "冒险家",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "异种魔兽",
+  "filename_icon": "UI_MonsterIcon_Zharptitsa_02",
+  "description": "名为卡谢伊的炼金术士在制造名为火鸟的个体时的副产物。\\n这或许是这位阴沉炼金术士的习惯，一旦同一批的某个实验体成功，其他的均会被废弃或是被随意处置。\\n而这具本该融合某种力量成就完成体的衍生造物，如今也只能作为残缺而无智的野兽于山峡之中无尽地徘徊。",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.5,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 421.104,
+      "attack": 100.48,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

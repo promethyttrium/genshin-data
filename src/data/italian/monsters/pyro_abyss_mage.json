@@ -37,12 +37,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Abisso",
   "filename_icon": "UI_MonsterIcon_Abyss_Fire_01",
   "description": "Creature dell'Abisso che controllano il potere di Pyro in battaglia.\\nPer ragioni sconosciute, i Maghi dell'Abisso sono in grado di comunicare con gli Hilichurl, il che gli consente di manipolarne facilmente le menti. Si dice che i Maghi dell'Abisso parlino una lingua dimenticata da tempo, da cui traggono potere magico.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

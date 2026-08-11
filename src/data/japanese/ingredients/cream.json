@@ -68,6 +68,11 @@
       "name": "フリカッセ·ドゥ·プーレ"
     },
     {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "アイススグリのアイスクリーム"
+    },
+    {
       "_id": 4403,
       "id": "fontinalia_mousse",
       "name": "千霊ムース"
@@ -85,6 +90,5 @@
   ],
   "source": [
     "食材加工で獲得"
-  ],
-  "rarity": 0
+  ]
 }

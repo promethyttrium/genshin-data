@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Sifflet en métal de guerrier",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Sifflet en bois de sentinelle",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humains",
   "filename_icon": "UI_MonsterIcon_Human_Fat_NoWeapon_Mosasaurus",
   "description": "Un guerrier des sources et un gardien tribal qui patrouille dans les eaux et les rivages.\\nSous-estimez les incroyables compétences que ces courageux guerriers brandissant des harpons ont acquises en chassant et en pêchant à vos risques et périls ! On raconte que dans le passé, les membres tribaux utilisaient ces compétences pour chasser d'énormes bêtes marines dotées de nageoires et d'écailles dures comme le fer.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

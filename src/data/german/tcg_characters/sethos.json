@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 4,
+    "element": "Elektro",
+    "weapon": "Bogen",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 7666,
@@ -29,8 +31,10 @@
     {
       "id": "royal_reed_archery",
       "name": "Königlicher Schilfschuss",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,7 +54,9 @@
       "id": "ancient_rite_the_thundering_sands",
       "name": "Uraltes Ritual – Donnergebrüll des Sandes",
       "desc": "Wechselt deine aktive Figur zur nächsten, wenn die aktive Figur des Gegners vom <span style=\"color:#FFACFFFF\">Elektro-Attribut</span> betroffen ist. Verleiht sich selbst <span style=\"color:#FFFFFFFF\">Donnernde Konvergenz</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "secret_rite_twilight_shadowpiercer",
       "name": "Geheimes Ritual – Zwielicht-Schattenbohrer",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], verleiht sich selbst <span style=\"color:#FFFFFFFF\">Zwielicht-Meditation</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#FFACFFFF\">Elektro-SCH</span>, verleiht sich selbst <span style=\"color:#FFFFFFFF\">Zwielicht-Meditation</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -84,7 +92,9 @@
       "id": "black_kites_enigma",
       "name": "Metapher des Dunkelmilans",
       "desc": "Stellt der Figur bei Standardangriffen keine <span style=\"color:#FFFFFFFF\">Aufladung</span> wieder her.<br/>Nach dem Einsatz des Standardangriffs der Figur: Verbraucht, wenn möglich, die gesamte <span style=\"color:#FFFFFFFF\">Aufladung</span> der Figur und fügt dem Gegner mit den geringsten LP <span style=\"color:#FFFFFFFF\">durchdringenden SCH</span> in Höhe der Anzahl verbrauchter Aufladungen +1 zu.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

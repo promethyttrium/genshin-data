@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 3,
+    "element": "Cryo",
+    "weapon": "Otras armas",
     "faction": [
-      null
+      "Fatui"
     ]
   },
   "skills": [
     {
       "id": "closerange_charge",
       "name": "Embestida de corto alcance",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -36,8 +40,10 @@
     {
       "id": "freezing_spray",
       "name": "Espray helado",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#99FFFFFF\">Daño Cryo</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,8 +56,10 @@
     {
       "id": "frost_cannon",
       "name": "Cañón gélido",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y este personaje obtiene el efecto de <span style=\"color:#FFFFFFFF\">arsenal elemental: Cryo</span>.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#99FFFFFF\">Daño Cryo</span> y este personaje obtiene el efecto de <span style=\"color:#FFFFFFFF\">arsenal elemental: Cryo</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -71,7 +79,9 @@
       "id": "combat_resupply",
       "name": "Reabastecimiento de combate",
       "desc": "Pasiva: cuando comienza el duelo, este personaje obtiene Energía +2.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
       "points": []
     }
   ]

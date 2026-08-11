@@ -25,19 +25,19 @@
       "_id": 112076,
       "id": "marked_shell",
       "name": "Xương Khắc Ấn",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112075,
       "id": "sturdy_shell",
       "name": "Xương Rắn Chắc",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112074,
       "id": "desiccated_shell",
       "name": "Xương Vụn Vỡ",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Chrysopelea_Sacred_Wind",
   "description": "Loài bò sát bị biến dị do nuốt chửng vật thể sống vĩ đại.\\nCho dù sở hữu sức mạnh nguyên tố, nhưng Thánh Hóa Thú không thể tự tiêu hóa hoàn toàn những hài cốt không phân hủy trong mình. Năng lượng bên trong kết hợp với bản thân động vật, từ đó mọc ra lớp giáp xương, được cho là có thành phần tương tự như vật liệu tinh luyện chủ yếu được sản xuất ở Inazuma.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

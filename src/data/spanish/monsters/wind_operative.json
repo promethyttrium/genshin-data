@@ -64,19 +64,19 @@
       "_id": 112094,
       "id": "operatives_constancy",
       "name": "Asiduidad de Senescal",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112093,
       "id": "operatives_standard_pocket_watch",
       "name": "Reloj de bolsillo estándar de Senescal",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112092,
       "id": "old_operatives_pocket_watch",
       "name": "Reloj de bolsillo vetusto de Senescal",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -127,7 +127,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Escadron_Wind",
   "description": "Una agente especial de élite de los Fatui.\\nLas Senescales no tienen un rango militar reglado entre las filas de los Fatui y se mueven junto a los demás soldados según las órdenes y la misión en la que estén. También actúan de manera independiente o colaborando con los soldados de todas partes de Teyvat para labores de espionaje, contravigilancia, protección, eliminación de personas, etc. Para algunas misiones especiales, las Senescales necesitan dominar toda clase de habilidades, e incluso de formas artísticas.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

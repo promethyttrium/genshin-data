@@ -1,0 +1,39 @@
+{
+  "_id": 26310401,
+  "id": "chimeric_horned_bear",
+  "monsterId": 26310402,
+  "name": "Chimeric Horned Bear",
+  "specialNames": [
+    "Chimeric Horned Bear"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "สัตว์อสูรลึกลับ",
+  "filename_icon": "UI_MonsterIcon_Chimera_BearDeer",
+  "description": "สัตว์ร้ายสังเคราะห์ที่มีรูปร่างพิเศษเป็นอย่างมาก ซึ่งเป็นผลผลิตจากการแปรธาตุชีวภาพ\\nพวกมันไม่ได้ถือกำเนิดตามที่มนุษย์คิดไว้ แต่เป็นมอนสเตอร์สังเคราะห์ที่ประกอบร่างขึ้นเองจากชิ้นส่วนชีวิต จึงมีความน่าอัศจรรย์ตรงที่ใช้พลังธาตุได้อย่างอิสระ\\nแม้ชีวิตจะแตกสลายจนแทบจะกลายเป็นชิ้น ๆ แต่กลับมีเจตจำนงหรือพลังบางอย่างทำให้พวกมันเติบโตตามแบบแผนอันลึกลับได้งั้นเหรอ?\\nมาถึงตอนนี้ คงไม่มีใครรู้คำตอบนี้อีกแล้ว",
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 27.431341,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

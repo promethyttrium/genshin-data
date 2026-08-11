@@ -13,7 +13,6 @@
   "categoryText": "Makhluk Elemental",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Water",
   "description": "Makhluk elemental dengan tubuh yang indah dan anggun, memiliki ketertarikan yang kuat terhadap unsur elemental. Setelah sekian lama terekspos terhadap Hydro berkonsentrasi tinggi, akhirnya berubah menjadi wujud saat ini.\\nTubuhnya yang bening hampir seluruhnya terbuat dari embun air murni. Dibandingkan dengan jenisnya yang lain, dia sedikit lebih jinak, tetapi saat diprovokasi, dapat langsung membentuk bilah air tajam untuk menembus pertahanan penyerangnya.\\nDalam nyanyian doa yang tersisa di ujung utara, mereka adalah kehidupan yang lahir dengan berkah Bulan Embun, melambangkan sumber murni dan cahaya asli. Mungkin karena itulah mereka tak tahan dengan warna putihnya ternoda oleh tujuh warna dari cahaya langit, dan mulai menolak semua makhluk yang terlalu dekat dengan mereka.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

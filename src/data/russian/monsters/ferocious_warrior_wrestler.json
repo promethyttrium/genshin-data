@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Прочие человеческие фракции",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Bisonsaurus",
   "description": "Воин с равнин, страж племени, стерегущий золотые поля.\\nТакие бойцы неустанно тренируют свою силу с того самого момента, когда решили стать воинами. Никто из обычных людей не выдержит могучего удара их двуручного оружия.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

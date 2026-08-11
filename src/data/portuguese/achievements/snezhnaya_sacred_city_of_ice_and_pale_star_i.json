@@ -1,0 +1,182 @@
+{
+  "_id": 69,
+  "id": "snezhnaya_sacred_city_of_ice_and_pale_star_i",
+  "name": "Snezhnaya: Cidade Sagrada de Gelo e Estrela Azul - I",
+  "order": 72,
+  "achievements": [
+    {
+      "id": 80504,
+      "name": "Explorador Continental: Nação Coberta pela Neve - I",
+      "desc": "Ilumine os mapas da Terra da Geada Eterna, Antiga Tundra Volkodlak, Vale da Pluma Flamejante, Cemitério Nevado das Bétulas e Pico da Geada na região de Snezhnaya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 463
+    },
+    {
+      "id": 80505,
+      "name": "Atravessando a Paisagem de Gelo e Neve - I",
+      "desc": "Desbloqueie todos os Pontos de Teleporte em Terra da Geada Eterna, Antiga Tundra Volkodlak, Vale da Pluma Flamejante, Cemitério Nevado das Bétulas e Pico da Geada na região de Snezhnaya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 464
+    },
+    {
+      "id": 80506,
+      "name": "Marcha Santa: Nação Coberta pela Neve - I",
+      "desc": "Desbloqueie todos os Santuários das Profundezas em Terra da Geada Eterna, Antiga Tundra Volkodlak, Vale da Pluma Flamejante, Cemitério Nevado das Bétulas e Pico da Geada na região de Snezhnaya.",
+      "reward": 10,
+      "hidden": false,
+      "order": 465
+    },
+    {
+      "id": 80507,
+      "name": "Pálido e Brilhante como Gelo",
+      "desc": "Eleve as Estátuas dos Sete em Snezhnaya para o nível máximo.",
+      "reward": 20,
+      "hidden": false,
+      "order": 466
+    },
+    {
+      "id": 80508,
+      "name": "Recompensa do Reino das Sombras: Nação Coberta pela Neve - I",
+      "desc": "Desbloqueie todos os Cofres do Reino das Sombras em Terra da Geada Eterna, Antiga Tundra Volkodlak, Vale da Pluma Flamejante, Cemitério Nevado das Bétulas e Pico da Geada na região de Snezhnaya.",
+      "reward": 10,
+      "hidden": false,
+      "order": 467
+    },
+    {
+      "id": 80509,
+      "name": "A Tundra Te Guiará Para Casa - I",
+      "desc": "Siga 3 Seelie em Terra da Geada Eterna, Antiga Tundra Volkodlak, Vale da Pluma Flamejante, Cemitério Nevado das Bétulas e Pico da Geada e ilumine o Jardim de Seelie.",
+      "reward": 5,
+      "hidden": false,
+      "order": 468
+    },
+    {
+      "id": 80510,
+      "name": "A Tundra Te Guiará Para Casa - I",
+      "desc": "Siga 5 Seelie em Terra da Geada Eterna, Antiga Tundra Volkodlak, Vale da Pluma Flamejante, Cemitério Nevado das Bétulas e Pico da Geada e ilumine o Jardim de Seelie.",
+      "reward": 10,
+      "hidden": false,
+      "order": 469,
+      "preStage": 80509
+    },
+    {
+      "id": 80511,
+      "name": "A Tundra Te Guiará Para Casa - I",
+      "desc": "Siga 10 Seelie em Terra da Geada Eterna, Antiga Tundra Volkodlak, Vale da Pluma Flamejante, Cemitério Nevado das Bétulas e Pico da Geada e ilumine o Jardim de Seelie.",
+      "reward": 20,
+      "hidden": false,
+      "order": 470,
+      "preStage": 80510
+    },
+    {
+      "id": 80512,
+      "name": "Caçador de Tesouro Glacial - I",
+      "desc": "Abra 65 baús em Terra da Geada Eterna, Antiga Tundra Volkodlak, Vale da Pluma Flamejante, Cemitério Nevado das Bétulas e Pico da Geada.",
+      "reward": 5,
+      "hidden": false,
+      "order": 471
+    },
+    {
+      "id": 80513,
+      "name": "Caçador de Tesouro Glacial - I",
+      "desc": "Abra 130 baús em Terra da Geada Eterna, Antiga Tundra Volkodlak, Vale da Pluma Flamejante, Cemitério Nevado das Bétulas e Pico da Geada.",
+      "reward": 10,
+      "hidden": false,
+      "order": 472,
+      "preStage": 80512
+    },
+    {
+      "id": 80514,
+      "name": "Caçador de Tesouro Glacial - I",
+      "desc": "Abra 260 baús em Terra da Geada Eterna, Antiga Tundra Volkodlak, Vale da Pluma Flamejante, Cemitério Nevado das Bétulas e Pico da Geada.",
+      "reward": 20,
+      "hidden": false,
+      "order": 473,
+      "preStage": 80513
+    },
+    {
+      "id": 80515,
+      "name": "Aventureiro do Inverno Congelante - I",
+      "desc": "Conclua 6 Desafios de Contra o Tempo de Mundo Aberto na Terra da Geada Eterna, Antiga Tundra Volkodlak, Vale da Pluma Flamejante, Cemitério Nevado das Bétulas e Pico da Geada.",
+      "reward": 5,
+      "hidden": false,
+      "order": 474
+    },
+    {
+      "id": 80516,
+      "name": "Aventureiro do Inverno Congelante - I",
+      "desc": "Conclua 12 Desafios de Contra o Tempo de Mundo Aberto na Terra da Geada Eterna, Antiga Tundra Volkodlak, Vale da Pluma Flamejante, Cemitério Nevado das Bétulas e Pico da Geada.",
+      "reward": 10,
+      "hidden": false,
+      "order": 475,
+      "preStage": 80515
+    },
+    {
+      "id": 80517,
+      "name": "Aventureiro do Inverno Congelante - I",
+      "desc": "Conclua 24 Desafios de Contra o Tempo de Mundo Aberto na Terra da Geada Eterna, Antiga Tundra Volkodlak, Vale da Pluma Flamejante, Cemitério Nevado das Bétulas e Pico da Geada.",
+      "reward": 20,
+      "hidden": false,
+      "order": 476,
+      "preStage": 80516
+    },
+    {
+      "id": 80518,
+      "name": "Escadaria do Amor",
+      "desc": "Conclua \"Hespérides de Amor e Ódio\".",
+      "reward": 10,
+      "hidden": false,
+      "order": 477
+    },
+    {
+      "id": 80519,
+      "name": "Reunidos pela Felicidade Eterna",
+      "desc": "Conclua \"Na Habitação da Vida\".",
+      "reward": 10,
+      "hidden": false,
+      "order": 478
+    },
+    {
+      "id": 80520,
+      "name": "Dez Mil Amores Carregados por Um Suspiro",
+      "desc": "Impeça o Projeto de Humano Primordial de transformar o mundo em um pátio intocado pelo amor ou pela tristeza.",
+      "reward": 10,
+      "hidden": false,
+      "order": 479
+    },
+    {
+      "id": 80521,
+      "name": "Nascimento da Cantora de Armadura",
+      "desc": "Atinja o Nível de Construção máximo em \"Pontos de Encontro: Caverna da Canção da Maré\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 480
+    },
+    {
+      "id": 80522,
+      "name": "Valor da Caça no Mundo Desperto",
+      "desc": "Atinja o Nível de Construção máximo em \"Pontos de Encontro: Cabana do Caçador\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 481
+    },
+    {
+      "id": 80523,
+      "name": "Louve os Escolhidos",
+      "desc": "Atinja o Nível de Construção máximo em \"Pontos de Encontro: Teatro Korolevskiy\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 482
+    },
+    {
+      "id": 80529,
+      "name": "Abra os Olhos Fechados Pela Noite Tranquila",
+      "desc": "Conclua a restauração de Rankova Zorya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 488
+    }
+  ]
+}

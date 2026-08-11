@@ -1,0 +1,24 @@
+{
+  "_id": 112148,
+  "id": "ethereal_crystalscale_stone",
+  "name": "Litosquama di cristallo eterea",
+  "description": "Una squama cristallina che ricopriva il corpo della Fata. Si dice che le Fate dotate di una maggiore quantità di queste squame dispongano di un potere di gran lunga superiore. Tuttavia, nessuno sa per certo se tale magia si origini all'interno dei loro corpi e venga incanalata all'esterno attraverso i frammenti di cristallo, o se i frammenti stessi siano gli effettivi ricettacoli del loro potere.",
+  "source": [
+    "Ottenibile dalla Fata dalla carne cristallina di liv. 60+",
+    "Scambio di Polvere stellare: crea dopo aver scambiato",
+    "Segnaposto - Quantità realizzabile: {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112147,
+        "id": "ethereal_crystal",
+        "name": "Cristallo etereo",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

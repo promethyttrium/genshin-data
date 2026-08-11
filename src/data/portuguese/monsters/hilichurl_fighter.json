@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hili_None_01",
   "description": "Os habitantes primitivos que vagam pelas regiões selvagens de Teyvat.\\nGuerreiros mal-humorados de suas tribos, eles têm a mente simples e acreditam no poder da força bruta. Se seus músculos crescerem suficientemente fortes e sua força grande o suficiente, então um dia eles também levantarão um grande escudo e se tornarão um Mitachurl... Ou será que não?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

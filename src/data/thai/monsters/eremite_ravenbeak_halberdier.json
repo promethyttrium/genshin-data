@@ -31,22 +31,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Trimmed Red Silk",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Faded Red Satin",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "กองกำลังของมนุษย์อื่น ๆ",
   "filename_icon": "UI_MonsterIcon_Eremite_Male_Standard_Pole",
   "description": "สมาชิกกลุ่มทหารรับจ้างที่กระจัดกระจาย ที่มาจากทะเลทรายที่มีสีราวกับทองคำ เพื่อเงินค่าตอบแทน พวกเขาสามารถทำงานเพื่อใครก็ได้ทั้งนั้น\\nต่อสู้ด้วยอาวุธที่มีชื่อว่า \"ง้าวปากอีกา\" ในตำนานเล่าว่าในสมัยโบราณ ฤษีที่รับใช้เทพเจ้าทะเลทรายจะถือง้าวนี้เป็นสัญลักษณ์แสดงตัวตน ซึ่งนามอันแท้จริงของอาวุธนี้สูญหายไปในทะเลแห่งทรายแล้ว",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

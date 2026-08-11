@@ -13,7 +13,6 @@
   "categoryText": "Elementare Lebensformen",
   "filename_icon": "UI_MonsterIcon_Effigy_Fire",
   "description": "Ein höheres Pyro-Wesen mit der Bezeichnung „Ayin“.\\nNach Untersuchungen der Gelehrten steht diese Hypostase in engem Zusammenhang mit der Abnormität der lokalen Elementarenergie. Es ist jedoch nicht bekannt, ob das Vorhandensein dieser Hypostase die Elementarenergie beeinflusst oder ob die abnormale Elementarenergie diese Hypostase erzeugte.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

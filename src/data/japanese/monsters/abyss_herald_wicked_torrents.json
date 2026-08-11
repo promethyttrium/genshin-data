@@ -1,7 +1,7 @@
 {
   "_id": 22020101,
   "id": "abyss_herald_wicked_torrents",
-  "monsterId": 22020103,
+  "monsterId": 84202012,
   "name": "アビスの使徒·激流",
   "specialNames": [
     "アビスの使徒·ヴァインフレ",
@@ -22,9 +22,8 @@
   "categoryText": "アビス",
   "filename_icon": "UI_MonsterIcon_Invoker_Herald_Water_01",
   "description": "水元素を操り戦う魔物、「アビス教団」に所属している。\\nこれら沈黙せし者はアビスの先駆者、すべてを巻き込む波の刃を振るい、あらゆる鎧の守りと不信に満ちた異端の心を打ち砕く。敬いなき愚者に宿命の懲戒を下す。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

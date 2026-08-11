@@ -8,16 +8,20 @@
     "hp": 24,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Andere Waffen",
     "faction": [
-      null
+      "Monster"
     ]
   },
   "skills": [
     {
       "id": "wingcleave",
       "name": "Flügelschlag",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -36,8 +40,10 @@
     {
       "id": "rising_scorchwind",
       "name": "Aufsteigender Loderwind",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], verleiht sich selbst 2 Stapelungen <span style=\"color:#FFFFFFFF\">Fliegender Wirbel</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#FF9999FF\">Pyro-SCH</span>, verleiht sich selbst 2 Stapelungen <span style=\"color:#FFFFFFFF\">Fliegender Wirbel</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,8 +56,10 @@
     {
       "id": "goldflame_detonation",
       "name": "Goldflammen-Sprengung",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], fügt allen inaktiven Figuren deines Gegners 1 Pkt. <span style=\"color:#FFFFFFFF\">durchdringenden SCH</span> zu und verleiht sich selbst 1 Stapelung <span style=\"color:#FFFFFFFF\">Goldflammen-Form</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#FF9999FF\">Pyro-SCH</span>, fügt allen inaktiven Figuren deines Gegners 1 Pkt. <span style=\"color:#FFFFFFFF\">durchdringenden SCH</span> zu und verleiht sich selbst 1 Stapelung <span style=\"color:#FFFFFFFF\">Goldflammen-Form</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -71,7 +79,9 @@
       "id": "ancient_bloodline",
       "name": "Blutlinie des Uralten",
       "desc": "Passiv – <span style=\"color:#FFFFFFFF\">Zu Beginn der Zugphase:</span> Verleiht sich selbst 1 Stapelung <span style=\"color:#FFFFFFFF\">Goldflammen-Form</span> und erschafft 1 zufällige Karte, die 2 Elementarwürfel kostet.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

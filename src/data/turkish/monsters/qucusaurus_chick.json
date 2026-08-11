@@ -25,29 +25,27 @@
       "_id": 112103,
       "id": "tyrants_fang",
       "name": "Tiranın Dişi",
-      "count": 0.0616
+      "count": 0.062
     },
     {
       "_id": 112102,
       "id": "seasoned_fang",
       "name": "Tecrübeli Diş",
-      "count": 0.2465
+      "count": 0.246
     },
     {
       "_id": 112101,
       "id": "juvenile_fang",
       "name": "Genç Diş",
-      "count": 0.9244
+      "count": 0.924
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Flamingo_Small",
   "description": "Hafif ve çevik bir vücuda sahip genç bir Gukuzor.\\nBoynu ve kanatları henüz gelişmemiş ve Gaz Filojiston kullanabilmesi için henüz çok yolu var. Yaşlı Gukuzorların, yavruları uçmaları için cesaretlendirmek adına uçurumlardan ittiklerine dair hikayeler vardır. Bu hikayelerin gerçekliği meçhul tabii. Ancak gece gündüz çalıştığı müddetçe, henüz tüyleri yumuşak olan bu yavru kuşların bir gün büyüyüp güçlü ve dayanıklı olacaklarına şüphe yok.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

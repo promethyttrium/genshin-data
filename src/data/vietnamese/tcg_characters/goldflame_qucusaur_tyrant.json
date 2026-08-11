@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Hỏa",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null
+      "Ma Vật"
     ],
     "source": "Nhận được sau khi Khiêu Chiến Quán Rượu ở chỗ Tiểu Hoàng Tử trong Quán Rượu Đuôi Mèo, và giành chiến thắng trong độ khó Đánh Giải Trí với Bạo Chúa Qucusaur Lửa Vàng"
   },
@@ -18,8 +20,10 @@
     {
       "id": "wingcleave",
       "name": "Chém Cánh",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -38,8 +42,10 @@
     {
       "id": "rising_scorchwind",
       "name": "Gió Nóng Nổi Lên",
-      "desc": "Gây ? điểm ?, áp dụng 2 tầng <span style=\"color:#FFFFFFFF\">Bay Xoáy</span> cho bản thân.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm <span style=\"color:#FF9999FF\">Sát Thương Nguyên Tố Hỏa</span>, áp dụng 2 tầng <span style=\"color:#FFFFFFFF\">Bay Xoáy</span> cho bản thân.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -52,8 +58,10 @@
     {
       "id": "goldflame_detonation",
       "name": "Lửa Vàng Bùng Nổ",
-      "desc": "Gây ? điểm ?, gây 1 điểm <span style=\"color:#FFFFFFFF\">Sát Thương Xuyên Thấu</span> lên tất cả kẻ địch dự bị, áp dụng 1 tầng <span style=\"color:#FFFFFFFF\">Hình Thái Lửa Vàng</span> cho bản thân.",
-      "skillTag": [],
+      "desc": "Gây 3 điểm <span style=\"color:#FF9999FF\">Sát Thương Nguyên Tố Hỏa</span>, gây 1 điểm <span style=\"color:#FFFFFFFF\">Sát Thương Xuyên Thấu</span> lên tất cả kẻ địch dự bị, áp dụng 1 tầng <span style=\"color:#FFFFFFFF\">Hình Thái Lửa Vàng</span> cho bản thân.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -73,7 +81,9 @@
       "id": "ancient_bloodline",
       "name": "Huyết Mạch Cổ Đại",
       "desc": "(Bị động) <span style=\"color:#FFFFFFFF\">Khi bắt đầu Giai Đoạn Hành Động chẵn:</span> Áp dụng 1 tầng <span style=\"color:#FFFFFFFF\">Hình Thái Lửa Vàng</span> cho bản thân.",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Bị Động"
+      ],
       "points": []
     }
   ]

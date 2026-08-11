@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Thủy",
+    "weapon": "Kiếm Đơn",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "source": "Nhận được sau khi mời Dahlia giao đấu trong Quán Rượu Đuôi Mèo, và giành chiến thắng trong Đánh Giải Trí"
   },
@@ -18,8 +20,10 @@
     {
       "id": "favonius_bladework_ritual",
       "name": "Tây Phong Kiếm Thuật - Nghi Lễ",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -38,8 +42,10 @@
     {
       "id": "immersive_ordinance",
       "name": "Nghi Thức Rửa Tội",
-      "desc": "Gây ? điểm ?, sinh ra <span style=\"color:#FFFFFFFF\">Bí Ẩn Mưa Sương</span>.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#80C0FFFF\">Sát Thương Nguyên Tố Thủy</span>, sinh ra <span style=\"color:#FFFFFFFF\">Bí Ẩn Mưa Sương</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -52,8 +58,10 @@
     {
       "id": "radiant_psalter",
       "name": "Thánh Ca Thuần Khiết",
-      "desc": "Gây ? điểm ?, sinh ra 2 tầng <span style=\"color:#FFFFFFFF\">Khiên</span> và 2 tầng <span style=\"color:#FFFFFFFF\">Tây Phong Thân Quyến</span>.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#80C0FFFF\">Sát Thương Nguyên Tố Thủy</span>, sinh ra 2 tầng <span style=\"color:#FFFFFFFF\">Khiên</span> và 2 tầng <span style=\"color:#FFFFFFFF\">Tây Phong Thân Quyến</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1102,

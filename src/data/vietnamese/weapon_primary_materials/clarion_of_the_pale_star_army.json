@@ -1,0 +1,29 @@
+{
+  "_id": 114087,
+  "id": "clarion_of_the_pale_star_army",
+  "name": "Hiệu Lệnh Của Quân Sao Nhạt",
+  "description": "\"Kẻ thù của chúng ta, Monomakh, đã xây dựng cung điện bên ngoài thung lũng, điều đó có nghĩa là hắn hoàn toàn tự tin khi đối đầu với chúng ta.\"<br/>\"Bây giờ xem ra, hắn đáng để chúng ta hết sức đề phòng. Không cần phải nhắc lại về chuyện đánh nhanh thắng nhanh nữa.\"<br/>\"Nhưng không sao, vị vua dùng trí tuệ dẫn dắt muôn loài chắc chắn sẽ cùng các bộ tộc vượt qua mọi gian nan, tiến về kỷ nguyên mới huy hoàng!\"",
+  "source": [
+    "Số lượng có thể ghép - chiếm chỗ: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114086,
+        "id": "muster_of_the_pale_star_army",
+        "name": "Tập Kết Của Quân Sao Nhạt",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Bí Cảnh Luyện Võ: Vết Sẹo Vọng Tưởng",
+  "days": [
+    "Thứ 2",
+    "Thứ 5",
+    "Chủ Nhật"
+  ]
+}

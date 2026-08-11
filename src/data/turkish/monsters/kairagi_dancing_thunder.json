@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Samurai_Kairagi_01",
   "description": "Haydutluk yapmaya başlamış samuraylar.\\nDövüş sanatları konusunda oldukça beceriklidir ama çeşitli sebeplerden dolayı bu becerileri kullanamamıştır. Çaresizlikten de kötü yola düşmüştür. Yüzyıllar önce yitip giden Kamuna sanatını kullanarak üretilen kağıt keçelerle kılıcını yıldırım gücüyle donatır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 6,
   "stats": {

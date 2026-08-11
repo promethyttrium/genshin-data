@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Alpha_Fire",
   "description": "Un organismo fúngico con cierta inteligencia. Tiene una gran capacidad de adaptación al entorno.\\nAunque a primera vista parezca que está a punto de explotar, esta criatura es extremadamente gentil. No debería ser peligrosa si se mantiene una distancia prudencial...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

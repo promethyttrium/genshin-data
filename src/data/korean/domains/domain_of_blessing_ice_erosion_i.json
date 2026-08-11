@@ -1,0 +1,80 @@
+{
+  "_id": 4703,
+  "id": "domain_of_blessing_ice_erosion_i",
+  "name": "축성 비경: 빙식 I",
+  "entranceId": 2075,
+  "entranceName": "솟구친 빙하",
+  "description": "겨울바람과 눈보라에 잠식된 황량한 산. 마물이나 범죄자조차 이 끝없는 혹한 속에서는 오래 버티기 어렵다.\n이곳을 점령한 악한 이들을 처치하면 진귀한 성유물을 획득할 수 있을지도 모른다",
+  "regionId": 8,
+  "regionName": "스네즈나야",
+  "recommendedLevel": 59,
+  "unlockRank": 30,
+  "disorder": [
+    "After a character triggers a Cryo-related reaction, all party members' Elemental Mastery is increased by 250 for 10s."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_01",
+  "recommendedElements": [
+    "얼음 원소",
+    "번개 원소",
+    "바람 원소"
+  ],
+  "domainType": "UI_ABYSSUS_RELIC",
+  "domainText": "Artifacts",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "모험 경력",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "모라",
+      "count": "1850"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "호감도 경험치",
+      "count": "15"
+    },
+    {
+      "_id": 400420,
+      "id": "scarlet_proof",
+      "name": "Scarlet Proof",
+      "rarity": 4
+    },
+    {
+      "_id": 400430,
+      "id": "heart_of_the_furnace",
+      "name": "Heart of the Furnace",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 4
+    },
+    {
+      "_id": 400008,
+      "id": "brave_heart",
+      "name": "Brave Heart",
+      "rarity": 4
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 3
+    },
+    {
+      "_id": 400007,
+      "id": "brave_heart",
+      "name": "Brave Heart",
+      "rarity": 3
+    }
+  ],
+  "monsterList": []
+}

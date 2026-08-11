@@ -8,17 +8,21 @@
     "hp": 8,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Other Weapons",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "plata_plama",
       "name": "Plata Plama",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -37,8 +41,10 @@
     {
       "id": "da_plama",
       "name": "Da Plama",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 3 ?.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -51,8 +57,10 @@
     {
       "id": "aba_movo",
       "name": "Aba Movo",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 5 ?.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -72,7 +80,9 @@
       "id": "crudewood_greatshield",
       "name": "Crudewood Greatshield",
       "desc": "(Passive) When the battle begins, this character gains <span style=\"color:#FFFFFFFF\">Crudewood Greatshield</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

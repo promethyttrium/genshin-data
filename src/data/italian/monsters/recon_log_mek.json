@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automi",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Sentry",
   "description": "Uno dei primi Mekautomi di nuova generazione.\\nSi dice che, durante il periodo trascorso all'Istituto di Filosofia Naturale, Guillotin, il Re dei meccanismi abbia creato macchine in grado di simulare l'intelligenza.\\nAnche se non lo ammise mai apertamente, questa diceria ha comunque incoraggiato generazioni e generazioni di ingegneri ambiziosi. Decenni fa, uno di loro annunciò di aver creato una macchina in possesso non solo dell'abilità di formare pensieri semplici, ma anche della capacità di comprendere le emozioni umane. Tuttavia, i suoi risultati non furono mai riconosciuti.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

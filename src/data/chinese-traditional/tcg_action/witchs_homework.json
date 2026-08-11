@@ -1,0 +1,28 @@
+{
+  "_id": 332065,
+  "id": "witchs_homework",
+  "shareId": 618,
+  "name": "「魔女的課業」",
+  "title": "「魔女的課業」",
+  "desc": "「比起在故事的最後關頭突然跳出來機械降神，還是早早就埋下伏筆更容易讓人接受…」",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "相同元素",
+    "card_type": "事件牌",
+    "energy": [
+      {
+        "_id": 1108,
+        "id": "matching_element",
+        "type": "相同元素",
+        "count": 1
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "抽1張「天賦」牌。如果我方牌組中初始包含至少3張「天賦」牌，則賦予手牌中<span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">目前元素骰費用</span></span>最高的隨機1張「天賦」牌<span style=\"color:#FFFFFFFF\">費用降低</span>。"
+    }
+  ]
+}

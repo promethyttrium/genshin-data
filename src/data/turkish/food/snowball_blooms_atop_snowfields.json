@@ -1,0 +1,65 @@
+{
+  "_id": 3706,
+  "id": "snowball_blooms_atop_snowfields",
+  "name": "Karlar Üstünde Kartopu Çiçekleri",
+  "description": "Klasik bir katmanlı salata. Her malzeme ayrı ayrı hazırlanır, ardından aralarına baharatlı ekşi krema sosu yayılarak katmanlar halinde üst üste dizilir. Hazırlandıktan sonra tatların tam olarak kaynaşması için salata genellikle bir süre dinlenmeye bırakılır. Tamamlanan yemek, karlı bir ovada açan Kartopu Çiçeklerine benzer ve adını da buradan alır.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 101280,
+      "id": "snowball_flower",
+      "name": "Kartopu Çiçeği",
+      "amount": 3
+    },
+    {
+      "_id": 100084,
+      "id": "fish",
+      "name": "Balık",
+      "amount": 2
+    },
+    {
+      "_id": 110009,
+      "id": "cheese",
+      "name": "Peynir",
+      "amount": 1
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Kuş Yumurtası",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Saldırı Artırıcı Yemek",
+  "results": {
+    "suspicious": {
+      "_id": 132013,
+      "name": "Karlar Üstünde Kartopu Çiçekleri (Tuhaf)",
+      "description": "Klasik bir katmanlı salata. Uzun süre açıkta beklediği için şekli şemali kaymış. Daha da fenası, içindeki tüm malzemeler adeta kaotik bir göçe çıkıp her katmanın o kendine has lezzetini birbirine katmış... Hâlâ yenilebilir durumda olsa da o kütür kütür salata dokusundan eser kalmamış.",
+      "effect": "300 saniyeliğine tüm grup üyelerinin Saldırısını 160 artırır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    },
+    "normal": {
+      "_id": 132014,
+      "name": "Karlar Üstünde Kartopu Çiçekleri",
+      "description": "Klasik bir katmanlı salata. Her malzeme ayrı ayrı hazırlanır, ardından aralarına baharatlı ekşi krema sosu yayılarak katmanlar halinde üst üste dizilir. Hazırlandıktan sonra tatların tam olarak kaynaşması için salata genellikle bir süre dinlenmeye bırakılır. Tamamlanan yemek, karlı bir ovada açan Kartopu Çiçeklerine benzer ve adını da buradan alır.",
+      "effect": "300 saniyeliğine tüm grup üyelerinin Saldırısını 194 artırır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    },
+    "delicious": {
+      "_id": 132015,
+      "name": "Karlar Üstünde Kartopu Çiçekleri (Lezzetli)",
+      "description": "Klasik bir katmanlı salata. Tabağın kenarını süsleyen Kartopu Çiçekleri çorak bir kış arazisinin ta ucunda açmış gibi duruyor, altın benzeri yoğun yumurta sarısı ise batarken ufku ışığıyla boyayan güneşi andırıyor. Kaşığın boş tabağın dibine çarpana dek bu enfes mutfak eserinin büyüsüne tamamen kapılıp gidiyorsun. \"Hepsini ne ara bitirdim?\" diye soruyor insan kendine.",
+      "effect": "300 saniyeliğine tüm grup üyelerinin Saldırısını 228 artırır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır."
+    },
+    "special": {
+      "_id": 132017,
+      "id": "lakeside_snow_swan",
+      "name": "Göl Kenarında Kar Kuğusu",
+      "description": "Odette'nin özel tarifi. Küçük bir porsiyon salata, sanki ana sahnedeki bir spot ışığıyla aydınlatılmışçasına tabağın ortasında usulca duruyor; her bir özenli katman kendi dans adımlarındaki hassasiyetle dizilmiş. Malzemeler o kadar titizlikle hesaplanmış ki porsiyonun tamamını bitirmek yarınki kilonu hiç etkilemeyecek... Öyleyse hiç durma, hiçbir suçluluk duymadan tadını çıkar!",
+      "effect": "300 saniyeliğine tüm grup üyelerinin Saldırısını 274 artırır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
+      "character": {
+        "id": "odette",
+        "name": "Odette"
+      }
+    }
+  }
+}

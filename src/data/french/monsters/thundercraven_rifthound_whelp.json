@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Ordre de l'Abîme",
   "filename_icon": "UI_MonsterIcon_Hound_Kanis_Electric",
   "description": "Une bête au sang démoniaque capable d'éroder les frontières du monde. L'« Or » les classait comme « Alfisol ».\\nLors des époques précédentes, lorsque des bêtes démoniaques géantes descendaient, de grands essaims de ces monstres les précédaient pour déchiqueter les frontières du monde et ouvrir la voie.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

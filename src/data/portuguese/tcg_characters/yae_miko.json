@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Electro",
+    "weapon": "Catalisador",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3850,
@@ -29,8 +31,10 @@
     {
       "id": "spiritfox_sineater",
       "name": "Kitsune Devora-pecados",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#FFACFFFF\">Dano Electro</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,7 +54,9 @@
       "id": "yakan_evocation_sesshou_sakura",
       "name": "Evocação Yakan: Sesshou Sakura",
       "desc": "Invoca 1 <span style=\"color:#FFFFFFFF\">Sesshou Sakura</span>. Se já houver 1 <span style=\"color:#FFFFFFFF\">Sesshou Sakura</span> em jogo, então aumenta o Dano causado em +1. (Máximo +1)",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "great_secret_art_tenko_kenshin",
       "name": "Grande Arte Secreta: Tenko Kenshin",
-      "desc": "Causa ? pontos de ?. Se houver <span style=\"color:#FFFFFFFF\">Sesshou Sakura</span> ativo, desaparecerá e então gerará <span style=\"color:#FFFFFFFF\">Relâmpago de Kitsune Celestial</span>.",
-      "skillTag": [],
+      "desc": "Causa 4 pontos de <span style=\"color:#FFACFFFF\">Dano Electro</span>. Se houver <span style=\"color:#FFFFFFFF\">Sesshou Sakura</span> ativo, desaparecerá e então gerará <span style=\"color:#FFFFFFFF\">Relâmpago de Kitsune Celestial</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1104,

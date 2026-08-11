@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_Mimik_Electric",
   "description": "元気満々な擬態植物の魔物。雷元素で獲物を攻撃する。\\n元素エネルギーが満タンになると、花冠から強力な電流を放つ。そのため、これを他の用途に利用しようとする学者も存在し…",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

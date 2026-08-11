@@ -1,0 +1,30 @@
+{
+  "_id": 104373,
+  "id": "philosophies_of_glory",
+  "name": "Philosophie des „Ruhms“",
+  "description": "Material zur Verbesserung von Talenten.\\n„Ruhm“ ist der Glaube des Reiches des Eises.\\nRuhm ist die unauslöschliche Flamme auf der Opferschale, die nun mit dem Land aus Wind und Schnee auf Gedeih und Verderb verbunden ist. Die Flamme entfacht edle Leidenschaft. Um ihr ewiges Lodern aufrechtzuerhalten, geben die Menschen bereitwillig ihr Alles.",
+  "source": [
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104372,
+        "id": "guide_to_glory",
+        "name": "Anleitung zum „Ruhm“",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Sphäre des Verständnisses: Gemeinsame Betrachtung IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Mittwoch",
+    "Samstag",
+    "Sonntag"
+  ]
+}

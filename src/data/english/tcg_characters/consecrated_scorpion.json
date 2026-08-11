@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Electro",
+    "weapon": "Other Weapons",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Consecrated Beast"
     ],
     "talent_card": {
       "_id": 5696,
@@ -28,8 +30,10 @@
     {
       "id": "scorpion_strike",
       "name": "Scorpion Strike",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -48,8 +52,10 @@
     {
       "id": "stinging_spine",
       "name": "Stinging Spine",
-      "desc": "Deals ? ?.<br/>Create 1 <span style=\"color:#FFFFFFFF\">Bonecruncher's Energy Block</span> card and randomly place it within the top 2 cards of your deck.",
-      "skillTag": [],
+      "desc": "Deals 3 <span style=\"color:#FFACFFFF\">Electro DMG</span>.<br/>Create 1 <span style=\"color:#FFFFFFFF\">Bonecruncher's Energy Block</span> card and randomly place it within the top 2 cards of your deck.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -62,8 +68,10 @@
     {
       "id": "thunderbore_blast",
       "name": "Thunderbore Blast",
-      "desc": "Deals ? ?. <span style=\"color:#FFFFFFFF\">Discard</span> up to 3 <span style=\"color:#FFFFFFFF\">Bonecruncher's Energy Block</span> cards from your Hand, and create 1 <span style=\"color:#FFFFFFFF\">Thunderbore Trap</span> on the opposing side of the field.",
-      "skillTag": [],
+      "desc": "Deals 3 <span style=\"color:#FFACFFFF\">Electro DMG</span>. <span style=\"color:#FFFFFFFF\">Discard</span> up to 3 <span style=\"color:#FFFFFFFF\">Bonecruncher's Energy Block</span> cards from your Hand, and create 1 <span style=\"color:#FFFFFFFF\">Thunderbore Trap</span> on the opposing side of the field.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -83,7 +91,9 @@
       "id": "immortal_remnants_electro",
       "name": "Immortal Remnants: Electro",
       "desc": "(Passive) When the Round ends, create 2 <span style=\"color:#FFFFFFFF\">Bonecruncher's Energy Block</span> cards and randomly place them within the top 10 cards of your deck.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

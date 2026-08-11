@@ -1,0 +1,40 @@
+{
+  "_id": 25130201,
+  "id": "winged_soarer_knight",
+  "monsterId": 25130302,
+  "name": "Geflügelter Flugtanz-Kämpfer",
+  "specialNames": [
+    "Geflügelter Flugtanz-Kämpfer"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystische Bestien",
+  "filename_icon": "UI_MonsterIcon_Human_Girl_Vila_Blade",
+  "description": "Eine geflügelte Vila, die in der Lage ist, mit eben jenen Flügeln durch die Lüfte zu fliegen.\\nEs heißt, der Klan der Vila sei ein Feenklan, der Zar Belyi bereits folgte, als dieser begann, die gesamte Tundra zu vereinen. Ihre Fertigkeit, kurzzeitig durch die Luft zu fliegen, verleiht ihnen beachtliche Mobilität. Sei es, als Späher feindliche Gruppen auszukundschaften oder Überfälle über weite Entfernungen durchzuführen; beides ist für sie ein Leichtes.\\nDie unter Zar Belyi aufgestellte Leibgarde der „Druzhna“ setzte sich zum Großteil aus Vilas zusammen.",
+  "bgm": 1,
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.2,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 4.57189,
+      "attack": 40.552467,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

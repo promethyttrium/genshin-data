@@ -36,7 +36,7 @@
       "_id": 113039,
       "id": "light_guiding_tetrahedron",
       "name": "Light Guiding Tetrahedron",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -151,7 +151,6 @@
   "categoryText": "Automaton",
   "filename_icon": "UI_MonsterIcon_Monolith_Starchild",
   "description": "Mekanisme abadi yang menguasai banyak bangunan peninggalan yang tersebar di padang pasir. Dari dalamnya masih terasa adanya aura-aura dari obsesi raja yang kesepian.\\nMungkin karena ajaran seorang teman dalam mimpinya, atau karena mendambakan kekuatan para suci di langit, raja tersebut menciptakan mekanisme misterius yang seharusnya tidak ada di dunia ini, dan mendirikan kerajaannya di negeri-negeri ini.\\nDi tengah reruntuhan Kota Beribu Pilar, kristal-kristal kuno masih mencerminkan kejayaan tanah kegembiraan emas, meski kini sudah tiada lagi dari seorang yang masih hidup pun yang masih akan mengingat mimpi sang raja.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

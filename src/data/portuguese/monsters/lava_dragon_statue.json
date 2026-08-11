@@ -13,7 +13,6 @@
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_LavaTitan",
   "description": "Um monstro que pode gerar continuamente calor para suprir suas atividades.\\nAs lendas dizem que esses monstros com lava em seus núcleos são produtos de uma distinta linha de Mecanismo Fonte que seguiram deles — pesquisas foram feitas sobre se a chama primordial poderia ser usada para criar uma nova raça baseada nos humanos. Essa pesquisa, sem dúvidas, falhou, pois assim que os carniceiros chegaram com seus tronos de além dos céus, tudo que o Fogo Original podia gerar eram somente cascas vazias cuja força vital nominal não lhes concedia mais consciência do que uma pedra.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

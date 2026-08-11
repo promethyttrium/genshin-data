@@ -1,0 +1,90 @@
+{
+  "_id": 2208,
+  "id": "hydro_hypostasis",
+  "shareId": 610,
+  "name": "Thủy Nguyên Bản",
+  "title": "Thủy Nguyên Bản",
+  "desc": "Sinh vật nguyên tố Thủy cao cấp, có tên gọi là \"He\". Mang bản năng bài trừ rất mạnh, sẽ tuyệt tình xua đuổi những người thử tiếp cận nó.",
+  "attributes": {
+    "hp": 8,
+    "card_type": "Thẻ Nhân Vật",
+    "energy": 2,
+    "element": "Nguyên Tố Thủy",
+    "weapon": "Vũ Khí Khác",
+    "faction": [
+      "Ma Vật"
+    ],
+    "source": "Nhận được sau khi Khiêu Chiến Quán Rượu ở chỗ Tiểu Hoàng Tử trong Quán Rượu Đuôi Mèo, và giành chiến thắng trong độ khó Đánh Giải Trí với Thủy Nguyên Bản"
+  },
+  "skills": [
+    {
+      "id": "droplet_diffusion",
+      "name": "Giọt Nước Lan Tỏa",
+      "desc": "Gây 1 điểm <span style=\"color:#80C0FFFF\">Sát Thương Nguyên Tố Thủy</span>.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Nguyên Tố Thủy",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Nguyên Tố Không Màu",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "surging_tides",
+      "name": "Dòng Chảy Cuồn Cuộn",
+      "desc": "Gây 2 điểm <span style=\"color:#80C0FFFF\">Sát Thương Nguyên Tố Thủy</span>, sau đó <span style=\"color:#FFFFFFFF\">Chuẩn Bị Kỹ Năng</span>: <span style=\"color:#FFFFFFFF\">Dòng Chảy</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Nguyên Tố Thủy",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "calamitous_tides",
+      "name": "Thủy Triều Tai Họa",
+      "desc": "Gây 3 điểm <span style=\"color:#80C0FFFF\">Sát Thương Nguyên Tố Thủy</span>, triệu hồi <span style=\"color:#FFFFFFFF\">Giọt Nước</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Nguyên Tố Thủy",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Năng Lượng",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "hydro_crystal_core",
+      "name": "Hạt Nhân Thủy Tinh",
+      "desc": "(Bị động) Khi bắt đầu chiến đấu, ban đầu áp dụng <span style=\"color:#FFFFFFFF\">Hạt Nhân Thủy Tinh</span>. Nếu trên sân có <span style=\"color:#FFFFFFFF\">Giọt Nước</span>, khi tiêu hao <span style=\"color:#FFFFFFFF\">Hạt Nhân Thủy Tinh</span> sẽ áp dụng lại <span style=\"color:#FFFFFFFF\">Hạt Nhân Thủy Tinh</span>, đồng thời khiến số lần khả dụng của <span style=\"color:#FFFFFFFF\">Giọt Nước</span> -1.",
+      "skillTag": [
+        "Kỹ Năng Bị Động"
+      ],
+      "points": []
+    }
+  ]
+}

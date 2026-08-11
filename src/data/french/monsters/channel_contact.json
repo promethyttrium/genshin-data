@@ -1,0 +1,41 @@
+{
+  "_id": 25132801,
+  "id": "channel_contact",
+  "monsterId": 25132803,
+  "name": "Contact du canal",
+  "specialNames": [
+    "Contact du canal"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bêtes mystiques",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Beaver",
+  "description": "Un volkodlak rusé qui dissimule son canon de poing sous l'apparence d'un tronc d'arbre.\\nDoués pour camoufler leurs armes et leur cargaison, ils sont souvent chargés du transport de marchandises ou de la transmission de renseignements.\\nLe canon de poing qu'ils portent est probablement une création artisanale. Il leur arrive aussi de l'utiliser pour tirer des munitions de signalisation déguisées en feux d'artifice.\\nNe vous fiez pas aux apparences : ces nivéoles sont bien plus rusés et avisés qu'il n'y paraît.",
+  "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 12.801292,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

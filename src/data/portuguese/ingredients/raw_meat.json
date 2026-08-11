@@ -103,6 +103,11 @@
       "name": "Carne Frita com Frutas"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borscht"
+    },
+    {
       "_id": 3004,
       "id": "sticky_honey_roast",
       "name": "Carne Frita com Cenoura e Mel"
@@ -248,6 +253,16 @@
       "name": "Costela de Porco no Bafo"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Carne Braseada na Panela"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Shashliks de Snezhnaya"
+    },
+    {
       "_id": 4001,
       "id": "moon_pie",
       "name": "Torta da Lua"
@@ -307,6 +322,5 @@
   ],
   "source": [
     "Dropado pelos animais"
-  ],
-  "rarity": 0
+  ]
 }

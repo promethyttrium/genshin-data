@@ -8,16 +8,20 @@
     "hp": 4,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Altre armi",
     "faction": [
-      null
+      "Mostro"
     ]
   },
   "skills": [
     {
       "id": "bounce",
       "name": "Rimbalzo",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 1 <span style=\"color:#80C0FFFF\">DAN da Hydro</span>.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -36,8 +40,10 @@
     {
       "id": "slam",
       "name": "Caduta violenta",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 4 <span style=\"color:#80C0FFFF\">DAN da Hydro</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -57,7 +63,9 @@
       "id": "elemental_sedimentation_hydro",
       "name": "Sedimentazione elementale di Hydro",
       "desc": "(Passiva) All'inizio del duello ottiene <span style=\"color:#FFFFFFFF\">Entità elementale di Hydro</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

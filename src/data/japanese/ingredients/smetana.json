@@ -18,6 +18,11 @@
       "name": "鳥肉のホワイトベリー漬け焼き"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "ボルシチ"
+    },
+    {
       "_id": 3601,
       "id": "lakkaberry_krumkakes",
       "name": "ホワイトベリークルムカケ"
@@ -41,10 +46,24 @@
       "_id": 3609,
       "id": "veggie_pot_soup",
       "name": "野菜の缶詰スープ"
+    },
+    {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "肉の壺焼き"
+    },
+    {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "雪国スープ"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "メドヴィク"
     }
   ],
   "source": [
     "食材加工で獲得"
-  ],
-  "rarity": 0
+  ]
 }

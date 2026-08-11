@@ -13,7 +13,6 @@
   "categoryText": "深渊",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_02",
   "description": "主要出现在厄里那斯的奇异生命体。\\n在遇到荒性或芒性能量似乎会受到很强的刺激，因此尽管并不具有很强的攻击性与侵略性，这种手段似乎能够有效驱除隙境原体。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

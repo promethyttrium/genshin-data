@@ -1,0 +1,26 @@
+{
+  "_id": 101281,
+  "id": "rimecurrant",
+  "name": "冰醋栗",
+  "description": "从霜结的冰枝之上，生长出来的风味丰富的浆果。",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "冰醋栗冰淇淋"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "至冬烤串"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "甜滋滋冰淇淋球"
+    }
+  ],
+  "source": [
+    "推荐：至冬采集"
+  ]
+}

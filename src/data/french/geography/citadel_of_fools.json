@@ -1,0 +1,12 @@
+{
+  "_id": 70800036,
+  "id": "citadel_of_fools",
+  "name": "Citadelle des fous",
+  "areaName": "Terre permagelée",
+  "areaId": 80200,
+  "description": "Seuls les plus fous oseraient sans doute renverser la domination céleste, mais seuls les fous ont le cœur et le courage de porter un tel fardeau.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 636,
+  "filename_image": "UI_Codex_Scenery_ZDYuRenZhong"
+}

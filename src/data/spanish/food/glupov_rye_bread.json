@@ -1,0 +1,48 @@
+{
+  "_id": 2702,
+  "id": "glupov_rye_bread",
+  "name": "Pan de centeno de Glupov",
+  "description": "Un trozo de pan contundente. La masa debe pasar por un largo proceso de fermentación a baja temperatura. Una vez que se hornea, se forma una corteza dura y una miga firme y fina. Tras terminar de prepararlo, el pan puede conservarse durante un largo tiempo, lo que lo convierte en un tipo de ración común entre los mercaderes ambulantes, los soldados y los cazadores de Snezhnaya.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 110016,
+      "id": "rye_flour",
+      "name": "Harina de centeno",
+      "amount": 2
+    },
+    {
+      "_id": 100075,
+      "id": "salt",
+      "name": "Sal",
+      "amount": 1
+    },
+    {
+      "_id": 110006,
+      "id": "sugar",
+      "name": "Azúcar",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Platos que regeneran Vida",
+  "results": {
+    "suspicious": {
+      "_id": 132004,
+      "name": "Pan de centeno de Glupov extraño",
+      "description": "Un trozo de pan contundente. Pesa tanto que uno no puede evitar preguntarse si se saltaron por completo el paso de fermentación. Ni siquiera remojándolo en sopa logra ablandarse lo más mínimo... ¿Será que en realidad es una herramienta de entrenamiento para forjar la voluntad de un guerrero?",
+      "effect": "#Restaura un 18% de la Vida Máx. al personaje seleccionado y regenera 300 pts. de Vida cada 5 s durante 30 s."
+    },
+    "normal": {
+      "_id": 132005,
+      "name": "Pan de centeno de Glupov",
+      "description": "Un trozo de pan contundente. La masa debe pasar por un largo proceso de fermentación a baja temperatura. Una vez que se hornea, se forma una corteza dura y una miga firme y fina. Tras terminar de prepararlo, el pan puede conservarse durante un largo tiempo, lo que lo convierte en un tipo de ración común entre los mercaderes ambulantes, los soldados y los cazadores de Snezhnaya.",
+      "effect": "#Restaura un 20% de la Vida Máx. al personaje seleccionado y regenera 390 pts. de Vida cada 5 s durante 30 s."
+    },
+    "delicious": {
+      "_id": 132006,
+      "name": "Pan de centeno de Glupov delicioso",
+      "description": "Un trozo de pan contundente. Con el primer mordisco llega una acidez suave y constante, seguida del aroma rústico y a cereal tan característico del centeno. Tiene una riqueza intensa que hace que cada bocado sea increíblemente satisfactorio, y termina con un dulzor persistente en el fondo de la garganta, como una chispa de vida vibrante enterrada bajo la tierra helada.",
+      "effect": "#Restaura un 22% de la Vida Máx. al personaje seleccionado y regenera 470 pts. de Vida cada 5 s durante 30 s."
+    }
+  }
+}

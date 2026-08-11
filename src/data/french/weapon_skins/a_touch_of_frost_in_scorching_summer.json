@@ -1,0 +1,16 @@
+{
+  "_id": 380003,
+  "id": "a_touch_of_frost_in_scorching_summer",
+  "name": "Soupçon de fraîcheur en été caniculaire !",
+  "description": "#Un petit cadeau des jack frost à leurs ami{F#e}s ! Ça a l'air délicieux, un peu comme de la confiture de fruits rouges. Une bouchée, et une fraîcheur intense et une douce saveur sucrée s'entremêleraient sûrement sur votre langue... Si seulement c'était vraiment comestible ! En tout cas, ça a l'air vraiment appétissant...",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Épée à une main"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341803,
+  "icon_path": "UI_EquipIcon_Sword_Icecream",
+  "image_path": "UI_Gacha_EquipIcon_Sword_Icecream"
+}

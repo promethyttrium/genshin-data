@@ -1,0 +1,21 @@
+{
+  "_id": 330004,
+  "id": "starlight_of_fylkir_sublimation",
+  "name": "Luz Estelar de Fylkir: Culminación",
+  "description": "Un espléndido miraje de lanza procedente de las profundidades de las líneas ley, y que brilla con la luz de la “eternidad”. Puede cambiar según el tipo elemental de su portador. Dicen que, en una época tan remota que ya nadie puede recordar, una emisaria de los cielos otorgó esta lanza áurea a la suma sacerdotisa de Sal Vindagnyr para concederle el derecho de guiar a la ciudad-Estado antes de que quedara sepultada en una escarcha plateada.",
+  "rarity": 5,
+  "type": {
+    "id": "Polearm",
+    "name": "Lanza"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1004,
+    "name": "Ilusión resplandeciente: Eternidad (culminación)",
+    "priority": 2
+  },
+  "item_id": 341304,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphFylkir_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphFylkir_Great"
+}

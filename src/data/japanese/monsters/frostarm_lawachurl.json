@@ -13,7 +13,6 @@
   "categoryText": "ヒルチャール部族",
   "filename_icon": "UI_MonsterIcon_Brute_Ice_01",
   "description": "雪の中を彷徨う謎の「王者」。\\n同胞から「Lawa」と呼ばれる巨大なヒルチャール。極上まで鍛えた肉体は、周囲の溢れた氷と融合したかのようで、その威厳はまるで北国の氷河のようだ。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Outras Armas",
     "faction": [
-      null
+      "Fatui"
     ],
     "talent_card": {
       "_id": 6325,
@@ -27,8 +29,10 @@
     {
       "id": "swift_point",
       "name": "Ponto Ligeiro",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -47,8 +51,10 @@
     {
       "id": "frosty_interjection",
       "name": "Interceptação Gelada",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#99FFFFFF\">Dano Cryo</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -61,8 +67,10 @@
     {
       "id": "thorny_onslaught",
       "name": "Arremetida de Espinhos",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?. Esse personagem ganha <span style=\"color:#FFFFFFFF\">Ataque Poderoso</span>.",
-      "skillTag": [],
+      "desc": "Causa 5 pontos de <span style=\"color:#99FFFFFF\">Dano Cryo</span>. Esse personagem ganha <span style=\"color:#FFFFFFFF\">Ataque Poderoso</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -82,7 +90,9 @@
       "id": "bloodbonded_shadow",
       "name": "Sombra Sanguinária",
       "desc": "(Passivo) <span style=\"color:#FFFFFFFF\">Após esse personagem usar uma Habilidade:</span> Aplica <span style=\"color:#FFFFFFFF\">Contrato de Vida</span> ao Personagem em Combate adversário com <span style=\"color:#FFFFFFFF\">Usos</span> igual a (Dano total finalizado dessa Habilidade -2). (Máximo de 5 acúmulos)",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Passiva"
+      ],
       "points": []
     }
   ]

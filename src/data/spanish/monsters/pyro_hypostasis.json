@@ -13,7 +13,6 @@
   "categoryText": "Seres elementales",
   "filename_icon": "UI_MonsterIcon_Effigy_Fire",
   "description": "Nombre en clave: Ayin. Un ser Pyro de alta pureza.\\nSegún las investigaciones, hay una relación estrecha entre los Hipóstasis y las anormalidades en la energía elemental de los alrededores. Sin embargo, los estudios no son concluyentes en si los Hipóstasis provocaron las anomalías, o si las fluctuaciones de energía dieron origen a los Hipóstasis.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

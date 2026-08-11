@@ -43,7 +43,6 @@
   "categoryText": "Hilichurl-Stämme",
   "filename_icon": "UI_MonsterIcon_Brute_None_01",
   "description": "Ein stämmiger Hilichurl, der eine Zweihänder-Axt führt.\\nEr attackiert mit heftigen, tödlichen Schlägen und steckt seine Axt mit Pyro-Schleimen in Brand.\\nSchreckt ein Mitachurl mit Feueraxt seine Waffe wiederholt ab, schwächt dies das Metall, sodass es leichter bricht. Doch selbst wenn die Schneide ganz abbricht, kann er die Axt immer noch als Hammer gebrauchen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

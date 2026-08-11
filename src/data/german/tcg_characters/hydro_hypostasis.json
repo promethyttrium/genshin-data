@@ -1,0 +1,90 @@
+{
+  "_id": 2208,
+  "id": "hydro_hypostasis",
+  "shareId": 610,
+  "name": "Hydro-Hypostase",
+  "title": "Hydro-Hypostase",
+  "desc": "Ein hoch entwickeltes Hydro-Lebewesen mit dem Decknamen „He“. Es hat sehr starke Abstoßungseigenschaften und jagt jeden gnadenlos fort, der sich erdreistet, es herauszufordern.",
+  "attributes": {
+    "hp": 8,
+    "card_type": "Figurenkarte",
+    "energy": 2,
+    "element": "Hydro",
+    "weapon": "Andere Waffen",
+    "faction": [
+      "Monster"
+    ],
+    "source": "Nach einem gewonnenen „Duell – Nett“ mit Hydro-Hypostase in der Tavernen-Herausforderung bei „Prinz“ in der Taverne Zum Katzenschwanz zu erhalten."
+  },
+  "skills": [
+    {
+      "id": "droplet_diffusion",
+      "name": "Wassertropfen-Kugel",
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#80C0FFFF\">Hydro-SCH</span>.",
+      "skillTag": [
+        "Standardangriff"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Hydro",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Würfel (beliebig)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "surging_tides",
+      "name": "Tosende Wellen",
+      "desc": "Verursacht 2 Pkt. <span style=\"color:#80C0FFFF\">Hydro-SCH</span>, <span style=\"color:#FFFFFFFF\">bereitet folgende Fähigkeiten vor</span>: <span style=\"color:#FFFFFFFF\">Überschwemmung</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Hydro",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "calamitous_tides",
+      "name": "Flut des Unheils",
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#80C0FFFF\">Hydro-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Wassertropfen</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Hydro",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Aufladung",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "hydro_crystal_core",
+      "name": "Hydro-Kristallkern",
+      "desc": "Passiv – Erhält zu Beginn des Kampfes <span style=\"color:#FFFFFFFF\">Hydro-Kristallkern</span>.<br/>Wenn <span style=\"color:#FFFFFFFF\">Wassertropfen</span> auf dem Feld ist: Verleiht der Figur beim Verbrauchen von <span style=\"color:#FFFFFFFF\">Hydro-Kristallkern</span> erneut <span style=\"color:#FFFFFFFF\">Hydro-Kristallkern</span> und reduziert die Einsatzmöglichkeit von <span style=\"color:#FFFFFFFF\">Wassertropfen</span> um 1.",
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
+      "points": []
+    }
+  ]
+}

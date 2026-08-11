@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Outras Armas",
     "faction": [
-      null
+      "Monstro"
     ],
     "source": "Recompensa por aceitar o Desafio da Taverna na Cauda do Gato e conquistar a vitória em uma Partida Amistosa com Tirano Qucussauro da Chama Dourada"
   },
@@ -18,8 +20,10 @@
     {
       "id": "wingcleave",
       "name": "Corte de Asa",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -38,8 +42,10 @@
     {
       "id": "rising_scorchwind",
       "name": "Vapor Ascendente",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ? e aplica 2 acúmulos de <span style=\"color:#FFFFFFFF\">Redemoinho Voador</span> a si.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#FF9999FF\">Dano Pyro</span> e aplica 2 acúmulos de <span style=\"color:#FFFFFFFF\">Redemoinho Voador</span> a si.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -52,8 +58,10 @@
     {
       "id": "goldflame_detonation",
       "name": "Explosão da Chama Dourada",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ? e causa 1 de <span style=\"color:#FFFFFFFF\">Dano Perfurante</span> a todos os personagens adversários fora de combate. Aplica 1 acúmulo de <span style=\"color:#FFFFFFFF\">Estado da Chama Dourada</span> a si.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#FF9999FF\">Dano Pyro</span> e causa 1 de <span style=\"color:#FFFFFFFF\">Dano Perfurante</span> a todos os personagens adversários fora de combate. Aplica 1 acúmulo de <span style=\"color:#FFFFFFFF\">Estado da Chama Dourada</span> a si.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -73,7 +81,9 @@
       "id": "ancient_bloodline",
       "name": "Linhagem Sanguínea Antiga",
       "desc": "(Passivo) <span style=\"color:#FFFFFFFF\">No início de Fases de Ação de número par,</span> aplica 1 acúmulo de <span style=\"color:#FFFFFFFF\">Estado da Chama Dourada</span> a si.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Passiva"
+      ],
       "points": []
     }
   ]

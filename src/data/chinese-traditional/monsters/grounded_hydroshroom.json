@@ -33,13 +33,13 @@
       "_id": 112063,
       "id": "dormant_fungal_nucleus",
       "name": "休眠菌核",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112062,
       "id": "inactivated_fungal_nucleus",
       "name": "失活菌核",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112061,
@@ -57,16 +57,15 @@
       "_id": 112059,
       "id": "fungal_spores",
       "name": "蕈獸孢子",
-      "count": 0.2101
+      "count": 0.21
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water",
   "description": "孢子構成的擬態生物，具有強大的環境適應能力。\\n看起來像是鳥類，不過似乎並沒有掌握飛行的能力。或許是因為水元素的影響，與同類相比其行動異常敏捷。也有研究推斷這種蕈獸實際上是由無數細小的孢子集結構成的菌株，並不是純粹單一的生命體。 \\n在蕈獸群落中佔有主導地位，顯示出其擁有著更高的智能。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

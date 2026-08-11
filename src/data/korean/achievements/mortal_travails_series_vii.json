@@ -1,0 +1,32 @@
+{
+  "_id": 71,
+  "id": "mortal_travails_series_vii",
+  "name": "속세 순유·제7집",
+  "order": 9,
+  "achievements": [
+    {
+      "id": 80525,
+      "name": "얼음바람의 진혼곡",
+      "desc": "「얼음」 원소의 힘 터득하기",
+      "reward": 5,
+      "hidden": false,
+      "order": 484
+    },
+    {
+      "id": 80526,
+      "name": "밤을 가르는 노랫소리",
+      "desc": "《극지의 별 무용극》 전집 모으기",
+      "reward": 5,
+      "hidden": false,
+      "order": 485
+    },
+    {
+      "id": 80528,
+      "name": "망자 이야기",
+      "desc": "《스네즈나야 역사》 전집 모으기",
+      "reward": 5,
+      "hidden": false,
+      "order": 487
+    }
+  ]
+}

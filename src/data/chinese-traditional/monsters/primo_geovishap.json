@@ -14,7 +14,6 @@
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_Drake_Primo_Rock",
   "description": "經歷了長久歲月，擁有偉大力量的巨大岩龍蜥，能夠適應元素環境的異變。\\n根據民話，導致天遒谷毀滅的「龍災」發生後，岩龍蜥與古岩龍蜥的王者被禁錮在大地深處，而牠們則在地殼之下休眠，等待著復起的時機…",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

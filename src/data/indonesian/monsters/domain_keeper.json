@@ -25,19 +25,19 @@
       "_id": 112142,
       "id": "jeweled_flaming_hilt",
       "name": "Jeweled Flaming Hilt",
-      "count": 0.2626
+      "count": 0.262
     },
     {
       "_id": 112141,
       "id": "fractured_flaming_hilt",
       "name": "Fractured Flaming Hilt",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112140,
       "id": "faded_flaming_hilt",
       "name": "Faded Flaming Hilt",
-      "count": 3.9394
+      "count": 3.939
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Automaton",
   "filename_icon": "UI_MonsterIcon_Watcher_Normal_01",
   "description": "Konstruksi bayangan yang terlahir dari luapan makhluk purba perkasa, berdiri sebagai penjaga Pillar Hall yang mengangkasa.\\nSebagai penjaga Pillar Hall of Space, meski telah diberikan \"mata\", tapi dia tetap hanya bisa memuji \"bentuk\" realitas sejati dan tak sanggup melihat menembus berbagai fenomena di dunia ini. Oleh sebab itu, dia tidak dianggap sebagai malaikat untuk jenisnya. Entah kontradiksi semacam itu merupakan rancangan yang disengaja dari penalaran penciptanya, atau apakah pemilik yang dilayaninya akhirnya gagal memahami kehendak makhluk purba, mungkin sudah tidak mungkin lagi menguak misteri ini.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

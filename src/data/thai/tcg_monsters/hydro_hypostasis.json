@@ -1,0 +1,88 @@
+{
+  "_id": 4214,
+  "id": "hydro_hypostasis",
+  "shareId": 4214,
+  "name": "Hydro Hypostasis",
+  "desc": "",
+  "attributes": {
+    "hp": 40,
+    "card_type": "การ์ดตัวละคร",
+    "energy": 2,
+    "element": "ธาตุน้ำ",
+    "weapon": "อาวุธอื่น ๆ",
+    "faction": [
+      "มอนสเตอร์"
+    ]
+  },
+  "skills": [
+    {
+      "id": "droplet_diffusion",
+      "name": "Droplet Diffusion",
+      "desc": "สร้าง<span style=\"color:#80C0FFFF\">ความเสียหายน้ำ</span> 1 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "ธาตุน้ำ",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "ธาตุไร้สี",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "surging_tides",
+      "name": "Surging Tides",
+      "desc": "สร้าง<span style=\"color:#80C0FFFF\">ความเสียหายน้ำ</span> 2 หน่วย จากนั้นจะ<span style=\"color:#FFFFFFFF\">เตรียมสกิล</span>: <span style=\"color:#FFFFFFFF\">Overflow</span>",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "ธาตุน้ำ",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "calamitous_tides",
+      "name": "Calamitous Tides",
+      "desc": "สร้าง<span style=\"color:#80C0FFFF\">ความเสียหายน้ำ</span> 3 หน่วย และเรียก <span style=\"color:#FFFFFFFF\">Water Droplet</span>",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "ธาตุน้ำ",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "พลังงาน",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "hydro_crystal_core",
+      "name": "Hydro Crystal Core",
+      "desc": "[ติดตัว] เมื่อเริ่มการต่อสู้ ในตอนแรกเริ่มจะได้รับ <span style=\"color:#FFFFFFFF\">Hydro Crystal Core</span> หากบนสนามมี <span style=\"color:#FFFFFFFF\">Water Droplet</span> เมื่อใช้ <span style=\"color:#FFFFFFFF\">Hydro Crystal Core</span> จะได้รับ <span style=\"color:#FFFFFFFF\">Hydro Crystal Core</span> อีกครั้ง และทำให้ <span style=\"color:#FFFFFFFF\">Water Droplet</span> มีจำนวนครั้งที่ใช้ได้ -1",
+      "skillTag": [
+        "สกิลติดตัว"
+      ],
+      "points": []
+    }
+  ]
+}

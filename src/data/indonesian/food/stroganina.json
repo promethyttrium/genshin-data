@@ -1,0 +1,42 @@
+{
+  "_id": 2701,
+  "id": "stroganina",
+  "name": "Stroganina",
+  "description": "Potongan panjang ikan yang diiris tipis. Dipotong menggunakan pisau tajam secara menyudut di permukaan ikan beku yang utuh, menghasilkan serutan tipis yang melengkung. Biasanya disajikan dengan garam kasar, ini adalah hidangan dingin mentah yang umum di Snezhnaya.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 100084,
+      "id": "fish",
+      "name": "Fish",
+      "amount": 3
+    },
+    {
+      "_id": 100075,
+      "id": "salt",
+      "name": "Salt",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Makanan Penyerangan",
+  "results": {
+    "suspicious": {
+      "_id": 108991,
+      "name": "Suspicious Stroganina",
+      "description": "Potongan panjang ikan yang diiris tipis. Bagian yang lebih tebalnya terlalu beku sampai bisa merusak gigi, sementara bagian yang lebih tipisnya sudah mencair ... Tapi di bawah suhu beku Snezhnaya, mungkin kamu tidak perlu khawatir akan sakit perut.",
+      "effect": "Meningkatkan 66 ATK seluruh anggota party selama 300 detik. Dalam Mode Co-Op, efek ini hanya berlaku untuk Karaktermu sendiri."
+    },
+    "normal": {
+      "_id": 108992,
+      "name": "Stroganina",
+      "description": "Potongan panjang ikan yang diiris tipis. Dipotong menggunakan pisau tajam secara menyudut di permukaan ikan beku yang utuh, menghasilkan serutan tipis yang melengkung. Biasanya disajikan dengan garam kasar, ini adalah hidangan dingin mentah yang umum di Snezhnaya.",
+      "effect": "Meningkatkan 81 ATK seluruh anggota party selama 300 detik. Dalam Mode Co-Op, efek ini hanya berlaku untuk Karaktermu sendiri."
+    },
+    "delicious": {
+      "_id": 108993,
+      "name": "Delicious Stroganina",
+      "description": "Potongan panjang ikan yang diiris tipis. Lembaran daging setipis kertas ditumpuk di atas piring bagaikan sekumpulan kecil kelopak bunga ukiran es. Memasukkannya sepotong ke dalam mulut, maka rasa manis yang bersih dan renyah akan menyentuh ujung lidah dengan kesegaran layaknya salju yang mencair.",
+      "effect": "Meningkatkan 95 ATK seluruh anggota party selama 300 detik. Dalam Mode Co-Op, efek ini hanya berlaku untuk Karaktermu sendiri."
+    }
+  }
+}

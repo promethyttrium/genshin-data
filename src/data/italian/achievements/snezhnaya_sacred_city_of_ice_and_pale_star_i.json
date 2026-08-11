@@ -1,0 +1,182 @@
+{
+  "_id": 69,
+  "id": "snezhnaya_sacred_city_of_ice_and_pale_star_i",
+  "name": "Snezhnaya: La città sacra del ghiaccio e della Candida Stella (I)",
+  "order": 72,
+  "achievements": [
+    {
+      "id": 80504,
+      "name": "Esplorazione continentale: Nazione ammantata di neve (I)",
+      "desc": "Illumina le mappe delle seguenti aree di Snezhnaya: Terra del Geleterno, Tundra dei Volkodlak, Valle Piumafiamma, Tomba innevata della Betulla bianca e Picco Gelotruce.",
+      "reward": 5,
+      "hidden": false,
+      "order": 463
+    },
+    {
+      "id": 80505,
+      "name": "Attraverso la gelida landa innevata (I)",
+      "desc": "Sblocca tutti i Portali delle seguenti aree di Snezhnaya: Terra del Geleterno, Tundra dei Volkodlak, Valle Piumafiamma, Tomba innevata della Betulla bianca e Picco Gelotruce.",
+      "reward": 5,
+      "hidden": false,
+      "order": 464
+    },
+    {
+      "id": 80506,
+      "name": "Pellegrinaggio al santuario: Nazione ammantata di neve (I)",
+      "desc": "Sblocca tutti i Santuari delle Profondità delle seguenti aree di Snezhnaya: Terra del Geleterno, Tundra dei Volkodlak, Valle Piumafiamma, Tomba innevata della Betulla bianca e Picco Gelotruce.",
+      "reward": 10,
+      "hidden": false,
+      "order": 465
+    },
+    {
+      "id": 80507,
+      "name": "Pallido e lucente come il ghiaccio",
+      "desc": "Potenzia le Statue dei Sette a Snezhnaya al livello massimo.",
+      "reward": 20,
+      "hidden": false,
+      "order": 466
+    },
+    {
+      "id": 80508,
+      "name": "Dono del Regno delle Ombre: Nazione ammantata di neve (I)",
+      "desc": "Sblocca tutte le stanze dei tesori del Regno delle Ombre delle seguenti aree di Snezhnaya: Terra del Geleterno, Tundra dei Volkodlak, Valle Piumafiamma, Tomba innevata della Betulla bianca e Picco Gelotruce.",
+      "reward": 10,
+      "hidden": false,
+      "order": 467
+    },
+    {
+      "id": 80509,
+      "name": "Guida della tundra (I)",
+      "desc": "Segui 3 Seelie fino ai loro piedistalli nella Terra del Geleterno, nella Tundra dei Volkodlak, nella Valle Piumafiamma, nella Tomba innevata della Betulla bianca e sul Picco Gelotruce.",
+      "reward": 5,
+      "hidden": false,
+      "order": 468
+    },
+    {
+      "id": 80510,
+      "name": "Guida della tundra (I)",
+      "desc": "Segui 5 Seelie fino ai loro piedistalli nella Terra del Geleterno, nella Tundra dei Volkodlak, nella Valle Piumafiamma, nella Tomba innevata della Betulla bianca e sul Picco Gelotruce.",
+      "reward": 10,
+      "hidden": false,
+      "order": 469,
+      "preStage": 80509
+    },
+    {
+      "id": 80511,
+      "name": "Guida della tundra (I)",
+      "desc": "Segui 10 Seelie fino ai loro piedistalli nella Terra del Geleterno, nella Tundra dei Volkodlak, nella Valle Piumafiamma, nella Tomba innevata della Betulla bianca e sul Picco Gelotruce.",
+      "reward": 20,
+      "hidden": false,
+      "order": 470,
+      "preStage": 80510
+    },
+    {
+      "id": 80512,
+      "name": "Caccia al tesoro nel gelo (I)",
+      "desc": "Apri 65 bauli nella Terra del Geleterno, nella Tundra dei Volkodlak, nella Valle Piumafiamma, nella Tomba innevata della Betulla bianca e sul Picco Gelotruce.",
+      "reward": 5,
+      "hidden": false,
+      "order": 471
+    },
+    {
+      "id": 80513,
+      "name": "Caccia al tesoro nel gelo (I)",
+      "desc": "Apri 130 bauli nella Terra del Geleterno, nella Tundra dei Volkodlak, nella Valle Piumafiamma, nella Tomba innevata della Betulla bianca e sul Picco Gelotruce.",
+      "reward": 10,
+      "hidden": false,
+      "order": 472,
+      "preStage": 80512
+    },
+    {
+      "id": 80514,
+      "name": "Caccia al tesoro nel gelo (I)",
+      "desc": "Apri 260 bauli nella Terra del Geleterno, nella Tundra dei Volkodlak, nella Valle Piumafiamma, nella Tomba innevata della Betulla bianca e sul Picco Gelotruce.",
+      "reward": 20,
+      "hidden": false,
+      "order": 473,
+      "preStage": 80513
+    },
+    {
+      "id": 80515,
+      "name": "Avventure glaciali (I)",
+      "desc": "Completa 6 sfide a tempo del mondo di gioco nella Terra del Geleterno, nella Tundra dei Volkodlak, nella Valle Piumafiamma, alla Tomba innevata della Betulla bianca e sul Picco Gelotruce.",
+      "reward": 5,
+      "hidden": false,
+      "order": 474
+    },
+    {
+      "id": 80516,
+      "name": "Avventure glaciali (I)",
+      "desc": "Completa 12 sfide a tempo del mondo di gioco nella Terra del Geleterno, nella Tundra dei Volkodlak, nella Valle Piumafiamma, alla Tomba innevata della Betulla bianca e sul Picco Gelotruce.",
+      "reward": 10,
+      "hidden": false,
+      "order": 475,
+      "preStage": 80515
+    },
+    {
+      "id": 80517,
+      "name": "Avventure glaciali (I)",
+      "desc": "Completa 24 sfide a tempo del mondo di gioco nella Terra del Geleterno, nella Tundra dei Volkodlak, nella Valle Piumafiamma, alla Tomba innevata della Betulla bianca e sul Picco Gelotruce.",
+      "reward": 20,
+      "hidden": false,
+      "order": 476,
+      "preStage": 80516
+    },
+    {
+      "id": 80518,
+      "name": "Scala d'amore",
+      "desc": "Completa \"Esperidi d'amore e odio\".",
+      "reward": 10,
+      "hidden": false,
+      "order": 477
+    },
+    {
+      "id": 80519,
+      "name": "Raccolta per la felicità eterna",
+      "desc": "Completa \"Nella dimora della vita\".",
+      "reward": 10,
+      "hidden": false,
+      "order": 478
+    },
+    {
+      "id": 80520,
+      "name": "Mille affetti catturati in un sospiro",
+      "desc": "Impedisci all'\"Umano primordiale\" di trasformare il mondo in un cortile privo di amore o di dolore.",
+      "reward": 10,
+      "hidden": false,
+      "order": 479
+    },
+    {
+      "id": 80521,
+      "name": "La cantante che nasce dalla conchiglia",
+      "desc": "Raggiungi il livello di costruzione massimo al \"Punto d'incontro: Caverna Cantamarea\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 480
+    },
+    {
+      "id": 80522,
+      "name": "Cerca il tuo valore nel mondo della veglia",
+      "desc": "Raggiungi il livello di costruzione massimo al \"Punto d'incontro: Baita del Cacciatore\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 481
+    },
+    {
+      "id": 80523,
+      "name": "Glorificazione dell'Eletta",
+      "desc": "Raggiungi il livello di costruzione massimo al \"Punto d'incontro: Teatro Korolevskiy\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 482
+    },
+    {
+      "id": 80529,
+      "name": "Dischiudi le palpebre cullate dalla notte",
+      "desc": "Completa la ricostruzione di Rankova Zorya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 488
+    }
+  ]
+}

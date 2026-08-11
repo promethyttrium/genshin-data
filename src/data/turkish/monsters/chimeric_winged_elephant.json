@@ -1,0 +1,39 @@
+{
+  "_id": 26310301,
+  "id": "chimeric_winged_elephant",
+  "monsterId": 26310302,
+  "name": "Kimerik Kanatlı Fil",
+  "specialNames": [
+    "Kimerik Kanatlı Fil"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Efsanevi Canavarlar",
+  "filename_icon": "UI_MonsterIcon_Chimera_ElephantBird",
+  "description": "Bir zamanlar donmuş topraklarda yaygın olarak bulunan, biyosimya sonucu oluşmuş bir sapkın kimerik canavar.\\nKanatlı ve kısa bacaklı bir fil, arazi sebepli kısıtlamalardan etkilenmeden göç edebilir ve daha yüksek yerlerde büyüyen meyvelere ulaşabilir.\\nYaratıcısı sadece bu amaç uğruna böyle bir canavarı var etti. Kimerik Kanatlı Filler, daha sonra karanlık dalgaya karşı yürütülen savaşta istihbarat ve iletişim konularında Vila ile birlikte çalışarak Çar Belyi'nin emirlerinin ilerleyen ordusuna sorunsuz ve hızlı bir şekilde iletilmesini sağladı.",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.2,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 5.486268,
+      "attack": 54.069954,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

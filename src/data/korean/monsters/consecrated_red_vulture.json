@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "돌연변이 마수",
   "filename_icon": "UI_MonsterIcon_Vulture_Sacred_Fire",
   "description": "위대한 존재를 삼켜 기이하게 뒤틀린 청소 동물.\\n성해 짐승이 먹어 치운 유해 중에는 영원히 잠들지 않는 의지를 가진 것들이 있는데 이 의지와 힘은 육체가 살육과 시체를 탐하도록 조종한다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

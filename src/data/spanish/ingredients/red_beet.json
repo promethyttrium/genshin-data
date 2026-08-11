@@ -1,0 +1,26 @@
+{
+  "_id": 101278,
+  "id": "red_beet",
+  "name": "Remolacha roja",
+  "description": "Una planta herbácea capaz de crecer incluso en las tierras heladas. Para sobrevivir en un entorno tan hostil, ha desarrollado una raíz carnosa y voluminosa.",
+  "recipes": [
+    {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borsch"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Shashliks de Snezhnaya"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Bolas de helado dulcealegría"
+    }
+  ],
+  "source": [
+    "Recolectar en Snezhnaya"
+  ]
+}

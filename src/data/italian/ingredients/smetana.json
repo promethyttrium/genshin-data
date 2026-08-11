@@ -18,6 +18,11 @@
       "name": "Pollo alle Baccalakka"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borsc"
+    },
+    {
       "_id": 3601,
       "id": "lakkaberry_krumkakes",
       "name": "Krumkake alle Baccalakka"
@@ -41,10 +46,24 @@
       "_id": 3609,
       "id": "veggie_pot_soup",
       "name": "Zuppa di verdure"
+    },
+    {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Okroska del regno innevato"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
     }
   ],
   "source": [
     "Lavorato"
-  ],
-  "rarity": 0
+  ]
 }

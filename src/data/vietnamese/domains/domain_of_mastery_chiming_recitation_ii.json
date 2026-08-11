@@ -18,6 +18,11 @@
     "Thủy",
     "Lôi"
   ],
+  "daysOfWeek": [
+    "Thứ 4",
+    "Thứ 7",
+    "Chủ Nhật"
+  ],
   "domainType": "UI_ABYSSUS_AVATAR_PROUD",
   "domainText": "Talent Level-Up Material",
   "rewardPreview": [

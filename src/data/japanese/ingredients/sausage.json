@@ -13,6 +13,11 @@
   ],
   "recipes": [
     {
+      "_id": 1701,
+      "id": "podvorye_smoked_sausage",
+      "name": "セラーガーデン・スモークソーセージ"
+    },
+    {
       "_id": 2603,
       "id": "nodkrai_hot_dog",
       "name": "ナド・クライ・ホットドッグ"
@@ -45,6 +50,5 @@
   ],
   "source": [
     "食材加工で獲得"
-  ],
-  "rarity": 0
+  ]
 }

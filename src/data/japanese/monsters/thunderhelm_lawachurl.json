@@ -13,7 +13,6 @@
   "categoryText": "ヒルチャール部族",
   "filename_icon": "UI_MonsterIcon_Brute_Electric_01",
   "description": "雷の中を彷徨う謎の「王者」。\\n同胞から「Lawa」と呼ばれる巨大なヒルチャール。巨像のような体には雷元素が豊富に充満しており、体の隙間からは元素エネルギーが電気水晶の形で滲み出している。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

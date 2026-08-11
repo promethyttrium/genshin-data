@@ -1,0 +1,80 @@
+{
+  "_id": 4704,
+  "id": "domain_of_blessing_ice_erosion_ii",
+  "name": "祈聖秘境・氷蝕 II",
+  "entranceId": 2075,
+  "entranceName": "逆さまの氷河",
+  "description": "極冬の風雪に侵蝕された荒山。魔物やならず者でさえ、この永劫の極寒には長く留まれない。\nここを占拠している悪党を倒すことができれば、貴重な聖遺物を獲得できるかもしれない。",
+  "regionId": 8,
+  "regionName": "スネージナヤ",
+  "recommendedLevel": 69,
+  "unlockRank": 35,
+  "disorder": [
+    "After a character triggers a Cryo-related reaction, all party members' Elemental Mastery is increased by 250 for 10s."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_01",
+  "recommendedElements": [
+    "氷元素",
+    "雷元素",
+    "風元素"
+  ],
+  "domainType": "UI_ABYSSUS_RELIC",
+  "domainText": "Artifacts",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "冒険経験",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "モラ",
+      "count": "2025"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "好感度経験値",
+      "count": "20"
+    },
+    {
+      "_id": 400420,
+      "id": "scarlet_proof",
+      "name": "Scarlet Proof",
+      "rarity": 4
+    },
+    {
+      "_id": 400430,
+      "id": "heart_of_the_furnace",
+      "name": "Heart of the Furnace",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 4
+    },
+    {
+      "_id": 400008,
+      "id": "brave_heart",
+      "name": "Brave Heart",
+      "rarity": 4
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 3
+    },
+    {
+      "_id": 400007,
+      "id": "brave_heart",
+      "name": "Brave Heart",
+      "rarity": 3
+    }
+  ],
+  "monsterList": []
+}

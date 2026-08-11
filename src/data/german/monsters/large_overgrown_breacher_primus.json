@@ -13,7 +13,6 @@
   "categoryText": "Der Abgrund",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_01",
   "description": "Eine seltsame Kreatur, die hauptsächlich in Elynas vorkommt.\\nDer Rissprimus sprengt den Rahmen dessen, was an grundlegenden biologischen Merkmalen bekannt ist: Er lässt sich weder den Tieren noch den Pflanzen noch den Pilzen oder den Elementarwesen zuordnen. Die Debatte unter den Sumeru-Gelehrten hat nie einen formellen Konsens darüber erreicht, was genau es ist, bis es schließlich als Forschungsthema verboten wurde. Der Grund dafür ist, dass dieses Problem auf der Grundlage des derzeitigen Wissenssystems wie „die von der Sprache vorgegebenen Definitionen und die wahre Natur der Dinge“ ist und es unmöglich ist, eine sinnvolle, endgültige Antwort zu finden.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

@@ -25,29 +25,27 @@
       "_id": 112103,
       "id": "tyrants_fang",
       "name": "Presa Tirana",
-      "count": 0.0616
+      "count": 0.062
     },
     {
       "_id": 112102,
       "id": "seasoned_fang",
       "name": "Presa Veterana",
-      "count": 0.2465
+      "count": 0.246
     },
     {
       "_id": 112101,
       "id": "juvenile_fang",
       "name": "Presa Juvenil",
-      "count": 0.9244
+      "count": 0.924
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Hookwalker_Small",
   "description": "Yumkassauros jovens têm a habilidade de cuspir Cola de Fogorromã escondida nas bolsas de suas bochechas, envolvendo objetos distantes.\\nSeu controle de objetos revestidos de pectina não é forte o suficiente, nem o senso de equilíbrio deles é bom o bastante para permitir que eles se movam livremente pelo ar. Às vezes, eles até caem de lado só ao sentar em suas caudas. Contudo, um dia, eles crescerão até a forma que pode se balançar livremente entre as árvores sem se preocupar.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

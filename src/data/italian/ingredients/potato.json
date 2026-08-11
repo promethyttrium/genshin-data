@@ -55,6 +55,11 @@
       "name": "Lohikeitto"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borsc"
+    },
+    {
       "_id": 3007,
       "id": "mondstadt_hash_brown",
       "name": "Frittelle di patate di Mondstadt"
@@ -135,6 +140,11 @@
       "name": "Costine di maiale cotte al vapore su legno di betulla"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
       "_id": 4402,
       "id": "haggis",
       "name": "Haggis"
@@ -142,6 +152,5 @@
   ],
   "source": [
     "Acquistabile negli empori"
-  ],
-  "rarity": 0
+  ]
 }

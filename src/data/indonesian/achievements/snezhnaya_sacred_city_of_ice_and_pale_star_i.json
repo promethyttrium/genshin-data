@@ -1,0 +1,182 @@
+{
+  "_id": 69,
+  "id": "snezhnaya_sacred_city_of_ice_and_pale_star_i",
+  "name": "Snezhnaya: Kota Suci Es dan Bintang Pucat (I)",
+  "order": 72,
+  "achievements": [
+    {
+      "id": 80504,
+      "name": "Penjelajah Benua: Bangsa Berselimut Salju (I)",
+      "desc": "Buka peta di Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, dan Fellfrost Peak di wilayah Snezhnaya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 463
+    },
+    {
+      "id": 80505,
+      "name": "Melintasi Hamparan Salju yang Tertutup Es (I)",
+      "desc": "Buka seluruh Teleport Waypoint di Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, dan Fellfrost Peak di wilayah Snezhnaya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 464
+    },
+    {
+      "id": 80506,
+      "name": "Peziarah Tempat Suci: Bangsa Berselimut Salju (I)",
+      "desc": "Buka seluruh Shrine of Depths di Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, dan Fellfrost Peak di wilayah Snezhnaya.",
+      "reward": 10,
+      "hidden": false,
+      "order": 465
+    },
+    {
+      "id": 80507,
+      "name": "Pucat dan Bercahaya Bak Es",
+      "desc": "Tingkatkan Patung The Seven di Snezhnaya ke level tertinggi.",
+      "reward": 20,
+      "hidden": false,
+      "order": 466
+    },
+    {
+      "id": 80508,
+      "name": "Hadiah Alam Bayangan: Bangsa Berselimut Salju (I)",
+      "desc": "Buka seluruh Brankas Harta Karun Alam Bayangan di Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, dan Fellfrost Peak di wilayah Snezhnaya.",
+      "reward": 10,
+      "hidden": false,
+      "order": 467
+    },
+    {
+      "id": 80509,
+      "name": "Tundra Akan Menuntunmu Kembali (I)",
+      "desc": "Ikuti 3 Seelie di Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, dan Fellfrost Peak ke Seelie Court mereka.",
+      "reward": 5,
+      "hidden": false,
+      "order": 468
+    },
+    {
+      "id": 80510,
+      "name": "Tundra Akan Menuntunmu Kembali (I)",
+      "desc": "Ikuti 5 Seelie di Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, dan Fellfrost Peak ke Seelie Court mereka.",
+      "reward": 10,
+      "hidden": false,
+      "order": 469,
+      "preStage": 80509
+    },
+    {
+      "id": 80511,
+      "name": "Tundra Akan Menuntunmu Kembali (I)",
+      "desc": "Ikuti 10 Seelie di Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, dan Fellfrost Peak ke Seelie Court mereka.",
+      "reward": 20,
+      "hidden": false,
+      "order": 470,
+      "preStage": 80510
+    },
+    {
+      "id": 80512,
+      "name": "Pemburu Harta Gletser (I)",
+      "desc": "Buka 65 peti harta karun di Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, dan Fellfrost Peak.",
+      "reward": 5,
+      "hidden": false,
+      "order": 471
+    },
+    {
+      "id": 80513,
+      "name": "Pemburu Harta Gletser (I)",
+      "desc": "Buka 130 peti harta karun di Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, dan Fellfrost Peak.",
+      "reward": 10,
+      "hidden": false,
+      "order": 472,
+      "preStage": 80512
+    },
+    {
+      "id": 80514,
+      "name": "Pemburu Harta Gletser (I)",
+      "desc": "Buka 260 peti harta karun di Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, dan Fellfrost Peak.",
+      "reward": 20,
+      "hidden": false,
+      "order": 473,
+      "preStage": 80513
+    },
+    {
+      "id": 80515,
+      "name": "Petualang Gletser (I)",
+      "desc": "Selesaikan 6 Tantangan Time Trial Open World di Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, dan Fellfrost Peak.",
+      "reward": 5,
+      "hidden": false,
+      "order": 474
+    },
+    {
+      "id": 80516,
+      "name": "Petualang Gletser (I)",
+      "desc": "Selesaikan 12 Tantangan Time Trial Open World di Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, dan Fellfrost Peak.",
+      "reward": 10,
+      "hidden": false,
+      "order": 475,
+      "preStage": 80515
+    },
+    {
+      "id": 80517,
+      "name": "Petualang Gletser (I)",
+      "desc": "Selesaikan 24 Tantangan Time Trial Open World di Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, dan Fellfrost Peak.",
+      "reward": 20,
+      "hidden": false,
+      "order": 476,
+      "preStage": 80516
+    },
+    {
+      "id": 80518,
+      "name": "Tangga Cinta",
+      "desc": "Selesaikan \"Hesperides di Antara Cinta dan Benci\"",
+      "reward": 10,
+      "hidden": false,
+      "order": 477
+    },
+    {
+      "id": 80519,
+      "name": "Berkumpul untuk Kebahagiaan Abadi",
+      "desc": "Selesaikan \"Di Kediaman Kehidupan\".",
+      "reward": 10,
+      "hidden": false,
+      "order": 478
+    },
+    {
+      "id": 80520,
+      "name": "Desah Lesu Puluhan Ribu Cinta",
+      "desc": "Berhasil menghentikan \"Manusia Primordial\" mengubah dunia menjadi sebuah taman yang tidak tersentuh oleh cinta atau kesedihan.",
+      "reward": 10,
+      "hidden": false,
+      "order": 479
+    },
+    {
+      "id": 80521,
+      "name": "Lahirnya Penyanyi dalam Cangkang",
+      "desc": "Capai Level Konstruksi maksimum \"Titik Pengumpulan: Tidesong Cavern\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 480
+    },
+    {
+      "id": 80522,
+      "name": "Memburu Nilai Diri di Dunia yang Tersadar",
+      "desc": "Capai Level Konstruksi maksimum \"Titik Pengumpulan: Huntsman's Cabin\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 481
+    },
+    {
+      "id": 80523,
+      "name": "Terpujilah yang Terpilih",
+      "desc": "Capai Level Konstruksi maksimum \"Titik Pengumpulan: Korolevskiy Theater\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 482
+    },
+    {
+      "id": 80529,
+      "name": "Bukalah Mata yang Tertutup oleh Malam yang Berkeliaran",
+      "desc": "Selesaikan revitalisasi Rankova Zorya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 488
+    }
+  ]
+}

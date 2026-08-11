@@ -1,0 +1,30 @@
+{
+  "_id": 104372,
+  "id": "guide_to_glory",
+  "name": "Guida alla gloria",
+  "description": "Materiale per l'aumento di livello dei talenti.\\nLa gloria è la sacra fede del regno glaciale.\\nEssa è una brace tremolante nella notte fonda, un faro che cattura lo sguardo di tutti coloro che attraversano le distese innevate. Sono certi che la tormenta si placherà e l'alba sorgerà, e che il sentiero che percorrono resterà sempre quello giusto.",
+  "source": [
+    "Segnaposto - Quantità realizzabile: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104371,
+        "id": "teachings_of_glory",
+        "name": "Insegnamenti della gloria",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio della maestria: Visione condivisa IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Mercoledì",
+    "Sabato",
+    "Domenica"
+  ]
+}

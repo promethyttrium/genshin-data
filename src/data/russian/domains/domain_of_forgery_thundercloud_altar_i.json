@@ -16,6 +16,11 @@
   "recommendedElements": [
     "Крио"
   ],
+  "daysOfWeek": [
+    "Понедельник",
+    "Четверг",
+    "Воскресенье"
+  ],
   "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
   "domainText": "Weapon Ascension Materials",
   "rewardPreview": [

@@ -1,0 +1,16 @@
+{
+  "_id": 380003,
+  "id": "a_touch_of_frost_in_scorching_summer",
+  "name": "¡Escarcha para un Verano Ardiente!",
+  "description": "¡Un pequeño regalo de los Jack Frost para sus mejores amigos! Parece delicioso, y hasta tiene pinta de ser de mermelada de bayas... Uno se imagina que, al darle un mordisco, una frescura reconfortante y una dulzura maravillosa se pondrían a bailar juntas en la punta de la lengua, pero en realidad no es comestible... Eso sí, tiene una pinta increíble.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Espada ligera"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341803,
+  "icon_path": "UI_EquipIcon_Sword_Icecream",
+  "image_path": "UI_Gacha_EquipIcon_Sword_Icecream"
+}

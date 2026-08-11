@@ -1,0 +1,330 @@
+{
+  "_id": 11521,
+  "id": "exaiphanes_blade",
+  "name": "Thanh Kiếm Exaiphanes",
+  "description": "Thanh kiếm từng tỏa ra ánh vinh quang của Sao Nhạt. Trong tay người bước lên hành trình, nó đã trở thành ánh sáng hoàn toàn mới không thuộc về bất kỳ thời đại cũ nào.",
+  "rarity": 5,
+  "type": {
+    "id": "Sword",
+    "name": "Kiếm Đơn"
+  },
+  "domain": "Bí Cảnh Luyện Võ: Vết Sẹo Vọng Tưởng",
+  "passive": "Con Đường Lữ Hành",
+  "bonus": "Khi Nhà Lữ Hành trang bị, sau khi đánh trúng kẻ địch, Tấn Công tăng <span>16%/20%/24%/32%/40%</span> trong <span>8/3/5/5/5</span>s, đồng thời Nhà Lữ Hành sẽ hồi phục <span>3</span> điểm Năng Lượng Nguyên Tố. Hiệu quả này mỗi <span>5</span>s tối đa kích hoạt một lần. Nhân vật không ra trận cũng có thể kích hoạt.",
+  "specialProp": "Tỷ Lệ Bạo Kích",
+  "stats": {
+    "primary": "Tấn Công Căn Bản",
+    "secondary": "Tỷ Lệ Bạo Kích",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 46,
+        "secondary": 7.2
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 122,
+        "secondary": 12.7
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 153,
+        "secondary": 12.7
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 235,
+        "secondary": 18.5
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 266,
+        "secondary": 18.5
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 308,
+        "secondary": 21.4
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 340,
+        "secondary": 21.4
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 382,
+        "secondary": 24.4
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 414,
+        "secondary": 24.4
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 457,
+        "secondary": 27.3
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 488,
+        "secondary": 27.3
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 532,
+        "secondary": 30.2
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 563,
+        "secondary": 30.2
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 608,
+        "secondary": 33.1
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 10000,
+      "materials": [
+        {
+          "_id": 114093,
+          "id": "the_frost_emperors_revival",
+          "name": "Hồi Sinh Của Hoàng Đế Băng Giá",
+          "amount": 5,
+          "rarity": 2
+        },
+        {
+          "_id": 112152,
+          "id": "accreted_fragment",
+          "name": "Mảnh Trầm Tích",
+          "amount": 5,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "Vụn Huyền Ảo",
+          "amount": 3,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114094,
+          "id": "the_frost_emperors_ceremony",
+          "name": "Khánh Lễ Của Hoàng Đế Băng Giá",
+          "amount": 5,
+          "rarity": 3
+        },
+        {
+          "_id": 112152,
+          "id": "accreted_fragment",
+          "name": "Mảnh Trầm Tích",
+          "amount": 18,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "Vụn Huyền Ảo",
+          "amount": 12,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114094,
+          "id": "the_frost_emperors_ceremony",
+          "name": "Khánh Lễ Của Hoàng Đế Băng Giá",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112153,
+          "id": "accreted_mass",
+          "name": "Khối Trầm Tích",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Mảnh Huyền Ảo",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114095,
+          "id": "the_frost_emperors_lament",
+          "name": "Bi Thương Của Hoàng Đế Băng Giá",
+          "amount": 5,
+          "rarity": 4
+        },
+        {
+          "_id": 112153,
+          "id": "accreted_mass",
+          "name": "Khối Trầm Tích",
+          "amount": 18,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Mảnh Huyền Ảo",
+          "amount": 14,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 55000,
+      "materials": [
+        {
+          "_id": 114095,
+          "id": "the_frost_emperors_lament",
+          "name": "Bi Thương Của Hoàng Đế Băng Giá",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112154,
+          "id": "accreted_growth",
+          "name": "Thể Tăng Sinh Trầm Tích",
+          "amount": 14,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Pha Lê Huyền Ảo",
+          "amount": 9,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 65000,
+      "materials": [
+        {
+          "_id": 114096,
+          "id": "the_frost_emperors_farewell",
+          "name": "Từ Biệt Của Hoàng Đế Băng Giá",
+          "amount": 6,
+          "rarity": 5
+        },
+        {
+          "_id": 112154,
+          "id": "accreted_growth",
+          "name": "Thể Tăng Sinh Trầm Tích",
+          "amount": 27,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Pha Lê Huyền Ảo",
+          "amount": 18,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "Con Đường Lữ Hành",
+    "template": "Khi Nhà Lữ Hành trang bị, với mỗi loại nguyên tố đã cộng hưởng, Nhà Lữ Hành sẽ tăng 6% Sát Thương Bạo Kích. Ngoài ra, sau khi Nhà Lữ Hành đánh trúng kẻ địch, Tấn Công tăng <span style=\"color:#99FFFFFF\">{0}</span> trong 8s, đồng thời Nhà Lữ Hành sẽ hồi phục <span style=\"color:#99FFFFFF\">{1}</span> điểm Năng Lượng Nguyên Tố. Hiệu quả này mỗi 5s tối đa kích hoạt một lần. Nhân vật không ra trận cũng có thể kích hoạt.",
+    "params": [
+      [
+        "16%",
+        "8",
+        "3",
+        "5"
+      ],
+      [
+        "20%",
+        "3"
+      ],
+      [
+        "24%",
+        "5"
+      ],
+      [
+        "32%",
+        "5"
+      ],
+      [
+        "40%",
+        "5"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "Khi Nhà Lữ Hành trang bị, sau khi đánh trúng kẻ địch, Tấn Công tăng <span>16%</span> trong <span>8</span>s, đồng thời Nhà Lữ Hành sẽ hồi phục <span>3</span> điểm Năng Lượng Nguyên Tố. Hiệu quả này mỗi <span>5</span>s tối đa kích hoạt một lần. Nhân vật không ra trận cũng có thể kích hoạt."
+    },
+    {
+      "refinement": 2,
+      "desc": "Khi Nhà Lữ Hành trang bị, với mỗi loại nguyên tố đã cộng hưởng, Nhà Lữ Hành sẽ tăng 6% Sát Thương Bạo Kích. Ngoài ra, sau khi Nhà Lữ Hành đánh trúng kẻ địch, Tấn Công tăng <span>20%</span> trong 8s, đồng thời Nhà Lữ Hành sẽ hồi phục <span>3</span> điểm Năng Lượng Nguyên Tố. Hiệu quả này mỗi 5s tối đa kích hoạt một lần. Nhân vật không ra trận cũng có thể kích hoạt."
+    },
+    {
+      "refinement": 3,
+      "desc": "Khi Nhà Lữ Hành trang bị, với mỗi loại nguyên tố đã cộng hưởng, Nhà Lữ Hành sẽ tăng 6% Sát Thương Bạo Kích. Ngoài ra, sau khi Nhà Lữ Hành đánh trúng kẻ địch, Tấn Công tăng <span>24%</span> trong 8s, đồng thời Nhà Lữ Hành sẽ hồi phục <span>5</span> điểm Năng Lượng Nguyên Tố. Hiệu quả này mỗi 5s tối đa kích hoạt một lần. Nhân vật không ra trận cũng có thể kích hoạt."
+    },
+    {
+      "refinement": 4,
+      "desc": "Khi Nhà Lữ Hành trang bị, với mỗi loại nguyên tố đã cộng hưởng, Nhà Lữ Hành sẽ tăng 6% Sát Thương Bạo Kích. Ngoài ra, sau khi Nhà Lữ Hành đánh trúng kẻ địch, Tấn Công tăng <span>32%</span> trong 8s, đồng thời Nhà Lữ Hành sẽ hồi phục <span>5</span> điểm Năng Lượng Nguyên Tố. Hiệu quả này mỗi 5s tối đa kích hoạt một lần. Nhân vật không ra trận cũng có thể kích hoạt."
+    },
+    {
+      "refinement": 5,
+      "desc": "Khi Nhà Lữ Hành trang bị, với mỗi loại nguyên tố đã cộng hưởng, Nhà Lữ Hành sẽ tăng 6% Sát Thương Bạo Kích. Ngoài ra, sau khi Nhà Lữ Hành đánh trúng kẻ địch, Tấn Công tăng <span>40%</span> trong 8s, đồng thời Nhà Lữ Hành sẽ hồi phục <span>5</span> điểm Năng Lượng Nguyên Tố. Hiệu quả này mỗi 5s tối đa kích hoạt một lần. Nhân vật không ra trận cũng có thể kích hoạt."
+    }
+  ]
+}

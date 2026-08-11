@@ -13,7 +13,6 @@
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Magbeast_Rhino",
   "description": "Una bestia que ha terminado evolucionando de una forma única debido a la irradiación continuada del antiguo poder de la luna.\\nSe dice que antaño, cuando estas tierras fronterizas estaban envueltas en la sombra de la oscuridad, solo el gran rinoceronte podía traer de vuelta el poder que hacía que todo fluyera a este lugar al cargar con su manada... y que esa fue la única recompensa que les pidió la luz de la luna tras enviar su bendición.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

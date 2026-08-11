@@ -10,7 +10,7 @@
   },
   "domain": "Cour des sables mouvants",
   "passive": "Bains, faucons et enfin Narukami",
-  "bonus": "Après avoir déclenché une réaction de Dispersion, la maîtrise élémentaire augmente de <span>120/150/180/210/240</span> pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de <span>96/120/144/168/192</span> pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de <span>32/40/48/56/64</span> pts pendant 30 s.",
+  "bonus": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, la maîtrise élémentaire augmente de <span>120/150/180/210/240</span> pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de <span>96/120/144/168/192</span> pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de <span>32/40/48/56/64</span> pts pendant 30 s.",
   "specialProp": "Maîtrise élémentaire",
   "stats": {
     "primary": "ATQ de base",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Bains, faucons et enfin Narukami",
-    "template": "Après avoir déclenché une réaction de Dispersion, la maîtrise élémentaire augmente de <span style=\"color:#99FFFFFF\">{0}</span> pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de <span style=\"color:#99FFFFFF\">{1}</span> pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de <span style=\"color:#99FFFFFF\">{2}</span> pts pendant 30 s.",
+    "template": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, la maîtrise élémentaire augmente de <span style=\"color:#99FFFFFF\">{0}</span> pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de <span style=\"color:#99FFFFFF\">{1}</span> pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de <span style=\"color:#99FFFFFF\">{2}</span> pts pendant 30 s.",
     "params": [
       [
         "120",
@@ -312,23 +311,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "Après avoir déclenché une réaction de Dispersion, la maîtrise élémentaire augmente de <span>120</span> pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de <span>96</span> pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de <span>32</span> pts pendant 30 s."
+      "desc": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, la maîtrise élémentaire augmente de <span>120</span> pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de <span>96</span> pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de <span>32</span> pts pendant 30 s."
     },
     {
       "refinement": 2,
-      "desc": "Après avoir déclenché une réaction de Dispersion, la maîtrise élémentaire augmente de <span>150</span> pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de <span>120</span> pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de <span>40</span> pts pendant 30 s."
+      "desc": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, la maîtrise élémentaire augmente de <span>150</span> pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de <span>120</span> pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de <span>40</span> pts pendant 30 s."
     },
     {
       "refinement": 3,
-      "desc": "Après avoir déclenché une réaction de Dispersion, la maîtrise élémentaire augmente de <span>180</span> pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de <span>144</span> pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de <span>48</span> pts pendant 30 s."
+      "desc": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, la maîtrise élémentaire augmente de <span>180</span> pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de <span>144</span> pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de <span>48</span> pts pendant 30 s."
     },
     {
       "refinement": 4,
-      "desc": "Après avoir déclenché une réaction de Dispersion, la maîtrise élémentaire augmente de <span>210</span> pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de <span>168</span> pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de <span>56</span> pts pendant 30 s."
+      "desc": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, la maîtrise élémentaire augmente de <span>210</span> pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de <span>168</span> pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de <span>56</span> pts pendant 30 s."
     },
     {
       "refinement": 5,
-      "desc": "Après avoir déclenché une réaction de Dispersion, la maîtrise élémentaire augmente de <span>240</span> pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de <span>192</span> pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de <span>64</span> pts pendant 30 s."
+      "desc": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, la maîtrise élémentaire augmente de <span>240</span> pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de <span>192</span> pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de <span>64</span> pts pendant 30 s."
     }
   ]
 }

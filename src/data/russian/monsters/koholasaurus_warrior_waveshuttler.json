@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Прочие человеческие фракции",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
   "description": "Могучая воительница Народа Родников, получившая признание за свою храбрость, была награждена заврианской короной.\\nЭта воительница может временно использовать силу волн для быстрого передвижения. По легенде, герои племени с невероятной скоростью перемещаются по волнам без каких-либо инструментов. Сегодня племя считает, что используя сложные, изощрённые движения, можно управлять волнами.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

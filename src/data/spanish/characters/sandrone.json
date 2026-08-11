@@ -41,7 +41,7 @@
       "_id": 11331,
       "id": "formule_phenomenale_selfevident_proposition",
       "name": "Ecuación fenomenológica: Deducción autoevidente",
-      "description": "<span style=\"color:#FFD780FF\">Ataque Normal</span><br/>Realiza hasta 3 tajos consecutivos valiéndose de hilos tejidos con fórmulas matemáticas para controlar su arma.<br/><br/><span style=\"color:#FFD780FF\">Ataque Cargado</span><br/>Convoca a <span style=\"color:#FFD780FF\">Fagio</span>, la Facilitadora Automatizada Generalista Interactiva y Omnitarea, y hace que entre en el modo de <color=#FFD780FF><b>decodificación</b></color>, de manera que realizará un ataque de ráfaga contra los enemigos que tenga enfrente y disparará un rayo criocondensador de forma periódica que inflige <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span>.<br/><span style=\"color:#FFD780FF\">Esplendor: Superconductor Estelar</span><br/>El rayo criocondensador pasará a infligir <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span> considerado como daño de Superconductor Estelar.<br/>En el modo de <span style=\"color:#FFD780FF\">decodificación</span>, la <color=#FFD780FF><b>capacidad de decodificación</b></color> de Fagio aumentará continuamente. Además, al disparar un rayo criocondensador, la <span style=\"color:#FFD780FF\">capacidad de decodificación</span> se incrementará aún más.<br/>Cuando la <span style=\"color:#FFD780FF\">capacidad de decodificación</span> alcance el límite de 100 pts., Fagio entrará en el modo de <span style=\"color:#FFD780FF\">sobrecarga de capacidad</span>, en el que infligirá <span style=\"color:#99FFFFFF\">Daño Cryo</span> a los enemigos en intervalos más largos y no podrá pasar al modo de <span style=\"color:#FFD780FF\">decodificación</span>.<br/>Cuando no esté en el modo de <span style=\"color:#FFD780FF\">decodificación</span>, la <span style=\"color:#FFD780FF\">capacidad de decodificación</span> de Fagio disminuirá lentamente. Cuando Sandrone esté en tu equipo pero no en uso, se centrará en realizar tareas de mantenimiento de Fagio, con lo que la velocidad de disminución de su <span style=\"color:#FFD780FF\">capacidad de decodificación</span> aumentará a un 300% del valor original.<br/>Cuando la <span style=\"color:#FFD780FF\">capacidad de decodificación</span> caiga por debajo de los 50 pts., Fagio saldrá del modo de <span style=\"color:#FFD780FF\">sobrecarga de capacidad</span>.<br/><br/><span style=\"color:#FFD780FF\">Ataque Descendente</span><br/>Se lanza desde el aire para golpear el suelo, atacando a los enemigos que encuentre en su trayecto e infligiendo Daño en el AdE en el momento del impacto.",
+      "description": "<span style=\"color:#FFD780FF\">Ataque Normal</span><br/>Realiza hasta 3 tajos consecutivos valiéndose de hilos tejidos con fórmulas matemáticas para controlar su arma.<br/><br/><span style=\"color:#FFD780FF\">Ataque Cargado</span><br/>Convoca a <span style=\"color:#FFD780FF\">Fagio</span>, la Facilitadora Automatizada Generalista Interactiva y Omnitarea, y hace que entre en el modo de <color=#FFD780FF><b>decodificación</b></color>, de manera que realizará un ataque de ráfaga contra los enemigos que tenga enfrente y disparará un rayo criocondensador de forma periódica que inflige <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span>.<br/><b><span style=\"color:#FFD780FF\">Esplendor: Destello Estelar</span></b><br/>El rayo criocondensador pasará a infligir <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span> considerado como daño de la reacción de Destello Estelar correspondiente.<br/>En el modo de <span style=\"color:#FFD780FF\">decodificación</span>, la <color=#FFD780FF><b>capacidad de decodificación</b></color> de Fagio aumentará continuamente. Además, al disparar un rayo criocondensador, la <span style=\"color:#FFD780FF\">capacidad de decodificación</span> se incrementará aún más.<br/>Cuando la <span style=\"color:#FFD780FF\">capacidad de decodificación</span> alcance el límite de 100 pts., Fagio entrará en el modo de <span style=\"color:#FFD780FF\">sobrecarga de capacidad</span>, en el que infligirá <span style=\"color:#99FFFFFF\">Daño Cryo</span> a los enemigos en intervalos más largos y no podrá pasar al modo de <span style=\"color:#FFD780FF\">decodificación</span>.<br/>Cuando no esté en el modo de <span style=\"color:#FFD780FF\">decodificación</span>, la <span style=\"color:#FFD780FF\">capacidad de decodificación</span> de Fagio disminuirá lentamente. Cuando Sandrone esté en tu equipo pero no en uso, se centrará en realizar tareas de mantenimiento de Fagio, con lo que la velocidad de disminución de su <span style=\"color:#FFD780FF\">capacidad de decodificación</span> aumentará a un 300% del valor original.<br/>Cuando la <span style=\"color:#FFD780FF\">capacidad de decodificación</span> caiga por debajo de los 50 pts., Fagio saldrá del modo de <span style=\"color:#FFD780FF\">sobrecarga de capacidad</span>.<br/><br/><span style=\"color:#FFD780FF\">Ataque Descendente</span><br/>Se lanza desde el aire para golpear el suelo, atacando a los enemigos que encuentre en su trayecto e infligiendo Daño en el AdE en el momento del impacto.",
       "info": "",
       "attributes": [
         {
@@ -165,6 +165,26 @@
           ]
         },
         {
+          "label": "Daño de Torbellino Estelar del rayo criocondensador de ATQ Cargado",
+          "values": [
+            "122.5%",
+            "132.5%",
+            "142.5%",
+            "156.8%",
+            "166.7%",
+            "178.1%",
+            "193.8%",
+            "209.5%",
+            "225.2%",
+            "242.3%",
+            "259.4%",
+            "276.4%",
+            "293.6%",
+            "310.6%",
+            "327.8%"
+          ]
+        },
+        {
           "label": "Daño durante la sobrecarga de capacidad",
           "values": [
             "43%",
@@ -274,6 +294,26 @@
           ]
         },
         {
+          "label": "Daño de Torbellino Estelar de proyectil prismático",
+          "values": [
+            "32.4%",
+            "34.8%",
+            "37.3%",
+            "40.5%",
+            "42.9%",
+            "45.4%",
+            "48.6%",
+            "51.8%",
+            "55.1%",
+            "58.3%",
+            "61.6%",
+            "64.8%",
+            "68.8%",
+            "72.9%",
+            "77%"
+          ]
+        },
+        {
           "label": "TdE",
           "values": [
             "4 s",
@@ -299,7 +339,7 @@
       "_id": 11335,
       "id": "formule_phenomenale_qed",
       "name": "Ecuación fenomenológica: Quod erat demonstrandum",
-      "description": "Con la debida elegancia de una dama, Sandrone invoca un gran número de cañones de resonancia prismática para bombardear una amplia zona frente a sí y luego realizar una descarga de haces de inhibición térmica, con lo que infligirá <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span>.<br/><span style=\"color:#FFD780FF\">Esplendor: Superconductor Estelar</span><br/>Los haces de inhibición térmica pasarán a infligir <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span> considerado como daño de Superconductor Estelar.",
+      "description": "Con la debida elegancia de una dama, Sandrone invoca un gran número de cañones de resonancia prismática para bombardear una amplia zona frente a sí y luego realizar una descarga de haces de inhibición térmica, con lo que infligirá <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span>.<br/><b><span style=\"color:#FFD780FF\">Esplendor: Destello Estelar</span></b><br/>Los haces de inhibición térmica pasarán a infligir <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span> considerado como daño de la reacción de Destello Estelar correspondiente.",
       "info": "",
       "attributes": [
         {
@@ -363,23 +403,43 @@
           ]
         },
         {
+          "label": "Daño de Torbellino Estelar de haces de inhibición térmica",
+          "values": [
+            "330.8%",
+            "355.6%",
+            "380.4%",
+            "413.5%",
+            "438.3%",
+            "463.1%",
+            "496.2%",
+            "529.3%",
+            "562.4%",
+            "595.4%",
+            "628.5%",
+            "661.6%",
+            "702.9%",
+            "744.3%",
+            "785.6%"
+          ]
+        },
+        {
           "label": "TdE",
           "values": [
-            "15 s",
-            "15 s",
-            "15 s",
-            "15 s",
-            "15 s",
-            "15 s",
-            "15 s",
-            "15 s",
-            "15 s",
-            "15 s",
-            "15 s",
-            "15 s",
-            "15 s",
-            "15 s",
-            "15 s"
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
           ]
         },
         {
@@ -409,7 +469,7 @@
     {
       "id": "eternal_speculation_engine",
       "name": "Mecanismo de cómputo arcaico",
-      "description": "<span style=\"color:#FFD780FF\">Esplendor: Superconductor Estelar</span><br/>Al usar la Habilidad Elemental, <b><span style=\"color:#FFD780FF\">Ecuación fenomenológica: Análisis diferencial</span></b>, si la <color=#FFD780FF><b>capacidad de decodificación</b></color> de Fagio supera los 50 pts., el segundo proyectil prismático disparado contra los enemigos cercanos infligirá un 400% del daño original mientras también se reduce la capacidad de decodificación.<br/>Además, por cada 10 pts. que se reduzca la <span style=\"color:#FFD780FF\">capacidad de decodificación</span> de Fagio, esta obtendrá una acumulación del efecto <span style=\"color:#FFD780FF\">mejora táctica</span> durante 60 s. Este efecto podrá acumularse un máximo de 10 veces. Cuando Sandrone use su Habilidad Definitiva, <b><span style=\"color:#FFD780FF\">Ecuación fenomenológica: Quod erat demonstrandum</span></b>, mientras está en el estado de <span style=\"color:#FFD780FF\">esplendor: Superconductor Estelar</span>, se consumirán todas las acumulaciones de mejora táctica, lo que hará que los haces de inhibición térmica inflijan un 100% de su daño original, además de un 10% adicional por cada acumulación consumida.",
+      "description": "<b><span style=\"color:#FFD780FF\">Esplendor: Destello Estelar</span></b><br/>Al usar la Habilidad Elemental, <b><span style=\"color:#FFD780FF\">Ecuación fenomenológica: Análisis diferencial</span></b>, si la <color=#FFD780FF><b>capacidad de decodificación</b></color> de Fagio supera los 50 pts., el segundo proyectil prismático disparado contra los enemigos cercanos infligirá un 400% del daño original mientras también se reduce la capacidad de decodificación.<br/>Además, por cada 10 pts. que se reduzca la <span style=\"color:#FFD780FF\">capacidad de decodificación</span> de Fagio, esta obtendrá una acumulación del efecto <span style=\"color:#FFD780FF\">mejora táctica</span> durante 60 s. Este efecto podrá acumularse un máximo de 10 veces. Cuando Sandrone use su Habilidad Definitiva, <b><span style=\"color:#FFD780FF\">Ecuación fenomenológica: Quod erat demonstrandum</span></b>, mientras está en el estado de <span style=\"color:#FFD780FF\">esplendor: Destello Estelar</span>, se consumirán todas las acumulaciones de mejora táctica, lo que hará que los haces de inhibición térmica inflijan un 100% de su daño original, además de un 10% adicional por cada acumulación consumida.",
       "level": 1
     },
     {
@@ -419,9 +479,9 @@
       "level": 4
     },
     {
-      "id": "light_of_rationalisme",
+      "id": "stellar_jubilee_light_of_rationalisme",
       "name": "Bendición fulgorestelar: Luz del racionalismo",
-      "description": "Cuando un personaje del equipo cause una reacción de Superconductor, esta se transformará en una reacción de Superconductor Estelar. El daño base de las reacciones de Superconductor Estelar de los personajes del equipo aumentará en un 0.7% por cada 100 pts. de ATQ que tenga Sandrone. Como máximo, dicho daño puede aumentar en un 14% de esta manera.<br/>Además, Sandrone entrará en el estado de <span style=\"color:#FFD780FF\">esplendor: Superconductor Estelar</span> mientras se encuentre dentro de un <b><span style=\"color:#FFD780FF\">campo estrellapolar</span></b>.",
+      "description": "Al estar dentro de un <b><span style=\"color:#FFD780FF\">campo estrellapolar</span></b> o durante 8 s después de que un personaje del equipo cause una reacción de Torbellino Estelar en las cercanías, Sandrone entrará en el estado de <span style=\"color:#FFD780FF\">esplendor: Superconductor Estelar</span> o el de <span style=\"color:#FFD780FF\">esplendor: Torbellino Estelar</span>, respectivamente.<br/>Cuando un personaje del equipo cause una reacción de Superconductor o Torbellino Cryo, esta se transformará respectivamente en una reacción de Superconductor Estelar o Torbellino Estelar. El daño base de estas reacciones de los personajes del equipo aumentará en un 0.7% por cada 100 pts. de ATQ que tenga Sandrone. Como máximo, dicho daño puede aumentar en un 14% de esta manera.",
       "level": 0
     },
     {
@@ -436,14 +496,14 @@
       "_id": 1331,
       "id": "morrow_after_the_golden_dusk",
       "name": "Mañana tras el crepúsculo dorado",
-      "description": "Cuando Fagio esté en el modo de <color=#FFD780FF><b>decodificación</b></color>, la velocidad de aumento de su <color=#FFD780FF><b>capacidad de decodificación</b></color> se reducirá en un 50%, y el daño de Superconductor Estelar infligido por todos los personajes del equipo aumentará en un 30%.",
+      "description": "Cuando Fagio esté en el modo de <color=#FFD780FF><b>decodificación</b></color>, la velocidad de aumento de su <color=#FFD780FF><b>capacidad de decodificación</b></color> se reducirá en un 50%, y el daño de Destello Estelar infligido por todos los personajes del equipo aumentará en un 30%.",
       "level": 1
     },
     {
       "_id": 1332,
       "id": "an_heiress_gazed_into_the_lookingglass",
       "name": "A través del espejo se observa una heredera",
-      "description": "<span style=\"color:#FFD780FF\">Esplendor: Superconductor Estelar</span><br/>Aumenta en un 40% el Daño CRIT de los rayos criocondensadores del Ataque Cargado. Además, cada vez que se dispare un rayo criocondensador, el Daño CRIT de todos los rayos criocondensadores del modo de <color=#FFD780FF><b>decodificación</b></color> actualmente activo aumentará en un 20% adicional. Este efecto puede acumularse hasta 3 veces.",
+      "description": "<span style=\"color:#FFD780FF\">Esplendor: Destello Estelar</span><br/>Aumenta en un 40% el Daño CRIT de los rayos criocondensadores del Ataque Cargado. Además, cada vez que se dispare un rayo criocondensador, el Daño CRIT de todos los rayos criocondensadores del modo de <color=#FFD780FF><b>decodificación</b></color> actualmente activo aumentará en un 20% adicional. Este efecto puede acumularse hasta 3 veces.",
       "level": 2
     },
     {
@@ -457,7 +517,7 @@
       "_id": 1334,
       "id": "in_knowledge_lies_the_worlds_true_ground",
       "name": "Intelecto y conocimiento, los cimientos del mundo",
-      "description": "Cuando Sandrone golpee a un enemigo con el daño de Superconductor Estelar, invocará un cañón de resonancia prismática adicional que realizará un ataque coordinado que infligirá una cantidad de <span style=\"color:#99FFFFFF\">Daño Cryo</span> equivalente al 125% del ATQ de Sandrone considerado como daño de Superconductor Estelar. Este efecto solo podrá ocurrir una vez cada 4 s.",
+      "description": "Cuando Sandrone golpee a un enemigo con el daño de Superconductor Estelar o Torbellino Estelar, invocará un cañón de resonancia prismática adicional que realizará un ataque coordinado que infligirá una cantidad de <span style=\"color:#99FFFFFF\">Daño Cryo</span> equivalente al 125/187.5% del ATQ de Sandrone, considerado como daño de la reacción de Destello Estelar correspondiente. Este efecto solo podrá ocurrir una vez cada 4 s.",
       "level": 4
     },
     {
@@ -471,7 +531,7 @@
       "_id": 1336,
       "id": "narcissus_wakes_her_eyes_upon_the_dawn",
       "name": "Narciso se despierta, ella contempla el alba",
-      "description": "En el modo de <color=#FFD780FF><b>decodificación</b></color>, la tercera vez que Fagio lance su rayo criocondensador, este pasará a ser un <span style=\"color:#FFD780FF\">rayo criocondensador concentrado</span> más poderoso que se disparará de forma continua e infligirá hasta 4 golpes adicionales de <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span> equivalentes al 100% del ATQ de Sandrone, además del daño original de los rayos criocondensadores subsecuentes.<br/><span style=\"color:#FFD780FF\">Esplendor: Superconductor Estelar</span><br/>El <span style=\"color:#FFD780FF\">rayo criocondensador concentrado</span> pasará a infligir hasta 4 golpes adicionales de <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span> equivalentes al 80% del ATQ de Sandrone que se considerarán como daño de Superconductor Estelar.<br/>Además, el daño de Superconductor Estelar infligido por Sandrone <b><span style=\"color:#FFD780FF\">asciende</span></b> en un 20%.",
+      "description": "En el modo de <color=#FFD780FF><b>decodificación</b></color>, la tercera vez que Fagio lance su rayo criocondensador, este pasará a ser un <span style=\"color:#FFD780FF\">rayo criocondensador concentrado</span> más poderoso que se disparará de forma continua e infligirá hasta 4 golpes adicionales de <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span> equivalentes al 100% del ATQ de Sandrone, además del daño original de los rayos criocondensadores subsecuentes.<br/><span style=\"color:#FFD780FF\">Esplendor: Destello Estelar</span><br/>El <span style=\"color:#FFD780FF\">rayo criocondensador concentrado</span> pasará a infligir hasta 4 golpes adicionales de <span style=\"color:#99FFFFFF\">Daño Cryo en el AdE</span> considerado como daño de la reacción de Destello Estelar correspondiente. La cantidad de daño infligido de esta forma será equivalente a:<br/><span style=\"color:#FFD780FF\">Esplendor: Superconductor Estelar</span><br/>El 80% del ATQ de Sandrone.<br/><span style=\"color:#FFD780FF\">Esplendor: Torbellino Estelar</span><br/>El 120% del ATQ de Sandrone.<br/>Además, todo el daño de Destello Estelar infligido por Sandrone <b><span style=\"color:#FFD780FF\">asciende</span></b> en un 20%.",
       "level": 6
     }
   ],

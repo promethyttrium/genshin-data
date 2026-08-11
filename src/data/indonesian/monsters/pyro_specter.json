@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Makhluk Elemental",
   "filename_icon": "UI_MonsterIcon_Sylph_Fire_01",
   "description": "Monster yang bisa melayang di udara, terlahir dari konsentrasi Pyro yang tinggi.\\nDahulu ada seorang murid Akademiya yang melakukan penelitian tentang ekologi mereka. Dia percaya kalau Crystalfly sama seperti Specter, bisa terbang dan terlahir di area dengan konsentrasi elemental yang tinggi. Jadi, Specter adalah sejenis Crystalfly. Dan sampai sekarang dia masih belum lulus juga.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

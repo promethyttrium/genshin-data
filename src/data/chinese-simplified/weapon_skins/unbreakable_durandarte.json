@@ -1,0 +1,16 @@
+{
+  "_id": 390001,
+  "id": "unbreakable_durandarte",
+  "name": "无毁·督兰嘉德",
+  "description": "自地脉至深之处显现的兵刃幻形，据说在过去曾以「督兰嘉德」之名为纯白的骑士所持有。\\n其名在古语中意为「永无损毁的锋刃」。与他所佩戴的刀剑一样，骑士所坚信的道途也从未弯折——无论那原本纯白的钢铁如今已被如何染作漆黑。",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "双手剑"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341901,
+  "icon_path": "UI_EquipIcon_Claymore_VarkaTunkeldegen",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_VarkaTunkeldegen"
+}

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Elementare Lebensformen",
   "filename_icon": "UI_MonsterIcon_Slime_Ice_02",
   "description": "Ein kleines Monster, das durch die Gerinnung von Kryo-Kraft in der Natur hervorgebracht wurde.\\nRivalen des Weingutes Morgenröte verbreiteten einst das bösartige Gerücht, dass das Weingut mit Kryo-Schleimen seinen Weinkeller kühl hält.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

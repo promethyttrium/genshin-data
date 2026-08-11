@@ -1,0 +1,40 @@
+{
+  "_id": 25133601,
+  "id": "fanged_zealot",
+  "monsterId": 25133602,
+  "name": "牙獣の狂信者",
+  "specialNames": [
+    "牙獣の狂信者"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種の魔獣",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Mammoth",
+  "description": "血に秘められた力をより多く受け継ぎ、極めて強くなった異怪の獣。\\n数ある異怪の獣の中でも、巨象やマンモスのような姿をした異怪の獣は、最も高貴な血を持つ部類である。かつて彼らの氏族には立派な戦士が多く、その多くが獣の王の従者でもあった。\\nただし、個体の力が強大で、寿命が長いフェイほど、群れを形成するのが困難になる。他の異怪の獣と比べ、現在のスネージナヤにおいて、この種の異怪の獣はずっと希少な存在となっている。",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 231.00076,
+      "attack": 112.64574,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

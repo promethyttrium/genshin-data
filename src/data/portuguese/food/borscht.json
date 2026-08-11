@@ -1,0 +1,54 @@
+{
+  "_id": 2703,
+  "id": "borscht",
+  "name": "Borscht",
+  "description": "Uma sopa de peixe vermelha vibrante. Quando o caldo está pronto, vários ingredientes são adicionados em lotes e fervidos lentamente até que os sabores se misturem. Uma colher de Smetana é adicionada geralmente logo antes de ser servida. Com cada colherada, um calor é transmitido pelo seu corpo, suficiente para manter o frio extremo do ambiente longe.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 101278,
+      "id": "red_beet",
+      "name": "Beterraba Vermelha",
+      "amount": 2
+    },
+    {
+      "_id": 100080,
+      "id": "potato",
+      "name": "Batata",
+      "amount": 1
+    },
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Carne Crua",
+      "amount": 1
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Pratos de Aventura",
+  "results": {
+    "suspicious": {
+      "_id": 108997,
+      "name": "Borscht Estranho",
+      "description": "Uma sopa de peixe vermelha vibrante. Tudo nesse prato parece feito sem muito entusiasmo, como se alguém tivesse simplesmente jogado na panela as sobras de uma refeição anterior. Comer tudo até que te deixa um pouco mais aquecido do que antes, mas é como acender um único fósforo, que não traz nada além de um breve momento de calor.",
+      "effect": "Diminui um pouco o crescimento do Frio Extremo para todos os personagens por 900s. No modo multijogador, esse efeito é aplicado apenas ao seu próprio personagem."
+    },
+    "normal": {
+      "_id": 108998,
+      "name": "Borscht",
+      "description": "Uma sopa de peixe vermelha vibrante. Quando o caldo está pronto, vários ingredientes são adicionados em lotes e fervidos lentamente até que os sabores se misturem. Uma colher de Smetana é adicionada geralmente logo antes de ser servida. Com cada colherada, um calor é transmitido pelo seu corpo, suficiente para manter o frio extremo do ambiente longe.",
+      "effect": "Diminui levemente o crescimento do Frio Extremo para todos os personagens por 900s. No modo multijogador, esse efeito é aplicado apenas ao seu próprio personagem."
+    },
+    "delicious": {
+      "_id": 108999,
+      "name": "Borscht Delicioso",
+      "description": "Uma sopa de peixe vermelha vibrante. No momento em que o caldo quente atinge sua garganta, um calor profundo penetra até o fundo, como se alguém tivesse acendido uma fogueira bem no meio do seu peito. O calor se espalha silenciosamente até que as pontas das suas orelhas fiquem quentes. Ao caminhar em meio a uma nevasca violenta, essa tigela de sopa vale muito mais do que se enrolar em um casaco extra!",
+      "effect": "Diminui o crescimento do Frio Extremo para todos os personagens por 900s. No modo multijogador, esse efeito é aplicado apenas ao seu próprio personagem."
+    }
+  }
+}

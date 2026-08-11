@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "アビス",
   "filename_icon": "UI_MonsterIcon_Hound_Kanis_Rock",
   "description": "世界の境界線を侵食する魔血の獣。「黄金」はそれを「溶脱」と名付けた。\\n深淵の浸透と共に元素を蝕む習性を持っている。幸いなことに、今の時代では、このような魔獣の数は多くない。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

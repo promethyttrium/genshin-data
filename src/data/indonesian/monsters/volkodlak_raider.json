@@ -1,0 +1,133 @@
+{
+  "_id": 25131401,
+  "id": "volkodlak_raider",
+  "monsterId": 25131503,
+  "name": "Volkodlak Raider",
+  "specialNames": [
+    "Raider"
+  ],
+  "investigation": {
+    "investigationId": 101,
+    "name": "Volkodlak Brute",
+    "categoryType": "Elite",
+    "categoryText": "Elite",
+    "description": "Di antara para peri Snezhnaya, ras dengan jumlah terbanyak adalah mereka yang memiliki berbagai wujud namun disebut Volkodlak secara umum.\\nMungkin mereka diciptakan justru untuk menemukan jawaban atas pertanyaan \"apa yang membuat manusia menjadi manusia\" melalui keberadaan mereka."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "rewardPreviewId": 15543,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 112154,
+      "id": "accreted_growth",
+      "name": "Accreted Growth",
+      "count": 0.131
+    },
+    {
+      "_id": 112153,
+      "id": "accreted_mass",
+      "name": "Accreted Mass",
+      "count": 0.525
+    },
+    {
+      "_id": 112152,
+      "id": "accreted_fragment",
+      "name": "Accreted Fragment",
+      "count": 1.97
+    },
+    {
+      "_id": 112148,
+      "id": "ethereal_crystalscale_stone",
+      "name": "Ethereal Crystalscale Stone",
+      "count": 0.035
+    },
+    {
+      "_id": 112147,
+      "id": "ethereal_crystal",
+      "name": "Ethereal Crystal",
+      "count": 0.14
+    },
+    {
+      "_id": 112146,
+      "id": "ethereal_glimmershard",
+      "name": "Ethereal Glimmershard",
+      "count": 0.525
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Instructor",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Instructor",
+      "rarity": 3
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 3
+    },
+    {
+      "_id": 400062,
+      "id": "traveling_doctor",
+      "name": "Traveling Doctor",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Makhluk Mistis",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Thin_Sword",
+  "description": "Salah satu jenis Volkodlak di Snezhnaya yang bertubuh relatif kecil dan lincah.\\nJustru karena gerakannya yang lincah dan kelima inderanya yang jauh lebih tajam dibanding manusia, mereka mampu menghindari berbagai serangan hanya dengan mengandalkan insting dalam pertarungan. Dalam pertempuran jarak dekat, mereka adalah lawan yang cukup merepotkan.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 17.6592,
+      "attack": 20.096,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

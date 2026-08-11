@@ -1,0 +1,54 @@
+{
+  "_id": 3702,
+  "id": "snowrealm_okroshkas",
+  "name": "Okrochka des neiges",
+  "description": "Un bol de soupe froide. Les ingrédients cuits sont disposés uniformément dans un bol, puis recouverts d'un bouillon à base de crème fraîche. Certains Snezhnayiens se lancent le défi d'engloutir un grand bol de cette soupe en une seule fois lors des journées les plus froides, y voyant la preuve de leur force et de leur capacité à vaincre le froid glacial.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 101280,
+      "id": "snowball_flower",
+      "name": "Viorne de neige",
+      "amount": 3
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Œuf d'oiseau",
+      "amount": 2
+    },
+    {
+      "_id": 110005,
+      "id": "ham",
+      "name": "Jambon",
+      "amount": 1
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Défense",
+  "results": {
+    "suspicious": {
+      "_id": 108994,
+      "name": "Okrochka des neiges (suspecte)",
+      "description": "Un bol de soupe froide. Il faut un certain effort pour distinguer les ingrédients qui flottent dans le bouillon trouble. Les légumes, réduits en miettes, sont noyés sous d'énormes morceaux de jambon. On dirait que le cuisinier s'est souvenu du jambon à la toute dernière minute, l'ajoutant dans un geste de panique...",
+      "effect": "Augmente la DÉF de tous les personnages de l'équipe de 165 pts pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur."
+    },
+    "normal": {
+      "_id": 108995,
+      "name": "Okrochka des neiges",
+      "description": "Un bol de soupe froide. Les ingrédients cuits sont disposés uniformément dans un bol, puis recouverts d'un bouillon à base de crème fraîche. Certains Snezhnayiens se lancent le défi d'engloutir un grand bol de cette soupe en une seule fois lors des journées les plus froides, y voyant la preuve de leur force et de leur capacité à vaincre le froid glacial.",
+      "effect": "#Augmente la DÉF de tous les personnages de l'équipe de 200 pts pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur."
+    },
+    "delicious": {
+      "_id": 108996,
+      "name": "Okrochka des neiges (délicieuse)",
+      "description": "Un bol de soupe froide. Le bouillon, d'un blanc laiteux et scintillant, offre une sensation de fraîcheur comparable à celle de la neige fraîche, instantanément suivie d'une explosion de saveurs revigorantes grâce à la crème fraîche onctueuse. Avec ses légumes croquants, son jaune d'œuf ferme et ses savoureux dés de jambon, chaque cuillerée révèle une texture unique, comme si l'on ouvrait une délicieuse boîte mystère.",
+      "effect": "Augmente la DÉF de tous les personnages de l'équipe de 235 pts pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur."
+    }
+  }
+}

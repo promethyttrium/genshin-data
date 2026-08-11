@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "Spectral Heart",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "Spectral Husk",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "สิ่งมีชีวิตธาตุ",
   "filename_icon": "UI_MonsterIcon_Sylph_Water_01",
   "description": "มอนสเตอร์ที่กำเนิดขึ้นจากธาตุน้ำที่มีความเข้มข้นสูง สามารถลอยอยู่ในอากาศได้\\nในค่ำคืนที่สว่างไสวไปด้วยแสงจันทร์ Hydro Specter ที่ลอยอยู่ริมแม่น้ำจะเปล่งแสงสลัว ๆ ออกมา พวกมันที่ชอบทำตัวลับ ๆ ล่อ ๆ มักจะถูกเหล่านักเดินทางมองว่าเป็นวิญญาณเร่ร่อนอยู่เสมอ ด้วยเหตุนี้จึงมักจะถูกพูดถึงในเรื่องเล่าพื้นบ้านอยู่บ่อยครั้ง",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

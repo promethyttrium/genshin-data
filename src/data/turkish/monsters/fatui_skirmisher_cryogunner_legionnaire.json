@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01",
   "description": "Fatui savaş makinasıyla donanmış bir asker.\\nElementleri belirli bir dereceye kadar kontrol edebilen ekipmanlar kuşanan bu asker, silahlarıyla tazyikli buz parçaları atabilir.\\nBu, sıradan insanların aklının alamayacağı türden bir element gücü olsa da bu güce sahip olmanın bir bedeli olabilir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

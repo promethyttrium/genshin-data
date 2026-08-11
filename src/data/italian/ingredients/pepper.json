@@ -15,6 +15,11 @@
       "name": "Pesce corno alla griglia"
     },
     {
+      "_id": 1701,
+      "id": "podvorye_smoked_sausage",
+      "name": "Salsiccia affumicata del Podvorye"
+    },
+    {
       "_id": 2006,
       "id": "fried_radish_balls",
       "name": "Polpette di ravanello fritte"
@@ -67,6 +72,5 @@
   ],
   "source": [
     "Acquistabile negli empori"
-  ],
-  "rarity": 0
+  ]
 }

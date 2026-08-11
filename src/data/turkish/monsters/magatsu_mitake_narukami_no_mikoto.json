@@ -177,7 +177,6 @@
   "categoryText": "Şanlı Düşmanlar",
   "filename_icon": "UI_MonsterIcon_Shougun_Mitakenarukami",
   "description": "Şogun Raiden'ın gücüne sahip olan kukla, Sonsuzluğa tehdit oluşturanlara karşı olduğunda bu hali alır.\\nŞogun Raiden'ın sonsuzluğu aramaktaki yardımcısı olarak hiçbir zaman şüphe etmedi, korkmadı, elinden geleni ardına koymadı ve boş düşüncelere kapılmadı.\\nBir zamanlar Makoto da varken Ei'in benzer bir görev üstlendiğini ve bu süreçte acı verici bir kayıp yaşadığını duymuştu.\\nİki gölge bir kez daha karşılaştığında tek görebildiği, \"onun\" sonsuz iradesi olması gereken şeyin üzerindeki sayısız ufak kırıklardı. Kader hep başa döneceği için verdiği sözü yerine getirip \"ona\" savaş açması gerek.\\n\\n<i>En üstün ve asil biçim benim biçimimdir. Bu diyarın kontrolü bana verildi. \"Şogun Raiden\"ın özü benim.</i>\\n<i>\"Elbette Ei'in yaşadığı birçok kaybı ve onun Sonsuzluğa erişme isteğini de aldım.\"</i>\\n<i>\"Azim, cesaret, sevgi, nefret... Zaman aktıkça hepsi değişecek.\"</i>\\n<i>\"Ama kurallar asla değişmeyecek.\"</i>",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

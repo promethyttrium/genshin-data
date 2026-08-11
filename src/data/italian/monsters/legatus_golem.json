@@ -13,7 +13,6 @@
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Golem_Centaur",
   "description": "Un Golem a forma di centauro plasmato con marmo e ottone, sotto la cui corazza di dura pietra scorre sangue d'Icore. Imponente come si confà a un Comandante di legione, è sempre pronto a travolgere ogni avversario che osi trasgredire ai dettami del suo onore.\\nQuella civiltà ora sommersa considerava la guerra al pari della musica, un'arte fatta di ritmi e cadenze. Chi si occupava di schierare una legione, pertanto, era di fatto come un direttore d'orchestra, che usava spada e scudo come le corde e l'archetto di un violino per eseguire una spietata melodia di fiamme sul campo di battaglia.\\n\"La guerra è un male necessario sul cammino che conduce alla pace assoluta\". Queste furono le parole dell'Armosta che guidò una legione di Golem alla conquista del Mare Alto.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

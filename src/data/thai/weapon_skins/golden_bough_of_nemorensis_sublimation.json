@@ -1,0 +1,21 @@
+{
+  "_id": 310004,
+  "id": "golden_bough_of_nemorensis_sublimation",
+  "name": "กิ่งทองคำแห่ง Nemorensis - ร่างบริสุทธิ์",
+  "description": "อาวุธลวงตาอันเปล่งประกายด้วยแสงแห่ง \"นิรันดร์\" ที่ปรากฏขึ้นจากส่วนลึกของกระแสพลัง สามารถเปลี่ยนรูปร่างตามประเภทธาตุของผู้ถือครอง กล่าวกันว่าในยุคสมัยอันเก่าแก่ที่ไม่อาจหวนนึกถึง ทูตเบื้องบนเคยประทานดาบยาวประดับทองให้แก่ผู้นำพิธีแห่ง Arcadia เพื่อชี้นำเมืองศักดิ์สิทธิ์ที่ยังมิได้ร่วงหล่นสู่ก้นบึ้งแห่งความตายให้คงอยู่สืบไป",
+  "rarity": 5,
+  "type": {
+    "id": "Sword",
+    "name": "ดาบ"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1004,
+    "name": "ร่างมายาเจิดจรัส - นิรันดร์ (ร่างบริสุทธิ์)",
+    "priority": 2
+  },
+  "item_id": 341104,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphNemorensis_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphNemorensis_Great"
+}

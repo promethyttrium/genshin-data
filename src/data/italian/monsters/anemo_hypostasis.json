@@ -13,7 +13,6 @@
   "categoryText": "Forme di vita elementali",
   "filename_icon": "UI_MonsterIcon_Effigy_Wind",
   "description": "Nome in codice: Beth. Un'entità di Anemo molto pura.\\nLe Ipostasi elementali sono forme di vita che hanno completamente abbandonato il loro aspetto e la loro struttura biologica originali, in modo da essere in grado di raggiungere il livello più alto di purezza elementale.\\nLa ricerca nel campo delle Ipostasi è condotta principalmente dagli studiosi dell'Akademiya di Sumeru, ma a causa del livello di rischio che esse rappresentano, non si conosce molto delle Ipostasi oltre il loro nome scientifico e in codice.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

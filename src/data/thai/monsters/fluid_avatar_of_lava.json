@@ -25,19 +25,19 @@
       "_id": 112112,
       "id": "ignited_seeing_eye",
       "name": "Ignited Seeing Eye",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112111,
       "id": "ignited_seed_of_life",
       "name": "Ignited Seed of Life",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112110,
       "id": "ignited_stone",
       "name": "Ignited Stone",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "สัตว์อสูรลึกลับ",
   "filename_icon": "UI_MonsterIcon_Lava_Liquid",
   "description": "มอนสเตอร์ประหลาดที่ต้องดูดซับความร้อนอย่างต่อเนื่อง เพื่อให้ยังคงเคลื่อนไหวต่อไปได้\\nครั้งหนึ่ง เคยมีไฟที่เก่าแก่และลึกล้ำยิ่งกว่าเผาไหม้ลามไปทั่วดินแดน Natlan ในรูปแบบต่าง ๆ ในเวลานั้น ผู้อาศัยยุคดึกดำบรรพ์ที่ยิ่งใหญ่เคยใช้ไฟเหล่านี้เพื่อส่งแสง ความร้อน และภูมิปัญญา พวกเขาเชื่อว่าชีวิตและจิตวิญญาณนั้นมีร่างแรกเริ่มมาจากสะเก็ดไฟยามที่หินเหล็กไฟกระทบกัน\\nหากมีแก่นพลังงานที่ลุกไหม้ชั่วนิรันดร์ แม้แต่หินที่แข็งกระด้างก็มีชีวิตขึ้นมาได้ ไฟที่ยังคุอยู่ในร่างที่เรียกว่า Avatar of Lava นั้น ดูเหมือนจะเป็นเศษขี้เถ้าอันเย็นเฉียบของยุคสมัยอันยิ่งใหญ่ในอดีต",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

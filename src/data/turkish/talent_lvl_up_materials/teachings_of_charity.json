@@ -1,0 +1,18 @@
+{
+  "_id": 104365,
+  "id": "teachings_of_charity",
+  "name": "Merhamet Öğretisi",
+  "description": "Yetenek Seviyesi Yükseltme Malzemesi.\\nMerhamet, donmuş diyarın kurtuluşudur.\\nFaniler arasında paylaşılan sevgi ve daima hazır olan özendir. Bu uçsuz bucaksız topraklarda, halkın keskin soğuğa göğüs germesini sağlayan ve anılarına kazınmış derin yaralara merhem olan teskin edici bir sıcaklıktır.",
+  "source": [
+    "Hediye Dükkanında takas edilir."
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Ustalık Zindanı: Tefekkür IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Pazartesi",
+    "Perşembe",
+    "Pazar"
+  ]
+}

@@ -13,7 +13,6 @@
   "categoryText": "Vida Elemental",
   "filename_icon": "UI_MonsterIcon_Narcissusborn_Normal_01",
   "description": "Um monstro primordial na forma de um humano feito de água.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

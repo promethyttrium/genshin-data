@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Mimik_Ice",
   "description": "Ma vật giống với thực vật, xuất quỷ nhập thần, dùng nguyên tố Băng để chiến đấu.\\nCó lúc sẽ ẩn dưới mặt đất, bắt những con thú ngơ ngác. Nếu đủ tuổi, dinh dưỡng và điều kiện, chúng sẽ cắm rễ ở nơi nào đó, lớn thành Cây Cấp Đông...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

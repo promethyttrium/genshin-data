@@ -1,0 +1,40 @@
+{
+  "_id": 25130201,
+  "id": "winged_soarer_knight",
+  "monsterId": 25130302,
+  "name": "Winged Soarer Knight",
+  "specialNames": [
+    "Winged Soarer Knight"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Makhluk Mistis",
+  "filename_icon": "UI_MonsterIcon_Human_Girl_Vila_Blade",
+  "description": "Vila bersayap yang mampu terbang di udara.\\nKonon, klan Vila adalah klan peri yang telah mengikuti Belyi Tsar sejak ia mulai menyatukan seluruh dataran es. Kemampuan mereka untuk terbang sejenak di udara memberi mereka pergerakan yang sangat fleksibel. Baik sebagai pengintai musuh maupun penyerang jarak jauh, semua itu bukan perkara sulit bagi mereka.\\nSebagian besar anggota pasukan pengawal pribadi Druzhna yang dibentuk pada era Belyi Tsar adalah Vila.",
+  "bgm": 1,
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.2,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 4.57189,
+      "attack": 40.552467,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

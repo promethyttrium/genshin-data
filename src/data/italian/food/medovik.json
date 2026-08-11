@@ -1,0 +1,54 @@
+{
+  "_id": 3704,
+  "id": "medovik",
+  "name": "Medovik",
+  "description": "Una torta a base di miele. Sottili sfoglie di impasto al miele vengono cotte e poi impilate strato dopo strato, con una crema di panna acida spalmata tra l'una e l'altra. La torta è rifinita con una spolverata di briciole e un filo di sciroppo di miele. Ogni passaggio deve essere eseguito con cura per ottenere un risultato preciso e uniforme.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 110017,
+      "id": "honey",
+      "name": "Miele",
+      "amount": 4
+    },
+    {
+      "_id": 110001,
+      "id": "flour",
+      "name": "Farina",
+      "amount": 4
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Uovo d'uccello",
+      "amount": 3
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Piatti rigenerativi",
+  "results": {
+    "suspicious": {
+      "_id": 132007,
+      "name": "Medovik sospetto",
+      "description": "Una torta a base di miele. Ogni traccia di dolcezza è stata incenerita in un pasticcio amaro e bruciato dal fuoco ardente del forno. Sebbene la glassa di panna acida compia alla perfezione il suo aspro dovere, rimane del tutto isolata senza alcuna dolcezza che risponda al suo richiamo...",
+      "effect": "#Ripristina un 26% dei PS max del personaggio selezionato e rigenera 450 PS ogni 5 s per 30 s."
+    },
+    "normal": {
+      "_id": 132008,
+      "name": "Medovik",
+      "description": "Una torta a base di miele. Sottili sfoglie di impasto al miele vengono cotte e poi impilate strato dopo strato, con una crema di panna acida spalmata tra l'una e l'altra. La torta è rifinita con una spolverata di briciole e un filo di sciroppo di miele. Ogni passaggio deve essere eseguito con cura per ottenere un risultato preciso e uniforme.",
+      "effect": "#Ripristina un 28% dei PS max del personaggio selezionato e rigenera 620 PS ogni 5 s per 30 s."
+    },
+    "delicious": {
+      "_id": 132009,
+      "name": "Medovik delizioso",
+      "description": "Una torta a base di miele. La sfoglia d'impasto dal colore dell'ambra e la panna candida come la neve si abbracciano strato dopo strato in un'armonia perfetta. Osservarla è come sfogliare delle cronache, in cui ciascuna pagina rivela una narrazione altrettanto brillante e incantevole.",
+      "effect": "#Ripristina un 30% dei PS max del personaggio selezionato e rigenera 790 PS ogni 5 s per 30 s."
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "_id": 3701,
+  "id": "zharkoye",
+  "name": "Zharkoye",
+  "description": "Un plat de viande servi dans une cocotte en terre cuite. Les ingrédients coupés en dés sont placés dans la cocotte, recouverts de pâte, puis cuits au four. Une fois la cuisson terminée, on retire la croûte croustillante et on ajoute de la crème fraîche pour l'assaisonnement. La méthode en elle-même n'est pas compliquée, mais maîtriser la température du four et le temps de cuisson demande une certaine expérience.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 100061,
+      "id": "raw_meat",
+      "name": "Viande crue",
+      "amount": 3
+    },
+    {
+      "_id": 100080,
+      "id": "potato",
+      "name": "Pomme de terre",
+      "amount": 2
+    },
+    {
+      "_id": 100013,
+      "id": "carrot",
+      "name": "Carotte",
+      "amount": 2
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Récupération",
+  "results": {
+    "suspicious": {
+      "_id": 108985,
+      "name": "Zharkoye (suspect)",
+      "description": "Un plat de viande servi dans une cocotte en terre cuite. La cuisson ayant été excessivement longue, la viande s'est effilochée en filaments si fins qu'on a l'impression de mâcher une vieille couverture. Une seule bouchée suffit à vous donner envie de cacher discrètement la cocotte...",
+      "effect": "Restaure 30 % des PV max du personnage sélectionné et 600 PV supplémentaires."
+    },
+    "normal": {
+      "_id": 108986,
+      "name": "Zharkoye",
+      "description": "Un plat de viande servi dans une cocotte en terre cuite. Les ingrédients coupés en dés sont placés dans la cocotte, recouverts de pâte, puis cuits au four. Une fois la cuisson terminée, on retire la croûte croustillante et on ajoute de la crème fraîche pour l'assaisonnement. La méthode en elle-même n'est pas compliquée, mais maîtriser la température du four et le temps de cuisson demande une certaine expérience.",
+      "effect": "Restaure 32 % des PV max du personnage sélectionné et 1 250 PV supplémentaires."
+    },
+    "delicious": {
+      "_id": 108987,
+      "name": "Zharkoye (délicieux)",
+      "description": "Un plat de viande servi dans une cocotte en terre cuite. En soulevant la croûte croustillante de pâte feuilletée, une vague soudaine de parfum savoureux et beurré s'échappe, accompagnée d'une chaleur réconfortante. C'est comme se prélasser dans une douce chaleur après avoir allumé une bûche dans la cheminée par une froide nuit d'hiver.",
+      "effect": "Restaure 34 % des PV max du personnage sélectionné et 1 900 PV supplémentaires."
+    }
+  }
+}

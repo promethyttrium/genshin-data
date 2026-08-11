@@ -1,0 +1,21 @@
+{
+  "_id": 320001,
+  "id": "ardent_storm",
+  "name": "Яростный шторм",
+  "description": "Великолепный иллюзорный двуручный меч, появившийся из глубин артерий земли. Он может менять свой вид в зависимости от типа элемента владельца. Говорят, что этот меч носил имя «Старкутр», когда принадлежал уважаемому грешнику в древней стране.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Двуручное оружие"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "Сияющая иллюзия: Превосходство",
+    "priority": 1
+  },
+  "item_id": 341201,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Claymore_MorphGravitas_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_MorphGravitas"
+}

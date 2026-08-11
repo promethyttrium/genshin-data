@@ -13,7 +13,6 @@
   "categoryText": "Forme di vita elementali",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Electric",
   "description": "Un'elegante forma di vita elementale che possiede una grande affinità con gli elementi. Ha assunto la sua forma attuale dopo essere rimasta esposta a elevate concentrazioni di Electro per lunghi periodi di tempo.\\nÈ una delle sue forme più feroci, che comanda i fulmini come suoi servitori, lacerando la terra che calpesta con una scia di roboante devastazione.\\nNelle preghiere dell'Estremo Nord ancora esistenti, si dice sia nata dalle benedizioni della Luna gelata, a simboleggiare l'origine pura e la luce primordiale. Questo spiegherebbe perché trova insopportabile essere macchiata con la pallida purezza dei sette colori del cielo, al punto da respingere ogni forma di vita che si avvicini a essa.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

@@ -1,0 +1,12 @@
+{
+  "_id": 70800045,
+  "id": "where_frost_entombs_all_sorrows",
+  "name": "Там, где скорбь скована льдом",
+  "areaName": "Вечная мерзлота",
+  "areaId": 80200,
+  "description": "Возможно, она уже слишком сильно пострадала от агонии потерь.\nДля того, кто исчез среди ненависти и безумия, это был самый мягкий исход.",
+  "regionName": "Снежная",
+  "regionId": 8,
+  "sortOrder": 645,
+  "filename_image": "UI_Codex_Scenery_ZDNvShiMu"
+}

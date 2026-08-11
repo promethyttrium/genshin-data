@@ -1,0 +1,41 @@
+{
+  "_id": 26310501,
+  "id": "chimeric_winged_lion",
+  "monsterId": 26310507,
+  "name": "嵌合翼駿獅",
+  "specialNames": [
+    "嵌合翼駿獅"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種魔獸",
+  "filename_icon": "UI_MonsterIcon_Chimera_Manticore",
+  "description": "生物煉金的產物，是被棄置的合成魔獸之一。\\n為了實現某個偉大願望，一位煉金術士以某種不可被複述的技術造就了名為「雛形」的諸多原體。\\n其中唯有一個成功生長成了規劃中的完美造物，其他接近完美卻最終失敗的原體被隨意製作成了諸多雙頭的魔獸。\\n雖被視為失敗品，但這些特殊的雙頭魔獸擁有的力量依然是偉大的，在合成魔獸的範疇中，已無任何他物能夠與它們相抗衡。",
+  "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.5,
+      "cryo": 0.1,
+      "electro": 0.5
+    },
+    "base": {
+      "hp": 350.27457,
+      "attack": 95.456,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

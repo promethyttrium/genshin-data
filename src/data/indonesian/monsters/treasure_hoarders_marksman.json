@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Hunter_01",
   "description": "Seorang anggota organisasi kriminal tersebar yang menancapkan jejaknya di seluruh daratan dan bahkan jauh ke dalam domain yang tidak diketahui.\\nMeskipun mereka disebut \"penembak jitu,\" sebutan ini sebenarnya mengandung unsur ejekan, karena mereka hanya menggunakan busur panah sebagai senjatanya, dan bukan menggunakan busur yang membutuhkan waktu berlatih yang lama untuk bisa menguasainya. Semua orang pun tahu kalau para Hilichurl bisa mengoperasikan busur panah. Arahkan saja ujung yang lebih lebar ke musuh, tarik pelatuknya dan — ya, cukup begitu saja.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

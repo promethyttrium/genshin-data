@@ -1,0 +1,328 @@
+{
+  "_id": 12436,
+  "id": "blade_of_atonement",
+  "name": "救済の剣",
+  "description": "ルチーキンから受け継がれた大剣。最も勇猛な戦士のみが、それを手にする資格を持つと言われている。",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "両手剣"
+  },
+  "domain": "煉武秘境・「妄執の傷跡」",
+  "passive": "罪業の贖い",
+  "bonus": "元素反応を起こしてからの12秒間、装備者の元素熟知+<span>64/80/96/112/128</span>。星反応を起こしてからの12秒間、装備者の攻撃力+<span>16%/20%/24%/28%/32%</span>。装備したキャラクターが待機している場合にも効果を発動できる。",
+  "specialProp": "攻撃力%",
+  "stats": {
+    "primary": "基礎攻撃力",
+    "secondary": "攻撃力%",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 44,
+        "secondary": 6
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 119,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 144,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 226,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 252,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 293,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 319,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 361,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 387,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 429,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 455,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 497,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 523,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 565,
+        "secondary": 27.6
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114085,
+          "id": "rise_of_the_pale_star_army",
+          "name": "蒼星軍勢の始動",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "生命の虚ろな根",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "合成獣のコア",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114086,
+          "id": "muster_of_the_pale_star_army",
+          "name": "蒼星軍勢の集結",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "生命の虚ろな根",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "合成獣のコア",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114086,
+          "id": "muster_of_the_pale_star_army",
+          "name": "蒼星軍勢の集結",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "生命の分かれ枝",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "並生嵌合胞",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114087,
+          "id": "clarion_of_the_pale_star_army",
+          "name": "蒼星軍勢の鳴令",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "生命の分かれ枝",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "並生嵌合胞",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114087,
+          "id": "clarion_of_the_pale_star_army",
+          "name": "蒼星軍勢の鳴令",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "生命の絡み合う枝",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合体",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114088,
+          "id": "triumph_of_the_pale_star_army",
+          "name": "蒼星軍勢の征服",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "生命の絡み合う枝",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合体",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "罪業の贖い",
+    "template": "元素反応を起こしてからの12秒間、装備者の元素熟知+<span style=\"color:#99FFFFFF\">{0}</span>。星反応を起こしてからの12秒間、装備者の攻撃力+<span style=\"color:#99FFFFFF\">{1}</span>。装備したキャラクターが待機している場合にも効果を発動できる。",
+    "params": [
+      [
+        "64",
+        "16%"
+      ],
+      [
+        "80",
+        "20%"
+      ],
+      [
+        "96",
+        "24%"
+      ],
+      [
+        "112",
+        "28%"
+      ],
+      [
+        "128",
+        "32%"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "元素反応を起こしてからの12秒間、装備者の元素熟知+<span>64</span>。星反応を起こしてからの12秒間、装備者の攻撃力+<span>16%</span>。装備したキャラクターが待機している場合にも効果を発動できる。"
+    },
+    {
+      "refinement": 2,
+      "desc": "元素反応を起こしてからの12秒間、装備者の元素熟知+<span>80</span>。星反応を起こしてからの12秒間、装備者の攻撃力+<span>20%</span>。装備したキャラクターが待機している場合にも効果を発動できる。"
+    },
+    {
+      "refinement": 3,
+      "desc": "元素反応を起こしてからの12秒間、装備者の元素熟知+<span>96</span>。星反応を起こしてからの12秒間、装備者の攻撃力+<span>24%</span>。装備したキャラクターが待機している場合にも効果を発動できる。"
+    },
+    {
+      "refinement": 4,
+      "desc": "元素反応を起こしてからの12秒間、装備者の元素熟知+<span>112</span>。星反応を起こしてからの12秒間、装備者の攻撃力+<span>28%</span>。装備したキャラクターが待機している場合にも効果を発動できる。"
+    },
+    {
+      "refinement": 5,
+      "desc": "元素反応を起こしてからの12秒間、装備者の元素熟知+<span>128</span>。星反応を起こしてからの12秒間、装備者の攻撃力+<span>32%</span>。装備したキャラクターが待機している場合にも効果を発動できる。"
+    }
+  ]
+}

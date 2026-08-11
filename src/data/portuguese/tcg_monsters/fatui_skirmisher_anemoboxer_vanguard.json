@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Outras Armas",
     "faction": [
-      null
+      "Fatui"
     ]
   },
   "skills": [
     {
       "id": "hurricane_jab",
       "name": "Soco dos Ventos",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -37,7 +41,9 @@
       "id": "gathering_the_winds",
       "name": "Reunião dos Ventos",
       "desc": "Este personagem é afetado por <span style=\"color:#FFFFFFFF\">Barreira dos Ventos</span> e <span style=\"color:#FFFFFFFF\">Preparar Habilidade</span>: <span style=\"color:#FFFFFFFF\">Punho Corta-vento</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -50,8 +56,10 @@
     {
       "id": "galeforce_agitation",
       "name": "Incitação dos Ventos",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, seus outros personagens Fatui recebem 1 ponto de <span style=\"color:#FFFFFFFF\">Carga</span>.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#80FFD7FF\">Dano Anemo</span>, seus outros personagens Fatui recebem 1 ponto de <span style=\"color:#FFFFFFFF\">Carga</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1105,

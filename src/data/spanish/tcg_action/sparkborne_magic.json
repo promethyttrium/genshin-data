@@ -1,0 +1,32 @@
+{
+  "_id": 213062,
+  "id": "sparkborne_magic",
+  "shareId": 615,
+  "name": "Magia chispeante",
+  "title": "Klee: Magia chispeante",
+  "desc": "“Así fue como el adorable y pequeño Dodohechicero superó su prueba con la ayuda de sus amigos. ¡Ahora sí que es un Dodohechicero de verdad! ¡Felicidades!”.\\n“Un momento, ¿no se suponía que íbamos a limitarnos a escribir las anotaciones? ¿Qué tiene eso que ver con la brujita?”.",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Después de que el personaje afectado ejecute un <span style=\"color:#FFFFFFFF\">Ataque Cargado</span></span>, inflige 2 pts. de <span style=\"color:#FF9999FF\">Daño Pyro</span> (2 veces por ronda).",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Dados Pyro",
+    "card_type": "Carta de equipamiento",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "Dados Pyro",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Talento",
+      "Taumaturgia"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Acción rápida</span>: equipa esta carta a tu <span style=\"color:#FFFFFFFF\">Klee</span>.<br/>Klee entra en el estado de <span style=\"color:#FFFFFFFF\">flor explosiva</span>.<br/><span style=\"color:#FFFFFFFF\">Después de que el personaje afectado ejecute un <span style=\"color:#FFFFFFFF\">Ataque Cargado</span></span>, inflige 2 pts. de <span style=\"color:#FF9999FF\">Daño Pyro</span> (2 veces por ronda).<br/>Solo puedes añadir esta carta al mazo si tienes a Klee en él."
+    }
+  ]
+}

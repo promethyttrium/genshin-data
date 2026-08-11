@@ -25,19 +25,19 @@
       "_id": 112142,
       "id": "jeweled_flaming_hilt",
       "name": "Elsa fiammeggiante ingioiellata",
-      "count": 0.2626
+      "count": 0.262
     },
     {
       "_id": 112141,
       "id": "fractured_flaming_hilt",
       "name": "Elsa fiammeggiante incrinata",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112140,
       "id": "faded_flaming_hilt",
       "name": "Elsa fiammeggiante sbiadita",
-      "count": 3.9394
+      "count": 3.939
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Automi",
   "filename_icon": "UI_MonsterIcon_Watcher_Normal_01",
   "description": "Un costrutto d'ombra nato dalla tracimazione del potente essere primordiale, un guardiano che veglia sulla Sala dei Pilastri dei cieli.\\nBenché gli siano stati affidati degli \"occhi\" in qualità di guardiani della Sala dei Pilastri dello Spazio, queste entità non possono far altro che esaltare le \"forme ideali\" del mondo noumenico. Non essendo in grado di osservare le complessità del mondo fenomenico, non sono considerati pari tra gli angeli. Se tale contraddizione intrinseca sia un prodotto della progettazione deliberata della loro creatrice, o se la padrona che servono abbia fallito nel comprendere l'intento di quell'essere primordiale, è una verità al di là della nostra portata.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

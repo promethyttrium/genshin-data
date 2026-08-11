@@ -1,0 +1,48 @@
+{
+  "_id": 2702,
+  "id": "glupov_rye_bread",
+  "name": "Bánh Mì Đen Glupov",
+  "description": "Bánh mì đặc ruột. Bột bánh cần được lên men ở nhiệt độ thấp trong thời gian dài. Sau khi nướng, lớp vỏ ngoài trở nên cứng rắn, còn phần ruột bên trong lại đặc chắc và mềm mịn. Thành phẩm có thể bảo quản trong thời gian dài, vì thế đây là đồ ăn thường thấy của các thương nhân, binh sĩ và thợ săn ở Snezhnaya.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 110016,
+      "id": "rye_flour",
+      "name": "Bột Lúa Mạch Đen",
+      "amount": 2
+    },
+    {
+      "_id": 100075,
+      "id": "salt",
+      "name": "Muối",
+      "amount": 1
+    },
+    {
+      "_id": 110006,
+      "id": "sugar",
+      "name": "Đường",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Món Dạng Hồi Phục",
+  "results": {
+    "suspicious": {
+      "_id": 132004,
+      "name": "Bánh Mì Đen Glupov Kỳ Lạ",
+      "description": "Bánh mì đặc ruột. Nặng đến mức khiến người ta nghi ngờ liệu công đoạn lên men có bị bỏ qua hay không. Ngay cả khi ngâm vào súp thì kết cấu của nó cũng không hề thay đổi... Lẽ nào đây là đạo cụ huấn luyện chuyên dùng để tôi luyện ý chí?",
+      "effect": "Lập tức hồi 18% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 300 HP."
+    },
+    "normal": {
+      "_id": 132005,
+      "name": "Bánh Mì Đen Glupov",
+      "description": "Bánh mì đặc ruột. Bột bánh cần được lên men ở nhiệt độ thấp trong thời gian dài. Sau khi nướng, lớp vỏ ngoài trở nên cứng rắn, còn phần ruột bên trong lại đặc chắc và mềm mịn. Thành phẩm có thể bảo quản trong thời gian dài, vì thế đây là đồ ăn thường thấy của các thương nhân, binh sĩ và thợ săn ở Snezhnaya.",
+      "effect": "Lập tức hồi 20% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 390 HP."
+    },
+    "delicious": {
+      "_id": 132006,
+      "name": "Bánh Mì Đen Glupov Ngon",
+      "description": "Bánh mì đặc ruột. Xé một miếng cho vào miệng, đầu tiên là vị chua nhẹ trầm ổn, tiếp đến là hương ngũ cốc mộc mạc thô ráp đặc trưng của lúa mạch đen, mang theo vị đậm đà, càng nhai càng thấy ngon. Cuối cùng, nơi cuống họng dâng lên một chút vị ngọt hậu, như một mầm sống lay động ẩn giấu dưới lớp đất đóng băng.",
+      "effect": "Lập tức hồi 22% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 470 HP."
+    }
+  }
+}

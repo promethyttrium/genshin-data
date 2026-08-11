@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 3,
+    "element": "Cryo",
+    "weapon": "Outras Armas",
     "faction": [
-      null
+      "Fatui"
     ],
     "talent_card": {
       "_id": 3855,
@@ -27,8 +29,10 @@
     {
       "id": "cicin_icicle",
       "name": "Estalactite Cicin",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#99FFFFFF\">Dano Cryo</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -47,8 +51,10 @@
     {
       "id": "misty_summons",
       "name": "Invocação Neblinosa",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, invoca <span style=\"color:#FFFFFFFF\">Cicin Cryo</span>.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#99FFFFFF\">Dano Cryo</span>, invoca <span style=\"color:#FFFFFFFF\">Cicin Cryo</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -61,8 +67,10 @@
     {
       "id": "blizzard_branch_blossom",
       "name": "Nevasca de Flores Brancas",
-      "desc": "Causa ? pontos de ?, concede <span style=\"color:#99FFFFFF\">Aplicação Cryo</span> a esse personagem e gera <span style=\"color:#FFFFFFFF\">Revestimento Cicin Fluente</span>.",
-      "skillTag": [],
+      "desc": "Causa 5 pontos de <span style=\"color:#99FFFFFF\">Dano Cryo</span>, concede <span style=\"color:#99FFFFFF\">Aplicação Cryo</span> a esse personagem e gera <span style=\"color:#FFFFFFFF\">Revestimento Cicin Fluente</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1101,

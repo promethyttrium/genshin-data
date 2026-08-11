@@ -1,7 +1,7 @@
 {
   "_id": 22030201,
   "id": "abyss_lector_fathomless_flames",
-  "monsterId": 22030202,
+  "monsterId": 84203022,
   "name": "Abgrundsänger – Abgrundflammen",
   "specialNames": [
     "Abgrundsänger Alberthonar",
@@ -22,9 +22,8 @@
   "categoryText": "Der Abgrund",
   "filename_icon": "UI_MonsterIcon_Invoker_Deacon_Fire",
   "description": "Monster, die Flammen des Abgrunds als Waffen beschwören können und nach dem Sinn esoterischer Schriften streben. Sie sind Mitglieder des „Ordens des Abgrunds“.\\nDie Monster sind für normale Menschen bekannt als „Sänger“, aber den wahrhaften Sinn hinter dieser Bezeichnung verstehen nur wenige. „Sänger“ sind auch diejenigen, die „Schriften vorsingen“. Sie glauben, dass sie, wenn sie die Schriften des Segens laut lesen, der ultimativen Macht noch ein Stück näher rücken können.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

@@ -1,0 +1,21 @@
+{
+  "_id": 320002,
+  "id": "ardent_storm_sublimation",
+  "name": "Tempesta ardente: Sublimazione",
+  "description": "Una gloriosa claymore illusoria emersa dalle profondità delle linee geomantiche, che brilla con il potere della \"Logica\". Può cambiare aspetto in base al tipo elementale di chi l'impugna. Leggenda vuole che il nome di quest'arma fosse \"Starkuthr\" quando era brandita da un peccatore trascendente in una terra antica.",
+  "rarity": 5,
+  "type": {
+    "id": "Claymore",
+    "name": "Claymore"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Metamorfosi splendente: Trascendenza - Sublimazione",
+    "priority": 1
+  },
+  "item_id": 341202,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Claymore_MorphGravitas_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_MorphGravitas_Great"
+}

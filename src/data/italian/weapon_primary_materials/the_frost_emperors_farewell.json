@@ -1,0 +1,29 @@
+{
+  "_id": 114096,
+  "id": "the_frost_emperors_farewell",
+  "name": "Addio dell'Imperatore del gelo",
+  "description": "Un oggetto apparso sul tavolo alla vigilia della guerra, nessuno sa come o quando.<br/>Egli lo riconobbe come opera dell'amico che non vedeva da tanti anni.<br/>Solo allora capì che era l'inizio di ogni calamità, il frutto amaro di ogni desiderio e il presagio di ogni distruzione.",
+  "source": [
+    "Segnaposto - Quantità realizzabile: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114095,
+        "id": "the_frost_emperors_lament",
+        "name": "Lamento dell'Imperatore del gelo",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio della forgiatura: Cicatrici di un'ossessione maledetta",
+  "days": [
+    "Mercoledì",
+    "Sabato",
+    "Domenica"
+  ]
+}

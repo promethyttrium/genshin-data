@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Mature",
   "description": "Die erwachsene Form eines männlichen Blubber-Seepferdchens. Es ist extrem aggressiv.\\nMenschen, die den König der Seepferdchen gesehen haben, berichten davon, dass es ein stolzes Wesen mit schlanken und langen Gliedmaßen sei.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

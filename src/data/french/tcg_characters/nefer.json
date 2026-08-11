@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Catalyseur",
     "faction": [
-      null,
-      null
+      "Sumeru",
+      "Nod-Krai"
     ],
     "source": "Récompense pour avoir invité Nefer à une partie amicale dans La Queue de Chat et remporté la victoire"
   },
@@ -19,8 +21,10 @@
     {
       "id": "striking_serpent",
       "name": "Serpent frappant",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#7EC236FF\">DGT Dendro</span>.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -39,8 +43,10 @@
     {
       "id": "senet_strategy_dance_of_a_thousand_nights",
       "name": "Tactique de senet : Danse des mille nuits",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?, accorde 1 cumul de <span style=\"color:#FFFFFFFF\">RÉS</span> au personnage affecté, et accorde une <span style=\"color:#FFFFFFFF\">réduction de coût</span> à un maximum de 3 cartes [<span style=\"color:#FFFFFFFF\">Graine de tromperie</span>] dont le coût est le plus élevé dans votre main avant votre prochaine action.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt de <span style=\"color:#7EC236FF\">DGT Dendro</span>, accorde 1 cumul de <span style=\"color:#FFFFFFFF\">RÉS</span> au personnage affecté, et accorde une <span style=\"color:#FFFFFFFF\">réduction de coût</span> à un maximum de 3 cartes [<span style=\"color:#FFFFFFFF\">Graine de tromperie</span>] dont le coût est le plus élevé dans votre main avant votre prochaine action.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -53,8 +59,10 @@
     {
       "id": "sacred_vow_true_eyes_phantasm",
       "name": "Vœu sacré : Illusion de regard pur",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?, les DGT augmentant de 1 pour chaque carte [<span style=\"color:#FFFFFFFF\">Graine de tromperie</span>] dans votre main jusqu'à un maximum de +2.",
-      "skillTag": [],
+      "desc": "Inflige 6 pts de <span style=\"color:#7EC236FF\">DGT Dendro</span>, les DGT augmentant de 1 pour chaque carte [<span style=\"color:#FFFFFFFF\">Graine de tromperie</span>] dans votre main jusqu'à un maximum de +2.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -74,7 +82,9 @@
       "id": "moonsign_benediction_dusklit_eaves",
       "name": "Bénédiction de signelune : Avant-toits sous le crépuscule",
       "desc": "(Passif) Lorsque l'adversaire subit une réaction de <span style=\"color:#FFFFFFFF\">Fleurissement</span> pendant la partie : Change en réaction de <span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Sélénofleurissement</span></span>.<br/><span style=\"color:#FFFFFFFF\">Lorsque l'adversaire a subi une réaction de <span style=\"color:#FFFFFFFF\">Sélénofleurissement</span> alors que vous avez moins de 3 cartes [Graine de tromperie] dans votre main : </span>Crée une carte [<span style=\"color:#FFFFFFFF\">Graine de tromperie</span>] dans votre main. (2 fois par manche)",
-      "skillTag": [],
+      "skillTag": [
+        "Capacité passive"
+      ],
       "points": []
     }
   ]

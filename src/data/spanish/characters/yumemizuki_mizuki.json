@@ -190,7 +190,7 @@
       "_id": 11092,
       "id": "aisa_utamakura_pilgrimage",
       "name": "Peregrinaje de Aisa Utamakura",
-      "description": "Teje dulces recuerdos oníricos y entra en el estado de <span style=\"color:#FFD780FF\">navegasueños</span>, durante el cual flota a ras de suelo e inflige una vez <span style=\"color:#80FFD7FF\">Daño Anemo en el AdE</span> a los enemigos cercanos.<br/><br/><span style=\"color:#FFD780FF\">Navegasueños</span><br/>·Mientras está en este estado, Yumemizuki Mizuki flota continuamente hacia delante e inflige cada cierto tiempo <span style=\"color:#80FFD7FF\">Daño Anemo en el AdE</span> a los enemigos cercanos.<br/>·Mientras el estado de navegasueños está activo, Yumemizuki Mizuki puede controlar la dirección en la que flota y aumenta la distancia desde la que se pueden recoger los <span style=\"color:#FFD780FF\">dulces especiales de Yumemizuki</span> de la Habilidad Definitiva, <span style=\"color:#FFD780FF\">Terapia del manantial de Anraku</span>.<br/>·Aumenta el daño de la reacción de Torbellino causada por los personajes cercanos del equipo en función de la Maestría Elemental de Yumemizuki Mizuki.<br/>·El estado de navegasueños termina cuando Mizuki sea retirada del campo de batalla o utilice de nuevo su Habilidad Elemental.",
+      "description": "Teje dulces recuerdos oníricos y entra en el estado de <span style=\"color:#FFD780FF\">navegasueños</span>, durante el cual flota a ras de suelo e inflige una vez <span style=\"color:#80FFD7FF\">Daño Anemo en el AdE</span> a los enemigos cercanos.<br/><br/><span style=\"color:#FFD780FF\">Navegasueños</span><br/>·Mientras está en este estado, Yumemizuki Mizuki flota continuamente hacia delante e inflige cada cierto tiempo <span style=\"color:#80FFD7FF\">Daño Anemo en el AdE</span> a los enemigos cercanos.<br/>·Mientras el estado de navegasueños está activo, Yumemizuki Mizuki puede controlar la dirección en la que flota y aumenta la distancia desde la que se pueden recoger los <span style=\"color:#FFD780FF\">dulces especiales de Yumemizuki</span> de la Habilidad Definitiva, <span style=\"color:#FFD780FF\">Terapia del manantial de Anraku</span>.<br/>·Aumenta el daño de las reacciones de Torbellino y Torbellino Estelar causadas por los personajes cercanos del equipo en función de la Maestría Elemental de Yumemizuki Mizuki.<br/>·El estado de navegasueños termina cuando Mizuki sea retirada del campo de batalla o utilice de nuevo su Habilidad Elemental.",
       "info": "“Noche y luna sueñan con encontrarse, mas su canción resuena en nuestros corazones”.",
       "attributes": [
         {
@@ -256,21 +256,41 @@
         {
           "label": "Aumento de daño de Torbellino",
           "values": [
-            "0.18% / pt. de Maestría Elemental",
-            "0.21% / pt. de Maestría Elemental",
-            "0.24% / pt. de Maestría Elemental",
-            "0.27% / pt. de Maestría Elemental",
-            "0.3% / pt. de Maestría Elemental",
-            "0.33% / pt. de Maestría Elemental",
-            "0.36% / pt. de Maestría Elemental",
-            "0.39% / pt. de Maestría Elemental",
-            "0.42% / pt. de Maestría Elemental",
-            "0.45% / pt. de Maestría Elemental",
-            "0.48% / pt. de Maestría Elemental",
-            "0.51% / pt. de Maestría Elemental",
-            "0.54% / pt. de Maestría Elemental",
-            "0.57% / pt. de Maestría Elemental",
-            "0.6% / pt. de Maestría Elemental"
+            "18% / 100pts. de Maestría Elemental",
+            "21% / 100pts. de Maestría Elemental",
+            "24% / 100pts. de Maestría Elemental",
+            "27% / 100pts. de Maestría Elemental",
+            "30% / 100pts. de Maestría Elemental",
+            "33% / 100pts. de Maestría Elemental",
+            "36% / 100pts. de Maestría Elemental",
+            "39% / 100pts. de Maestría Elemental",
+            "42% / 100pts. de Maestría Elemental",
+            "45% / 100pts. de Maestría Elemental",
+            "48% / 100pts. de Maestría Elemental",
+            "51% / 100pts. de Maestría Elemental",
+            "54% / 100pts. de Maestría Elemental",
+            "57% / 100pts. de Maestría Elemental",
+            "60% / 100pts. de Maestría Elemental"
+          ]
+        },
+        {
+          "label": "Aumento de daño de Torbellino Estelar",
+          "values": [
+            "1.8% / 100pts. de Maestría Elemental",
+            "2.1% / 100pts. de Maestría Elemental",
+            "2.4% / 100pts. de Maestría Elemental",
+            "2.7% / 100pts. de Maestría Elemental",
+            "3% / 100pts. de Maestría Elemental",
+            "3.3% / 100pts. de Maestría Elemental",
+            "3.6% / 100pts. de Maestría Elemental",
+            "3.9% / 100pts. de Maestría Elemental",
+            "4.2% / 100pts. de Maestría Elemental",
+            "4.5% / 100pts. de Maestría Elemental",
+            "4.8% / 100pts. de Maestría Elemental",
+            "5.1% / 100pts. de Maestría Elemental",
+            "5.4% / 100pts. de Maestría Elemental",
+            "5.7% / 100pts. de Maestría Elemental",
+            "6% / 100pts. de Maestría Elemental"
           ]
         },
         {
@@ -429,7 +449,7 @@
     {
       "id": "bright_moons_restless_voice",
       "name": "Voz trémula de la luna",
-      "description": "Cuando Yumemizuki Mizuki causa una reacción de Torbellino mientras se encuentra en estado de navegasueños, la duración de dicho estado aumenta en 2.5 s. Este efecto solo puede activarse una vez cada 0.3 s y puede ocurrir, como máximo, 2 veces durante un mismo estado de navegasueños.",
+      "description": "Cuando Yumemizuki Mizuki causa una reacción de Torbellino o Torbellino Estelar mientras se encuentra en estado de navegasueños, la duración de dicho estado aumenta en 2.5 s. Este efecto solo puede activarse una vez cada 0.3 s y puede ocurrir, como máximo, 2 veces durante un mismo estado de navegasueños.",
       "level": 1
     },
     {
@@ -450,7 +470,7 @@
       "_id": 1091,
       "id": "in_mistlike_waters",
       "name": "Aguas brumosas",
-      "description": "Cuando Yumemizuki Mizuki se encuentra en estado de navegasueños, aplicará continuamente el efecto de “veintitrés noches de espera” a los enemigos cercanos durante 3 s cada 3.5 s. Cuando un enemigo se vea afectado por una reacción de Torbellino causada con Daño Anemo, este efecto se cancelará y el daño de dicha reacción de Torbellino contra este enemigo aumentará en una cantidad equivalente al 1100% de la Maestría Elemental de Mizuki.",
+      "description": "Cuando Yumemizuki Mizuki se encuentra en estado de navegasueños, aplicará el efecto de “veintitrés noches de espera” a los enemigos cercanos durante 3 s cada 3.5 s. Al infligir Daño Anemo a estos enemigos y causar contra ellos una reacción de Torbellino o Torbellino Estelar, este efecto se cancelará y el daño de dicha reacción de Torbellino o Torbellino Estelar contra esos enemigos aumentará respectivamente en una cantidad equivalente al 1100/550% de la Maestría Elemental de Yumemizuki Mizuki.",
       "level": 1
     },
     {
@@ -485,7 +505,7 @@
       "_id": 1096,
       "id": "the_heart_lingers_long",
       "name": "Anhelo persistente",
-      "description": "Mientras Yumemizuki Mizuki esté en el estado de navegasueños, el daño de Torbellino infligido por los personajes cercanos del equipo puede asestar golpes CRIT, con un índice fijo de Prob. CRIT del 30% y un Daño CRIT del 100%.",
+      "description": "Mientras Yumemizuki Mizuki esté en el estado de navegasueños, el daño de Torbellino infligido por los personajes cercanos del equipo puede asestar golpes CRIT, con un índice fijo de Prob. CRIT del 30% y un Daño CRIT del 100%, y además, aumenta en un 10% la Prob. CRIT y en un 20% el Daño CRIT del daño de Torbellino Estelar infligido por dichos personajes.",
       "level": 6
     }
   ],

@@ -1,0 +1,21 @@
+{
+  "_id": 340003,
+  "id": "dawnstar_of_shahar",
+  "name": "Étoile aurorale de Shahar",
+  "description": "Une arme glorieuse et illusoire, surgie des profondeurs des lignes énergétiques. Son apparence peut changer selon le type élémentaire de son porteur. La légende raconte qu'en des temps immémoriaux, un envoyé des cieux confia ce sceau sacré au grand prêtre d'Hyperborée, lui octroyant ainsi le droit de diriger la cité d'or resplendissante.",
+  "rarity": 4,
+  "type": {
+    "id": "Catalyst",
+    "name": "Catalyseur"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "Métamorphose radieuse : Éternité",
+    "priority": 2
+  },
+  "item_id": 341403,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphShahar_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphShahar"
+}

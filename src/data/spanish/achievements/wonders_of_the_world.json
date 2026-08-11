@@ -278,8 +278,8 @@
     },
     {
       "id": 81032,
-      "name": "Misión fallida",
-      "desc": "Pierde el rastro de tu objetivo en una Cacería recompensada.",
+      "name": "MISIÓN FALLIDA O...",
+      "desc": "Pierde de vista al objetivo de una Cacería recompensada, o nunca más necesites hacer Cacerías recompensadas.",
       "reward": 5,
       "hidden": true,
       "order": 1033
@@ -4641,6 +4641,214 @@
       "order": 1699
     },
     {
+      "id": 81700,
+      "name": "¡Detente, eres tan bello!",
+      "desc": "Detente un momento para admirar los impresionantes paisajes del abedul blanco y el palacio sepultado por la nieve.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1700
+    },
+    {
+      "id": 81701,
+      "name": "El ser trascendente de la nación del mañana",
+      "desc": "Reúne las reliquias dejadas por cierta persona en el Palacio de la Corona Blanca.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1701
+    },
+    {
+      "id": 81702,
+      "name": "Efecto de interés compuesto",
+      "desc": "Haz rodar una bola de nieve hasta que alcance el tamaño máximo.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1702
+    },
+    {
+      "id": 81703,
+      "name": "Las campanas nupciales",
+      "desc": "Haz sonar las campanas cuyo tañido ya no suena en bucle.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1703
+    },
+    {
+      "id": 81704,
+      "name": "Por quién doblan",
+      "desc": "Haz sonar de nuevo las campanas que ya no están sujetas a ninguna restricción.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1704
+    },
+    {
+      "id": 81705,
+      "name": "La ilusión en el fósforo",
+      "desc": "Haz que los intranquilos encuentren sosiego.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1705
+    },
+    {
+      "id": 81706,
+      "name": "Límites y demostraciones",
+      "desc": "Quizás las obras de arte tienen nombre solo para encontrar otra forma de resonar.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1706
+    },
+    {
+      "id": 81707,
+      "name": "Sobreviven",
+      "desc": "Ponte el Ojo de las Grayas por primera vez.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1707
+    },
+    {
+      "id": 81708,
+      "name": "Nieve, minerales y velocidad",
+      "desc": "Renueva por completo el viejo tren.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1708
+    },
+    {
+      "id": 81709,
+      "name": "A través del salón falso",
+      "desc": "Reúne todas las pinturas de la Casa de las Hespérides y abre la cámara del tesoro oculta detrás de ella.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1709
+    },
+    {
+      "id": 81710,
+      "name": "Para todos tus futuros yo",
+      "desc": "Aunque ese tú aún no haya llegado.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1710
+    },
+    {
+      "id": 81711,
+      "name": "Porque el palacio está ahí",
+      "desc": "Llega al punto más alto del Palacio Zapoliarni.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1711
+    },
+    {
+      "id": 81712,
+      "name": "La última rosa del invierno",
+      "desc": "... Y la polilla, al final, pereció en el fuego.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1712
+    },
+    {
+      "id": 81714,
+      "name": "Más frío que en tu corazón",
+      "desc": "Gana a la gente de Natlan en una competición de resistencia al frío.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1714
+    },
+    {
+      "id": 81715,
+      "name": "¡Yajuuu!",
+      "desc": "Ayuda al jefe de aldea Jack Frost a repeler la invasión de los volkodlak.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1715
+    },
+    {
+      "id": 81716,
+      "name": "Una Alta Mesa sobre la Alta Mesa",
+      "desc": "Pero ¿quién recuerda que la Alta Mesa la fundaron los domovói?",
+      "reward": 5,
+      "hidden": true,
+      "order": 1716
+    },
+    {
+      "id": 81717,
+      "name": "El iceberg se hunde y no vuelve a emerger",
+      "desc": "Presencia el final del snegovik gigante.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1717
+    },
+    {
+      "id": 81718,
+      "name": "“Se ha vendido el jardín de los cerezos”",
+      "desc": "Presencia cómo la cabaña sobre el hielo se queda colgando, se detiene y finalmente se hunde.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1718
+    },
+    {
+      "id": 81720,
+      "name": "Se ha calculado una ruta",
+      "desc": "Usa un mecanismo de enlace para realizar un desplazamiento horizontal de 30 metros.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1720
+    },
+    {
+      "id": 81721,
+      "name": "Como un destello de inspiración",
+      "desc": "La bola de nieve comienza a derretirse antes de tocar el suelo.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1721
+    },
+    {
+      "id": 81722,
+      "name": "¡No puedes pasar!",
+      "desc": "Detén una bola de nieve rodante.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1722
+    },
+    {
+      "id": 81724,
+      "name": "Rodillas de acero",
+      "desc": "Mantente en estado de deslizamiento durante 20 s.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1724
+    },
+    {
+      "id": 81728,
+      "name": "Una promesa de antaño",
+      "desc": "En aquel entonces, el Distrito Zolni no tenía rey y cada uno hacía lo que quería...",
+      "reward": 5,
+      "hidden": true,
+      "order": 1728
+    },
+    {
+      "id": 81729,
+      "name": "Koski, opciones",
+      "desc": "Ayuda a la mujer de Natlan a calmar a su compañera ave fluyeardiente.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1729
+    },
+    {
+      "id": 81730,
+      "name": "Como si mi imaginación se congelara con mi mirada",
+      "desc": "Acércate a la estatua formada por el fantasma de la joven del faro.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1730
+    },
+    {
+      "id": 81731,
+      "name": "Como una cuba",
+      "desc": "Siempre puedes despertar a alguien que está realmente borracho.",
+      "reward": 5,
+      "hidden": true,
+      "order": 1731
+    },
+    {
       "id": 82008,
       "name": "Una fuerza imparable",
       "desc": "Destruye todos los pilares de piedra del Hipóstasis Geo antes de que reviva.",
@@ -5451,6 +5659,22 @@
       "order": 2309
     },
     {
+      "id": 82310,
+      "name": "Quietos... Quietos... ¡Ya!",
+      "desc": "Interrumpe el ataque de la Creación Derivada Inmortal rompiendo su escudo de regeneración mientras se encuentra en estado de “refulgevida”.",
+      "reward": 5,
+      "hidden": true,
+      "order": 2310
+    },
+    {
+      "id": 82311,
+      "name": "La caída del león alado",
+      "desc": "Derriba al León Quimérico Alado destruyendo todos los orbes Anemo mientras se encuentra en estado de “alentavientos”.",
+      "reward": 5,
+      "hidden": true,
+      "order": 2311
+    },
+    {
       "id": 84000,
       "name": "El comienzo de un largo viaje",
       "desc": "Completa las misiones del Arconte en Mondstadt.",
@@ -6233,6 +6457,14 @@
       "reward": 5,
       "hidden": true,
       "order": 4107
+    },
+    {
+      "id": 84584,
+      "name": "El cisne níveo negro que danza y surca los cielos",
+      "desc": "Así llegaría a lugares en los que otros cisnes níveos nunca habían estado y se atrevería a hacer suyos sueños que las demás aves jamás habían tenido.",
+      "reward": 5,
+      "hidden": true,
+      "order": 4108
     },
     {
       "id": 85000,
@@ -7593,6 +7825,70 @@
       "reward": 10,
       "hidden": true,
       "order": 5165
+    },
+    {
+      "id": 84391,
+      "name": "El rugido de la ventisca",
+      "desc": "Conduce el tren a través de la ventisca de Snezhnaya.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5166
+    },
+    {
+      "id": 84392,
+      "name": "El misterio de la Estrella Albina",
+      "desc": "Obtén la Hoja de Exáifanes en la cueva helada.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5167
+    },
+    {
+      "id": 84393,
+      "name": "Vientos aullantes",
+      "desc": "Acepta la invitación para unirte a Rókot.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5168
+    },
+    {
+      "id": 84394,
+      "name": "Frío eterno y cruel",
+      "desc": "Completa la misión «Frío eterno y cruel».",
+      "reward": 10,
+      "hidden": true,
+      "order": 5169
+    },
+    {
+      "id": 84395,
+      "name": "Vals del amor o el arrepentimiento",
+      "desc": "Observa el ensayo de «La búsqueda del espíritu».",
+      "reward": 5,
+      "hidden": true,
+      "order": 5170
+    },
+    {
+      "id": 84396,
+      "name": "Rompiendo el bucle",
+      "desc": "Presencia cómo Mitya se adentra voluntariamente en la ventisca.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5171
+    },
+    {
+      "id": 84397,
+      "name": "Las tres muertes del “destino”",
+      "desc": "Sobrevive al mundo de los muertos.",
+      "reward": 5,
+      "hidden": true,
+      "order": 5172
+    },
+    {
+      "id": 84398,
+      "name": "Nocturno de las almas difuntas",
+      "desc": "Completa la misión «Nocturno de las almas difuntas».",
+      "reward": 10,
+      "hidden": true,
+      "order": 5173
     },
     {
       "id": 84155,

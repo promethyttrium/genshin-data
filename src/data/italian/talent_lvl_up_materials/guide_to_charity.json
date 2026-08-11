@@ -1,0 +1,30 @@
+{
+  "_id": 104366,
+  "id": "guide_to_charity",
+  "name": "Guida alla benevolenza",
+  "description": "Materiale per l'aumento di livello dei talenti.\\nLa benevolenza è la salvezza del regno glaciale.\\nEssa genera misericordia per gli altri. Nel regno del vento e della neve, chiunque si penta sinceramente dei peccati della propria anima troverà l'assoluzione nel nome della benevolenza.",
+  "source": [
+    "Segnaposto - Quantità realizzabile: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104365,
+        "id": "teachings_of_charity",
+        "name": "Insegnamenti della benevolenza",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio della maestria: Contemplazione IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Lunedì",
+    "Giovedì",
+    "Domenica"
+  ]
+}

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Mimik_Ice",
   "description": "Un mostro vegetale mimetico che può apparire dal nulla, e che usa il potere di Cryo in combattimento.\\nQuesta pianta si nasconde sotto la superficie e tende imboscate alle sue prede ignare. Nel corso degli anni, con un'alimentazione sufficiente e l'ambiente giusto, questa creatura potrebbe persino mettere radici da qualche parte e diventare un Regisreptus di Cryo gigante...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

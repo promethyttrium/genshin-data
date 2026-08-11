@@ -8,9 +8,10 @@
   "attributes": {
     "hp": 10,
     "card_type": "Carta de personaje",
-    "energy": 0,
+    "element": "Cryo",
+    "weapon": "Espada ligera",
     "faction": [
-      null
+      "Calamidad Cósmica"
     ],
     "talent_card": {
       "_id": 9240,
@@ -29,8 +30,10 @@
     {
       "id": "havoc_sunder",
       "name": "Caos: Escisión",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,7 +53,9 @@
       "id": "havoc_warp",
       "name": "Caos: Distorsión",
       "desc": "Obtiene 2 pts. de <span style=\"color:#FFFFFFFF\">astucia serpentina</span> y crea 1 carta de <span style=\"color:#FFFFFFFF\">Entrenamiento de armas recíproco</span> (1 vez por ronda).",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +68,10 @@
     {
       "id": "havoc_ruin",
       "name": "Caos: Aniquilación",
-      "desc": "Consume todos los pts. de <span style=\"color:#FFFFFFFF\">astucia serpentina</span> e inflige ? en una cantidad equivalente a los pts. de <span style=\"color:#FFFFFFFF\">astucia serpentina</span> consumidos. Después, inflige 2 pts. de <span style=\"color:#FFFFFFFF\">Daño Penetrante</span> a los enemigos en reserva. Si ha consumido 7 pts. de <span style=\"color:#FFFFFFFF\">astucia serpentina</span>, pasará a infligir 3 pts. de <span style=\"color:#FFFFFFFF\">Daño Penetrante</span> a los enemigos en reserva.",
-      "skillTag": [],
+      "desc": "Consume todos los pts. de <span style=\"color:#FFFFFFFF\">astucia serpentina</span> e inflige <span style=\"color:#99FFFFFF\">Daño Cryo</span> en una cantidad equivalente a los pts. de <span style=\"color:#FFFFFFFF\">astucia serpentina</span> consumidos. Después, inflige 2 pts. de <span style=\"color:#FFFFFFFF\">Daño Penetrante</span> a los enemigos en reserva. Si ha consumido 7 pts. de <span style=\"color:#FFFFFFFF\">astucia serpentina</span>, pasará a infligir 3 pts. de <span style=\"color:#FFFFFFFF\">Daño Penetrante</span> a los enemigos en reserva.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -78,7 +85,9 @@
       "id": "reason_beyond_reason",
       "name": "La razón más allá de la razón",
       "desc": "Pasiva: Skirk no puede obtener Energía. En su lugar puede acumular hasta 7 pts. de <span style=\"color:#FFFFFFFF\">astucia serpentina</span>.<br/><span style=\"color:#FFFFFFFF\">Después de que tus personajes causen una reacción de Congelado, Torbellino Cryo, Superconductor o Cristalización Cryo</span>, crea 1 carta de <span style=\"color:#FFFFFFFF\">Fisura del vacío</span> (3 veces por ronda).",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
       "points": []
     }
   ]

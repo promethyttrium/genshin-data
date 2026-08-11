@@ -1,0 +1,16 @@
+{
+  "_id": 380003,
+  "id": "a_touch_of_frost_in_scorching_summer",
+  "name": "真夏のアイスポップ！",
+  "description": "霜の精たちが友達に贈る小さなプレゼント！とても美味しそうで、ベリージャムの味がしそうだ。一口かじれば、心に染み渡る冷たさと素晴らしい甘みが舌の上で手を取り合って舞い踊るに違いない。だが、実際には食べられない…本当に美味しそうに見えるのに。",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "片手剣"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341803,
+  "icon_path": "UI_EquipIcon_Sword_Icecream",
+  "image_path": "UI_Gacha_EquipIcon_Sword_Icecream"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": 380002,
+  "id": "super_awesome_magic_key",
+  "name": "「マジカルマジックキー」",
+  "description": "「小さな魔女会」が親友に贈ったプレゼント。材料不足のため、その形はフォンテーヌの『雪羽ガン童話集』に登場する魔法の道具を参考にしている。\\n童話のように自在に異空間への扉を開くことはできないが、大切な友達に寄り添って無数の空間を渡り歩けるほどの頑丈さは備えている。",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "両手剣"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341802,
+  "icon_path": "UI_EquipIcon_Claymore_LoliFriend",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_LoliFriend"
+}

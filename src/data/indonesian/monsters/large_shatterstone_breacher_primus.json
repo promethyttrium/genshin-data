@@ -13,7 +13,6 @@
   "categoryText": "Abyss",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_01",
   "description": "Makhluk ajaib yang utamanya muncul di Elynas.\\nDalam pemahaman Melusine, Breacher Primus adalah makhluk yang pada dasarnya tidak berbahaya, bahkan ada Melusine yang menganggap mereka lucu sekali.\\nMemang persepsi visual manusia dan Melusine itu berbeda sekali ya.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

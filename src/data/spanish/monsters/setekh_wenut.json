@@ -36,7 +36,7 @@
       "_id": 113044,
       "id": "pseudostamens",
       "name": "Pseudoestambre",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104154,
@@ -119,7 +119,6 @@
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Sandworm",
   "description": "Un depredador desprovisto de ojos que vive en las profundidades del desierto, y que es capaz de seguir el rastro de su presa por el sonido y las vibraciones del suelo.\\nCuenta la leyenda que, en una época anterior a la existencia del tiempo, este tipo de depredadores reinaba sobre la tierra, antaño cubierta de frondosas hierbas y árboles ciclópeos, y al igual que sus progenitores y descendientes, se desplazaban a través de la húmeda tierra como peces en el agua.\\nTras muchos eones, la blanda tierra se convirtió en arena por la gracia de los cielos, con lo que muchas formas de vida perecieron y numerosas especies se extinguieron. Por su parte, estas criaturas que dependían de la tierra para subsistir se convirtieron en gusanos de arena.\\nDebido a sus hábitos de vida similares, muchos habitantes del desierto creen que los gusanos de arena son la forma desarrollada de las anguilas del desierto después de pupar y metamorfosearse.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

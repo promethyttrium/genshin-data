@@ -1,0 +1,39 @@
+{
+  "_id": 215047,
+  "id": "scarlet_proof",
+  "name": "Scarlet Proof",
+  "min_rarity": 4,
+  "max_rarity": 5,
+  "two_pc": "เพิ่มพลังโจมตี 18%",
+  "four_pc": "ภายใน 10 วินาที หลังจากผู้สวมใส่ทำให้เกิดปฏิกิริยากระจายดารา อัตราคริจะเพิ่มขึ้น 16% และความเสียหายจากปฏิกิริยากระจายดาราเพิ่มขึ้น 40%",
+  "goblet": {
+    "_id": 47412,
+    "id": "chalice_of_your_blood_and_sorrow",
+    "name": "Chalice of Your Blood and Sorrow",
+    "description": "ขวดไวน์สีแดงสด หวังว่าคุณจะไม่รู้ว่าข้างในเคยใส่อะไรไว้"
+  },
+  "plume": {
+    "_id": 47422,
+    "id": "glory_to_your_legacy",
+    "name": "Glory to Your Legacy",
+    "description": "ปากกาขนนกสีแดงสด มอบให้แก่สายเลือดที่เยาว์วัยที่สุด"
+  },
+  "circlet": {
+    "_id": 47432,
+    "id": "testament_to_your_faith",
+    "name": "Testament to Your Faith",
+    "description": "หมวกเกราะสีแดงสด หวังว่ามันจะเคยปกป้องใครสักคน"
+  },
+  "flower": {
+    "_id": 47442,
+    "id": "honor_to_your_devotion",
+    "name": "Honor to Your Devotion",
+    "description": "เครื่องประดับดอกไม้สีแดงสด เป็นสัญลักษณ์ของความรุ่งโรจน์ดุจเปลวไฟ"
+  },
+  "sands": {
+    "_id": 47452,
+    "id": "time_gifted_unto_you",
+    "name": "Time Gifted Unto You",
+    "description": "นาฬิกาพกสีแดงสด ที่บันทึกกำหนดเวลาของการสนทนาครั้งหนึ่งเอาไว้"
+  }
+}

@@ -1,0 +1,1253 @@
+{
+  "_id": 10000148,
+  "id": "alyosha",
+  "name": "Alyosha",
+  "title": "Swift-Striding Hound",
+  "description": "Seorang \"pemburu profesional\" yang mahir menjelajah hamparan salju Snezhnaya. Di balik sikapnya yang tenang, berkobar sebuah \"idealisme\" yang membara.",
+  "weapon_type": {
+    "id": "polearm",
+    "name": "Polearm"
+  },
+  "element": {
+    "id": "electro",
+    "name": "Electro"
+  },
+  "gender": {
+    "id": "male",
+    "name": "Pria"
+  },
+  "release": 1786395600,
+  "substat": "Energy Recharge",
+  "affiliation": "Snezhnaya",
+  "region": {
+    "id": "snezhnaya",
+    "name": "Snezhnaya"
+  },
+  "rarity": 4,
+  "birthday": [
+    9,
+    2
+  ],
+  "constellation": "Canis Borzoides",
+  "domain": "Domain of Mastery: Pengasingan",
+  "cv": {
+    "english": "Kevin Andrew Rivera",
+    "chinese": "王辅平",
+    "japanese": "佐藤元",
+    "korean": "Kim Hye-sung"
+  },
+  "skills": [
+    {
+      "_id": 11481,
+      "id": "skirmishing_spear",
+      "name": "Skirmishing Spear",
+      "description": "<span style=\"color:#FFD780FF\">Normal Attack</span><br/>Melancarkan hingga 4 serangan tombak berturut-turut dan memberikan efek <b><span style=\"color:#FFD780FF\">Hunter's Mark</span></b> terhadap musuh yang terkena serangan terakhir.<br/><br/><span style=\"color:#FFD780FF\">Charged Attack</span><br/>Mengonsumsi sejumlah Stamina dan menerjang ke depan, mengakibatkan DMG terhadap musuh di sepanjang jalur.<br/><br/><span style=\"color:#FFD780FF\">Plunging Attack</span><br/>Menerjang dari udara untuk menghantam tanah, menyerang musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "DMG Tahap 1",
+          "values": [
+            "47.8%",
+            "51.7%",
+            "55.6%",
+            "61.2%",
+            "65.1%",
+            "69.5%",
+            "75.6%",
+            "81.7%",
+            "87.8%",
+            "94.5%",
+            "101.2%",
+            "107.9%",
+            "114.5%",
+            "121.2%",
+            "127.9%"
+          ]
+        },
+        {
+          "label": "DMG Tahap 2",
+          "values": [
+            "48.2%",
+            "52.1%",
+            "56%",
+            "61.6%",
+            "65.5%",
+            "70%",
+            "76.2%",
+            "82.3%",
+            "88.5%",
+            "95.2%",
+            "101.9%",
+            "108.6%",
+            "115.4%",
+            "122.1%",
+            "128.8%"
+          ]
+        },
+        {
+          "label": "DMG Tahap 3",
+          "values": [
+            "34.2% + 31.8%",
+            "37% + 34.4%",
+            "39.8% + 37%",
+            "43.8% + 40.7%",
+            "46.6% + 43.3%",
+            "49.8% + 46.3%",
+            "54.1% + 50.3%",
+            "58.5% + 54.4%",
+            "62.9% + 58.5%",
+            "67.7% + 62.9%",
+            "72.4% + 67.3%",
+            "77.2% + 71.8%",
+            "82% + 76.2%",
+            "86.8% + 80.7%",
+            "91.5% + 85.1%"
+          ]
+        },
+        {
+          "label": "DMG Tahap 4",
+          "values": [
+            "75.9%",
+            "82%",
+            "88.2%",
+            "97%",
+            "103.2%",
+            "110.3%",
+            "120%",
+            "129.7%",
+            "139.4%",
+            "149.9%",
+            "160.5%",
+            "171.1%",
+            "181.7%",
+            "192.3%",
+            "202.9%"
+          ]
+        },
+        {
+          "label": "DMG Charged Attack",
+          "values": [
+            "111%",
+            "120.1%",
+            "129.1%",
+            "142%",
+            "151%",
+            "161.4%",
+            "175.6%",
+            "189.8%",
+            "204%",
+            "219.5%",
+            "235%",
+            "250.5%",
+            "265.9%",
+            "281.4%",
+            "296.9%"
+          ]
+        },
+        {
+          "label": "Konsumsi Stamina Charged Attack",
+          "values": [
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25"
+          ]
+        },
+        {
+          "label": "DMG Selama Plunging",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "DMG Plunging Attack Rendah/Tinggi",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11482,
+      "id": "thunderbolt_strike",
+      "name": "Thunderbolt Strike",
+      "description": "Dengan mengikuti naluri pemburu, efek yang dihasilkan akan berbeda berdasarkan Mode Tekan atau Mode Tahan, dan akan memberikan efek <b><span style=\"color:#FFD780FF\">Hunter's Mark</span></b> terhadap musuh yang terkena.<br/><br/><span style=\"color:#FFD780FF\">Mode Tekan</span><br/>Menembak ke depan dan mengakibatkan <span style=\"color:#FFACFFFF\">Electro DMG Area</span>.<br/><br/><span style=\"color:#FFD780FF\">Mode Tahan</span><br/>Memasuki mode membidik dan memilih musuh dalam jangkauan tertentu di arah depan, meningkatkan ketahanan terhadap interupsi Alyosha selama mode ini berlangsung.<br/>Saat Mode Tahan berakhir, mengakibatkan <span style=\"color:#FFACFFFF\">Electro DMG</span> terhadap musuh yang dipilih.",
+      "info": "Pemburu yang ceroboh itu pernah menggapai ujung tombaknya, lalu dia selamat dari pelajaran berdarah karena keberuntungannya dan kini telah memahami prinsip bertahan hidup di padang salju.",
+      "attributes": [
+        {
+          "label": "DMG Mode Tekan",
+          "values": [
+            "286.7%",
+            "308.2%",
+            "329.7%",
+            "358.4%",
+            "379.9%",
+            "401.4%",
+            "430.1%",
+            "458.8%",
+            "487.4%",
+            "516.1%",
+            "544.8%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%"
+          ]
+        },
+        {
+          "label": "DMG Mode Tahan",
+          "values": [
+            "358.4%",
+            "385.3%",
+            "412.2%",
+            "448%",
+            "474.9%",
+            "501.8%",
+            "537.6%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%",
+            "716.8%",
+            "761.6%",
+            "806.4%",
+            "851.2%"
+          ]
+        },
+        {
+          "label": "Cooldown",
+          "values": [
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk"
+          ]
+        },
+        {
+          "label": "Durasi Hunter's Mark",
+          "values": [
+            "15dtk",
+            "15dtk",
+            "15dtk",
+            "15dtk",
+            "15dtk",
+            "15dtk",
+            "15dtk",
+            "15dtk",
+            "15dtk",
+            "15dtk",
+            "15dtk",
+            "15dtk",
+            "15dtk",
+            "15dtk",
+            "15dtk"
+          ]
+        },
+        {
+          "label": "Peningkatan ATK Hunter's Precision",
+          "values": [
+            "11.7%",
+            "12.7%",
+            "13.8%",
+            "14.8%",
+            "15.9%",
+            "17%",
+            "18%",
+            "19.1%",
+            "20.1%",
+            "21.2%",
+            "22.5%",
+            "23.7%",
+            "25%",
+            "26.3%",
+            "27.6%"
+          ]
+        },
+        {
+          "label": "Durasi Hunter's Precision",
+          "values": [
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk",
+            "15 dtk"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11485,
+      "id": "hunters_advance",
+      "name": "Hunter's Advance",
+      "description": "Memanggil sahabat setianya <span style=\"color:#FFD780FF\">Tugarin</span> untuk bertarung bersama dan mengubah area di depan menjadi <span style=\"color:#FFD780FF\">Fulgurite Hunting Field</span> untuk sementara.<br/><br/><span style=\"color:#FFD780FF\">Fulgurite Hunting Field</span><br/>·Terus-menerus memprovokasi musuh di sekitarnya untuk menarik serangan musuh.<br/>·Setiap 2 detik, mengakibatkan <span style=\"color:#FFACFFFF\">Electro DMG Area</span> terhadap musuh yang memasuki area tersebut.<br/><br/><span style=\"color:#FFD780FF\">Tugarin</span><br/>·Jika ada musuh di sekitar, Tugarin akan bergerak cepat untuk mendekati salah satu musuh dan menggigitnya setiap 2 detik, mengakibatkan <span style=\"color:#FFD780FF\">Electro DMG</span>.<br/>·Jika musuh yang diserang sedang berada dalam efek <span style=\"color:#FFD780FF\">Hunter's Mark</span>, maka efek <span style=\"color:#FFD780FF\">Hunter's Mark</span> ini juga akan diaktifkan.<br/>·Tugarin akan memprioritaskan serangan pada musuh yang sedang dalam efek <span style=\"color:#FFD780FF\">Hunter's Mark</span>.",
+      "info": "Tunggu, tunggu sampai ketidaksabarannya hilang. Maka pada saat itu, burung cerek perut merah itu pun akan terbang melintasi hutan birch putih dan menyambut anak panahnya.",
+      "attributes": [
+        {
+          "label": "DMG Fulgurite Hunting Field",
+          "values": [
+            "75%",
+            "80.6%",
+            "86.2%",
+            "93.7%",
+            "99.3%",
+            "104.9%",
+            "112.4%",
+            "119.9%",
+            "127.4%",
+            "134.9%",
+            "142.4%",
+            "149.9%",
+            "159.3%",
+            "168.7%",
+            "178%"
+          ]
+        },
+        {
+          "label": "DMG Tugarin",
+          "values": [
+            "50.2%",
+            "54%",
+            "57.8%",
+            "62.8%",
+            "66.5%",
+            "70.3%",
+            "75.3%",
+            "80.4%",
+            "85.4%",
+            "90.4%",
+            "95.4%",
+            "100.4%",
+            "106.7%",
+            "113%",
+            "119.3%"
+          ]
+        },
+        {
+          "label": "Durasi",
+          "values": [
+            "14dtk",
+            "14dtk",
+            "14dtk",
+            "14dtk",
+            "14dtk",
+            "14dtk",
+            "14dtk",
+            "14dtk",
+            "14dtk",
+            "14dtk",
+            "14dtk",
+            "14dtk",
+            "14dtk",
+            "14dtk",
+            "14dtk"
+          ]
+        },
+        {
+          "label": "Cooldown",
+          "values": [
+            "18 dtk",
+            "18 dtk",
+            "18 dtk",
+            "18 dtk",
+            "18 dtk",
+            "18 dtk",
+            "18 dtk",
+            "18 dtk",
+            "18 dtk",
+            "18 dtk",
+            "18 dtk",
+            "18 dtk",
+            "18 dtk",
+            "18 dtk",
+            "18 dtk"
+          ]
+        },
+        {
+          "label": "Konsumsi Energy",
+          "values": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "awakened_by_the_baying_hounds",
+      "name": "Awakened by the Baying Hounds",
+      "description": "Saat <b><span style=\"color:#FFD780FF\">Tugarin</span></b> menyerang, ia juga akan memulihkan HP Karakter aktif party di sekitar sebesar 120% dari ATK Alyosha.",
+      "level": 1
+    },
+    {
+      "id": "suffer_the_winter_wheat_will",
+      "name": "Suffer the Winter Wheat Will",
+      "description": "Meningkatkan DMG yang diakibatkan oleh Elemental Skill dan Elemental Burst Alyosha berdasarkan Energy Recharge Alyosha: Setiap 1% Energy Recharge akan meningkatkan DMG ini sebesar 0,35% hingga maksimum 70%.",
+      "level": 4
+    },
+    {
+      "id": "into_the_fray",
+      "name": "Into the Fray",
+      "description": "Alyosha akan memasuki status <span style=\"color:#FFD780FF\">Radiance: Stellar-Conduct</span> saat berada di dalam <b><span style=\"color:#FFD780FF\">Polestar Field</span></b>.<br/><span style=\"color:#FFD780FF\">Radiance: Stellar-Conduct</span>: Efek <span style=\"color:#FFD780FF\">Hunter's Precision</span> yang diperoleh saat mengaktifkan <b><span style=\"color:#FFD780FF\">Hunter's Mark</span></b> juga akan meningkatkan 20% DMG reaksi Stellar-Conduct yang diakibatkan Karakter yang berada di medan pertempuran.",
+      "level": 0
+    },
+    {
+      "id": "treetop_watch",
+      "name": "Treetop Watch",
+      "description": "Memperlihatkan lokasi <span style=\"color:#FFD780FF\">produk khas Snezhnaya</span> di sekitar pada peta kecil.",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1481,
+      "id": "frostvale_thunderclap",
+      "name": "Frostvale Thunderclap",
+      "description": "Setelah Karakter party di sekitar memicu <span style=\"color:#FFACFFFF\">reaksi terkait Electro</span> terhadap musuh, akan memulihkan 15 poin Energy untuk Alyosha. Efek ini dapat terpicu maksimal sekali setiap 18 detik.",
+      "level": 1
+    },
+    {
+      "_id": 1482,
+      "id": "howl_from_afar",
+      "name": "Howl From Afar",
+      "description": "Durasi Elemental Burst <span style=\"color:#FFD780FF\">Hunter's Advance</span> diperpanjang 6 detik.<br/>Selain itu, sebelum setiap kali <b><span style=\"color:#FFD780FF\">Tugarin</span></b> menyerang musuh, ia juga akan memberikan efek <b><span style=\"color:#FFD780FF\">Hunter's Mark</span></b> terhadap satu target. Efek ini tidak akan mengaktifkan <span style=\"color:#FFD780FF\">Hunter's Mark</span> yang sudah ada.",
+      "level": 2
+    },
+    {
+      "_id": 1483,
+      "id": "friendly_call",
+      "name": "Friendly Call",
+      "description": "Meningkatkan 3 level Elemental Skill <span style=\"color:#FFD780FF\">Thunderbolt Strike</span>.<br/>Maksimum: Lv. 15.",
+      "level": 3
+    },
+    {
+      "_id": 1484,
+      "id": "harvest_the_spoils",
+      "name": "Harvest the Spoils",
+      "description": "Saat <b><span style=\"color:#FFD780FF\">Tugarin</span></b> menyerang, ia juga akan memulihkan HP anggota party terdekat dengan persentase HP terendah sebesar 60% ATK Alyosha.",
+      "level": 4
+    },
+    {
+      "_id": 1485,
+      "id": "when_the_nightbird_falls_silent",
+      "name": "When the Nightbird Falls Silent",
+      "description": "Meningkatkan 3 level Elemental Burst <span style=\"color:#FFD780FF\">Hunter's Advance</span>.<br/>Maksimum: Lv. 15.",
+      "level": 5
+    },
+    {
+      "_id": 1486,
+      "id": "standard_reclaimed",
+      "name": "Standard Reclaimed",
+      "description": "Efek <span style=\"color:#FFD780FF\">Hunter's Precision</span> yang diperoleh saat mengaktifkan <b><span style=\"color:#FFD780FF\">Hunter's Mark</span></b> kini dapat ditumpuk, hingga 2 lapis. Saat ditumpuk hingga 2 lapis, Elemental Mastery Karakter aktif yang terpengaruh Hunter's Precision akan meningkat 100 poin.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "-",
+            "1003"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "-",
+            "22"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "-",
+            "59"
+          ]
+        },
+        {
+          "label": "Energy Recharge",
+          "values": [
+            "-",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "2577",
+            "3326"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "57",
+            "74"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "151",
+            "195"
+          ]
+        },
+        {
+          "label": "Energy Recharge",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "4982",
+            "5514"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "111",
+            "122"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "293",
+            "324"
+          ]
+        },
+        {
+          "label": "Energy Recharge",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104141,
+        "id": "vajrada_amethyst_sliver",
+        "name": "Vajrada Amethyst Sliver",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Flockingweed",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Chimeric Core",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "6343",
+            "7052"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "141",
+            "157"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "373",
+            "414"
+          ]
+        },
+        {
+          "label": "Energy Recharge",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "Vajrada Amethyst Fragment",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Severed Tail of the Sky-Roamer",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Flockingweed",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Chimeric Core",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "7881",
+            "8413"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "175",
+            "187"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "463",
+            "494"
+          ]
+        },
+        {
+          "label": "Energy Recharge",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "Vajrada Amethyst Fragment",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Severed Tail of the Sky-Roamer",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Flockingweed",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Symbiotic Chimeric Nucleus",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "9241",
+            "9773"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "205",
+            "217"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "543",
+            "574"
+          ]
+        },
+        {
+          "label": "Energy Recharge",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "Vajrada Amethyst Chunk",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Severed Tail of the Sky-Roamer",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Flockingweed",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Symbiotic Chimeric Nucleus",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "10602",
+            "11134"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "235",
+            "247"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "623",
+            "654"
+          ]
+        },
+        {
+          "label": "Energy Recharge",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "Vajrada Amethyst Chunk",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Severed Tail of the Sky-Roamer",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Flockingweed",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "Prime Chimeric Nexus",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Ascend",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "Base HP",
+          "values": [
+            "11962",
+            "11962"
+          ]
+        },
+        {
+          "label": "Base ATK",
+          "values": [
+            "265",
+            "265"
+          ]
+        },
+        {
+          "label": "Base DEF",
+          "values": [
+            "703",
+            "703"
+          ]
+        },
+        {
+          "label": "Energy Recharge",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104144,
+        "id": "vajrada_amethyst_gemstone",
+        "name": "Vajrada Amethyst Gemstone",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "Severed Tail of the Sky-Roamer",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "Flockingweed",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "Prime Chimeric Nexus",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104368,
+          "id": "teachings_of_fortitude",
+          "name": "Teachings of Fortitude",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Chimeric Core",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guide to Fortitude",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiotic Chimeric Nucleus",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guide to Fortitude",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiotic Chimeric Nucleus",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guide to Fortitude",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiotic Chimeric Nucleus",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Guide to Fortitude",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Symbiotic Chimeric Nucleus",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophies of Fortitude",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Prime Chimeric Nexus",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixir of the Heretic",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophies of Fortitude",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Prime Chimeric Nexus",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixir of the Heretic",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophies of Fortitude",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Prime Chimeric Nexus",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixir of the Heretic",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Philosophies of Fortitude",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Prime Chimeric Nexus",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "Elixir of the Heretic",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Crown of Insight",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 214800,
+      "name": "Frost-Cloaked Ambusher",
+      "description": "Model pakaian Alyosha. Pakaian berburu yang kokoh dipadukan dengan lapisan dalam yang hangat, serta hiasan topi yang lembut. Dengan perlengkapan ini, Alyosha bisa bersembunyi di tengah salju dalam waktu lama hingga berhasil menangkap mangsanya. Soal kenapa topinya didesain menyerupai kepala anak anjing, jawabannya sederhana, karena terlihat menggemaskan. Tugarin pun sangat menyukainya.",
+      "isDefault": true,
+      "characterName": "Alyosha",
+      "characterId": 10000148,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Alyosha_Circle"
+    }
+  ]
+}

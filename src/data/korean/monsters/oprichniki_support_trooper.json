@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "우인단",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan",
   "description": "우인단 특수부대 소속 병사. 방패를 들고 최전방에서 지원한다.\\n스네즈나야와 칠흑의 재앙 사이의 이 긴 전쟁은, 결국 누가 더 오래 버티느냐에 달려 있다. 우인단 특수부대의 「버팀목」은 바로 방패병이다. 방패가 무너지지 않는 한, 승리의 희망은 남아 있다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

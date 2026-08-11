@@ -1,0 +1,40 @@
+{
+  "_id": 25135101,
+  "id": "glacial_warden",
+  "monsterId": 25135106,
+  "name": "Vigia Glacial",
+  "specialNames": [
+    "Vigia Glacial"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Monstros diversos",
+  "filename_icon": "UI_MonsterIcon_Snegurochka_Male",
+  "description": "Um Snegovik nascido do amor em meio à neve e ao gelo.\\nSnegoviks masculinos são cavaleiros natos, com a maioria deles conseguindo forjar livremente armas de gelo e neve.\\nA lenda diz que, durante a campanha do Czar Belyi contra a maré sombria, um Snegovik servindo como guarda dele lançou um poder que não pertencia à espécie dele, transformando-se num gigante.\\nEmbora o destino dele permaneça desconhecido, alguém que violou um tabu assim com certeza não pode ter tido um final feliz.",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 81.504,
+      "attack": 75.36,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

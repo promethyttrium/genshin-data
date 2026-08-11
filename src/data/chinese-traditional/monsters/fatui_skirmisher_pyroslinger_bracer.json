@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "愚人眾",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01",
   "description": "操使著烈焰之銃的愚人眾士兵。\\n先遣隊配置的武器在一定程度上能制禦元素，戰鬥策略上則會利用元素反應。\\n因為擁有這樣的武裝與知識，先遣隊團隊作戰時能帶來無法小覷的威脅。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

@@ -1,0 +1,40 @@
+{
+  "_id": 25137001,
+  "id": "rugged_elder_leshy",
+  "monsterId": 25137006,
+  "name": "Ancião Áspero Arbóreo",
+  "specialNames": [
+    "Segmento Jovem de Árvore"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Monstros diversos",
+  "filename_icon": "UI_MonsterIcon_Leshy_Mature_01",
+  "description": "Um Leshy que cresce em florestas.\\nCom apenas uma consciência fragmentada e nenhuma habilidade de fala, Leshies podem parecer o resultado dos primeiros experimentos do Reino Dourado. Mas, segundo registros, o oposto é verdade. Somente após artesãos terem quase dominado a autoridade sobre a vida que eles criaram essa raça de feéricos.\\nTalvez haja propósito real nisso que nem feéricos, nem humanos do presente conseguem entender.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.3,
+      "hydro": 0.1,
+      "geo": 0.3,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 21.945072,
+      "attack": 94.62242,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

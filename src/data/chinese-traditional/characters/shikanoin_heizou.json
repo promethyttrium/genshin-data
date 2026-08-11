@@ -429,7 +429,7 @@
     {
       "id": "paradoxical_practice",
       "name": "反論稽古",
-      "description": "鹿野院平藏在場上觸發擴散反應時，將獲得1層<span style=\"color:#FFD780FF\">勠心拳</span>的「變格」效果，該效果每0.1秒至多觸發一次。",
+      "description": "鹿野院平藏在場上觸發擴散、星擴散反應時，將獲得1層<span style=\"color:#FFD780FF\">勠心拳</span>的「變格」效果，該效果每0.1秒至多觸發一次。",
       "level": 1
     },
     {

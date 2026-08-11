@@ -429,7 +429,7 @@
     {
       "id": "paradoxical_practice",
       "name": "反論稽古",
-      "description": "鹿野院平蔵がフィールド上で拡散反応を起こした時、<span style=\"color:#FFD780FF\">戮心拳</span>の「変格」効果を1層獲得する。この効果は0.1秒毎に1回のみ発動可能。",
+      "description": "鹿野院平蔵がフィールド上で拡散、または星拡散反応を起こした時、<span style=\"color:#FFD780FF\">戮心拳</span>の「変格」効果を1層獲得する。この効果は0.1秒毎に1回のみ発動可能。",
       "level": 1
     },
     {

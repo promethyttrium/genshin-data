@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ธาตุน้ำ",
+    "weapon": "ดาบ",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3712,
@@ -29,8 +31,10 @@
     {
       "id": "kamisato_art_marobashi",
       "name": "Kamisato Art: Marobashi",
-      "desc": "สร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "สร้าง? 2 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "kamisato_art_kyouka",
       "name": "Kamisato Art: Kyouka",
-      "desc": "สร้าง? ? หน่วย และตัวละครนี้ได้รับ <span style=\"color:#FFFFFFFF\">Takimeguri Kanka</span>",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#80C0FFFF\">ความเสียหายน้ำ</span> 2 หน่วย และตัวละครนี้ได้รับ <span style=\"color:#FFFFFFFF\">Takimeguri Kanka</span>",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "kamisato_art_suiyuu",
       "name": "Kamisato Art: Suiyuu",
-      "desc": "สร้าง? ? หน่วย และเรียก <span style=\"color:#FFFFFFFF\">Garden of Purity</span>",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#80C0FFFF\">ความเสียหายน้ำ</span> 1 หน่วย และเรียก <span style=\"color:#FFFFFFFF\">Garden of Purity</span>",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1102,

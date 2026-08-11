@@ -1,0 +1,32 @@
+{
+  "_id": 214012,
+  "id": "phantasmal_nocturne",
+  "shareId": 616,
+  "name": "Phantasmal Nocturne",
+  "title": "Fischl - Phantasmal Nocturne",
+  "desc": "\"แต่ก็มีบางหัวข้อที่คาดไม่ถึงยิ่งกว่าหัวข้ออื่น ๆ ยกตัวอย่างเช่น แม่มดน้อยบางคนจับได้แบบฝึกหัด ที่ให้เพียงแค่หาวิธีใช้แสงสว่างที่หลั่งไหลมาจากปฐมกาล เพื่อสร้างโลกวัตถุของตนเองขึ้นมา ในขณะที่แม่มดน้อยบางคน กลับจับได้หัวข้อที่ต้องมอบ 'วิญญาณ' ให้แก่ชีวิตซึ่งเดิมทีมีอยู่แค่ในจินตนาการ...\"",
+  "in_play_description": "เมื่อ <span style=\"color:#FFFFFFFF\">Oz</span> อยู่ในสนาม ความเสียหายที่ <span style=\"color:#FFACFFFF\">ปฏิกิริยาที่เกี่ยวกับธาตุไฟฟ้า</span> ที่ฝ่ายเราสร้าง +1 (เทิร์นละ 3 ครั้ง)",
+  "attributes": {
+    "cost": 2,
+    "cost_type": "ธาตุไฟฟ้า",
+    "card_type": "การ์ดอุปกรณ์",
+    "energy": [
+      {
+        "_id": 1104,
+        "id": "electro",
+        "type": "ธาตุไฟฟ้า",
+        "count": 2
+      }
+    ],
+    "tags": [
+      "พรสวรรค์",
+      "มนตรา"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">ดำเนินการด่วน</span>: ติดตั้งให้กับ <span style=\"color:#FFFFFFFF\">Fischl</span> ของฝ่ายเรา<br/>อัญเชิญ <span style=\"color:#FFFFFFFF\">Oz</span><br/>เมื่อ <span style=\"color:#FFFFFFFF\">Oz</span> อยู่ในสนาม ความเสียหายที่ <span style=\"color:#FFACFFFF\">ปฏิกิริยาที่เกี่ยวกับธาตุไฟฟ้า</span> ที่ฝ่ายเราสร้าง +1 (เทิร์นละ 3 ครั้ง)<br/>(เข้าร่วมเด็คได้ต่อเมื่อมี Fischl อยู่ภายในเด็คเท่านั้น)"
+    }
+  ]
+}

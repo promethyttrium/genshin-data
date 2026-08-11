@@ -1,0 +1,40 @@
+{
+  "_id": 25138001,
+  "id": "juvenile_tree_segment",
+  "monsterId": 25138003,
+  "name": "Часть молодого дерева",
+  "specialNames": [
+    "Суровый леший-старейшина"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Мистические звери",
+  "filename_icon": "UI_MonsterIcon_Leshy_Normal_01",
+  "description": "Леший, обитающий среди лесов и полей.\\nСреди многочисленных альвов Снежной лешие - один из самых необычных народов, почти никогда не появляющийся в городах. Возможно, именно лешие живут дольше всех среди альвов, и очень немногие представители других долгоживущих народов становились свидетелями всей жизни лешего. Впрочем, большинству людей, вероятно, не под силу даже отличить одного лешего от другого.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.2,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "_id": 1516,
+  "id": "jahoda",
+  "shareId": 609,
+  "name": "ヤフォダ",
+  "title": "風を繋ぎ、影を捕らえる・ヤフォダ",
+  "desc": "千の秘聞に導かれた先。",
+  "attributes": {
+    "hp": 10,
+    "card_type": "キャラカード",
+    "energy": 2,
+    "element": "風元素",
+    "weapon": "弓",
+    "faction": [
+      "ナド・クライ"
+    ],
+    "source": "キャッツテールでヤフォダを招待し、友好対戦に勝利することで獲得"
+  },
+  "skills": [
+    {
+      "id": "strike_while_the_arrows_hot",
+      "name": "気転の矢",
+      "desc": "?を2与える。",
+      "skillTag": [
+        "通常攻撃"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "風元素",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "無色元素",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "savvy_strategy_splitting_the_spoils",
+      "name": "奇策・財宝分配法",
+      "desc": "<span style=\"color:#80FFD7FF\">風元素ダメージ</span>を2与え、<span style=\"color:#FFFFFFFF\">高速キャラチェンジ</span>を1層生成し、味方は次のキャラに切り替わる。手札にいずれの元素の<span style=\"color:#FFFFFFFF\">ゴロニャンお宝ボトル</span>もない場合、手札に<span style=\"color:#FFFFFFFF\">ゴロニャンお宝ボトル</span>を生成する。そうでない場合、手札にあるすべての<span style=\"color:#FFFFFFFF\">ゴロニャンお宝ボトル</span>に<span style=\"color:#FFFFFFFF\">コストダウン</span>を付与する。",
+      "skillTag": [
+        "元素スキル"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "風元素",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "hidden_aces_seven_tools_of_the_hunter",
+      "name": "秘器・狩人の七つ道具",
+      "desc": "<span style=\"color:#80FFD7FF\">風元素ダメージ</span>を3与え、<span style=\"color:#FFFFFFFF\">家庭用肉球アシスタントマシン</span>を生成する。",
+      "skillTag": [
+        "元素爆発"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "風元素",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "チャージ",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "moonsign_benediction_rooftop_dash",
+      "name": "月兆の祝福・屋根上の疾走",
+      "desc": "【固有】戦闘開始時、手札に<span style=\"color:#FFFFFFFF\">ゴロニャンお宝ボトル</span>を生成する。<br/>味方が月反応または拡散反応を起こした後、味方の手札にあるすべての<span style=\"color:#FFFFFFFF\">ゴロニャンお宝ボトル</span>に<span style=\"color:#FFFFFFFF\">コストダウン</span>を付着させる。（各ラウンド最大2回まで）",
+      "skillTag": [
+        "固有スキル"
+      ],
+      "points": []
+    }
+  ]
+}

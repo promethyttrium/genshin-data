@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Épée à deux mains",
     "faction": [
-      null
+      "Nod-Krai"
     ],
     "source": "Récompense pour avoir invité Aino à une partie amicale dans La Queue de Chat et remporté la victoire"
   },
@@ -18,8 +20,10 @@
     {
       "id": "bishbashbosh_repair",
       "name": "Réparation toc-tac-toc",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -38,8 +42,10 @@
     {
       "id": "musecatcher",
       "name": "Inspirateur",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et crée 1 cumul de <span style=\"color:#FFFFFFFF\">changement rapide</span>. Si vous avez une carte avec une <span style=\"color:#FFFFFFFF\">autonomisation</span> dans votre main : Inflige $[D__KEY__DAMAGE_1] {PLURAL#$[D__KEY__DAMAGE_1|nc]|pt|pts} de ? à la place.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts de <span style=\"color:#80C0FFFF\">DGT Hydro</span> et crée 1 cumul de <span style=\"color:#FFFFFFFF\">$[C170 de <span style=\"color:#80C0FFFF\">DGT Hydro</span> à la place.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -52,8 +58,10 @@
     {
       "id": "precision_hydronic_cooler",
       "name": "Refroidisseur hydronique de précision",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et invoque un <span style=\"color:#FFFFFFFF\">canardeur tranquille</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#80C0FFFF\">DGT Hydro</span> et invoque un <span style=\"color:#FFFFFFFF\">canardeur tranquille</span>.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -73,7 +81,9 @@
       "id": "modular_efficiency_protocol",
       "name": "Protocole d'efficience modulaire",
       "desc": "<span style=\"color:#FFFFFFFF\">Lorsqu'une <span style=\"color:#FFFFFFFF\">autonomisation</span> est appliquée à une de vos cartes</span> : Si un <span style=\"color:#FFFFFFFF\">canardeur tranquille</span> est sur votre terrain, son nombre d'utilisations augmente de 1 ; Sinon, cette carte obtient 1 <span style=\"color:#FFFFFFFF\">charge</span>. (1 fois par manche)",
-      "skillTag": [],
+      "skillTag": [
+        "Capacité passive"
+      ],
       "points": []
     }
   ]

@@ -25,29 +25,27 @@
       "_id": 112103,
       "id": "tyrants_fang",
       "name": "Tiranın Dişi",
-      "count": 0.0616
+      "count": 0.062
     },
     {
       "_id": 112102,
       "id": "seasoned_fang",
       "name": "Tecrübeli Diş",
-      "count": 0.2465
+      "count": 0.246
     },
     {
       "_id": 112101,
       "id": "juvenile_fang",
       "name": "Genç Diş",
-      "count": 0.9244
+      "count": 0.924
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Mosasaurus_Small",
   "description": "Su ve Sıvı Filojiston içinde yüzebilen genç bir Koholazor.\\nHassas ve yumuşak bir deriye ve yüzgece sahiptir, bu yüzden yetişkin Koholazorlar kadar uzun süre sıcak ortamlara dayanamaz. Elbet bir gün suyun içinde özgürce yüzebileceği bir forma kavuşacak.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

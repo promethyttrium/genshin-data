@@ -1,0 +1,18 @@
+{
+  "_id": 104365,
+  "id": "teachings_of_charity",
+  "name": "Insegnamenti della benevolenza",
+  "description": "Materiale per l'aumento di livello dei talenti.\\nLa benevolenza è la salvezza del regno glaciale.\\nEssa è l'amore e la vigile cura condivisi tra i mortali. In questa terra vasta e sconfinata, è il calore con cui le persone resistono al freddo pungente, lenendo le profonde cicatrici incise nei loro ricordi.",
+  "source": [
+    "Si acquista nel Negozio di regali"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Dominio della maestria: Contemplazione IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Lunedì",
+    "Giovedì",
+    "Domenica"
+  ]
+}

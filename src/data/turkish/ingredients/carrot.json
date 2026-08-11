@@ -60,6 +60,11 @@
       "name": "Sebzeli Çömlek Çorbası"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
       "_id": 4204,
       "id": "bountiful_year",
       "name": "Sürüsüne Bereket"
@@ -67,6 +72,5 @@
   ],
   "source": [
     "Doğada bulunur."
-  ],
-  "rarity": 0
+  ]
 }

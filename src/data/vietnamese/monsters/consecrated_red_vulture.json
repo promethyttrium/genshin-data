@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Vulture_Sacred_Fire",
   "description": "Loài chim ăn thịt thối rữa bị biến dị do nuốt chửng vật thể sống vĩ đại.\\nTrong số hài cốt bị Thánh Hóa Thú nuốt chửng thường có lẫn những ý thức mãi không thể yên nghỉ. Và chính những ý thức này lại càng khiến cho nó thèm khát tàn sát nhiều hơn.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

@@ -8,14 +8,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Bộ Tộc Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hili_Fire_Range",
   "description": "Cư dân nguyên thủy lang thang nơi hoang dã ở Teyvat.\\nĐể đánh lui nhà mạo hiểm, chúng sẽ giương cao ngọn đuốc cháy bùng, lao thẳng về phía trước. Thảo nguyên hoặc rừng rậm phát hỏa, thông thường mà nói, không phải do \"kỵ sĩ\" đặc biệt nào đâu, mà là do Hilichurl gây ra.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

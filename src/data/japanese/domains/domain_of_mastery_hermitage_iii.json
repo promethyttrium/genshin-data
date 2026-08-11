@@ -1,0 +1,58 @@
+{
+  "_id": 4697,
+  "id": "domain_of_mastery_hermitage_iii",
+  "name": "熟知秘境・隠修 III",
+  "entranceId": 2074,
+  "entranceName": "荒れ果てた聖跡",
+  "description": "かつてフェイが築いた聖所は、今やならず者たちに占拠されている。\nここを彷徨う敵を倒せば、天賦育成に役立つ啓示を得られるかもしれない。",
+  "regionId": 8,
+  "regionName": "スネージナヤ",
+  "recommendedLevel": 71,
+  "unlockRank": 36,
+  "disorder": [
+    "· When a character triggers Superconduct or Stellar-Conduct reactions, or deals Stellar-Conduct DMG, a shockwave will be unleashed at the target enemy's location, dealing Electro DMG."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_03",
+  "recommendedElements": [
+    "氷元素",
+    "雷元素"
+  ],
+  "daysOfWeek": [
+    "火曜",
+    "金曜",
+    "日曜"
+  ],
+  "domainType": "UI_ABYSSUS_AVATAR_PROUD",
+  "domainText": "Talent Level-Up Material",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "冒険経験",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "モラ",
+      "count": "2050"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "好感度経験値",
+      "count": "20"
+    },
+    {
+      "_id": 104369,
+      "id": "guide_to_fortitude",
+      "name": "「不屈」の導き"
+    },
+    {
+      "_id": 104368,
+      "id": "teachings_of_fortitude",
+      "name": "「不屈」の教え"
+    }
+  ],
+  "monsterList": []
+}

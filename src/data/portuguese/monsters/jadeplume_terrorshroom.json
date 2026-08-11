@@ -37,7 +37,7 @@
       "_id": 113036,
       "id": "majestic_hooked_beak",
       "name": "Bico-Gancho do Terrorgumelo",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104134,
@@ -120,7 +120,6 @@
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Fungus_Raptor",
   "description": "Ao longo de muitos anos, essa enorme criatura fúngica se transformou em uma forma peculiar.\\nSua inteligência já alcançou e talvez até tenha superado os animais reais, e caçará ativamente presas para obter seu sustento. Sua cauda tem uma bela plumagem de jade que parece muito semelhante à da antiga besta sagrada que o Darshan Spantamad reverencia. Segundo à lógica da mimésis, parece bastante provável que os dois seres tenham caminhado juntos na terra.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

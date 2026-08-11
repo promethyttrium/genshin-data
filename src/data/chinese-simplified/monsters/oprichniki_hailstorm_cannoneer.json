@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "愚人众",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Male_Fat_CannonShield",
   "description": "隶属于愚人众特辖队的精锐士官，擅长以重炮撕裂敌阵，同时以厚重的大盾保护共同战斗的友伴。\\n苦难将盾染成霜白，凝积的鲜血为它们镀上黑色的边缘。特辖队的士官知晓空洞的言语从来无法挽回那些不可避免的牺牲，唯有冰雹般的轰响，方能将这污秽的旧世界撼动。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

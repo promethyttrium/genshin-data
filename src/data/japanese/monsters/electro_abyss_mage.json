@@ -37,12 +37,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "アビス",
   "filename_icon": "UI_MonsterIcon_Abyss_Electric_01",
   "description": "雷元素を使用して戦うアビスの魔物。\\nかつてアルヴァ·ニコラという学者が、教令院でアビスの魔術師·雷の使う雷元素を研究し、最終的に「ニコラコイル」という理論的武器を考察した。しかしそれは未だに実践されていない。一説によると、彼の研究資料はキノコンが蔓延したことで食べられてしまったという。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

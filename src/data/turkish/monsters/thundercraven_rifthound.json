@@ -13,7 +13,6 @@
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_Hound_Riftstalker_Electric",
   "description": "Damarlarında uğursuz kan akan bu canavar, dünyanın sınırlarını aşındırabilir. Bu canavarı \"Altın\" yaratmıştır.\\nBir zamanlar kıtada dal budak salan bu yaratıkların, direniş ve toplu avlar yüzünden bir süre sonra soyları tükenmişti. Ancak yakın zamanda yeniden belirdiler. Günümüzde Pınarköy'de ve Kurtlar Diyarı'nda dehşet saçan kara kurt sürüsü, bu yaratıklardan oluşur.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

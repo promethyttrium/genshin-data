@@ -9,8 +9,10 @@
     "hp": 11,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ธาตุไม้",
+    "weapon": "ธนู",
     "faction": [
-      null
+      "Sumeru"
     ],
     "talent_card": {
       "_id": 3234,
@@ -29,8 +31,10 @@
     {
       "id": "supplicants_bowmanship",
       "name": "Supplicant's Bowmanship",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง? 2 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -49,8 +53,10 @@
     {
       "id": "floral_brush",
       "name": "Floral Brush",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง<span style=\"color:#7EC236FF\">ความเสียหายไม้</span> 3 หน่วย",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "trumpcard_kitty",
       "name": "Trump-Card Kitty",
-      "desc": "สร้าง? ? หน่วย และเรียก <span style=\"color:#FFFFFFFF\">Cuilein-Anbar</span>",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#7EC236FF\">ความเสียหายไม้</span> 2 หน่วย และเรียก <span style=\"color:#FFFFFFFF\">Cuilein-Anbar</span>",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1107,

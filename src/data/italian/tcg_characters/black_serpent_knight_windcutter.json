@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Altre armi",
     "faction": [
-      null
+      "Mostro"
     ],
     "source": "Ricompensa ottenuta accettando la sfida della taverna alla Coda di Gatto e battendo Cavaliere del Serpente nero: Fendivento in un duello amichevole"
   },
@@ -18,8 +20,10 @@
     {
       "id": "halfsword_technique",
       "name": "Tecnica della Mezza spada",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -38,8 +42,10 @@
     {
       "id": "rising_slash",
       "name": "Fendente ascendente",
-      "desc": "Infliggi ? ? e pesca 1 carta.",
-      "skillTag": [],
+      "desc": "Infliggi 3 <span style=\"color:#80FFD7FF\">DAN da Anemo</span> e pesca 1 carta.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -53,7 +59,9 @@
       "id": "guard_stance",
       "name": "Postura di guardia",
       "desc": "<span style=\"color:#FFFFFFFF\">Preparazione abilità</span>: <span style=\"color:#FFFFFFFF\">Postura imprudente</span>, poi <span style=\"color:#FFFFFFFF\">Preparazione abilità</span>: <span style=\"color:#FFFFFFFF\">Inseguimento burrascoso</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -73,7 +81,9 @@
       "id": "vanguard_momentum",
       "name": "Slancio dell'avanguardia",
       "desc": "(Passiva) Quando inneschi una reazione di Turbinio, o quando l'avversario perde il proprio <span style=\"color:#FFFFFFFF\">scudo</span>, <span style=\"color:#FFFFFFFF\">la prevenzione DAN</span> o lo stato di combattimento, pesca 1 carta (due volte per turno).",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

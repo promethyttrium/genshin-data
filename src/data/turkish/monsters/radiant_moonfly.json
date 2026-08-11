@@ -13,7 +13,6 @@
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Magbeast_Pergesa",
   "description": "Ayın kadim gücü, bu hayali kanatlara nüfuz etmiş ve kelebek şeklindeki canavar artık ay ışığında zarifçe dans ediyor.\\nEvrim prensiplerine göre, vahşi ve ilkel güçler semavi hükümdar tarafından dizginlendikten sonra bu tür bir canavarın formunu muhafaza edememesi, zamanla küçülerek güç kaybetmesi beklenirdi. Ancak ayın lütfu, bu canavarın eski ihtişamını korumasını ve bu dünyada uçmasını sağlayarak kadim ayın bir zamanlar yeryüzünü aydınlattığı o eski dünyanın anılarını günümüze getirmiştir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

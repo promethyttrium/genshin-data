@@ -45,6 +45,16 @@
       "name": "생선 호밀빵"
     },
     {
+      "_id": 2701,
+      "id": "stroganina",
+      "name": "대패 생선회"
+    },
+    {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "글루포프 호밀빵"
+    },
+    {
       "_id": 3012,
       "id": "sunshine_sprat",
       "name": "버터 생선 구이"
@@ -119,6 +129,5 @@
   ],
   "source": [
     "잡화점 구매"
-  ],
-  "rarity": 0
+  ]
 }

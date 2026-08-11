@@ -13,7 +13,6 @@
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_LavaTitan",
   "description": "Hareket etmeyi sürdürebilmek için durmaksızın ısı üreten bir canavar.\\nEfsaneye göre içinde lav taşıyan bu canavarlar, Gizli Kaynak Mekanizmalarını takip eden farklı bir araştırmanın ürünüdür. Araştırmanın amacı ise kadim ateşin, insan ırkından yeni bir tür yaratmak için kullanılıp kullanılamayacağını anlamaktı fakat ne yazık ki bu çabalar sonuçsuz kaldı. Çünkü yağmacı, göklerin ötesinden getirdiği tahtıyla indiğinde o kadim ateşten artakalan sadece içi boş kabuklar oldu. Ve o kabukların taşıdığı sözde yaşam gücü, ona bir taştan daha fazla bilinç bile bahşetmeye yetmedi.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

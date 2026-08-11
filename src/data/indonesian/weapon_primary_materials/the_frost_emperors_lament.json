@@ -1,0 +1,29 @@
+{
+  "_id": 114095,
+  "id": "the_frost_emperors_lament",
+  "name": "The Frost Emperor's Lament",
+  "description": "Pada malam ketika kebenaran beriak bak Xocoatl yang pahit, dia yang tak lagi sama seperti dulu menyiapkan hadiah untuk sahabatnya yang duduk di atas takhta.<br/>Keduanya merasa bahwa itu seharusnya menjadi kali terakhir mereka berbicara seperti itu.<br/>Karena setelah itu, jalan yang pernah mereka tempuh bersama pun hancur berantakan akibat kelemahan salah satu pihak dan kemarahan pihak lainnya.",
+  "source": [
+    "Placeholder - Jumlah yang Bisa Di-Craft: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114094,
+        "id": "the_frost_emperors_ceremony",
+        "name": "The Frost Emperor's Ceremony",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domain of Forgery: Scars of Cursed Obsession",
+  "days": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ]
+}

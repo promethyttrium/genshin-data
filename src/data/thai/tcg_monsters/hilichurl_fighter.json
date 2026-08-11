@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ไม่มีธาตุ",
+    "weapon": "อาวุธอื่น ๆ",
     "faction": [
-      null,
-      null
+      "มอนสเตอร์",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "hit",
       "name": "Hit",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง? 1 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "jump_and_hit",
       "name": "Jump and Hit",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง? 2 หน่วย",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -45,8 +51,10 @@
     {
       "id": "swing_that_club",
       "name": "Swing That Club",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง? 4 หน่วย",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1108,

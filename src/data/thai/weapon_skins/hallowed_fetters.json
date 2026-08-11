@@ -1,0 +1,21 @@
+{
+  "_id": 340001,
+  "id": "hallowed_fetters",
+  "name": "ตรวนศักดิ์สิทธิ์",
+  "description": "อาวุธลวงตาอันเปล่งประกายที่ปรากฏขึ้นจากส่วนลึกของกระแสพลัง สามารถเปลี่ยนรูปร่างตามประเภทธาตุของผู้ถือครอง กล่าวกันว่าในดินแดนอาณาจักรโบราณนั้น มันเคยมีชื่อว่า \"Gleipnir\" และถือครองโดยคนบาปผู้ลั่นประกาศิต",
+  "rarity": 4,
+  "type": {
+    "id": "Catalyst",
+    "name": "สื่อเวท"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "ร่างมายาเจิดจรัส - ก้าวข้าม",
+    "priority": 1
+  },
+  "item_id": 341401,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphIlia_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphIlia"
+}

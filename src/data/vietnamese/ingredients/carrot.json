@@ -60,6 +60,11 @@
       "name": "Canh Rau Củ Đóng Hộp"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
       "_id": 4204,
       "id": "bountiful_year",
       "name": "Phúc Lộc Tràn Đầy"
@@ -67,6 +72,5 @@
   ],
   "source": [
     "Thu Thập Bên Ngoài"
-  ],
-  "rarity": 0
+  ]
 }

@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "Hạt Bay Lượn U Ám",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "Hạt Bay Lượn Khô Héo",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Sinh Mệnh Nguyên Tố",
   "filename_icon": "UI_MonsterIcon_Sylph_Grass_01",
   "description": "Ma vật sinh ra bởi nguyên tố Thảo nồng độ cao, có thể lượn lờ trong không trung.\\nĐã từng có nghiên cứu viên của Học Phái Vahumana tiến hành nghiên cứu về đặc tính sinh thái của Bóng Ma - Thảo, phát hiện rất giống với \"Aranara\" trong truyền thuyết. Sau khi đào sâu nghiên cứu thì anh ta đã đưa ra kết luận, thứ được gọi là Aranara thực ra chính là Bóng Ma - Thảo. Sau này nghiên cứu viên này đã trở thành một tác giả truyện cổ tích vô danh.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

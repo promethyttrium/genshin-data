@@ -1,0 +1,29 @@
+{
+  "_id": 114095,
+  "id": "the_frost_emperors_lament",
+  "name": "Lamento do Imperador da Neve",
+  "description": "Foi um presente preparado para o amigo dela no trono, na noite em que a verdade se agitou como águas revoltas, embora ela não fosse mais o que já havia sido.<br/>Ambos pareciam entender que eles talvez nunca mais se falassem assim novamente.<br/>Depois disso, o caminho trilhado por ambos foi destruído devido à fraqueza de um e à fúria do outro.",
+  "source": [
+    "Quantidade a ser fabricada: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114094,
+        "id": "the_frost_emperors_ceremony",
+        "name": "Cerimônia do Imperador da Neve",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domínio da Forja: Cicatrizes da Obsessão Maldita",
+  "days": [
+    "Quarta-feira",
+    "Sábado",
+    "Domingo"
+  ]
+}

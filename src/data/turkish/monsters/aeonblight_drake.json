@@ -13,7 +13,6 @@
   "categoryText": "Canavar Makinaları",
   "filename_icon": "UI_MonsterIcon_Gargoyle_Fafnir",
   "description": "Tıpkı bir zamanlar bu uçsuz bucaksız toprakları yöneten kral gibi bu ejder şeklindeki savaş makinası da insanların yüreğinde korku uyandırır.\\nArtık yok olmuş o diyardakilerin yasak bilgileri araştırıp ezeli yaşam formlarıyla yarışabilecek, hatta onları geçebilecek sonsuz devinim makinaları yaratmaya çalıştığı söylenir. Bu gizemli, yorulmak bilmez mekanik yaratık da ölümlülerin hiç ulaşmamaları gereken bir noktaya ulaşabildiklerinin bir kanıtıdır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

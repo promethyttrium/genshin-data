@@ -59,22 +59,21 @@
       "_id": 112036,
       "id": "silver_raven_insignia",
       "name": "Insígnia do Corvo Prateado",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112035,
       "id": "treasure_hoarder_insignia",
       "name": "Insígnia dos Ladrões de Tesouro",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
   "description": "Um membro da organização criminosa descentralizada que tem rastros em todo o continente e até mesmo nas profundezas de domínios desconhecidos.\\nEsta pessoa era originalmente um minerador - alguém que, mesmo com a permissão que lhe foi dada após o fechamento do Despenhadeiro, acabou ficando com os Ladrões de Tesouro por vários motivos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

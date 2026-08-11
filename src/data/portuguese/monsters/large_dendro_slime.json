@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Vida Elemental",
   "filename_icon": "UI_MonsterIcon_Slime_Grass_03",
   "description": "Um tipo de Slime formado por transformação devido ao seu elemento Dendro.\\nAlgumas pessoas acreditam que eles talvez sejam Slimes parasitados por uma planta especial, visto que eles se disfarçam para enganar e atacar as caças, como as Flores Gigantes. Neste sentido, em certas culturas, os Slimes Dentro possuem o seu valor medicinal...?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

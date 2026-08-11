@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Elektrik",
+    "weapon": "Yay",
     "faction": [
-      null
+      "Natlan"
     ],
     "talent_card": {
       "_id": 9241,
@@ -29,8 +31,10 @@
     {
       "id": "spiritvessel_snapshot",
       "name": "Ruh Meskeni Yıldırım Oku",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -49,8 +53,10 @@
     {
       "id": "nights_sling",
       "name": "Gece Sapanı",
-      "desc": "? ? verir ve <span style=\"color:#FFFFFFFF\">Ruh Küresi</span> oluşturur.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#FFACFFFF\">Elektrik Hasarı</span> verir ve <span style=\"color:#FFFFFFFF\">Ruh Küresi</span> oluşturur.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "dark_voices_echo",
       "name": "Karanlık Seslerin Yankıları",
-      "desc": "? ? verir ve <span style=\"color:#FFFFFFFF\">Süpersonik Göz</span> çağırır.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#FFACFFFF\">Elektrik Hasarı</span> verir ve <span style=\"color:#FFFFFFFF\">Süpersonik Göz</span> çağırır.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -84,7 +92,9 @@
       "id": "nightshade_synesthesia",
       "name": "Gece Gölgesi Sinestezisi",
       "desc": "(Pasif) <span style=\"color:#FFFFFFFF\">Elektrik Yüklü veya Ay Yüklü tepkimesi tetiklediğinde</span> eğer mümkünse 2 <span style=\"color:#FFFFFFFF\">Gece Ruhu puanı</span> tüketerek 1 <span style=\"color:#FFACFFFF\">Elektrik Hasarı</span> verirsin.<br/>Bu beceri dışında bir kaynaktan <span style=\"color:#80C0FFFF\">Su Hasarı</span> veya <span style=\"color:#FFACFFFF\">Elektrik Hasarı</span> verdiğinde <span style=\"color:#FFFFFFFF\">Gece Ruhunun Lütfu</span> durumuna girer ve 1 <span style=\"color:#FFFFFFFF\">Gece Ruhu puanı</span> kazanır. (Her Turda bir defa)",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

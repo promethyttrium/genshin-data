@@ -1,0 +1,18 @@
+{
+  "_id": 200909,
+  "id": "scepter_of_the_snow_angler_king",
+  "name": "Cetro do Rei dos Pescadores da Neve",
+  "description": "Se você conseguir ficar na Zona de Tensão ideal enquanto pesca, usar essa vara reduzirá constantemente o tempo que os peixes tentam escapar e aumentará suas chances de sucesso. Efetivo somente em Snezhnaya.<br/><br/>Uma vara de pescar feita de Gelo Puro por um artesão desconhecido, aclamada como o \"cetro do rei dos pescadores na terra da neve\". A Associação de Pesca de Snezhnaya está atualmente em posse dela. Dizem que somente pescadores de habilidades supremas, completamente calejados pelo vento uivante e pela neve, são dignos de empunhar tal vara...",
+  "rarity": 4,
+  "processing": [
+    {
+      "_id": 100017,
+      "id": "wheat",
+      "name": "Trigo",
+      "amount": 1
+    }
+  ],
+  "source": [
+    "Resgatado na Associação de Pesca de Snezhnaya"
+  ]
+}

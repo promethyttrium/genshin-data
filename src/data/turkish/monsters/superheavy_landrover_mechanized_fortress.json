@@ -13,8 +13,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuimecha_AMP",
   "description": "İç yazışmalarda \"Drzislav Tipi\" olarak anılan bu süper ağır sınıf mekanizma, Cephanelik Sarayı ve Kuuvahki Deneysel Tasarım Bürosu tarafından ortaklaşa geliştirilmiştir.\\nBu devasa arazi aracı aslında sivil kullanım, özellikle de ağır yük taşımacılığı için tasarlanmış ve bu yüzden matkap ve kesicilerle donatılmıştır. Ancak sonradan üretilen modeller ağır silahlarla donatılarak askeri hale getirildi.\\nNe de olsa ayın altındaki bu ölümlü dünyada en mükemmel ve ilahi tasarımlar bile asıl amaçlarından sapabilir. Hele ki ölümlü ellerden doğmuş, iyi niyetle yaratılmış ve en başından kusurlu olan makinaların bundan muaf olması beklenemez.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 1,
   "stats": {
     "resistance": {

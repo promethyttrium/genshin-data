@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Altre fazioni umane",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Shamansaurus",
   "description": "Un guerriero dei Maestri del Vento della Notte, nonché guardiano tribale, che pattuglia i canyon ricoperti dalla foschia.\\nSi dice che la vernice che questi guerrieri applicano sul loro corpo sia una forma d'arte evolutasi dalla pratica dell'Incisione di Flogisto, e che richieda molti anni di allenamento per padroneggiarne appieno il potere all'interno.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

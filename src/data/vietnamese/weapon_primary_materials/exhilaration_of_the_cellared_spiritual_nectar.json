@@ -1,0 +1,29 @@
+{
+  "_id": 114091,
+  "id": "exhilaration_of_the_cellared_spiritual_nectar",
+  "name": "Sảng Khoái Của Tinh Chất Ủ Hầm",
+  "description": "Tương truyền rằng, từng có vô số rượu ngon bị đổ xuống hồ băng.<br/>Nghe đồn, có thể do số rượu dùng làm tiếp tế chiến tranh xảy ra sơ suất nên buộc phải tiêu hủy, hoặc do một vị đại công tước Domovoy nào đó đã thua cược với chúa tể thủy yêu.<br/>Cho đến khi mặt hồ bùng lên ngọn lửa ma thuật màu xanh lam không thể dập tắt, kẻ địch dưới nước vùng vẫy trong làn sóng khiến người ta nghẹt thở.<br/>Lúc này họ mới nhận ra rằng trong tay những dòng tộc am hiểu sự xoay vần của thế sự, nước cũng là lửa, linh dược cũng là chất kịch độc.",
+  "source": [
+    "Số lượng có thể ghép - chiếm chỗ: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114090,
+        "id": "intoxication_of_the_cellared_spiritual_nectar",
+        "name": "Men Say Của Tinh Chất Ủ Hầm",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Bí Cảnh Luyện Võ: Vết Sẹo Vọng Tưởng",
+  "days": [
+    "Thứ 3",
+    "Thứ 6",
+    "Chủ Nhật"
+  ]
+}

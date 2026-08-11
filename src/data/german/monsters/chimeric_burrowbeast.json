@@ -1,0 +1,72 @@
+{
+  "_id": 26310201,
+  "id": "chimeric_burrowbeast",
+  "monsterId": 26310201,
+  "name": "Chimärisches Höhlenbiest",
+  "specialNames": [
+    "Chimärisches Höhlenbiest"
+  ],
+  "investigation": {
+    "investigationId": 100,
+    "name": "Aberrantes chimärisches Monster",
+    "categoryType": "Common",
+    "categoryText": "Normal",
+    "description": "Eine der vielen Schöpfungen, die aus der Bio-Alchimie hervorgegangen sind, die einst in ganz Snezhnaya blühte, bevor sie schließlich verboten wurde.\\nDie meisten dieser Monster wurden im Krieg gegen die pechschwarze Bestienflut ausgelöscht. Die wenigen, die bis heute überlebt haben, sind äußerst seltene Ausnahmen."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Chimera_BeetleLion",
+  "rewardPreviewId": 16029,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 112151,
+      "id": "prime_chimeric_nexus",
+      "name": "Primordiale Chimäre",
+      "count": 0.084
+    },
+    {
+      "_id": 112150,
+      "id": "symbiotic_chimeric_nucleus",
+      "name": "Symbiontischer chimärischer Nukleus",
+      "count": 0.336
+    },
+    {
+      "_id": 112149,
+      "id": "chimeric_core",
+      "name": "Chimärischer Kern",
+      "count": 1.26
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystische Bestien",
+  "filename_icon": "UI_MonsterIcon_Chimera_OwlPangolin",
+  "description": "Ein Produkt der Bio-Alchimie, die einst auf den gefrorenen Landen weit verbreitet war: ein aberrantes chimärisches Monster.\\nWas würde man wohl bekommen, wenn ein Wesen, das sich durch Erde und Eis bewegt, die Fähigkeit besäße, in der Dunkelheit alles klar und deutlich zu sehen? Einen Apex-Predator, wie er im Buche steht?!\\nDas Ergebnis des Experiments war überraschend erfolgreich. Diese Höhlenbiester durchqueren nachts den Untergrund, graben im Dunkeln Fallen oder lauern im Schatten auf ihre Beute.\\nLaut einem Bericht von „Vestnik“ soll ein Arbeiter in Svetloledovka einmal ein riesiges Exemplar dieser Abnormitäten gesehen haben, das fast zwei Personen groß war ... Grobe Hirngespinste, wenn du mich fragst.",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.2
+    },
+    "base": {
+      "hp": 27.168,
+      "attack": 30.144,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -13,7 +13,6 @@
   "categoryText": "Cơ Quan Tự Động",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Gravitas",
   "description": "Cỗ máy cỡ lớn do Edwin Eastinghouse thiết kế lúc sinh thời. Theo dụng ý thiết kế ban đầu, sẽ có hiệu quả \"giảm bớt\" trọng lực. Theo thiết kế ban đầu, đây sẽ là bước đi đầu tiên để xây dựng Fontaine trở thành vương đô trên không. Từ đây về sau không còn ai phải lo lắng về cơn đại hồng thủy từng quét qua mặt đất như ngày xưa nữa. Dù cho bảy quốc gia đều bị nhấn chìm vào biển sâu, thì Đại Sảnh Fontaine xinh đẹp vẫn sẽ lơ lửng trên không giống như Đảo Thiên Không. Ngay cả bí mật của vũ trụ cũng không còn quá xa xôi nữa.\\nPhần lõi Arkhium của cỗ máy có đặc tính \"phân tách\" hoặc \"kết tủa\", có thể phân tách vật chất hoặc thứ gì đó khác ngoài vật chất. Tương truyền đặc tính này cũng có thể đảo ngược, nhưng Viện Khoa Học Fontaine chỉ chìm đắm trong hiệu quả vật lý mà nó sản sinh ra.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

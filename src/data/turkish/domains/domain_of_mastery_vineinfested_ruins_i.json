@@ -16,6 +16,11 @@
   "recommendedElements": [
     "Elektrik"
   ],
+  "daysOfWeek": [
+    "Çarşamba",
+    "Cumartesi",
+    "Pazar"
+  ],
   "domainType": "UI_ABYSSUS_AVATAR_PROUD",
   "domainText": "Talent Level-Up Material",
   "rewardPreview": [

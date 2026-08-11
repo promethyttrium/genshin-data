@@ -25,19 +25,19 @@
       "_id": 112043,
       "id": "fossilized_bone_shard",
       "name": "Fossilized Bone Shard",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112042,
       "id": "sturdy_bone_shard",
       "name": "Sturdy Bone Shard",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112041,
       "id": "fragile_bone_shard",
       "name": "Fragile Bone Shard",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Drake_Deepsea_Water",
   "description": "A vishap that dwells deep beneath the oceans.\\nThey were once the dominant race in the depths — and indeed, dragons were the overlords of the whole world in an even earlier age. But their former Seven Sovereigns were defeated by a power from the heavens, withering one by one.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

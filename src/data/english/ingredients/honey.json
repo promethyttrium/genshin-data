@@ -1,0 +1,21 @@
+{
+  "_id": 110017,
+  "id": "honey",
+  "name": "Honey",
+  "description": "A rich, amber liquid with a classic sweetness, widely available in shops year-round. It can be used to sweeten beverages, craft sauces, or marinate various meats.",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Rimecurrant Ice Cream"
+    },
+    {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
+    }
+  ],
+  "source": [
+    "Sold at Snezhnayan general goods shops"
+  ]
+}

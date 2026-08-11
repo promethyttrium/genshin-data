@@ -13,7 +13,6 @@
   "categoryText": "Forme di vita elementali",
   "filename_icon": "UI_MonsterIcon_Effigy_Ice",
   "description": "Nome in codice: Daleth. Un'entità di Cryo molto pura.\\nI ricercatori suggeriscono che esistano sottili differenze tra le Ipostasi elementali e altre forme di vita elementale in termini di composizione fisica. Forse queste differenze sono la causa del loro alto livello di omeostasi e dei loro movimenti quasi meccanici.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

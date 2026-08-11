@@ -1,0 +1,29 @@
+{
+  "_id": 114094,
+  "id": "the_frost_emperors_ceremony",
+  "name": "The Frost Emperor's Ceremony",
+  "description": "The fae of the court didn't understand why a gift meant for the Tsar must be made in such shape. They knew only to lavish their craft upon ornaments bright as jewels.<br/>Only the Tsar seated upon the throne and the fae of snow understood the meaning behind it.<br/>For what mattered was never the ceremony, but the ancient truth it preserved.",
+  "source": [
+    "Placeholder - Craftable Amount: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114093,
+        "id": "the_frost_emperors_revival",
+        "name": "The Frost Emperor's Revival",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domain of Forgery: Scars of Cursed Obsession",
+  "days": [
+    "Wednesday",
+    "Saturday",
+    "Sunday"
+  ]
+}

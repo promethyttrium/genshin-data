@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Mimik_Fire",
   "description": "Ma vật giống với thực vật, xuất quỷ nhập thần, dùng nguyên tố Hỏa để tấn công con mồi.\\nTrong thế giới Teyvat, chúng là loại thực vật có nguyên tố. Cho nên yêu cầu đối với \"dinh dưỡng\" cũng cao hơn...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

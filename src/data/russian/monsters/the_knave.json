@@ -157,7 +157,6 @@
   "categoryText": "Враги, достойные упоминания",
   "filename_icon": "UI_MonsterIcon_Nihil",
   "description": "Номер четыре из Предвестников Фатуи, Арлекино",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

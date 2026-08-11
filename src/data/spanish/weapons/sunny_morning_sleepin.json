@@ -10,7 +10,7 @@
   },
   "domain": "Jardín de Sunagare",
   "passive": "Balneario, halcón, Narukami",
-  "bonus": "La Maestría Elemental aumenta en <span>120/150/180/210/240</span> pts. durante 6 s tras causar una reacción de Torbellino. La Maestría Elemental aumenta en <span>96/120/144/168/192</span> pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en <span>32/40/48/56/64</span> pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva.",
+  "bonus": "La Maestría Elemental aumenta en <span>120/150/180/210/240</span> pts. durante 6 s tras causar una reacción de Torbellino o Torbellino Estelar. La Maestría Elemental aumenta en <span>96/120/144/168/192</span> pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en <span>32/40/48/56/64</span> pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva.",
   "specialProp": "Maestría Elemental",
   "stats": {
     "primary": "ATQ Base",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Balneario, halcón, Narukami",
-    "template": "La Maestría Elemental aumenta en <span style=\"color:#99FFFFFF\">{0}</span> pts. durante 6 s tras causar una reacción de Torbellino. La Maestría Elemental aumenta en <span style=\"color:#99FFFFFF\">{1}</span> pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en <span style=\"color:#99FFFFFF\">{2}</span> pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva.",
+    "template": "La Maestría Elemental aumenta en <span style=\"color:#99FFFFFF\">{0}</span> pts. durante 6 s tras causar una reacción de Torbellino o Torbellino Estelar. La Maestría Elemental aumenta en <span style=\"color:#99FFFFFF\">{1}</span> pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en <span style=\"color:#99FFFFFF\">{2}</span> pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva.",
     "params": [
       [
         "120",
@@ -312,23 +311,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "La Maestría Elemental aumenta en <span>120</span> pts. durante 6 s tras causar una reacción de Torbellino. La Maestría Elemental aumenta en <span>96</span> pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en <span>32</span> pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva."
+      "desc": "La Maestría Elemental aumenta en <span>120</span> pts. durante 6 s tras causar una reacción de Torbellino o Torbellino Estelar. La Maestría Elemental aumenta en <span>96</span> pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en <span>32</span> pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva."
     },
     {
       "refinement": 2,
-      "desc": "La Maestría Elemental aumenta en <span>150</span> pts. durante 6 s tras causar una reacción de Torbellino. La Maestría Elemental aumenta en <span>120</span> pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en <span>40</span> pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva."
+      "desc": "La Maestría Elemental aumenta en <span>150</span> pts. durante 6 s tras causar una reacción de Torbellino o Torbellino Estelar. La Maestría Elemental aumenta en <span>120</span> pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en <span>40</span> pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva."
     },
     {
       "refinement": 3,
-      "desc": "La Maestría Elemental aumenta en <span>180</span> pts. durante 6 s tras causar una reacción de Torbellino. La Maestría Elemental aumenta en <span>144</span> pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en <span>48</span> pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva."
+      "desc": "La Maestría Elemental aumenta en <span>180</span> pts. durante 6 s tras causar una reacción de Torbellino o Torbellino Estelar. La Maestría Elemental aumenta en <span>144</span> pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en <span>48</span> pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva."
     },
     {
       "refinement": 4,
-      "desc": "La Maestría Elemental aumenta en <span>210</span> pts. durante 6 s tras causar una reacción de Torbellino. La Maestría Elemental aumenta en <span>168</span> pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en <span>56</span> pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva."
+      "desc": "La Maestría Elemental aumenta en <span>210</span> pts. durante 6 s tras causar una reacción de Torbellino o Torbellino Estelar. La Maestría Elemental aumenta en <span>168</span> pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en <span>56</span> pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva."
     },
     {
       "refinement": 5,
-      "desc": "La Maestría Elemental aumenta en <span>240</span> pts. durante 6 s tras causar una reacción de Torbellino. La Maestría Elemental aumenta en <span>192</span> pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en <span>64</span> pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva."
+      "desc": "La Maestría Elemental aumenta en <span>240</span> pts. durante 6 s tras causar una reacción de Torbellino o Torbellino Estelar. La Maestría Elemental aumenta en <span>192</span> pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en <span>64</span> pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva."
     }
   ]
 }

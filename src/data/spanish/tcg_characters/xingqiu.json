@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Espada ligera",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3207,
@@ -29,8 +31,10 @@
     {
       "id": "guhua_style",
       "name": "Técnica de espada Guhua",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "fatal_rainscreen",
       "name": "Lluvia torrencial mortal",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y crea unas <span style=\"color:#FFFFFFFF\">espadas de lluvia</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#80C0FFFF\">Daño Hydro</span> y crea unas <span style=\"color:#FFFFFFFF\">espadas de lluvia</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "raincutter",
       "name": "Sable de lluvia",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?. Recibe una <span style=\"color:#80C0FFFF\">aplicación Hydro</span> y crea una <span style=\"color:#FFFFFFFF\">espada arcoíris</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#80C0FFFF\">Daño Hydro</span>. Recibe una <span style=\"color:#80C0FFFF\">aplicación Hydro</span> y crea una <span style=\"color:#FFFFFFFF\">espada arcoíris</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1102,

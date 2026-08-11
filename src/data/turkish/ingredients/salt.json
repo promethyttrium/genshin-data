@@ -45,6 +45,16 @@
       "name": "Balıklı Çavdar Çöreği"
     },
     {
+      "_id": 2701,
+      "id": "stroganina",
+      "name": "Stroganina"
+    },
+    {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "Glupov Çavdar Ekmeği"
+    },
+    {
       "_id": 3012,
       "id": "sunshine_sprat",
       "name": "Tereyağlı Izgara Balık"
@@ -119,6 +129,5 @@
   ],
   "source": [
     "Gıda pazarlarında satılır."
-  ],
-  "rarity": 0
+  ]
 }

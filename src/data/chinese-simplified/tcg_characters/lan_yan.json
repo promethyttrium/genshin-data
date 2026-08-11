@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "角色牌",
     "energy": 2,
+    "element": "风元素",
+    "weapon": "法器",
     "faction": [
-      null
+      "璃月"
     ],
     "talent_card": {
       "_id": 8274,
@@ -29,8 +31,10 @@
     {
       "id": "black_pheasant_strides_on_water",
       "name": "玄鸾画水",
-      "desc": "造成?点?。",
-      "skillTag": [],
+      "desc": "造成1点<span style=\"color:#80FFD7FF\">风元素伤害</span>。",
+      "skillTag": [
+        "普通攻击"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "swallowwisp_pinion_dance",
       "name": "凤缕随翦舞",
-      "desc": "生成2层<span style=\"color:#FFFFFFFF\">凤缕护盾</span>，获得1层<span style=\"color:#FFFFFFFF\">高效切换</span>，并造成?点?，如果此技能引发了扩散，则额外生成1层<span style=\"color:#FFFFFFFF\">凤缕护盾</span>。",
-      "skillTag": [],
+      "desc": "生成2层<span style=\"color:#FFFFFFFF\">凤缕护盾</span>，获得1层<span style=\"color:#FFFFFFFF\">高效切换</span>，并造成1点<span style=\"color:#80FFD7FF\">风元素伤害</span>，如果此技能引发了扩散，则额外生成1层<span style=\"color:#FFFFFFFF\">凤缕护盾</span>。",
+      "skillTag": [
+        "元素战技"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "lustrous_moonrise",
       "name": "鹍弦踏月出",
-      "desc": "造成?点?，生成2层<span style=\"color:#FFFFFFFF\">凤缕护盾</span>。",
-      "skillTag": [],
+      "desc": "造成3点<span style=\"color:#80FFD7FF\">风元素伤害</span>，生成2层<span style=\"color:#FFFFFFFF\">凤缕护盾</span>。",
+      "skillTag": [
+        "元素爆发"
+      ],
       "points": [
         {
           "_id": 1105,

@@ -1,0 +1,26 @@
+{
+  "_id": 101281,
+  "id": "rimecurrant",
+  "name": "Grosella escarchada",
+  "description": "Una baya de sabor intenso que crece en ramas cubiertas de escarcha.",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Helado de grosella escarchada"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Shashliks de Snezhnaya"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Bolas de helado dulcealegría"
+    }
+  ],
+  "source": [
+    "Recolectar en Snezhnaya"
+  ]
+}

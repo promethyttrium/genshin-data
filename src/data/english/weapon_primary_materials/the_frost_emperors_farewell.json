@@ -1,0 +1,29 @@
+{
+  "_id": 114096,
+  "id": "the_frost_emperors_farewell",
+  "name": "The Frost Emperor's Farewell",
+  "description": "An object that appeared upon the table on the eve of war, though none knew when or how it'd come to be there.<br/>He recognized it for the handiwork of the friend he hadn't seen for many long years.<br/>Only then did he realize, that this was the beginning of every calamity, the bitter fruit of every desire, and the omen of every destruction.",
+  "source": [
+    "Placeholder - Craftable Amount: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114095,
+        "id": "the_frost_emperors_lament",
+        "name": "The Frost Emperor's Lament",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domain of Forgery: Scars of Cursed Obsession",
+  "days": [
+    "Wednesday",
+    "Saturday",
+    "Sunday"
+  ]
+}

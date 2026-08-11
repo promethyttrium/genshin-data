@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Silbato de hierro del guerrero",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Silbato de madera del guardián",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Mosasaurus",
   "description": "Un guerrero procedente del origen de los manantiales, así como un centinela tribal que patrulla por zonas acuáticas y costeras.\\nSiempre se sitúa en el frente de batalla y blande una espada con unos dientes desgarradores. Los miembros de las tribus que practican el uso de la espada lo hacen en zonas acuáticas para entrenar su fuerza y sus habilidades contra la resistencia del agua. Los mejores entre ellos son capaces de partir un pez en dos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

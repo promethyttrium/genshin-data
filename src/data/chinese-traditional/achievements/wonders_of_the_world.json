@@ -278,8 +278,8 @@
     },
     {
       "id": 81032,
-      "name": "QUEST FAILED",
-      "desc": "跟丟了懸賞目標…",
+      "name": "QUEST FAILED  OR …",
+      "desc": "在「討伐懸賞」中跟丟了懸賞目標，或再也不用進行「討伐懸賞」…",
       "reward": 5,
       "hidden": true,
       "order": 1033
@@ -4641,6 +4641,214 @@
       "order": 1699
     },
     {
+      "id": 81700,
+      "name": "停一停吧，你是如此美麗",
+      "desc": "為白樺與雪葬之宮的美景駐足了片刻。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1700
+    },
+    {
+      "id": 81701,
+      "name": "明日之國的超越者",
+      "desc": "集齊某人遺留在白冕宮中的遺物。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1701
+    },
+    {
+      "id": 81702,
+      "name": "複利效應",
+      "desc": "把雪球滾到最大。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1702
+    },
+    {
+      "id": 81703,
+      "name": "新婚的鐘聲",
+      "desc": "將不再循環的鐘聲敲響。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1703
+    },
+    {
+      "id": 81704,
+      "name": "為誰而鳴",
+      "desc": "讓不受束縛的鐘聲再度響起。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1704
+    },
+    {
+      "id": 81705,
+      "name": "火柴中的幻象",
+      "desc": "令不安者終受慰藉。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1705
+    },
+    {
+      "id": 81706,
+      "name": "極限與展示",
+      "desc": "或許作品擁有名字，只不過是為了尋得另一重共鳴。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1706
+    },
+    {
+      "id": 81707,
+      "name": "極度空間",
+      "desc": "第一次戴上「灰眸」。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1707
+    },
+    {
+      "id": 81708,
+      "name": "雪、晶礦和速度",
+      "desc": "令老舊的列車煥然一新。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1708
+    },
+    {
+      "id": 81709,
+      "name": "穿過虛飾的殿堂",
+      "desc": "集齊赫斯珀利德斯之館的所有畫作，並開啟其後的秘藏。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1709
+    },
+    {
+      "id": 81710,
+      "name": "為一切未來之你",
+      "desc": "即使那樣的你尚未來到。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1710
+    },
+    {
+      "id": 81711,
+      "name": "因為宮殿在那裡",
+      "desc": "登上至冬宮的最高處。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1711
+    },
+    {
+      "id": 81712,
+      "name": "冬日最後的玫瑰",
+      "desc": "…而飛蛾終是泯於焚火。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1712
+    },
+    {
+      "id": 81714,
+      "name": "比冷笑話要冷",
+      "desc": "在與納塔人的「耐寒比賽」中贏得了對方。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1714
+    },
+    {
+      "id": 81715,
+      "name": "呀吼！",
+      "desc": "幫助霜精「村長」抵禦獸怪的入侵。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1715
+    },
+    {
+      "id": 81716,
+      "name": "高桌之上還有高桌",
+      "desc": "但誰還記得「高桌」是「矮靈」建立的呢…",
+      "reward": 5,
+      "hidden": true,
+      "order": 1716
+    },
+    {
+      "id": 81717,
+      "name": "冰山沉沒，且不再浮起",
+      "desc": "見證巨大雪精的結局。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1717
+    },
+    {
+      "id": 81718,
+      "name": "「櫻桃園賣掉了」",
+      "desc": "見證冰上木屋的倒懸、停滯與最終沉沒。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1718
+    },
+    {
+      "id": 81720,
+      "name": "已為您成功規劃路線",
+      "desc": "使用連索機關完成一次長達30公尺的水平位移。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1720
+    },
+    {
+      "id": 81721,
+      "name": "就像靈感一樣",
+      "desc": "發射的雪球在未落地時就開始消散。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1721
+    },
+    {
+      "id": 81722,
+      "name": "此路不通",
+      "desc": "成功截停滾動的雪球。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1722
+    },
+    {
+      "id": 81724,
+      "name": "堅韌的膝蓋",
+      "desc": "保持滑鏟狀態長達20秒。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1724
+    },
+    {
+      "id": 81728,
+      "name": "昔日的承諾",
+      "desc": "那時，爐灰區沒有王，各人任意而行…",
+      "reward": 5,
+      "hidden": true,
+      "order": 1728
+    },
+    {
+      "id": 81729,
+      "name": "科斯基，方案",
+      "desc": "幫助納塔人，令她的浮燃鳥夥伴冷靜下來。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1729
+    },
+    {
+      "id": 81730,
+      "name": "如我的想像順我目光凝固",
+      "desc": "靠近燈塔上，少女的幽影凝結成的雕像。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1730
+    },
+    {
+      "id": 81731,
+      "name": "戴醉之身",
+      "desc": "你永遠可以叫醒一個真的醉了的人。",
+      "reward": 5,
+      "hidden": true,
+      "order": 1731
+    },
+    {
       "id": 82008,
       "name": "無堅不摧",
       "desc": "在無相之岩復甦前，擊碎所有復甦岩柱。",
@@ -5451,6 +5659,22 @@
       "order": 2309
     },
     {
+      "id": 82310,
+      "name": "等一下…就是現在！",
+      "desc": "在不滅衍生造物處於「命耀之姿」狀態時，透過擊破復生護盾，打斷其攻擊。",
+      "reward": 5,
+      "hidden": true,
+      "order": 2310
+    },
+    {
+      "id": 82311,
+      "name": "「駿獅墜落」",
+      "desc": "在嵌合翼駿獅處於「驅風」狀態時，擊破全部的風球將其擊落。",
+      "reward": 5,
+      "hidden": true,
+      "order": 2311
+    },
+    {
       "id": 84000,
       "name": "漫長旅途的開端",
       "desc": "完成蒙德的魔神任務。",
@@ -6233,6 +6457,14 @@
       "reward": 5,
       "hidden": true,
       "order": 4107
+    },
+    {
+      "id": 84584,
+      "name": "翔舞翱天的黑雪鵠",
+      "desc": "我行雪鵠未曾行過的事，我夢雪鵠未曾有過的夢。",
+      "reward": 5,
+      "hidden": true,
+      "order": 4108
     },
     {
       "id": 85000,
@@ -7593,6 +7825,70 @@
       "reward": 10,
       "hidden": true,
       "order": 5165
+    },
+    {
+      "id": 84391,
+      "name": "暴雪轟鳴的開幕",
+      "desc": "駕駛列車衝破至冬的風雪。",
+      "reward": 5,
+      "hidden": true,
+      "order": 5166
+    },
+    {
+      "id": 84392,
+      "name": "蒼星的神秘劇",
+      "desc": "從冰洞中取得了「星鋒劍」。",
+      "reward": 5,
+      "hidden": true,
+      "order": 5167
+    },
+    {
+      "id": 84393,
+      "name": "狂風呼嘯",
+      "desc": "接受夥伴的邀請加入「呼嘯社」。",
+      "reward": 5,
+      "hidden": true,
+      "order": 5168
+    },
+    {
+      "id": 84394,
+      "name": "無神憐愛的雪國",
+      "desc": "完成「無神憐愛的雪國」。",
+      "reward": 10,
+      "hidden": true,
+      "order": 5169
+    },
+    {
+      "id": 84395,
+      "name": "愛或遺憾的圓舞",
+      "desc": "觀看了「尋靈」的試演。",
+      "reward": 5,
+      "hidden": true,
+      "order": 5170
+    },
+    {
+      "id": 84396,
+      "name": "閉環之外",
+      "desc": "見證米提亞主動踏入暴風雪。",
+      "reward": 5,
+      "hidden": true,
+      "order": 5171
+    },
+    {
+      "id": 84397,
+      "name": "「命運」的三種死亡",
+      "desc": "從「死後世界」中倖存下來。",
+      "reward": 5,
+      "hidden": true,
+      "order": 5172
+    },
+    {
+      "id": 84398,
+      "name": "死魂靈的夜曲",
+      "desc": "完成「死魂靈的夜曲」。",
+      "reward": 10,
+      "hidden": true,
+      "order": 5173
     },
     {
       "id": 84155,

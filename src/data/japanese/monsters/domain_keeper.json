@@ -25,19 +25,19 @@
       "_id": 112142,
       "id": "jeweled_flaming_hilt",
       "name": "優美なる焔剣の柄",
-      "count": 0.2626
+      "count": 0.262
     },
     {
       "_id": 112141,
       "id": "fractured_flaming_hilt",
       "name": "半壊した焔剣の柄",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112140,
       "id": "faded_flaming_hilt",
       "name": "光を失った焔剣の柄",
-      "count": 3.9394
+      "count": 3.939
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "自律装置",
   "filename_icon": "UI_MonsterIcon_Watcher_Normal_01",
   "description": "原初の大いなる者から溢れ出た影の造物。高天の神殿を守る番人。\\n空の神殿の守衛として「目」を与えられながらも、永遠の真実である「理想」を称えることしかできず、現象世界の諸相を見ることは叶わない。それゆえ、天の使いの同類とは見なされない。このような矛盾が、その創造主の理性による設計なのか、あるいは彼らが仕える創造主ですら原初の存在の意図を理解できなかったからなのか、もはや知る由もない。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

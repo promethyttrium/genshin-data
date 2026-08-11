@@ -48,10 +48,14 @@
       "_id": 3612,
       "id": "birchsteamed_pork_ribs",
       "name": "Birch-Steamed Pork Ribs"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Sweet Scoops"
     }
   ],
   "source": [
     "พบได้ในโลกกว้าง"
-  ],
-  "rarity": 0
+  ]
 }

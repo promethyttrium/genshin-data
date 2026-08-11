@@ -25,19 +25,19 @@
       "_id": 112076,
       "id": "marked_shell",
       "name": "鍥紋的橫脊",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112075,
       "id": "sturdy_shell",
       "name": "密固的橫脊",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112074,
       "id": "desiccated_shell",
       "name": "殘毀的橫脊",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_Chrysopelea_Sacred_Wind",
   "description": "因為啃噬偉大的生命體，而扭曲異變的爬行動物。\\n即使獲得了操使元素的異能，聖骸獸自身無法將體內不朽的亡骸徹底消化。其中的力量與動物本身融合，長出的骨質甲殼據說在成分上與主要產自稻妻的冶煉素材有相近之處。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

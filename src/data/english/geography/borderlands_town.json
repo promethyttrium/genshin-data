@@ -1,0 +1,12 @@
+{
+  "_id": 70800031,
+  "id": "borderlands_town",
+  "name": "Borderlands Town",
+  "areaName": "Volkodlak Tundra",
+  "areaId": 80100,
+  "description": "A town that once flourished during the development period. In days gone by, an endless stream of travelers journeyed through here, flowing steadily between Snezhnaya and Nod-Krai.",
+  "regionName": "Snezhnaya",
+  "regionId": 8,
+  "sortOrder": 631,
+  "filename_image": "UI_Codex_Scenery_ZDYingKeZhen"
+}

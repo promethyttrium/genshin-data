@@ -1,0 +1,12 @@
+{
+  "_id": 70800035,
+  "id": "everburning_hearth_core",
+  "name": "Вечно пылающее сердце печи",
+  "areaName": "Вечная мерзлота",
+  "areaId": 80200,
+  "description": "Говорят, именно Белый царь даровал людям право добывать Кресниковые кристаллы.\nДля Снежной он был и лютой метелью, и тёплым восходящим солнцем.",
+  "regionName": "Снежная",
+  "regionId": 8,
+  "sortOrder": 635,
+  "filename_image": "UI_Codex_Scenery_ZDGuoLuFang"
+}

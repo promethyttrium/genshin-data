@@ -36,7 +36,7 @@
       "_id": 113067,
       "id": "ensnaring_gaze",
       "name": "深邃糾纏的凝視",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -171,7 +171,6 @@
   "categoryText": "深淵",
   "filename_icon": "UI_MonsterIcon_TheAbyss_Dendrite",
   "description": "於深邃晦暗的扭曲異界降臨此世的深淵魔物，擁有類似植物的形態。\\n此種扭曲的魔物已然能夠侵蝕入大地的深處，從中提取記憶以供其模仿與驅使。過往的回憶被扭曲成更加汙穢與深邃的樣貌，它們藉由此種行為，逐漸接近世界之樹的核心，以此動搖其存在的根本。\\n據說該種魔物無時無刻不在扭曲光芒中蘊含的種種色彩，並將之轉化為漆黑的訊息，在張開時彷彿要扎入虛空中的枝節似乎也在佐證這一點…",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

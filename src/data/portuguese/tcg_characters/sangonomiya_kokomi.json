@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Catalisador",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3600,
@@ -29,8 +31,10 @@
     {
       "id": "the_shape_of_water",
       "name": "Forma da Água",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#80C0FFFF\">Dano Hydro</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -50,7 +54,9 @@
       "id": "kurages_oath",
       "name": "Juramento Kurage",
       "desc": "Este personagem ganha uma <span style=\"color:#80C0FFFF\">Aplicação Hydro</span> e invoca <span style=\"color:#FFFFFFFF\">Bake-Kurage</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "nereids_ascension",
       "name": "Cerimônia Kaijin",
-      "desc": "Causa ? de ?, cura todos os seus personagens em 1 ponto, este personagem é afetado por <span style=\"color:#FFFFFFFF\">Vestimenta Cerimonial</span>.",
-      "skillTag": [],
+      "desc": "Causa 2 de <span style=\"color:#80C0FFFF\">Dano Hydro</span>, cura todos os seus personagens em 1 ponto, este personagem é afetado por <span style=\"color:#FFFFFFFF\">Vestimenta Cerimonial</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1102,

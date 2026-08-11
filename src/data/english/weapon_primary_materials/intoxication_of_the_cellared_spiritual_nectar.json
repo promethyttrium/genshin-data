@@ -1,0 +1,29 @@
+{
+  "_id": 114090,
+  "id": "intoxication_of_the_cellared_spiritual_nectar",
+  "name": "Intoxication of the Cellared Spiritual Nectar",
+  "description": "What others enjoy as a festive indulgence after a bountiful grain harvest is a necessity of survival for the clans who walk through the bitter cold.<br/>It is said that the Domovoy, whose mastery of brewing was without equal, once relied on this art to enrich the treasury of the king they served.<br/>And so, passed from clan to clan through trade, the fae's brew flowed across the frozen lands like honey laced with poison.",
+  "source": [
+    "Placeholder - Craftable Amount: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114089,
+        "id": "measured_pour_of_the_cellared_spiritual_nectar",
+        "name": "Measured Pour of the Cellared Spiritual Nectar",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domain of Forgery: Scars of Cursed Obsession",
+  "days": [
+    "Tuesday",
+    "Friday",
+    "Sunday"
+  ]
+}

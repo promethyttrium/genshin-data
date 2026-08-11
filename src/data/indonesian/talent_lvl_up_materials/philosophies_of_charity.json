@@ -1,0 +1,30 @@
+{
+  "_id": 104367,
+  "id": "philosophies_of_charity",
+  "name": "Philosophies of Charity",
+  "description": "Material Penguatan Talenta.\\n\"Kasih sayang\" adalah penyelamat bangsa es.\\nKasih sayang adalah kepedulian terhadap semua makhluk, yang menghapus perbedaan tinggi dan rendah, melampaui darah dan kebangsaan. Pandangan kasih sayang senantiasa tertuju pada semua orang, memberikan perlindungan bagi mereka yang malang, dan menjanjikan pembebasan abadi bagi semua.",
+  "source": [
+    "Placeholder - Jumlah yang Bisa Di-Craft: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104366,
+        "id": "guide_to_charity",
+        "name": "Guide to Charity",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domain of Mastery: Meditasi IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Senin",
+    "Kamis",
+    "Minggu"
+  ]
+}

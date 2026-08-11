@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Larva_03",
   "description": "水弾を発射して狩りをする水生動物。\\n（数少ない）原海アベラント愛好家の間で、アワアワタツノコはかなりファンが多い。もちろん原海アベラント愛好家もクロックワーク·マシナリー愛好家と同じように、集団内でさらに細分化されたグループは他のグループに対してかなり攻撃的であるが。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 5.34,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

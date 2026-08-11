@@ -31,22 +31,21 @@
       "_id": 112054,
       "id": "spectral_heart",
       "name": "Cuore spettrale",
-      "count": 0.5602
+      "count": 0.56
     },
     {
       "_id": 112053,
       "id": "spectral_husk",
       "name": "Guscio spettrale",
-      "count": 2.101
+      "count": 2.1
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Forme di vita elementali",
   "filename_icon": "UI_MonsterIcon_Sylph_Water_01",
   "description": "Un mostro nato da un'alta concentrazione di Hydro che in grado di fluttuare nell'aria.\\nNelle notti di luna, gli Spettri di Hydro emettono un bagliore soprannaturale mentre fluttuano lungo le rive del fiume. Le loro forme sfuggenti vengono spesso scambiate dai passanti per spiriti erranti, il che li ha resi le colonne portanti di un bel po' di racconti popolari.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

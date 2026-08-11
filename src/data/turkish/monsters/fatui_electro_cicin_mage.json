@@ -52,7 +52,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Summoner_01",
   "description": "Savaşta Elektrik Cicinlerini kontrol edebilen Fatui büyücüsü. Nereden geldiği ve o maskenin altındaki yüzün neye benzediği tam bir muammadır.\\nElektrik Cicinleri, Sis Otuna bayılır. Cicin Büyücüleri de avlarıyla oynamaya bayılır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

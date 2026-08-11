@@ -13,7 +13,6 @@
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Golem_Centaur",
   "description": "Tượng bán nhân mã khổng lồ tạc từ đá trắng và đồng thau, phía dưới lớp vỏ rắn chắc bằng đá là dòng huyết mạch Linh Lộ tuôn chảy. Đứng sừng sững trong tư thế của một thống soái quân đoàn, luôn sẵn sàng đạp vụn những kẻ dám mạo phạm sự uy nghiêm của nó.\\nNền văn minh cổ đại đã bị chìm cho rằng, chiến tranh cũng giống như âm nhạc, cần phải tuân theo nhịp điệu nghệ thuật. Vị thống soái quân đoàn cũng phải giống như chỉ huy dàn nhạc, coi khiên và kiếm trong tay như hợp âm và dây đàn, tấu lên giai điệu hùng tráng giữa chiến trường lạnh lẽo vô tình.\\n\"Chiến tranh là chuyện ác tất yếu để dẫn đến một hạnh phúc trải dài rộng khắp.\" - Thống soái quân đoàn Ma Tượng, người chỉnh âm từng chinh phục toàn bộ biển cao đã nói vậy.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

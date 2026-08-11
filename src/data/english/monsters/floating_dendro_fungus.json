@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Fungus_Un_Delta_Grass",
   "description": "A spore organism of some intelligence. It possesses extreme adaptability.\\nA researcher once said that these are some species of Dendro Specter. After this view was criticized, he changed his tack, claiming that this was just a literary turn of phrase.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

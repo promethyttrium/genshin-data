@@ -1,0 +1,40 @@
+{
+  "_id": 25131601,
+  "id": "volkodlak_sharpshooter",
+  "monsterId": 25131705,
+  "name": "Volkodlak tiratore scelto",
+  "specialNames": [
+    "Tiratore scelto"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestie mistiche",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Thin_Pistol",
+  "description": "Un tipo di Volkodlak relativamente piccolo e agile, presente tra i molti che vagano per Snezhnaya.\\nPossiedono sensi più acuti rispetto a quelli umani. Che si tratti della percezione della velocità del vento o della visione in determinate condizioni, questi tratti conferiscono loro dei vantaggi unici, permettendogli di raggiungere una precisione di gran lunga superiore a quella delle persone comuni nell'impiego di archi, balestre o cannoni dalla lunga distanza.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 5.486268,
+      "attack": 54.069954,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

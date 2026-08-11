@@ -13,8 +13,6 @@
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_VolcanoWeasel",
   "description": "Uma antiga variante do furão da montanha que se adaptou a um ambiente único, rico em flogisto, isolado do mundo exterior.\\nAo consumir criaturas ricas em Flogisto, essa antiga espécie acumulou poder em sua carapaça. Após uma existência prolongada nas ruínas da Montanha Sagrada, sua afinidade ao Flogisto parece ter feito com que seja influenciado pelo Mecanismo Fonte nas ruínas, criando um relacionamento único e simbiótico entre eles.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

@@ -1,0 +1,16 @@
+{
+  "_id": 380002,
+  "id": "super_awesome_magic_key",
+  "name": "「超厲害魔法鑰匙」",
+  "description": "「小魔女會」送給好朋友的禮物。由於材料不足的緣故，形制參考了楓丹的《雪翅雁童話集》中的神奇道具。\\n雖然不能真的像童話裡那樣隨意打開通往不同空間的門扉，但依然有著可以陪伴重要的朋友走過無數空間的堅韌。",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "雙手劍"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341802,
+  "icon_path": "UI_EquipIcon_Claymore_LoliFriend",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_LoliFriend"
+}

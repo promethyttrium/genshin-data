@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Octopus_Larva_02",
   "description": "Una creatura acquatica che caccia sparando proiettili d'acqua.\\nLa capacità di scagliare bombe d'acqua non è rara tra gli Aberranti del Fontemer, ovviamente. Ma, per i subacquei comuni, generalmente turisti, un simile getto d'acqua ad alta pressione può risultare una minaccia notevole. Lo spessore dell'equipaggiamento per immersioni è necessario per due ragioni: in primo luogo, per resistere alla pressione dell'acqua stessa; in secondo luogo, per proteggere dagli attacchi degli Aberranti del Fontemer.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 13.49,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

@@ -1,0 +1,21 @@
+{
+  "_id": 320001,
+  "id": "ardent_storm",
+  "name": "赫烈",
+  "description": "自地脉至深之处显现的辉耀兵刃幻形，能依据持有者的元素类型变化自身。据说在古老的国度曾以「索达古瑟」的名讳为称贤的罪人持有。",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "双手剑"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "辉耀幻形·超越",
+    "priority": 1
+  },
+  "item_id": 341201,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Claymore_MorphGravitas_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_MorphGravitas"
+}

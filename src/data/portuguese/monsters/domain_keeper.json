@@ -25,19 +25,19 @@
       "_id": 112142,
       "id": "jeweled_flaming_hilt",
       "name": "Cabo Flamejante Ornamentado",
-      "count": 0.2626
+      "count": 0.262
     },
     {
       "_id": 112141,
       "id": "fractured_flaming_hilt",
       "name": "Cabo Flamenjante Fraturado",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112140,
       "id": "faded_flaming_hilt",
       "name": "Cabo Flamejante Desvanecido",
-      "count": 3.9394
+      "count": 3.939
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Autômatos",
   "filename_icon": "UI_MonsterIcon_Watcher_Normal_01",
   "description": "Um constructo sombrio nascido do transbordamento do poderoso ser primordial, ele permanece como o guardião do Salão dos Pilares dos céus.\\nEmbora confiado com \"olhos\" como guardião do Pilar do Espaço, ele não pode fazer nada senão exaltar as \"formas\" eternas da verdadeira realidade. É-lhe negado qualquer visão dos múltiplos fenômenos do mundo e, portanto, não é considerado como pertencente à espécie dos anjos. Se tal contradição foi um desígnio deliberado da razão de seu criador, ou se o mestre a quem serve acabou por não compreender a vontade do ser primordial, talvez isso já não nos caiba saber.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

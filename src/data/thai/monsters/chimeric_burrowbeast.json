@@ -1,0 +1,72 @@
+{
+  "_id": 26310201,
+  "id": "chimeric_burrowbeast",
+  "monsterId": 26310201,
+  "name": "Chimeric Burrowbeast",
+  "specialNames": [
+    "Chimeric Burrowbeast"
+  ],
+  "investigation": {
+    "investigationId": 100,
+    "name": "สัตว์ร้ายสังเคราะห์ต่างสายพันธุ์",
+    "categoryType": "Common",
+    "categoryText": "ง่าย",
+    "description": "ผลผลิตจำนวนมากที่ถูกสร้างขึ้น จากเทคโนโลยีการแปรธาตุชีวภาพ ซึ่งครั้งหนึ่งเคยแพร่หลายใน Snezhnaya ก่อนที่จะถูกสั่งห้าม\\nพวกมันส่วนใหญ่ถูกใช้ไปในสงคราม เพื่อต่อต้านคลื่นอสูรทมิฬ ส่วนที่เหลือรอดมาจนถึงปัจจุบัน ก็มีจำนวนน้อยเสียยิ่งกว่าน้อย"
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Chimera_BeetleLion",
+  "rewardPreviewId": 16029,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 112151,
+      "id": "prime_chimeric_nexus",
+      "name": "Prime Chimeric Nexus",
+      "count": 0.084
+    },
+    {
+      "_id": 112150,
+      "id": "symbiotic_chimeric_nucleus",
+      "name": "Symbiotic Chimeric Nucleus",
+      "count": 0.336
+    },
+    {
+      "_id": 112149,
+      "id": "chimeric_core",
+      "name": "Chimeric Core",
+      "count": 1.26
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "สัตว์อสูรลึกลับ",
+  "filename_icon": "UI_MonsterIcon_Chimera_OwlPangolin",
+  "description": "สัตว์ร้ายสังเคราะห์ต่างสายพันธุ์ ซึ่งเป็นผลผลิตจากการแปรธาตุชีวภาพ ที่เคยเฟื่องฟูอยู่บนดินแดนเยือกแข็ง\\nหากมอนสเตอร์ที่ลัดเลาะไปมาระหว่างผืนดินกับผืนหิมะและน้ำแข็งมีความสามารถในการมองเห็นทุกสิ่งในเงามืด พวกมันจะกลายเป็นนักล่าที่ทรงพลังยิ่งขึ้นได้มั้ยนะ?\\nการทดลองกลับประสบความสำเร็จอย่างเหนือความคาดหมาย Burrowbeast ชนิดนี้จะเคลื่อนตัวไปมาใต้ผืนดินในตอนกลางคืน ขุดหลุมพรางท่ามกลางความมืด หรือซุ่มซ่อนตัวอยู่ในที่ลับเพื่อล่าเหยื่อ\\nตามรายงานของ \"Vestnik\" ระบุว่า เคยมีคนงานที่อาศัยอยู่ในเมือง Svetloledovka พบเห็น Burrowbeast ขนาดยักษ์ที่มีความสูงเกือบเท่ากับคนสองคน... แต่นั่นก็คงเป็นแค่เรื่องเหลวไหลละมั้ง",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.2
+    },
+    "base": {
+      "hp": 27.168,
+      "attack": 30.144,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

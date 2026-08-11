@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ธาตุไฟฟ้า",
+    "weapon": "อาวุธอื่น ๆ",
     "faction": [
-      null,
-      null
+      "มอนสเตอร์",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "striking_staff",
       "name": "Striking Staff",
-      "desc": "สร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "สร้าง? 1 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "thunderclap_totem",
       "name": "Thunderclap Totem",
-      "desc": "สร้าง? ? หน่วย และทำให้เกิด <span style=\"color:#FFFFFFFF\">Thundercall Staff</span> ในสนามของฝ่ายศัตรู",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#FFACFFFF\">ความเสียหายไฟฟ้า</span> 2 หน่วย และทำให้เกิด <span style=\"color:#FFFFFFFF\">Thundercall Staff</span> ในสนามของฝ่ายศัตรู",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -45,8 +51,10 @@
     {
       "id": "thunderstrike_hex",
       "name": "Thunderstrike Hex",
-      "desc": "สร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#FFACFFFF\">ความเสียหายไฟฟ้า</span> 5 หน่วย",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1104,

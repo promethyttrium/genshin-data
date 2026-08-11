@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Lanza",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3852,
@@ -29,8 +31,10 @@
     {
       "id": "whirlwind_thrust",
       "name": "Impulso de torbellino",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "lemniscatic_wind_cycling",
       "name": "Ciclón de viento lemniscático",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#80FFD7FF\">Daño Anemo</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "bane_of_all_evil",
       "name": "Azote de todos los males",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y este personaje se equipa la <span style=\"color:#FFFFFFFF\">máscara de Yaksha</span>.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts. de <span style=\"color:#80FFD7FF\">Daño Anemo</span> y este personaje se equipa la <span style=\"color:#FFFFFFFF\">máscara de Yaksha</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1105,

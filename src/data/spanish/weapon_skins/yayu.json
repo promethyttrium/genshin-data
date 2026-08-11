@@ -1,0 +1,21 @@
+{
+  "_id": 350003,
+  "id": "yayu",
+  "name": "Yayu",
+  "description": "Un espléndido miraje de arco procedente de las profundidades de las líneas ley. Puede cambiar según el tipo elemental de su portador. Dicen que, en una época tan remota que ya nadie puede recordar, una emisaria de los cielos otorgó este arco a la suma sacerdotisa de Lang Gan para concederle el derecho de guiar a la civilización que acababa de nacer.",
+  "rarity": 4,
+  "type": {
+    "id": "Bow",
+    "name": "Arco"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "Ilusión resplandeciente: Eternidad",
+    "priority": 2
+  },
+  "item_id": 341503,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Bow_MorphYayu_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Bow_MorphYayu"
+}

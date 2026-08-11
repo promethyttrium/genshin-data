@@ -1,0 +1,42 @@
+{
+  "_id": 1701,
+  "id": "podvorye_smoked_sausage",
+  "name": "Podvorye Smoked Sausage",
+  "description": "Irisan sosis. Sosis daging asap yang dibumbui dan diisi, diiris tipis dan disajikan langsung. Ini adalah hidangan khas Podvorye Restaurant, dan pilihan andalan yang tidak akan ditolak oleh siapa pun di meja makan.",
+  "rarity": 1,
+  "ingredients": [
+    {
+      "_id": 110011,
+      "id": "sausage",
+      "name": "Sausage",
+      "amount": 1
+    },
+    {
+      "_id": 100077,
+      "id": "pepper",
+      "name": "Pepper",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Makanan Pemulihan",
+  "results": {
+    "suspicious": {
+      "_id": 108988,
+      "name": "Suspicious Podvorye Smoked Sausage",
+      "description": "Irisan sosis. Potongannya tidak rata, dengan beberapa di antaranya masih menempel satu sama lain. Saat diangkat, sosis ini terlihat persis seperti seuntai tanaman merambat layu yang menghitam karena asap ....",
+      "effect": "Memulihkan 8% Max HP dan tambahan 800 HP untuk Karakter yang dipilih."
+    },
+    "normal": {
+      "_id": 108989,
+      "name": "Podvorye Smoked Sausage",
+      "description": "Irisan sosis. Sosis daging asap yang dibumbui dan diisi, diiris tipis dan disajikan langsung. Ini adalah hidangan khas Podvorye Restaurant, dan pilihan andalan yang tidak akan ditolak oleh siapa pun di meja makan.",
+      "effect": "Memulihkan 9% Max HP dan 1.000 HP tambahan untuk Karakter yang dipilih."
+    },
+    "delicious": {
+      "_id": 108990,
+      "name": "Delicious Podvorye Smoked Sausage",
+      "description": "Irisan sosis. Teksturnya yang padat mengatur ritme sementara cita rasa asap dan gurih membawakan melodinya, menari di atas lidah dalam sebuah duet yang sangat harmonis. Pantas saja makanan ini selalu habis pertama di meja makan.",
+      "effect": "Memulihkan 10% Max HP dan tambahan 1.200 HP untuk Karakter yang dipilih."
+    }
+  }
+}

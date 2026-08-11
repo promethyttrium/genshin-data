@@ -1,0 +1,40 @@
+{
+  "_id": 25138001,
+  "id": "juvenile_tree_segment",
+  "monsterId": 25138003,
+  "name": "Cây Phân Đoạn Non Nớt",
+  "specialNames": [
+    "Mộc Linh Trưởng Cổ Thụ"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Ma Thú Đột Biến",
+  "filename_icon": "UI_MonsterIcon_Leshy_Normal_01",
+  "description": "Leshy sinh trưởng trong rừng rậm.\\nTrong số rất nhiều loài fae ở Snezhnaya, Leshy cũng là một chủng tộc vô cùng đặc biệt, hầu như rất hiếm khi xuất hiện trong thành phố. Trong vô số các loài fae, có lẽ Leshy là loài có tuổi thọ dài nhất, rất ít chủng tộc trường sinh nào khác từng chứng kiến trọn vẹn một cuộc đời của Leshy. Thế nhưng, có lẽ đa số mọi người ngay cả việc phân biệt từng cá thể Leshy với nhau cũng không thể làm được.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.2,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

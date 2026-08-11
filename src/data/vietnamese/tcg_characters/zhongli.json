@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Thẻ Nhân Vật",
     "energy": 3,
+    "element": "Nguyên Tố Nham",
+    "weapon": "Vũ Khí Cán Dài",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3853,
@@ -29,8 +31,10 @@
     {
       "id": "rain_of_stone",
       "name": "Mưa Đá",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -49,8 +53,10 @@
     {
       "id": "dominus_lapidis",
       "name": "Tâm Trái Đất",
-      "desc": "Gây ? điểm ?, triệu hồi <span style=\"color:#FFFFFFFF\">Vách Đá</span>.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm <span style=\"color:#FFE699FF\">Sát Thương Nguyên Tố Nham</span>, triệu hồi <span style=\"color:#FFFFFFFF\">Vách Đá</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -63,8 +69,10 @@
     {
       "id": "dominus_lapidis_striking_stone",
       "name": "Tâm Trái Đất - Hùng Vĩ",
-      "desc": "Gây ? điểm ?, triệu hồi <span style=\"color:#FFFFFFFF\">Vách Đá</span>, tạo ra <span style=\"color:#FFFFFFFF\">Khiên Ngọc</span>.",
-      "skillTag": [],
+      "desc": "Gây 3 điểm <span style=\"color:#FFE699FF\">Sát Thương Nguyên Tố Nham</span>, triệu hồi <span style=\"color:#FFFFFFFF\">Vách Đá</span>, tạo ra <span style=\"color:#FFFFFFFF\">Khiên Ngọc</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -77,8 +85,10 @@
     {
       "id": "planet_befall",
       "name": "Thiên Tinh",
-      "desc": "Gây ? điểm ?, nhân vật mục tiêu bị <span style=\"color:#FFFFFFFF\">Hóa Thạch</span>.",
-      "skillTag": [],
+      "desc": "Gây 4 điểm <span style=\"color:#FFE699FF\">Sát Thương Nguyên Tố Nham</span>, nhân vật mục tiêu bị <span style=\"color:#FFFFFFFF\">Hóa Thạch</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1106,

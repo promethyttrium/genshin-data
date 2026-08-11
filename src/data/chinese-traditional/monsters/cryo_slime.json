@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Slime_Ice_02",
   "description": "逸散在自然之中的冰元素凝聚形成的小小魔物。\\n過去曾經有競爭對手惡意謠傳說，「晨曦酒莊」會利用冰史萊姆來調控酒窖的溫度，以此保證酒品的品質。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

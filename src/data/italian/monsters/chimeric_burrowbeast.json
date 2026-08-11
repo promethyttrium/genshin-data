@@ -1,0 +1,72 @@
+{
+  "_id": 26310201,
+  "id": "chimeric_burrowbeast",
+  "monsterId": 26310201,
+  "name": "Bestia scavatrice chimerica",
+  "specialNames": [
+    "Bestia scavatrice chimerica"
+  ],
+  "investigation": {
+    "investigationId": 100,
+    "name": "Bestie chimeriche aberranti",
+    "categoryType": "Common",
+    "categoryText": "Facile",
+    "description": "Una delle tante creazioni generate dall'alchimia biologica che un tempo prosperava a Snezhnaya, prima di essere proibita.\\nSebbene la stragrande maggioranza di questi mostri sia stata consumata nella guerra contro le Bestie oscure, i pochi esemplari che sono sopravvissuti fino ai giorni nostri rappresentano le più rare delle eccezioni."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Chimera_BeetleLion",
+  "rewardPreviewId": 16029,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 112151,
+      "id": "prime_chimeric_nexus",
+      "name": "Nucleo chimerico primordiale",
+      "count": 0.084
+    },
+    {
+      "_id": 112150,
+      "id": "symbiotic_chimeric_nucleus",
+      "name": "Nucleo chimerico simbiotico",
+      "count": 0.336
+    },
+    {
+      "_id": 112149,
+      "id": "chimeric_core",
+      "name": "Nucleo chimerico",
+      "count": 1.26
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestie mistiche",
+  "filename_icon": "UI_MonsterIcon_Chimera_OwlPangolin",
+  "description": "Un prodotto della bioalchimia un tempo diffuso nelle terre ghiacciate, un aberrante mostro chimerico.\\nSe a un mostro capace di scavare e muoversi attraverso terra e neve venisse concessa una vista in grado di percepire tutto ciò che si cela nell'ombra, potrebbe diventare un predatore ancora più temibile?\\nL'esperimento si rivelò sorprendentemente riuscito. Queste Bestie scavatrici si muovono sotto la superficie durante la notte, scavando trappole nell'oscurità o nascondendosi tra le ombre per cacciare.\\nSecondo un articolo pubblicato sul \"Vestnik\", un lavoratore di Svetloledovka avrebbe avvistato una Bestia scavatrice gigante, alta quasi quanto due persone... ma si tratta quasi certamente di una semplice diceria.",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.2
+    },
+    "base": {
+      "hp": 27.168,
+      "attack": 30.144,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": 25133601,
+  "id": "fanged_zealot",
+  "monsterId": 25133602,
+  "name": "Fanged Zealot",
+  "specialNames": [
+    "Fanged Zealot"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystical Beasts",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Mammoth",
+  "description": "A Volkodlak that has become extremely powerful after inheriting more of the mighty power in its bloodline.\\nAmong the many different Volkodlaks, those resembling giant elephants or mammoths possess some of the noblest bloodlines. Their clan once produced many formidable war leaders, many of whom even served as close retainers to the King of Beasts.\\nYet the greater an individual fae's power and the longer its life, the harder it becomes for such beings to form a clan. Compared with other Volkodlaks, this type is now far rarer in Snezhnaya.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 231.00076,
+      "attack": 112.64574,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

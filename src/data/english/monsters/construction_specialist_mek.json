@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Mechanical Spur Gear",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Meshing Gear",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automatons",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Excavator",
   "description": "A type of large clockwork meka which also has immeasurable value when utilized in building construction and archeological excavation. Its name comes from an engineer employed by Callas during the construction of the Clementine Line.\\nWith Callas' financial backing, this engineer built the legendary \"Golden Vessel\" — a gigantic piece of construction machinery which was used to dig the Poisson Tunnel. Once the job was complete, this type of clockwork meka was designed with a similar structure but reduced to a smaller scale.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 2,
   "stats": {

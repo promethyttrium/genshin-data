@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Eremite_Female_Hatchet",
   "description": "Altın çölün kumlarından doğmuş, pek düzenli olmayan paralı asker grubunun bir üyesi. Ödeme iyi olduğu sürece kim için olursa olsun çalışır.\\nBu balta kullanan kadınlar korkusuzca katliamın ortasına atılır ve yoldaşlarına fırsat sağlarlar.\\nKumlarla kaplı memleketlerinde bazen ateş yakıp otururlar ve altın renkli denizde unutulmuş şarkıları söylerler.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

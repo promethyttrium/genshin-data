@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Male_Fat_CannonShield",
   "description": "Un oficial de élite de los Opríchniks Fatui experto en romper las líneas enemigas con su artillería pesada, al tiempo que protege a sus aliados con su gran escudo.\\nEl dolor ha teñido su escudo de un color blanco como la escarcha, y la sangre acumulada en él ha conferido a sus bordes un tono oscuro. Los oficiales Opríchnik saben que no se puede traer de vuelta con palabras vacías a quienes no tuvieron más remedio que sacrificarse. La única manera de sacudir este viejo mundo contaminado es con el estruendo de una tormenta de granizo.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

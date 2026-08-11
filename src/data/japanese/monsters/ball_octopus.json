@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_Octopus_Larva_02",
   "description": "水弾を発射して狩りをする水生動物。\\nもちろん、水弾を発射することは原海アベラントの中では珍しい能力ではないが、観光客をはじめとするアマチュア潜水士にとって、こうした高圧水流は少なからず怪我のもととなる。ダイビング保護具が分厚いのには二つの理由があり、水圧に抵抗するためと、原海アベラントの攻撃を防ぐためである。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 13.49,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

@@ -10,7 +10,7 @@
   },
   "domain": "Court of Flowing Sand",
   "passive": "Bathhouses, Hawks, and Narukami",
-  "bonus": "Elemental Mastery increases by <span>120/150/180/210/240</span> for 6s after triggering Swirl. Elemental Mastery increases by <span>96/120/144/168/192</span> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <span>32/40/48/56/64</span> for 30s after the wielder's Elemental Burst hits an opponent.",
+  "bonus": "Elemental Mastery increases by <span>120/150/180/210/240</span> for 6s after triggering Swirl or Stellar Swirl. Elemental Mastery increases by <span>96/120/144/168/192</span> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <span>32/40/48/56/64</span> for 30s after the wielder's Elemental Burst hits an opponent.",
   "specialProp": "Elemental Mastery",
   "stats": {
     "primary": "Base ATK",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Bathhouses, Hawks, and Narukami",
-    "template": "Elemental Mastery increases by <span style=\"color:#99FFFFFF\">{0}</span> for 6s after triggering Swirl. Elemental Mastery increases by <span style=\"color:#99FFFFFF\">{1}</span> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <span style=\"color:#99FFFFFF\">{2}</span> for 30s after the wielder's Elemental Burst hits an opponent.",
+    "template": "Elemental Mastery increases by <span style=\"color:#99FFFFFF\">{0}</span> for 6s after triggering Swirl or Stellar Swirl. Elemental Mastery increases by <span style=\"color:#99FFFFFF\">{1}</span> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <span style=\"color:#99FFFFFF\">{2}</span> for 30s after the wielder's Elemental Burst hits an opponent.",
     "params": [
       [
         "120",
@@ -312,23 +311,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "Elemental Mastery increases by <span>120</span> for 6s after triggering Swirl. Elemental Mastery increases by <span>96</span> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <span>32</span> for 30s after the wielder's Elemental Burst hits an opponent."
+      "desc": "Elemental Mastery increases by <span>120</span> for 6s after triggering Swirl or Stellar Swirl. Elemental Mastery increases by <span>96</span> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <span>32</span> for 30s after the wielder's Elemental Burst hits an opponent."
     },
     {
       "refinement": 2,
-      "desc": "Elemental Mastery increases by <span>150</span> for 6s after triggering Swirl. Elemental Mastery increases by <span>120</span> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <span>40</span> for 30s after the wielder's Elemental Burst hits an opponent."
+      "desc": "Elemental Mastery increases by <span>150</span> for 6s after triggering Swirl or Stellar Swirl. Elemental Mastery increases by <span>120</span> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <span>40</span> for 30s after the wielder's Elemental Burst hits an opponent."
     },
     {
       "refinement": 3,
-      "desc": "Elemental Mastery increases by <span>180</span> for 6s after triggering Swirl. Elemental Mastery increases by <span>144</span> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <span>48</span> for 30s after the wielder's Elemental Burst hits an opponent."
+      "desc": "Elemental Mastery increases by <span>180</span> for 6s after triggering Swirl or Stellar Swirl. Elemental Mastery increases by <span>144</span> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <span>48</span> for 30s after the wielder's Elemental Burst hits an opponent."
     },
     {
       "refinement": 4,
-      "desc": "Elemental Mastery increases by <span>210</span> for 6s after triggering Swirl. Elemental Mastery increases by <span>168</span> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <span>56</span> for 30s after the wielder's Elemental Burst hits an opponent."
+      "desc": "Elemental Mastery increases by <span>210</span> for 6s after triggering Swirl or Stellar Swirl. Elemental Mastery increases by <span>168</span> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <span>56</span> for 30s after the wielder's Elemental Burst hits an opponent."
     },
     {
       "refinement": 5,
-      "desc": "Elemental Mastery increases by <span>240</span> for 6s after triggering Swirl. Elemental Mastery increases by <span>192</span> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <span>64</span> for 30s after the wielder's Elemental Burst hits an opponent."
+      "desc": "Elemental Mastery increases by <span>240</span> for 6s after triggering Swirl or Stellar Swirl. Elemental Mastery increases by <span>192</span> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <span>64</span> for 30s after the wielder's Elemental Burst hits an opponent."
     }
   ]
 }

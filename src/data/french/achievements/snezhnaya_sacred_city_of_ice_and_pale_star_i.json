@@ -1,0 +1,182 @@
+{
+  "_id": 69,
+  "id": "snezhnaya_sacred_city_of_ice_and_pale_star_i",
+  "name": "Snezhnaya : Cité sacrée de la glace et de l'étoile pâle (1)",
+  "order": 72,
+  "achievements": [
+    {
+      "id": 80504,
+      "name": "Exploration continentale : Nation sous les neiges (1)",
+      "desc": "Débloquez l'intégralité de la carte de la Terre permagelée, de la Toundra volkodlak, de la Vallée des plumeflammes, du Sépulcre du bouleau blanc et de la Cime de givrefuneste dans la région de Snezhnaya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 463
+    },
+    {
+      "id": 80505,
+      "name": "À travers les neiges glacées (1)",
+      "desc": "Activez tous les points de téléportation de la Terre permagelée, de la Toundra volkodlak, de la Vallée des plumeflammes, du Sépulcre du bouleau blanc et de la Cime de givrefuneste dans la région de Snezhnaya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 464
+    },
+    {
+      "id": 80506,
+      "name": "Pèlerinage sacré : Nation sous les neiges (1)",
+      "desc": "Débloquez tous les Sanctuaires des profondeurs de la Terre permagelée, de la Toundra volkodlak, de la Vallée des plumeflammes, du Sépulcre du bouleau blanc et de la Cime de givrefuneste dans la région de Snezhnaya.",
+      "reward": 10,
+      "hidden": false,
+      "order": 465
+    },
+    {
+      "id": 80507,
+      "name": "Pâle et translucide comme la glace",
+      "desc": "Montez les Statues des Sept de Snezhnaya au niveau maximum.",
+      "reward": 20,
+      "hidden": false,
+      "order": 466
+    },
+    {
+      "id": 80508,
+      "name": "Générosité de la pénombre : Nation sous les neiges (1)",
+      "desc": "Débloquez tous les butins des Royaumes de pénombre de la Terre permagelée, de la Toundra volkodlak, de la Vallée des plumeflammes, du Sépulcre du bouleau blanc et de la Cime de givrefuneste dans la région de Snezhnaya.",
+      "reward": 10,
+      "hidden": false,
+      "order": 467
+    },
+    {
+      "id": 80509,
+      "name": "Guidé par la toundra (1)",
+      "desc": "Suivez 3 Fées sur la Terre permagelée, sur la Toundra volkodlak, dans la Vallée des plumeflammes, au Sépulcre du bouleau blanc et à la Cime de givrefuneste et activez leur support.",
+      "reward": 5,
+      "hidden": false,
+      "order": 468
+    },
+    {
+      "id": 80510,
+      "name": "Guidé par la toundra (1)",
+      "desc": "Suivez 5 Fées sur la Terre permagelée, sur la Toundra volkodlak, dans la Vallée des plumeflammes, au Sépulcre du bouleau blanc et à la Cime de givrefuneste et activez leur support.",
+      "reward": 10,
+      "hidden": false,
+      "order": 469,
+      "preStage": 80509
+    },
+    {
+      "id": 80511,
+      "name": "Guidé par la toundra (1)",
+      "desc": "Suivez 10 Fées sur la Terre permagelée, sur la Toundra volkodlak, dans la Vallée des plumeflammes, au Sépulcre du bouleau blanc et à la Cime de givrefuneste et activez leur support.",
+      "reward": 20,
+      "hidden": false,
+      "order": 470,
+      "preStage": 80510
+    },
+    {
+      "id": 80512,
+      "name": "Chasse aux trésors sur les terres glaciales (1)",
+      "desc": "Ouvrez 65 coffres sur la Terre permagelée, sur la Toundra volkodlak, dans la Vallée des plumeflammes, au Sépulcre du bouleau blanc et à la Cime de givrefuneste.",
+      "reward": 5,
+      "hidden": false,
+      "order": 471
+    },
+    {
+      "id": 80513,
+      "name": "Chasse aux trésors sur les terres glaciales (1)",
+      "desc": "Ouvrez 130 coffres sur la Terre permagelée, sur la Toundra volkodlak, dans la Vallée des plumeflammes, au Sépulcre du bouleau blanc et à la Cime de givrefuneste.",
+      "reward": 10,
+      "hidden": false,
+      "order": 472,
+      "preStage": 80512
+    },
+    {
+      "id": 80514,
+      "name": "Chasse aux trésors sur les terres glaciales (1)",
+      "desc": "Ouvrez 260 coffres sur la Terre permagelée, sur la Toundra volkodlak, dans la Vallée des plumeflammes, au Sépulcre du bouleau blanc et à la Cime de givrefuneste.",
+      "reward": 20,
+      "hidden": false,
+      "order": 473,
+      "preStage": 80513
+    },
+    {
+      "id": 80515,
+      "name": "Péripéties sur les terres glaciales (1)",
+      "desc": "Terminez 6 défis du monde ouvert activés par mécanisme sur la Terre permagelée, sur la Toundra volkodlak, dans la Vallée des plumeflammes, au Sépulcre du bouleau blanc et à la Cime de givrefuneste.",
+      "reward": 5,
+      "hidden": false,
+      "order": 474
+    },
+    {
+      "id": 80516,
+      "name": "Péripéties sur les terres glaciales (1)",
+      "desc": "Terminez 12 défis du monde ouvert activés par mécanisme sur la Terre permagelée, sur la Toundra volkodlak, dans la Vallée des plumeflammes, au Sépulcre du bouleau blanc et à la Cime de givrefuneste.",
+      "reward": 10,
+      "hidden": false,
+      "order": 475,
+      "preStage": 80515
+    },
+    {
+      "id": 80517,
+      "name": "Péripéties sur les terres glaciales (1)",
+      "desc": "Terminez 24 défis du monde ouvert activés par mécanisme sur la Terre permagelée, sur la Toundra volkodlak, dans la Vallée des plumeflammes, au Sépulcre du bouleau blanc et à la Cime de givrefuneste.",
+      "reward": 20,
+      "hidden": false,
+      "order": 476,
+      "preStage": 80516
+    },
+    {
+      "id": 80518,
+      "name": "L'échelle de l'amour",
+      "desc": "Terminez « Hespérides de l'amour et de la haine ».",
+      "reward": 10,
+      "hidden": false,
+      "order": 477
+    },
+    {
+      "id": 80519,
+      "name": "Ensemble pour le bonheur éternel",
+      "desc": "Terminez « Dans la demeure de la vie ».",
+      "reward": 10,
+      "hidden": false,
+      "order": 478
+    },
+    {
+      "id": 80520,
+      "name": "Dix mille affections dans un soupir",
+      "desc": "Empêchez l'Humain primordial de transformer le monde en une cour insensible à l'amour et au chagrin.",
+      "reward": 10,
+      "hidden": false,
+      "order": 479
+    },
+    {
+      "id": 80521,
+      "name": "Naissance d'une chanteuse dans un coquillage",
+      "desc": "Améliorez le point de rassemblement « Grotte Marélodie » jusqu'au Niv. maximum.",
+      "reward": 5,
+      "hidden": false,
+      "order": 480
+    },
+    {
+      "id": 80522,
+      "name": "Trouver sa valeur dans le monde éveillé",
+      "desc": "Améliorez le point de rassemblement « Cabine de chasse » jusqu'au Niv. maximum.",
+      "reward": 5,
+      "hidden": false,
+      "order": 481
+    },
+    {
+      "id": 80523,
+      "name": "Glorification de l'élue",
+      "desc": "Améliorez le point de rassemblement « Théâtre Korolevskiy » jusqu'au Niv. maximum.",
+      "reward": 5,
+      "hidden": false,
+      "order": 482
+    },
+    {
+      "id": 80529,
+      "name": "Ouvrir les yeux, bercés par la nuit",
+      "desc": "Terminez la restauration de Rankova Zorya.",
+      "reward": 5,
+      "hidden": false,
+      "order": 488
+    }
+  ]
+}

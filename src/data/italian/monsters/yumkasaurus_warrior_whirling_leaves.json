@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Fischietto di metallo del guerriero",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Fischietto di legno della sentinella",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Altre fazioni umane",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Hookwalker",
   "description": "Un potente guerriero dei Discendenti delle Vette, il cui coraggio è stato riconosciuto e che pertanto può indossare la corona saurica.\\nPuò usare una corda da arrampicata per espandere la portata del proprio attacco. Le corde da arrampicata sono un elemento indispensabile nella vita quotidiana dei Discendenti delle Vette. Tuttavia, solo i guerrieri più scatenati le combinano con delle lame per creare un'arma decisamente letale, ma difficile da controllare.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

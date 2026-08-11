@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Mature",
   "description": "La forme adulte d'un Hippocampe bulleux mâle, extrêmement agressive.\\nCertains prétendent même avoir rencontré un seigneur parmi les hippocampes, qui serait apparemment une créature fière avec quatre longs membres.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

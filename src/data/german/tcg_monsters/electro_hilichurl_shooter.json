@@ -8,17 +8,21 @@
     "hp": 3,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Elektro",
+    "weapon": "Andere Waffen",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "thunder_arrow",
       "name": "Elektro-Pfeil",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#FFACFFFF\">Elektro-SCH</span>.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -37,8 +41,10 @@
     {
       "id": "multishot",
       "name": "Pfeilfächer",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 4 Pkt. <span style=\"color:#FFACFFFF\">Elektro-SCH</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -58,7 +64,9 @@
       "id": "hide",
       "name": "Untertauchen",
       "desc": "Passiv – Wechselt nach Anwenden einer Fähigkeit automatisch zur nächsten Figur.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

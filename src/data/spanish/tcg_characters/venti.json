@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Arco",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3851,
@@ -29,8 +31,10 @@
     {
       "id": "divine_marksmanship",
       "name": "Puntería divina",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "skyward_sonnet",
       "name": "Sonata celestial",
-      "desc": "Inflige ? pts. de ? y crea un <span style=\"color:#FFFFFFFF\">campo de viento</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#80FFD7FF\">Daño Anemo</span> y crea un <span style=\"color:#FFFFFFFF\">campo de viento</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "winds_grand_ode",
       "name": "Gran Oda del Viento",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? e invoca un <span style=\"color:#FFFFFFFF\">Ojo del huracán</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#80FFD7FF\">Daño Anemo</span> e invoca un <span style=\"color:#FFFFFFFF\">Ojo del huracán</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1105,

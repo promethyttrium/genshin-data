@@ -1,0 +1,33 @@
+{
+  "_id": 215161,
+  "id": "backstreet_guile",
+  "shareId": 612,
+  "name": "Weisheit der Gassen",
+  "title": "Jahoda – Weisheit der Gassen",
+  "desc": "„Wer’s findet, darf’s behalten!“",
+  "in_play_description": "Wenn <span style=\"color:#FFFFFFFF\">Jahoda</span> als aktive Figur eingewechselt wird: Wenn dein Gegner nicht weniger Karten auf der Hand hat als du, erhältst du zufällig zwei Kopien seiner Karten. (1-mal pro Runde)",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "Anemo",
+    "card_type": "Ausrüstungskarte",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "Anemo",
+        "count": 3
+      }
+    ],
+    "source": "Nach Erreichen des entsprechenden Ziels in einem Einladungsduell mit Jahoda in der Taverne Zum Katzenschwanz zu erhalten.",
+    "tags": [
+      "Talent",
+      "Kampfaktion"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Kampfaktion</span>: Ist deine aktive Figur <span style=\"color:#FFFFFFFF\">Jahoda</span>, ist diese Karte anzulegen.<br/>Legt Jahoda sie an, wird sofort 1-mal <span style=\"color:#FFD780FF\">Atemberaubende Kriegslist – Plan zur Reichtumsverteilung</span> angewendet.<br/>Wenn <span style=\"color:#FFFFFFFF\">Jahoda</span> als aktive Figur eingewechselt wird: Wenn dein Gegner nicht weniger Karten auf der Hand hat als du, erhältst du zufällig zwei Kopien seiner Karten. (1-mal pro Runde)<br/>(Diese Karte kann nur einem Deck hinzugefügt werden, das Jahoda enthält.)"
+    }
+  ]
+}

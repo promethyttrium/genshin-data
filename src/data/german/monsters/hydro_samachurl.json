@@ -13,12 +13,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl-Stämme",
   "filename_icon": "UI_MonsterIcon_Shaman_Water_01",
   "description": "Ein runzliger, murmelnder Hilichurl, der von der Hydro-Kraft singt.\\nHilichurle, deren Gabe darin liegt, die Elemente zu steuern, erreichen ihren Zenit oft erst in den letzten Lebensjahren. Was für ein Leben führt dazu, dass solche einfachen Kreaturen Wasser und Regen beschwören können?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

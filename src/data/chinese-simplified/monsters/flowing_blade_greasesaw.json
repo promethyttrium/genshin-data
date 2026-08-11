@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "战士的铁哨",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "卫从的木哨",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人类势力",
   "filename_icon": "UI_MonsterIcon_Human_Male_Sword_Mosasaurus",
   "description": "来自流泉之源的勇士，在临水流域巡游的部族守卫者。\\n总是冲在前方的战士，手中的剑犹如噬人的骨齿。习练剑术的部族人需要在水中抵抗阻力来锻炼力量与技巧，其中的佼佼者，甚至可以将水中的游鱼一分为二。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

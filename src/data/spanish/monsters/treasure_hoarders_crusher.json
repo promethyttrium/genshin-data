@@ -59,22 +59,21 @@
       "_id": 112036,
       "id": "silver_raven_insignia",
       "name": "Insignia de cuervo plateada",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112035,
       "id": "treasure_hoarder_insignia",
       "name": "Insignia de cuervo de bronce",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
   "description": "Un miembro de un grupo poco organizado que ha llegado a todos los rincones del continente, incluso a dominios desconocidos.\\nAntes trabajaban de mineros. Cuando se cerró la Sima, tomaron su asignación y se unieron a los Ladrones de Tesoros.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

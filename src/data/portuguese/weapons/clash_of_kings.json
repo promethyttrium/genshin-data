@@ -1,0 +1,328 @@
+{
+  "_id": 14435,
+  "id": "clash_of_kings",
+  "name": "Duelo de Reis",
+  "description": "Uma caixa dourada ricamente incrustada com joias preciosas. Ela guarda um jogo muito apreciado pelos reis das areias.",
+  "rarity": 4,
+  "type": {
+    "id": "Catalyst",
+    "name": "Catalisador"
+  },
+  "domain": "Torre do Orgulho",
+  "passive": "Esquecido pelo Dia e Noite",
+  "bonus": "Depois que o portador lançar a Habilidade Elemental, obtém o efeito Regras do Tabuleiro por 6s: aumenta o ATQ em <span>20%/25%/30%/35%/40%</span> e a Proficiência Elemental em <span>100/125/150/175/200</span>. Esse efeito pode ser desencadeado uma vez a cada 12s, e não é acumulável. Na duração, quando o Ataque Carregado do portador atingir o inimigo, prolonga a duração desse efeito em 6s. É possível prolongar a duração do efeito dessa forma em até 6s.",
+  "specialProp": "Taxa Crítica",
+  "stats": {
+    "primary": "ATQ Básico",
+    "secondary": "Taxa Crítica",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 42,
+        "secondary": 6
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 109,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 135,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 205,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 231,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 266,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 292,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 327,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 353,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 388,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 414,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 449,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 475,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 510,
+        "secondary": 27.6
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114037,
+          "id": "copper_talisman_of_the_forest_dew",
+          "name": "Talismã de Bronze do Orvalho Florestal",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112071,
+          "id": "damaged_prism",
+          "name": "Prisma Danificado",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112065,
+          "id": "faded_red_satin",
+          "name": "Cetim Vermelho Desbotado",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114038,
+          "id": "iron_talisman_of_the_forest_dew",
+          "name": "Talismã de Ferro do Orvalho Florestal",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112071,
+          "id": "damaged_prism",
+          "name": "Prisma Danificado",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112065,
+          "id": "faded_red_satin",
+          "name": "Cetim Vermelho Desbotado",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114038,
+          "id": "iron_talisman_of_the_forest_dew",
+          "name": "Talismã de Ferro do Orvalho Florestal",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112072,
+          "id": "turbid_prism",
+          "name": "Prisma Turvo",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112066,
+          "id": "trimmed_red_silk",
+          "name": "Seda Vermelha Bordada",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114039,
+          "id": "silver_talisman_of_the_forest_dew",
+          "name": "Talismã de Prata do Orvalho Florestal",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112072,
+          "id": "turbid_prism",
+          "name": "Prisma Turvo",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112066,
+          "id": "trimmed_red_silk",
+          "name": "Seda Vermelha Bordada",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114039,
+          "id": "silver_talisman_of_the_forest_dew",
+          "name": "Talismã de Prata do Orvalho Florestal",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112073,
+          "id": "radiant_prism",
+          "name": "Prisma Radiante",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112067,
+          "id": "rich_red_brocade",
+          "name": "Cetim Vermelho",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114040,
+          "id": "golden_talisman_of_the_forest_dew",
+          "name": "Talismã de Ouro do Orvalho Florestal",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112073,
+          "id": "radiant_prism",
+          "name": "Prisma Radiante",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112067,
+          "id": "rich_red_brocade",
+          "name": "Cetim Vermelho",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "Esquecido pelo Dia e Noite",
+    "template": "Depois que o portador lançar a Habilidade Elemental, obtém o efeito Regras do Tabuleiro por 6s: aumenta o ATQ em <span style=\"color:#99FFFFFF\">{0}</span> e a Proficiência Elemental em <span style=\"color:#99FFFFFF\">{1}</span>. Esse efeito pode ser desencadeado uma vez a cada 12s, e não é acumulável. Na duração, quando o Ataque Carregado do portador atingir o inimigo, prolonga a duração desse efeito em 6s. É possível prolongar a duração do efeito dessa forma em até 6s.",
+    "params": [
+      [
+        "20%",
+        "100"
+      ],
+      [
+        "25%",
+        "125"
+      ],
+      [
+        "30%",
+        "150"
+      ],
+      [
+        "35%",
+        "175"
+      ],
+      [
+        "40%",
+        "200"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "Depois que o portador lançar a Habilidade Elemental, obtém o efeito Regras do Tabuleiro por 6s: aumenta o ATQ em <span>20%</span> e a Proficiência Elemental em <span>100</span>. Esse efeito pode ser desencadeado uma vez a cada 12s, e não é acumulável. Na duração, quando o Ataque Carregado do portador atingir o inimigo, prolonga a duração desse efeito em 6s. É possível prolongar a duração do efeito dessa forma em até 6s."
+    },
+    {
+      "refinement": 2,
+      "desc": "Depois que o portador lançar a Habilidade Elemental, obtém o efeito Regras do Tabuleiro por 6s: aumenta o ATQ em <span>25%</span> e a Proficiência Elemental em <span>125</span>. Esse efeito pode ser desencadeado uma vez a cada 12s, e não é acumulável. Na duração, quando o Ataque Carregado do portador atingir o inimigo, prolonga a duração desse efeito em 6s. É possível prolongar a duração do efeito dessa forma em até 6s."
+    },
+    {
+      "refinement": 3,
+      "desc": "Depois que o portador lançar a Habilidade Elemental, obtém o efeito Regras do Tabuleiro por 6s: aumenta o ATQ em <span>30%</span> e a Proficiência Elemental em <span>150</span>. Esse efeito pode ser desencadeado uma vez a cada 12s, e não é acumulável. Na duração, quando o Ataque Carregado do portador atingir o inimigo, prolonga a duração desse efeito em 6s. É possível prolongar a duração do efeito dessa forma em até 6s."
+    },
+    {
+      "refinement": 4,
+      "desc": "Depois que o portador lançar a Habilidade Elemental, obtém o efeito Regras do Tabuleiro por 6s: aumenta o ATQ em <span>35%</span> e a Proficiência Elemental em <span>175</span>. Esse efeito pode ser desencadeado uma vez a cada 12s, e não é acumulável. Na duração, quando o Ataque Carregado do portador atingir o inimigo, prolonga a duração desse efeito em 6s. É possível prolongar a duração do efeito dessa forma em até 6s."
+    },
+    {
+      "refinement": 5,
+      "desc": "Depois que o portador lançar a Habilidade Elemental, obtém o efeito Regras do Tabuleiro por 6s: aumenta o ATQ em <span>40%</span> e a Proficiência Elemental em <span>200</span>. Esse efeito pode ser desencadeado uma vez a cada 12s, e não é acumulável. Na duração, quando o Ataque Carregado do portador atingir o inimigo, prolonga a duração desse efeito em 6s. É possível prolongar a duração do efeito dessa forma em até 6s."
+    }
+  ]
+}

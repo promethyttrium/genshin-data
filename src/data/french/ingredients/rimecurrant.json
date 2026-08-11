@@ -1,0 +1,26 @@
+{
+  "_id": 101281,
+  "id": "rimecurrant",
+  "name": "Givroseille",
+  "description": "Une baie au goût riche qui pousse sur des branches givrées.",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Glace à la givroseille"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Chachlyks snezhnayiens"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Coupes sucrées"
+    }
+  ],
+  "source": [
+    "Zone conseillée : Snezhnaya"
+  ]
+}

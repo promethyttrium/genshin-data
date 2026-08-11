@@ -1,0 +1,12 @@
+{
+  "_id": 70800043,
+  "id": "cavern_of_melodic_tides",
+  "name": "潮騒が歌う洞窟",
+  "areaName": "霜つく峰",
+  "areaId": 80300,
+  "description": "潮は歌い手が口ずさむ旋律に合わせ、岸壁を優しく打つ。広く寂寥としたこの場所では、波と幽玄な残響だけが、彼女に得難い平穏をもたらすのかもしれない。",
+  "regionName": "スネージナヤ",
+  "regionId": 8,
+  "sortOrder": 643,
+  "filename_image": "UI_Codex_Scenery_ZDRenYu3"
+}

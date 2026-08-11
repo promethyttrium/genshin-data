@@ -9,9 +9,11 @@
     "hp": 6,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Senjata Lain",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Cosmic Calamity"
     ],
     "talent_card": {
       "_id": 5695,
@@ -28,8 +30,10 @@
     {
       "id": "shattering_waves",
       "name": "Shattering Waves",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -48,8 +52,10 @@
     {
       "id": "starfall_shower",
       "name": "Starfall Shower",
-      "desc": "Mengakibatkan $[D__KEY__DAMAGE_2] poin ?. Untuk setiap 3 poin Max HP tambahan yang diberikan oleh <span style=\"color:#FFFFFFFF\">Insatiable Appetite</span> yang dimiliki Karakter ini, akan mengakibatkan DMG +1 (Maksimum +3 poin). Selanjutnya, akan mem<span style=\"color:#FFFFFFFF\">buang</span> 1 kartu dengan <span style=\"color:#FFFFFFFF\">Biaya Dadu Elemental Saat Ini</span> tertinggi di Tanganmu.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#80C0FFFF\">Hydro DMG</span>. Untuk setiap 3 poin Max HP tambahan yang diberikan oleh <span style=\"color:#FFFFFFFF\">Insatiable Appetite</span> yang dimiliki Karakter ini, akan mengakibatkan DMG +1 (Maksimum +3 poin). Selanjutnya, akan mem<span style=\"color:#FFFFFFFF\">buang</span> 1 kartu dengan <span style=\"color:#FFFFFFFF\">Biaya Dadu Elemental Saat Ini</span> tertinggi di Tanganmu.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -62,8 +68,10 @@
     {
       "id": "ravaging_devourer",
       "name": "Ravaging Devourer",
-      "desc": "Mengakibatkan ? poin ?, mengakibatkan 1 poin <span style=\"color:#FFFFFFFF\">Piercing DMG</span> ke seluruh Karakter standby lawan, dan memanggil <span style=\"color:#FFFFFFFF\">Dark Shadow</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#80C0FFFF\">Hydro DMG</span>, mengakibatkan 1 poin <span style=\"color:#FFFFFFFF\">Piercing DMG</span> ke seluruh Karakter standby lawan, dan memanggil <span style=\"color:#FFFFFFFF\">Dark Shadow</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -83,7 +91,9 @@
       "id": "insatiable_appetite",
       "name": "Insatiable Appetite",
       "desc": "[Pasif] Menciptakan <span style=\"color:#FFFFFFFF\">Deep Devourer's Domain</span> saat duel dimulai.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

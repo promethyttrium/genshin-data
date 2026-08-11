@@ -13,7 +13,6 @@
   "categoryText": "Entités élémentaires",
   "filename_icon": "UI_MonsterIcon_Effigy_Fire",
   "description": "Nom de code « Ayin », une entité Pyro de niveau supérieur.\\nD'après les recherches, les Hypostases élémentaires sont liées aux anomalies des veines élémentaires locales. Mais on ignore toujours si c'est l'existence des Hypostases qui a influé sur les veines élémentaires, ou l'inverse.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

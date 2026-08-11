@@ -8,14 +8,18 @@
     "hp": 6,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Altre armi",
     "faction": []
   },
   "skills": [
     {
       "id": "combo_slash",
       "name": "Attacco continuo",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -34,8 +38,10 @@
     {
       "id": "blaze_bloom",
       "name": "Scoppio pirico",
-      "desc": "Infligge ? ?, passa al prossimo personaggio.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#FF9999FF\">DAN da Pyro</span>, passa al prossimo personaggio.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,7 +55,9 @@
       "id": "iai_sheathed",
       "name": "Iaido: Estrazione della spada",
       "desc": "<span style=\"color:#FFFFFFFF\">Preparazione abilità</span>: <span style=\"color:#FFFFFFFF\">Iaido: Stoccata</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1108,
@@ -69,7 +77,9 @@
       "id": "zanshin",
       "name": "Crudeltà",
       "desc": "(Passiva) Fase finale: se questo personaggio è il personaggio attivo, ottiene 1 punto Energia.",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

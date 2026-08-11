@@ -1,0 +1,21 @@
+{
+  "_id": 320003,
+  "id": "silver_radiance_of_gradlon",
+  "name": "Brilho Prateado de Gradlon",
+  "description": "Uma gloriosa arma ilusória que surgiu das profundezas das Linhas Ley. Ela pode mudar sua aparência com base no Tipo Elemental de seu usuário. Dizem que, numa idade antiga, muito além de toda lembrança, um enviado divino dos céus concedeu esse espadão ao sumo-sacerdote de Ys, concedendo a ele o direito de liderar o porto onde águas e gramas florescem.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Espadão"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "Metamorfose Radiante: Eternidade",
+    "priority": 2
+  },
+  "item_id": 341203,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Claymore_MorphGradlon_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_MorphGradlon"
+}

@@ -157,7 +157,6 @@
   "categoryText": "Kẻ Thù Mạnh Đáng Nhớ",
   "filename_icon": "UI_MonsterIcon_Nihil",
   "description": "Arlecchino, đứng thứ 4 trong Quan Chấp Hành Fatui.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

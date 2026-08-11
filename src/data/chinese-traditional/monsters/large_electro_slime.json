@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Slime_Electric_03",
   "description": "逸散在自然之中的雷元素凝聚形成的魔物。\\n因為體內充沛的雷元素，會間歇性向周圍放電。目前，已經有人開始嘗試利用這種能量去進行有益的生產活動了，新的科技或許不久也將應運而生…？",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

@@ -1,0 +1,29 @@
+{
+  "_id": 114096,
+  "id": "the_frost_emperors_farewell",
+  "name": "Lebewohl des Frostkaisers",
+  "description": "Am Vorabend des Krieges lag es plötzlich auf dem Tisch. Niemand wusste, wann oder wie es dorthin gelangt war.<br/>Er wusste sogleich, dass es von der Hand einer seit Langem vermissten Freundin stammte.<br/>Die Welt drehte sich weiter, doch erst jetzt dämmerte es ihm jäh: Dies war der Anfang allen Unheils, die bittere Frucht aller Begierden und der Vorbote des Untergangs.",
+  "source": [
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114095,
+        "id": "the_frost_emperors_lament",
+        "name": "Klage des Frostkaisers",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Sphäre der Kriegskunst – Narben einer verfluchten Besessenheit",
+  "days": [
+    "Mittwoch",
+    "Samstag",
+    "Sonntag"
+  ]
+}

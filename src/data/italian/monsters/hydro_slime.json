@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Forme di vita elementali",
   "filename_icon": "UI_MonsterIcon_Slime_Water_02",
   "description": "Un piccolo mostro creato dalla sedimentazione di Hydro presente in natura.\\nLa leggenda narra che alcune persone usano gli Hydromelmosi come fonte d'acqua di emergenza, portandoli con sé nei viaggi attraverso le regioni aride o nei domini profondi. Ma a causa dell'elevata concentrazione di Hydro all'interno di questi Melmosi, l'assunzione diretta risulta dannosa per il corpo umano.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

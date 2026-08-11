@@ -1,0 +1,21 @@
+{
+  "_id": 330001,
+  "id": "shattered_moon",
+  "name": "碎月",
+  "description": "自地脉至深之处显现的辉耀兵刃幻形，能依据持有者的元素类型变化自身。据说在古老的国度曾以「瓦恩斯图格」的名讳为猎月的罪人持有。",
+  "rarity": 4,
+  "type": {
+    "id": "Polearm",
+    "name": "长柄武器"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "辉耀幻形·超越",
+    "priority": 1
+  },
+  "item_id": 341301,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphSpinifer_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphSpinifer"
+}

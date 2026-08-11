@@ -1,0 +1,40 @@
+{
+  "_id": 25131001,
+  "id": "volkodlak_lobber",
+  "monsterId": 25131105,
+  "name": "มือขว้างโวลโคดลัก",
+  "specialNames": [
+    "มือขว้าง"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "สัตว์อสูรลึกลับ",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "description": "โวลโคดลักชนิดหนึ่งซึ่งค่อนข้างกำยำ ในบรรดาโวลโคดลักมากมายของ Snezhnaya\\nมีพละกำลังของอสูรและร่างกายที่คล้ายมนุษย์ ความแข็งแรงของกล้ามเนื้อแขนช่วงบน ทำให้พวกเขาขว้างได้อย่างมีพลังและแม่นยำมากขึ้น โวลโคดลักอาจไม่เชี่ยวชาญทักษะการก่อรูปน้ำแข็งพิสุทธิ์ หรือการใช้พลังธาตุ แต่หากพูดถึงการควบคุมพละกำลังแล้ว ในบรรดาเผ่าพันธุ์ภูตมากมาย ก็ถือว่าอยู่ในระดับแนวหน้า",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

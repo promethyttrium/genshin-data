@@ -1,0 +1,32 @@
+{
+  "_id": 71,
+  "id": "mortal_travails_series_vii",
+  "name": "Vagabundo del mundo mortal: Parte 7",
+  "order": 9,
+  "achievements": [
+    {
+      "id": 80525,
+      "name": "Réquiem del viento gélido",
+      "desc": "Obtén el poder Cryo.",
+      "reward": 5,
+      "hidden": false,
+      "order": 484
+    },
+    {
+      "id": 80526,
+      "name": "Cuando el canto desgarra la noche",
+      "desc": "Reúne toda la colección de «Antología del ballet de la estrella polar».",
+      "reward": 5,
+      "hidden": false,
+      "order": 485
+    },
+    {
+      "id": 80528,
+      "name": "Historias de los difuntos",
+      "desc": "Reúne toda la colección de «Historia general de Snezhnaya».",
+      "reward": 5,
+      "hidden": false,
+      "order": 487
+    }
+  ]
+}

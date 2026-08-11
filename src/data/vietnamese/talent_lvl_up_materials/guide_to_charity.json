@@ -1,0 +1,30 @@
+{
+  "_id": 104366,
+  "id": "guide_to_charity",
+  "name": "Hướng Dẫn Của \"Yêu Thương\"",
+  "description": "Nguyên liệu bồi dưỡng Thiên Phú.\\n\"Yêu thương\" là sự cứu rỗi của vương quốc băng giá.\\nYêu thương nuôi dưỡng lòng trắc ẩn dành cho người khác. Trong vương quốc của gió tuyết, bất kỳ ai thật lòng hối cải về tội lỗi của linh hồn, đều sẽ nhận được sự khoan dung mang tên yêu thương.",
+  "source": [
+    "Số lượng có thể ghép - chiếm chỗ: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104365,
+        "id": "teachings_of_charity",
+        "name": "Bài Giảng Của \"Yêu Thương\"",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Bí Cảnh Tinh Thông: Mặc Tưởng IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Thứ 2",
+    "Thứ 5",
+    "Chủ Nhật"
+  ]
+}

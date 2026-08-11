@@ -1,0 +1,16 @@
+{
+  "_id": 380001,
+  "id": "phantasmal_gift_star_omen",
+  "name": "Phantasmal Gift: Star Omen",
+  "description": "\"Pada prinsipnya, banyak fenomena di dunia ini dapat disebut 'gambaran'. Oleh karena itu, 'gambaran' yang kalian lihat sekilas di bola kristal, dalam arti tertentu, merupakan perluasan dari realitas materi. Singkatnya, meskipun Alice dan Nicole tidak mengakuinya, ramalan air itu benar-benar ada!\"",
+  "rarity": 4,
+  "type": {
+    "id": "Catalyst",
+    "name": "Catalyst"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341801,
+  "icon_path": "UI_EquipIcon_Catalyst_Kristall",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_Kristall"
+}

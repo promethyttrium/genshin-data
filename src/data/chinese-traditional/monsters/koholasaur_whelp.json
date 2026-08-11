@@ -25,29 +25,27 @@
       "_id": 112103,
       "id": "tyrants_fang",
       "name": "橫行霸者的利齒",
-      "count": 0.0616
+      "count": 0.062
     },
     {
       "_id": 112102,
       "id": "seasoned_fang",
       "name": "老練的堅齒",
-      "count": 0.2465
+      "count": 0.246
     },
     {
       "_id": 112101,
       "id": "juvenile_fang",
       "name": "稚嫩的尖齒",
-      "count": 0.9244
+      "count": 0.924
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Mosasaurus_Small",
   "description": "年幼的鰭游龍，擁有在水域與液態燃素中游動的能力。\\n皮膚與鰭肢尚且稚嫩，甚至還無法像成年的鰭游龍那樣長時間待在高熱的環境中。不過終有一日能夠成長為在水中自由遨遊的樣貌吧。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

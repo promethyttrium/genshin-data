@@ -1,0 +1,21 @@
+{
+  "_id": 340002,
+  "id": "hallowed_fetters_sublimation",
+  "name": "Hallowed Fetters - Sublimation",
+  "description": "A glorious, illusory catalyst glimmering with the power of \"Time\" that emerged from the depths of the Ley Lines. It can change its appearance based on the Elemental Type of its user. Legend has it that this catalyst once held the name \"Gleipnir\" when it was used by a transcendent sinner in an ancient land.",
+  "rarity": 5,
+  "type": {
+    "id": "Catalyst",
+    "name": "Catalyst"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Radiant Metamorphosis: Transcendence - Sublimation",
+    "priority": 1
+  },
+  "item_id": 341402,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphIlia_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphIlia_Great"
+}

@@ -1,0 +1,30 @@
+{
+  "_id": 104372,
+  "id": "guide_to_glory",
+  "name": "Guia da Glória",
+  "description": "Material de Elevação de Talento.\\nGlória é a fé sagrada do reino congelado.\\nSão cinzas cintilando na noite profunda, um farol no qual aqueles atravessando os campos de neve fixam seus olhares. Assim como têm certeza de que as nevascas diminuirão e o alvorecer chegará, há a certeza de que o caminho trilhado permanece sendo o verdadeiro.",
+  "source": [
+    "Quantidade a ser fabricada: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104371,
+        "id": "teachings_of_glory",
+        "name": "Ensinamentos da Glória",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domínio da Proficiência: Visão Compartilhada IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Quarta-feira",
+    "Sábado",
+    "Domingo"
+  ]
+}

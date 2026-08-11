@@ -10,12 +10,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Fungus_Amanita_Unu_Svarita_Ice",
   "description": "Una criatura fúngica mimética que posee una gran capacidad de adaptación al entorno.\\nNo solo se parece físicamente a un pájaro, sino que también respeta las costumbres de las aves. Al moverse en el aire, propaga flores de hielo cuyos núcleos son esporas.\\nDentro del ecosistema fúngico, ocupa una posición de poder y parece tener una capacidad intelectual superior a la del resto de Hongos.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

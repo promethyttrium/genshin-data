@@ -68,6 +68,11 @@
       "name": "Fricassée de poulet"
     },
     {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Raureifbeereneis"
+    },
+    {
       "_id": 4403,
       "id": "fontinalia_mousse",
       "name": "Fontainale-Mousse"
@@ -85,6 +90,5 @@
   ],
   "source": [
     "Beim Verarbeiten von Gerichten zu erhalten"
-  ],
-  "rarity": 0
+  ]
 }

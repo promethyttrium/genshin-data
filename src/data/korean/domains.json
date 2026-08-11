@@ -785,6 +785,75 @@
           ]
         }
       ]
+    },
+    {
+      "domainName": "숙달 비경: 수행 IV",
+      "rotation": [
+        {
+          "day": "화요일",
+          "ids": [
+            "alyosha"
+          ]
+        },
+        {
+          "day": "금요일",
+          "ids": [
+            "alyosha"
+          ]
+        },
+        {
+          "day": "일요일",
+          "ids": [
+            "alyosha"
+          ]
+        }
+      ]
+    },
+    {
+      "domainName": "숙달 비경: 묵상 IV",
+      "rotation": [
+        {
+          "day": "월요일",
+          "ids": [
+            "odette"
+          ]
+        },
+        {
+          "day": "목요일",
+          "ids": [
+            "odette"
+          ]
+        },
+        {
+          "day": "일요일",
+          "ids": [
+            "odette"
+          ]
+        }
+      ]
+    },
+    {
+      "domainName": "숙달 비경: 공관 IV",
+      "rotation": [
+        {
+          "day": "수요일",
+          "ids": [
+            "traveler_cryo"
+          ]
+        },
+        {
+          "day": "토요일",
+          "ids": [
+            "traveler_cryo"
+          ]
+        },
+        {
+          "day": "일요일",
+          "ids": [
+            "traveler_cryo"
+          ]
+        }
+      ]
     }
   ],
   "weapons": [
@@ -852,6 +921,35 @@
           ]
         },
         {
+          "day": "수요일",
+          "ids": [
+            "travelers_handy_sword",
+            "sacrificial_sword",
+            "festering_desire",
+            "freedomsworn",
+            "white_iron_greatsword",
+            "favonius_greatsword",
+            "royal_greatsword",
+            "mailed_flower",
+            "wolfs_gravestone",
+            "beginners_protector",
+            "iron_point",
+            "favonius_lance",
+            "skyward_spine",
+            "otherworldly_story",
+            "sacrificial_fragments",
+            "frostbearer",
+            "lost_prayer_to_the_sacred_winds",
+            "recurve_bow",
+            "favonius_warbow",
+            "royal_bow",
+            "alley_hunter",
+            "windblume_ode",
+            "amos_bow",
+            "the_daybreak_chronicles"
+          ]
+        },
+        {
           "day": "목요일",
           "ids": [
             "dull_blade",
@@ -878,6 +976,66 @@
             "the_stringless",
             "the_viridescent_hunt",
             "mitternachts_waltz"
+          ]
+        },
+        {
+          "day": "금요일",
+          "ids": [
+            "harbinger_of_dawn",
+            "the_flute",
+            "the_black_sword",
+            "sword_of_descension",
+            "skyward_blade",
+            "waster_greatsword",
+            "old_mercs_pal",
+            "bloodtainted_greatsword",
+            "sacrificial_greatsword",
+            "skyward_pride",
+            "gest_of_the_mighty_wolf",
+            "deathmatch",
+            "dragonspine_spear",
+            "missive_windspear",
+            "thrilling_tales_of_dragon_slayers",
+            "the_widsith",
+            "wine_and_song",
+            "dodoco_tales",
+            "ballad_of_the_boundless_blue",
+            "skyward_atlas",
+            "hunters_bow",
+            "seasoned_hunters_bow",
+            "sharpshooters_oath",
+            "sacrificial_bow",
+            "skyward_harp",
+            "elegy_for_the_end"
+          ]
+        },
+        {
+          "day": "토요일",
+          "ids": [
+            "travelers_handy_sword",
+            "sacrificial_sword",
+            "festering_desire",
+            "freedomsworn",
+            "white_iron_greatsword",
+            "favonius_greatsword",
+            "royal_greatsword",
+            "mailed_flower",
+            "wolfs_gravestone",
+            "beginners_protector",
+            "iron_point",
+            "favonius_lance",
+            "skyward_spine",
+            "otherworldly_story",
+            "sacrificial_fragments",
+            "frostbearer",
+            "lost_prayer_to_the_sacred_winds",
+            "recurve_bow",
+            "favonius_warbow",
+            "royal_bow",
+            "alley_hunter",
+            "windblume_ode",
+            "amos_bow",
+            "the_daybreak_chronicles"
           ]
         },
         {
@@ -958,95 +1116,6 @@
             "elegy_for_the_end",
             "the_daybreak_chronicles"
           ]
-        },
-        {
-          "day": "금요일",
-          "ids": [
-            "harbinger_of_dawn",
-            "the_flute",
-            "the_black_sword",
-            "sword_of_descension",
-            "skyward_blade",
-            "waster_greatsword",
-            "old_mercs_pal",
-            "bloodtainted_greatsword",
-            "sacrificial_greatsword",
-            "skyward_pride",
-            "gest_of_the_mighty_wolf",
-            "deathmatch",
-            "dragonspine_spear",
-            "missive_windspear",
-            "thrilling_tales_of_dragon_slayers",
-            "the_widsith",
-            "wine_and_song",
-            "dodoco_tales",
-            "ballad_of_the_boundless_blue",
-            "skyward_atlas",
-            "hunters_bow",
-            "seasoned_hunters_bow",
-            "sharpshooters_oath",
-            "sacrificial_bow",
-            "skyward_harp",
-            "elegy_for_the_end"
-          ]
-        },
-        {
-          "day": "수요일",
-          "ids": [
-            "travelers_handy_sword",
-            "sacrificial_sword",
-            "festering_desire",
-            "freedomsworn",
-            "white_iron_greatsword",
-            "favonius_greatsword",
-            "royal_greatsword",
-            "mailed_flower",
-            "wolfs_gravestone",
-            "beginners_protector",
-            "iron_point",
-            "favonius_lance",
-            "skyward_spine",
-            "otherworldly_story",
-            "sacrificial_fragments",
-            "frostbearer",
-            "lost_prayer_to_the_sacred_winds",
-            "recurve_bow",
-            "favonius_warbow",
-            "royal_bow",
-            "alley_hunter",
-            "windblume_ode",
-            "amos_bow",
-            "the_daybreak_chronicles"
-          ]
-        },
-        {
-          "day": "토요일",
-          "ids": [
-            "travelers_handy_sword",
-            "sacrificial_sword",
-            "festering_desire",
-            "freedomsworn",
-            "white_iron_greatsword",
-            "favonius_greatsword",
-            "royal_greatsword",
-            "mailed_flower",
-            "wolfs_gravestone",
-            "beginners_protector",
-            "iron_point",
-            "favonius_lance",
-            "skyward_spine",
-            "otherworldly_story",
-            "sacrificial_fragments",
-            "frostbearer",
-            "lost_prayer_to_the_sacred_winds",
-            "recurve_bow",
-            "favonius_warbow",
-            "royal_bow",
-            "alley_hunter",
-            "windblume_ode",
-            "amos_bow",
-            "the_daybreak_chronicles"
-          ]
         }
       ]
     },
@@ -1100,6 +1169,29 @@
           ]
         },
         {
+          "day": "수요일",
+          "ids": [
+            "skyrider_sword",
+            "iron_sting",
+            "lightbearing_moonshard",
+            "skyrider_greatsword",
+            "prototype_archaic",
+            "serpent_spine",
+            "luxurious_sealord",
+            "black_tassel",
+            "prototype_starglitter",
+            "lithic_spear",
+            "staff_of_homa",
+            "vortex_vanquisher",
+            "mappa_mare",
+            "memory_of_dust",
+            "compound_bow",
+            "fading_twilight",
+            "cloudforged",
+            "jade_vista"
+          ]
+        },
+        {
           "day": "목요일",
           "ids": [
             "dark_iron_sword",
@@ -1120,6 +1212,52 @@
             "rust",
             "blackcliff_warbow",
             "aqua_simulacra"
+          ]
+        },
+        {
+          "day": "금요일",
+          "ids": [
+            "fillet_blade",
+            "prototype_rancour",
+            "primordial_jade_cutter",
+            "debate_club",
+            "rainslasher",
+            "blackcliff_slasher",
+            "the_unforged",
+            "halberd",
+            "dragons_bane",
+            "blackcliff_pole",
+            "royal_spear",
+            "calamity_queller",
+            "twin_nephrite",
+            "prototype_amber",
+            "eye_of_perception",
+            "cranes_echoing_call",
+            "messenger",
+            "prototype_crescent"
+          ]
+        },
+        {
+          "day": "토요일",
+          "ids": [
+            "skyrider_sword",
+            "iron_sting",
+            "lightbearing_moonshard",
+            "skyrider_greatsword",
+            "prototype_archaic",
+            "serpent_spine",
+            "luxurious_sealord",
+            "black_tassel",
+            "prototype_starglitter",
+            "lithic_spear",
+            "staff_of_homa",
+            "vortex_vanquisher",
+            "mappa_mare",
+            "memory_of_dust",
+            "compound_bow",
+            "fading_twilight",
+            "cloudforged",
+            "jade_vista"
           ]
         },
         {
@@ -1177,74 +1315,8 @@
             "blackcliff_warbow",
             "fading_twilight",
             "cloudforged",
+            "jade_vista",
             "aqua_simulacra"
-          ]
-        },
-        {
-          "day": "금요일",
-          "ids": [
-            "fillet_blade",
-            "prototype_rancour",
-            "primordial_jade_cutter",
-            "debate_club",
-            "rainslasher",
-            "blackcliff_slasher",
-            "the_unforged",
-            "halberd",
-            "dragons_bane",
-            "blackcliff_pole",
-            "royal_spear",
-            "calamity_queller",
-            "twin_nephrite",
-            "prototype_amber",
-            "eye_of_perception",
-            "cranes_echoing_call",
-            "messenger",
-            "prototype_crescent"
-          ]
-        },
-        {
-          "day": "수요일",
-          "ids": [
-            "skyrider_sword",
-            "iron_sting",
-            "lightbearing_moonshard",
-            "skyrider_greatsword",
-            "prototype_archaic",
-            "serpent_spine",
-            "luxurious_sealord",
-            "black_tassel",
-            "prototype_starglitter",
-            "lithic_spear",
-            "staff_of_homa",
-            "vortex_vanquisher",
-            "mappa_mare",
-            "memory_of_dust",
-            "compound_bow",
-            "fading_twilight",
-            "cloudforged"
-          ]
-        },
-        {
-          "day": "토요일",
-          "ids": [
-            "skyrider_sword",
-            "iron_sting",
-            "lightbearing_moonshard",
-            "skyrider_greatsword",
-            "prototype_archaic",
-            "serpent_spine",
-            "luxurious_sealord",
-            "black_tassel",
-            "prototype_starglitter",
-            "lithic_spear",
-            "staff_of_homa",
-            "vortex_vanquisher",
-            "mappa_mare",
-            "memory_of_dust",
-            "compound_bow",
-            "fading_twilight",
-            "cloudforged"
           ]
         }
       ]
@@ -1265,6 +1337,33 @@
           ]
         },
         {
+          "day": "화요일",
+          "ids": [
+            "toukabou_shigure",
+            "haran_geppaku_futsu",
+            "katsuragikiri_nagamasa",
+            "redhorn_stonethresher",
+            "sunny_morning_sleepin",
+            "hamayumi",
+            "predator",
+            "mouuns_moon",
+            "thundering_pulse"
+          ]
+        },
+        {
+          "day": "수요일",
+          "ids": [
+            "kagotsurube_isshin",
+            "kitain_cross_spear",
+            "the_catch",
+            "wavebreakers_fin",
+            "tamayuratei_no_ohanashi",
+            "engulfing_lightning",
+            "kaguras_verity",
+            "polar_star"
+          ]
+        },
+        {
           "day": "목요일",
           "ids": [
             "amenoma_kageuchi",
@@ -1274,6 +1373,33 @@
             "hakushin_ring",
             "oathsworn_eye",
             "everlasting_moonglow"
+          ]
+        },
+        {
+          "day": "금요일",
+          "ids": [
+            "toukabou_shigure",
+            "haran_geppaku_futsu",
+            "katsuragikiri_nagamasa",
+            "redhorn_stonethresher",
+            "sunny_morning_sleepin",
+            "hamayumi",
+            "predator",
+            "mouuns_moon",
+            "thundering_pulse"
+          ]
+        },
+        {
+          "day": "토요일",
+          "ids": [
+            "kagotsurube_isshin",
+            "kitain_cross_spear",
+            "the_catch",
+            "wavebreakers_fin",
+            "tamayuratei_no_ohanashi",
+            "engulfing_lightning",
+            "kaguras_verity",
+            "polar_star"
           ]
         },
         {
@@ -1304,60 +1430,6 @@
             "polar_star",
             "thundering_pulse"
           ]
-        },
-        {
-          "day": "수요일",
-          "ids": [
-            "kagotsurube_isshin",
-            "kitain_cross_spear",
-            "the_catch",
-            "wavebreakers_fin",
-            "tamayuratei_no_ohanashi",
-            "engulfing_lightning",
-            "kaguras_verity",
-            "polar_star"
-          ]
-        },
-        {
-          "day": "토요일",
-          "ids": [
-            "kagotsurube_isshin",
-            "kitain_cross_spear",
-            "the_catch",
-            "wavebreakers_fin",
-            "tamayuratei_no_ohanashi",
-            "engulfing_lightning",
-            "kaguras_verity",
-            "polar_star"
-          ]
-        },
-        {
-          "day": "화요일",
-          "ids": [
-            "toukabou_shigure",
-            "haran_geppaku_futsu",
-            "katsuragikiri_nagamasa",
-            "redhorn_stonethresher",
-            "sunny_morning_sleepin",
-            "hamayumi",
-            "predator",
-            "mouuns_moon",
-            "thundering_pulse"
-          ]
-        },
-        {
-          "day": "금요일",
-          "ids": [
-            "toukabou_shigure",
-            "haran_geppaku_futsu",
-            "katsuragikiri_nagamasa",
-            "redhorn_stonethresher",
-            "sunny_morning_sleepin",
-            "hamayumi",
-            "predator",
-            "mouuns_moon",
-            "thundering_pulse"
-          ]
         }
       ]
     },
@@ -1373,45 +1445,20 @@
             "light_of_foliar_incision",
             "forest_regalia",
             "dialogues_of_the_desert_sages",
+            "clash_of_kings",
             "ibis_piercer"
           ]
         },
         {
-          "day": "목요일",
+          "day": "화요일",
           "ids": [
-            "sapwood_blade",
-            "xiphos_moonlight",
-            "key_of_khajnisut",
-            "light_of_foliar_incision",
-            "forest_regalia",
-            "dialogues_of_the_desert_sages",
-            "ibis_piercer"
-          ]
-        },
-        {
-          "day": "일요일",
-          "ids": [
-            "sapwood_blade",
-            "xiphos_moonlight",
-            "key_of_khajnisut",
-            "light_of_foliar_incision",
-            "makhaira_aquamarine",
-            "forest_regalia",
             "talking_stick",
-            "beacon_of_the_reed_sea",
             "moonpiercer",
-            "dialogues_of_the_desert_sages",
             "staff_of_the_scarlet_sands",
             "wandering_evenstar",
             "fruit_of_fulfillment",
             "a_thousand_floating_dreams",
-            "tulaytullahs_remembrance",
-            "reliquary_of_truth",
-            "kings_squire",
-            "end_of_the_line",
-            "ibis_piercer",
-            "scion_of_the_blazing_sun",
-            "hunters_path"
+            "reliquary_of_truth"
           ]
         },
         {
@@ -1427,6 +1474,31 @@
           ]
         },
         {
+          "day": "목요일",
+          "ids": [
+            "sapwood_blade",
+            "xiphos_moonlight",
+            "key_of_khajnisut",
+            "light_of_foliar_incision",
+            "forest_regalia",
+            "dialogues_of_the_desert_sages",
+            "clash_of_kings",
+            "ibis_piercer"
+          ]
+        },
+        {
+          "day": "금요일",
+          "ids": [
+            "talking_stick",
+            "moonpiercer",
+            "staff_of_the_scarlet_sands",
+            "wandering_evenstar",
+            "fruit_of_fulfillment",
+            "a_thousand_floating_dreams",
+            "reliquary_of_truth"
+          ]
+        },
+        {
           "day": "토요일",
           "ids": [
             "makhaira_aquamarine",
@@ -1439,27 +1511,30 @@
           ]
         },
         {
-          "day": "화요일",
+          "day": "일요일",
           "ids": [
+            "sapwood_blade",
+            "xiphos_moonlight",
+            "key_of_khajnisut",
+            "light_of_foliar_incision",
+            "makhaira_aquamarine",
+            "forest_regalia",
             "talking_stick",
+            "beacon_of_the_reed_sea",
             "moonpiercer",
+            "dialogues_of_the_desert_sages",
             "staff_of_the_scarlet_sands",
             "wandering_evenstar",
             "fruit_of_fulfillment",
+            "clash_of_kings",
             "a_thousand_floating_dreams",
-            "reliquary_of_truth"
-          ]
-        },
-        {
-          "day": "금요일",
-          "ids": [
-            "talking_stick",
-            "moonpiercer",
-            "staff_of_the_scarlet_sands",
-            "wandering_evenstar",
-            "fruit_of_fulfillment",
-            "a_thousand_floating_dreams",
-            "reliquary_of_truth"
+            "tulaytullahs_remembrance",
+            "reliquary_of_truth",
+            "kings_squire",
+            "end_of_the_line",
+            "ibis_piercer",
+            "scion_of_the_blazing_sun",
+            "hunters_path"
           ]
         }
       ]
@@ -1467,50 +1542,6 @@
     {
       "domainName": "심해의 메아리",
       "rotation": [
-        {
-          "day": "화요일",
-          "ids": [
-            "finale_of_the_deep",
-            "the_dockhands_assistant",
-            "splendor_of_tranquil_waters",
-            "symphonist_of_scents",
-            "flowing_purity",
-            "tome_of_the_eternal_flow",
-            "silvershower_heartstrings"
-          ]
-        },
-        {
-          "day": "금요일",
-          "ids": [
-            "finale_of_the_deep",
-            "the_dockhands_assistant",
-            "splendor_of_tranquil_waters",
-            "symphonist_of_scents",
-            "flowing_purity",
-            "tome_of_the_eternal_flow",
-            "silvershower_heartstrings"
-          ]
-        },
-        {
-          "day": "일요일",
-          "ids": [
-            "finale_of_the_deep",
-            "the_dockhands_assistant",
-            "splendor_of_tranquil_waters",
-            "tidal_shadow",
-            "ultimate_overlords_mega_magic_sword",
-            "portable_power_saw",
-            "ballad_of_the_fjords",
-            "rightful_reward",
-            "crimson_moons_semblance",
-            "lumidouce_elegy",
-            "symphonist_of_scents",
-            "flowing_purity",
-            "cashflow_supervision",
-            "tome_of_the_eternal_flow",
-            "silvershower_heartstrings"
-          ]
-        },
         {
           "day": "월요일",
           "ids": [
@@ -1526,17 +1557,16 @@
           ]
         },
         {
-          "day": "목요일",
+          "day": "화요일",
           "ids": [
-            "fleuve_cendre_ferryman",
-            "sword_of_narzissenkreuz",
-            "absolution",
-            "verdict",
-            "prospectors_drill",
-            "song_of_stillness",
-            "range_gauge",
-            "sequence_of_solitude",
-            "the_first_great_magic"
+            "finale_of_the_deep",
+            "the_dockhands_assistant",
+            "splendor_of_tranquil_waters",
+            "forged_by_the_golden_melody",
+            "symphonist_of_scents",
+            "flowing_purity",
+            "tome_of_the_eternal_flow",
+            "silvershower_heartstrings"
           ]
         },
         {
@@ -1553,6 +1583,33 @@
           ]
         },
         {
+          "day": "목요일",
+          "ids": [
+            "fleuve_cendre_ferryman",
+            "sword_of_narzissenkreuz",
+            "absolution",
+            "verdict",
+            "prospectors_drill",
+            "song_of_stillness",
+            "range_gauge",
+            "sequence_of_solitude",
+            "the_first_great_magic"
+          ]
+        },
+        {
+          "day": "금요일",
+          "ids": [
+            "finale_of_the_deep",
+            "the_dockhands_assistant",
+            "splendor_of_tranquil_waters",
+            "forged_by_the_golden_melody",
+            "symphonist_of_scents",
+            "flowing_purity",
+            "tome_of_the_eternal_flow",
+            "silvershower_heartstrings"
+          ]
+        },
+        {
           "day": "토요일",
           "ids": [
             "tidal_shadow",
@@ -1563,6 +1620,27 @@
             "crimson_moons_semblance",
             "lumidouce_elegy",
             "cashflow_supervision"
+          ]
+        },
+        {
+          "day": "일요일",
+          "ids": [
+            "finale_of_the_deep",
+            "the_dockhands_assistant",
+            "splendor_of_tranquil_waters",
+            "tidal_shadow",
+            "ultimate_overlords_mega_magic_sword",
+            "portable_power_saw",
+            "forged_by_the_golden_melody",
+            "ballad_of_the_fjords",
+            "rightful_reward",
+            "crimson_moons_semblance",
+            "lumidouce_elegy",
+            "symphonist_of_scents",
+            "flowing_purity",
+            "cashflow_supervision",
+            "tome_of_the_eternal_flow",
+            "silvershower_heartstrings"
           ]
         }
       ]
@@ -1575,6 +1653,7 @@
           "ids": [
             "sturdy_bone",
             "flute_of_ezpitzal",
+            "heretics_molten_blade",
             "earth_shaker",
             "a_thousand_blazing_suns",
             "fractured_halo",
@@ -1596,10 +1675,24 @@
           ]
         },
         {
+          "day": "수요일",
+          "ids": [
+            "peak_patrol_song",
+            "azurelight",
+            "fruitful_hook",
+            "ashgraven_drinking_horn",
+            "flowerwreathed_feathers",
+            "chain_breaker",
+            "rainbow_serpents_rain_bow",
+            "astral_vultures_crimson_plumage"
+          ]
+        },
+        {
           "day": "목요일",
           "ids": [
             "sturdy_bone",
             "flute_of_ezpitzal",
+            "heretics_molten_blade",
             "earth_shaker",
             "a_thousand_blazing_suns",
             "fractured_halo",
@@ -1608,11 +1701,38 @@
           ]
         },
         {
+          "day": "금요일",
+          "ids": [
+            "calamity_of_eshu",
+            "flameforged_insight",
+            "fang_of_the_mountain_king",
+            "mountainbracing_bolt",
+            "footprint_of_the_rainbow",
+            "ring_of_yaxche",
+            "starcallers_watch",
+            "vivid_notions"
+          ]
+        },
+        {
+          "day": "토요일",
+          "ids": [
+            "peak_patrol_song",
+            "azurelight",
+            "fruitful_hook",
+            "ashgraven_drinking_horn",
+            "flowerwreathed_feathers",
+            "chain_breaker",
+            "rainbow_serpents_rain_bow",
+            "astral_vultures_crimson_plumage"
+          ]
+        },
+        {
           "day": "일요일",
           "ids": [
             "sturdy_bone",
             "flute_of_ezpitzal",
             "calamity_of_eshu",
+            "heretics_molten_blade",
             "peak_patrol_song",
             "azurelight",
             "fruitful_hook",
@@ -1629,45 +1749,6 @@
             "surfs_up",
             "starcallers_watch",
             "vivid_notions",
-            "flowerwreathed_feathers",
-            "chain_breaker",
-            "rainbow_serpents_rain_bow",
-            "astral_vultures_crimson_plumage"
-          ]
-        },
-        {
-          "day": "금요일",
-          "ids": [
-            "calamity_of_eshu",
-            "flameforged_insight",
-            "fang_of_the_mountain_king",
-            "mountainbracing_bolt",
-            "footprint_of_the_rainbow",
-            "ring_of_yaxche",
-            "starcallers_watch",
-            "vivid_notions"
-          ]
-        },
-        {
-          "day": "수요일",
-          "ids": [
-            "peak_patrol_song",
-            "azurelight",
-            "fruitful_hook",
-            "ashgraven_drinking_horn",
-            "flowerwreathed_feathers",
-            "chain_breaker",
-            "rainbow_serpents_rain_bow",
-            "astral_vultures_crimson_plumage"
-          ]
-        },
-        {
-          "day": "토요일",
-          "ids": [
-            "peak_patrol_song",
-            "azurelight",
-            "fruitful_hook",
-            "ashgraven_drinking_horn",
             "flowerwreathed_feathers",
             "chain_breaker",
             "rainbow_serpents_rain_bow",
@@ -1742,6 +1823,70 @@
             "a_teaspoon_of_transcendence",
             "etherlight_spindlelute",
             "nocturnes_curtain_call"
+          ]
+        }
+      ]
+    },
+    {
+      "domainName": "연무 비경·「망념의 상흔」",
+      "rotation": [
+        {
+          "day": "월요일",
+          "ids": [
+            "emberwell",
+            "blade_of_atonement",
+            "echoes_of_the_heart",
+            "covenant_of_frost_and_snow"
+          ]
+        },
+        {
+          "day": "화요일",
+          "ids": [
+            "whitelake_frostfeather",
+            "frostbreath"
+          ]
+        },
+        {
+          "day": "수요일",
+          "ids": [
+            "exaiphanes_blade",
+            "song_of_the_vigil"
+          ]
+        },
+        {
+          "day": "목요일",
+          "ids": [
+            "emberwell",
+            "blade_of_atonement",
+            "echoes_of_the_heart",
+            "covenant_of_frost_and_snow"
+          ]
+        },
+        {
+          "day": "금요일",
+          "ids": [
+            "whitelake_frostfeather",
+            "frostbreath"
+          ]
+        },
+        {
+          "day": "토요일",
+          "ids": [
+            "exaiphanes_blade",
+            "song_of_the_vigil"
+          ]
+        },
+        {
+          "day": "일요일",
+          "ids": [
+            "emberwell",
+            "whitelake_frostfeather",
+            "exaiphanes_blade",
+            "blade_of_atonement",
+            "frostbreath",
+            "song_of_the_vigil",
+            "echoes_of_the_heart",
+            "covenant_of_frost_and_snow"
           ]
         }
       ]

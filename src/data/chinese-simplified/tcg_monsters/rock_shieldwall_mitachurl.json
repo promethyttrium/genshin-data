@@ -8,17 +8,21 @@
     "hp": 8,
     "card_type": "角色牌",
     "energy": 2,
+    "element": "岩元素",
+    "weapon": "其他武器",
     "faction": [
-      null,
-      null
+      "魔物",
+      "丘丘人"
     ]
   },
   "skills": [
     {
       "id": "plata_plama",
       "name": "Plata Plama",
-      "desc": "造成?点?。",
-      "skillTag": [],
+      "desc": "造成2点?。",
+      "skillTag": [
+        "普通攻击"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -37,8 +41,10 @@
     {
       "id": "da_plama",
       "name": "Da Plama",
-      "desc": "造成?点?。",
-      "skillTag": [],
+      "desc": "造成3点?。",
+      "skillTag": [
+        "元素战技"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -51,8 +57,10 @@
     {
       "id": "aba_movo",
       "name": "Aba Movo",
-      "desc": "造成?点?。",
-      "skillTag": [],
+      "desc": "造成5点?。",
+      "skillTag": [
+        "元素爆发"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -72,7 +80,9 @@
       "id": "craggy_greatshield",
       "name": "岩石大盾",
       "desc": "【被动】战斗开始时，初始附属<span style=\"color:#FFFFFFFF\">岩石大盾</span>。",
-      "skillTag": [],
+      "skillTag": [
+        "被动技能"
+      ],
       "points": []
     }
   ]

@@ -90,6 +90,11 @@
       "name": "Xocoatl"
     },
     {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Gelato al ribes artico"
+    },
+    {
       "_id": 3905,
       "id": "bubblemilk_pie",
       "name": "Tortino di perle al latte"
@@ -119,6 +124,5 @@
   ],
   "source": [
     "Acquistabile negli empori"
-  ],
-  "rarity": 0
+  ]
 }

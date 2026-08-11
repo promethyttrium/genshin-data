@@ -1,0 +1,58 @@
+{
+  "_id": 4692,
+  "id": "domain_of_mastery_contemplation_ii",
+  "name": "Dominio della maestria: Contemplazione II",
+  "entranceId": 2074,
+  "entranceName": "Reliquie della grazia caduta",
+  "description": "Un santuario eretto dalle antiche Fate, ora profanato da vili briganti.\nDistruggi gli avversari che si annidano in questo luogo per ricevere l'illuminazione con cui migliorare i tuoi talenti.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 54,
+  "unlockRank": 28,
+  "disorder": [
+    "· When a character triggers Superconduct or Stellar-Conduct reactions, or deals Stellar-Conduct DMG, a shockwave will be unleashed at the target enemy's location, dealing Electro DMG."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_03",
+  "recommendedElements": [
+    "Cryo",
+    "Electro"
+  ],
+  "daysOfWeek": [
+    "Lunedì",
+    "Giovedì",
+    "Domenica"
+  ],
+  "domainType": "UI_ABYSSUS_AVATAR_PROUD",
+  "domainText": "Talent Level-Up Material",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "ESP avventura",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "1800"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "ESP affinità",
+      "count": "15"
+    },
+    {
+      "_id": 104366,
+      "id": "guide_to_charity",
+      "name": "Guida alla benevolenza"
+    },
+    {
+      "_id": 104365,
+      "id": "teachings_of_charity",
+      "name": "Insegnamenti della benevolenza"
+    }
+  ],
+  "monsterList": []
+}

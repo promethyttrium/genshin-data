@@ -8,17 +8,21 @@
     "hp": 8,
     "card_type": "캐릭터 카드",
     "energy": 2,
+    "element": "풀 원소",
+    "weapon": "기타 무기",
     "faction": [
-      null,
-      null
+      "마물",
+      "츄츄족"
     ]
   },
   "skills": [
     {
       "id": "plata_plama",
       "name": "Plata Plama",
-      "desc": "?를 ?pt 준다.",
-      "skillTag": [],
+      "desc": "?를 2pt 준다.",
+      "skillTag": [
+        "일반 공격"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -37,8 +41,10 @@
     {
       "id": "da_plama",
       "name": "Da Plama",
-      "desc": "?를 ?pt 준다.",
-      "skillTag": [],
+      "desc": "?를 3pt 준다.",
+      "skillTag": [
+        "원소전투 스킬"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -51,8 +57,10 @@
     {
       "id": "aba_movo",
       "name": "Aba Movo",
-      "desc": "?를 ?pt 준다.",
-      "skillTag": [],
+      "desc": "?를 5pt 준다.",
+      "skillTag": [
+        "원소폭발"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -72,7 +80,9 @@
       "id": "crudewood_greatshield",
       "name": "원목 방패",
       "desc": "[패시브] 전투 시작 시, 시작부터 <span style=\"color:#FFFFFFFF\">원목 방패</span>가 부착된다.",
-      "skillTag": [],
+      "skillTag": [
+        "패시브 스킬"
+      ],
       "points": []
     }
   ]

@@ -28,7 +28,6 @@
   "categoryText": "Automaton",
   "filename_icon": "UI_MonsterIcon_Apparatus_Enigma_BionicNettler",
   "description": "Untuk mencapai tujuan yang berbeda-beda, mesin-mesin ini memiliki bentuk yang variatif dan unik.\\nMenurut legenda, mesin ini dulunya adalah mesin perang peninggalan sebuah bangsa yang telah hancur. Dibandingkan dengan Ruin Guard biasa, desain mesin ini memiliki manfaat lebih besar di bidang pembelajaran biomimesis. Alasan kenapa bentuk dan gerakan mesin ini dibentuk menyerupai sejenis makhluk laut dalam masih tidak diketahui. Yang pasti kamu tidak mau sampai dijerat olehnya.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

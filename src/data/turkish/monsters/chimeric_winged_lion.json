@@ -1,0 +1,41 @@
+{
+  "_id": 26310501,
+  "id": "chimeric_winged_lion",
+  "monsterId": 26310507,
+  "name": "Kimerik Kanatlı Aslan",
+  "specialNames": [
+    "Kimerik Kanatlı Aslan"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Efsanevi Canavarlar",
+  "filename_icon": "UI_MonsterIcon_Chimera_Manticore",
+  "description": "Bir biyosimya ürünü, terk edilmiş insan yapımı canavarlardan biri.\\nBüyük bir arzuyu hayata geçirmek için bir simyager, tekrar asla anlatılmaması gereken bir teknikle \"Prototipler\" olarak bilinen sayısız ilkel beden yarattı.\\nBunlardan yalnızca biri planladığı o mükemmel oluşuma başarılı bir şekilde dönüştü. Diğerleri mükemmele yakın olsalar da sonunda başarısız oldular ve özensiz bir şekilde iki başlı canavarlara dönüştürüldüler.\\nBirer başarısızlık olarak görülmelerine rağmen bu özel iki başlı canavarlar yine de korkunç bir güce sahiptir. Kimeralar arasında onlara karşı durabilecek hiçbir şey yoktur.",
+  "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.5,
+      "cryo": 0.1,
+      "electro": 0.5
+    },
+    "base": {
+      "hp": 350.27457,
+      "attack": 95.456,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

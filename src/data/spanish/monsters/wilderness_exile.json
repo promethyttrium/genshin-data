@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_WildHunt",
   "description": "Un espíritu que deambula por los páramos gélidos acompañado de una bruma oscura. Su presencia parece presagiar una catástrofe aún más aterradora.\\nLa gente que vive bajo la luna emprende viajes con ciertos deseos y aspiraciones en mente, pero no todos ellos reciben la gracia que esperan. Los espíritus que no pueden descansar debido al resentimiento, a la pérdida de seres queridos o a los deseos que no llegaron a cumplirse pueden convertirse en espíritus al ser contaminados por el Abismo, lo que les hace perderse eternamente en la bruma de la Cacería salvaje.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

@@ -25,29 +25,27 @@
       "_id": 112103,
       "id": "tyrants_fang",
       "name": "Croc de tyran",
-      "count": 0.0616
+      "count": 0.062
     },
     {
       "_id": 112102,
       "id": "seasoned_fang",
       "name": "Croc mature",
-      "count": 0.2465
+      "count": 0.246
     },
     {
       "_id": 112101,
       "id": "juvenile_fang",
       "name": "Croc juvénile",
-      "count": 0.9244
+      "count": 0.924
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Hookwalker_Small",
   "description": "Un jeune yumkasaure avec la capacité de cracher de la pectine de flamboigrenade cachée dans ses joues afin de l'enrouler autour d'objets distants.\\nLeur emprise sur les objets recouverts de pectine n'est pas assez forte, et leur sens de l'équilibre n'est pas non plus assez bon pour leur permettre de se déplacer librement à travers les airs. Parfois, ils tombent même sur le côté alors qu'ils sont simplement assis sur leur queue. Cependant, ils prendront un jour une forme qui pourra se balancer librement et sans souci entre les arbres.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

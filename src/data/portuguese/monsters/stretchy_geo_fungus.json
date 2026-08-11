@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Monstros diversos",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Beta_Rock",
   "description": "Um organismo fúngico que possui uma certa inteligência. Ele tem uma grande adaptabilidade.\\nOs chapéus desses cogumelos tem uma camada sólida derivada da consolidação da energia Geo. A estrutura de seu corpo também é mais densa do que as de outras espécies.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

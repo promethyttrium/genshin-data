@@ -14,14 +14,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl",
   "filename_icon": "UI_MonsterIcon_Shaman_Rock_01",
   "description": "Um Hilichurl feiticeiro e murmurante, que ouve o poder do Geo.\\nHilichurls, que são especialmente dotados no comando dos elementos, muitas vezes alcançarão o ápice de sua habilidade em sua velhice. Para as montanhas perseverantes, estes velhos Hilichurls são apenas crianças, mas suas memórias e experiências os guiaram para ganhar poder sobre a rocha e a pedra.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

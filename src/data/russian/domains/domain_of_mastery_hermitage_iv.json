@@ -1,0 +1,63 @@
+{
+  "_id": 4698,
+  "id": "domain_of_mastery_hermitage_iv",
+  "name": "Подземелье мастерства: Отшельничество IV",
+  "entranceId": 2074,
+  "entranceName": "Заброшенные святыни",
+  "description": "Святилище, некогда возведённое альвами, ныне захвачено ничтожными злодеями.\nЕсли удастся уничтожить противников, блуждающих здесь, вы получите озарение, способствующее развитию талантов.",
+  "regionId": 8,
+  "regionName": "Снежная",
+  "recommendedLevel": 88,
+  "unlockRank": 45,
+  "disorder": [
+    "· When a character triggers Superconduct or Stellar-Conduct reactions, or deals Stellar-Conduct DMG, a shockwave will be unleashed at the target enemy's location, dealing Electro DMG."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_03",
+  "recommendedElements": [
+    "Крио",
+    "Электро"
+  ],
+  "daysOfWeek": [
+    "Вторник",
+    "Пятница",
+    "Воскресенье"
+  ],
+  "domainType": "UI_ABYSSUS_AVATAR_PROUD",
+  "domainText": "Talent Level-Up Material",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "Опыт приключений",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Мора",
+      "count": "2375"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "Опыт дружбы",
+      "count": "20"
+    },
+    {
+      "_id": 104370,
+      "id": "philosophies_of_fortitude",
+      "name": "Философия о «Стойкости»"
+    },
+    {
+      "_id": 104369,
+      "id": "guide_to_fortitude",
+      "name": "Указания о «Стойкости»"
+    },
+    {
+      "_id": 104368,
+      "id": "teachings_of_fortitude",
+      "name": "Учения о «Стойкости»"
+    }
+  ],
+  "monsterList": []
+}

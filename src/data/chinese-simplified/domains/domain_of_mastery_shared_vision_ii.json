@@ -1,0 +1,58 @@
+{
+  "_id": 4700,
+  "id": "domain_of_mastery_shared_vision_ii",
+  "name": "精通秘境：共观 II",
+  "entranceId": 2074,
+  "entranceName": "荒坠的圣迹",
+  "description": "昔日妖灵筑起的圣所，如今却已被宵小之徒盘踞。\n若能消灭徘徊于此的敌人，或许能获得令天赋成长的启示吧。",
+  "regionId": 8,
+  "regionName": "至冬",
+  "recommendedLevel": 54,
+  "unlockRank": 28,
+  "disorder": [
+    "· When a character triggers Superconduct or Stellar-Conduct reactions, or deals Stellar-Conduct DMG, a shockwave will be unleashed at the target enemy's location, dealing Electro DMG."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_03",
+  "recommendedElements": [
+    "冰元素",
+    "雷元素"
+  ],
+  "daysOfWeek": [
+    "周三",
+    "周六",
+    "周日"
+  ],
+  "domainType": "UI_ABYSSUS_AVATAR_PROUD",
+  "domainText": "Talent Level-Up Material",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "冒险阅历",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "摩拉",
+      "count": "1800"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "好感经验",
+      "count": "15"
+    },
+    {
+      "_id": 104372,
+      "id": "guide_to_glory",
+      "name": "「荣光」的指引"
+    },
+    {
+      "_id": 104371,
+      "id": "teachings_of_glory",
+      "name": "「荣光」的教导"
+    }
+  ],
+  "monsterList": []
+}

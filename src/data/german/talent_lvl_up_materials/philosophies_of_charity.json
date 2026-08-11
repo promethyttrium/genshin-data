@@ -1,0 +1,30 @@
+{
+  "_id": 104367,
+  "id": "philosophies_of_charity",
+  "name": "Philosophie der „Güte“",
+  "description": "Material zur Verbesserung von Talenten.\\n„Güte“ ist die Erlösung des Reiches des Eises.\\nGüte bedeutet Fürsorge für alle Wesen. Sie hebt die Unterschiede zwischen Hoch und Niedrig, Edel und Gemein auf. Sie überwindet Blutsbande und Landesgrenzen. Der Blick der Güte ruht stets auf allen. Sie gewährt den Unglücklichen ihren Schutz und verheißt allen die ewige Befreiung.",
+  "source": [
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104366,
+        "id": "guide_to_charity",
+        "name": "Anleitung zur „Güte“",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Sphäre des Verständnisses: Kontemplation IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Montag",
+    "Donnerstag",
+    "Sonntag"
+  ]
+}

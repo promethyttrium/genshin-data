@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Mimik_Fire",
   "description": "Миметическое растение-монстр, которое атакует без предупреждения и использует элемент Пиро для охоты на свою добычу.\\nТейват стал домом для растений, питающихся стихийными элементами. Со временем их интеллект возрос, а вместе с ним значительно выросла и потребность в питании...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

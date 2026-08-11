@@ -22,7 +22,6 @@
   "categoryText": "The Abyss",
   "filename_icon": "UI_MonsterIcon_Darkwraith_Fat_Rock",
   "description": "A guard of some standing in the court, sundering the foes of the nation's rulers using a sword art known as \"Truthseeker.\"\\nThough Truthseeker is, strictly speaking, a sword art, its teachings can also be used with various other weapons — and in the realm's darkest hour, those who had to protect their homeland had little room to be fussy anyway.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

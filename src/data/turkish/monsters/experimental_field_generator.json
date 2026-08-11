@@ -13,7 +13,6 @@
   "categoryText": "Canavar Makinaları",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Gravitas",
   "description": "Edwin Eastinghouse tarafından tasarlanmış büyük bir cihaz. Yer çekiminin etkilerine \"karşı koyabilme\" özelliğine sahiptir. Aslen Fontaine'i gökteki bir şehre dönüştürme planının ilk adımı olarak tasarlanmıştı. Bu şekilde insanlar, bir zamanlar topraklarını dağlayan dalgalardan bir daha korkmak zorunda kalmayacaklardı. Yedi ulusun tamamı sular altında kalsa bile Fontaine Şehri, Kutsal Diyar gibi göklerde süzülecekti. Evrenin sırları dahi erişilemez olmayacaktı.\\nCihazın çekirdeğindeki Arkhiyum, \"ayırma\" ve \"çökeltme\" özelliklerine sahiptir. Madde ve madde dışı bazı şeyleri ayrıştırabilir. Bu sürecin tersine çevrilebileceği de söylenir ancak Fontaine Araştırma Enstitüsü yalnızca cihazın sağlayabileceği fiziksel etkilerle ilgileniyor.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

@@ -64,19 +64,19 @@
       "_id": 112094,
       "id": "operatives_constancy",
       "name": "Asiduidad de Senescal",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112093,
       "id": "operatives_standard_pocket_watch",
       "name": "Reloj de bolsillo estándar de Senescal",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112092,
       "id": "old_operatives_pocket_watch",
       "name": "Reloj de bolsillo vetusto de Senescal",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -127,7 +127,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Escadron_Ice",
   "description": "Una agente especial de élite de los Fatui.\\nSolo alguien que ha sido elegido desde pequeño, que ha sido adoctrinado y entrenado durante muchos años y que ha sido repudiado en incontables ocasiones puede llegar a convertirse en Senescal. Son los soldados más sobresalientes de todas las filas de los Fatui y poseen tanto unas habilidades extraordinarias como una fidelidad férrea.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

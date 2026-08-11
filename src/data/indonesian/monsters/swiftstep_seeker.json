@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Human_Female_Sword_Hookwalker",
   "description": "Seorang petarung dari suku Tirai Daun, dan merupakan penjaga suku yang melindungi lembah hutan dan sungai di gunung.\\nBerbeda dengan pejuang dari suku-suku lainnya, para pejuang ini selalu menggunakan tali kait mereka untuk melintasi medan pegunungan dengan lincah dan mencari cara untuk mengalahkan para musuh melalui cara-cara yang tak terduga.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 12,
   "stats": {

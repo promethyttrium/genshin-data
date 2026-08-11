@@ -13,7 +13,6 @@
   "categoryText": "Autómatas",
   "filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
   "description": "Un guardián perdido entre las antiguas ruinas del desierto, perfectamente capaz de castigar a todo intruso que ose perturbar los puros sueños de su soberano.\\nEl señor del mar de arena estudió conocimientos prohibidos en su afán de construir su paraíso soñado, y estas máquinas puede que sean fruto de sus estudios.\\nEste paraíso, sin embargo, hace tiempo que desapareció, y ahora esos sueños y promesas olvidados por los mortales solo se conservan en los mantras inscritos en estas máquinas.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

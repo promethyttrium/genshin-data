@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 3,
+    "element": "Cryo",
+    "weapon": "Sword",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 4016,
@@ -29,8 +31,10 @@
     {
       "id": "ancient_sword_art",
       "name": "Ancient Sword Art",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,7 +54,9 @@
       "id": "adeptus_art_herald_of_frost",
       "name": "Adeptus Art: Herald of Frost",
       "desc": "Summons <span style=\"color:#FFFFFFFF\">Herald of Frost</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "adeptus_art_preserver_of_fortune",
       "name": "Adeptus Art: Preserver of Fortune",
-      "desc": "Deals ? ?, creates 1 <span style=\"color:#FFFFFFFF\">Fortune-Preserving Talisman</span>.",
-      "skillTag": [],
+      "desc": "Deals 3 <span style=\"color:#99FFFFFF\">Cryo DMG</span>, creates 1 <span style=\"color:#FFFFFFFF\">Fortune-Preserving Talisman</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1101,

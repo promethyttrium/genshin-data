@@ -1,0 +1,90 @@
+{
+  "_id": 1516,
+  "id": "jahoda",
+  "shareId": 609,
+  "name": "Jahoda",
+  "title": "Den Wind zähmen, die Schatten bannen – Jahoda",
+  "desc": "Stetiges Nachsinnen bringt selbst die tiefsten Geheimnisse ans Licht.",
+  "attributes": {
+    "hp": 10,
+    "card_type": "Figurenkarte",
+    "energy": 2,
+    "element": "Anemo",
+    "weapon": "Bogen",
+    "faction": [
+      "Nod-Krai"
+    ],
+    "source": "Nach einem gewonnenen „Duell – Nett“ mit Jahoda in der Taverne Zum Katzenschwanz zu erhalten."
+  },
+  "skills": [
+    {
+      "id": "strike_while_the_arrows_hot",
+      "name": "Windgeführter Pfeil",
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anemo",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Würfel (beliebig)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "savvy_strategy_splitting_the_spoils",
+      "name": "Atemberaubende Kriegslist – Plan zur Reichtumsverteilung",
+      "desc": "Verursacht 2 Pkt. <span style=\"color:#80FFD7FF\">Anemo-SCH</span>, erschafft 1 Stapelung <span style=\"color:#FFFFFFFF\">Gewandter Wechsel</span> und wechselt deine aktive Figur zur nächsten. Erschafft, wenn sich auf der Hand keine <span style=\"color:#FFFFFFFF\">Hululu-Geheimflasche</span> irgendeines Elements befindet, 1 <span style=\"color:#FFFFFFFF\">Hululu-Geheimflasche</span> auf der Hand. Verleiht ansonsten jeder <span style=\"color:#FFFFFFFF\">Hululu-Geheimflasche</span> auf der Hand <span style=\"color:#FFFFFFFF\">Kostenverringerung</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anemo",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "hidden_aces_seven_tools_of_the_hunter",
+      "name": "Geheimgeräte – Die sieben Objekte des Jägers",
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#80FFD7FF\">Anemo-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Katzenförmige Geräte für Hilfe und Koordination im Haushalt</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anemo",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Aufladung",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "moonsign_benediction_rooftop_dash",
+      "name": "Mondomen-Segen – Dächersprint",
+      "desc": "Passiv – Erschafft zu Beginn des Kampfes 1 <span style=\"color:#FFFFFFFF\">Hululu-Geheimflasche</span> auf deiner Hand.<br/>Nach Auslösen von Mond- oder Verwirbelung-Reaktionen durch deine Seite: Verleiht allen <span style=\"color:#FFFFFFFF\">Hululu-Geheimflasche</span> auf deiner Hand <span style=\"color:#FFFFFFFF\">Kostenverringerung</span> (max. 2-mal pro Runde).",
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
+      "points": []
+    }
+  ]
+}

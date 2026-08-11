@@ -33,13 +33,13 @@
       "_id": 112063,
       "id": "dormant_fungal_nucleus",
       "name": "キノコンの眠菌核",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112062,
       "id": "inactivated_fungal_nucleus",
       "name": "キノコンの衰菌核",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112061,
@@ -57,16 +57,15 @@
       "_id": 112059,
       "id": "fungal_spores",
       "name": "キノコンの胞子",
-      "count": 0.2101
+      "count": 0.21
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water",
   "description": "胞子でできた擬態生物。とても高い環境適応能力を持っている。\\n鳥類のような見た目だが、飛ぶことはできないようだ。水元素の影響のせいか、同類に比べると動きがとても機敏である。とある研究は、このキノコンが単一生命でなく、実は無数の小さな胞子の集合体なのだと主張している。\\nキノコンたちの間ではリーダーのような立場にあり、それに見合うだけの高い知性を持っている。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

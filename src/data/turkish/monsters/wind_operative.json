@@ -64,19 +64,19 @@
       "_id": 112094,
       "id": "operatives_constancy",
       "name": "Ajanın Vefası",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112093,
       "id": "operatives_standard_pocket_watch",
       "name": "Ajanın Klasik Cep Saati",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112092,
       "id": "old_operatives_pocket_watch",
       "name": "Kıdemli Ajanın Cep Saati",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -127,7 +127,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Escadron_Wind",
   "description": "Seçkin bir Fatui tetikçisi.\\nFatui içindeki \"Ajanların\" sıradan askeri rütbeleri yoktur. Onlar aldıkları emirlere veya görev içeriklerine göre diğer askerlerle, kendi başlarına veya Teyvat'ın dört bir yanına gizlenmiş \"muhbirlerle\" çalışırlar. Casusluk, karşı casusluk, korumalık, suikast ve diğer işlerle uğraşırlar. \"Ajanlar\", bu özel görevleri yerine getirmek için çeşitli sanat ve yetenekler de dahil olmak üzere tüm becerilerde ustalaşmak zorundadırlar.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

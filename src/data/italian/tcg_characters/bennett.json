@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Spada",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3229,
@@ -29,8 +31,10 @@
     {
       "id": "strike_of_fortune",
       "name": "Colpo di fortuna",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,8 +53,10 @@
     {
       "id": "passion_overload",
       "name": "Sovraccarico di passione",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#FF9999FF\">DAN da Pyro</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "fantastic_voyage",
       "name": "Viaggio fantastico",
-      "desc": "Infligge ? ?, crea 1 <span style=\"color:#FFFFFFFF\">Campo d'ispirazione</span>.",
-      "skillTag": [],
+      "desc": "Infligge 2 <span style=\"color:#FF9999FF\">DAN da Pyro</span>, crea 1 <span style=\"color:#FFFFFFFF\">Campo d'ispirazione</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1103,

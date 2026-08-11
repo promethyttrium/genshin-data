@@ -157,7 +157,6 @@
   "categoryText": "Chefe",
   "filename_icon": "UI_MonsterIcon_Nihil",
   "description": "A Serva, a quarta dos Mensageiros dos Fatui",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

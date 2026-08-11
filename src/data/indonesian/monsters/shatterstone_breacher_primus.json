@@ -13,7 +13,6 @@
   "categoryText": "Abyss",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_02",
   "description": "Makhluk ajaib yang utamanya muncul di Elynas.\\nSepertinya akan terkena rangsangan yang kuat saat bertemu dengan energi Pneuma atau Ousia. Oleh sebab itu, meski tidak agresif dan tidak terlalu bisa menyerang, cara seperti ini sepertinya cukup ampuh untuk mengusir Breacher Primus.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

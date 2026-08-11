@@ -1,0 +1,133 @@
+{
+  "_id": 25131401,
+  "id": "volkodlak_raider",
+  "monsterId": 25131503,
+  "name": "Volkodlak Kẻ Cướp Bóc",
+  "specialNames": [
+    "Kẻ Cướp Bóc"
+  ],
+  "investigation": {
+    "investigationId": 101,
+    "name": "Bạo Đồ Volkodlak",
+    "categoryType": "Elite",
+    "categoryText": "Tinh Anh",
+    "description": "Trong số các fae của Snezhnaya, chủng tộc đông đảo nhất mang nhiều hình dạng khác nhau nhưng đều được gọi chung là \"Volkodlak\".\\nCó lẽ họ được tạo ra vốn là để tìm câu trả lời cho \"điều gì khiến con người trở thành con người\" từ chính cơ thể mình."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "rewardPreviewId": 15543,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 112154,
+      "id": "accreted_growth",
+      "name": "Thể Tăng Sinh Trầm Tích",
+      "count": 0.131
+    },
+    {
+      "_id": 112153,
+      "id": "accreted_mass",
+      "name": "Khối Trầm Tích",
+      "count": 0.525
+    },
+    {
+      "_id": 112152,
+      "id": "accreted_fragment",
+      "name": "Mảnh Trầm Tích",
+      "count": 1.97
+    },
+    {
+      "_id": 112148,
+      "id": "ethereal_crystalscale_stone",
+      "name": "Pha Lê Huyền Ảo",
+      "count": 0.035
+    },
+    {
+      "_id": 112147,
+      "id": "ethereal_crystal",
+      "name": "Mảnh Huyền Ảo",
+      "count": 0.14
+    },
+    {
+      "_id": 112146,
+      "id": "ethereal_glimmershard",
+      "name": "Vụn Huyền Ảo",
+      "count": 0.525
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Cuồng Chiến",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Giáo Quan",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "Kẻ Lưu Đày",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Cuồng Chiến",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Giáo Quan",
+      "rarity": 3
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "Kẻ Lưu Đày",
+      "rarity": 3
+    },
+    {
+      "_id": 400062,
+      "id": "traveling_doctor",
+      "name": "Thầy Thuốc",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Ma Thú Đột Biến",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Thin_Sword",
+  "description": "Trong vô số các Volkodlak ở Snezhnaya, đây là loài tương đối nhỏ nhắn và nhanh nhẹn.\\nChính vì hành động linh hoạt cùng ngũ quan nhạy bén hơn con người, trong chiến đấu có thể dựa vào trực giác để né tránh nhiều đòn tấn công, trở thành một đối thủ khá phiền phức khi chiến đấu cận chiến.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 17.6592,
+      "attack": 20.096,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

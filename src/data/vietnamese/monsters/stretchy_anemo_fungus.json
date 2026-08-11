@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Epsilon_Wind",
   "description": "Sinh vật bào tử có trí tuệ nhất định. Có khả năng thích nghi hoàn cảnh cực tốt.\\nNấm Quỷ sử dụng thân nấm vươn dài để nhanh chóng hút chất dinh dưỡng, đầu nấm hình chiếc ô có thể xoay chuyển theo hướng gió.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

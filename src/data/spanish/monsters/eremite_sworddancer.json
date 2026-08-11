@@ -481,9 +481,31 @@
     "Matriz ofensiva de Dilimbabbar",
     "Matriz defensiva de Dilimbabbar",
     "El renacido de la ruina",
+    "¿?",
+    "Halcón veloz terrestre",
     "El renacido de la ruina",
     "Pionero contemplador de estrellas",
-    "Resplandor de la luz de la creación"
+    "Resplandor de la luz de la creación",
+    "Creación Derivada Inmortal",
+    "Zhara",
+    "Vasili Edipo Izmáilov",
+    "Expedicionario procedente del hielo",
+    "Gusárov",
+    "Humano primordial",
+    "Aksinia",
+    "Pavlina",
+    "El retornado de la expedición",
+    "Patrullero Terrestre perturbado",
+    "Nastya",
+    "Furiosa",
+    "Klénova la Elevada",
+    "Kovalévskaya la Vil",
+    "Tsvietáiev",
+    "Bragin",
+    "Churin",
+    "Aquel que juró lealtad eterna",
+    "Bestia lanzadera hibernadora",
+    "Tajo veloz"
   ],
   "investigation": {
     "investigationId": 44,
@@ -510,22 +532,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Seda roja bordada",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Satén rojo descolorido",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Eremite_MuscleMan_Simitar",
   "description": "Miembro de los grupos dispersos de mercenarios procedentes del desierto dorado. Están dispuestos a trabajar para cualquiera con tal de obtener un buen pago a cambio de sus servicios.\\nEste guerrero del desierto destaca por su habilidad para luchar con cimitarras. Su técnica de lucha no es solo vestigio de una civilización ya extinta, sino que también ha servido de inspiración para los espectáculos de acrobacias tan populares hoy en día en varias naciones.\\nEste tipo de armas eran muy frecuentes en la antigüedad entre los guerreros que luchaban a caballo.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

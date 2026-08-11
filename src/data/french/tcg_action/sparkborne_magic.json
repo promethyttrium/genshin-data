@@ -1,0 +1,32 @@
+{
+  "_id": 213062,
+  "id": "sparkborne_magic",
+  "shareId": 615,
+  "name": "Magie des étincelles",
+  "title": "Klee - Magie des étincelles",
+  "desc": "« Et c'est ainsi que la plus mignonne des petites dodo-magiciennes a réussi son examen de qualification grâce à ses amis. Maintenant, c'est une vraie dodo-magicienne ! Félicitations ! »\\n« Une minute, on n'était pas censés écrire une annotation ? Quel rapport avec la petite sorcière ?! »",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Lorsque le personnage affecté a utilisé une <span style=\"color:#FFFFFFFF\">attaque chargée</span> : </span>Inflige 2 pts de <span style=\"color:#FF9999FF\">DGT Pyro</span>. (2 fois par manche)",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Pyro",
+    "card_type": "Carte d'équipement",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "Pyro",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Aptitude",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Action rapide</span> : S'équipe sur votre <span style=\"color:#FFFFFFFF\">Klee</span>.<br/>Applique une <span style=\"color:#FFFFFFFF\">étincelle explosive</span> sur Klee.<br/><span style=\"color:#FFFFFFFF\">Lorsque le personnage affecté a utilisé une <span style=\"color:#FFFFFFFF\">attaque chargée</span> : </span>Inflige 2 pts de <span style=\"color:#FF9999FF\">DGT Pyro</span>. (2 fois par manche)<br/>(Votre deck doit contenir Klee pour pouvoir y ajouter cette carte)"
+    }
+  ]
+}

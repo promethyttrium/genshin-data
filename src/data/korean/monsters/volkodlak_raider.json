@@ -1,0 +1,133 @@
+{
+  "_id": 25131401,
+  "id": "volkodlak_raider",
+  "monsterId": 25131503,
+  "name": "야수 요정 약탈자",
+  "specialNames": [
+    "약탈자"
+  ],
+  "investigation": {
+    "investigationId": 101,
+    "name": "야수 요정 폭도",
+    "categoryType": "Elite",
+    "categoryText": "정예",
+    "description": "스네즈나야에서 가장 흔한 요정은 다양한 모습을 지닌 「야수 요정」이다.\\n어쩌면 이들은 「인간이 인간인 이유」에 대한 답을 찾기 위해 창조되었을지도 모른다"
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "rewardPreviewId": 15543,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "모라"
+    },
+    {
+      "_id": 112154,
+      "id": "accreted_growth",
+      "name": "완전한 증식체",
+      "count": 0.131
+    },
+    {
+      "_id": 112153,
+      "id": "accreted_mass",
+      "name": "불완전한 증식체",
+      "count": 0.525
+    },
+    {
+      "_id": 112152,
+      "id": "accreted_fragment",
+      "name": "부서진 증식체",
+      "count": 1.97
+    },
+    {
+      "_id": 112148,
+      "id": "ethereal_crystalscale_stone",
+      "name": "환상의 요정 결정",
+      "count": 0.035
+    },
+    {
+      "_id": 112147,
+      "id": "ethereal_crystal",
+      "name": "환상의 요정 조각",
+      "count": 0.14
+    },
+    {
+      "_id": 112146,
+      "id": "ethereal_glimmershard",
+      "name": "환상의 요정 가루",
+      "count": 0.525
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "전투광",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "교관",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "유배자",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "전투광",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "교관",
+      "rarity": 3
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "유배자",
+      "rarity": 3
+    },
+    {
+      "_id": 400062,
+      "id": "traveling_doctor",
+      "name": "떠돌이 의사",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "돌연변이 마수",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Thin_Sword",
+  "description": "몸집이 작고 민첩한 스네즈나야의 야수 요정.\\n인간보다 훨씬 예민한 오감과 뛰어난 직감으로 적의 공격을 재빠르게 피하기 때문에 근접전에서 상대하기 매우 까다롭다",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 17.6592,
+      "attack": 20.096,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

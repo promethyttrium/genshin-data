@@ -103,6 +103,11 @@
       "name": "베리 바비큐"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "보르시"
+    },
+    {
       "_id": 3004,
       "id": "sticky_honey_roast",
       "name": "허니캐럿그릴"
@@ -248,6 +253,16 @@
       "name": "자작나무 갈비"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "자르코예"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "스네즈나야 꼬치구이"
+    },
+    {
       "_id": 4001,
       "id": "moon_pie",
       "name": "달빛 파이"
@@ -307,6 +322,5 @@
   ],
   "source": [
     "동물 드랍"
-  ],
-  "rarity": 0
+  ]
 }

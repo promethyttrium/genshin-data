@@ -1,0 +1,39 @@
+{
+  "_id": 215048,
+  "id": "heart_of_the_furnace",
+  "name": "Coração Forjado",
+  "min_rarity": 4,
+  "max_rarity": 5,
+  "two_pc": "ATQ +18%",
+  "four_pc": "Nos 12s após o portador desencadear Brilho Estelar ou causar Dano de Brilho Estelar, aumenta o ATQ em 12% e o Dano de Brilho Estelar de todos os membros próximos da equipe em 50%. Esse efeito pode ser desencadeado mesmo quando o portador não for o personagem ativo. O efeito de bônus de Dano de conjuntos de Artefatos iguais não acumula.",
+  "goblet": {
+    "_id": 48412,
+    "id": "foundrymans_magnanimity",
+    "name": "Magnanimidade do Forjador",
+    "description": "Ele sabia que, não como a chamas de uma fornalha, que os materiais poderiam queimar sem jamais extinguirem-se, a amizade era muito mais efêmera."
+  },
+  "plume": {
+    "_id": 48422,
+    "id": "foundrymans_observation",
+    "name": "Observação do Forjador",
+    "description": "Ele sabia que o fluxo do mundo mortal não tinha as mesmas cores de uma fornalha, e podia observar claramente o resultado."
+  },
+  "circlet": {
+    "_id": 48432,
+    "id": "foundrymans_legacy",
+    "name": "Ambição do Forjador",
+    "description": "Ele sabia que os sonhos não eram firmes como o brilho de uma fornalha, e que não podia ser passado como uma tocha para seus herdeiros."
+  },
+  "flower": {
+    "_id": 48442,
+    "id": "foundrymans_conjecture",
+    "name": "Suposição do Forjador",
+    "description": "Ele sabia que a prosperidade mortal não era calorosa como uma fornalha, mas que podia ser medida e mudada."
+  },
+  "sands": {
+    "_id": 48452,
+    "id": "foundrymans_calculus",
+    "name": "Contagem do Forjador",
+    "description": "Ele sabia que o poder não funcionava como a energia de uma fornalha, mas que podia ser controlado com um botão."
+  }
+}

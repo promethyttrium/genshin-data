@@ -36,7 +36,7 @@
       "_id": 113044,
       "id": "pseudostamens",
       "name": "Pseudo-Stamens",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104154,
@@ -119,7 +119,6 @@
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Sandworm",
   "description": "An eyeless predator that dwells within the depths of the desert and uses sound and vibrations to seek out its prey.\\nLegend has it that in the ancient past before even the concept of time was created, these creatures thrived with their progenitors and offspring in a land of verdant grass and colossal trees, traversing through slick soil like fishes diving through the wet.\\nWith the passage of eons, the gifts of heaven have long reduced the soils to sand, rendering a great many creatures extinct. This branch of their genus was able to survive by adapting more toward earth-based living, and became known as the \"Wenut.\"\\nSome desert folk still mistakenly believe that Wenut is the final point of a quicksand eel's life cycle, likely due to superficial similarities between the species' behaviors.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

@@ -1,0 +1,21 @@
+{
+  "_id": 330002,
+  "id": "shattered_moon_sublimation",
+  "name": "Lua Despedaçada - Sublimação",
+  "description": "Uma gloriosa lâmina ilusória brilhando com o poder da \"Morte\" que surgiu das profundezas das Linhas Ley. Ela pode mudar sua aparência baseado no Tipo Elemental de seu usuário. Dizem as lendas que essa lâmina já foi empunhada por alguém chamado \"Barnstokkr\" na antiga terra dos pecadores transcendentes.",
+  "rarity": 5,
+  "type": {
+    "id": "Polearm",
+    "name": "Lança"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Metamorfose Radiante: Transcendência - Sublimação",
+    "priority": 1
+  },
+  "item_id": 341302,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphSpinifer_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphSpinifer_Great"
+}

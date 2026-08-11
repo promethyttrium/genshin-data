@@ -1,0 +1,39 @@
+{
+  "_id": 213171,
+  "id": "adamahs_redemption",
+  "shareId": 611,
+  "name": "Adamah's Redemption",
+  "title": "Durin: Adamah's Redemption",
+  "desc": "\"A turning point in fate.\"",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">When the character to which this is attached uses Principle of Purity: As the Light Shifts:</span> Your next 4 instances of DMG gain +1.<br/><span style=\"color:#FFFFFFFF\">When the character to which this is attached uses Principle of Darkness: As the Stars Smolder:</span> Your <span style=\"color:#FFFFFFFF\">Durin</span> and <span style=\"color:#FFFFFFFF\">Denial of Darkness</span> deal +2 DMG.",
+  "attributes": {
+    "cost": 4,
+    "cost_type": "Pyro",
+    "card_type": "Equipment Card",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "Pyro",
+        "count": 4
+      },
+      {
+        "_id": 1110,
+        "id": "energy",
+        "type": "Energy",
+        "count": 2
+      }
+    ],
+    "source": "Reward for inviting Durin to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "tags": [
+      "Talent",
+      "Combat Action"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Combat Action</span>: When your active character is <span style=\"color:#FFFFFFFF\">Durin</span>, equip this card.<br/>After Durin equips this card, immediately use <span style=\"color:#FFD780FF\">Principle of Purity: As the Light Shifts</span> or <span style=\"color:#FFD780FF\">Principle of Darkness: As the Stars Smolder</span> once based on the character's current Elemental Burst.<br/><span style=\"color:#FFFFFFFF\">When the character to which this is attached uses Principle of Purity: As the Light Shifts:</span> Your next 4 instances of DMG gain +1.<br/><span style=\"color:#FFFFFFFF\">When the character to which this is attached uses Principle of Darkness: As the Stars Smolder:</span> Your <span style=\"color:#FFFFFFFF\">Durin</span> and <span style=\"color:#FFFFFFFF\">Denial of Darkness</span> deal +2 DMG.<br/>(You must have Durin in your deck to add this card to your deck.)"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_id": 112147,
+  "id": "ethereal_crystal",
+  "name": "Quiebracristal etéreo",
+  "description": "Estos fragmentos cristalinos crecen en la superficie del cuerpo de las hadas. Aunque ya no son más que unos cascarones vacíos, aún se puede percibir en ellos el singular poder que solían contener.",
+  "source": [
+    "#Obtenido de Hadas Dermiscristalinas (Niv.{NON_BREAK_SPACE}40+)",
+    "Canjear Polvo estelar",
+    "Cantidad sintetizable: {0}"
+  ],
+  "rarity": 2,
+  "craft": {
+    "cost": 25,
+    "items": [
+      {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Lumiesquirla etérea",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

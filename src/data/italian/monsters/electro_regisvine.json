@@ -38,7 +38,7 @@
       "_id": 113037,
       "id": "thunderclap_fruitcore",
       "name": "Nucleoreptus tonante",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104144,
@@ -133,7 +133,6 @@
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Regisvine_Electric",
   "description": "Un enorme rampicante tramutatosi in mostro a causa delle correnti ad alta tensione che scorrono nelle linee geomantiche.\\nLa sua chioma sprigiona una tensione elettrica costante, con una furia senza fine pari a quella della terra.\\nTempo fa, i ricercatori della Kshahrewar proposero di disporre una complessa matrice di circuiti intorno a questa creatura, con l'intento di trasportare l'energia elettrica fino alla città e sfruttarla opportunamente. Il piano fu aspramente contestato dagli studiosi della Spantamad, che sacrificarono 10 Funghiali per dimostrare quanto l'utilizzo dell'elettricità fosse rischioso.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

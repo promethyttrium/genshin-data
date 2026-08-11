@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Arme d'hast",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 5052,
@@ -29,8 +31,10 @@
     {
       "id": "swiftshatter_spear",
       "name": "Lance célère",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,8 +53,10 @@
     {
       "id": "blazing_blessing",
       "name": "Bénédiction flamboyante",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et crée une <span style=\"color:#FFFFFFFF\">barrière brûlante</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#FF9999FF\">DGT Pyro</span> et crée une <span style=\"color:#FFFFFFFF\">barrière brûlante</span>.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "crimson_ooyoroi",
       "name": "O-yoroi écarlate",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et crée une <span style=\"color:#FFFFFFFF\">barrière brûlante</span> et un <span style=\"color:#FFFFFFFF\">o-yoroi embrasé</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#FF9999FF\">DGT Pyro</span> et crée une <span style=\"color:#FFFFFFFF\">barrière brûlante</span> et un <span style=\"color:#FFFFFFFF\">o-yoroi embrasé</span>.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1103,

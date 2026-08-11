@@ -1,0 +1,40 @@
+{
+  "_id": 25133601,
+  "id": "fanged_zealot",
+  "monsterId": 25133602,
+  "name": "Zelota zannuto",
+  "specialNames": [
+    "Zelota zannuto"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestie mistiche",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Mammoth",
+  "description": "Un Volkodlak diventato estremamente potente dopo aver ereditato una maggiore quantità dell'immenso potere della sua stirpe.\\nTra i numerosi tipi di Volkodlak, quelli dalle sembianze di elefanti giganti o mammut appartengono ad alcune delle stirpi più nobili. Un tempo il loro clan annoverava un gran numero di formidabili condottieri, molti dei quali servirono come stretti vassalli del Re delle Bestie.\\nTuttavia, maggiore è il potere di una singola creatura fatata, e più lunga è la sua vita, più risulta difficile per tali esseri formare un clan. Rispetto agli altri Volkodlak, nella Snezhnaya di oggi questa variante è molto più rara.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 231.00076,
+      "attack": 112.64574,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

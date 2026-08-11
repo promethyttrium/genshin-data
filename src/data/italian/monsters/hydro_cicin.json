@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Cicin_Water_01",
   "description": "Delle piccole creature che possono vagamente manipolare Hydro.\\nInsieme ad altre creature analoghe, sono conosciute collettivamente come Cicin, e adorano la rara e meravigliosa Erbafosca. È sfruttando questa connessione che le Maghe dei Fatui hanno cercato di comandare i Cicin in battaglia.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

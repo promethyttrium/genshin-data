@@ -13,7 +13,6 @@
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Effigy_Ice",
   "description": "高純度の氷元素生命体、コードネーム「ダレット」。\\n研究によると、無相元素は従来の元素生物と物質構成においてわずかな違いがある。それらの微妙な違いが、安定した形態と機械的な挙動の根源なのかもしれない。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

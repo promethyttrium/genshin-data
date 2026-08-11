@@ -1,0 +1,16 @@
+{
+  "_id": 390001,
+  "id": "unbreakable_durandarte",
+  "name": "Unzerstörbar – Durandarte",
+  "description": "Eine prächtige, illusorische Klinge, hervorgegangen aus den Tiefen des Flusses der Elemente. Von ihr sagt man, sie sei einst von einem weißen Ritter geführt worden, der sie „Durandarte“ nennt.\\nIhr Name stammt aus einer alten Sprache und soll „die Klinge, die niemals zerstört wird“ bedeuten. Ganz wie das Schwert, das er trug, ist auch der Weg, an den der Ritter glaubte, niemals ins Wanken geraten, ganz gleich, wie sehr der einst reine Stahl inzwischen auch an Glanz verloren haben mag.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Zweihänder"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341901,
+  "icon_path": "UI_EquipIcon_Claymore_VarkaTunkeldegen",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_VarkaTunkeldegen"
+}

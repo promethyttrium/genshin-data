@@ -108,6 +108,11 @@
       "name": "Panino di segale ripieno di carne"
     },
     {
+      "_id": 2701,
+      "id": "stroganina",
+      "name": "Stroganina"
+    },
+    {
       "_id": 3012,
       "id": "sunshine_sprat",
       "name": "Spratto al burro saltato"
@@ -198,6 +203,11 @@
       "name": "Ode al magma"
     },
     {
+      "_id": 3706,
+      "id": "snowball_blooms_atop_snowfields",
+      "name": "Fiori Palla di neve sui campi innevati"
+    },
+    {
       "_id": 4105,
       "id": "eighttreasure_duck",
       "name": "Anatra agli otto tesori"
@@ -215,6 +225,5 @@
   ],
   "source": [
     "Si raccoglie pescando"
-  ],
-  "rarity": 0
+  ]
 }

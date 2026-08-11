@@ -13,7 +13,6 @@
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Golem_Centaur",
   "description": "Unter der steinernen Haut dieser aus Marmor und Messing geformten Statue eines Zentauren fließt das Blut des Ichors. Wie ein Heerführer steht er da, jederzeit bereit, jene in Stücke zu reißen, die es wagen, seine Erhabenheit zu beleidigen.\\nDie untergegangene alte Zivilisation glaubte, dass der Krieg eine Kunst sei, die, wie die Musik, einem bestimmten Rhythmus folge. Und so sollte der Heerführer wie der Dirigent eines Orchesters sein. Er behandelt Schwert und Schild in seiner Hand wie die Saiten und den Bogen einer Leier, auf dem unbarmherzigen Schlachtfeld spielt er seine feurige Melodie.\\n„Der Krieg ist das notwendige Übel, das zum umfassenden Glück führt.“ So sprach einst der Harmost, der die Legionen der Golems anführte, die Hohe See zu erobern.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

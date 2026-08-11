@@ -1,0 +1,40 @@
+{
+  "_id": 25138001,
+  "id": "juvenile_tree_segment",
+  "monsterId": 25138003,
+  "name": "Junger Gliederbaum",
+  "specialNames": [
+    "Uralter Holzgeist"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Mystische Bestien",
+  "filename_icon": "UI_MonsterIcon_Leshy_Normal_01",
+  "description": "Ein Leschi, der in Wäldern und Wildnis wächst.\\nUnter den vielen Feen Snezhnayas ist der Leschi eine ganz besonders einzigartige Art. So ist er fast nie in Städten anzutreffen. Unter allen Feen ist der Leschi vielleicht die langlebigste. Nur wenige andere langlebige Völker haben je das gesamte Leben eines Leschis miterlebt. Aber die meisten könnten wohl eh nicht einmal einzelne Leschis voneinander unterscheiden.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.2,
+      "hydro": 0.1,
+      "geo": 0.2,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01",
   "description": "Un soldato racchiuso in una macchina da guerra dei Fatui.\\nÈ armato di un equipaggiamento che può controllare parzialmente gli elementi, e le sue armi da fuoco sono in grado di sparare raggi di gelo.\\nSebbene questo gli conferisca un potere elementale superiore alla comprensione di un normale essere umano, questo ha comunque un prezzo...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

@@ -1,0 +1,21 @@
+{
+  "_id": 350002,
+  "id": "starpiercer_sublimation",
+  "name": "Perce-étoile (sublimé)",
+  "description": "Une épée glorieuse et illusoire, scintillant du pouvoir du « néant », surgie des profondeurs des lignes énergétiques. Son apparence peut changer selon le type élémentaire de son porteur. La légende raconte que cette épée portait autrefois le nom de Gusisnautar, alors qu'elle était portée par un pécheur transcendant sur une terre antique.",
+  "rarity": 5,
+  "type": {
+    "id": "Bow",
+    "name": "Arc"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "Métamorphose radieuse : Transcendance (sublimée)",
+    "priority": 1
+  },
+  "item_id": 341502,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Bow_MorphChrod_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Bow_MorphChrod_Great"
+}

@@ -45,7 +45,6 @@
   "description": "Um Hilichurl musculoso que usa gelo sólido como escudo, empunhando-o em batalha.\\nA razão normalmente determina que grandes criaturas que veem muita ação devem queimar um grande número de calorias para se sustentarem. Como tal, o atual El Musk propôs o \"Índice Mitachurl\". Este índice correlaciona a porcentagem de Mitachurls dentro da população de Hilichurls com a estabilidade e o sucesso da atividade de procurar alimento dos Hilichurls.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 2,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.3,

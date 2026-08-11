@@ -1,0 +1,1253 @@
+{
+  "_id": 10000148,
+  "id": "alyosha",
+  "name": "알료샤",
+  "title": "섬광의 추적자",
+  "description": "스네즈나야 설원을 누비는 「전문 사냥꾼」. 냉철한 겉모습 아래에는 뜨겁게 타오르는 「이상」이 숨겨져 있는 듯하다",
+  "weapon_type": {
+    "id": "polearm",
+    "name": "장병기"
+  },
+  "element": {
+    "id": "electro",
+    "name": "번개"
+  },
+  "gender": {
+    "id": "male",
+    "name": "남성"
+  },
+  "release": 1786395600,
+  "substat": "원소 충전 효율",
+  "affiliation": "스네즈나야",
+  "region": {
+    "id": "snezhnaya",
+    "name": "스네즈나야"
+  },
+  "rarity": 4,
+  "birthday": [
+    9,
+    2
+  ],
+  "constellation": "보르조이자리",
+  "domain": "숙달 비경: 수행",
+  "cv": {
+    "english": "Kevin Andrew Rivera",
+    "chinese": "王辅平",
+    "japanese": "Sato Gen",
+    "korean": "김혜성"
+  },
+  "skills": [
+    {
+      "_id": 11481,
+      "id": "skirmishing_spear",
+      "name": "총창술",
+      "description": "<span style=\"color:#FFD780FF\">일반 공격</span><br/>창으로 최대 4번 공격하고, 마지막 일격이 명중한 적에게 <b><span style=\"color:#FFD780FF\">사냥 표식</span></b> 효과를 부여한다.<br/><br/><span style=\"color:#FFD780FF\">강공격</span><br/>일정 스태미나를 소모해 전방으로 돌진해 경로상의 적에게 피해를 준다.<br/><br/><span style=\"color:#FFD780FF\">낙하 공격</span><br/>공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "info": "",
+      "attributes": [
+        {
+          "label": "1단 공격 피해",
+          "values": [
+            "47.8%",
+            "51.7%",
+            "55.6%",
+            "61.2%",
+            "65.1%",
+            "69.5%",
+            "75.6%",
+            "81.7%",
+            "87.8%",
+            "94.5%",
+            "101.2%",
+            "107.9%",
+            "114.5%",
+            "121.2%",
+            "127.9%"
+          ]
+        },
+        {
+          "label": "2단 공격 피해",
+          "values": [
+            "48.2%",
+            "52.1%",
+            "56%",
+            "61.6%",
+            "65.5%",
+            "70%",
+            "76.2%",
+            "82.3%",
+            "88.5%",
+            "95.2%",
+            "101.9%",
+            "108.6%",
+            "115.4%",
+            "122.1%",
+            "128.8%"
+          ]
+        },
+        {
+          "label": "3단 공격 피해",
+          "values": [
+            "34.2% + 31.8%",
+            "37% + 34.4%",
+            "39.8% + 37%",
+            "43.8% + 40.7%",
+            "46.6% + 43.3%",
+            "49.8% + 46.3%",
+            "54.1% + 50.3%",
+            "58.5% + 54.4%",
+            "62.9% + 58.5%",
+            "67.7% + 62.9%",
+            "72.4% + 67.3%",
+            "77.2% + 71.8%",
+            "82% + 76.2%",
+            "86.8% + 80.7%",
+            "91.5% + 85.1%"
+          ]
+        },
+        {
+          "label": "4단 공격 피해",
+          "values": [
+            "75.9%",
+            "82%",
+            "88.2%",
+            "97%",
+            "103.2%",
+            "110.3%",
+            "120%",
+            "129.7%",
+            "139.4%",
+            "149.9%",
+            "160.5%",
+            "171.1%",
+            "181.7%",
+            "192.3%",
+            "202.9%"
+          ]
+        },
+        {
+          "label": "강공격 피해",
+          "values": [
+            "111%",
+            "120.1%",
+            "129.1%",
+            "142%",
+            "151%",
+            "161.4%",
+            "175.6%",
+            "189.8%",
+            "204%",
+            "219.5%",
+            "235%",
+            "250.5%",
+            "265.9%",
+            "281.4%",
+            "296.9%"
+          ]
+        },
+        {
+          "label": "강공격 스태미나 소모",
+          "values": [
+            "25pt",
+            "25pt",
+            "25pt",
+            "25pt",
+            "25pt",
+            "25pt",
+            "25pt",
+            "25pt",
+            "25pt",
+            "25pt",
+            "25pt",
+            "25pt",
+            "25pt",
+            "25pt",
+            "25pt"
+          ]
+        },
+        {
+          "label": "낙하 기간 피해",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "저공/고공 추락 충격 피해",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11482,
+      "id": "thunderbolt_strike",
+      "name": "번개 사격",
+      "description": "사냥꾼의 본능에 맞춰 짧은 터치 또는 홀드에 따라 각기 다른 효과가 발생하며, 명중한 적에게 <b><span style=\"color:#FFD780FF\">사냥 표식</span></b> 효과를 부여한다.<br/><br/><span style=\"color:#FFD780FF\">짧은 터치</span><br/>전방으로 사격하여 <span style=\"color:#FFACFFFF\">번개 원소 범위 피해</span>를 준다.<br/><br/><span style=\"color:#FFD780FF\">홀드</span><br/>조준 상태에 진입하고 전방 일정 범위 내의 적을 선택하며, 해당 상태에서 알료샤의 경직 저항력이 증가한다.<br/>홀드가 끝날 때 선택한 적에게 <span style=\"color:#FFACFFFF\">번개 원소 피해</span>를 준다.",
+      "info": "무모한 사냥꾼은 한때 창끝에 목숨을 걸고 위험을 자초했으나, 다행히 피로 얻은 교훈을 통해 설원에서 살아남는 법을 깨달았다",
+      "attributes": [
+        {
+          "label": "짧은 터치 피해",
+          "values": [
+            "286.7%",
+            "308.2%",
+            "329.7%",
+            "358.4%",
+            "379.9%",
+            "401.4%",
+            "430.1%",
+            "458.8%",
+            "487.4%",
+            "516.1%",
+            "544.8%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%"
+          ]
+        },
+        {
+          "label": "홀드 피해",
+          "values": [
+            "358.4%",
+            "385.3%",
+            "412.2%",
+            "448%",
+            "474.9%",
+            "501.8%",
+            "537.6%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%",
+            "716.8%",
+            "761.6%",
+            "806.4%",
+            "851.2%"
+          ]
+        },
+        {
+          "label": "재사용 대기시간",
+          "values": [
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초"
+          ]
+        },
+        {
+          "label": "사냥 표식 지속 시간",
+          "values": [
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초"
+          ]
+        },
+        {
+          "label": "사냥꾼의 조준 공격력 증가",
+          "values": [
+            "11.7%",
+            "12.7%",
+            "13.8%",
+            "14.8%",
+            "15.9%",
+            "17%",
+            "18%",
+            "19.1%",
+            "20.1%",
+            "21.2%",
+            "22.5%",
+            "23.7%",
+            "25%",
+            "26.3%",
+            "27.6%"
+          ]
+        },
+        {
+          "label": "사냥꾼의 조준 지속 시간",
+          "values": [
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초",
+            "15초"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11485,
+      "id": "hunters_advance",
+      "name": "수렵 구역",
+      "description": "믿음직한 파트너 <span style=\"color:#FFD780FF\">투가린</span>을 소환해 함께 전투하며, 전방의 구역을 짧은 시간 동안 <span style=\"color:#FFD780FF\">번개 사냥터</span>로 변환한다.<br/><br/><span style=\"color:#FFD780FF\">번개 사냥터</span><br/>·지속적으로 주변의 적을 도발해 적의 공격을 유도한다.<br/>·2초마다 사냥터에 진입한 적에게 <span style=\"color:#FFACFFFF\">번개 원소 범위 피해</span>를 1회 준다.<br/><br/><span style=\"color:#FFD780FF\">투가린</span><br/>·주변에 적이 존재할 경우, 2초마다 투가린이 적 1명의 근처로 빠르게 이동해 물어뜯기 공격으로 <span style=\"color:#FFD780FF\">번개 원소 피해</span>를 준다.<br/>·명중한 적이 <span style=\"color:#FFD780FF\">사냥 표식</span> 효과의 영향을 받고 있을 경우, <span style=\"color:#FFD780FF\">사냥 표식</span>이 활성화된다.<br/>·투가린은 <span style=\"color:#FFD780FF\">사냥 표식</span> 효과의 영향을 받는 적을 우선적으로 공격한다.",
+      "info": "초조함이 사라질 때까지 기다리면, 붉은배 물떼새가 자작나무 숲을 가로질러 총구 앞에 나타날 것이다",
+      "attributes": [
+        {
+          "label": "번개 사냥터 피해",
+          "values": [
+            "75%",
+            "80.6%",
+            "86.2%",
+            "93.7%",
+            "99.3%",
+            "104.9%",
+            "112.4%",
+            "119.9%",
+            "127.4%",
+            "134.9%",
+            "142.4%",
+            "149.9%",
+            "159.3%",
+            "168.7%",
+            "178%"
+          ]
+        },
+        {
+          "label": "투가린 피해",
+          "values": [
+            "50.2%",
+            "54%",
+            "57.8%",
+            "62.8%",
+            "66.5%",
+            "70.3%",
+            "75.3%",
+            "80.4%",
+            "85.4%",
+            "90.4%",
+            "95.4%",
+            "100.4%",
+            "106.7%",
+            "113%",
+            "119.3%"
+          ]
+        },
+        {
+          "label": "지속 시간",
+          "values": [
+            "14초",
+            "14초",
+            "14초",
+            "14초",
+            "14초",
+            "14초",
+            "14초",
+            "14초",
+            "14초",
+            "14초",
+            "14초",
+            "14초",
+            "14초",
+            "14초",
+            "14초"
+          ]
+        },
+        {
+          "label": "재사용 대기시간",
+          "values": [
+            "18초",
+            "18초",
+            "18초",
+            "18초",
+            "18초",
+            "18초",
+            "18초",
+            "18초",
+            "18초",
+            "18초",
+            "18초",
+            "18초",
+            "18초",
+            "18초",
+            "18초"
+          ]
+        },
+        {
+          "label": "원소 에너지",
+          "values": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "awakened_by_the_baying_hounds",
+      "name": "고요한 숲을 깨운 총성",
+      "description": "<b><span style=\"color:#FFD780FF\">투가린</span></b>이 공격 시 주변에 있는 파티 내 현재 필드 위 캐릭터의 HP가 회복된다. 회복량은 알료샤 공격력의 120%에 해당한다",
+      "level": 1
+    },
+    {
+      "id": "suffer_the_winter_wheat_will",
+      "name": "떨어진 겨울밀과 낙엽",
+      "description": "알료샤의 원소 충전 효율에 기반하여 알료샤의 원소전투 스킬과 원소폭발로 주는 피해가 증가한다: 원소 충전 효율 1%당 상술한 피해가 0.35% 증가하며, 최대 70%까지 증가한다",
+      "level": 4
+    },
+    {
+      "id": "into_the_fray",
+      "name": "험지로 향하는 별",
+      "description": "<b><span style=\"color:#FFD780FF\">극지의 별영역</span></b>에 있을 때, 알료샤가 <span style=\"color:#FFD780FF\">섬광·별 초전도</span> 상태에 진입한다.<br/><span style=\"color:#FFD780FF\">섬광·별 초전도</span>: <b><span style=\"color:#FFD780FF\">사냥 표식</span></b> 활성화 시 획득하는 <span style=\"color:#FFD780FF\">사냥꾼의 조준</span> 효과가 추가로 캐릭터가 필드 위에 있을 때 주는 별 초전도 반응 피해를 20% 증가시킨다",
+      "level": 0
+    },
+    {
+      "id": "treetop_watch",
+      "name": "숲속의 시선",
+      "description": "미니맵에 주위의 <span style=\"color:#FFD780FF\">스네즈나야 지역 특산물</span> 위치가 나타난다",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1481,
+      "id": "frostvale_thunderclap",
+      "name": "협곡의 총성",
+      "description": "주변에 있는 파티 내 캐릭터가 적에게 <span style=\"color:#FFACFFFF\">번개 원소 관련 반응</span> 발동 후, 알료샤의 원소 에너지가 15pt 회복된다. 해당 효과는 18초마다 최대 1회 발동된다",
+      "level": 1
+    },
+    {
+      "_id": 1482,
+      "id": "howl_from_afar",
+      "name": "먼 곳의 신호",
+      "description": "원소폭발 <span style=\"color:#FFD780FF\">수렵 구역</span>의 지속 시간이 6초 연장된다.<br/>또한, <b><span style=\"color:#FFD780FF\">투가린</span></b>은 매번 적을 공격하기 전 대상 1명에게 <b><span style=\"color:#FFD780FF\">사냥 표식</span></b>을 추가로 부여한다. 해당 효과는 이미 존재하는 <span style=\"color:#FFD780FF\">사냥 표식</span>을 활성화하지 않는다",
+      "level": 2
+    },
+    {
+      "_id": 1483,
+      "id": "friendly_call",
+      "name": "동료의 부름",
+      "description": "원소전투 스킬 <span style=\"color:#FFD780FF\">번개 사격</span>의 스킬 레벨+3<br/>최대 Lv.15까지 상승",
+      "level": 3
+    },
+    {
+      "_id": 1484,
+      "id": "harvest_the_spoils",
+      "name": "사냥감 회수",
+      "description": "<b><span style=\"color:#FFD780FF\">투가린</span></b>이 공격 시, 추가로 주변 파티원 중 HP 비율이 가장 낮은 캐릭터의 HP를 회복한다. 회복량은 알료샤 공격력의 60%에 해당한다",
+      "level": 4
+    },
+    {
+      "_id": 1485,
+      "id": "when_the_nightbird_falls_silent",
+      "name": "꾀꼬리의 침묵",
+      "description": "원소폭발 <span style=\"color:#FFD780FF\">수렵 구역</span>의 스킬 레벨+3<br/>최대 Lv.15까지 상승",
+      "level": 5
+    },
+    {
+      "_id": 1486,
+      "id": "standard_reclaimed",
+      "name": "탈환한 깃발",
+      "description": "<b><span style=\"color:#FFD780FF\">사냥 표식</span></b>을 활성화할 때 획득하는 <span style=\"color:#FFD780FF\">사냥꾼의 조준</span> 효과는 중첩 가능하다. 해당 효과는 최대 2스택까지 중첩되며, 2스택 중첩 시 해당 효과의 영향을 받는 현재 필드 위 캐릭터의 원소 마스터리가 100pt 증가한다",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "돌파",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "기초 HP",
+          "values": [
+            "-",
+            "1003"
+          ]
+        },
+        {
+          "label": "기초 공격력",
+          "values": [
+            "-",
+            "22"
+          ]
+        },
+        {
+          "label": "기초 방어력",
+          "values": [
+            "-",
+            "59"
+          ]
+        },
+        {
+          "label": "원소 충전 효율",
+          "values": [
+            "-",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "돌파",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "기초 HP",
+          "values": [
+            "2577",
+            "3326"
+          ]
+        },
+        {
+          "label": "기초 공격력",
+          "values": [
+            "57",
+            "74"
+          ]
+        },
+        {
+          "label": "기초 방어력",
+          "values": [
+            "151",
+            "195"
+          ]
+        },
+        {
+          "label": "원소 충전 효율",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "돌파",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "기초 HP",
+          "values": [
+            "4982",
+            "5514"
+          ]
+        },
+        {
+          "label": "기초 공격력",
+          "values": [
+            "111",
+            "122"
+          ]
+        },
+        {
+          "label": "기초 방어력",
+          "values": [
+            "293",
+            "324"
+          ]
+        },
+        {
+          "label": "원소 충전 효율",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104141,
+        "id": "vajrada_amethyst_sliver",
+        "name": "승리의 자수정 가루",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "복슬풀",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "키메라의 기초 코어",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "돌파",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "기초 HP",
+          "values": [
+            "6343",
+            "7052"
+          ]
+        },
+        {
+          "label": "기초 공격력",
+          "values": [
+            "141",
+            "157"
+          ]
+        },
+        {
+          "label": "기초 방어력",
+          "values": [
+            "373",
+            "414"
+          ]
+        },
+        {
+          "label": "원소 충전 효율",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "승리의 자수정 조각",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "키메라의 꽁지깃",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "복슬풀",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "키메라의 기초 코어",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "돌파",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "기초 HP",
+          "values": [
+            "7881",
+            "8413"
+          ]
+        },
+        {
+          "label": "기초 공격력",
+          "values": [
+            "175",
+            "187"
+          ]
+        },
+        {
+          "label": "기초 방어력",
+          "values": [
+            "463",
+            "494"
+          ]
+        },
+        {
+          "label": "원소 충전 효율",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "승리의 자수정 조각",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "키메라의 꽁지깃",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "복슬풀",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "키메라의 이중 코어",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "돌파",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "기초 HP",
+          "values": [
+            "9241",
+            "9773"
+          ]
+        },
+        {
+          "label": "기초 공격력",
+          "values": [
+            "205",
+            "217"
+          ]
+        },
+        {
+          "label": "기초 방어력",
+          "values": [
+            "543",
+            "574"
+          ]
+        },
+        {
+          "label": "원소 충전 효율",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "승리의 자수정 덩이",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "키메라의 꽁지깃",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "복슬풀",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "키메라의 이중 코어",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "돌파",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "기초 HP",
+          "values": [
+            "10602",
+            "11134"
+          ]
+        },
+        {
+          "label": "기초 공격력",
+          "values": [
+            "235",
+            "247"
+          ]
+        },
+        {
+          "label": "기초 방어력",
+          "values": [
+            "623",
+            "654"
+          ]
+        },
+        {
+          "label": "원소 충전 효율",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "승리의 자수정 덩이",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "키메라의 꽁지깃",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "복슬풀",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "키메라의 다중 코어",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "돌파",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "기초 HP",
+          "values": [
+            "11962",
+            "11962"
+          ]
+        },
+        {
+          "label": "기초 공격력",
+          "values": [
+            "265",
+            "265"
+          ]
+        },
+        {
+          "label": "기초 방어력",
+          "values": [
+            "703",
+            "703"
+          ]
+        },
+        {
+          "label": "원소 충전 효율",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104144,
+        "id": "vajrada_amethyst_gemstone",
+        "name": "승리의 자수정",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "키메라의 꽁지깃",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "복슬풀",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "키메라의 다중 코어",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104368,
+          "id": "teachings_of_fortitude",
+          "name": "「인내」의 가르침",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "키메라의 기초 코어",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "「인내」의 인도",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "키메라의 이중 코어",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "「인내」의 인도",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "키메라의 이중 코어",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "「인내」의 인도",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "키메라의 이중 코어",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "「인내」의 인도",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "키메라의 이중 코어",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "「인내」의 철학",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "키메라의 다중 코어",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "이단의 물약",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "「인내」의 철학",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "키메라의 다중 코어",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "이단의 물약",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "「인내」의 철학",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "키메라의 다중 코어",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "이단의 물약",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "「인내」의 철학",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "키메라의 다중 코어",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "이단의 물약",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "지식의 왕관",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 214800,
+      "name": "설원 사냥꾼",
+      "description": "알료샤의 코스튬. 튼튼한 사냥복에는 두툼한 안감과 털장식이 달린 모자가 있어, 알료샤가 원하는 사냥감을 잡을 때까지 눈밭에서 오랜 시간 잠복할 수 있게 해준다. 모자가 강아지 얼굴 모양인 이유는 귀엽고, 투가린도 무척 좋아하기 때문이다",
+      "isDefault": true,
+      "characterName": "알료샤",
+      "characterId": 10000148,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Alyosha_Circle"
+    }
+  ]
+}

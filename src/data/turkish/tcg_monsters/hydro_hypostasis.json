@@ -1,0 +1,88 @@
+{
+  "_id": 4214,
+  "id": "hydro_hypostasis",
+  "shareId": 4214,
+  "name": "Su Hipostazı",
+  "desc": "",
+  "attributes": {
+    "hp": 40,
+    "card_type": "Karakter Kartı",
+    "energy": 2,
+    "element": "Su",
+    "weapon": "Diğer Silahlar",
+    "faction": [
+      "Canavar"
+    ]
+  },
+  "skills": [
+    {
+      "id": "droplet_diffusion",
+      "name": "Damlacık Yayılımı",
+      "desc": "1 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Su",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Nötr Element",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "surging_tides",
+      "name": "Yükselen Dalgalar",
+      "desc": "2 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir. Ardından <span style=\"color:#FFFFFFFF\">Taşkın</span> için \"<span style=\"color:#FFFFFFFF\">Beceri Hazırlama</span>\" kullanır.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Su",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "calamitous_tides",
+      "name": "Felaket Dalgaları",
+      "desc": "3 <span style=\"color:#80C0FFFF\">Su Hasarı</span> verir ve <span style=\"color:#FFFFFFFF\">Su Damlacığı</span> çağırır.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
+      "points": [
+        {
+          "_id": 1102,
+          "id": "hydro",
+          "type": "Su",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Enerji",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "hydro_crystal_core",
+      "name": "Su Kristali Çekirdeği",
+      "desc": "(Pasif) Savaş başladığında bu karakter <span style=\"color:#FFFFFFFF\">Su Kristali Çekirdeği</span> ekli olarak başlar. <span style=\"color:#FFFFFFFF\">Su Kristali Çekirdeği</span> tüketildiğinde alanda <span style=\"color:#FFFFFFFF\">Su Damlacığı</span> varsa <span style=\"color:#FFFFFFFF\">Su Kristali Çekirdeği</span> yeniden eklenir ve <span style=\"color:#FFFFFFFF\">Su Damlacığı</span> için Kullanım Hakkı 1 azalır.",
+      "skillTag": [
+        "Pasif Beceri"
+      ],
+      "points": []
+    }
+  ]
+}

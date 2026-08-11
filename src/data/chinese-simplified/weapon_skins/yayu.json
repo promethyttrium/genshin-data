@@ -1,0 +1,21 @@
+{
+  "_id": 350003,
+  "id": "yayu",
+  "name": "猰貐",
+  "description": "自地脉至深之处显现的辉耀兵刃幻形，能依据持有者的元素类型变化自身。据说在如今早已无法追忆的古老时代，高天的御使曾将这柄长弓赐予琅玕的主祭，允其引领新诞的文明。",
+  "rarity": 4,
+  "type": {
+    "id": "Bow",
+    "name": "弓"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "辉耀幻形·永恒",
+    "priority": 2
+  },
+  "item_id": 341503,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Bow_MorphYayu_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Bow_MorphYayu"
+}

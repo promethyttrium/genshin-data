@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Mature",
   "description": "La forma adulta di un maschio di Ippocampo gorgogliante. Una creatura estremamente aggressiva.\\nAlcune persone affermano anche di aver incontrato il re degli ippocampi. Si dice che sia un essere orgoglioso con quattro lunghi arti.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

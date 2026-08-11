@@ -13,7 +13,6 @@
   "categoryText": "Hilichurls",
   "filename_icon": "UI_MonsterIcon_Hilistray_Water",
   "description": "Un Hilichurl errante que no pertenece a ninguna tribu y que deambula por el mundo como si se hubiera autoexiliado.\\nGuiado por el destino, ayuda a otros Hilichurls o asentamientos de Hilichurls que están en apuros y, tras hacerlo, prosigue con su viaje. Comparado con otros de su misma especie, este parece tener una mayor inteligencia.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

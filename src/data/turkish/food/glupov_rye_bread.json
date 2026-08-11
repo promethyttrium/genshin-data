@@ -1,0 +1,48 @@
+{
+  "_id": 2702,
+  "id": "glupov_rye_bread",
+  "name": "Glupov Çavdar Ekmeği",
+  "description": "Dolgun ve doyurucu bir somun ekmek. Hamur, uzun ve soğuk bir fermantasyondan geçmelidir. Pişirildiğinde sert bir kabuk ve sıkı, ince dokulu bir iç oluşturur. Hazır olduktan sonra ekmek uzun süre dayanır, bu da onu Snezhnaya'nın gezgin tüccarları, askerleri ve avcıları arasında yaygın bir erzak haline getirir.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 110016,
+      "id": "rye_flour",
+      "name": "Çavdar Unu",
+      "amount": 2
+    },
+    {
+      "_id": 100075,
+      "id": "salt",
+      "name": "Tuz",
+      "amount": 1
+    },
+    {
+      "_id": 110006,
+      "id": "sugar",
+      "name": "Şeker",
+      "amount": 1
+    }
+  ],
+  "dish_type": "İyileştirici Yemek",
+  "results": {
+    "suspicious": {
+      "_id": 132004,
+      "name": "Glupov Çavdar Ekmeği (Tuhaf)",
+      "description": "Dolgun ve doyurucu bir somun ekmek. O kadar ağır ki insan mayalanma aşamasının tamamen atlanıp atlanmadığını merak etmeden edemiyor. Çorbaya batırmak bile somunu zerre kadar yumuşatmıyor... Yoksa bu gerçekten de bir savaşçının kararlılığını pekiştirmek için tasarlanmış bir eğitim aracı olabilir mi?",
+      "effect": "Seçili karakterin Maks. Canını %18 yeniler ve 30 saniye boyunca 5 saniyede bir 300 Can verir."
+    },
+    "normal": {
+      "_id": 132005,
+      "name": "Glupov Çavdar Ekmeği",
+      "description": "Dolgun ve doyurucu bir somun ekmek. Hamur, uzun ve soğuk bir fermantasyondan geçmelidir. Pişirildiğinde sert bir kabuk ve sıkı, ince dokulu bir iç oluşturur. Hazır olduktan sonra ekmek uzun süre dayanır, bu da onu Snezhnaya'nın gezgin tüccarları, askerleri ve avcıları arasında yaygın bir erzak haline getirir.",
+      "effect": "Seçili karakterin Maks. Canını %20 yeniler ve 30 saniye boyunca 5 saniyede bir 390 Can verir."
+    },
+    "delicious": {
+      "_id": 132006,
+      "name": "Glupov Çavdar Ekmeği (Lezzetli)",
+      "description": "Dolgun ve doyurucu bir somun ekmek. Tek bir ısırık beraberinde dengeli, hafif bir mayhoşluk getiriyor ve bunu çavdarın eşsiz rustik ve tahılsı aroması takip ediyor. Her ısırığı inanılmaz derecede tatmin edici kılan ağır bir zenginlik taşıyor; donmuş toprağın altına gömülü canlı bir yaşam kıvılcımı misali, boğazının gerisinde bıraktığı kalıcı bir tatlılıkla doruğa ulaşıyor.",
+      "effect": "Seçili karakterin Maks. Canını %22 yeniler ve 30 saniye boyunca 5 saniyede bir 470 Can verir."
+    }
+  }
+}

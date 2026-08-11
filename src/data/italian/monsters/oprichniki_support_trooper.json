@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan",
   "description": "Un soldato Fatuus degli Oprichniki, equipaggiato con un pesante scudo, a cui è affidato l'incarico di difendere i suoi compagni in prima linea.\\nIn molti comprendono che, nella lunga guerra tra Snezhnaya e la calamità oscura, soltanto lo schieramento che mostra la risolutezza maggiore può sopraffare l'avversario e ottenere la vittoria. E la suprema risolutezza degli Oprichniki è senza dubbio dimostrata dallo scudo che supporta le proprie truppe: finché esso non cederà, ci sarà sempre una speranza di vittoria.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

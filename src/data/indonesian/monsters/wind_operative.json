@@ -64,19 +64,19 @@
       "_id": 112094,
       "id": "operatives_constancy",
       "name": "Operative's Constancy",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112093,
       "id": "operatives_standard_pocket_watch",
       "name": "Operative's Standard Pocket Watch",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112092,
       "id": "old_operatives_pocket_watch",
       "name": "Old Operative's Pocket Watch",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -127,7 +127,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Escadron_Wind",
   "description": "Agen elit di kalangan Fatui.\\n\"Detektif\" tidak memiliki pangkat militer yang umum di kalangan Fatui. Berdasarkan perintah dan misi, mereka dapat bekerja sama dengan tentara lain, bekerja sendiri, atau bersama-sama dengan \"pion\" yang tersembunyi dan tersebar di seluruh dunia. Mereka memata-matai, melakukan kontra-spionase, melindungi, membunuh, dan melakukan tugas-tugas lainnya. Supaya mampu menjalankan misi-misi khususnya dengan lebih efektif, \"detektif\" juga perlu menguasai berbagai jenis keterampilan pendukung, bahkan berbagai seni dan bakat.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

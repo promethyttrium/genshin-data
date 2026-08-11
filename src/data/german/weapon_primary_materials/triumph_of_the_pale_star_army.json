@@ -1,0 +1,29 @@
+{
+  "_id": 114088,
+  "id": "triumph_of_the_pale_star_army",
+  "name": "Triumph der Armee des Bleichsterns",
+  "description": "„Schutzherr aller Feen, Erbe des azurblauen Sterns, unser Herrscher, geboren aus heiligem Blut – Zar Belyi!“<br/>„Lobpreiset ihn! Denn nun ist die gesamte Eiswüste unter dem Glanz des Polarsterns zu einem Ganzen vereint.“<br/>„Lobpreiset ihn! Der Herrscher, der den falschen König erschlug, nahm alle Feen bei sich auf – welch Güte und Barmherzigkeit!“",
+  "source": [
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114087,
+        "id": "clarion_of_the_pale_star_army",
+        "name": "Fanfare der Armee des Bleichsterns",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Sphäre der Kriegskunst – Narben einer verfluchten Besessenheit",
+  "days": [
+    "Montag",
+    "Donnerstag",
+    "Sonntag"
+  ]
+}

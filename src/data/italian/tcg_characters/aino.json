@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Claymore",
     "faction": [
-      null
+      "Nod-Krai"
     ],
     "source": "Ricompensa ottenuta sfidando Aino a duello alla Coda di Gatto e battendola in un duello amichevole"
   },
@@ -18,8 +20,10 @@
     {
       "id": "bishbashbosh_repair",
       "name": "Riparazione Bink-Bank-Bonk",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -38,8 +42,10 @@
     {
       "id": "musecatcher",
       "name": "Catturaidee",
-      "desc": "Infligge ? ? e viene creato 1 accumulo di <span style=\"color:#FFFFFFFF\">Cambio rapido</span>. Se hai una carta con <span style=\"color:#FFFFFFFF\">rafforzamento</span> nella tua mano, infligge invece $[D__KEY__DAMAGE_1] ?.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#80C0FFFF\">DAN da Hydro</span> e viene creato 1 accumulo di <span style=\"color:#FFFFFFFF\">Cambio rapido</span>. Se hai una carta con <span style=\"color:#FFFFFFFF\">rafforzamento</span> nella tua mano, infligge invece $[D__KEY__DAMAGE_1] <span style=\"color:#80C0FFFF\">DAN da Hydro</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -52,8 +58,10 @@
     {
       "id": "precision_hydronic_cooler",
       "name": "Raffreddatore idronico di precisione",
-      "desc": "Infligge ? ? ed evoca <span style=\"color:#FFFFFFFF\">Papera-calma-bollenti-spiriti</span>.",
-      "skillTag": [],
+      "desc": "Infligge 2 <span style=\"color:#80C0FFFF\">DAN da Hydro</span> ed evoca <span style=\"color:#FFFFFFFF\">Papera-calma-bollenti-spiriti</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -73,7 +81,9 @@
       "id": "modular_efficiency_protocol",
       "name": "Protocollo di efficienza modulare",
       "desc": "<span style=\"color:#FFFFFFFF\">Quando <span style=\"color:#FFFFFFFF\">rafforzamento</span> è associato alla tua carta:</span> se è presente una <span style=\"color:#FFFFFFFF\">Papera-calma-bollenti-spiriti</span> sul tuo lato del campo, ottiene 1 Utilizzo. In caso contrario, questo personaggio ottiene 1 punto <span style=\"color:#FFFFFFFF\">Energia</span> (una volta per turno).",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

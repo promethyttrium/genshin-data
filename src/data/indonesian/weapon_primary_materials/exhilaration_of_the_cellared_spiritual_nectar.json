@@ -1,0 +1,29 @@
+{
+  "_id": 114091,
+  "id": "exhilaration_of_the_cellared_spiritual_nectar",
+  "name": "Exhilaration of the Cellared Spiritual Nectar",
+  "description": "Konon, tak terhitung banyaknya nektar yang pernah dituangkan ke sebuah danau beku.<br/>Kabar beredar bahwa perbekalan perang berupa minuman itu rusak sehingga harus dimusnahkan, atau seorang Grand Duke Domovoy kalah taruhan melawan penguasa Imp Air.<br/>Hingga nyala api biru yang tak bisa dipadamkan berkobar di permukaan danau, dan musuh di bawah air bergelombang dalam ombak yang mencekik.<br/>Barulah mereka sadar bahwa di tangan kaum yang mahir membaca perubahan dunia, air pun bisa menjadi api, dan obat mujarab bisa menjadi racun yang mematikan.",
+  "source": [
+    "Placeholder - Jumlah yang Bisa Di-Craft: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114090,
+        "id": "intoxication_of_the_cellared_spiritual_nectar",
+        "name": "Intoxication of the Cellared Spiritual Nectar",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domain of Forgery: Scars of Cursed Obsession",
+  "days": [
+    "Selasa",
+    "Jumat",
+    "Minggu"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "_id": 215048,
+  "id": "heart_of_the_furnace",
+  "name": "Trái Tim Lửa Nung",
+  "min_rarity": 4,
+  "max_rarity": 5,
+  "two_pc": "Tấn Công tăng 18%.",
+  "four_pc": "Trong 12s sau khi người trang bị kích hoạt phản ứng Tinh Tú Lấp Lánh hoặc gây sát thương Tinh Tú Lấp Lánh, Tấn Công tăng 12%, tất cả nhân vật trong đội ở gần tăng 50% sát thương phản ứng Tinh Tú Lấp Lánh. Người trang bị khi không ra trận cũng có thể kích hoạt hiệu quả nêu trên. Hiệu quả tăng sát thương sản sinh từ bộ Thánh Di Vật cùng tên sẽ không thể cộng dồn.",
+  "goblet": {
+    "_id": 48412,
+    "id": "foundrymans_magnanimity",
+    "name": "Độ Lượng Của Kẻ Rèn Đúc",
+    "description": "Anh hiểu rằng tình bạn vốn ngắn ngủi, chẳng giống như ngọn lửa nơi lõi lò, chỉ cần cung cấp nguyên liệu là có thể cháy mãi không tắt."
+  },
+  "plume": {
+    "_id": 48422,
+    "id": "foundrymans_observation",
+    "name": "Quan Sát Của Kẻ Rèn Đúc",
+    "description": "Anh biết sự biến chuyển của thế sự không như màu sắc lõi lò, có thể nhìn thấu kết quả thông qua việc quan sát."
+  },
+  "circlet": {
+    "_id": 48432,
+    "id": "foundrymans_legacy",
+    "name": "Ý Chí Của Kẻ Rèn Đúc",
+    "description": "Anh biết rằng sự kiên định của ước mơ không giống như ánh sáng nơi lõi lò, chẳng thể như ngọn đuốc truyền đến tay người kế thừa."
+  },
+  "flower": {
+    "_id": 48442,
+    "id": "foundrymans_conjecture",
+    "name": "Phỏng Đoán Của Kẻ Rèn Đúc",
+    "description": "Anh hiểu sự nóng lạnh của lòng người không giống như nhiệt độ lõi lò, có thể thấy rõ sự thay đổi thông qua việc đo lường."
+  },
+  "sands": {
+    "_id": 48452,
+    "id": "foundrymans_calculus",
+    "name": "Suy Tính Của Kẻ Rèn Đúc",
+    "description": "Anh hiểu rõ sự vận hành của quyền thế không giống như năng lượng lõi lò, có thể thông qua công tắc để kiểm soát sự tuôn trào."
+  }
+}

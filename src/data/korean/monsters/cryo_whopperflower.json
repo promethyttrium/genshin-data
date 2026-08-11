@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "돌연변이 마수",
   "filename_icon": "UI_MonsterIcon_Mimik_Ice",
   "description": "식물 형태로 위장한 장난기 많고 영리한 마물. 얼음 원소를 이용해 전투한다.\\n땅속에 모습을 숨기다가 아무것도 모르는 사냥감을 덮친다. 충분한 시간, 양분, 환경이 충족된다면 어딘가에 뿌리를 내려 얼음 나무로 자랄 수 있을지도 모른다…",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

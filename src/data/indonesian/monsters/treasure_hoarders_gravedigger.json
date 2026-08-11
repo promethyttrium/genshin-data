@@ -59,22 +59,21 @@
       "_id": 112036,
       "id": "silver_raven_insignia",
       "name": "Silver Raven Insignia",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112035,
       "id": "treasure_hoarder_insignia",
       "name": "Treasure Hoarder Insignia",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_02",
   "description": "Seorang anggota organisasi kriminal tersebar yang menancapkan jejaknya di seluruh daratan dan bahkan jauh ke dalam domain yang tidak diketahui.\\n<i>\"Mereka mengatakan bahwa kita berdiri di atas pundak raksasa. Itu berarti menggali kekayaan yang dikumpulkan oleh leluhur kita, membawa harta itu bersama kita, dan... eh, maksudku kita bawa mereka kembali ke dalam roda ekonomi! Sungguh mulia bukan... usaha kita?\"</i>\\n—Ucap seorang Treasure Hoarder Gravedigger, sambil menggali jauh ke dalam reruntuhan.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

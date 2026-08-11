@@ -36,7 +36,7 @@
       "_id": 113044,
       "id": "pseudostamens",
       "name": "Sahte Tomurcuklar",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104154,
@@ -119,7 +119,6 @@
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Sandworm",
   "description": "Çölün derinliklerinden gelen ve gözleri olmayan bir yırtıcı, avını bulmak için sesleri ve titreşimleri kullanır.\\nEfsaneye göre zaman kavramının henüz başlamadığı eski çağlarda, bu hayvanların ataları ve yavruları, yemyeşil çimler ve devasa ağaçlarla dolu bir bölgede yaşam sürüyorlarmış ve balıkların suda akıp gittiği gibi ıslak topraklardan geçebiliyorlarmış.\\nÇok uzun zaman sonra, gökten gelen hediyeler toprakları kuma dönüştürerek birçok türün soyunun tükenmesine neden olmuş. Bu tür, yeryüzündeki yaşama daha fazla uyum sağlayarak hayatta kalmayı başardı ve \"Solucan\" olarak bilindi.\\nBazı çöl sakinleri, büyük ihtimalle türlerin davranışları arasındaki yüzeysel benzerlikler nedeniyle, Solucanların bir nevi bataklık yılan balığı yaşam döngüsünün son ürünü olduğuna inanıyor.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

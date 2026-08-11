@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "元素生命",
   "filename_icon": "UI_MonsterIcon_Slime_Fire_03",
   "description": "逸散在自然之中的火元素沉積形成的魔物。\\n雖然智力並沒有隨著體型的成長而提高，但真的很熱。在乾燥的季節，可能會引發野火。憤怒的時候會噴吐熾熱的火球，情緒低落的時候會變暗，是表達能力很強的史萊姆。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

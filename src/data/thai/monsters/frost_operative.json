@@ -64,19 +64,19 @@
       "_id": 112094,
       "id": "operatives_constancy",
       "name": "Operative's Constancy",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112093,
       "id": "operatives_standard_pocket_watch",
       "name": "Operative's Standard Pocket Watch",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112092,
       "id": "old_operatives_pocket_watch",
       "name": "Old Operative's Pocket Watch",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -127,7 +127,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Escadron_Ice",
   "description": "สายลับชั้นยอดของ Fatui\\nผู้ที่ได้รับการคัดเลือกตั้งแต่ยังเด็ก หลังจากได้รับการศึกษาและการฝึกฝนเป็นเวลาหลายปี และผ่านการคัดเลือกมากมาย จึงจะกลายเป็น \"เจ้าหน้าที่\" ได้ พวกเขาเป็นทหารที่เก่งกาจที่สุดในหมู่ Fatui ซึ่งเปี่ยมด้วยทักษะที่ยอดเยี่ยมและความภักดีที่แน่วแน่",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

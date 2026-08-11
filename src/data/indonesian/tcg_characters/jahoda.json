@@ -1,0 +1,90 @@
+{
+  "_id": 1516,
+  "id": "jahoda",
+  "shareId": 609,
+  "name": "Jahoda",
+  "title": "\"Windthreading Shadow\" Jahoda",
+  "desc": "Seribu renungan mampu menyingkap bahkan rahasia terdalam.",
+  "attributes": {
+    "hp": 10,
+    "card_type": "Kartu Karakter",
+    "energy": 2,
+    "element": "Anemo",
+    "weapon": "Bow",
+    "faction": [
+      "Nod-Krai"
+    ],
+    "source": "Didapatkan setelah mengundang Jahoda ke Cat's Tail dan menang dalam Pertandingan Persahabatan melawannya"
+  },
+  "skills": [
+    {
+      "id": "strike_while_the_arrows_hot",
+      "name": "Strike While the Arrow's Hot",
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anemo",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Elemen Tidak Selaras",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "savvy_strategy_splitting_the_spoils",
+      "name": "Savvy Strategy: Splitting the Spoils",
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#80FFD7FF\">Anemo DMG</span>, menciptakan 1 lapis <span style=\"color:#FFFFFFFF\">Agile Switch</span>, dan bertukar ke Karaktermu berikutnya. Jika di Tangan tidak terdapat <span style=\"color:#FFFFFFFF\">Purr-loined Treasure Flask</span> elemen apa pun, maka menciptakan <span style=\"color:#FFFFFFFF\">Purr-loined Treasure Flask</span> di Tanganmu. Sebaliknya, memberikan <span style=\"color:#FFFFFFFF\">Pengurangan Biaya</span> kepada semua <span style=\"color:#FFFFFFFF\">Purr-loined Treasure Flask</span> di Tangan.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anemo",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "hidden_aces_seven_tools_of_the_hunter",
+      "name": "Hidden Aces: Seven Tools of the Hunter",
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#80FFD7FF\">Anemo DMG</span> dan menciptakan <span style=\"color:#FFFFFFFF\">Purrsonal Coordinated Assistance Robot</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anemo",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Energy",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "moonsign_benediction_rooftop_dash",
+      "name": "Moonsign Benediction: Rooftop Dash",
+      "desc": "(Pasif) Saat pertandingan dimulai, menciptakan kartu <span style=\"color:#FFFFFFFF\">Purr-loined Treasure Flask</span> di Tangan. Setelah kamu memicu reaksi Lunar atau reaksi Swirl, memberikan <span style=\"color:#FFFFFFFF\">Pengurangan Biaya</span> ke semua kartu <span style=\"color:#FFFFFFFF\">Purr-loined Treasure Flask</span> di Tanganmu. (2 kali setiap Ronde)",
+      "skillTag": [
+        "Passive Skill"
+      ],
+      "points": []
+    }
+  ]
+}

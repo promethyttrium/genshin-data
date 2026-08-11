@@ -369,7 +369,7 @@
     {
       "id": "catalyst_conversion",
       "name": "Katalizör Dönüşümü",
-      "description": "Sucrose bir Girdap tepkimesi tetiklediğinde 8 saniyeliğine gruptaki aynı elemente sahip tüm karakterlerin (Sucrose hariç) Element Ustalığı 50 artar.",
+      "description": "Sucrose bir Girdap veya Yıldız Girdabı tepkimesi tetiklediğinde 8 saniyeliğine gruptaki aynı elemente sahip tüm karakterlerin (Sucrose hariç) Element Ustalığı 50 artar.",
       "level": 1
     },
     {

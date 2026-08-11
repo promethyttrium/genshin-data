@@ -15,14 +15,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurls",
   "filename_icon": "UI_MonsterIcon_Shaman_Ice_01",
   "description": "Un Hilichurl anciano que utiliza el elemento Cryo y siempre está mascullando entre dientes.\\nLa capacidad de los Hilichurls para controlar los elementos suele alcanzar su punto máximo en la vejez. Este chamán conoce en profundidad los secretos del hielo y es experto en usarlos contra sus oponentes.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

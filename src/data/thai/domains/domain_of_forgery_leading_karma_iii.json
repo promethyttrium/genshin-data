@@ -17,6 +17,11 @@
     "ไม้",
     "ไฟฟ้า"
   ],
+  "daysOfWeek": [
+    "วันพุธ",
+    "วันเสาร์",
+    "วันอาทิตย์"
+  ],
   "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
   "domainText": "Weapon Ascension Materials",
   "rewardPreview": [

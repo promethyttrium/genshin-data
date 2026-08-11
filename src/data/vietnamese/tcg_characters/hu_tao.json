@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Thẻ Nhân Vật",
     "energy": 3,
+    "element": "Nguyên Tố Hỏa",
+    "weapon": "Vũ Khí Cán Dài",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3848,
@@ -29,8 +31,10 @@
     {
       "id": "secret_spear_of_wangsheng",
       "name": "Thương Pháp Bí Truyền Vãng Sinh",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,7 +54,9 @@
       "id": "guide_to_afterlife",
       "name": "Điệp Dẫn Lai Sinh",
       "desc": "Nhân vật áp dụng <span style=\"color:#FFFFFFFF\">Bỉ Ngạn Điệp Vũ</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "spirit_soother",
       "name": "An Thần Bí Pháp",
-      "desc": "Gây ? điểm ?, chữa trị 2 điểm cho bản thân. Nếu nhân vật này HP không quá 6, thì sát thương và chữa trị gây ra đều sẽ +1.",
-      "skillTag": [],
+      "desc": "Gây 4 điểm <span style=\"color:#FF9999FF\">Sát Thương Nguyên Tố Hỏa</span>, chữa trị 2 điểm cho bản thân. Nếu nhân vật này HP không quá 6, thì sát thương và chữa trị gây ra đều sẽ +1.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1103,

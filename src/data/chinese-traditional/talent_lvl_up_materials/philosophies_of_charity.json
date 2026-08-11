@@ -1,0 +1,30 @@
+{
+  "_id": 104367,
+  "id": "philosophies_of_charity",
+  "name": "「慈愛」的哲學",
+  "description": "天賦培養素材。\\n「慈愛」是冰之國土的救贖。\\n慈愛是對眾生的關照，它消弭高低與貴賤，跨越血脈與國別。慈愛的目光往往注視著所有人，它施與不幸者以護佑，並應許眾人以永恆的解放。",
+  "source": [
+    "可合成數量：{0}"
+  ],
+  "location": "至冬",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104366,
+        "id": "guide_to_charity",
+        "name": "「慈愛」的指引",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "精通秘境：默想 IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "週一",
+    "週四",
+    "週日"
+  ]
+}

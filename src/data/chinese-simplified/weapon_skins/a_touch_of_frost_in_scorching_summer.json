@@ -1,0 +1,16 @@
+{
+  "_id": 380003,
+  "id": "a_touch_of_frost_in_scorching_summer",
+  "name": "炎夏轻霜！",
+  "description": "霜精们送给好朋友的小小礼物！虽然看上去很美味，好像还是莓莓果酱味的，咬一口下去，沁人心脾的凉意与美妙的甜蜜一定会在舌尖携手起舞，但其实并不能真的食用…虽然看上去真的很美味。",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "单手剑"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341803,
+  "icon_path": "UI_EquipIcon_Sword_Icecream",
+  "image_path": "UI_Gacha_EquipIcon_Sword_Icecream"
+}

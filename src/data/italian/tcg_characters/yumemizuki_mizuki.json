@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Catalizzatore",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 8500,
@@ -29,8 +31,10 @@
     {
       "id": "pure_heart_pure_dreams",
       "name": "Cuore puro, sogni puri",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 1 <span style=\"color:#80FFD7FF\">DAN da Anemo</span>.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "aisa_utamakura_pilgrimage",
       "name": "Pellegrinaggio di Aisa Utamakura",
-      "desc": "Infligge ? ?. Associa <span style=\"color:#FFFFFFFF\">Girasogni</span> a sé stessa.",
-      "skillTag": [],
+      "desc": "Infligge 2 <span style=\"color:#80FFD7FF\">DAN da Anemo</span>. Associa <span style=\"color:#FFFFFFFF\">Girasogni</span> a sé stessa.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "anraku_secret_spring_therapy",
       "name": "Terapia della sorgente segreta di Anraku",
-      "desc": "Infligge ? ?, crea 1 carta <span style=\"color:#FFFFFFFF\">Spuntini speciali in stile Yumemi</span> e la posiziona in cima al tuo mazzo, invoca 1 <span style=\"color:#FFFFFFFF\">Mini baku</span>.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#80FFD7FF\">DAN da Anemo</span>, crea 1 carta <span style=\"color:#FFFFFFFF\">Spuntini speciali in stile Yumemi</span> e la posiziona in cima al tuo mazzo, invoca 1 <span style=\"color:#FFFFFFFF\">Mini baku</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1105,

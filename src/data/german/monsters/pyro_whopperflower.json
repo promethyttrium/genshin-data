@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Mimik_Fire",
   "description": "Eine nachahmende Pflanze, die urplötzlich angreift und mit der Pyro-Kraft ihre Beute fängt.\\nIn der Welt von Teyvat existieren Pflanzen, denen die Elemente innewohnen. Mit dem gewonnenen Intellekt benötigen diese Wesen aber auch ganz andere Nährstoffe.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Elementare Lebensformen",
   "filename_icon": "UI_MonsterIcon_Sylph_Electric_01",
   "description": "Hohe Elektro-Elementarkonzentrationen haben zur Erschaffung dieser schwebenden Kreatur geführt.\\nEinst hatte ein Gelehrter diese Monster erforscht. Er war der Überzeugung, dass Gespenster auch eine Art Hypostase seien, weil die Hypostasen auch Elementareigenschaften besitzen und ebenfalls wie Gespenster in Gebieten mit hoher Elementarkonzentrationen auftauchen. Aber später geriet dieser Gelehrte in einen sensationellen akademischen Skandal.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

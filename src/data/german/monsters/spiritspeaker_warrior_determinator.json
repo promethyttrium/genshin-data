@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Human_Female_Sword_Shamansaurus",
   "description": "Ein Krieger des Nachtwinds, ein Stammeswächter, der durch den wabernden Dunst der Schluchten patrouilliert.\\nEr ist in der Lage, die Kraft seiner Körperbemalung zu kanalisieren und so die Waffe in seiner Hand bis zu einem gewissen Grad mit seinem Geist zu beherrschen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

@@ -157,7 +157,6 @@
   "categoryText": "Musuh Kuat",
   "filename_icon": "UI_MonsterIcon_Nihil",
   "description": "The Knave, Harbinger ke-4 dari Fatui Harbinger",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

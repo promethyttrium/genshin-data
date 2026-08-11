@@ -55,6 +55,11 @@
       "name": "Lohikeitto"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borschtsch"
+    },
+    {
       "_id": 3007,
       "id": "mondstadt_hash_brown",
       "name": "Kartoffelpuffer nach Mondstadt-Art"
@@ -135,6 +140,11 @@
       "name": "Pinnekjøtt"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoje im Tontopf"
+    },
+    {
       "_id": 4402,
       "id": "haggis",
       "name": "Haggis"
@@ -142,6 +152,5 @@
   ],
   "source": [
     "In Gemischtwarenläden zu erstehen"
-  ],
-  "rarity": 0
+  ]
 }

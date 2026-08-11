@@ -103,6 +103,11 @@
       "name": "浆果煎肉"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "红菜汤"
+    },
+    {
       "_id": 3004,
       "id": "sticky_honey_roast",
       "name": "蜜酱胡萝卜煎肉"
@@ -248,6 +253,16 @@
       "name": "桦木蒸肋排"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "罐罐焖肉"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "至冬烤串"
+    },
+    {
       "_id": 4001,
       "id": "moon_pie",
       "name": "月亮派"
@@ -307,6 +322,5 @@
   ],
   "source": [
     "动物掉落"
-  ],
-  "rarity": 0
+  ]
 }

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Phong",
+    "weapon": "Pháp Khí",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 8274,
@@ -29,8 +31,10 @@
     {
       "id": "black_pheasant_strides_on_water",
       "name": "Huyền Loan Họa Thủy",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm <span style=\"color:#80FFD7FF\">Sát Thương Nguyên Tố Phong</span>.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "swallowwisp_pinion_dance",
       "name": "Vũ Điệu Phượng Hoàng",
-      "desc": "Sinh ra 2 tầng <span style=\"color:#FFFFFFFF\">Khiên Phượng Hoàng</span>, nhận 1 tầng <span style=\"color:#FFFFFFFF\">Chuyển Đổi Hiệu Quả</span> và gây ? điểm ?. Nếu kỹ năng này kích hoạt Khuếch Tán, sẽ sinh ra thêm 1 tầng <span style=\"color:#FFFFFFFF\">Khiên Phượng Hoàng</span>.",
-      "skillTag": [],
+      "desc": "Sinh ra 2 tầng <span style=\"color:#FFFFFFFF\">Khiên Phượng Hoàng</span>, nhận 1 tầng <span style=\"color:#FFFFFFFF\">Chuyển Đổi Hiệu Quả</span> và gây 1 điểm <span style=\"color:#80FFD7FF\">Sát Thương Nguyên Tố Phong</span>. Nếu kỹ năng này kích hoạt Khuếch Tán, sẽ sinh ra thêm 1 tầng <span style=\"color:#FFFFFFFF\">Khiên Phượng Hoàng</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "lustrous_moonrise",
       "name": "Dây Đàn Đạp Trăng",
-      "desc": "Gây ? điểm ?, sinh ra 2 tầng <span style=\"color:#FFFFFFFF\">Khiên Phượng Hoàng</span>.",
-      "skillTag": [],
+      "desc": "Gây 3 điểm <span style=\"color:#80FFD7FF\">Sát Thương Nguyên Tố Phong</span>, sinh ra 2 tầng <span style=\"color:#FFFFFFFF\">Khiên Phượng Hoàng</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1105,

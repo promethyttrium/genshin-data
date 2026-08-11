@@ -90,6 +90,11 @@
       "name": "Xocoatl"
     },
     {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Helado de grosella escarchada"
+    },
+    {
       "_id": 3905,
       "id": "bubblemilk_pie",
       "name": "Pastel con perlas de leche"
@@ -119,6 +124,5 @@
   ],
   "source": [
     "Comprado en tiendas"
-  ],
-  "rarity": 0
+  ]
 }

@@ -1,0 +1,24 @@
+{
+  "_id": 112157,
+  "id": "coiled_core_of_life",
+  "name": "Sarmal Yaşam Çekirdeği",
+  "description": "Tamamen şekillenmiş bir kristal çekirdeğe sahip. İçinde kolay kolay solmayacak bir canlılık barındırıyor. Toprağa gömülürse çok geçmeden büyüyerek yeni bir Leshiye dönüşmesi oldukça muhtemel.",
+  "source": [
+    "Sv. 60 ve üzeri Vahşi Orman Leshilerinden düşer.",
+    "Yıldız Tozu Takası: Takas sonrası üretilir.",
+    "Yer Tutucu - Üretilebilir Miktar: {0}"
+  ],
+  "rarity": 4,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 112156,
+        "id": "sprout_node_of_life",
+        "name": "Filizlenmiş Yaşam Düğümü",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

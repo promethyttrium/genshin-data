@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Element Yaşam Formları",
   "filename_icon": "UI_MonsterIcon_Slime_Grass_03",
   "description": "Bulunduğu ortamdaki zengin Doğa elementinden ötürü ekolojik değişimler geçirmiş bir bodurlop.\\nKimileri bu bodurlopları, gerçek görünümünü gizleyip avlarını tuzağa düşüren Yalancı Çiçeklere benzetirken kimileri de bunların asalak bir bitki türünün konağı olduğunu düşünür. Bu açıdan bakınca kimi kültürler, bu bodurlopların şifa verdiğine de inanıyor olabilir mi?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

@@ -14,14 +14,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "ヒルチャール部族",
   "filename_icon": "UI_MonsterIcon_Shaman_Rock_01",
   "description": "ブツブツとよく独り言を言う年老いたヒルチャール、岩元素の詠唱者。\\n元素コントロールに長けるヒルチャールは、年を取ると力がピークに達する傾向がある。千古の盤石と比較すると、最年長のヒルチャールでも子供でしかないが、記憶と経験が岩元素を操る力を導き出した。",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

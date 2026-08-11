@@ -1,0 +1,16 @@
+{
+  "_id": 380001,
+  "id": "phantasmal_gift_star_omen",
+  "name": "Fantasia Ilusória: Sinais Estelares",
+  "description": "\"Em princípio, muitos fenômenos neste mundo podem ser chamados de 'imagens'. Portanto, a imagem que você vislumbrou na bola de cristal pode, de certa forma, ser considerada uma extensão da realidade física. Em resumo, mesmo se Alice e Nicole não reconhecerem, a legitimidade da Hidromancia ainda é bem real!\"",
+  "rarity": 4,
+  "type": {
+    "id": "Catalyst",
+    "name": "Catalisador"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341801,
+  "icon_path": "UI_EquipIcon_Catalyst_Kristall",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_Kristall"
+}

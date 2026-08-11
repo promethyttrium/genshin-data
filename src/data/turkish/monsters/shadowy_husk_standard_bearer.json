@@ -25,19 +25,19 @@
       "_id": 112019,
       "id": "deathly_statuette",
       "name": "Ölümcül Heykelcik",
-      "count": 0.4378
+      "count": 0.438
     },
     {
       "_id": 112018,
       "id": "dark_statuette",
       "name": "Kara Heykelcik",
-      "count": 1.7508
+      "count": 1.75
     },
     {
       "_id": 112017,
       "id": "gloomy_statuette",
       "name": "Kasvetli Heykelcik",
-      "count": 6.5658
+      "count": 6.565
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_ForlornVessel_Strong_Warbanner_Fire",
   "description": "Kapkaranlık bir asker. Bir zamanlar yer altında yaşayan eski bir ulusun gururlu bir savaşçısıymış. Şimdi tüm hafızasını kaybetmiş.\\nYine de kraliyet hanedanının sancağını yükseklere kaldırarak savaşa gidiyor. Yoldaşlarını ve kraliyetin ona bahşettiklerini unutsa da bu sancağı asla indirmeyecek.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

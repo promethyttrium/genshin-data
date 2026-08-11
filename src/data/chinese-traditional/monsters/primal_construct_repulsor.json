@@ -25,19 +25,19 @@
       "_id": 112073,
       "id": "radiant_prism",
       "name": "輝光稜晶",
-      "count": 0.1751
+      "count": 0.175
     },
     {
       "_id": 112072,
       "id": "turbid_prism",
       "name": "混濁稜晶",
-      "count": 0.7003
+      "count": 0.7
     },
     {
       "_id": 112071,
       "id": "damaged_prism",
       "name": "破缺稜晶",
-      "count": 2.6263
+      "count": 2.626
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "自律機關",
   "filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
   "description": "失落在荒漠中的古老遺蹟的守護者，其力量足以懲罰一切敢於驚擾君王清夢之人。\\n這些機械最初的用途並非是把守宮殿與神廟，而是要在沙海之上重現癡愚之王夢想中樂園。\\n如今「樂園」早已湮滅，只有蝕刻在這些機械上的咒文還記錄著那些已被世人忘卻的夢想與承諾。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

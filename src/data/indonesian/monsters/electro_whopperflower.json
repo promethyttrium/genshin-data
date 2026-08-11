@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Mimik_Electric",
   "description": "Monster tumbuhan mimetik berenergi tinggi yang menggunakan Electro untuk menyerang mangsanya.\\nSaat energi Electro-nya penuh, mereka bisa melancarkan arus listrik yang kuat dari mahkotanya. Karena karakteristik ini, beberapa peneliti berusaha memanfaatkan monster ini di bidang-bidang lainnya...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Scorpion_Sacred_Electric",
   "description": "Monster pemangsa yang sudah bermutasi karena telah melahap bentuk kehidupan yang sangat kuat.\\nBentuk kehidupan sudah diatur oleh hukum evolusi, Consecrated Beast mengeksploitasi aturan ini dengan dan menjadi lumayan beruntung karena bisa menemukan bangkai yang telah lama mati dari makhluk yang lebih besar sebelum pesaing mereka berhasil melakukannya. Hewan dan manusia seringkali memiliki lebih banyak kesamaan daripada yang ingin diakui oleh manusia sendiri.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

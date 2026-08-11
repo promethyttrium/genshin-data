@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Дендро",
+    "weapon": "Древковое",
     "faction": [
-      null
+      "Фонтейн"
     ],
     "talent_card": {
       "_id": 7583,
@@ -29,8 +31,10 @@
     {
       "id": "shadowhunting_spear_custom",
       "name": "Копьё охоты на тени",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -50,7 +54,9 @@
       "id": "fragrance_extraction",
       "name": "Извлечение ароматов",
       "desc": "Призывает помощника: <span style=\"color:#FFFFFFFF\">Шкатулка Люмидус первого уровня</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "aromatic_explication",
       "name": "Толкование ароматов",
-      "desc": "Наносит ?, ? ед. Призывает помощника: <span style=\"color:#FFFFFFFF\">Шкатулка Люмидус третьего уровня</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#7EC236FF\">Дендро урон</span>, 1 ед. Призывает помощника: <span style=\"color:#FFFFFFFF\">Шкатулка Люмидус третьего уровня</span>.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -84,7 +92,9 @@
       "id": "lingering_fragrance",
       "name": "Непреходящий аромат",
       "desc": "<color=#FFFFFFFF>Когда вы разыгрываете <span style=\"color:#FFFFFFFF\">Яркое пламя</span>:</color> после того как обе стороны применят навык, сработает 1 эффект конца раунда <span style=\"color:#FFFFFFFF\">Яркое пламя</span> (до 2 раз за раунд).",
-      "skillTag": [],
+      "skillTag": [
+        "Пассивный навык"
+      ],
       "points": []
     }
   ]

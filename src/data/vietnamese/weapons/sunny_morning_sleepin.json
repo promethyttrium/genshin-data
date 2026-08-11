@@ -10,7 +10,7 @@
   },
   "domain": "Sân Vườn Sunagare",
   "passive": "Phòng Tắm Hơi, Chim Ưng, và Narukami",
-  "bonus": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh Thông Nguyên Tố tăng <span>120/150/180/210/240</span> điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>96/120/144/168/192</span> điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>32/40/48/56/64</span> điểm.",
+  "bonus": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh-Khuếch Tán, Tinh Thông Nguyên Tố tăng <span>120/150/180/210/240</span> điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>96/120/144/168/192</span> điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>32/40/48/56/64</span> điểm.",
   "specialProp": "Tinh Thông Nguyên Tố",
   "stats": {
     "primary": "Tấn Công Căn Bản",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Phòng Tắm Hơi, Chim Ưng, và Narukami",
-    "template": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh Thông Nguyên Tố tăng <span style=\"color:#99FFFFFF\">{0}</span> điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span style=\"color:#99FFFFFF\">{1}</span> điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span style=\"color:#99FFFFFF\">{2}</span> điểm.",
+    "template": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh-Khuếch Tán, Tinh Thông Nguyên Tố tăng <span style=\"color:#99FFFFFF\">{0}</span> điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span style=\"color:#99FFFFFF\">{1}</span> điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span style=\"color:#99FFFFFF\">{2}</span> điểm.",
     "params": [
       [
         "120",
@@ -312,23 +311,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh Thông Nguyên Tố tăng <span>120</span> điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>96</span> điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>32</span> điểm."
+      "desc": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh-Khuếch Tán, Tinh Thông Nguyên Tố tăng <span>120</span> điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>96</span> điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>32</span> điểm."
     },
     {
       "refinement": 2,
-      "desc": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh Thông Nguyên Tố tăng <span>150</span> điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>120</span> điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>40</span> điểm."
+      "desc": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh-Khuếch Tán, Tinh Thông Nguyên Tố tăng <span>150</span> điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>120</span> điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>40</span> điểm."
     },
     {
       "refinement": 3,
-      "desc": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh Thông Nguyên Tố tăng <span>180</span> điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>144</span> điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>48</span> điểm."
+      "desc": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh-Khuếch Tán, Tinh Thông Nguyên Tố tăng <span>180</span> điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>144</span> điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>48</span> điểm."
     },
     {
       "refinement": 4,
-      "desc": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh Thông Nguyên Tố tăng <span>210</span> điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>168</span> điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>56</span> điểm."
+      "desc": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh-Khuếch Tán, Tinh Thông Nguyên Tố tăng <span>210</span> điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>168</span> điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>56</span> điểm."
     },
     {
       "refinement": 5,
-      "desc": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh Thông Nguyên Tố tăng <span>240</span> điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>192</span> điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>64</span> điểm."
+      "desc": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh-Khuếch Tán, Tinh Thông Nguyên Tố tăng <span>240</span> điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>192</span> điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng <span>64</span> điểm."
     }
   ]
 }

@@ -1,0 +1,333 @@
+{
+  "_id": 11520,
+  "id": "whitelake_frostfeather",
+  "name": "白湖冬羽",
+  "description": "如同白雪鵠的柔羽一般輕盈的長劍，無論何時都能保持未染的純淨。",
+  "rarity": 5,
+  "type": {
+    "id": "Sword",
+    "name": "單手劍"
+  },
+  "domain": "煉武秘境·「妄念的創痕」",
+  "passive": "雪鵠的終幕舞",
+  "bonus": "裝備者的元素戰技命中敵人時，獲得「湖色的哀告」：攻擊力提升<span>8%/10%/12%/14%/16%</span>，持續8秒，至多疊加3層，每0.1秒至多觸發一次，每層持續時間獨立計算。持有3層時，裝備者造成的星爍反應傷害的暴擊傷害提升<span>50%/65%/80%/95%/110%</span>，且觸發星爍反應或造成星爍反應傷害時，還會使裝備者恢復<span>4/4.5/5/5.5/6</span>點元素能量。上述恢復元素能量的效果每3.5秒至多觸發一次。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+  "specialProp": "暴擊率",
+  "stats": {
+    "primary": "基礎攻擊力",
+    "secondary": "暴擊率",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 48,
+        "secondary": 4.8
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 133,
+        "secondary": 8.5
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 164,
+        "secondary": 8.5
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 261,
+        "secondary": 12.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 292,
+        "secondary": 12.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 341,
+        "secondary": 14.3
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 373,
+        "secondary": 14.3
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 423,
+        "secondary": 16.2
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 455,
+        "secondary": 16.2
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 506,
+        "secondary": 18.2
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 537,
+        "secondary": 18.2
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 590,
+        "secondary": 20.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 621,
+        "secondary": 20.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 674,
+        "secondary": 22.1
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 10000,
+      "materials": [
+        {
+          "_id": 114089,
+          "id": "measured_pour_of_the_cellared_spiritual_nectar",
+          "name": "藏窖靈漿的斟酌",
+          "amount": 5,
+          "rarity": 2
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "靈生空根",
+          "amount": 5,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "嵌合種",
+          "amount": 3,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114090,
+          "id": "intoxication_of_the_cellared_spiritual_nectar",
+          "name": "藏窖靈漿的酩酊",
+          "amount": 5,
+          "rarity": 3
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "靈生空根",
+          "amount": 18,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "嵌合種",
+          "amount": 12,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114090,
+          "id": "intoxication_of_the_cellared_spiritual_nectar",
+          "name": "藏窖靈漿的酩酊",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "靈生分櫱節",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "併生嵌合胞",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114091,
+          "id": "exhilaration_of_the_cellared_spiritual_nectar",
+          "name": "藏窖靈漿的酣暢",
+          "amount": 5,
+          "rarity": 4
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "靈生分櫱節",
+          "amount": 18,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "併生嵌合胞",
+          "amount": 14,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 55000,
+      "materials": [
+        {
+          "_id": 114091,
+          "id": "exhilaration_of_the_cellared_spiritual_nectar",
+          "name": "藏窖靈漿的酣暢",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "靈生盤枝心",
+          "amount": 14,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合體",
+          "amount": 9,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 65000,
+      "materials": [
+        {
+          "_id": 114092,
+          "id": "revelry_of_the_cellared_spiritual_nectar",
+          "name": "藏窖靈漿的恣意",
+          "amount": 6,
+          "rarity": 5
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "靈生盤枝心",
+          "amount": 27,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合體",
+          "amount": 18,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "雪鵠的終幕舞",
+    "template": "裝備者的元素戰技命中敵人時，獲得「湖色的哀告」：攻擊力提升<span style=\"color:#99FFFFFF\">{0}</span>，持續8秒，至多疊加3層，每0.1秒至多觸發一次，每層持續時間獨立計算。持有3層時，裝備者造成的星爍反應傷害的暴擊傷害提升<span style=\"color:#99FFFFFF\">{1}</span>，且觸發星爍反應或造成星爍反應傷害時，還會使裝備者恢復<span style=\"color:#99FFFFFF\">{2}</span>點元素能量。上述恢復元素能量的效果每3.5秒至多觸發一次。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+    "params": [
+      [
+        "8%",
+        "50%",
+        "4"
+      ],
+      [
+        "10%",
+        "65%",
+        "4.5"
+      ],
+      [
+        "12%",
+        "80%",
+        "5"
+      ],
+      [
+        "14%",
+        "95%",
+        "5.5"
+      ],
+      [
+        "16%",
+        "110%",
+        "6"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "裝備者的元素戰技命中敵人時，獲得「湖色的哀告」：攻擊力提升<span>8%</span>，持續8秒，至多疊加3層，每0.1秒至多觸發一次，每層持續時間獨立計算。持有3層時，裝備者造成的星爍反應傷害的暴擊傷害提升<span>50%</span>，且觸發星爍反應或造成星爍反應傷害時，還會使裝備者恢復<span>4</span>點元素能量。上述恢復元素能量的效果每3.5秒至多觸發一次。裝備者處於隊伍後臺時，依然能觸發上述效果。"
+    },
+    {
+      "refinement": 2,
+      "desc": "裝備者的元素戰技命中敵人時，獲得「湖色的哀告」：攻擊力提升<span>10%</span>，持續8秒，至多疊加3層，每0.1秒至多觸發一次，每層持續時間獨立計算。持有3層時，裝備者造成的星爍反應傷害的暴擊傷害提升<span>65%</span>，且觸發星爍反應或造成星爍反應傷害時，還會使裝備者恢復<span>4.5</span>點元素能量。上述恢復元素能量的效果每3.5秒至多觸發一次。裝備者處於隊伍後臺時，依然能觸發上述效果。"
+    },
+    {
+      "refinement": 3,
+      "desc": "裝備者的元素戰技命中敵人時，獲得「湖色的哀告」：攻擊力提升<span>12%</span>，持續8秒，至多疊加3層，每0.1秒至多觸發一次，每層持續時間獨立計算。持有3層時，裝備者造成的星爍反應傷害的暴擊傷害提升<span>80%</span>，且觸發星爍反應或造成星爍反應傷害時，還會使裝備者恢復<span>5</span>點元素能量。上述恢復元素能量的效果每3.5秒至多觸發一次。裝備者處於隊伍後臺時，依然能觸發上述效果。"
+    },
+    {
+      "refinement": 4,
+      "desc": "裝備者的元素戰技命中敵人時，獲得「湖色的哀告」：攻擊力提升<span>14%</span>，持續8秒，至多疊加3層，每0.1秒至多觸發一次，每層持續時間獨立計算。持有3層時，裝備者造成的星爍反應傷害的暴擊傷害提升<span>95%</span>，且觸發星爍反應或造成星爍反應傷害時，還會使裝備者恢復<span>5.5</span>點元素能量。上述恢復元素能量的效果每3.5秒至多觸發一次。裝備者處於隊伍後臺時，依然能觸發上述效果。"
+    },
+    {
+      "refinement": 5,
+      "desc": "裝備者的元素戰技命中敵人時，獲得「湖色的哀告」：攻擊力提升<span>16%</span>，持續8秒，至多疊加3層，每0.1秒至多觸發一次，每層持續時間獨立計算。持有3層時，裝備者造成的星爍反應傷害的暴擊傷害提升<span>110%</span>，且觸發星爍反應或造成星爍反應傷害時，還會使裝備者恢復<span>6</span>點元素能量。上述恢復元素能量的效果每3.5秒至多觸發一次。裝備者處於隊伍後臺時，依然能觸發上述效果。"
+    }
+  ]
+}

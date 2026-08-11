@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人类势力",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Bisonsaurus",
   "description": "来自平原之上的勇士，在金穗田间巡游的部族守卫者。\\n从立志成为战士之初便不断训练自身的力量的战士，手持双手武器下劈时，具有常人无法抵挡的威势。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

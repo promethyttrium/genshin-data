@@ -1,0 +1,90 @@
+{
+  "_id": 1516,
+  "id": "jahoda",
+  "shareId": 609,
+  "name": "Jahoda",
+  "title": "Jahoda - La Sombra Dominavientos",
+  "desc": "La persistencia arroja luz sobre los secretos más recónditos.",
+  "attributes": {
+    "hp": 10,
+    "card_type": "Carta de personaje",
+    "energy": 2,
+    "element": "Anemo",
+    "weapon": "Arco",
+    "faction": [
+      "Nod Krai"
+    ],
+    "source": "Se obtiene tras retar y ganar a Jahoda en un duelo amistoso en la taberna Cola de Gato"
+  },
+  "skills": [
+    {
+      "id": "strike_while_the_arrows_hot",
+      "name": "Flechazo oportuno",
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anemo",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Dado indefinido",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "savvy_strategy_splitting_the_spoils",
+      "name": "Estratagema: Plan de reparto de riqueza",
+      "desc": "Inflige 2 pts. de <span style=\"color:#80FFD7FF\">Daño Anemo</span>, crea 1 carga de <span style=\"color:#FFFFFFFF\">cambio rápido</span> y cambias a tu siguiente personaje. Si no tienes ninguna carta de <span style=\"color:#FFFFFFFF\">Frasco maullisecreto</span> de algún elemento en la mano, crea 1 carta de <span style=\"color:#FFFFFFFF\">Frasco maullisecreto</span>. De lo contrario, aplica una <span style=\"color:#FFFFFFFF\">reducción de coste</span> a todas las cartas de <span style=\"color:#FFFFFFFF\">Frasco maullisecreto</span> de tu mano.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anemo",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "hidden_aces_seven_tools_of_the_hunter",
+      "name": "Dispositivo secreto: Los siete artilugios de una cazadora",
+      "desc": "Inflige 3 pts. de <span style=\"color:#80FFD7FF\">Daño Anemo</span> y crea unos <span style=\"color:#FFFFFFFF\">coordinadores gatunos de asistencia doméstica</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anemo",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Energía",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "moonsign_benediction_rooftop_dash",
+      "name": "Bendición presagiolunar: Carrera por los aleros",
+      "desc": "Pasiva: cuando comienza el duelo, crea 1 carta de <span style=\"color:#FFFFFFFF\">Frasco maullisecreto</span>.<br/>Después de que causes una Reacción Lunar o una reacción de Torbellino, aplica una <span style=\"color:#FFFFFFFF\">reducción de coste</span> a todas las cartas de <span style=\"color:#FFFFFFFF\">Frasco maullisecreto</span> de tu mano (2 veces por ronda).",
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
+      "points": []
+    }
+  ]
+}

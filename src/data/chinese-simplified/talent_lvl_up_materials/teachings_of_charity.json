@@ -1,0 +1,18 @@
+{
+  "_id": 104365,
+  "id": "teachings_of_charity",
+  "name": "「慈爱」的教导",
+  "description": "天赋培养素材。\\n「慈爱」是冰之国土的救赎。\\n慈爱是凡人之间的爱护与守望。在广袤的土地上，人们凭此抵御霜雪带来的寒冷，抚平铭刻在记忆里的伤痕。",
+  "source": [
+    "礼包商城兑换"
+  ],
+  "location": "至冬",
+  "rarity": 2,
+  "domain": "精通秘境：默想 IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "周一",
+    "周四",
+    "周日"
+  ]
+}

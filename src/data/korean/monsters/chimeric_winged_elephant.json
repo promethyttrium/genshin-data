@@ -1,0 +1,39 @@
+{
+  "_id": 26310301,
+  "id": "chimeric_winged_elephant",
+  "monsterId": 26310302,
+  "name": "코끼리 키메라",
+  "specialNames": [
+    "코끼리 키메라"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "돌연변이 마수",
+  "filename_icon": "UI_MonsterIcon_Chimera_ElephantBird",
+  "description": "동토에서 한때 성행했던 생물 연금술로 탄생한 키메라.\\n날개가 달린 다리 짧은 코끼리라면 지형의 제약을 받지 않고 이동할 수 있으며, 높은 곳에 열린 과일도 손쉽게 딸 수 있었을 것이다.\\n제작자는 오직 이러한 목적을 위해 이 키메라를 만들어 냈다. 훗날 칠흑의 마수와 맞선 전쟁에서 코끼리 키메라는 바람 요정과 함께 연락 임무를 수행하며, 하얀 차르의 군령이 진군 중인 군대에 차질 없이 전달되도록 했다",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.2,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 5.486268,
+      "attack": 54.069954,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

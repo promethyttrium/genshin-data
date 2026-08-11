@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_01",
   "description": "Seorang anggota organisasi kriminal tersebar yang menancapkan jejaknya di seluruh daratan dan bahkan jauh ke dalam domain yang tidak diketahui.\\nPara anggota yang melakukan pekerjaan fisik memiliki status yang lebih rendah dalam urutan kekuasaan Treasure Hoarder. Sering kali mereka ditertawakan karena fisiknya — tetapi ketika ancaman datang, inilah saatnya bagi mereka untuk menunjukkan kekuatan dan kelincahan mereka yang tak terduga.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

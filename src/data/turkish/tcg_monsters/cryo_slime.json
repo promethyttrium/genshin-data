@@ -8,16 +8,20 @@
     "hp": 4,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Buz",
+    "weapon": "Diğer Silahlar",
     "faction": [
-      null
+      "Canavar"
     ]
   },
   "skills": [
     {
       "id": "ram",
       "name": "Koçbaşı",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "1 <span style=\"color:#99FFFFFF\">Buz Hasarı</span> verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -36,8 +40,10 @@
     {
       "id": "jumping_slam",
       "name": "Sıçrama Vuruşu",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "4 <span style=\"color:#99FFFFFF\">Buz Hasarı</span> verir.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -57,7 +63,9 @@
       "id": "elemental_sedimentation_cryo",
       "name": "Element Tortulaşması: Buz",
       "desc": "(Pasif) Savaş başladığında bu karakter <span style=\"color:#FFFFFFFF\">Element Yaşam Formu: Buz</span> kazanır.",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

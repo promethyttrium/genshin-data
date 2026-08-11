@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Element Yaşam Formları",
   "filename_icon": "UI_MonsterIcon_Slime_Grass_02",
   "description": "Bulunduğu ortamdaki zengin Doğa elementinden ötürü ekolojik değişimler geçirmiş bir bodurlop.\\nDoğa elementinin zayıflıklarını da bünyesinde barındıran bu bodurlop, parlak bir alevle karşılaştığında cayır cayır yanar.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

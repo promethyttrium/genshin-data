@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Otras armas",
     "faction": [
-      null
+      "Monstruo"
     ],
     "source": "Se obtiene de Príncipe de la taberna Cola de Gato tras ganar el duelo amistoso contra el Caballero Serpiente Negra - Aire afilado de los duelos tabernarios"
   },
@@ -18,8 +20,10 @@
     {
       "id": "halfsword_technique",
       "name": "Técnica de media espada",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -38,8 +42,10 @@
     {
       "id": "rising_slash",
       "name": "Tajo ascendente",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y tomas 1 carta.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#80FFD7FF\">Daño Anemo</span> y tomas 1 carta.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -53,7 +59,9 @@
       "id": "guard_stance",
       "name": "Postura de guardia",
       "desc": "Primero <span style=\"color:#FFFFFFFF\">prepara la habilidad</span> <span style=\"color:#FFFFFFFF\">Postura imprudente</span>. Después, <span style=\"color:#FFFFFFFF\">prepara la habilidad</span> <span style=\"color:#FFFFFFFF\">Persecución tempestuosa</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -73,7 +81,9 @@
       "id": "vanguard_momentum",
       "name": "Ímpetu de la vanguardia",
       "desc": "Pasiva: cuando causas una reacción de Torbellino, o cuando el enemigo pierde algún estado o estado en combate de <span style=\"color:#FFFFFFFF\">escudo</span> o <span style=\"color:#FFFFFFFF\">reducción de daño</span>, tomas 1 carta (2 veces por ronda).",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
       "points": []
     }
   ]

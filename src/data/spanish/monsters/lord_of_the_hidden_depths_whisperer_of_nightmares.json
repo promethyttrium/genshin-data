@@ -14,7 +14,6 @@
   "filename_icon": "UI_MonsterIcon_Lloigor_Primo",
   "description": "Una criatura del Abismo que acecha a través de fisuras en las profundidades insondables, observando el mundo en silencio. Se dice que su siniestra forma sin rostro no es más que una proyección, pues su verdadero cuerpo solo existe como una masa amorfa de energía pura del Abismo.\\nIncluso los invasores que buscan reclamar este mundo deben obedecer sus normas en cierta manera. Mientras no se parta el firmamento ni colapsen las defensas de la tierra, estas criaturas venidas de las estrellas no podrán hacer más que permanecer en los límites del mundo, susurrando delirios y sin conseguir penetrar más allá... Pero ¿cuánto tiempo más lograrán aguantar la estabilidad y el orden?",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
-  "bgm": 0,
   "budget": 1,
   "stats": {
     "resistance": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人类势力",
   "filename_icon": "UI_MonsterIcon_Human_Male_Claymore_Shamansaurus",
   "description": "来自谜烟之内的勇士，在漫霾峡谷巡游的部族守卫者。\\n只有力量经过考验的卫从才能在身上绘制具有特殊力量的油彩涂鸦，也意味着部族勇士关于意念的修行到达了下一个阶段。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

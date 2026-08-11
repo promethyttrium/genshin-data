@@ -1,0 +1,90 @@
+{
+  "_id": 1516,
+  "id": "jahoda",
+  "shareId": 609,
+  "name": "Jahoda",
+  "title": "\"Windthreading Shadow\" Jahoda",
+  "desc": "Persistent thought brings light to even the deepest secrets.",
+  "attributes": {
+    "hp": 10,
+    "card_type": "Character Card",
+    "energy": 2,
+    "element": "Anemo",
+    "weapon": "Bow",
+    "faction": [
+      "Nod-Krai"
+    ],
+    "source": "Reward for inviting Jahoda to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him"
+  },
+  "skills": [
+    {
+      "id": "strike_while_the_arrows_hot",
+      "name": "Strike While the Arrow's Hot",
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anemo",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Unaligned Element",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "savvy_strategy_splitting_the_spoils",
+      "name": "Savvy Strategy: Splitting the Spoils",
+      "desc": "Deals 2 <span style=\"color:#80FFD7FF\">Anemo DMG</span>, creates 1 stack of <span style=\"color:#FFFFFFFF\">Agile Switch</span>, and switch to your next character. If you do not have <span style=\"color:#FFFFFFFF\">Purr-loined Treasure Flask</span> of any element in your Hand, create 1 <span style=\"color:#FFFFFFFF\">Purr-loined Treasure Flask</span> in your Hand. Otherwise, grant <span style=\"color:#FFFFFFFF\">Cost Reduction</span> to all <span style=\"color:#FFFFFFFF\">Purr-loined Treasure Flask</span> in your Hand.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anemo",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "hidden_aces_seven_tools_of_the_hunter",
+      "name": "Hidden Aces: Seven Tools of the Hunter",
+      "desc": "Deals 3 <span style=\"color:#80FFD7FF\">Anemo DMG</span> and creates <span style=\"color:#FFFFFFFF\">Purrsonal Coordinated Assistance Robots</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anemo",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Energy",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "moonsign_benediction_rooftop_dash",
+      "name": "Moonsign Benediction: Rooftop Dash",
+      "desc": "(Passive) When battle begins, create 1 <span style=\"color:#FFFFFFFF\">Purr-loined Treasure Flask</span> in your Hand.<br/>After you trigger a Lunar Reaction or Swirl Reaction, attach <span style=\"color:#FFFFFFFF\">Cost Reduction</span> to all <span style=\"color:#FFFFFFFF\">Purr-loined Treasure Flask</span> in your Hand. (Twice per Round)",
+      "skillTag": [
+        "Passive Skill"
+      ],
+      "points": []
+    }
+  ]
+}

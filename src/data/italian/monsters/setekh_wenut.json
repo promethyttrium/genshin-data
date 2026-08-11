@@ -36,7 +36,7 @@
       "_id": 113044,
       "id": "pseudostamens",
       "name": "Pseudostami",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104154,
@@ -119,7 +119,6 @@
   "categoryText": "Bestie mistiche",
   "filename_icon": "UI_MonsterIcon_Sandworm",
   "description": "Un predatore senza occhi che abita nel deserto profondo e sfrutta i suoni e le vibrazioni per trovare la sua preda.\\nSecondo la leggenda, in un passato ormai remoto, prima che esistesse perfino il concetto di tempo, queste creature prosperavano assieme ai loro progenitori e alla loro prole in una terra di erba verdeggiante e alberi colossali, attraversando il terreno umido come fossero pesci nell'acqua.\\nMolti eoni dopo, i doni del cielo hanno ridotto ormai il suolo in sabbia, facendo estinguere una moltitudine di creature. Questa specie è stata capace di sopravvivere adattandosi alla vita sulla terra, e prendendo il nome di \"Unut\".\\n Alcuni abitanti del deserto credono ancora, erroneamente, che gli Unut siano il punto d'arrivo del ciclo di vita dell'anguilla delle sabbie mobili, probabilmente per via delle somiglianze superficiali tra i comportamenti delle due specie.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

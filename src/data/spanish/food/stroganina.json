@@ -1,0 +1,42 @@
+{
+  "_id": 2701,
+  "id": "stroganina",
+  "name": "Stroganina",
+  "description": "Largas láminas de pescado. Cortadas con una hoja afilada desde cierto ángulo a lo largo de la superficie de un pescado congelado, lo que resulta en delgadas tiras rizadas. Normalmente se sirve con sal gorda, y se trata de un plato crudo común en Snezhnaya.",
+  "rarity": 2,
+  "ingredients": [
+    {
+      "_id": 100084,
+      "id": "fish",
+      "name": "Pescado",
+      "amount": 3
+    },
+    {
+      "_id": 100075,
+      "id": "salt",
+      "name": "Sal",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Platos que mejoran el ATQ",
+  "results": {
+    "suspicious": {
+      "_id": 108991,
+      "name": "Stroganina extraña",
+      "description": "Largas láminas de pescado. Las partes más gruesas están tan congeladas que podrían romper un diente, mientras que las más finas ya se han derretido hasta convertirse en papilla... Al menos, con las temperaturas glaciales de Snezhnaya, probablemente no tengas que preocuparte por un dolor de estómago.",
+      "effect": "#Aumenta el ATQ de todos los miembros del equipo en 66 pts. durante 300 s. En modo multijugador, solo tendrá efecto en tus propios personajes."
+    },
+    "normal": {
+      "_id": 108992,
+      "name": "Stroganina",
+      "description": "Largas láminas de pescado. Cortadas con una hoja afilada desde cierto ángulo a lo largo de la superficie de un pescado congelado, lo que resulta en delgadas tiras rizadas. Normalmente se sirve con sal gorda, y se trata de un plato crudo común en Snezhnaya.",
+      "effect": "#Aumenta el ATQ de todos los miembros del equipo en 81 pts. durante 300 s. En modo multijugador, solo tendrá efecto en tus propios personajes."
+    },
+    "delicious": {
+      "_id": 108993,
+      "name": "Stroganina deliciosa",
+      "description": "Largas láminas de pescado. Los delgados rizos se apilan en el plato como un pequeño ramillete de pétalos esculpidos en hielo. Tomas un trozo con los dedos, te lo llevas a la boca y una dulzura fresca y pura te golpea la punta de la lengua con la suave caricia de la nieve al derretirse.",
+      "effect": "#Aumenta el ATQ de todos los miembros del equipo en 95 pts. durante 300 s. En modo multijugador, solo tendrá efecto en tus propios personajes."
+    }
+  }
+}

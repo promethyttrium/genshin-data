@@ -1,0 +1,54 @@
+{
+  "_id": 3704,
+  "id": "medovik",
+  "name": "Medovik",
+  "description": "Un gâteau au miel. De fines feuilles de pâte au miel sont cuites au four, puis superposées en alternant avec une couche de crème fraîche épaisse. Le gâteau est ensuite saupoudré de miettes et arrosé d'un filet de sirop de miel. Chaque étape doit être réalisée avec soin pour un résultat impeccable.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 110017,
+      "id": "honey",
+      "name": "Miel",
+      "amount": 4
+    },
+    {
+      "_id": 110001,
+      "id": "flour",
+      "name": "Farine",
+      "amount": 4
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Œuf d'oiseau",
+      "amount": 3
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Récupération",
+  "results": {
+    "suspicious": {
+      "_id": 132007,
+      "name": "Medovik (suspect)",
+      "description": "Un gâteau au miel. Toute trace de douceur a été réduite en cendres par les flammes du four, ne laissant qu'un amas amer et brûlé. Si le glaçage à la crème aigre remplit parfaitement son rôle acidulé, il reste totalement dénué de saveur, sans la moindre douceur pour l'accompagner...",
+      "effect": "Restaure immédiatement 26 % des PV max, puis 450 PV toutes les 5 s pendant 30 s au personnage sélectionné."
+    },
+    "normal": {
+      "_id": 132008,
+      "name": "Medovik",
+      "description": "Un gâteau au miel. De fines feuilles de pâte au miel sont cuites au four, puis superposées en alternant avec une couche de crème fraîche épaisse. Le gâteau est ensuite saupoudré de miettes et arrosé d'un filet de sirop de miel. Chaque étape doit être réalisée avec soin pour un résultat impeccable.",
+      "effect": "Restaure immédiatement 28 % des PV max, puis 620 PV toutes les 5 s pendant 30 s au personnage sélectionné."
+    },
+    "delicious": {
+      "_id": 132009,
+      "name": "Medovik (délicieux)",
+      "description": "Un gâteau au miel. La pâte ambrée et la crème d'une blancheur immaculée s'entrelacent en couches successives dans une harmonie parfaite. Le contempler, c'est comme tourner les pages d'une chronique, chacune dévoilant un récit aussi brillant qu'envoûtant.",
+      "effect": "Restaure immédiatement 30 % des PV max, puis 790 PV toutes les 5 s pendant 30 s au personnage sélectionné."
+    }
+  }
+}

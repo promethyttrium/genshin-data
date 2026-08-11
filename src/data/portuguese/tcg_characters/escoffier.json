@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Lança",
     "faction": [
-      null
+      "Fontaine"
     ],
     "talent_card": {
       "_id": 9075,
@@ -29,8 +31,10 @@
     {
       "id": "kitchen_skills",
       "name": "Habilidades Culinárias",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "lowtemperature_cooking",
       "name": "Culinária ao Fogo Baixo",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, invoca <span style=\"color:#FFFFFFFF\">Modo Robô Culinário: Armazenamento Frio</span>.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#99FFFFFF\">Dano Cryo</span>, invoca <span style=\"color:#FFFFFFFF\">Modo Robô Culinário: Armazenamento Frio</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "scoring_cuts",
       "name": "Técnica de Corte Refinado",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, cura todos os seus personagens em 2 de Vida.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#99FFFFFF\">Dano Cryo</span>, cura todos os seus personagens em 2 de Vida.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -84,7 +92,9 @@
       "id": "constant_offthecuff_cookery",
       "name": "A Postos para Improvisar",
       "desc": "(Passivo) Quando a batalha começa, cria <span style=\"color:#FFFFFFFF\">Robô Culinário Multiuso</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Passiva"
+      ],
       "points": []
     }
   ]

@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Mekanik Düz Dişli",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Kavrama Dişlisi",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Canavar Makinaları",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01",
   "description": "Keşif Kayıtçısı Meka ile birlikte yapılan ilk yeni tip Kurmalı Mekalardan biridir. (Tabii aradan yüz yıllar geçtiğinden artık kimse onlara \"yeni tip\" demiyor. Bu ifade sadece onları potansiyel enerjiyle çalışan geleneksel Kurmalı Mekalardan ayırt etmek için kullanılırdı.)\\nMucidinin arkadaşını anmak adına onun ismi verilmiştir ve aslında insanlara yardım etmesi için tasarlanmıştır. Ancak sonraları personelin riske girmesini engellediği için saldırı becerisi gerçek gücü olarak görülmüştür.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 3,
   "stats": {

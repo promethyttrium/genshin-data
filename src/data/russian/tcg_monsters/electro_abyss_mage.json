@@ -8,16 +8,20 @@
     "hp": 4,
     "card_type": "Карты персонажей",
     "energy": 3,
+    "element": "Электро",
+    "weapon": "Прочее",
     "faction": [
-      null
+      "Монстр"
     ]
   },
   "skills": [
     {
       "id": "thunderbolt",
       "name": "Электробомба",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FFACFFFF\">Электро урон</span>, 1 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -37,7 +41,9 @@
       "id": "lingering_light",
       "name": "Воздаяние свету",
       "desc": "Призывает 1 помощника: <span style=\"color:#FFFFFFFF\">Кольцо молний</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,8 +56,10 @@
     {
       "id": "rite_of_rolling_thunder",
       "name": "Ритуал раскатов грома",
-      "desc": "Наносит ?, ? ед. и призывает помощника: <span style=\"color:#FFFFFFFF\">Кольцо молний</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FFACFFFF\">Электро урон</span>, 4 ед. и призывает помощника: <span style=\"color:#FFFFFFFF\">Кольцо молний</span>.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -71,7 +79,9 @@
       "id": "electro_ward",
       "name": "Электро барьер",
       "desc": "(Пассивный) В начале сражения у персонажа будет <span style=\"color:#FFFFFFFF\">Электро барьер</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Пассивный навык"
+      ],
       "points": []
     }
   ]

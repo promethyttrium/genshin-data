@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_Mimik_Electric",
   "description": "元氣滿滿的擬態植物魔物，會用雷元素攻擊獵物。\\n在元素能量充滿的時候，可以從花冠中釋放出強大的電流，因此也有學者試圖將其用於一些其他方面的用途…",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

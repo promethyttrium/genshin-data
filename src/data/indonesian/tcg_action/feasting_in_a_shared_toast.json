@@ -1,0 +1,20 @@
+{
+  "_id": 332066,
+  "id": "feasting_in_a_shared_toast",
+  "shareId": 619,
+  "name": "Feasting in a Shared Toast",
+  "title": "Feasting in a Shared Toast",
+  "desc": "\"Kamu ini, selalu jadi yang paling lambat. Cepat duduk, aku sudah lama menunggumu!\"",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 0,
+    "card_type": "Kartu Peristiwa",
+    "energy": []
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Saat Ronde berikutnya dimulai:</span> Kedua pemain masing-masing mengambil 2 kartu dan menciptakan 2 Dadu Elemental secara acak."
+    }
+  ]
+}

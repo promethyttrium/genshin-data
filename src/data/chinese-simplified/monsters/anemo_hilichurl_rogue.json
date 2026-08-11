@@ -25,19 +25,19 @@
       "_id": 112079,
       "id": "wanderers_blooming_flower",
       "name": "漫游者的盛放之花",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112078,
       "id": "treasured_flower",
       "name": "何人所珍藏之花",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112077,
       "id": "a_flower_yet_to_bloom",
       "name": "来自何处的待放之花",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "丘丘部族",
   "filename_icon": "UI_MonsterIcon_Hilistray_Wind",
   "description": "不属于任何部族，似乎是在追寻一族命运之肇始，寻找如今已经失落的光辉的丘丘人流浪者。\\n假使这些只有简单语言，也不具备文书传承的魔物当中，有史诗、有传奇，它们应当就是其中的主角吧。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

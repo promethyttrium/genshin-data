@@ -1,0 +1,40 @@
+{
+  "_id": 25137001,
+  "id": "rugged_elder_leshy",
+  "monsterId": 25137006,
+  "name": "Rugged Elder Leshy",
+  "specialNames": [
+    "Juvenile Tree Segment"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "ELITE",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Makhluk Mistis",
+  "filename_icon": "UI_MonsterIcon_Leshy_Mature_01",
+  "description": "Leshy yang tumbuh di hutan belantara.\\nLeshy yang memiliki akal budi tak sempurna dan tak mampu berbicara ini sepertinya merupakan hasil percobaan awal para pengrajin Khaenri'ah. Namun justru sebaliknya, menurut catatan, mereka menciptakan ras peri ini setelah hampir sepenuhnya menguasai otoritas atas kehidupan.\\nMungkin di dalamnya terkandung makna mendalam yang tidak bisa dipahami oleh peri maupun manusia zaman sekarang.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": -0.2,
+      "dendro": 0.3,
+      "hydro": 0.1,
+      "geo": 0.3,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 21.945072,
+      "attack": 94.62242,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

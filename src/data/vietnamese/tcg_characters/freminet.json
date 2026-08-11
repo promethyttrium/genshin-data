@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Băng",
+    "weapon": "Trọng Kiếm",
     "faction": [
-      null,
-      null
+      "Fontaine",
+      "Fatui"
     ],
     "talent_card": {
       "_id": 6593,
@@ -30,8 +32,10 @@
     {
       "id": "flowing_eddies",
       "name": "Dòng Chảy Xoáy",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,8 +54,10 @@
     {
       "id": "pressurized_floe",
       "name": "Băng Giá Điều Áp",
-      "desc": "Gây ? điểm ?, nếu nhân vật chưa có <span style=\"color:#FFFFFFFF\">Thời Khắc Của Pers</span>, sẽ khiến nhân vật này áp dụng <span style=\"color:#FFFFFFFF\">Thời Khắc Của Pers</span>.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#99FFFFFF\">Sát Thương Nguyên Tố Băng</span>, nếu nhân vật chưa có <span style=\"color:#FFFFFFFF\">Thời Khắc Của Pers</span>, sẽ khiến nhân vật này áp dụng <span style=\"color:#FFFFFFFF\">Thời Khắc Của Pers</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -64,8 +70,10 @@
     {
       "id": "shadowhunters_ambush",
       "name": "Ảo Ảnh Công Phá",
-      "desc": "Gây ? điểm ?, nhân vật này áp dụng <span style=\"color:#FFFFFFFF\">Chế Độ Lén Lút</span>.",
-      "skillTag": [],
+      "desc": "Gây 4 điểm <span style=\"color:#99FFFFFF\">Sát Thương Nguyên Tố Băng</span>, nhân vật này áp dụng <span style=\"color:#FFFFFFFF\">Chế Độ Lén Lút</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1101,

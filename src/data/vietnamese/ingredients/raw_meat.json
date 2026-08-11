@@ -103,6 +103,11 @@
       "name": "Thịt Chiên Quả Mọng"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Súp Củ Dền"
+    },
+    {
       "_id": 3004,
       "id": "sticky_honey_roast",
       "name": "Thịt Nướng Mật Ong"
@@ -248,6 +253,16 @@
       "name": "Sườn Hấp Gỗ Hoa"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Shashlik Snezhnaya"
+    },
+    {
       "_id": 4001,
       "id": "moon_pie",
       "name": "Bánh Mặt Trăng"
@@ -307,6 +322,5 @@
   ],
   "source": [
     "Động Vật Rơi Ra"
-  ],
-  "rarity": 0
+  ]
 }

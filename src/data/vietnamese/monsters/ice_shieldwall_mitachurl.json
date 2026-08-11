@@ -45,7 +45,6 @@
   "description": "Hilichurl Lớn dùng hàn băng làm khiên, sẽ lợi dụng khiên băng to chắc để chiến đấu.\\nNhìn chung, sinh vật có cơ thể to lớn, hoạt động nhiều thì cần tiêu hao nhiều nhiệt lượng để sinh tồn. Do vậy, khi El Musk đề xuất \"chỉ số bạo đồ\", căn cứ theo tỷ lệ Bạo Đồ Hilichurl trong phạm vi nào đó so với tổng số Hilichurl, để tính ra tính phong phú và ổn định của nguồn lương thực của Hilichurl.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 2,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.3,

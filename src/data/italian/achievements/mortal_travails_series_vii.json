@@ -1,0 +1,32 @@
+{
+  "_id": 71,
+  "id": "mortal_travails_series_vii",
+  "name": "Fatiche mortali: Serie VII",
+  "order": 9,
+  "achievements": [
+    {
+      "id": 80525,
+      "name": "Requiem del Vento glaciale",
+      "desc": "Ottieni il potere di Cryo.",
+      "reward": 5,
+      "hidden": false,
+      "order": 484
+    },
+    {
+      "id": 80526,
+      "name": "Quando il canto squarcia la notte",
+      "desc": "Raccogli la serie completa della \"Antologia del balletto Astropolare\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 485
+    },
+    {
+      "id": 80528,
+      "name": "Racconti dei defunti",
+      "desc": "Raccogli la serie completa della \"Storia generale di Snezhnaya\".",
+      "reward": 5,
+      "hidden": false,
+      "order": 487
+    }
+  ]
+}

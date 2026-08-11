@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Savaşçının Metal Düdüğü",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Nöbetçinin Ahşap Düdüğü",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Human_Female_Sword_Flamingo",
   "description": "Sarp uçurumların tepelerinden gelen ve dağ sırtlarında devriye gezen kabile muhafızı savaşçı.\\nGukuzorların kanatlarını açtığı zamanki kadar geniş bir açıyla kılıç darbeleri vurabilen onurlu kılıç savaşçıları. Açtıkları yaralardan fışkıran kan, adeta dağılan kuş tüyleri gibi her yana saçılır.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

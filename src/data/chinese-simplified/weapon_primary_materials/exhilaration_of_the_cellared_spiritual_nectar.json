@@ -1,0 +1,29 @@
+{
+  "_id": 114091,
+  "id": "exhilaration_of_the_cellared_spiritual_nectar",
+  "name": "藏窖灵浆的酣畅",
+  "description": "据说曾经，无数的琼浆被倾倒入冰湖。<br/>传言道或是作为战争补给的酒因出了纰漏不得不销毁，或是某位矮灵的大公在与水妖之主的赌约中失了利。<br/>直至湖面上烧起无法扑灭的蓝色魔焰，水下的敌人于令人窒息的波涛中翻涌。<br/>他们才知道在精通世事流迁的族裔手中，水也是火，灵药亦是剧毒。",
+  "source": [
+    "占位-可合成数量:{0}"
+  ],
+  "location": "至冬",
+  "rarity": 4,
+  "craft": {
+    "cost": 350,
+    "items": [
+      {
+        "_id": 114090,
+        "id": "intoxication_of_the_cellared_spiritual_nectar",
+        "name": "藏窖灵浆的酩酊",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "炼武秘境·「妄念的创痕」",
+  "days": [
+    "周二",
+    "周五",
+    "周日"
+  ]
+}

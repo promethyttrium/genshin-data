@@ -55,6 +55,11 @@
       "name": "Lohikeitto"
     },
     {
+      "_id": 2703,
+      "id": "borscht",
+      "name": "Borscht"
+    },
+    {
       "_id": 3007,
       "id": "mondstadt_hash_brown",
       "name": "Mondstadt Hash Brown"
@@ -135,6 +140,11 @@
       "name": "Birch-Steamed Pork Ribs"
     },
     {
+      "_id": 3701,
+      "id": "zharkoye",
+      "name": "Zharkoye"
+    },
+    {
       "_id": 4402,
       "id": "haggis",
       "name": "Haggis"
@@ -142,6 +152,5 @@
   ],
   "source": [
     "Dijual di toko barang kebutuhan"
-  ],
-  "rarity": 0
+  ]
 }

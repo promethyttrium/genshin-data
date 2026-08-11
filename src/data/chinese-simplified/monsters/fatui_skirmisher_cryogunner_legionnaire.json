@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "愚人众",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01",
   "description": "愚人众战争机器中的士兵。\\n配备着能在一定程度上制御元素的装备，可以利用铳形的武器喷射急冻的寒霜。\\n虽然拥有常人不能企及的元素力量，但这种力量或许也是有其代价的吧…",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

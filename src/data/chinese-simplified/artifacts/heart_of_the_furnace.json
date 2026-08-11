@@ -1,0 +1,39 @@
+{
+  "_id": 215048,
+  "id": "heart_of_the_furnace",
+  "name": "炉火融炼之心",
+  "min_rarity": 4,
+  "max_rarity": 5,
+  "two_pc": "攻击力提高18%。",
+  "four_pc": "装备者触发星烁反应或造成星烁反应伤害后的12秒内，攻击力提升12%，队伍中附近的所有角色造成的星烁反应伤害提升50%。装备者处于后台时也能触发上述效果。同名圣遗物套装产生的伤害加成效果无法叠加。",
+  "goblet": {
+    "_id": 48412,
+    "id": "foundrymans_magnanimity",
+    "name": "熔铸者的雅量",
+    "description": "他知晓友谊之短暂不似炉心的火焰，供给源料便可长燃不熄。"
+  },
+  "plume": {
+    "_id": 48422,
+    "id": "foundrymans_observation",
+    "name": "熔铸者的观测",
+    "description": "他知晓世事的流迁不似炉心的颜色，可通过观察明白结果。"
+  },
+  "circlet": {
+    "_id": 48432,
+    "id": "foundrymans_legacy",
+    "name": "熔铸者的继志",
+    "description": "他知晓梦想之坚定不似炉心的光亮，无法如炬传至后继者的手中。"
+  },
+  "flower": {
+    "_id": 48442,
+    "id": "foundrymans_conjecture",
+    "name": "熔铸者的揣度",
+    "description": "他知晓人心的冷暖不似炉心的温度，可通过计量明晰变化。"
+  },
+  "sands": {
+    "_id": 48452,
+    "id": "foundrymans_calculus",
+    "name": "熔铸者的计算",
+    "description": "他知晓权势的运转不似炉心的能量，可通过开关控制移涌。"
+  }
+}

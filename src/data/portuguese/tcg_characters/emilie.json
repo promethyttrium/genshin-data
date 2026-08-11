@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Lança",
     "faction": [
-      null
+      "Fontaine"
     ],
     "talent_card": {
       "_id": 7583,
@@ -29,8 +31,10 @@
     {
       "id": "shadowhunting_spear_custom",
       "name": "Lança do Marechalato (Modificado)",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -50,7 +54,9 @@
       "id": "fragrance_extraction",
       "name": "Extração de Fragrância",
       "desc": "Invoca <span style=\"color:#FFFFFFFF\">Caixa Lumidouce Nível 1</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "aromatic_explication",
       "name": "Apresentação Aromática",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?. Invoca <span style=\"color:#FFFFFFFF\">Caixa Lumidouce Nível 3</span>.",
-      "skillTag": [],
+      "desc": "Causa 1 ponto de <span style=\"color:#7EC236FF\">Dano Dendro</span>. Invoca <span style=\"color:#FFFFFFFF\">Caixa Lumidouce Nível 3</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -84,7 +92,9 @@
       "id": "lingering_fragrance",
       "name": "Fragrância Residual",
       "desc": "<color=#FFFFFFFF>Quando suas <span style=\"color:#FFFFFFFF\">Chamas Ardentes</span> entram em campo:</color> Após a próxima vez que qualquer lado usar uma Habilidade, ativa 1 instância do efeito de Fim de Turno de <span style=\"color:#FFFFFFFF\">Chamas Ardentes</span>. (Duas vezes por Turno)",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Passiva"
+      ],
       "points": []
     }
   ]

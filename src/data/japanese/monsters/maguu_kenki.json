@@ -13,7 +13,6 @@
   "categoryText": "自律装置",
   "filename_icon": "UI_MonsterIcon_Samurai_Ningyo",
   "description": "自律型人形からくり剣士。\\n話す能力と意欲がなく、剣でのみ意思疎通を図る。\\n噂によると、試作時にとある剣道流派初代宗主の記憶を統合したが、原因不明のまま制御不能になり、やがて放棄されたという。\\n歌人によると、剣鬼は因縁が断絶された場所に彷徨っているという。自身を守る凶悪の面はあの時代の有名な鬼人から取ったものだそうだ。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 2,
   "stats": {

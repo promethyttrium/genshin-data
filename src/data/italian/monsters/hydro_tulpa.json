@@ -13,7 +13,6 @@
   "categoryText": "Forme di vita elementali",
   "filename_icon": "UI_MonsterIcon_Narcissusborn_Normal_01",
   "description": "Un mostro umanoide formato dall'agglomerazione di infinite gocce d'acqua.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

@@ -1,0 +1,32 @@
+{
+  "_id": 215032,
+  "id": "temporal_winds_eulogy",
+  "shareId": 617,
+  "name": "Elogio del Vento temporale",
+  "title": "Venti: Elogio del Vento temporale",
+  "desc": "\"Pertanto, 'irrivelato' può significare solo due cose: un futuro non ancorato dalle stelle, o un futuro deliberatamente oscurato da chi ha cattive intenzioni. Quest'ultima ipotesi è decisamente irritante, spero proprio che la piccola strega della storia non diventi mai una persona del genere.\"",
+  "in_play_description": "Dopo aver evocato <span style=\"color:#FFFFFFFF\">In mezzo alla tempesta</span>, i <span style=\"color:#FFFFFFFF\">DAN fisici</span> del personaggio associato vengono convertiti in <span style=\"color:#80FFD7FF\">DAN da Anemo</span> per i suoi prossimi 2 <span style=\"color:#FFFFFFFF\">attacchi normali</span> in questo turno, e tali attacchi costano 2 <span style=\"color:#FFFFFFFF\">elementi indefiniti</span> in meno.",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "Anemo",
+    "card_type": "Carta equipaggiamento",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "Anemo",
+        "count": 3
+      }
+    ],
+    "tags": [
+      "Talento",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Azione rapida</span>: equipaggia il tuo <span style=\"color:#FFFFFFFF\">Venti</span> con questa carta.<br/>Evoca <span style=\"color:#FFFFFFFF\">In mezzo alla tempesta</span>.<br/>Dopo aver evocato <span style=\"color:#FFFFFFFF\">In mezzo alla tempesta</span>, i <span style=\"color:#FFFFFFFF\">DAN fisici</span> del personaggio associato vengono convertiti in <span style=\"color:#80FFD7FF\">DAN da Anemo</span> per i suoi prossimi 2 <span style=\"color:#FFFFFFFF\">attacchi normali</span> in questo turno, e tali attacchi costano 2 <span style=\"color:#FFFFFFFF\">elementi indefiniti</span> in meno.<br/>(Per aggiungere questa carta, il tuo mazzo deve contenere Venti.)"
+    }
+  ]
+}

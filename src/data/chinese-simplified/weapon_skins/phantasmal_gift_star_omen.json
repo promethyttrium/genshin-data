@@ -1,0 +1,16 @@
+{
+  "_id": 380001,
+  "id": "phantasmal_gift_star_omen",
+  "name": "幻礼·星兆",
+  "description": "「从原理上来说，此世的诸多事象均可被称作『像』。因此，你在水晶球中瞥见的『像』在某种意义上也算是物质实在的外延。总之，就算艾莉丝和尼可都不承认，水占的正统性也是实在的！」",
+  "rarity": 4,
+  "type": {
+    "id": "Catalyst",
+    "name": "法器"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341801,
+  "icon_path": "UI_EquipIcon_Catalyst_Kristall",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_Kristall"
+}

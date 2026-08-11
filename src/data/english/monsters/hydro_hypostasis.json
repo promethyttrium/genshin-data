@@ -13,7 +13,6 @@
   "categoryText": "Elemental Lifeforms",
   "filename_icon": "UI_MonsterIcon_Effigy_Water",
   "description": "Code Name: He. A high-purity Hydro entity.\\nHypostases have strong rejection properties, and will mercilessly expel any that test them.\\nIts rejection behavior even extends to natural elements.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

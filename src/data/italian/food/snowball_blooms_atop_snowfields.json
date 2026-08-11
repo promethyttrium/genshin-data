@@ -1,0 +1,65 @@
+{
+  "_id": 3706,
+  "id": "snowball_blooms_atop_snowfields",
+  "name": "Fiori Palla di neve sui campi innevati",
+  "description": "Una classica insalata a strati. Ogni ingrediente viene preparato separatamente e poi disposto a strati con un condimento di panna acida insaporita distribuito tra di essi. Una volta assemblata, l'insalata viene solitamente lasciata riposare per un po' in modo che i sapori possano amalgamarsi completamente. Il piatto finito ricorda dei fiori Palla di neve sui campi innevati, ed è proprio per questo che il piatto ha questo nome.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 101280,
+      "id": "snowball_flower",
+      "name": "Fiore Palla di neve",
+      "amount": 3
+    },
+    {
+      "_id": 100084,
+      "id": "fish",
+      "name": "Pesce",
+      "amount": 2
+    },
+    {
+      "_id": 110009,
+      "id": "cheese",
+      "name": "Formaggio",
+      "amount": 1
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Uovo d'uccello",
+      "amount": 1
+    }
+  ],
+  "dish_type": "Piatto ATT+",
+  "results": {
+    "suspicious": {
+      "_id": 132013,
+      "name": "Fiori Palla di neve sui campi innevati sospetti",
+      "description": "Una classica insalata a strati. Dopo essere rimasta all'aria per molto tempo, la sua forma è diventata instabile. Peggio ancora, tutti gli ingredienti sembrano aver compiuto una migrazione caotica che ha confuso i sapori distinti di ogni strato... Sebbene sia ancora commestibile, ha perso la consistenza croccante che un'insalata dovrebbe avere.",
+      "effect": "#Aumenta di 160 l'ATT di tutti i membri del gruppo per 300 s. In modalità cooperativa, si applica solo ai tuoi personaggi."
+    },
+    "normal": {
+      "_id": 132014,
+      "name": "Fiori Palla di neve sui campi innevati",
+      "description": "Una classica insalata a strati. Ogni ingrediente viene preparato separatamente e poi disposto a strati con un condimento di panna acida insaporita distribuito tra di essi. Una volta assemblata, l'insalata viene solitamente lasciata riposare per un po' in modo che i sapori possano amalgamarsi completamente. Il piatto finito ricorda dei fiori Palla di neve sui campi innevati, ed è proprio per questo che il piatto ha questo nome.",
+      "effect": "#Aumenta di 194 l'ATT di tutti i membri del gruppo per 300 s. In modalità cooperativa, si applica solo ai tuoi personaggi."
+    },
+    "delicious": {
+      "_id": 132015,
+      "name": "Fiori Palla di neve sui campi innevati deliziosi",
+      "description": "Una classica insalata a strati. I fiori Palla di neve che decorano il bordo sembrano sbocciare ai margini di una desolata landa invernale, mentre il tuorlo dorato e ricco funge da sole al tramonto che dipinge l'orizzonte con la sua luce. Questa deliziosa opera d'arte culinaria rapisce la tua attenzione, finché il cucchiaio non batte sul fondo di un piatto vuoto. Aspetta... Già finito?",
+      "effect": "#Aumenta di 228 l'ATT di tutti i membri del gruppo per 300 s. In modalità cooperativa, si applica solo ai tuoi personaggi."
+    },
+    "special": {
+      "_id": 132017,
+      "id": "lakeside_snow_swan",
+      "name": "Cigno delle nevi in riva al lago",
+      "description": "La specialità di Odette. Una piccola porzione d'insalata giace placidamente al centro del piatto, quasi come illuminata da un riflettore al centro del palcoscenico, ogni strato disposto in modo preciso come i suoi passi di danza. Gli ingredienti sono stati dosati con una cura tale che terminare l'intera porzione non influirà sul tuo peso di domani... Quindi non esitare, gustala senza rimorsi!",
+      "effect": "#Aumenta di 274 l'ATT di tutti i membri del gruppo per 300 s. In modalità cooperativa, si applica solo ai tuoi personaggi.",
+      "character": {
+        "id": "odette",
+        "name": "Odette"
+      }
+    }
+  }
+}

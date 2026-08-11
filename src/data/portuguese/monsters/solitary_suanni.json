@@ -14,7 +14,6 @@
   "filename_icon": "UI_MonsterIcon_Hermit",
   "description": "Essas bestas elegantes e orgulhosas só vivem nas montanhas que têm poder Adepti.\\nDesde tempos antigos, foram consideradas um símbolo de boa sorte, e preferem viver descontraidamente no mundo material, sendo admiradas ao longo de gerações por intelectuais. Em lendas antigas do Vale Chenyu, o líder dos suanni se chamava Mestre da Montanha, e era considerado igual aos Adepti.\\nOutra teoria alega que Bestas Xuanwen que caminham nas montanhas hoje são descendentes dos suanni, mas que o afinamento de seu sangue ao longo dos anos as fez se tornar criaturas violentas. Entretanto, isso contradiz outra teoria sobre a origem das Bestas Xuanwen, pois os poucos registros que existem dos suanni mostra eles sempre acompanhados de inúmeras Bestas Xuanwen.\\nHoje em dia, a famosa Dança Wushou do Vale Chenyu veio dos movimentos dos suanni. Mas como só algumas pessoas viram essas criaturas, a maioria só imagina como elas se parecem. E depois de milhares de anos de mudanças e interpretações artísticas diferentes, a cabeça do traje da Dança Wushou chegou ao seu estilo atual.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
-  "bgm": 0,
   "budget": 1,
   "stats": {
     "resistance": {

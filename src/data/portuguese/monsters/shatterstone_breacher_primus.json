@@ -13,7 +13,6 @@
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_02",
   "description": "Estranhas criaturas que habitam principalmente o corpo de Elynas.\\nAo que parece, elas se emocionam bastante ao entrar em contato com a energia da Ousia e da Pneuma. Por isso, mesmo que não possuam um instinto agressivo, parece ser um bom método para eliminar os Primofissuradores.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

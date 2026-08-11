@@ -1,0 +1,90 @@
+{
+  "_id": 1516,
+  "id": "jahoda",
+  "shareId": 609,
+  "name": "Jahoda",
+  "title": "Jahoda · Ombre tisse-vent",
+  "desc": "Une réflexion assidue révèle même les secrets les plus sombres.",
+  "attributes": {
+    "hp": 10,
+    "card_type": "Carte de personnage",
+    "energy": 2,
+    "element": "Anémo",
+    "weapon": "Arc",
+    "faction": [
+      "Nod-Krai"
+    ],
+    "source": "Récompense pour avoir invité Jahoda à une partie amicale dans La Queue de Chat et remporté la victoire"
+  },
+  "skills": [
+    {
+      "id": "strike_while_the_arrows_hot",
+      "name": "Flèche d'opportunité",
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anémo",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Élément neutre",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "savvy_strategy_splitting_the_spoils",
+      "name": "Stratégie astucieuse : Partage de butin",
+      "desc": "Inflige 2 pts de <span style=\"color:#80FFD7FF\">DGT Anémo</span>, crée un cumul de <span style=\"color:#FFFFFFFF\">changement rapide</span> et bascule votre personnage pour le prochain personnage. De plus, crée une carte [<span style=\"color:#FFFFFFFF\">Flasque au trésor ronronnant</span>] dans votre main si vous n'avez pas déjà une carte [<span style=\"color:#FFFFFFFF\">Flasque au trésor ronronnant</span>] de quelque élément que ce soit dans votre main ; sinon, accorde une <span style=\"color:#FFFFFFFF\">réduction de coût</span> à toutes les cartes [<span style=\"color:#FFFFFFFF\">Flasque au trésor ronronnant</span>] dans votre main.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anémo",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "hidden_aces_seven_tools_of_the_hunter",
+      "name": "Atout secret : Sept gadgets du chasseur",
+      "desc": "Inflige 3 pts de <span style=\"color:#80FFD7FF\">DGT Anémo</span> et crée un <span style=\"color:#FFFFFFFF\">chatssistant coordinateur personnel</span>.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "Anémo",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Charge",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "moonsign_benediction_rooftop_dash",
+      "name": "Bénédiction de signelune : Ruée sur les toits",
+      "desc": "(Passif) Crée 1 carte [<span style=\"color:#FFFFFFFF\">Flasque au trésor ronronnant</span>] dans votre main au début du combat.<br/>Lorsque vous avez déclenché une réaction sélène ou une réaction de Dispersion : Accorde une <span style=\"color:#FFFFFFFF\">réduction de coût</span> à toutes les cartes [<span style=\"color:#FFFFFFFF\">Flasque au trésor ronronnant</span>] dans votre main. (2 fois par manche)",
+      "skillTag": [
+        "Capacité passive"
+      ],
+      "points": []
+    }
+  ]
+}

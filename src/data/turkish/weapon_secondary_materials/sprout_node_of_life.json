@@ -1,0 +1,24 @@
+{
+  "_id": 112156,
+  "id": "sprout_node_of_life",
+  "name": "Filizlenmiş Yaşam Düğümü",
+  "description": "Üzerinde epeyce kristal bulunuyor. Ele alındığında ağır olduğu hissediliyor ve Leshinin bedeninden kopmuş olsa bile içindeki canlılık izleri hâlâ seçilebiliyor.",
+  "source": [
+    "Sv. 40 ve üzeri Vahşi Orman Leshilerinden düşer.",
+    "Yıldız Tozu Takası",
+    "Yer Tutucu - Üretilebilir Miktar: {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112155,
+        "id": "hollow_root_of_life",
+        "name": "Oyuk Yaşam Kökü",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

@@ -1,52 +1,18 @@
 {
   "_id": 23073101,
   "id": "oprichniki_grenadier",
-  "monsterId": 23073102,
+  "monsterId": 23073104,
   "name": "Opríchnik Fatui - Granadera",
   "specialNames": [
     "Soldado de refuerzo"
   ],
-  "investigation": {
-    "investigationId": 84,
-    "name": "Opríchnik Fatui",
-    "categoryType": "Common",
-    "categoryText": "Normal",
-    "description": "Un Fatui encerrado en una máquina de guerra.\\nA diferencia de los soldados, los Opríchniks son unidades de élite que se reclutan formalmente y que se entrenan durante mucho tiempo. Estas unidades se envían a los lugares más importantes de los Fatui o a los frentes de batalla más peligrosos."
-  },
-  "filename_investigationIcon": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
-  "rewardPreviewId": 16027,
-  "rewardPreview": [
-    {
-      "_id": 202,
-      "id": "mora",
-      "name": "Mora"
-    },
-    {
-      "_id": 112127,
-      "id": "frostetched_warrant",
-      "name": "Distintivo escarchado",
-      "count": 0.084
-    },
-    {
-      "_id": 112126,
-      "id": "immaculate_warrant",
-      "name": "Distintivo sofisticado",
-      "count": 0.3362
-    },
-    {
-      "_id": 112125,
-      "id": "tattered_warrant",
-      "name": "Distintivo desgastado",
-      "count": 1.2606
-    }
-  ],
+  "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_Female",
   "description": "Una soldado de los Opríchniks Fatui armada con un lanzagranadas que puede disparar a corta distancia con la potencia de un vendaval.\\nAunque los Opríchniks Fatui cuentan con una potencia de fuego de refuerzo numerosa y completamente funcional, los oficiales al mando insisten en seguir manteniendo un gran número de Granaderas. Después de todo, ningún arma teóricamente pesada es tan fiable en la primera línea de batalla como un lanzagranadas que puede dispararse a voluntad.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

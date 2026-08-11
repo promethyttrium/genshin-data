@@ -13,7 +13,6 @@
   "categoryText": "ヒルチャール部族",
   "filename_icon": "UI_MonsterIcon_Brute_Rock_None",
   "description": "山々を歩き回る謎の「王者」。\\n同胞から「Lawa」と呼ばれる巨大なヒルチャール。周囲に満ちた岩元素は体の一部となり、血肉と皮膚は彫り上げた不動の岩みたいだ。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 8,
   "stats": {

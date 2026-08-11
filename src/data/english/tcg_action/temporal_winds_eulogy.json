@@ -1,0 +1,32 @@
+{
+  "_id": 215032,
+  "id": "temporal_winds_eulogy",
+  "shareId": 617,
+  "name": "Temporal Wind's Eulogy",
+  "title": "Venti: Temporal Wind's Eulogy",
+  "desc": "\"Therefore, the so-called 'Unrevealed' can mean only two things: a future not anchored by the stars, or one deliberately obscured by those with ill intentions. The latter is truly infuriating. I do hope the little witch in the story never becomes someone like that.\"",
+  "in_play_description": "After you summon <span style=\"color:#FFFFFFFF\">Stormeye</span>, the attached character's <span style=\"color:#FFFFFFFF\">Physical DMG</span> is converted to <span style=\"color:#80FFD7FF\">Anemo DMG</span> for their next two <span style=\"color:#FFFFFFFF\">Normal Attacks</span> during this Round, and these attacks cost 2 fewer <span style=\"color:#FFFFFFFF\">Unaligned Element</span>.",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "Anemo",
+    "card_type": "Equipment Card",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "Anemo",
+        "count": 3
+      }
+    ],
+    "tags": [
+      "Talent",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Fast Action</span>: Equip this to your <span style=\"color:#FFFFFFFF\">Venti</span>.<br/>Summon <span style=\"color:#FFFFFFFF\">Stormeye</span>.<br/>After you summon <span style=\"color:#FFFFFFFF\">Stormeye</span>, the attached character's <span style=\"color:#FFFFFFFF\">Physical DMG</span> is converted to <span style=\"color:#80FFD7FF\">Anemo DMG</span> for their next two <span style=\"color:#FFFFFFFF\">Normal Attacks</span> during this Round, and these attacks cost 2 fewer <span style=\"color:#FFFFFFFF\">Unaligned Element</span>.<br/>(You must have Venti in your deck to add this card to your deck.)"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "_id": 70800035,
+  "id": "everburning_hearth_core",
+  "name": "永遠に燃える炉心",
+  "areaName": "永結の凍土",
+  "areaId": 80200,
+  "description": "クルースニク晶鉱の民間利用を認めたのは、ツァーリ・ベールイだと言われている。\nスネージナヤにとって、彼は凍てつく風雪であると同時に、温もりをもたらす旭日でもあるのだ。",
+  "regionName": "スネージナヤ",
+  "regionId": 8,
+  "sortOrder": 635,
+  "filename_image": "UI_Codex_Scenery_ZDGuoLuFang"
+}

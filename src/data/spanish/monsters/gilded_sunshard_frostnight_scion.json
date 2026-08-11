@@ -1,7 +1,7 @@
 {
   "_id": 20080701,
   "id": "gilded_sunshard_frostnight_scion",
-  "monsterId": 20080702,
+  "monsterId": 84008072,
   "name": "Sucesor Nochescarcha - Esquirla áurea",
   "specialNames": [
     "Esquirla áurea"
@@ -13,9 +13,8 @@
   "categoryText": "Seres elementales",
   "filename_icon": "UI_MonsterIcon_Moonbeast_Rock",
   "description": "Un hermoso y grácil ser elemental que posee una gran afinidad con los elementos. Evolucionó hasta tener este aspecto tras exponerse a altas concentraciones del elemento Geo durante muchos años.\\nSu cuerpo al completo está cubierto por una acumulación del elemento Geo, mientras que sus duras astas brillan con el fulgor del ámbar pulido.\\nSegún las letanías del Lejano Norte que han sobrevivido hasta hoy en día, se trata de una criatura nacida de las bendiciones de la Luna Escarchada, un símbolo de la pureza de la fuente primigenia y del fulgor original. Tal vez esa sea la razón por la que rechazan a todo ser que se les acerca demasiado: porque no pueden soportar que su pureza se manche con los siete colores de la luz celeste.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

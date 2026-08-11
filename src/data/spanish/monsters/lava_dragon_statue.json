@@ -13,7 +13,6 @@
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_LavaTitan",
   "description": "Un monstruo que puede generar calor continuamente para mantenerse activo.\\nSe dice que estos monstruos, poseedores de un núcleo de lava, son el producto de una línea de investigación distinta al Mecanismo Fuentenigma que les siguió: la investigación sobre si el fuego primigenio podría utilizarse para crear una nueva raza imitando a los humanos. Sin duda, esta investigación fracasó, pues cuando llegó el sagrado trono del saqueador del cielo, todo lo que el fuego primigenio pudo dar a luz fueron cascarones vacíos sin fuerza vital y sin más consciencia que la de una piedra.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

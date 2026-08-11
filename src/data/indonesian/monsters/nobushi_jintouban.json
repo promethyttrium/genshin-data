@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Samurai_Ronin_01",
   "description": "Mereka adalah para samurai yang jatuh menjadi bandit. Meskipun mereka dijuluki Nobushi, tapi mereka tidak diatur oleh organisasi mana pun.\\nKarena mereka telah mendalami ilmu bela diri sekian lamanya, kemampuan pedang mereka sangat luar biasa, tapi sudah tidak digunakan untuk tujuan yang baik.\\nKadang, mereka bahkan bekerja sama dengan Treasure Hoarder atau Fatui untuk mendapatkan uang atau semata-mata demi bertahan hidup.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 8,
   "stats": {

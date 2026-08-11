@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Launcher_Hookwalker",
   "description": "Gök Kubbeden gelen ve yiğitliğiyle tanınan, bundan dolayı Sürüngen Tacına layık görülen güçlü bir savaşçı.\\nSaldırı menzilini artırmak için kanca kullanır. Karmaşık bir mekanik işçilik sayesinde kuşandığı el topunu kanca kullanarak ateşleyebilir. Gök Kubbenin Evlatlarının Sürüngen Taçlı Savaşçılarına göre insanın becerilerini ve düşüncelerini geliştirmesi, ruhunu ve iradesini eğitmesinden çok daha önemlidir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

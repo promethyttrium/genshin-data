@@ -13,7 +13,6 @@
   "categoryText": "アビス",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_02",
   "description": "主にエリナスに現れる不思議な生命体。\\nフォンテーヌで最初にブリーチャープリムスが観測されたのは、災いが過ぎて間もない頃だった。当時の記録には、ブリーチャープリムスが人を攻撃したというものと守ったというものが同時に残されている。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01",
   "description": "Seorang prajurit Fatui yang menggunakan pistol api sebagai senjatanya.\\nSenjata-senjata yang digunakan oleh Fatui Skirmisher dapat mengontrol elemen hingga batas tertentu, sehingga mereka juga dapat memanfaatkan reaksi elemental saat bertempur.\\n Karena senjatanya yang canggih dan kepintaran yang dimiliki oleh para Fatui Skirmisher inilah, mereka adalah musuh tangguh yang tidak dapat diremehkan.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

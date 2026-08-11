@@ -1,0 +1,80 @@
+{
+  "_id": 72,
+  "id": "meetings_in_outrealm_series_vii",
+  "name": "이세계에서의 만남·제7집",
+  "order": 37,
+  "achievements": [
+    {
+      "id": 86079,
+      "name": "현존재의 퇴락",
+      "desc": "다른 플레이어와 함께 서리밤 하늘 영주를 처치하기",
+      "reward": 10,
+      "hidden": false,
+      "order": 9076
+    },
+    {
+      "id": 86080,
+      "name": "배를 버려라",
+      "desc": "다른 플레이어와 함께 초대형 기갑 전함·기동전투 요새 처치하기",
+      "reward": 10,
+      "hidden": false,
+      "order": 9077
+    },
+    {
+      "id": 86081,
+      "name": "악몽 퇴치!",
+      "desc": "다른 플레이어와 함께 어둠의 악몽 영주 처치하기",
+      "reward": 10,
+      "hidden": false,
+      "order": 9078
+    },
+    {
+      "id": 86082,
+      "name": "파사현정",
+      "desc": "다른 플레이어와 함께 「도토레」 처치하기",
+      "reward": 10,
+      "hidden": false,
+      "order": 9079
+    },
+    {
+      "id": 86083,
+      "name": "붙이는 도마뱀",
+      "desc": "다른 플레이어와 함께 달빛 바위 도마뱀붙이 처치하기",
+      "reward": 10,
+      "hidden": false,
+      "order": 9080
+    },
+    {
+      "id": 86084,
+      "name": "「내가 내 번쩍이는 칼을 갈며…」",
+      "desc": "다른 플레이어와 함께 파수꾼·타락 처치하기",
+      "reward": 10,
+      "hidden": false,
+      "order": 9081
+    },
+    {
+      "id": 86085,
+      "name": "독생무명",
+      "desc": "다른 플레이어와 함께 도토레 처치하기",
+      "reward": 10,
+      "hidden": false,
+      "order": 9082
+    },
+    {
+      "id": 86086,
+      "name": "불사베기",
+      "desc": "다른 플레이어와 함께 불멸의 부산물 처치하기",
+      "reward": 10,
+      "hidden": false,
+      "order": 9083
+    },
+    {
+      "id": 86087,
+      "name": "Circle Of Life",
+      "desc": "다른 플레이어와 함께 날개 사자 키메라 처치하기",
+      "reward": 10,
+      "hidden": false,
+      "order": 9084
+    }
+  ]
+}

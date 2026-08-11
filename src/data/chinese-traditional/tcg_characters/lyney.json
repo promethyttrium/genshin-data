@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "角色牌",
     "energy": 2,
+    "element": "火元素",
+    "weapon": "弓",
     "faction": [
-      null,
-      null
+      "楓丹",
+      "愚人眾"
     ],
     "talent_card": {
       "_id": 4762,
@@ -30,8 +32,10 @@
     {
       "id": "card_force_translocation",
       "name": "迫牌易位式",
-      "desc": "造成?點?。",
-      "skillTag": [],
+      "desc": "造成2點?。",
+      "skillTag": [
+        "普通攻擊"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,8 +54,10 @@
     {
       "id": "prop_arrow",
       "name": "隱具魔術箭",
-      "desc": "造成?點?，召喚<span style=\"color:#FFFFFFFF\">怪笑貓貓帽</span>，累積1層<span style=\"color:#FFFFFFFF\">隱具餘數</span>。<br/>如果本角色生命值至少為6，則對自身造成1點<span style=\"color:#FFFFFFFF\">穿透傷害</span>。",
-      "skillTag": [],
+      "desc": "造成2點<span style=\"color:#FF9999FF\">火元素傷害</span>，召喚<span style=\"color:#FFFFFFFF\">怪笑貓貓帽</span>，累積1層<span style=\"color:#FFFFFFFF\">隱具餘數</span>。<br/>如果本角色生命值至少為6，則對自身造成1點<span style=\"color:#FFFFFFFF\">穿透傷害</span>。",
+      "skillTag": [
+        "普通攻擊"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -64,8 +70,10 @@
     {
       "id": "bewildering_lights",
       "name": "眩惑光戲法",
-      "desc": "造成?點?。",
-      "skillTag": [],
+      "desc": "造成3點<span style=\"color:#FF9999FF\">火元素傷害</span>。",
+      "skillTag": [
+        "元素戰技"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -78,8 +86,10 @@
     {
       "id": "wondrous_trick_miracle_parade",
       "name": "大魔術·靈跡巡遊",
-      "desc": "造成?點?，召喚<span style=\"color:#FFFFFFFF\">怪笑貓貓帽</span>，累積1層<span style=\"color:#FFFFFFFF\">隱具餘數</span>。",
-      "skillTag": [],
+      "desc": "造成3點<span style=\"color:#FF9999FF\">火元素傷害</span>，召喚<span style=\"color:#FFFFFFFF\">怪笑貓貓帽</span>，累積1層<span style=\"color:#FFFFFFFF\">隱具餘數</span>。",
+      "skillTag": [
+        "元素爆發"
+      ],
       "points": [
         {
           "_id": 1103,

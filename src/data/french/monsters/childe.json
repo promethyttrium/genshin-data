@@ -197,7 +197,6 @@
   "categoryText": "Boss",
   "filename_icon": "UI_MonsterIcon_Tartaglia",
   "description": "Tartaglia, le onzième des Exécuteurs Fatui.\\nIl tire son pouvoir de son sinistre œil maléfique et combat au moyen d'arts martiaux qu'il a appris dans une terre couverte par les ténèbres.\\nChaque conflit sanglant, chaque lutte à mort est une épreuve réjouissante à ses yeux.\\nCertains disent que le jeune Tartaglia est célèbre sur tout le continent pour ses prouesses au combat.\\nMais il n'a que faire de ces discours.\\n\\nAprès tout...\\n<i>« Tu seras toujours dans l'œil de la tempête,</i>\\n<i>et le choc de l'acier t'accompagnera à jamais.</i>\\n<i>Le sombre souvenir d'avoir pénétré dans l'obscurité,</i>\\n<i>deviendra la force qui te permettra de régner. »</i>",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 9,
   "budget": 1,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Forme di vita elementali",
   "filename_icon": "UI_MonsterIcon_Slime_Ice_02",
   "description": "Un piccolo mostro che si è creato tramite la coagulazione di Cryo nell'ambiente naturale.\\nUna volta, la concorrenza diffuse dei pettegolezzi malevoli secondo cui il Vigneto Prima Luce avrebbe usato i Melmosi di Cryo per controllare la temperatura della loro cantina e preservare la qualità del loro alcol.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

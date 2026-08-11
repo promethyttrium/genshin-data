@@ -1,0 +1,333 @@
+{
+  "_id": 12435,
+  "id": "forged_by_the_golden_melody",
+  "name": "Forgée par la loi d'or",
+  "description": "Une grande épée ornée d'or. La légende raconte qu'il s'agissait de l'arme de prédilection d'un certain accordeur exalté, dans un passé lointain.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Épée à deux mains"
+  },
+  "domain": "Échos des marées profondes",
+  "passive": "Jour et nuit en contrepoint",
+  "bonus": "Toutes les 10 s, le personnage équipé de l'arme joue un mouvement harmonique correspondant, accordant un bonus dans l'ordre suivant : ATQ +<span>18 %/22,5 %/27 %/31,5 %/36 %</span>, maîtrise élémentaire +<span>120/150/180/210/240</span> pts, puis DGT de réaction astrale +<span>28 %/35 %/42 %/49 %/56 %</span>. Chaque mouvement harmonique dure 10 s et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.<br/>Déclencher une réaction astrale accorde également un mouvement harmonique « Contrapuntique » pendant 12 s, dont l'effet est identique au mouvement harmonique en cours lors du déclenchement de la réaction astrale. Cet effet peut se cumuler avec l'effet du mouvement harmonique d'origine et peut être déclenché une fois toutes les 12 s.",
+  "specialProp": "Taux CRIT",
+  "stats": {
+    "primary": "ATQ de base",
+    "secondary": "Taux CRIT",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 42,
+        "secondary": 6
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 109,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 135,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 205,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 231,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 266,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 292,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 327,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 353,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 388,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 414,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 449,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 475,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 510,
+        "secondary": 27.6
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114053,
+          "id": "dross_of_pure_sacred_dewdrop",
+          "name": "Résidu de rosée sacrée pure",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112098,
+          "id": "ruined_hilt",
+          "name": "Pommeau abîmé",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112080,
+          "id": "transoceanic_pearl",
+          "name": "Perle transocéanique",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114054,
+          "id": "sublimation_of_pure_sacred_dewdrop",
+          "name": "Sublimation de rosée sacrée pure",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112098,
+          "id": "ruined_hilt",
+          "name": "Pommeau abîmé",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112080,
+          "id": "transoceanic_pearl",
+          "name": "Perle transocéanique",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114054,
+          "id": "sublimation_of_pure_sacred_dewdrop",
+          "name": "Sublimation de rosée sacrée pure",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112099,
+          "id": "splintered_hilt",
+          "name": "Pommeau rayé",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112081,
+          "id": "transoceanic_chunk",
+          "name": "Morceau transocéanique",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114055,
+          "id": "spring_of_pure_sacred_dewdrop",
+          "name": "Source de rosée sacrée pure",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112099,
+          "id": "splintered_hilt",
+          "name": "Pommeau rayé",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112081,
+          "id": "transoceanic_chunk",
+          "name": "Morceau transocéanique",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114055,
+          "id": "spring_of_pure_sacred_dewdrop",
+          "name": "Source de rosée sacrée pure",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112100,
+          "id": "stillsmoldering_hilt",
+          "name": "Pommeau incandescent",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112082,
+          "id": "xenochromatic_crystal",
+          "name": "Cristal xénochromatique",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114056,
+          "id": "essence_of_pure_sacred_dewdrop",
+          "name": "Essence de rosée sacrée pure",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112100,
+          "id": "stillsmoldering_hilt",
+          "name": "Pommeau incandescent",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112082,
+          "id": "xenochromatic_crystal",
+          "name": "Cristal xénochromatique",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "Jour et nuit en contrepoint",
+    "template": "Toutes les 10 s, le personnage équipé de l'arme joue un mouvement harmonique correspondant, accordant un bonus dans l'ordre suivant : ATQ +<span style=\"color:#99FFFFFF\">{0}</span>, maîtrise élémentaire +<span style=\"color:#99FFFFFF\">{1}</span> pts, puis DGT de réaction astrale +<span style=\"color:#99FFFFFF\">{2}</span>. Chaque mouvement harmonique dure 10 s et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.<br/>Déclencher une réaction astrale accorde également un mouvement harmonique « Contrapuntique » pendant 12 s, dont l'effet est identique au mouvement harmonique en cours lors du déclenchement de la réaction astrale. Cet effet peut se cumuler avec l'effet du mouvement harmonique d'origine et peut être déclenché une fois toutes les 12 s.",
+    "params": [
+      [
+        "18 %",
+        "120",
+        "28 %"
+      ],
+      [
+        "22,5 %",
+        "150",
+        "35 %"
+      ],
+      [
+        "27 %",
+        "180",
+        "42 %"
+      ],
+      [
+        "31,5 %",
+        "210",
+        "49 %"
+      ],
+      [
+        "36 %",
+        "240",
+        "56 %"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "Toutes les 10 s, le personnage équipé de l'arme joue un mouvement harmonique correspondant, accordant un bonus dans l'ordre suivant : ATQ +<span>18 %</span>, maîtrise élémentaire +<span>120</span> pts, puis DGT de réaction astrale +<span>28 %</span>. Chaque mouvement harmonique dure 10 s et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.<br/>Déclencher une réaction astrale accorde également un mouvement harmonique « Contrapuntique » pendant 12 s, dont l'effet est identique au mouvement harmonique en cours lors du déclenchement de la réaction astrale. Cet effet peut se cumuler avec l'effet du mouvement harmonique d'origine et peut être déclenché une fois toutes les 12 s."
+    },
+    {
+      "refinement": 2,
+      "desc": "Toutes les 10 s, le personnage équipé de l'arme joue un mouvement harmonique correspondant, accordant un bonus dans l'ordre suivant : ATQ +<span>22,5 %</span>, maîtrise élémentaire +<span>150</span> pts, puis DGT de réaction astrale +<span>35 %</span>. Chaque mouvement harmonique dure 10 s et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.<br/>Déclencher une réaction astrale accorde également un mouvement harmonique « Contrapuntique » pendant 12 s, dont l'effet est identique au mouvement harmonique en cours lors du déclenchement de la réaction astrale. Cet effet peut se cumuler avec l'effet du mouvement harmonique d'origine et peut être déclenché une fois toutes les 12 s."
+    },
+    {
+      "refinement": 3,
+      "desc": "Toutes les 10 s, le personnage équipé de l'arme joue un mouvement harmonique correspondant, accordant un bonus dans l'ordre suivant : ATQ +<span>27 %</span>, maîtrise élémentaire +<span>180</span> pts, puis DGT de réaction astrale +<span>42 %</span>. Chaque mouvement harmonique dure 10 s et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.<br/>Déclencher une réaction astrale accorde également un mouvement harmonique « Contrapuntique » pendant 12 s, dont l'effet est identique au mouvement harmonique en cours lors du déclenchement de la réaction astrale. Cet effet peut se cumuler avec l'effet du mouvement harmonique d'origine et peut être déclenché une fois toutes les 12 s."
+    },
+    {
+      "refinement": 4,
+      "desc": "Toutes les 10 s, le personnage équipé de l'arme joue un mouvement harmonique correspondant, accordant un bonus dans l'ordre suivant : ATQ +<span>31,5 %</span>, maîtrise élémentaire +<span>210</span> pts, puis DGT de réaction astrale +<span>49 %</span>. Chaque mouvement harmonique dure 10 s et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.<br/>Déclencher une réaction astrale accorde également un mouvement harmonique « Contrapuntique » pendant 12 s, dont l'effet est identique au mouvement harmonique en cours lors du déclenchement de la réaction astrale. Cet effet peut se cumuler avec l'effet du mouvement harmonique d'origine et peut être déclenché une fois toutes les 12 s."
+    },
+    {
+      "refinement": 5,
+      "desc": "Toutes les 10 s, le personnage équipé de l'arme joue un mouvement harmonique correspondant, accordant un bonus dans l'ordre suivant : ATQ +<span>36 %</span>, maîtrise élémentaire +<span>240</span> pts, puis DGT de réaction astrale +<span>56 %</span>. Chaque mouvement harmonique dure 10 s et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.<br/>Déclencher une réaction astrale accorde également un mouvement harmonique « Contrapuntique » pendant 12 s, dont l'effet est identique au mouvement harmonique en cours lors du déclenchement de la réaction astrale. Cet effet peut se cumuler avec l'effet du mouvement harmonique d'origine et peut être déclenché une fois toutes les 12 s."
+    }
+  ]
+}

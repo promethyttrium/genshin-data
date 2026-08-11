@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "ファデュイ",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan",
   "description": "ファデュイ特務隊に所属する兵士。重い盾を装備しており、交戦の最前線で仲間を援護する役割を担う。\\nスネージナヤと漆黒の災厄の長きにわたる戦いでは、強靭な支えによってより長く持ち堪えることが勝利への道であると多くの者が理解している。特務隊の「支え」とは、重撃兵の盾のことだ——盾が倒れない限り、勝利への希望は潰えない。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

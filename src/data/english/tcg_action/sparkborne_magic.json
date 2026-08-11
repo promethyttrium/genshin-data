@@ -1,0 +1,32 @@
+{
+  "_id": 213062,
+  "id": "sparkborne_magic",
+  "shareId": 615,
+  "name": "Sparkborne Magic",
+  "title": "Klee: Sparkborne Magic",
+  "desc": "\"And just like that, the cutest little Dodo-Sorcerer passed her qualification exam with the help of her friends. Now she's a real, full-fledged Dodo-Sorcerer! Congratulations!\"\\n\"Wait, weren't we supposed to be writing commentary? What does any of this have to do with the little witch!?\"",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">When the attached character uses a <span style=\"color:#FFFFFFFF\">Charged Attack</span>:</span> Deals 2 <span style=\"color:#FF9999FF\">Pyro DMG</span>. (Twice per Round)",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Pyro",
+    "card_type": "Equipment Card",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "Pyro",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Talent",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Fast Action</span>: Equip this to your <span style=\"color:#FFFFFFFF\">Klee</span>.<br/>Attach <span style=\"color:#FFFFFFFF\">Explosive Spark</span> to Klee.<br/><span style=\"color:#FFFFFFFF\">When the attached character uses a <span style=\"color:#FFFFFFFF\">Charged Attack</span>:</span> Deals 2 <span style=\"color:#FF9999FF\">Pyro DMG</span>. (Twice per Round)<br/>(You must have Klee in your deck to add this card to your deck.)"
+    }
+  ]
+}

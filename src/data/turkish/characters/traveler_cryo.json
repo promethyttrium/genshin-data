@@ -1,0 +1,1307 @@
+{
+  "_id": 10000007,
+  "id": "traveler_cryo",
+  "name": "Gezgin (Buz)",
+  "description": "Ailesinden geriye kalan son kişi elinden alındığı için Yedileri bulmak üzere bir yolculuğa çıkan, başka dünyadan gelen bir gezgin.",
+  "weapon_type": {
+    "id": "sword",
+    "name": "Kılıç"
+  },
+  "element": {
+    "id": "cryo",
+    "name": "Buz"
+  },
+  "gender": {
+    "id": "malefemale",
+    "name": "Erkek/Dişi"
+  },
+  "release": 1786561200,
+  "substat": "Saldırı%",
+  "affiliation": "-",
+  "region": {
+    "id": "mainactor",
+    "name": "MAINACTOR"
+  },
+  "rarity": 5,
+  "birthday": [
+    null,
+    null
+  ],
+  "constellation": "Gezgin",
+  "domain": "Ustalık Zindanı: İnziva",
+  "cv": {
+    "english": "Sarah Miller-Crews ve Çeşitli Sanatçılar",
+    "chinese": "宴宁 & 多多poi",
+    "japanese": "悠木碧 & 古賀葵",
+    "korean": "Lee Sae-ah & Kim Ka-ryoung"
+  },
+  "skills": [
+    {
+      "_id": 100554,
+      "id": "foreign_frostglint",
+      "name": "Yabancı Buz Parıltısı",
+      "description": "<span style=\"color:#FFD780FF\">Normal Saldırı</span><br/>En fazla 5 hızlı saldırı yapar.<br/><br/><span style=\"color:#FFD780FF\">Yüklü Saldırı</span><br/>Belirli miktarda Dayanıklılık harcayarak 2 hızlı kılıç saldırısı yapar.<br/><br/><span style=\"color:#FFD780FF\">Havadan Saldırı</span><br/>Havadayken dalışa geçerek yere vurur ve yoluna çıkan düşmanlara Alan Hasarı verir.",
+      "info": "",
+      "attributes": [
+        {
+          "label": "1 Vuruş Hasarı",
+          "values": [
+            "44.5%",
+            "48.1%",
+            "51.7%",
+            "56.9%",
+            "60.5%",
+            "64.6%",
+            "70.3%",
+            "76%",
+            "81.7%",
+            "87.9%",
+            "94.1%",
+            "100.3%",
+            "106.5%",
+            "112.7%",
+            "118.9%"
+          ]
+        },
+        {
+          "label": "2 Vuruş Hasarı",
+          "values": [
+            "43.4%",
+            "47%",
+            "50.5%",
+            "55.5%",
+            "59.1%",
+            "63.1%",
+            "68.7%",
+            "74.2%",
+            "79.8%",
+            "85.9%",
+            "91.9%",
+            "98%",
+            "104%",
+            "110.1%",
+            "116.1%"
+          ]
+        },
+        {
+          "label": "3 Vuruş Hasarı",
+          "values": [
+            "53%",
+            "57.3%",
+            "61.6%",
+            "67.8%",
+            "72.1%",
+            "77%",
+            "83.8%",
+            "90.6%",
+            "97.3%",
+            "104.7%",
+            "112.1%",
+            "119.5%",
+            "126.9%",
+            "134.3%",
+            "141.7%"
+          ]
+        },
+        {
+          "label": "4 Vuruş Hasarı",
+          "values": [
+            "58.3%",
+            "63.1%",
+            "67.8%",
+            "74.6%",
+            "79.3%",
+            "84.8%",
+            "92.2%",
+            "99.7%",
+            "107.1%",
+            "115.3%",
+            "123.4%",
+            "131.5%",
+            "139.7%",
+            "147.8%",
+            "155.9%"
+          ]
+        },
+        {
+          "label": "5 Vuruş Hasarı",
+          "values": [
+            "70.8%",
+            "76.5%",
+            "82.3%",
+            "90.5%",
+            "96.3%",
+            "102.9%",
+            "111.9%",
+            "121%",
+            "130%",
+            "139.9%",
+            "149.8%",
+            "159.7%",
+            "169.5%",
+            "179.4%",
+            "189.3%"
+          ]
+        },
+        {
+          "label": "Yüklü Saldırı Hasarı",
+          "values": [
+            "55.9% + 72.2%",
+            "60.5% + 78.1%",
+            "65% + 84%",
+            "71.5% + 92.4%",
+            "76% + 98.3%",
+            "81.3% + 105%",
+            "88.4% + 114.2%",
+            "95.5% + 123.5%",
+            "102.7% + 132.7%",
+            "110.5% + 142.8%",
+            "118.3% + 152.9%",
+            "126.1% + 163%",
+            "133.9% + 173%",
+            "141.7% + 183.1%",
+            "149.5% + 193.2%"
+          ]
+        },
+        {
+          "label": "Yüklü Saldırı Dayanıklılık Maliyeti",
+          "values": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "label": "Havadan Saldırı Hasarı",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "Havadan Saldırı Hasarı (Alçaktan/Yüksekten)",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 10128,
+      "id": "frostbound_javelin",
+      "name": "Donuk Mızrak",
+      "description": "Buz elementinin gücüyle bir buz mızrağı oluşturur, ardından mızrağı düşmana fırlatarak birden fazla defa <span style=\"color:#99FFFFFF\">Buz Hasarı</span> verir.<br/>Kullanıldığında Gezgin mevcut tüm <b><span style=\"color:#FFD780FF\">Buz Işıltısı</span></b> kademelerini tüketerek bu Element Patlamasının verdiği Hasarı artırır. 8 kademe <span style=\"color:#FFD780FF\">Buz Işıltısı</span> tüketildiğinde mızrakların Hasar verme sayısı da artar.<br/><br/><b><span style=\"color:#FFD780FF\">Işıltı: Yıldız Parıltısı</span></b>: Mevcut Element Patlamasının Hasarı değişerek ilgili Yıldız Parıltısı tepkimesi türünün <span style=\"color:#99FFFFFF\">Buz Hasarını</span> verir.",
+      "info": "Paimon ile beraber buz sarkıtlarının keskin kenarlarını hissettiniz.",
+      "attributes": [
+        {
+          "label": "Buz Mızrağı Hasarı",
+          "values": [
+            "55.1% / Vuruş",
+            "59.3% / Vuruş",
+            "63.4% / Vuruş",
+            "68.9% / Vuruş",
+            "73% / Vuruş",
+            "77.2% / Vuruş",
+            "82.7% / Vuruş",
+            "88.2% / Vuruş",
+            "93.7% / Vuruş",
+            "99.2% / Vuruş",
+            "104.7% / Vuruş",
+            "110.3% / Vuruş",
+            "117.2% / Vuruş",
+            "124% / Vuruş",
+            "130.9% / Vuruş"
+          ]
+        },
+        {
+          "label": "Buz Işıltısı Hasar Bonusu",
+          "values": [
+            "2.8%",
+            "3%",
+            "3.2%",
+            "3.4%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%",
+            "4.7%",
+            "5%",
+            "5.2%",
+            "5.5%",
+            "5.9%",
+            "6.2%",
+            "6.5%"
+          ]
+        },
+        {
+          "label": "Yıldız İletimi Buz Mızrağı Tek Vuruş Hasarı",
+          "values": [
+            "36.8%",
+            "39.5%",
+            "42.3%",
+            "45.9%",
+            "48.7%",
+            "51.5%",
+            "55.1%",
+            "58.8%",
+            "62.5%",
+            "66.2%",
+            "69.8%",
+            "73.5%",
+            "78.1%",
+            "82.7%",
+            "87.3%"
+          ]
+        },
+        {
+          "label": "Yıldız İletimi Buz Işıltısı Hasar Bonusu",
+          "values": [
+            "1.8%",
+            "2%",
+            "2.1%",
+            "2.3%",
+            "2.4%",
+            "2.6%",
+            "2.8%",
+            "2.9%",
+            "3.1%",
+            "3.3%",
+            "3.5%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%"
+          ]
+        },
+        {
+          "label": "Yıldız Girdabı Buz Mızrağı Tek Vuruş Hasarı",
+          "values": [
+            "55.1%",
+            "59.3%",
+            "63.4%",
+            "68.9%",
+            "73%",
+            "77.2%",
+            "82.7%",
+            "88.2%",
+            "93.7%",
+            "99.2%",
+            "104.7%",
+            "110.3%",
+            "117.2%",
+            "124%",
+            "130.9%"
+          ]
+        },
+        {
+          "label": "Yıldız Girdabı Buz Işıltısı Hasar Bonusu",
+          "values": [
+            "2.8%",
+            "3%",
+            "3.2%",
+            "3.4%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%",
+            "4.7%",
+            "5%",
+            "5.2%",
+            "5.5%",
+            "5.9%",
+            "6.2%",
+            "6.5%"
+          ]
+        },
+        {
+          "label": "Saldırıdaki Darbe Sayısı",
+          "values": [
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3"
+          ]
+        },
+        {
+          "label": "Maks. Kademede Ek Buz Işıltısı Darbesi",
+          "values": [
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2"
+          ]
+        },
+        {
+          "label": "BS",
+          "values": [
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn"
+          ]
+        },
+        {
+          "label": "Enerji Maliyeti",
+          "values": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 10127,
+      "id": "ice_fog_piercer",
+      "name": "Buz Sisi Kılıcı",
+      "description": "Silahını düşmana saplar ve buz gibi soğuk bir sis ortaya çıkarır. Bu saldırı, önündeki düşmanlara <span style=\"color:#99FFFFFF\">Buz Hasarı</span> verir ve Gezginin yanında bir Buzdelen Yıldızı oluşturur.<br/><br/><span style=\"color:#FFD780FF\">Buzdelen Yıldızı</span><br/>·Kendi grup üyelerini savaş alanında takip eder ve düzenli aralıklarla yakındaki düşmanlara buz kristalleri fırlatarak <span style=\"color:#99FFFFFF\">Buz Hasarı</span> verir.<br/><span style=\"color:#FFD780FF\">Işıltı: Yıldız İletimi</span>: Buzdelen Yıldızı artık düzenli aralıklarla düşmanlara buz kristalleri fırlatmaz. Bunun yerine, Gezgin bir düşmana Normal Saldırı, Yüklü Saldırı veya Havadan Saldırıyla vurduğunda ortak saldırı yaparak düşmanlara buz kristali fırlatır. Bu etki 0,2 saniyede bir tetiklenebilir.<br/>·Bir düşmana buz kristali isabet ettiğinde Gezgin 1 kademe <b><span style=\"color:#FFD780FF\">Buz Işıltısı</span></b> kazanır, 8 kademeye kadar birikebilir.<br/>·Savaşta değilken <span style=\"color:#FFD780FF\">Buz Işıltısı</span> 30sn sonra sona erer.",
+      "info": "Paimon ile birlikte buzun oluşumunu gözlemlediniz.",
+      "attributes": [
+        {
+          "label": "Beceri Hasarı",
+          "values": [
+            "91.7%",
+            "98.6%",
+            "105.4%",
+            "114.6%",
+            "121.5%",
+            "128.4%",
+            "137.5%",
+            "146.7%",
+            "155.9%",
+            "165%",
+            "174.2%",
+            "183.4%",
+            "194.8%",
+            "206.3%",
+            "217.7%"
+          ]
+        },
+        {
+          "label": "Buz Kristali Hasarı",
+          "values": [
+            "21.4%",
+            "23%",
+            "24.6%",
+            "26.7%",
+            "28.3%",
+            "29.9%",
+            "32.1%",
+            "34.2%",
+            "36.4%",
+            "38.5%",
+            "40.6%",
+            "42.8%",
+            "45.5%",
+            "48.1%",
+            "50.8%"
+          ]
+        },
+        {
+          "label": "Buzdelen Yıldızı Süresi",
+          "values": [
+            "12sn",
+            "12sn",
+            "12sn",
+            "12sn",
+            "12sn",
+            "12sn",
+            "12sn",
+            "12sn",
+            "12sn",
+            "12sn",
+            "12sn",
+            "12sn",
+            "12sn",
+            "12sn",
+            "12sn"
+          ]
+        },
+        {
+          "label": "BS",
+          "values": [
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn",
+            "15sn"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "everkeen_frost",
+      "name": "Keskin Soğuk",
+      "description": "<span style=\"color:#FFD780FF\">Işıltı: Yıldız İletimi</span>: Alanda bir <span style=\"color:#FFD780FF\">Buzdelen Yıldızı</span> varken Gezginin Normal, Yüklü ve Havadan Saldırılarıyla verdiği Hasar, başka bir Element Tesiriyle değiştirilemeyecek şekilde <span style=\"color:#99FFFFFF\">Buz Hasarına</span> dönüşür. Ayrıca verilen Hasar, Gezginin Saldırısının %80'i kadar artar.",
+      "level": 1
+    },
+    {
+      "id": "lucent_ice",
+      "name": "Berrak Buz",
+      "description": "Gezginin Element Ustalığı, Saldırısının %8'i kadar artar. Bu şekilde en fazla 160 Element Ustalığı artışı sağlanabilir.",
+      "level": 4
+    },
+    {
+      "id": "stellar_jubilee_illusory_frostmirror",
+      "name": "Yıldız Takdisi: Yanıltıcı Buzul Ayna",
+      "description": "Gezgin bir <span style=\"color:#FFD780FF\">Kutup Yıldızı Alanı</span> içindeyken <b><span style=\"color:#FFD780FF\">Işıltı: Yıldız İletimi</span></b> durumuna, yakındaki bir grup üyesi bir Yıldız Girdabı tepkimesi tetiklediğinde ise 8 saniyeliğine <span style=\"color:#FFD780FF\">Işıltı: Yıldız Girdabı</span> durumuna girer.<br/>Bir grup üyesi bir Süper İletim veya Buz Girdabı tepkimesi tetiklediğinde bu tepkime, Yıldız İletimi veya Yıldız Girdabı tepkimesine dönüşür ve Gezginin Saldırısının her 100 puanı için söz konusu tepkimenin Temel Hasarı %0,35 artar. Bu şekilde en fazla %7 artış elde edilebilir.",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 81,
+      "id": "somber_freeze",
+      "name": "Kasvetli Kırağı",
+      "description": "Gezgin, Yıldız Parıltısı Hasarı verdiğinde 5 Element Enerjisi yeniler. Bu etki 0,5 saniyede bir tetiklenebilir.",
+      "level": 1
+    },
+    {
+      "_id": 82,
+      "id": "frostfall_reverberation",
+      "name": "Karların Yankısı",
+      "description": "<color=#FFD780FF><b>Buz Sisi Kılıcı</b></color> Element Becerisi ile fırlatılan bir <span style=\"color:#FFD780FF\">buz kristali</span> bir düşmana isabet ettiğinde 5 saniyeliğine aktif karakterin Element Ustalığı 60 artar.<br/>Ayrıca yukarıdaki etki altındaki bir karakter bir Yıldız Parıltısı tepkimesi tetiklediğinde veya Yıldız Parıltısı Tepkimesi Hasarı verdiğinde yukarıdaki Element Ustalığı artışı, etki süresi boyunca 120'ye çıkar.",
+      "level": 2
+    },
+    {
+      "_id": 83,
+      "id": "glacial_shard",
+      "name": "Buzul Parçası",
+      "description": "<color=#FFD780FF><b>Donuk Mızrak</b></color> Element Patlamasının seviyesini 3 artırır.<br/>Maksimum yükseltme seviyesi 15'tir.",
+      "level": 3
+    },
+    {
+      "_id": 84,
+      "id": "enduring_ice",
+      "name": "Erimeyen Buz",
+      "description": "<color=#FFD780FF><b>Buz Sisi Kılıcı</b></color> Element Becerisi tarafından oluşturulan <span style=\"color:#FFD780FF\">Buzdelen Yıldızının</span> süresi %25 artar.",
+      "level": 4
+    },
+    {
+      "_id": 85,
+      "id": "bittercold_fog",
+      "name": "Yoğun Soğuk Sis",
+      "description": "<color=#FFD780FF><b>Buz Sisi Kılıcı</b></color> Element Becerisinin seviyesini 3 artırır.<br/>Maksimum yükseltme seviyesi 15'tir.",
+      "level": 5
+    },
+    {
+      "_id": 86,
+      "id": "brumal_grimfrost",
+      "name": "Ağır Buz Örtüsü",
+      "description": "<b><span style=\"color:#FFD780FF\">Donuk Mızrak</span></b> Element Patlamasını kullanırken tüketilen her <b><span style=\"color:#FFD780FF\">Buz Işıltısı</span></b> kademesi, 15 saniyeliğine diğer grup üyelerinin verdiği Yıldız Parıltısı Tepkimesi Hasarını %5 artırır. Bu şekilde en fazla %40 artış elde edilebilir.",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "Yükselt",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "Temel Can",
+          "values": [
+            "-",
+            "912"
+          ]
+        },
+        {
+          "label": "Temel Saldırı",
+          "values": [
+            "-",
+            "18"
+          ]
+        },
+        {
+          "label": "Temel Savunma",
+          "values": [
+            "-",
+            "57"
+          ]
+        },
+        {
+          "label": "Saldırı%",
+          "values": [
+            "-",
+            "0.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "Yükselt",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "Temel Can",
+          "values": [
+            "2342",
+            "3024"
+          ]
+        },
+        {
+          "label": "Temel Saldırı",
+          "values": [
+            "46",
+            "59"
+          ]
+        },
+        {
+          "label": "Temel Savunma",
+          "values": [
+            "147",
+            "190"
+          ]
+        },
+        {
+          "label": "Saldırı%",
+          "values": [
+            "0.0%",
+            "0.0%"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "Yükselt",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "Temel Can",
+          "values": [
+            "4529",
+            "5013"
+          ]
+        },
+        {
+          "label": "Temel Saldırı",
+          "values": [
+            "88",
+            "98"
+          ]
+        },
+        {
+          "label": "Temel Savunma",
+          "values": [
+            "284",
+            "315"
+          ]
+        },
+        {
+          "label": "Saldırı%",
+          "values": [
+            "0.0%",
+            "6.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104101,
+        "id": "brilliant_diamond_sliver",
+        "name": "Elmas Tozu",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Rüzgargülü Çiçeği",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112005,
+        "id": "damaged_mask",
+        "name": "Kırık Maske",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "Yükselt",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "Temel Can",
+          "values": [
+            "5766",
+            "6411"
+          ]
+        },
+        {
+          "label": "Temel Saldırı",
+          "values": [
+            "113",
+            "125"
+          ]
+        },
+        {
+          "label": "Temel Savunma",
+          "values": [
+            "362",
+            "402"
+          ]
+        },
+        {
+          "label": "Saldırı%",
+          "values": [
+            "6.0%",
+            "12.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104102,
+        "id": "brilliant_diamond_fragment",
+        "name": "Elmas Kırıntısı",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Rüzgargülü Çiçeği",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112005,
+        "id": "damaged_mask",
+        "name": "Kırık Maske",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "Yükselt",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "Temel Can",
+          "values": [
+            "7164",
+            "7648"
+          ]
+        },
+        {
+          "label": "Temel Saldırı",
+          "values": [
+            "140",
+            "149"
+          ]
+        },
+        {
+          "label": "Temel Savunma",
+          "values": [
+            "450",
+            "480"
+          ]
+        },
+        {
+          "label": "Saldırı%",
+          "values": [
+            "12.0%",
+            "12.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104102,
+        "id": "brilliant_diamond_fragment",
+        "name": "Elmas Kırıntısı",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Rüzgargülü Çiçeği",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112006,
+        "id": "stained_mask",
+        "name": "Lekeli Maske",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "Yükselt",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "Temel Can",
+          "values": [
+            "8401",
+            "8885"
+          ]
+        },
+        {
+          "label": "Temel Saldırı",
+          "values": [
+            "164",
+            "174"
+          ]
+        },
+        {
+          "label": "Temel Savunma",
+          "values": [
+            "527",
+            "558"
+          ]
+        },
+        {
+          "label": "Saldırı%",
+          "values": [
+            "12.0%",
+            "18.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104103,
+        "id": "brilliant_diamond_chunk",
+        "name": "Elmas Parçası",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Rüzgargülü Çiçeği",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112006,
+        "id": "stained_mask",
+        "name": "Lekeli Maske",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "Yükselt",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "Temel Can",
+          "values": [
+            "9638",
+            "10122"
+          ]
+        },
+        {
+          "label": "Temel Saldırı",
+          "values": [
+            "188",
+            "198"
+          ]
+        },
+        {
+          "label": "Temel Savunma",
+          "values": [
+            "605",
+            "635"
+          ]
+        },
+        {
+          "label": "Saldırı%",
+          "values": [
+            "18.0%",
+            "24.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104103,
+        "id": "brilliant_diamond_chunk",
+        "name": "Elmas Parçası",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Rüzgargülü Çiçeği",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112007,
+        "id": "ominous_mask",
+        "name": "Uğursuz Maske",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "Yükselt",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "Temel Can",
+          "values": [
+            "10875",
+            "10875"
+          ]
+        },
+        {
+          "label": "Temel Saldırı",
+          "values": [
+            "212",
+            "212"
+          ]
+        },
+        {
+          "label": "Temel Savunma",
+          "values": [
+            "683",
+            "683"
+          ]
+        },
+        {
+          "label": "Saldırı%",
+          "values": [
+            "24.0%",
+            "24.0%"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104104,
+        "id": "brilliant_diamond_gemstone",
+        "name": "Elmas Külçesi",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat3": {
+        "_id": 100024,
+        "id": "windwheel_aster",
+        "name": "Rüzgargülü Çiçeği",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112007,
+        "id": "ominous_mask",
+        "name": "Uğursuz Maske",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104365,
+          "id": "teachings_of_charity",
+          "name": "Merhamet Öğretisi",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Kimerik Çekirdek",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Metanet Rehberi",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Simbiyotik Kimerik Çekirdek",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104372,
+          "id": "guide_to_glory",
+          "name": "İhtişam Rehberi",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Simbiyotik Kimerik Çekirdek",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104366,
+          "id": "guide_to_charity",
+          "name": "Merhamet Rehberi",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Simbiyotik Kimerik Çekirdek",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "Metanet Rehberi",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Simbiyotik Kimerik Çekirdek",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104373,
+          "id": "philosophies_of_glory",
+          "name": "İhtişam Felsefesi",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Asal Kimerik Düğüm",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Yükselmiş Örnek: Vezir",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104367,
+          "id": "philosophies_of_charity",
+          "name": "Merhamet Felsefesi",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Asal Kimerik Düğüm",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Yükselmiş Örnek: Vezir",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "Metanet Felsefesi",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Asal Kimerik Düğüm",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Yükselmiş Örnek: Vezir",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104373,
+          "id": "philosophies_of_glory",
+          "name": "İhtişam Felsefesi",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Asal Kimerik Düğüm",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113075,
+          "id": "ascended_sample_queen",
+          "name": "Yükselmiş Örnek: Vezir",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "Bilgelik Tacı",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 200701,
+      "name": "Yer ve Gök Yeniden Yaratılırken",
+      "description": "İkiz \"yıldızlara\" sayısız dünyadaki yolculukları boyunca eşlik etmiş, Gezgin tarafından giyilen bir giysi. Buna rağmen evrenin gerçek amacını henüz kavrayabilmiş değil. Yine de her soru onu nihai cevaba biraz daha yaklaştırıyor.",
+      "isDefault": false,
+      "characterName": "Lumine",
+      "characterId": 10000007,
+      "source": [
+        "Elde etmek için \"Gerçek Ay\" Hükümdar Görevini tamamla."
+      ],
+      "filename_card": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Card",
+      "filename_icon": "UI_AvatarIcon_PlayerGirlCostumeCWXR",
+      "filename_iconCircle": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Circle",
+      "filename_splash": "UI_Costume_PlayerGirlCostumeCWXR",
+      "filename_sideIcon": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR"
+    },
+    {
+      "id": 200700,
+      "name": "Yükselen Yıldız",
+      "description": "Gezginin giysisi. Uzun yolculuklar için uygun bir kıyafet.",
+      "isDefault": true,
+      "characterName": "Lumine",
+      "characterId": 10000007,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_PlayerGirl_Circle"
+    }
+  ]
+}

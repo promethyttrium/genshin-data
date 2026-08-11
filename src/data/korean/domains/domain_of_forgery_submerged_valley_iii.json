@@ -16,6 +16,11 @@
   "recommendedElements": [
     "번개 원소"
   ],
+  "daysOfWeek": [
+    "화요일",
+    "금요일",
+    "일요일"
+  ],
   "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
   "domainText": "Weapon Ascension Materials",
   "rewardPreview": [

@@ -32,7 +32,6 @@
   "categoryText": "Automi",
   "filename_icon": "UI_MonsterIcon_Gargoyle",
   "description": "Una terrificante macchina a forma di drago.\\nSi dice che fosse una macchina da guerra appartenuta a una nazione ormai distrutta. Il suo aspetto ricorda quello dei cosiddetti Elementosauri, rispetto ai quali possiede diverse migliorie a livello funzionale. Tali macchinari hanno infatti una capacità di \"assorbimento\" (o sarebbe meglio dire di \"contrasto\") dei poteri elementali superiore a quella dei normali Elementosauri.\\nData una simile abilità, è facile intuire che la civiltà responsabile di tali creazioni avesse un livello di ambizione semplicemente fuori dal comune...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

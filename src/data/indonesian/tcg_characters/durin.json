@@ -1,0 +1,90 @@
+{
+  "_id": 1317,
+  "id": "durin",
+  "shareId": 608,
+  "name": "Durin",
+  "title": "\"The Undying Fire\" Durin",
+  "desc": "Terlahir dari goresan pena, kemudian terbang bebas di antara bintang-bintang.",
+  "attributes": {
+    "hp": 10,
+    "card_type": "Kartu Karakter",
+    "energy": 2,
+    "element": "Pyro",
+    "weapon": "Sword",
+    "faction": [
+      "Mondstadt"
+    ],
+    "source": "Hadiah yang didapatkan setelah mengundang Durin ke Cat's Tail dan menang dalam Pertandingan Persahabatan melawannya"
+  },
+  "skills": [
+    {
+      "id": "radiant_wingslash",
+      "name": "Radiant Wingslash",
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Pyro",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Elemen Tidak Selaras",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "binary_form_convergence_and_division",
+      "name": "Binary Form: Convergence and Division",
+      "desc": "Mengakibatkan 3 poin <span style=\"color:#FF9999FF\">Pyro DMG</span>. Diri sendiri memperoleh status <span style=\"color:#FFFFFFFF\">Essential Transmutation</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Pyro",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "principle_of_purity_as_the_light_shifts",
+      "name": "Principle of Purity: As the Light Shifts",
+      "desc": "Mengakibatkan 1 poin <span style=\"color:#FF9999FF\">Pyro DMG</span> dan menciptakan <span style=\"color:#FFFFFFFF\">Confirmation of Purity</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Pyro",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Energy",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "light_manifest_of_the_divine_calculus",
+      "name": "Light Manifest of the Divine Calculus",
+      "desc": "(Pasif) <span style=\"color:#FFFFFFFF\">Setelah diri sendiri menggunakan Normal Attack:</span> Mengganti Elemental Burst diri sendiri menjadi <span style=\"color:#FFFFFFFF\">Principle of Darkness: As the Stars Smolder</span>.<br/><span style=\"color:#FFFFFFFF\">Setelah menggunakan Elemental Skill:</span> Mengganti Elemental Burst diri sendiri menjadi <span style=\"color:#FFFFFFFF\">Principle of Purity: As the Light Shifts</span>.",
+      "skillTag": [
+        "Passive Skill"
+      ],
+      "points": []
+    }
+  ]
+}

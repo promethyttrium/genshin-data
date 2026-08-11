@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Human_Male_Claymore_Shamansaurus",
   "description": "Um guerreiro do Vento Noturno, um guardião tribal que patrulha dos cânions nevoados.\\nApenas sentinelas cuja força foi testada são permitidas se cobrirem com tal pintura corporal, infundida com poderes misteriosos do jeito que é. Isso também significa que esses guerreiros alcançaram uma nova fase em seu treinamento mental.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

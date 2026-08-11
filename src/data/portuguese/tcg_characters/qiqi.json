@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 3,
+    "element": "Cryo",
+    "weapon": "Espada",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 4016,
@@ -29,8 +31,10 @@
     {
       "id": "ancient_sword_art",
       "name": "Arte da Espada Antiga",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,7 +54,9 @@
       "id": "adeptus_art_herald_of_frost",
       "name": "Arte do Adeptus: Arauto da Floresta",
       "desc": "Invoca <span style=\"color:#FFFFFFFF\">Arauto da Floresta</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "adeptus_art_preserver_of_fortune",
       "name": "Arte do Adeptus: Preservador da Fortuna",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, gera <span style=\"color:#FFFFFFFF\">Talismã da Preservação da Fortuna</span>.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#99FFFFFF\">Dano Cryo</span>, gera <span style=\"color:#FFFFFFFF\">Talismã da Preservação da Fortuna</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1101,

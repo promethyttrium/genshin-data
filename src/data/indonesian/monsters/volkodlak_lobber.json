@@ -1,0 +1,40 @@
+{
+  "_id": 25131001,
+  "id": "volkodlak_lobber",
+  "monsterId": 25131105,
+  "name": "Volkodlak Lobber",
+  "specialNames": [
+    "Lobber"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Makhluk Mistis",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "description": "Salah satu jenis Volkodlak di Snezhnaya yang bertubuh relatif kekar.\\nMemiliki kekuatan binatang dan tubuh manusia, lengan bagian atas yang luar biasa membuat mereka mampu melempar dengan daya yang lebih besar dan ketepatan yang lebih tinggi. Volkodlak mungkin tidak begitu mahir dalam teknik Prime Ice atau penggunaan elemen, tetapi dalam hal penguasaan kekuatan tubuh, mereka tergolong yang terdepan di antara berbagai ras peri.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 6.400646,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

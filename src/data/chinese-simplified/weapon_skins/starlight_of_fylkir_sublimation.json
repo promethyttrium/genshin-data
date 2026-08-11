@@ -1,0 +1,21 @@
+{
+  "_id": 330004,
+  "id": "starlight_of_fylkir_sublimation",
+  "name": "芬里基亚的星芒·真化",
+  "description": "自地脉至深之处显现的、闪映着「永恒」之光的辉耀兵刃幻形，能依据持有者的元素类型变化自身。据说在如今早已无法追忆的古老时代，高天的御使曾将饰金的长枪赐予沙尔·芬德尼尔的主祭，允其引领尚未葬入苍银的城邦。",
+  "rarity": 5,
+  "type": {
+    "id": "Polearm",
+    "name": "长柄武器"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1004,
+    "name": "辉耀幻形·永恒（真化）",
+    "priority": 2
+  },
+  "item_id": 341304,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphFylkir_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphFylkir_Great"
+}

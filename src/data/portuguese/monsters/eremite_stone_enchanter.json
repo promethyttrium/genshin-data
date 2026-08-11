@@ -31,22 +31,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Seda Vermelha Bordada",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Cetim Vermelho Desbotado",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Eremite_Male_Strong_Katar",
   "description": "Um membro de um grupo de mercenários desorganizados do deserto. Ele trabalhará para qualquer se o pagamento valer a pena.\\nEm dias antigos, esses guerreiros altamente equipados eram guardas pessoais e confiáveis do Rei do Sol Ardente. Talvez seja por isso eles brilham como o sol dourado até hoje.\\nFragmentos ominosos de espíritos são liberados das armas que usam, despertando em momentos de perigo. Quando essas armas despertam, elas só podem ser silenciadas pelos prantos dos derrotados, quer sejam de seus portadores ou dos inimigos deles.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

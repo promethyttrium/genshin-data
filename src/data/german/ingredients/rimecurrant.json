@@ -1,0 +1,26 @@
+{
+  "_id": 101281,
+  "id": "rimecurrant",
+  "name": "Raureifbeere",
+  "description": "Eine geschmacksintensive Beere, die auf frostbedeckten Eiszweigen wächst.",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Raureifbeereneis"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Schaschlik"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Zuckersüße Eiskugeln"
+    }
+  ],
+  "source": [
+    "Empfohlen: In Snezhnaya zu finden"
+  ]
+}

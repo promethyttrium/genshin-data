@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Beta_Rock",
   "description": "Sinh vật bào tử có trí tuệ nhất định. Có khả năng thích nghi hoàn cảnh cực tốt.\\nNguyên tố Nham phong phú trên phần đầu nấm của chúng đã tạo thành lớp vỏ cứng cáp. Để lắc lư phần đầu nặng nề thì chắc phần thân của nó cũng phải có kết cấu bền bỉ hơn đồng loại.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

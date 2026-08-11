@@ -1,0 +1,90 @@
+{
+  "_id": 1317,
+  "id": "durin",
+  "shareId": 608,
+  "name": "두린",
+  "title": "꺼지지 않는 불·두린",
+  "desc": "펜 끝에서 탄생한 별바다 순행자",
+  "attributes": {
+    "hp": 10,
+    "card_type": "캐릭터 카드",
+    "energy": 2,
+    "element": "불 원소",
+    "weapon": "한손검",
+    "faction": [
+      "몬드"
+    ],
+    "source": "캣테일 술집에서 두린 초대 및 친선 대전 난이도 승리 후 획득"
+  },
+  "skills": [
+    {
+      "id": "radiant_wingslash",
+      "name": "불꽃 날개 베기",
+      "desc": "?를 2pt 준다.",
+      "skillTag": [
+        "일반 공격"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "불 원소",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "무색 원소",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "binary_form_convergence_and_division",
+      "name": "이원식·융합분열",
+      "desc": "<span style=\"color:#FF9999FF\">불 원소 피해</span>를 3pt 주고 자신에게 <span style=\"color:#FFFFFFFF\">본질 전환</span>을 부착한다.",
+      "skillTag": [
+        "원소전투 스킬"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "불 원소",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "principle_of_purity_as_the_light_shifts",
+      "name": "백화·흐르는 빛",
+      "desc": "<span style=\"color:#FF9999FF\">불 원소 피해</span>를 1pt 주고 <span style=\"color:#FFFFFFFF\">긍정의 백화</span>를 생성한다.",
+      "skillTag": [
+        "원소폭발"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "불 원소",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "원소 에너지",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "light_manifest_of_the_divine_calculus",
+      "name": "신성한 빛의 공식",
+      "desc": "[패시브] <span style=\"color:#FFFFFFFF\">자신이 「일반 공격」 사용 후: </span>자신의 「원소폭발」을 <span style=\"color:#FFFFFFFF\">흑도·불타는 별</span>로 전환한다.<br/><span style=\"color:#FFFFFFFF\">자신이 「원소전투 스킬」 사용 후: </span>자신의 「원소폭발」을 <span style=\"color:#FFFFFFFF\">백화·흐르는 빛</span>으로 전환한다.",
+      "skillTag": [
+        "패시브 스킬"
+      ],
+      "points": []
+    }
+  ]
+}

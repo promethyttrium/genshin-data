@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Altre armi",
     "faction": [
-      null
+      "Eremiti"
     ],
     "talent_card": {
       "_id": 7066,
@@ -27,8 +29,10 @@
     {
       "id": "floralring_caress",
       "name": "Carezza dell'anello floreale",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -47,8 +51,10 @@
     {
       "id": "spiraling_whirl",
       "name": "Spirale vorticosa",
-      "desc": "Infligge $[D__KEY__DAMAGE_3] ?, genera 1 accumulo di <span style=\"color:#FFFFFFFF\">Benedizione del serpente spirituale</span>.",
-      "skillTag": [],
+      "desc": "Infligge $[D__KEY__DAMAGE_3] <span style=\"color:#7EC236FF\">DAN da Dendro</span>, genera 1 accumulo di <span style=\"color:#FFFFFFFF\">Benedizione del serpente spirituale</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -61,8 +67,10 @@
     {
       "id": "spirit_of_omens_awakening_dendro_spiritserpent",
       "name": "Risveglio dello Spirito del presagio: Serpente spirituale di Dendro",
-      "desc": "Infligge ? ?. Una volta a partita, associa <span style=\"color:#FFFFFFFF\">Spirito del presagio: Serpente spirituale di Dendro</span> a questo personaggio.<br/>(I personaggi con <span style=\"color:#FFFFFFFF\">Spirito del presagio: Serpente spirituale di Dendro</span> associato possono usare la tecnica: <span style=\"color:#FFFFFFFF\">Lamascaglie di rampicanti</span>.)",
-      "skillTag": [],
+      "desc": "Infligge 4 <span style=\"color:#7EC236FF\">DAN da Dendro</span>. Una volta a partita, associa <span style=\"color:#FFFFFFFF\">Spirito del presagio: Serpente spirituale di Dendro</span> a questo personaggio.<br/>(I personaggi con <span style=\"color:#FFFFFFFF\">Spirito del presagio: Serpente spirituale di Dendro</span> associato possono usare la tecnica: <span style=\"color:#FFFFFFFF\">Lamascaglie di rampicanti</span>.)",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -82,7 +90,9 @@
       "id": "spirit_of_omens_power",
       "name": "Potere dello Spirito del presagio",
       "desc": "(Passiva) <span style=\"color:#FFFFFFFF\">Quando questo personaggio subisce DAN:</span> se i PS di questo personaggio sono 7 o meno, ottiene 1 punto <span style=\"color:#FFFFFFFF\">Energia</span> (una volta per turno).",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

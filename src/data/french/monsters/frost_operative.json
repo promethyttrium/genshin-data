@@ -64,19 +64,19 @@
       "_id": 112094,
       "id": "operatives_constancy",
       "name": "Constance d'opérateur",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112093,
       "id": "operatives_standard_pocket_watch",
       "name": "Montre à gousset d'opérateur",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112092,
       "id": "old_operatives_pocket_watch",
       "name": "Vieille montre à gousset d'opérateur",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -127,7 +127,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Escadron_Ice",
   "description": "Un agent d'élite des Fatui.\\nSélectionnés dès l'enfance, ils ne peuvent devenir opérateurs qu'après de longues années d'entraînement et d'enseignement, et après avoir suffisamment « élagué les terrains ». Ce sont les soldats les plus remarquables des Fatui, avec des compétences extraordinaires et une loyauté inébranlable.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

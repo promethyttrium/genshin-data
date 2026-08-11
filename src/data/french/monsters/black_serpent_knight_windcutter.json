@@ -22,7 +22,6 @@
   "categoryText": "Ordre de l'Abîme",
   "filename_icon": "UI_MonsterIcon_Darkwraith_Strong_Wind",
   "description": "Un garde impérial au statut élevé. Il élimine les ennemis de la cour avec une technique d'épée appelée « Quête de la vérité ».\\nDainsleif, « l'Épée du crépuscule » était autrefois un de ces soldats, avant que la gloire de son royaume ne s'évanouisse et qu'il n'en reste plus rien.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

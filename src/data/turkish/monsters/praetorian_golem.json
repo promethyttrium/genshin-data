@@ -25,19 +25,19 @@
       "_id": 112100,
       "id": "stillsmoldering_hilt",
       "name": "Yanmaya Devam Eden Kabza",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112099,
       "id": "splintered_hilt",
       "name": "Ayrık Kabza",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112098,
       "id": "ruined_hilt",
       "name": "Yıpranmış Kabza",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Golem_Legion",
   "description": "Bir savaşçıya benzeyen ve hareket eden bir heykel. Onun koruması altındaki bölgeye girmeye cesaret eden herkese karşı kılıcını savurmaya hazırdır. Gücünün kaynağı bir ruh ya da bir büyü olabilir.\\nBir zamanlar golem lejyonlarının, engin denizleri kendine yurt bilen ulusları fethettiği söylenir. Belki bu savaşçı da o lejyonların bir üyesiydi. Şimdilerde suların altına gömülmüş büyük kuleler ve saraylar, bir zamanlar kader çarkının yoluna çıkma cüreti gösterenlerin kaderine tanıklık ediyordu.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

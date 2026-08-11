@@ -1,7 +1,7 @@
 {
   "_id": 26220301,
   "id": "gluttonous_yumkasaur_mountain_king",
-  "monsterId": 26220303,
+  "monsterId": 84622032,
   "name": "山の王·貪食のユムカ竜",
   "specialNames": [
     "巨大な山の王"
@@ -15,7 +15,7 @@
   "description": "太古から生き延び、無数の戦場を経験してきた強大なユムカ竜。\\nかつて偉大な英雄たちと共に黒き波に立ち向かった「山の王」は、部族「懸木の民」の人々の心に特別な存在として刻まれている。部族の中にはこのユムカ竜の体格を、「暴君」と呼ばれるあのクク竜と同じく、特殊な体質に起因するものだと考える者がいる。しかし実際のところ、ただ単に長く生き続け、非常に多くのものを食べてきた結果にすぎないのかもしれない。",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 7,
-  "budget": 1,
+  "budget": 2,
   "stats": {
     "resistance": {
       "physical": 0.1,

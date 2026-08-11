@@ -10,7 +10,7 @@
   },
   "domain": "Garten der fließenden Sande",
   "passive": "Badehäuser, Falken und Narukami",
-  "bonus": "Erhöht die Elementarkunde nach Auslösen der Reaktion Verwirbelung 6 s lang um <span>120/150/180/210/240</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um <span>96/120/144/168/192</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um <span>32/40/48/56/64</span> Punkte.",
+  "bonus": "Erhöht die Elementarkunde nach dem Auslösen der Reaktionen Verwirbelung oder Stellar-Verwirbelung 6 s lang um <span>120/150/180/210/240</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um <span>96/120/144/168/192</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um <span>32/40/48/56/64</span> Punkte.",
   "specialProp": "Elementarkunde",
   "stats": {
     "primary": "Basis-ANG",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Badehäuser, Falken und Narukami",
-    "template": "Erhöht die Elementarkunde nach Auslösen der Reaktion Verwirbelung 6 s lang um <span style=\"color:#99FFFFFF\">{0}</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um <span style=\"color:#99FFFFFF\">{1}</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um <span style=\"color:#99FFFFFF\">{2}</span> Punkte.",
+    "template": "Erhöht die Elementarkunde nach dem Auslösen der Reaktionen Verwirbelung oder Stellar-Verwirbelung 6 s lang um <span style=\"color:#99FFFFFF\">{0}</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um <span style=\"color:#99FFFFFF\">{1}</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um <span style=\"color:#99FFFFFF\">{2}</span> Punkte.",
     "params": [
       [
         "120",
@@ -312,23 +311,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "Erhöht die Elementarkunde nach Auslösen der Reaktion Verwirbelung 6 s lang um <span>120</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um <span>96</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um <span>32</span> Punkte."
+      "desc": "Erhöht die Elementarkunde nach dem Auslösen der Reaktionen Verwirbelung oder Stellar-Verwirbelung 6 s lang um <span>120</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um <span>96</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um <span>32</span> Punkte."
     },
     {
       "refinement": 2,
-      "desc": "Erhöht die Elementarkunde nach Auslösen der Reaktion Verwirbelung 6 s lang um <span>150</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um <span>120</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um <span>40</span> Punkte."
+      "desc": "Erhöht die Elementarkunde nach dem Auslösen der Reaktionen Verwirbelung oder Stellar-Verwirbelung 6 s lang um <span>150</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um <span>120</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um <span>40</span> Punkte."
     },
     {
       "refinement": 3,
-      "desc": "Erhöht die Elementarkunde nach Auslösen der Reaktion Verwirbelung 6 s lang um <span>180</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um <span>144</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um <span>48</span> Punkte."
+      "desc": "Erhöht die Elementarkunde nach dem Auslösen der Reaktionen Verwirbelung oder Stellar-Verwirbelung 6 s lang um <span>180</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um <span>144</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um <span>48</span> Punkte."
     },
     {
       "refinement": 4,
-      "desc": "Erhöht die Elementarkunde nach Auslösen der Reaktion Verwirbelung 6 s lang um <span>210</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um <span>168</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um <span>56</span> Punkte."
+      "desc": "Erhöht die Elementarkunde nach dem Auslösen der Reaktionen Verwirbelung oder Stellar-Verwirbelung 6 s lang um <span>210</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um <span>168</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um <span>56</span> Punkte."
     },
     {
       "refinement": 5,
-      "desc": "Erhöht die Elementarkunde nach Auslösen der Reaktion Verwirbelung 6 s lang um <span>240</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um <span>192</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um <span>64</span> Punkte."
+      "desc": "Erhöht die Elementarkunde nach dem Auslösen der Reaktionen Verwirbelung oder Stellar-Verwirbelung 6 s lang um <span>240</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um <span>192</span> Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um <span>64</span> Punkte."
     }
   ]
 }

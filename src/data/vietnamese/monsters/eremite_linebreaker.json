@@ -31,22 +31,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Băng Đỏ Viền Vàng",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Băng Đỏ Phai Màu",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Eremite_MuscleMan_Gloves",
   "description": "Đến từ sa mạc có màu của vàng, là một thành viên trong đoàn thể lính đánh thuê riêng lẻ. Vì thù lao, sẵn sàng ra sức cho bất kỳ ai.\\nTinh thông võ nghệ và được trang bị đôi găng tay dao sắc lẻm, gia nhập Eremite vì để tìm kiếm đối thủ mạnh hơn và nhiều hơn. Thay vì nói rằng chiến đấu vì thù lao, chi bằng nói để theo đuổi cảnh giới võ nghệ cao hơn.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

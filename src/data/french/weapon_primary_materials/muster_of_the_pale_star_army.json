@@ -1,0 +1,29 @@
+{
+  "_id": 114086,
+  "id": "muster_of_the_pale_star_army",
+  "name": "Rassemblement de l'armée pâle",
+  "description": "« Ils ont conquis le canyon par pur hasard. Cet imbécile d'une arrogance risible n'est plus qu'un éclair épuisé, un vent qui s'éteint.{NON_BREAK_SPACE}»<br/>« Malgré toute leur force, ils peuvent à peine retenir une fraction de nos troupes. Bientôt, leur défaite sera manifeste. »<br/>« Soldats, en avant ! Car notre roi l'a déjà prédit, car toute cette campagne se terminera par une victoire sans effort ! »",
+  "source": [
+    "Emplacement réservé - Quantité synthétisable : {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114085,
+        "id": "rise_of_the_pale_star_army",
+        "name": "Montée de l'armée pâle",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Donjon de la maîtrise : Cicatrice d'une obsession maudite",
+  "days": [
+    "Lundi",
+    "Jeudi",
+    "Dimanche"
+  ]
+}

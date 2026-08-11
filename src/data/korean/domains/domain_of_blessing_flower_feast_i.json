@@ -1,0 +1,80 @@
+{
+  "_id": 4687,
+  "id": "domain_of_blessing_flower_feast_i",
+  "name": "축성 비경: 꽃밭 I",
+  "entranceId": 2003,
+  "entranceName": "산바람의 가시관",
+  "description": "첩첩산중에 숨겨진 꽃의 비경. 외진 곳에 있어 지금은 인적이 드물다.\n이곳을 점령한 악한 이들을 처치하면 진귀한 성유물을 획득할 수 있을지도 모른다",
+  "regionId": 1,
+  "regionName": "몬드",
+  "recommendedLevel": 59,
+  "unlockRank": 30,
+  "disorder": [
+    "When your active character's Normal or Charged Attack hits an opponent, the DMG dealt by their Charged Attack and Elemental Skill increases by 15% for 5s. Max 5 stacks. Each stack's duration is counted independently. This effect will be canceled when the character leaves the field."
+  ],
+  "filename_image": "UI_DungeonPic_MDDungeon_Cycle05",
+  "recommendedElements": [
+    "바람 원소",
+    "얼음 원소",
+    "불 원소"
+  ],
+  "domainType": "UI_ABYSSUS_RELIC",
+  "domainText": "Artifacts",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "모험 경력",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "모라",
+      "count": "1850"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "호감도 경험치",
+      "count": "15"
+    },
+    {
+      "_id": 400400,
+      "id": "celestial_gift",
+      "name": "Celestial Gift",
+      "rarity": 4
+    },
+    {
+      "_id": 400410,
+      "id": "disenchantment_in_deep_shadow",
+      "name": "Disenchantment in Deep Shadow",
+      "rarity": 4
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Berserker",
+      "rarity": 3
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "The Exile",
+      "rarity": 3
+    }
+  ],
+  "monsterList": []
+}

@@ -18,6 +18,11 @@
     "น้ำแข็ง",
     "ไฟฟ้า"
   ],
+  "daysOfWeek": [
+    "วันอังคาร",
+    "วันศุกร์",
+    "วันอาทิตย์"
+  ],
   "domainType": "UI_ABYSSUS_AVATAR_PROUD",
   "domainText": "Talent Level-Up Material",
   "rewardPreview": [

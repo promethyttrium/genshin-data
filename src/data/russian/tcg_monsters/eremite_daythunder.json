@@ -8,16 +8,20 @@
     "hp": 8,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Электро",
+    "weapon": "Прочее",
     "faction": [
-      null
+      "Пустынники"
     ]
   },
   "skills": [
     {
       "id": "axe_swipe",
       "name": "Удар топором",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -36,8 +40,10 @@
     {
       "id": "whirling_cleave",
       "name": "Вихревой удар",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 3 ед.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,8 +56,10 @@
     {
       "id": "greataxe_smash",
       "name": "Тяжёлый удар топором",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 5 ед.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -71,7 +79,9 @@
       "id": "ominous_spirit_unleashed_electro",
       "name": "Зловещий дух (Электро)",
       "desc": "(Пассивный навык) <span style=\"color:#FFFFFFFF\">Когда этот персонаж получает урон:</span> если у этого персонажа не более 7 HP, ему добавляется 1 <span style=\"color:#FFFFFFFF\">Энергия</span> и <span style=\"color:#FFFFFFFF\">Пробуждение духа предзнаменования: Электро</span>. Только 1 раз за игру.",
-      "skillTag": [],
+      "skillTag": [
+        "Пассивный навык"
+      ],
       "points": []
     }
   ]

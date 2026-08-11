@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Altre armi",
     "faction": [
-      null,
-      null
+      "Mostro",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "torch_strike",
       "name": "Colpo di torcia",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 1 <span style=\"color:#FF9999FF\">DAN da Pyro</span>.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -37,8 +41,10 @@
     {
       "id": "hit_and_run",
       "name": "Corri e colpisci",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 <span style=\"color:#FF9999FF\">DAN da Pyro</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -51,8 +57,10 @@
     {
       "id": "scorching_combo",
       "name": "Combo rovente",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 4 <span style=\"color:#FF9999FF\">DAN da Pyro</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1103,

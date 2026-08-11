@@ -32,7 +32,6 @@
   "categoryText": "Automates",
   "filename_icon": "UI_MonsterIcon_Gargoyle",
   "description": "Une imposante machine de combat à l'apparence d'un dragon.\\nLa légende veut qu'il s'agisse d'une arme de guerre, vestige d'une civilisation aujourd'hui disparue. Il conserve l'apparence de base d'un Élémentosaure, mais a été modifié pour que ses performances soient améliorées. Comparé à un vrai Élémentosaure, il a une plus grande capacité d'absorption et de parade des éléments.\\nComment une civilisation capable de créer une telle arme de guerre a-t-elle pu s'éteindre ?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

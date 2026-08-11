@@ -1,0 +1,21 @@
+{
+  "_id": 350002,
+  "id": "starpiercer_sublimation",
+  "name": "꿰뚫린 별·실체",
+  "description": "지맥 가장 깊은 곳에서 나타난 찬란한 무기의 형상. 「공간」의 힘이 빛나고 있으며, 소유자의 원소 타입에 따라 변화한다. 고대 왕국에서 「구시스나우타르」라 불렸던 이 무기는 한때 초월한 죄인이 소지했다",
+  "rarity": 5,
+  "type": {
+    "id": "Bow",
+    "name": "활"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1002,
+    "name": "형상·초월(실체)",
+    "priority": 1
+  },
+  "item_id": 341502,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Bow_MorphChrod_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Bow_MorphChrod_Great"
+}

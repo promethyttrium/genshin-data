@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01",
   "description": "Seorang prajurit yang mengendalikan mesin perang Fatui.\\nDipersenjatai dengan peralatan yang bisa mengontrol elemen sampai batas tertentu, senjata mereka bisa menembakkan es.\\nMeski mereka memiliki kekuatan elemental di luar batas kemampuan manusia biasa, kekuatan ini mungkin tidak didapatkan tanpa suatu harga yang harus dibayar...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

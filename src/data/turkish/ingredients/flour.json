@@ -313,6 +313,11 @@
       "name": "Çifte Meyve Çörekleri"
     },
     {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
+    },
+    {
       "_id": 3901,
       "id": "crisp_croissant_combo",
       "name": "Kıtır Kruvasan Kombosu"
@@ -400,6 +405,5 @@
   ],
   "source": [
     "İşlenerek elde edilir."
-  ],
-  "rarity": 0
+  ]
 }

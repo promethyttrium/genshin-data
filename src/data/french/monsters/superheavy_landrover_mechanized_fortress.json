@@ -13,8 +13,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuimecha_AMP",
   "description": "Appelé en interne « Type Drzislav », ce mécanisme de classe super-lourde a été développé conjointement par l'Armurerie et le Bureau d'études expérimentales du kuuvahki.\\nCe véhicule tout-terrain géant était initialement conçu pour un usage civil, notamment pour le transport lourd, comme en témoignent ses foreuses et ses déblayeurs. Cependant, les modèles de production ultérieurs ont été militarisés et équipés d'armes lourdes.\\nAprès tout, dans ce monde mortel sous la lune, même les conceptions les plus parfaites et les plus divines peuvent s'écarter de leur objectif initial, sans parler des machines nées de mains mortelles conçues avec des intentions humbles et imparfaites dès le départ.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 1,
   "stats": {
     "resistance": {

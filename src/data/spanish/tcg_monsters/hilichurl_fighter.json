@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Sin tipo elemental",
+    "weapon": "Otras armas",
     "faction": [
-      null,
-      null
+      "Monstruo",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "hit",
       "name": "Golpe",
-      "desc": "Inflige ? pt. de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "jump_and_hit",
       "name": "Salto y golpe",
-      "desc": "Inflige ? pts. de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -45,8 +51,10 @@
     {
       "id": "swing_that_club",
       "name": "A diestro y siniestro",
-      "desc": "Inflige ? pts. de ?.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts. de ?.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1108,

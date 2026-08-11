@@ -1,0 +1,32 @@
+{
+  "_id": 71,
+  "id": "mortal_travails_series_vii",
+  "name": "Weltreise – Reihe 7",
+  "order": 9,
+  "achievements": [
+    {
+      "id": 80525,
+      "name": "Requiem des gefrorenen Windes",
+      "desc": "Erhalte die Kryo-Kraft.",
+      "reward": 5,
+      "hidden": false,
+      "order": 484
+    },
+    {
+      "id": 80526,
+      "name": "Wenn der Gesang die Nacht zerreißt",
+      "desc": "Sammle die komplette Reihe von „Polarstern-Balletika“.",
+      "reward": 5,
+      "hidden": false,
+      "order": 485
+    },
+    {
+      "id": 80528,
+      "name": "Geschichten der Verstorbenen",
+      "desc": "Sammle die komplette Reihe von „Die allgemeine Geschichte von Snezhnaya“.",
+      "reward": 5,
+      "hidden": false,
+      "order": 487
+    }
+  ]
+}

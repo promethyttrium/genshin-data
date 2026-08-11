@@ -13,7 +13,6 @@
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Magbeast_Steppenwolf",
   "description": "Ma thú đã trải qua một quá trình tiến hóa độc đáo do được hấp thụ sức mạnh của mặt trăng cổ xưa trong thời gian dài.\\nTruyền thuyết kể rằng, khi thảm họa đen tối quét sạch vô vàn sinh vật, rừng rậm nơi vùng biên đã chìm trong tĩnh lặng. Vào thời khắc ấy, tiếng sói tru dưới ánh trăng đã xé toạc sự tĩnh lặng này. Tiếng gầm gừ như khúc bi ca của bầy sói đã cùng ánh trăng lạnh lẽo, vang vọng trên vùng đất hoang dã trong vô số đêm dài.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

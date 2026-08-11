@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Human_Female_Sword_Hookwalker",
   "description": "Una guerrera de los árboles, así como una centinela tribal que patrulla por cañones y bosques con arroyos.\\nEn comparación con los guerreros de otras tribus, estas, que siempre están de acá para allá entre las montañas con sus cuerdas y sus ganchos, tienen una excelente percepción del entorno y no dejan de pensar en formas de derrotar a sus oponentes atrapándolos por sorpresa.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 12,
   "stats": {

@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Hỏa",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null,
-      null
+      "Ma Vật",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "torch_strike",
       "name": "Đuốc Xung Kích",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm <span style=\"color:#FF9999FF\">Sát Thương Nguyên Tố Hỏa</span>.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -37,8 +41,10 @@
     {
       "id": "hit_and_run",
       "name": "Vừa Chạy Vừa Đánh",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#FF9999FF\">Sát Thương Nguyên Tố Hỏa</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -51,8 +57,10 @@
     {
       "id": "scorching_combo",
       "name": "Quơ Đuốc",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 4 điểm <span style=\"color:#FF9999FF\">Sát Thương Nguyên Tố Hỏa</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1103,

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Geo",
+    "weapon": "Sword",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 7064,
@@ -29,8 +31,10 @@
     {
       "id": "weaving_blade",
       "name": "Weaving Blade",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -50,7 +54,9 @@
       "id": "fluttering_hasode",
       "name": "Fluttering Hasode",
       "desc": "<span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Pilih</span></span> 1 Panggilan dari 3 <span style=\"color:#FFFFFFFF\">Chiori's Automaton Doll</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1106,
@@ -63,8 +69,10 @@
     {
       "id": "hiyoku_twin_blades",
       "name": "Hiyoku: Twin Blades",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 5 poin <span style=\"color:#FFE699FF\">Geo DMG</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1106,

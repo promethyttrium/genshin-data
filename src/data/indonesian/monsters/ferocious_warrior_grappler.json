@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Human_Fat_Sword_Bisonsaurus",
   "description": "Petarung dari dataran tinggi dan seorang penjaga suku yang berpatroli di ladang emas.\\nDi suku \"Berlimpah Jaya\", keahlian bertarung dengan tangan kosong dianggap sebagai suatu kehormatan tinggi. Para pejuang yang ingin menapaki jalan latihan ini harus memiliki kekuatan untuk melempar tombak sejauh ratusan meter.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

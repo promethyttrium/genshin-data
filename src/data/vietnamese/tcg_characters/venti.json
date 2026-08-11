@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Phong",
+    "weapon": "Cung",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "talent_card": {
       "_id": 3851,
@@ -29,8 +31,10 @@
     {
       "id": "divine_marksmanship",
       "name": "Xạ Thuật Của Thần",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "skyward_sonnet",
       "name": "Bài Ca Trời Cao",
-      "desc": "Gây ? điểm ?, tạo 1 <span style=\"color:#FFFFFFFF\">Vùng Gió</span>.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#80FFD7FF\">Sát Thương Nguyên Tố Phong</span>, tạo 1 <span style=\"color:#FFFFFFFF\">Vùng Gió</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "winds_grand_ode",
       "name": "Bài Thơ Thần Gió",
-      "desc": "Gây ? điểm ?, triệu hồi <span style=\"color:#FFFFFFFF\">Mắt Bão</span>.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#80FFD7FF\">Sát Thương Nguyên Tố Phong</span>, triệu hồi <span style=\"color:#FFFFFFFF\">Mắt Bão</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1105,

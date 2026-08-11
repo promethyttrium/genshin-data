@@ -1,0 +1,40 @@
+{
+  "_id": 25131601,
+  "id": "volkodlak_sharpshooter",
+  "monsterId": 25131705,
+  "name": "兽怪瞄击者",
+  "specialNames": [
+    "瞄击者"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "异种魔兽",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Thin_Pistol",
+  "description": "在至冬的诸多兽怪之中，相对小巧和敏捷的那类。\\n拥有比人类更敏锐的感官，不管是对于风速的感受，还是在特定环境下的视力都成为了他们独有的优势，能让他们在进行远距离的弓弩或火炮射击时命中率要远远高于常人。",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 5.486268,
+      "attack": 54.069954,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

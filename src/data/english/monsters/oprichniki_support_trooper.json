@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan",
   "description": "A soldier of the Fatui Oprichniki, equipped with a heavy shield and tasked to fight at the very front to protect their comrades.\\nMany understand that in the long war between Snezhnaya and the dark calamity, only the side that holds out with greater resolution can outlast the other and emerge victorious. The ultimate resolution of the Oprichniki is, undoubtedly, the shield that protects their forces — so long as this shield does not fall, there is always hope for victory.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

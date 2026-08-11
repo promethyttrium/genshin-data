@@ -481,9 +481,31 @@
     "迪林巴巴尔攻击矩阵",
     "迪林巴巴尔防卫矩阵",
     "败生的新诞者",
+    "???",
+    "陆行疾隼",
     "败生的新诞者",
     "遥仰群星的先驱",
-    "创造之光的余晖"
+    "创造之光的余晖",
+    "不灭衍生造物",
+    "「扎拉」",
+    "瓦西里·埃迪普·伊兹梅洛",
+    "自冰封的征还者",
+    "古萨罗夫",
+    "「原初之人」",
+    "阿克西妮娅",
+    "帕芙琳娜",
+    "远征的归还者",
+    "紊乱巡陆艇",
+    "娜斯佳",
+    "弗瑞奥萨",
+    "升华者克列诺娃",
+    "卑劣者科瓦利斯卡娅",
+    "茨韦塔耶夫",
+    "布拉金",
+    "丘林",
+    "曾立誓永恒效忠者",
+    "蛰伏梭地魔兽",
+    "迅疾之刺"
   ],
   "investigation": {
     "investigationId": 44,
@@ -510,22 +532,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "镶边红绸",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "褪色红绸",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "其他人类势力",
   "filename_icon": "UI_MonsterIcon_Eremite_MuscleMan_Simitar",
   "description": "来自黄金一般的沙漠，是松散佣兵团体中的一员。为了报酬，愿意为任何人效力。\\n擅长使用大弯刀的沙漠武士。其所掌握的传承自失落文明的刀法不仅是一种战技，由其发展而来的刀舞更成为了在各国都广受欢迎的杂技表演。\\n这种大弯刀据说在古时是用于骑乘战斗的。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

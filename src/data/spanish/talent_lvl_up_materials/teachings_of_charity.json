@@ -1,0 +1,18 @@
+{
+  "_id": 104365,
+  "id": "teachings_of_charity",
+  "name": "Enseñanzas del amor",
+  "description": "Material de mejora de talento.\\nEl amor es la redención de la Nación del Hielo.\\nEs el afecto y la protección que se brindan los mortales entre sí. En estas vastas tierras, las personas se valen del amor para resistir el frío de la escarcha y la nieve, y para sanar las heridas que tienen grabadas en sus recuerdos.",
+  "source": [
+    "Canjear en la Tienda de paquetes"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 2,
+  "domain": "Dominio de la maestría: Meditación IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Lunes",
+    "Jueves",
+    "Domingo"
+  ]
+}

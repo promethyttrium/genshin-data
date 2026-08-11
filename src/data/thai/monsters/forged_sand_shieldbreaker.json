@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "กองกำลังของมนุษย์อื่น ๆ",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Drillhead",
   "description": "ผู้กล้าจากหุบเขา และผู้พิทักษ์ชนเผ่าที่ลาดตระเวนอยู่ระหว่างภูเขาคริสตัลและแม่น้ำ\\nนักรบชนเผ่าที่สองมือกวัดแกว่งค้อนยักษ์ มักจะเป็นแนวหน้าในการทำลายแนวป้องกันของศัตรู ในเผ่า \"บุตรแห่งเสียงสะท้อน\" ที่ชื่นชอบอัญมณีและเครื่องประดับทำมือ ค้อนเป็นเครื่องมือที่เหล่านักรบได้สัมผัสอยู่บ่อยครั้งมาตั้งแต่ยังเด็ก",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

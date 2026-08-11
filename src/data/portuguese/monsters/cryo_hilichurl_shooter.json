@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hili_Ice_Range",
   "description": "Os habitantes primitivos que vagam pelas regiões selvagens de Teyvat.\\nEstes arqueiros empunham balestras simples, na ponta de suas flechas um gelo que nunca derrete. Diz-se que as feridas causadas por essas pontas de flecha cicatrizam muito lentamente, pois o frio vai retardar a circulação do sangue.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

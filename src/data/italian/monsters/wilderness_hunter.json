@@ -14,7 +14,6 @@
   "filename_icon": "UI_MonsterIcon_WildHunt_Elite",
   "description": "Un ghoul che si annida tra le lande ghiacciate quando cala l'oscurità. La sua comparsa presagisce l'arrivo di catastrofi indicibili.\\nMolti grandi campioni di un antico regno perduto giacciono sepolti sotto le gelide terre del Nord. Nonostante lo scorrere degli anni abbia cancellato ogni traccia del loro passato, questi nobili spiriti continuano a proteggere la propria dorata terra natia. Risvegliati dall'azione corruttiva dell'Abisso, questi guerrieri considerano ogni trasgressore come una preda da cacciare.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

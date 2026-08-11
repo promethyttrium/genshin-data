@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_SeaHorse_Larva_03",
   "description": "Eine Wasserkreatur, die mithilfe von Wassergeschossen auf die Jagd geht.\\nDas Blubber-Seepferdchen hat eine beachtliche Fangemeinde unter den (wenigen) Liebhabern von Fontemer-Mutanten. Und natürlich unterscheiden sich ihre Enthusiasten nicht großartig von zum Beispiel denen der Uhrwerk-Mecha; vor allem die einzelnen Untergruppierungen sind für ihre Angriffslust anderen Gruppen gegenüber bekannt.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 5.34,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

@@ -1,0 +1,30 @@
+{
+  "_id": 104366,
+  "id": "guide_to_charity",
+  "name": "Guia da Caridade",
+  "description": "Material de Elevação de Talento.\\nCaridade é a salvação do reino congelado.\\nResulta em misericórdia para outros. No reino do vento e da neve, quem se arrepender dos próprios pecados com sinceridade, encontrará a absolvição da alma em nome da Caridade.",
+  "source": [
+    "Quantidade a ser fabricada: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104365,
+        "id": "teachings_of_charity",
+        "name": "Ensinamentos da Caridade",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domínio da Proficiência: Contemplação IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ]
+}

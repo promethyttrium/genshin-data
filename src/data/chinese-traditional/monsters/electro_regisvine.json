@@ -38,7 +38,7 @@
       "_id": 113037,
       "id": "thunderclap_fruitcore",
       "name": "藏雷野實",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104144,
@@ -133,7 +133,6 @@
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_Regisvine_Electric",
   "description": "汲取了地脈中傳導的高壓電流的巨大藤蔓形成的魔物。\\n從樹冠中源源不斷釋放出電力，如同發洩著大地的憤怒。\\n曾經有妙論派的學者提出，如果圍繞掣電樹建立起一套複雜的電路矩陣，便能夠將其中的電能輸送到城市裡使用。這一計畫遭到了素論派學者的激烈反對，為此他們不惜犧牲了十頭蕈豬以證明使用電力的危險性。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

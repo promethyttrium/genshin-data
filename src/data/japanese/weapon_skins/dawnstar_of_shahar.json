@@ -1,0 +1,21 @@
+{
+  "_id": 340003,
+  "id": "dawnstar_of_shahar",
+  "name": "シャヘルの暁星",
+  "description": "地脈の最深部より現れた輝ける刃の幻像は、所有者の元素タイプに応じてその姿を変えることができる。今ではもう追憶することすら叶わない古の時代、最初の御使が彼女の聖印をヒュペルボレイアの大司祭に授け、黄金の大城を導くことを許したと言われている。",
+  "rarity": 4,
+  "type": {
+    "id": "Catalyst",
+    "name": "法器"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "輝きの幻形・永遠",
+    "priority": 2
+  },
+  "item_id": 341403,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphShahar_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphShahar"
+}

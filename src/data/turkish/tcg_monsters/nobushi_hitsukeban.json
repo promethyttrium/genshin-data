@@ -8,14 +8,18 @@
     "hp": 6,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Ateş",
+    "weapon": "Diğer Silahlar",
     "faction": []
   },
   "skills": [
     {
       "id": "combo_slash",
       "name": "Kombo Darbe",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -34,8 +38,10 @@
     {
       "id": "blaze_bloom",
       "name": "Alev Çiçeği",
-      "desc": "? ? verir ve karakterin bir sonraki karakterle değiştirilir.",
-      "skillTag": [],
+      "desc": "3 <span style=\"color:#FF9999FF\">Ateş Hasarı</span> verir ve karakterin bir sonraki karakterle değiştirilir.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,7 +55,9 @@
       "id": "iai_sheathed",
       "name": "İai: Kınına Sokma",
       "desc": "<span style=\"color:#FFFFFFFF\">Beceri Hazırlama</span>: <span style=\"color:#FFFFFFFF\">İai: Sokma</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1108,
@@ -69,7 +77,9 @@
       "id": "zanshin",
       "name": "Zanshin",
       "desc": "(Pasif) Son Aşama: Eğer bu karakter aktif karakter ise 1 Enerji kazanır.",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

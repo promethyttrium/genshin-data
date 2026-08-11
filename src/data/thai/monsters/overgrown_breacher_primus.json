@@ -13,7 +13,6 @@
   "categoryText": "Abyss",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_02",
   "description": "สิ่งมีชีวิตประหลาดที่ส่วนใหญ่ปรากฏใน Elynas\\nที่ Fontaine มีการพบเห็น Breacher Primus เป็นครั้งแรกไม่นานหลังจากเกิดภัยพิบัติ ในเวลานั้น มีการบันทึกว่า Breacher Primus โจมตีและปกป้องผู้คนในเวลาเดียวกัน",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

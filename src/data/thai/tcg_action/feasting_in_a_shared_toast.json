@@ -1,0 +1,20 @@
+{
+  "_id": 332066,
+  "id": "feasting_in_a_shared_toast",
+  "shareId": 619,
+  "name": "Feasting in a Shared Toast",
+  "title": "Feasting in a Shared Toast",
+  "desc": "\"เธอนี่นะ ช้าที่สุดตลอดเลย รีบมานั่งสิ ฉันรอมาตั้งนานแล้ว!\"",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 0,
+    "card_type": "การ์ดเหตุการณ์",
+    "energy": []
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">เมื่อเริ่มเทิร์นถัดไป:</span> ทั้งสองฝ่ายจั่วการ์ดฝ่ายละ 2 ใบ และสุ่มสร้าง Elemental Dice แบบสุ่ม 2 ลูก"
+    }
+  ]
+}

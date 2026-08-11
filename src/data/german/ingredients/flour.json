@@ -313,6 +313,11 @@
       "name": "Doppelfruchtröllchen"
     },
     {
+      "_id": 3704,
+      "id": "medovik",
+      "name": "Medovik"
+    },
+    {
       "_id": 3901,
       "id": "crisp_croissant_combo",
       "name": "Knusprige Croissant-Kombination"
@@ -400,6 +405,5 @@
   ],
   "source": [
     "Beim Verarbeiten von Gerichten zu erhalten"
-  ],
-  "rarity": 0
+  ]
 }

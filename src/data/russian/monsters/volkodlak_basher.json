@@ -1,0 +1,40 @@
+{
+  "_id": 25131201,
+  "id": "volkodlak_basher",
+  "monsterId": 25131306,
+  "name": "Волкодлак-громила",
+  "specialNames": [
+    "Громила"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Мистические звери",
+  "filename_icon": "UI_MonsterIcon_Vukodlak_Strong_Sword",
+  "description": "Среди многочисленных волкодлаков Снежной это одна из самых крупных и могучих разновидностей.\\nОбладая звериной силой и человекоподобным телом, они инстинктивно умеют использовать свою физическую мощь. Если неподготовленный человек с оружием вступит в бой с таким волкодлаком, победитель не вызовет никаких сомнений.",
+  "bgm": 1,
+  "budget": 6,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 7.315024,
+      "attack": 49.564125,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

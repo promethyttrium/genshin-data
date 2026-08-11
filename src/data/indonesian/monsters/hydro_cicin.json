@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Cicin_Water_01",
   "description": "Makhluk kecil yang bisa mengontrol Hydro dalam jumlah kecil.\\nMakhluk ini dan sejenisnya secara umum disebut sebagai Cicin. Cicin sangat menyukai tumbuhan Mist Grass yang cantik dan langka itu. Fatui Mage memanfaatkan Mist Grass ini untuk mengendalikan Cicin dalam pertempuran.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

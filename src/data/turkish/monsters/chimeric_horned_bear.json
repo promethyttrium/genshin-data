@@ -1,0 +1,39 @@
+{
+  "_id": 26310401,
+  "id": "chimeric_horned_bear",
+  "monsterId": 26310402,
+  "name": "Kimerik Boynuzlu Ayı",
+  "specialNames": [
+    "Kimerik Boynuzlu Ayı"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Efsanevi Canavarlar",
+  "filename_icon": "UI_MonsterIcon_Chimera_BearDeer",
+  "description": "Son derece olağandışı bir yapıya sahip, biyosimya sonucu oluşmuş insan yapımı bir canavar.\\nYaratıcısının tasarımına göre değil, yaşam parçalarının kendiliğinden bir araya gelmesi sonucu şekillenmiştir. Bunun sonucunda, element gücünü serbestçe kullanma yeteneği de dahil olmak üzere bazı olağanüstü özelliklere sahip oldu.\\nYaşam, geriye parçalardan başka hiçbir şey kalmayana dek ayrıştırılsa bile, bir irade veya güç onları yine de gizemli bir plana göre büyümeye yönlendirebilir mi?\\nBelki de artık bunun cevabını kimse bilmiyordur.",
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 27.431341,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

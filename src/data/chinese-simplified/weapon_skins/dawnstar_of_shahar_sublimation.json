@@ -1,0 +1,21 @@
+{
+  "_id": 340004,
+  "id": "dawnstar_of_shahar_sublimation",
+  "name": "撒哈律尔的曙星·真化",
+  "description": "自地脉至深之处显现的、闪映着「永恒」之光的辉耀兵刃幻形，能依据持有者的元素类型变化自身。据说在如今早已无法追忆的古老时代，最初的御使曾将饰金的圣印赐予亥珀波瑞亚的主祭，允其引领尚未隐入影霾的大城。",
+  "rarity": 5,
+  "type": {
+    "id": "Catalyst",
+    "name": "法器"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1004,
+    "name": "辉耀幻形·永恒（真化）",
+    "priority": 2
+  },
+  "item_id": 341404,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphShahar_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphShahar_Great"
+}

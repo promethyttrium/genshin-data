@@ -23,8 +23,8 @@
   },
   "rarity": 5,
   "birthday": [
-    0,
-    0
+    null,
+    null
   ],
   "constellation": "Viatrix",
   "domain": "Ruinen in Flammen",

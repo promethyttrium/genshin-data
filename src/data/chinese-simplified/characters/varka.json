@@ -595,7 +595,7 @@
     {
       "id": "winds_vanguard",
       "name": "风帜的先引",
-      "description": "队伍中附近的角色触发扩散反应时，法尔伽将获得一层<span style=\"color:#FFD780FF\">「苍牙之誓」</span>，使法尔伽的普通攻击、重击、特殊重击<span style=\"color:#FFD780FF\">苍噬</span>与施放的特殊元素战技<b><span style=\"color:#FFD780FF\">四风将起</span></b>造成的伤害提升7.5%。该效果持续8秒，至多叠加4层，每名角色每1秒至多通过这种方式使法尔伽获得一层<span style=\"color:#FFD780FF\">「苍牙之誓」</span>。",
+      "description": "队伍中附近的角色触发扩散或星扩散反应时，法尔伽将获得一层<span style=\"color:#FFD780FF\">「苍牙之誓」</span>，使法尔伽的普通攻击、重击、特殊重击<span style=\"color:#FFD780FF\">苍噬</span>与施放的特殊元素战技<b><span style=\"color:#FFD780FF\">四风将起</span></b>造成的伤害提升7.5%。该效果持续8秒，至多叠加4层，每名角色每1秒至多通过这种方式使法尔伽获得一层<span style=\"color:#FFD780FF\">「苍牙之誓」</span>。",
       "level": 4
     },
     {
@@ -631,7 +631,7 @@
       "_id": 1284,
       "id": "for_none_may_take_from_us_our_freedom_of_song",
       "name": "「因为无人能夺去我们歌唱的自由」",
-      "description": "法尔伽触发扩散反应时，依据参与反应的元素类型，使队伍中附近的所有角色分别获得20%<span style=\"color:#80FFD7FF\">风元素伤害加成</span>与对应元素伤害加成，持续10秒。",
+      "description": "法尔伽触发扩散或星扩散反应时，依据参与反应的元素类型，使队伍中附近的所有角色分别获得20%<span style=\"color:#80FFD7FF\">风元素伤害加成</span>与对应元素伤害加成，持续10秒。",
       "level": 4
     },
     {

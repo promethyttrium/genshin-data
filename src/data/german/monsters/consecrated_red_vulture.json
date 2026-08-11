@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Vulture_Sacred_Fire",
   "description": "Ein aufgrund des Zehrens an heiligen Körpern entstellter und veränderter fleischfressender Vogel.\\nIn sehr vielen der von diesen Bestien heiliger Knochen verschlungenen Körpern steckt der Wille, der niemals zu Ruhe kommt, und dieser Wille und diese Kraft sind es, die sie danach dürsten lässt, unermüdlich zu kämpfen und endlos Leichen zu verzehren.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

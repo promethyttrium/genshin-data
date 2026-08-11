@@ -190,7 +190,7 @@
       "_id": 11322,
       "id": "ringadingding_hexhunter_chime",
       "name": "Ring-A-Ding-Ding! Hexhunter Chime",
-      "description": "Mengeluarkan kekuatan angin dengan tekad untuk mengalahkan sang penyihir \"jahat\" menyelamatkan Descartes! Prune menggunakan Banehunter Oathhammer untuk menghantam Witchlure Bell dan mengakibatkan <span style=\"color:#80FFD7FF\">Anemo DMG</span>.<br/>Jika Prune memicu reaksi Swirl terhadap musuh melalui serangan ini, maka <span style=\"color:#FFD780FF\">Ring-A-Ding-Ding! Hexhunter Chime</span> akan berubah menjadi <span style=\"color:#FFD780FF\">Clang Clang! Witch-tribution Comes!</span> selama 6 detik ke depan.<br/><br/><span style=\"color:#FFD780FF\">Clang Clang! Witch-tribution Comes!</span><br/>Membungkus palu Prune dengan jenis elemen yang sebelumnya terlibat dalam reaksi Swirl, dan membuat <b><span style=\"color:#FFD780FF\">Banehunter Oathhammer</span></b> mengalami Elemental Conversion. Saat dilancarkan dengan Mode Tekan, Prune melompat dan menendang Banehunter Oathhammer ke depan, mengakibatkan Elemental DMG dengan jenis elemen yang sesuai terhadap musuh di depannya.",
+      "description": "Mengeluarkan kekuatan angin dengan tekad untuk mengalahkan sang penyihir \"jahat\" dan menyelamatkan Descartes! Prune menggunakan Banehunter Oathhammer untuk menghantam Witchlure Bell dan mengakibatkan <span style=\"color:#80FFD7FF\">Anemo DMG</span>.<br/>Jika Prune memicu reaksi Swirl atau Stellar Swirl terhadap musuh melalui serangan ini, maka <span style=\"color:#FFD780FF\">Ring-A-Ding-Ding! Hexhunter Chime</span> akan berubah menjadi <span style=\"color:#FFD780FF\">Clang Clang! Witch-tribution Comes!</span> selama 6 detik ke depan.<br/><br/><span style=\"color:#FFD780FF\">Clang Clang! Witch-tribution Comes!</span><br/>Membungkus palu Prune dengan jenis elemen yang sebelumnya terlibat dalam reaksi Swirl atau Stellar Swirl, dan membuat <b><span style=\"color:#FFD780FF\">Banehunter Oathhammer</span></b> mengalami Elemental Conversion. Saat dilancarkan dengan Mode Tekan, Prune melompat dan menendang Banehunter Oathhammer ke depan, mengakibatkan Elemental DMG dengan jenis elemen yang sesuai terhadap musuh di depannya.",
       "info": "",
       "attributes": [
         {
@@ -369,7 +369,7 @@
     {
       "id": "verdict_and_punishment",
       "name": "Verdict and Punishment",
-      "description": "Dalam Elemental Burst<color=#FFD780FF> <b>The Bell Tolls! The Hunt is On!</b></color>, setelah Witchlure Bell dalam mode Hunter-Seeker mengakibatkan DMG terhadap musuh, jika DMG tersebut memicu reaksi Swirl terhadap musuh, maka akan memanggil <b><span style=\"color:#FFD780FF\">Banehunter Oathhammer</span></b> yang telah mengalami Elemental Conversion berdasarkan reaksi Swirl kali ini di depan musuh dan menghantamnya, mengakibatkan Elemental DMG yang sesuai dengan konversi Swirl sebesar 150% ATK Prune. DMG ini dianggap sebagai DMG Elemental Burst.",
+      "description": "Dalam Elemental Burst<color=#FFD780FF> <b>The Bell Tolls! The Hunt is On!</b></color>, setelah Witchlure Bell dalam mode Hunter-Seeker mengakibatkan DMG terhadap musuh dan jika DMG tersebut memicu reaksi Swirl atau Stellar Swirl terhadap musuh, maka akan memanggil <b><span style=\"color:#FFD780FF\">Banehunter Oathhammer</span></b> yang telah mengalami Elemental Conversion berdasarkan reaksi Swirl atau Stellar Swirl kali ini di depan musuh dan menghantamnya, mengakibatkan Elemental DMG yang sesuai sebesar 150% ATK Prune. DMG ini dianggap sebagai DMG Elemental Burst.",
       "level": 1
     },
     {

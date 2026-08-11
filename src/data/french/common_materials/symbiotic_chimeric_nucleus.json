@@ -1,0 +1,24 @@
+{
+  "_id": 112150,
+  "id": "symbiotic_chimeric_nucleus",
+  "name": "Noyau chimérique",
+  "description": "Relativement complexe, ce noyau symbiotique, extrait d'un monstre artificiel, est conçu pour maintenir les cycles biologiques de deux formes de vie distinctes, les intégrant harmonieusement en un seul organisme.",
+  "source": [
+    "Butin de Bête chimérique mystique (Niv.40+)",
+    "Échange Astrions",
+    "Emplacement réservé - Quantité synthétisable : {0}"
+  ],
+  "rarity": 2,
+  "craft": {
+    "cost": 25,
+    "items": [
+      {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Graine chimérique",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Sinh Mệnh Nguyên Tố",
   "filename_icon": "UI_MonsterIcon_Slime_Grass_02",
   "description": "Slime chứa nhiều nguyên tố Thảo, có phát sinh biến chất về mặt sinh thái.\\nVề mặt sinh thái, nó cũng thừa hưởng nhược điểm của nguyên tố Thảo. Một khi gặp lửa sẽ bị thiêu đốt.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 16,
   "stats": {

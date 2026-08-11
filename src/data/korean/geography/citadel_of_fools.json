@@ -1,0 +1,12 @@
+{
+  "_id": 70800036,
+  "id": "citadel_of_fools",
+  "name": "우인의 성채",
+  "areaName": "영구 동토",
+  "areaId": 80200,
+  "description": "하늘의 지배를 무너뜨리겠다는 생각은 어리석어 보일지도 모른다. 하지만 이토록 거대한 포부를 품고 용기 있게 나아갈 수 있는 자는 오직 우인(어리석은 자)뿐이다",
+  "regionName": "스네즈나야",
+  "regionId": 8,
+  "sortOrder": 636,
+  "filename_image": "UI_Codex_Scenery_ZDYuRenZhong"
+}

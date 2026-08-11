@@ -1,0 +1,32 @@
+{
+  "_id": 214012,
+  "id": "phantasmal_nocturne",
+  "shareId": 616,
+  "name": "Phantomkonzert",
+  "title": "Fischl – Phantomkonzert",
+  "desc": "„Zwar ist jede Frage unerwartet, doch manche sind definitiv unerwarteter als andere. So könnte beispielsweise eine kleine Hexe gebeten werden, mithilfe des Urlichts ihre eigene materielle Welt zu erschaffen. Von einer anderen könnte verlangt werden, einem Wesen, das nur in der Vorstellung existiert, eine ‚Seele‘ zu verleihen ...“",
+  "in_play_description": "Ist <span style=\"color:#FFFFFFFF\">Oz</span> auf dem Feld: SCH durch deine <span style=\"color:#FFACFFFF\">Elektro-Reaktionen</span> +1 (3-mal pro Runde).",
+  "attributes": {
+    "cost": 2,
+    "cost_type": "Elektro",
+    "card_type": "Ausrüstungskarte",
+    "energy": [
+      {
+        "_id": 1104,
+        "id": "electro",
+        "type": "Elektro",
+        "count": 2
+      }
+    ],
+    "tags": [
+      "Talent",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Schnellaktion</span>: Rüste damit deine <span style=\"color:#FFFFFFFF\">Fischl</span> aus.<br/>Erschafft 1 <span style=\"color:#FFFFFFFF\">Oz</span>.<br/>Ist <span style=\"color:#FFFFFFFF\">Oz</span> aktiv auf dem Feld: SCH durch deine <span style=\"color:#FFACFFFF\">Elektro-Reaktionen</span> +1 (3-mal pro Runde).<br/>(Diese Karte kann nur einem Deck hinzugefügt werden, das Fischl enthält.)"
+    }
+  ]
+}

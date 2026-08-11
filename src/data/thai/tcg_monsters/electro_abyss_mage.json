@@ -8,16 +8,20 @@
     "hp": 4,
     "card_type": "การ์ดตัวละคร",
     "energy": 3,
+    "element": "ธาตุไฟฟ้า",
+    "weapon": "อาวุธอื่น ๆ",
     "faction": [
-      null
+      "มอนสเตอร์"
     ]
   },
   "skills": [
     {
       "id": "thunderbolt",
       "name": "Thunderbolt",
-      "desc": "สร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#FFACFFFF\">ความเสียหายไฟฟ้า</span> 1 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -37,7 +41,9 @@
       "id": "lingering_light",
       "name": "Lingering Light",
       "desc": "เรียก <span style=\"color:#FFFFFFFF\">Tanglebolt Ring</span>",
-      "skillTag": [],
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,8 +56,10 @@
     {
       "id": "rite_of_rolling_thunder",
       "name": "Rite of Rolling Thunder",
-      "desc": "สร้าง? ? หน่วย และเรียก <span style=\"color:#FFFFFFFF\">Tanglebolt Ring</span>",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#FFACFFFF\">ความเสียหายไฟฟ้า</span> 4 หน่วย และเรียก <span style=\"color:#FFFFFFFF\">Tanglebolt Ring</span>",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -71,7 +79,9 @@
       "id": "electro_ward",
       "name": "Electro Ward",
       "desc": "[ติดตัว] เมื่อเริ่มการต่อสู้ ในตอนแรกเริ่มจะได้รับ <span style=\"color:#FFFFFFFF\">Electro Ward</span>",
-      "skillTag": [],
+      "skillTag": [
+        "สกิลติดตัว"
+      ],
       "points": []
     }
   ]

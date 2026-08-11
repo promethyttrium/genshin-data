@@ -1,0 +1,63 @@
+{
+  "_id": 4717,
+  "id": "domain_of_forgery_severed_steel_iii",
+  "name": "Bí Cảnh Luyện Võ: Phá Thép III",
+  "entranceId": 2106,
+  "entranceName": "Vết Sẹo Vọng Tưởng",
+  "description": "Những kẻ phản nghịch mang lòng oán hận từng ẩn náu tại đây, ôm mộng khôi phục quá khứ. Những giấc mộng ấy đã lụi tàn cùng ánh lửa màu máu, chỉ để lại một màu trắng xóa vô tận.\nNếu có thể đánh bại kẻ địch chiếm đóng bên trong, chắc có thể nhận được vật phẩm cường hóa trang bị.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 59,
+  "unlockRank": 30,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "Phong",
+    "Băng"
+  ],
+  "daysOfWeek": [
+    "Thứ 4",
+    "Thứ 7",
+    "Chủ Nhật"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP Mạo Hiểm",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "1850"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP Yêu Thích",
+      "count": "15"
+    },
+    {
+      "_id": 114095,
+      "id": "the_frost_emperors_lament",
+      "name": "Bi Thương Của Hoàng Đế Băng Giá"
+    },
+    {
+      "_id": 114094,
+      "id": "the_frost_emperors_ceremony",
+      "name": "Khánh Lễ Của Hoàng Đế Băng Giá"
+    },
+    {
+      "_id": 114093,
+      "id": "the_frost_emperors_revival",
+      "name": "Hồi Sinh Của Hoàng Đế Băng Giá"
+    }
+  ],
+  "monsterList": []
+}

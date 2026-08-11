@@ -10,7 +10,7 @@
   },
   "domain": "Trạm Quan Sát Viễn Cổ",
   "passive": "Ngọc Mặt Trăng Trong Mắt",
-  "bonus": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán, Tấn Công tăng <span>24%/30%/36%/42%/48%</span>. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng <span>20%/48%/25%/60%/30%/72%/35%/84%/40%/96%</span> sát thương Trọng Kích gây ra, tăng <span>10%/24%/12.5%/30%/15%/36%/17.5%/42%/20%/48%</span> sát thương Kỹ Năng Nộ gây ra.",
+  "bonus": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, Tấn Công tăng <span>24%/30%/36%/42%/48%</span>. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng <span>20%/48%/25%/60%/30%/72%/35%/84%/40%/96%</span> sát thương Trọng Kích gây ra, tăng <span>10%/24%/12.5%/30%/15%/36%/17.5%/42%/20%/48%</span> sát thương Kỹ Năng Nộ gây ra.",
   "specialProp": "ST Bạo Kích",
   "stats": {
     "primary": "Tấn Công Căn Bản",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Ngọc Mặt Trăng Trong Mắt",
-    "template": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán, Tấn Công tăng <span style=\"color:#99FFFFFF\">{0}</span>. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng <span style=\"color:#99FFFFFF\">{1}</span> sát thương Trọng Kích gây ra, tăng <span style=\"color:#99FFFFFF\">{2}</span> sát thương Kỹ Năng Nộ gây ra.",
+    "template": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, Tấn Công tăng <span style=\"color:#99FFFFFF\">{0}</span>. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng <span style=\"color:#99FFFFFF\">{1}</span> sát thương Trọng Kích gây ra, tăng <span style=\"color:#99FFFFFF\">{2}</span> sát thương Kỹ Năng Nộ gây ra.",
     "params": [
       [
         "24%",
@@ -312,23 +311,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán, Tấn Công tăng <span>24%</span>. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng <span>20%/48%</span> sát thương Trọng Kích gây ra, tăng <span>10%/24%</span> sát thương Kỹ Năng Nộ gây ra."
+      "desc": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, Tấn Công tăng <span>24%</span>. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng <span>20%/48%</span> sát thương Trọng Kích gây ra, tăng <span>10%/24%</span> sát thương Kỹ Năng Nộ gây ra."
     },
     {
       "refinement": 2,
-      "desc": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán, Tấn Công tăng <span>30%</span>. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng <span>25%/60%</span> sát thương Trọng Kích gây ra, tăng <span>12.5%/30%</span> sát thương Kỹ Năng Nộ gây ra."
+      "desc": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, Tấn Công tăng <span>30%</span>. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng <span>25%/60%</span> sát thương Trọng Kích gây ra, tăng <span>12.5%/30%</span> sát thương Kỹ Năng Nộ gây ra."
     },
     {
       "refinement": 3,
-      "desc": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán, Tấn Công tăng <span>36%</span>. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng <span>30%/72%</span> sát thương Trọng Kích gây ra, tăng <span>15%/36%</span> sát thương Kỹ Năng Nộ gây ra."
+      "desc": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, Tấn Công tăng <span>36%</span>. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng <span>30%/72%</span> sát thương Trọng Kích gây ra, tăng <span>15%/36%</span> sát thương Kỹ Năng Nộ gây ra."
     },
     {
       "refinement": 4,
-      "desc": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán, Tấn Công tăng <span>42%</span>. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng <span>35%/84%</span> sát thương Trọng Kích gây ra, tăng <span>17.5%/42%</span> sát thương Kỹ Năng Nộ gây ra."
+      "desc": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, Tấn Công tăng <span>42%</span>. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng <span>35%/84%</span> sát thương Trọng Kích gây ra, tăng <span>17.5%/42%</span> sát thương Kỹ Năng Nộ gây ra."
     },
     {
       "refinement": 5,
-      "desc": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán, Tấn Công tăng <span>48%</span>. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng <span>40%/96%</span> sát thương Trọng Kích gây ra, tăng <span>20%/48%</span> sát thương Kỹ Năng Nộ gây ra."
+      "desc": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, Tấn Công tăng <span>48%</span>. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng <span>40%/96%</span> sát thương Trọng Kích gây ra, tăng <span>20%/48%</span> sát thương Kỹ Năng Nộ gây ra."
     }
   ]
 }

@@ -14,7 +14,6 @@
   "filename_icon": "UI_MonsterIcon_WildHunt_Elite",
   "description": "Um Carniçal que perambula as terras geladas na escuridão nevoenta. Sua aparição é o presságio de calamidades piores que ainda está por vir.\\nMuitos grandes campeões de um reino perdido jazem sob as terras congeladas do norte. Apesar dos resquícios do passado há muito já terem sido varridos, esses espíritos nobres ainda defendem sua terra dourada. Depois de terem sido despertados pelo Abismo, agora esses guerreiros veem todos que avançam como uma presa.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

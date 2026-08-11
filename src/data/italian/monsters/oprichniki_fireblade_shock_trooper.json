@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus",
   "description": "Un ufficiale Fatuus d'élite degli Oprichniki specializzato nel combattimento ravvicinato, che fa uso di una grossa lama.\\nChe si tratti di combattere contro la calamità oscura o contro gli ignoranti che osano opporsi agli ideali della Tsaritsa, coloro che sfondano le fila nemiche usando la punta della propria lancia pagano spesso il prezzo più alto. Pertanto, coloro che sopravvivono a molteplici scontri vengono naturalmente considerati l'élite dell'élite. C'è sempre chi è disposto a diventare la spada e il fuoco dell'impero, così come c'è sempre chi si sente soffocato dall'ingiustizia del destino e dall'iniquità del Vecchio Mondo.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

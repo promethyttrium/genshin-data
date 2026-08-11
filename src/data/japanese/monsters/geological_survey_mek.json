@@ -27,12 +27,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "自律装置",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Probe",
   "description": "地下資源および特定の鉱物の探査を目的として設計·製造されたクロックワーク·マシナリー。\\n探査する金属の種類を設定できるため、宝盗団や冒険者にも人気。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

@@ -13,8 +13,6 @@
   "categoryText": "돌연변이 마수",
   "filename_icon": "UI_MonsterIcon_VolcanoWeasel",
   "description": "외부 세계와 단절된 특수 열소 환경에서 서식하며 독특한 형태로 진화한 용암 껍질 산족제비.\\n이 고대 짐승은 열소가 풍부한 생물을 먹고 등껍질에 힘을 축적한다. 신성한 산의 폐허에서 오랫동안 서식하며 얻은 열소 친화 체질 덕분에, 결국 그곳에 있는 비밀근원 장치와 독특한 공생 관계를 이루었다",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

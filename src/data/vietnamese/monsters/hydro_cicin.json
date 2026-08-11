@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Cicin_Water_01",
   "description": "Sinh vật nhỏ có thể dẫn ra một ít nguyên tố Thủy.\\nChúng và những sinh vật họ đom đóm khác được gọi chung là \"Cicin Bay\". Cicin Bay cực kỳ yêu thích một loại cây quý hiếm tên là \"Cỏ Hư Vô\", thế nên các thuật sĩ của Fatui đã lợi dụng điểm này để phát minh ra cách chiến đấu bằng Cicin Bay.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

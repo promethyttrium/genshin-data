@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Lancia",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3230,
@@ -29,8 +31,10 @@
     {
       "id": "doughfu",
       "name": "Kung food",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,7 +54,9 @@
       "id": "guoba_attack",
       "name": "Guobattacco",
       "desc": "Invoca <span style=\"color:#FFFFFFFF\">Guoba</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "pyronado",
       "name": "Pyronado",
-      "desc": "Infligge ? ?, crea 1 <span style=\"color:#FFFFFFFF\">Pyronado</span>.",
-      "skillTag": [],
+      "desc": "Infligge 3 <span style=\"color:#FF9999FF\">DAN da Pyro</span>, crea 1 <span style=\"color:#FFFFFFFF\">Pyronado</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1103,

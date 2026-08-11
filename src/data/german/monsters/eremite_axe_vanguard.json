@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Eremite_Female_Hatchet",
   "description": "Mitglied einer unorganisierten Gruppe von Söldnern, die aus der golden glänzenden Wüste kommt. Ist bereit, für jeden gegen Bezahlung zu arbeiten.\\nDie Kriegerin mit Handäxten stürmt im Kampf immer nach vorn, um die Stellung des Feindes zu stören und ihren Kameraden Chancen zu eröffnen.\\nIn ihrer Heimat, der Wüste, sitzen sie manchmal am Lagerfeuer und spielen Balladen, die im Sandmeer untergegangen sind.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

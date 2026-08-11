@@ -1,0 +1,30 @@
+{
+  "_id": 104366,
+  "id": "guide_to_charity",
+  "name": "Anleitung zur „Güte“",
+  "description": "Material zur Verbesserung von Talenten.\\n„Güte“ ist die Erlösung des Reiches des Eises.\\nGüte bringt das Mitgefühl für andere hervor. Im Land von Wind und Schnee kann jeder, der aufrichtig die Schuld seiner Seele bereut, Vergebung im Namen der Güte erlangen.",
+  "source": [
+    "Platzhalter – Herstellbare Menge: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104365,
+        "id": "teachings_of_charity",
+        "name": "Lehren der „Güte“",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Sphäre des Verständnisses: Kontemplation IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Montag",
+    "Donnerstag",
+    "Sonntag"
+  ]
+}

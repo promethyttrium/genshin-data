@@ -8,9 +8,10 @@
   "attributes": {
     "hp": 10,
     "card_type": "Carta de Personagem",
-    "energy": 0,
+    "element": "Cryo",
+    "weapon": "Espada",
     "faction": [
-      null
+      "Calamidade Cósmica"
     ],
     "talent_card": {
       "_id": 9240,
@@ -29,8 +30,10 @@
     {
       "id": "havoc_sunder",
       "name": "Devastação: Destruição",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,7 +53,9 @@
       "id": "havoc_warp",
       "name": "Devastação: Lampejo",
       "desc": "Ganhe 2 de <span style=\"color:#FFFFFFFF\">Sutileza da Serpente</span>, então cria 1 <span style=\"color:#FFFFFFFF\">Mentoria Mútua de Armamentos</span> e a adiciona à sua Mão. (Uma vez por Turno)",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +68,10 @@
     {
       "id": "havoc_ruin",
       "name": "Arte Apodrecida: Obliteração",
-      "desc": "Consome toda a <span style=\"color:#FFFFFFFF\">Sutileza da Serpente</span>, causa ? igual à quantidade de <span style=\"color:#FFFFFFFF\">Sutileza da Serpente</span> consumida e causa 2 de <span style=\"color:#FFFFFFFF\">Dano Perfurante</span> aos personagens adversários fora de combate. Se 7 de <span style=\"color:#FFFFFFFF\">Sutileza da Serpente</span> for consumido, causa 3 de <span style=\"color:#FFFFFFFF\">Dano Perfurante</span> a personagens fora de combate ao invés disso.",
-      "skillTag": [],
+      "desc": "Consome toda a <span style=\"color:#FFFFFFFF\">Sutileza da Serpente</span>, causa <span style=\"color:#99FFFFFF\">Dano Cryo</span> igual à quantidade de <span style=\"color:#FFFFFFFF\">Sutileza da Serpente</span> consumida e causa 2 de <span style=\"color:#FFFFFFFF\">Dano Perfurante</span> aos personagens adversários fora de combate. Se 7 de <span style=\"color:#FFFFFFFF\">Sutileza da Serpente</span> for consumido, causa 3 de <span style=\"color:#FFFFFFFF\">Dano Perfurante</span> a personagens fora de combate ao invés disso.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -78,7 +85,9 @@
       "id": "reason_beyond_reason",
       "name": "Razão Além da Razão",
       "desc": "(Passivo) Skirk não ganha Carga. Ao invés disso, ela pode acumular até 7 pontos de <span style=\"color:#FFFFFFFF\">Sutileza da Serpente</span>.<br/><span style=\"color:#FFFFFFFF\">Quando seus personagens desencadeiam reações de Congelado, Redemoinho Cryo, Supercondutor ou Cristalização Cryo:</span> Cria 1 <span style=\"color:#FFFFFFFF\">Fenda do Vazio</span> em sua Mão. (Até 3 vezes por Turno)",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Passiva"
+      ],
       "points": []
     }
   ]

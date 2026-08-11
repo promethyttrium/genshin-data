@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01",
   "description": "ทหารที่ปกคลุมร่างกายด้วยเครื่องจักรสงครามของ Fatui\\nติดตั้งอุปกรณ์ที่สามารถควบคุมธาตุได้ในระดับหนึ่ง ใช้อาวุธปืนที่สามารถพ่นน้ำแข็งที่เย็นยะเยือกออกมาได้\\nถึงแม้ว่าจะครอบครองพลังธาตุที่คนทั่วไปไม่สามารถไขว่คว้าหามาได้ แต่บางทีพลังแบบนี้ก็ต้องแลกมาด้วยอะไรบางอย่างล่ะนะ...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

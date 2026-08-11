@@ -1,0 +1,30 @@
+{
+  "_id": 104372,
+  "id": "guide_to_glory",
+  "name": "İhtişam Rehberi",
+  "description": "Yetenek Seviyesi Yükseltme Malzemesi.\\nİhtişam, donmuş diyarın kutsal inancıdır.\\nO, gecenin derinliklerinde titreyen bir köz; karlı arazileri aşan herkesin bakışlarını diktiği bir fenerdir. Onlar ki kar fırtınalarının hafifleyeceğinden ve şafağın sökeceğinden emin oldukları gibi, izledikleri yolun hakiki yol olmaya devam ettiğinden de emindirler.",
+  "source": [
+    "Yer Tutucu - Üretilebilir Miktar: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 175,
+    "items": [
+      {
+        "_id": 104371,
+        "id": "teachings_of_glory",
+        "name": "İhtişam Öğretisi",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Ustalık Zindanı: Ortak Vizyon IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Çarşamba",
+    "Cumartesi",
+    "Pazar"
+  ]
+}

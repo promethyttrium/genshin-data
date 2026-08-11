@@ -1,0 +1,39 @@
+{
+  "_id": 212032,
+  "id": "genesis_of_starsigns",
+  "shareId": 614,
+  "name": "Genesi del Presagio stellare",
+  "title": "Mona: Genesi del Presagio stellare",
+  "desc": "Se un giorno l'Indovina dovesse prendere un apprendista, dubito che lo metterebbe alla prova in un modo così sconcertante. Beh, probabilmente, almeno...",
+  "in_play_description": "Quando <span style=\"color:#FFFFFFFF\">Mona</span> usa un attacco normale, spendi 1 <span style=\"color:#FFFFFFFF\">elemento indefinito</span> in meno. Dopo l'attacco normale, la tua successiva reazione di Vaporizzazione infligge DAN +2.",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Hydro",
+    "card_type": "Carta equipaggiamento",
+    "energy": [
+      {
+        "_id": 1102,
+        "id": "hydro",
+        "type": "Hydro",
+        "count": 1
+      },
+      {
+        "_id": 1109,
+        "id": "unaligned_element",
+        "type": "Elemento indefinito",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Talento",
+      "Azione di combattimento",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Azione di combattimento</span>: quando il tuo personaggio attivo è <span style=\"color:#FFFFFFFF\">Mona</span>, equipaggia questa carta.<br/>Dopo che Mona ha equipaggiato questa carta, la tua successiva reazione di Vaporizzazione infligge DAN +2 e Mona usa immediatamente <span style=\"color:#FFD780FF\">Increspatura del fato</span> una volta.<br/>Quando <span style=\"color:#FFFFFFFF\">Mona</span> usa un attacco normale, spendi 1 <span style=\"color:#FFFFFFFF\">elemento indefinito</span> in meno. Dopo l'attacco normale, la tua successiva reazione di Vaporizzazione infligge DAN +2.<br/>(Per aggiungere questa carta, il tuo mazzo deve contenere Mona.)"
+    }
+  ]
+}

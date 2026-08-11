@@ -25,29 +25,27 @@
       "_id": 112103,
       "id": "tyrants_fang",
       "name": "Клык тирана",
-      "count": 0.0616
+      "count": 0.062
     },
     {
       "_id": 112102,
       "id": "seasoned_fang",
       "name": "Клык взрослого",
-      "count": 0.2465
+      "count": 0.246
     },
     {
       "_id": 112101,
       "id": "juvenile_fang",
       "name": "Молодой клык",
-      "count": 0.9244
+      "count": 0.924
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Hookwalker_Small",
   "description": "Молодые юмказавры могут выплёвывать пламегранатовый пектин, который хранят в защёчных мешочках, чтобы обвивать предметы на расстоянии.\\nИх сила удержания объектов недостаточно велика, как и чувство равновесия, чтобы свободно перемещаться по воздуху. Иногда они даже падают набок, просто сидя на хвостах. Но однажды они вырастут и смогут свободно раскачиваться между деревьями.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

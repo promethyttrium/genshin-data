@@ -13,7 +13,6 @@
   "categoryText": "Cơ Quan Tự Động",
   "filename_icon": "UI_MonsterIcon_Monolith_Ordinator",
   "description": "Người bảo vệ di tích cổ bị thất lạc trong sa mạc, đủ sức mạnh để trừng phạt bất cứ ai dám làm phiền giấc mơ của quân vương.\\nĐể xây dựng thiên đường trong mơ, chủ nhân của biển cát đã tìm tòi những kiến thức cấm, và những cỗ máy bí ẩn này có thể là sáng tạo của y.\\nBây giờ thiên đường đã biến mất từ lâu, chỉ còn những câu thần chú được khắc trên những cỗ máy này vẫn ghi lại những giấc mơ và lời hứa đã bị người đời lãng quên.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

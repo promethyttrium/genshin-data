@@ -22,7 +22,6 @@
   "categoryText": "アビス",
   "filename_icon": "UI_MonsterIcon_Darkwraith_Fat_Rock",
   "description": "宮廷において高い地位を得た近衛兵士。「至真の術」と呼ばれる剣術で王家の敵を薙ぎ払う——\\n——至真の術は剣術とはいえ、その心得は他の様々な武器にも応用できる。王国が漆黒に覆われる時、国を守る責務を背負う武人は、往々にして選択の余地がないものだ。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

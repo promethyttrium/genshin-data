@@ -45,6 +45,16 @@
       "name": "肉馅黑麦包"
     },
     {
+      "_id": 2701,
+      "id": "stroganina",
+      "name": "鱼鱼刨花"
+    },
+    {
+      "_id": 2702,
+      "id": "glupov_rye_bread",
+      "name": "格鲁波夫黑列巴"
+    },
+    {
       "_id": 3012,
       "id": "sunshine_sprat",
       "name": "黄油煎鱼"
@@ -119,6 +129,5 @@
   ],
   "source": [
     "杂货店购买"
-  ],
-  "rarity": 0
+  ]
 }

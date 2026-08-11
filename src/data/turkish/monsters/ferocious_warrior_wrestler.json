@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Diğer İnsan Grupları",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Bisonsaurus",
   "description": "Ovaların savaşçısı ve altın tarlaları koruyan kabile muhafızı.\\nSavaşçı olmaya karar verdikleri andan itibaren yılmadan güçlerini geliştirdiler. Çift elli silahlarıyla güçlü bir darbe vurduklarında ortaya çıkan muazzam kuvvete sıradan bir insanın karşı koyması mümkün değildir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

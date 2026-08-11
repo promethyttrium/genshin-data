@@ -14,7 +14,6 @@
   "filename_icon": "UI_MonsterIcon_Lloigor_Primo",
   "description": "Makhluk Abyss yang merayap melalui celah di kedalaman tersembunyi, diam-diam mengawasi dunia ini. Bentuknya yang menyeramkan dan tanpa wajah konon hanyalah sebuah proyeksi, sementara wujud aslinya hanya ada sebagai massa kekuatan Abyss murni yang tak berbentuk.\\nBahkan para penyusup yang berusaha menguasai dunia ini harus mematuhi aturannya sampai batas tertentu. Kecuali langit terbelah dan pertahanan bumi runtuh, makhluk dari kumpulan bintang yang kehilangan kampung halamannya ini tidak bisa berbuat banyak selain berdiam di pinggiran dunia, membisikkan kegilaan mereka ke alam ini, tapi usaha mereka untuk meresap ke dalam berakhir sia-sia ... Tapi berapa lama stabilitas dan keteraturan ini benar-benar bisa bertahan?",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
-  "bgm": 0,
   "budget": 1,
   "stats": {
     "resistance": {

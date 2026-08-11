@@ -1,0 +1,26 @@
+{
+  "_id": 101281,
+  "id": "rimecurrant",
+  "name": "Buz Yemişi",
+  "description": "Kırağı kaplı, buzlu dallardan filizlenen zengin aromalı bir böğürtlen.",
+  "recipes": [
+    {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "Buz Yemişi Dondurması"
+    },
+    {
+      "_id": 3705,
+      "id": "snezhnaya_shashliks",
+      "name": "Snezhnaya Usulü Şaşlık"
+    },
+    {
+      "_id": 4906,
+      "id": "sweet_scoops",
+      "name": "Tatlı Toplar"
+    }
+  ],
+  "source": [
+    "Öneri: Snezhnaya'da bulunur."
+  ]
+}

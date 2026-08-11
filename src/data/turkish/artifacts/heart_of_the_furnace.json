@@ -1,0 +1,39 @@
+{
+  "_id": 215048,
+  "id": "heart_of_the_furnace",
+  "name": "Ocağın Kalbi",
+  "min_rarity": 4,
+  "max_rarity": 5,
+  "two_pc": "+%18 Saldırı.",
+  "four_pc": "Kuşanan karakter bir Yıldız Parıltısı tepkimesi tetiklediğinde veya Yıldız Parıltısı Tepkimesi Hasarı verdiğinde 12 saniyeliğine Saldırısı %12 artar. Ayrıca yakındaki tüm grup üyelerinin verdiği Yıldız Parıltısı Tepkimesi Hasarı da %50 artar. Bu etkiler kuşanan karakter savaş alanında olmasa da tetiklenebilir. Birden fazla Yadigar Setinden gelen aynı isimdeki Hasar bonusları birikmez.",
+  "goblet": {
+    "_id": 48412,
+    "id": "foundrymans_magnanimity",
+    "name": "Dökümcünün Alicenaplığı",
+    "description": "Yakıt sağlandığı sürece yanmaya devam edecek ocağın kalbindeki alevin aksine, arkadaşlığın çok daha geçici olduğunun farkındaydı."
+  },
+  "plume": {
+    "_id": 48422,
+    "id": "foundrymans_observation",
+    "name": "Dökümcünün Gözlemi",
+    "description": "Ocağın kalbindeki renklerin aksine, çeşitli dünyevi meselelerin sonucunun yalnızca yakından gözlemle tahmin edilemeyeceğinin farkındaydı."
+  },
+  "circlet": {
+    "_id": 48432,
+    "id": "foundrymans_legacy",
+    "name": "Dökümcünün Mirası",
+    "description": "Ocağın kalbindeki alevin aksine, bir hayalin peşinden koşma azminin sonradan gelenlere aktarılamayacağının farkındaydı."
+  },
+  "flower": {
+    "_id": 48442,
+    "id": "foundrymans_conjecture",
+    "name": "Dökümcünün Tahminleri",
+    "description": "Ocağın kalbindeki sıcaklığın aksine, insan kalbinin başkasına karşı hissettiği sıcaklığın veya soğukluğunun derecelerle ölçülemeyeceğinin farkındaydı."
+  },
+  "sands": {
+    "_id": 48452,
+    "id": "foundrymans_calculus",
+    "name": "Dökümcünün Hesabı",
+    "description": "Ocağın kalbindeki ısının aksine, gücün işleyişinin yalnızca bir kolu çekerek veya bir düğmeye basarak kontrol edilemeyeceğinin farkındaydı."
+  }
+}

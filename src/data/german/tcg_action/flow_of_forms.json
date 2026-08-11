@@ -18,12 +18,15 @@
         "count": 1
       }
     ],
-    "source": "Nach Erreichen des entsprechenden Ziels in einem „Duell – Nett“ mit „Wandernde eremitische Seelensprecherin“ in der Tavernen-Herausforderung bei „Prinz“ in der Taverne Zum Katzenschwanz zu erhalten."
+    "source": "Nach Erreichen des entsprechenden Ziels in einem „Duell – Nett“ mit „Wandernde eremitische Seelensprecherin“ in der Tavernen-Herausforderung bei „Prinz“ in der Taverne Zum Katzenschwanz zu erhalten.",
+    "tags": [
+      "Talent"
+    ]
   },
   "skills": [
     {
       "name": "",
-      "desc": "<span style=\"color:#FFFFFFFF\">Schnellaktion</span>: Rüste damit deine <span style=\"color:#FFFFFFFF\">Wandernde eremitische Seelensprecherin</span> aus.<br/>Erschafft 1 Strahlende Farben und fügt sie deiner Hand hinzu.<br/>Erschafft nach dem Ausspielen von <span style=\"color:#FFFFFFFF\">Strahlende Farben</span> 2 Stapelungen <span style=\"color:#FFFFFFFF\">Schild</span> (1-mal pro Runde).<br/>(Diese Karte kann nur einem Deck hinzugefügt werden, das Wandernde eremitische Seelensprecherin enthält.)"
+      "desc": "<span style=\"color:#FFFFFFFF\">Schnellaktion</span>: Rüste damit deine <span style=\"color:#FFFFFFFF\">Wandernde eremitische Seelensprecherin</span> aus.<br/>Erschafft 1 <span style=\"color:#FFFFFFFF\">Strahlende Farben</span> und fügt sie deiner Hand hinzu.<br/>Erschafft nach dem Ausspielen von Strahlende Farben 2 Stapelungen <span style=\"color:#FFFFFFFF\">Schild</span> (1-mal pro Runde).<br/>(Diese Karte kann nur einem Deck hinzugefügt werden, das Wandernde eremitische Seelensprecherin enthält.)"
     }
   ]
 }

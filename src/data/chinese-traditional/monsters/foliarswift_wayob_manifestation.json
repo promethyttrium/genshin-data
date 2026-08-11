@@ -13,8 +13,6 @@
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_Wayob_Hookwalker",
   "description": "「懸木人」部族所信仰與崇拜的「大靈」，藉由圖騰與夜魂之力於大地之上顯化的形體。\\n在敘事人的故事中，大靈顯化身經常作為試煉的使者，或夜神之國引路人的形象出場。也有龍冠武士曾言自己在武術修行的恍惚中與大靈顯化身交手，因此獲得了更深一層的領悟。\\n「懸木人」的人相信他們的「大靈」擁有控制果實與林葉生長的力量，能夠執掌作物的根莖，畫下葉脈的走勢。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

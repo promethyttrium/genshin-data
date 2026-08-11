@@ -25,29 +25,27 @@
       "_id": 112103,
       "id": "tyrants_fang",
       "name": "Tyrant's Fang",
-      "count": 0.0616
+      "count": 0.062
     },
     {
       "_id": 112102,
       "id": "seasoned_fang",
       "name": "Seasoned Fang",
-      "count": 0.2465
+      "count": 0.246
     },
     {
       "_id": 112101,
       "id": "juvenile_fang",
       "name": "Juvenile Fang",
-      "count": 0.9244
+      "count": 0.924
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "สัตว์อสูรลึกลับ",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Flamingo_Small",
   "description": "Qucusaurus วัยเยาว์มีรูปร่างที่เบาบาง\\nคอและปีกยังไม่โตเต็มที่ และยังไม่คุ้นชิน กับการใช้ก๊าซโฟลจิสตัน มีเรื่องเล่าเก่าแก่เล่าขานว่า Qucusaurus ที่แก่กว่าจะผลักเหล่าลูก Saurian ลงจากหน้าผา เพื่อกระตุ้นให้มันบิน แม้จะไม่รู้ว่าข่าวลือนั้น เป็นเรื่องจริงหรือไม่ แต่ตราบใดที่ยังฝึกฝน อย่างไม่หยุดยั้ง ขนนกอันอ่อนนุ่มนั้นก็จะค่อย ๆ เติบโตและแข็งแรงขึ้นในสักวัน",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

@@ -1,0 +1,29 @@
+{
+  "_id": 114090,
+  "id": "intoxication_of_the_cellared_spiritual_nectar",
+  "name": "Mest Eden Yıllanmış Ruhani Nektar",
+  "description": "Kimilerinin bereketli bir tahıl hasadının ardından şenliklerde keyifle tükettiği bu içki, yakıcı soğuğa göğüs geren klanlar için hayatta kalmanın tek çaresidir.<br/>Rivayete göre içki mayalama sanatındaki eşsiz ustalıklarıyla bilinen Domovoylar, bir zamanlar hizmet ettikleri kralın hazinesini zenginleştirmek için bu zanaata bel bağlarmış.<br/>Böylece ticaret yoluyla klandan klana geçen Fey içkisi, donmuş topraklar boyunca zehir katılmış bir bal misali akıp gitmiş.",
+  "source": [
+    "Yer Tutucu - Üretilebilir Miktar: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 3,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 114089,
+        "id": "measured_pour_of_the_cellared_spiritual_nectar",
+        "name": "Tadımlık Yıllanmış Ruhani Nektar",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Döküm Zindanı: Lanetli Saplantının Yara İzleri",
+  "days": [
+    "Salı",
+    "Cuma",
+    "Pazar"
+  ]
+}

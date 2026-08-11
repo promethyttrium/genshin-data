@@ -13,7 +13,6 @@
   "categoryText": "Elementare Lebensformen",
   "filename_icon": "UI_MonsterIcon_Effigy_Wind",
   "description": "Ein höheres Anemo-Wesen mit der Bezeichnung „Beth“.\\nDie Hypostase ist eine äußerst reine Form elementarer Energie, die ihre eigentliche Form verloren hat.\\nDie Forschung zu den Hypostasen wird vornehmlich von der Sumeru-Akademie übernommen. Aufgrund ihrer Gefährlichkeit sind bisher aber neben der Bezeichnung und Namensgebung keinerlei nennenswerten Ergebnisse zustandegekommen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

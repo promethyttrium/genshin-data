@@ -1,7 +1,7 @@
 {
   "_id": 26220301,
   "id": "gluttonous_yumkasaur_mountain_king",
-  "monsterId": 26220303,
+  "monsterId": 84622032,
   "name": "식탐의 숲룡 산왕",
   "specialNames": [
     "거대한 산의 왕"
@@ -15,7 +15,7 @@
   "description": "고대부터 무수한 전쟁을 겪고도 살아남은 강대한 숲룡.\\n한때 다른 영웅들과 함께 칠흑의 파도에 맞선 「산왕」이자, 「나무살이」의 가장 중요한 부족원이다. 몇몇 부족 사람들은 이 용이 깃룡 「폭군」처럼 특수한 체질을 타고나 거대해졌다고 생각했으나… 단순히 오래 살고 많이 먹어서 그런 걸지도 모른다",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 7,
-  "budget": 1,
+  "budget": 2,
   "stats": {
     "resistance": {
       "physical": 0.1,

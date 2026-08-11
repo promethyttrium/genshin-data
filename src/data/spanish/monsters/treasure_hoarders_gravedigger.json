@@ -59,22 +59,21 @@
       "_id": 112036,
       "id": "silver_raven_insignia",
       "name": "Insignia de cuervo plateada",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112035,
       "id": "treasure_hoarder_insignia",
       "name": "Insignia de cuervo de bronce",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_02",
   "description": "Un miembro de un grupo poco organizado que ha llegado a todos los rincones del continente, incluso a dominios desconocidos.\\n<i>“Ponerse sobre los hombros de gigantes quiere decir que recogemos la riqueza acumulada por quienes vinieron antes que nosotros y nos la llevamos para... ¡devolverla al ciclo de la economía! ¡Qué empresa tan noble!”</i>\\nEso dijo un Asaltante de Tumbas de los Ladrones de Tesoros mientras excavaba en unas ruinas.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

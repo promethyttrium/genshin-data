@@ -595,7 +595,7 @@
     {
       "id": "winds_vanguard",
       "name": "風の御旗の導き",
-      "description": "付近にいるチーム内キャラクターが拡散反応を起こした時、ファルカは<span style=\"color:#FFD780FF\">「蒼牙の誓い」</span>を1層獲得し、ファルカの通常攻撃、重撃、特殊重撃<span style=\"color:#FFD780FF\">蒼牙</span>および発動した特殊元素スキル<b><span style=\"color:#FFD780FF\">出づる四風</span></b>の与えるダメージ+7.5%。この効果は継続時間8秒、最大4層まで重ねられる。この方法によって、各キャラクターがファルカに付与できる<span style=\"color:#FFD780FF\">「蒼牙の誓い」</span>は1秒毎に1層のみ。",
+      "description": "付近にいるチーム内キャラクターが拡散または星拡散反応を起こした時、ファルカは<span style=\"color:#FFD780FF\">「蒼牙の誓い」</span>を1層獲得し、ファルカの通常攻撃、重撃、特殊重撃<span style=\"color:#FFD780FF\">蒼牙</span>および発動した特殊元素スキル<b><span style=\"color:#FFD780FF\">出づる四風</span></b>の与えるダメージ+7.5%。この効果は継続時間8秒、最大4層まで重ねられる。この方法によって、各キャラクターがファルカに付与できる<span style=\"color:#FFD780FF\">「蒼牙の誓い」</span>は1秒毎に1層のみ。",
       "level": 4
     },
     {
@@ -631,7 +631,7 @@
       "_id": 1284,
       "id": "for_none_may_take_from_us_our_freedom_of_song",
       "name": "「謳え、誰にも奪えない自由を」",
-      "description": "ファルカが拡散反応を起こした時、反応に関わった元素タイプに応じて、周囲のチーム全員がそれぞれ20%の<span style=\"color:#80FFD7FF\">風元素</span>と対応する元素のダメージアップ効果を獲得する。継続時間10秒。",
+      "description": "ファルカが拡散または星拡散反応を起こした時、反応に関わった元素タイプに応じて、周囲のチーム全員がそれぞれ20%の<span style=\"color:#80FFD7FF\">風元素</span>と対応する元素のダメージアップ効果を獲得する。継続時間10秒。",
       "level": 4
     },
     {

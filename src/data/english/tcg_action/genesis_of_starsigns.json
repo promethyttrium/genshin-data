@@ -1,0 +1,39 @@
+{
+  "_id": 212032,
+  "id": "genesis_of_starsigns",
+  "shareId": 614,
+  "name": "Genesis of Starsigns",
+  "title": "Mona: Genesis of Starsigns",
+  "desc": "If the fortune teller in the story truly takes on an apprentice in the future, surely she wouldn't test her in such bizarre, nonsensical ways... Right? Yes, presumably not.",
+  "in_play_description": "When <span style=\"color:#FFFFFFFF\">Mona</span> uses a Normal Attack, spend 1 fewer <span style=\"color:#FFFFFFFF\">Unaligned Element</span>. After the Normal Attack, your next Vaporize Reaction deals +2 DMG.",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Hydro",
+    "card_type": "Equipment Card",
+    "energy": [
+      {
+        "_id": 1102,
+        "id": "hydro",
+        "type": "Hydro",
+        "count": 1
+      },
+      {
+        "_id": 1109,
+        "id": "unaligned_element",
+        "type": "Unaligned Element",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Talent",
+      "Combat Action",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Combat Action</span>: When your active character is <span style=\"color:#FFFFFFFF\">Mona</span>, equip this card.<br/>After Mona equips this card, your next Vaporize Reaction deals +2 DMG and immediately use <span style=\"color:#FFD780FF\">Ripple of Fate</span> once.<br/>When <span style=\"color:#FFFFFFFF\">Mona</span> uses a Normal Attack, spend 1 fewer <span style=\"color:#FFFFFFFF\">Unaligned Element</span>. After the Normal Attack, your next Vaporize Reaction deals +2 DMG.<br/>(You must have Mona in your deck to add this card to your deck.)"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "_id": 340003,
+  "id": "dawnstar_of_shahar",
+  "name": "Estrela da Alvorada de Shahar",
+  "description": "Uma gloriosa arma ilusória que surgiu das profundezas das Linhas Ley. Ela pode mudar sua aparência com base no Tipo Elemental de seu usuário. Dizem que, numa idade antiga, muito além de toda lembrança, a primeira enviada divina concedeu o selo sagrado dela à sumo-sacerdotisa de Hiperbórea, concedendo a ela o direito de liderar a cidade de ouro resplandecente.",
+  "rarity": 4,
+  "type": {
+    "id": "Catalyst",
+    "name": "Catalisador"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "Metamorfose Radiante: Eternidade",
+    "priority": 2
+  },
+  "item_id": 341403,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphShahar_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphShahar"
+}

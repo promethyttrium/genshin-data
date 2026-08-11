@@ -8,14 +8,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl-Stämme",
   "filename_icon": "UI_MonsterIcon_Hili_None_01",
   "description": "Die naturverbundenen, umherziehenden Bewohner der Wildnis von Teyvat.\\nHilichurle können sich ausgezeichnet an ihre Umgebung anpassen. In eisigen Gegenden finden sie Wege, um das Eis als Schutzschild zu nutzen.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

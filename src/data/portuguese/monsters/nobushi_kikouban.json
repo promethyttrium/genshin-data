@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Outras facções humanas",
   "filename_icon": "UI_MonsterIcon_Samurai_Ronin_03",
   "description": "Samurai que caiu no banditismo. Embora sejam chamados de Nobushi, eles não têm uma organização centralizada.\\nEles possuem habilidades de espada altamente avançadas e também usam bestas para emboscar oponentes, usando qualquer meio para vencer. Aqueles que abandonaram o título de artista marcial muitas vezes abandonam sua dignidade também.\\nÀs vezes eles até conspiram com os Ladrões de Tesouros ou Fatui por ganância de riqueza, ou simplesmente para sobreviver.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

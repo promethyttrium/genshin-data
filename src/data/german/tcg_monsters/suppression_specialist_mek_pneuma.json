@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Andere Waffen",
     "faction": [
-      null
+      "Monster"
     ]
   },
   "skills": [
     {
       "id": "precision_shot",
       "name": "Präzisionsschuss",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#7EC236FF\">Dendro-SCH</span>.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -36,8 +40,10 @@
     {
       "id": "wildgrass_ball",
       "name": "Wildgras-Schüsse",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#7EC236FF\">Dendro-SCH</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -50,8 +56,10 @@
     {
       "id": "launch_grenade",
       "name": "Granaten-Attacke",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erschafft 1 <span style=\"color:#FFFFFFFF\">Geschoss mit Zeitzünder</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. <span style=\"color:#7EC236FF\">Dendro-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Geschoss mit Zeitzünder</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -71,7 +79,9 @@
       "id": "arkhe_pneuma",
       "name": "Energiesignatur – Pneuma",
       "desc": "<span style=\"color:#FFFFFFFF\">Nach Erleiden von SCH durch eine mit „Arkhe – Ousia“ versehene Figur:</span> Diese Figur wird in den <span style=\"color:#FFFFFFFF\">„Deaktiviert-Modus“</span> eintreten und bis Endphase dieser Runde <span style=\"color:#FFFFFFFF\">keine Fähigkeit anwenden können</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

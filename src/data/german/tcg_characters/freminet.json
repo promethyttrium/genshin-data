@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Kryo",
+    "weapon": "Zweihänder",
     "faction": [
-      null,
-      null
+      "Fontaine",
+      "Fatui"
     ],
     "talent_card": {
       "_id": 6593,
@@ -30,8 +32,10 @@
     {
       "id": "flowing_eddies",
       "name": "Strömungswirbel",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -50,8 +54,10 @@
     {
       "id": "pressurized_floe",
       "name": "Treibeis-Druck",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1]. Verleiht der Figur <span style=\"color:#FFFFFFFF\">Pers-Uhr</span>, wenn sie nicht damit ausgerüstet ist.",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>. Verleiht der Figur <span style=\"color:#FFFFFFFF\">Pers-Uhr</span>, wenn sie nicht damit ausgerüstet ist.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -64,8 +70,10 @@
     {
       "id": "shadowhunters_ambush",
       "name": "Des Schattenjägers Hinterhalt",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1], erhält selbst <span style=\"color:#FFFFFFFF\">Tauchhelm-Modus</span>.",
-      "skillTag": [],
+      "desc": "Verursacht 4 Pkt. <span style=\"color:#99FFFFFF\">Kryo-SCH</span>, erhält selbst <span style=\"color:#FFFFFFFF\">Tauchhelm-Modus</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1101,

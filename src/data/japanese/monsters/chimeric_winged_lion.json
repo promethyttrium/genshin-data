@@ -1,0 +1,41 @@
+{
+  "_id": 26310501,
+  "id": "chimeric_winged_lion",
+  "monsterId": 26310507,
+  "name": "合成獣・フリューゲルレーヴェ",
+  "specialNames": [
+    "合成獣・フリューゲルレーヴェ"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_BOSS",
+  "enemyType": "BOSS",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種の魔獣",
+  "filename_icon": "UI_MonsterIcon_Chimera_Manticore",
+  "description": "生物錬金術の産物であり、破棄された合成魔獣の一つである。\\nある偉大な願いを実現するため、ある錬金術師は言葉で言い表せない技術を用いて、「雛形」と呼ばれる数多くの原体を創り出した。\\nその中で、ただ一つだけが計画通りのパーフェクトな創造物への成長に成功し、その他、パーフェクトに近かったが最終的に失敗した原体は、無造作に多くの双頭の魔獣へと作り変えられた。\\n失敗作と見なされてはいるものの、これら特殊な双頭の魔獣が持つ力は依然として偉大であり、合成魔獣の範疇において、もはやそれらに対抗できるものは他になし。",
+  "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
+  "bgm": 1,
+  "budget": 1,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.5,
+      "cryo": 0.1,
+      "electro": 0.5
+    },
+    "base": {
+      "hp": 350.27457,
+      "attack": 95.456,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

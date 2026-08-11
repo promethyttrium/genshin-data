@@ -1,0 +1,333 @@
+{
+  "_id": 12435,
+  "id": "forged_by_the_golden_melody",
+  "name": "Sombra de la Melodía Dorada",
+  "description": "Una espada pesada y ornamentada con oro. Cuenta la leyenda que, en un pasado remoto, fue el arma predilecta de un gran afinador.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Mandoble"
+  },
+  "domain": "Reverberación de las mareas",
+  "passive": "Contrapunto del día y la noche",
+  "bonus": "Cada 10 s, el portador de esta arma interpreta una “serenata armoniosa” que otorga el efecto correspondiente en el siguiente orden: ATQ +<span>18%/22.5%/27%/31.5%/36%</span>/Maestría Elemental +<span>120/150/180/210/240</span> pts./daño de reacciones de Destello Estelar +<span>28%/35%/42%/49%/56%</span>. Cada efecto de la serenata dura 10 s y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.<br/>Tras causar una reacción de Destello Estelar, también otorgará una “serenata armoniosa: polifonía” durante 12 s con el mismo efecto que la serenata que se estaba interpretando al momento de causar la reacción de Destello Estelar. Este efecto se puede acumular con el efecto original de la serenata, y solo se puede activar una vez cada 12 s.",
+  "specialProp": "Prob. CRIT",
+  "stats": {
+    "primary": "ATQ Base",
+    "secondary": "Prob. CRIT",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 42,
+        "secondary": 6
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 109,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 135,
+        "secondary": 10.6
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 205,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 231,
+        "secondary": 15.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 266,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 292,
+        "secondary": 17.9
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 327,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 353,
+        "secondary": 20.3
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 388,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 414,
+        "secondary": 22.7
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 449,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 475,
+        "secondary": 25.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 510,
+        "secondary": 27.6
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114053,
+          "id": "dross_of_pure_sacred_dewdrop",
+          "name": "Sedimento de rocío sagrado",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112098,
+          "id": "ruined_hilt",
+          "name": "Empuñadura destrozada",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112080,
+          "id": "transoceanic_pearl",
+          "name": "Condensado extramarino",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114054,
+          "id": "sublimation_of_pure_sacred_dewdrop",
+          "name": "Sublimación de rocío sagrado",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112098,
+          "id": "ruined_hilt",
+          "name": "Empuñadura destrozada",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112080,
+          "id": "transoceanic_pearl",
+          "name": "Condensado extramarino",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114054,
+          "id": "sublimation_of_pure_sacred_dewdrop",
+          "name": "Sublimación de rocío sagrado",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112099,
+          "id": "splintered_hilt",
+          "name": "Empuñadura hendida",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112081,
+          "id": "transoceanic_chunk",
+          "name": "Fragmento extramarino",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114055,
+          "id": "spring_of_pure_sacred_dewdrop",
+          "name": "Manantial de rocío sagrado",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112099,
+          "id": "splintered_hilt",
+          "name": "Empuñadura hendida",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112081,
+          "id": "transoceanic_chunk",
+          "name": "Fragmento extramarino",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114055,
+          "id": "spring_of_pure_sacred_dewdrop",
+          "name": "Manantial de rocío sagrado",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112100,
+          "id": "stillsmoldering_hilt",
+          "name": "Empuñadura imperecedera",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112082,
+          "id": "xenochromatic_crystal",
+          "name": "Cristalización cromática",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114056,
+          "id": "essence_of_pure_sacred_dewdrop",
+          "name": "Esencia de rocío sagrado",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112100,
+          "id": "stillsmoldering_hilt",
+          "name": "Empuñadura imperecedera",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112082,
+          "id": "xenochromatic_crystal",
+          "name": "Cristalización cromática",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "Contrapunto del día y la noche",
+    "template": "Cada 10 s, el portador de esta arma interpreta una “serenata armoniosa” que otorga el efecto correspondiente en el siguiente orden: ATQ +<span style=\"color:#99FFFFFF\">{0}</span>/Maestría Elemental +<span style=\"color:#99FFFFFF\">{1}</span> pts./daño de reacciones de Destello Estelar +<span style=\"color:#99FFFFFF\">{2}</span>. Cada efecto de la serenata dura 10 s y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.<br/>Tras causar una reacción de Destello Estelar, también otorgará una “serenata armoniosa: polifonía” durante 12 s con el mismo efecto que la serenata que se estaba interpretando al momento de causar la reacción de Destello Estelar. Este efecto se puede acumular con el efecto original de la serenata, y solo se puede activar una vez cada 12 s.",
+    "params": [
+      [
+        "18%",
+        "120",
+        "28%"
+      ],
+      [
+        "22.5%",
+        "150",
+        "35%"
+      ],
+      [
+        "27%",
+        "180",
+        "42%"
+      ],
+      [
+        "31.5%",
+        "210",
+        "49%"
+      ],
+      [
+        "36%",
+        "240",
+        "56%"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "Cada 10 s, el portador de esta arma interpreta una “serenata armoniosa” que otorga el efecto correspondiente en el siguiente orden: ATQ +<span>18%</span>/Maestría Elemental +<span>120</span> pts./daño de reacciones de Destello Estelar +<span>28%</span>. Cada efecto de la serenata dura 10 s y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.<br/>Tras causar una reacción de Destello Estelar, también otorgará una “serenata armoniosa: polifonía” durante 12 s con el mismo efecto que la serenata que se estaba interpretando al momento de causar la reacción de Destello Estelar. Este efecto se puede acumular con el efecto original de la serenata, y solo se puede activar una vez cada 12 s."
+    },
+    {
+      "refinement": 2,
+      "desc": "Cada 10 s, el portador de esta arma interpreta una “serenata armoniosa” que otorga el efecto correspondiente en el siguiente orden: ATQ +<span>22.5%</span>/Maestría Elemental +<span>150</span> pts./daño de reacciones de Destello Estelar +<span>35%</span>. Cada efecto de la serenata dura 10 s y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.<br/>Tras causar una reacción de Destello Estelar, también otorgará una “serenata armoniosa: polifonía” durante 12 s con el mismo efecto que la serenata que se estaba interpretando al momento de causar la reacción de Destello Estelar. Este efecto se puede acumular con el efecto original de la serenata, y solo se puede activar una vez cada 12 s."
+    },
+    {
+      "refinement": 3,
+      "desc": "Cada 10 s, el portador de esta arma interpreta una “serenata armoniosa” que otorga el efecto correspondiente en el siguiente orden: ATQ +<span>27%</span>/Maestría Elemental +<span>180</span> pts./daño de reacciones de Destello Estelar +<span>42%</span>. Cada efecto de la serenata dura 10 s y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.<br/>Tras causar una reacción de Destello Estelar, también otorgará una “serenata armoniosa: polifonía” durante 12 s con el mismo efecto que la serenata que se estaba interpretando al momento de causar la reacción de Destello Estelar. Este efecto se puede acumular con el efecto original de la serenata, y solo se puede activar una vez cada 12 s."
+    },
+    {
+      "refinement": 4,
+      "desc": "Cada 10 s, el portador de esta arma interpreta una “serenata armoniosa” que otorga el efecto correspondiente en el siguiente orden: ATQ +<span>31.5%</span>/Maestría Elemental +<span>210</span> pts./daño de reacciones de Destello Estelar +<span>49%</span>. Cada efecto de la serenata dura 10 s y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.<br/>Tras causar una reacción de Destello Estelar, también otorgará una “serenata armoniosa: polifonía” durante 12 s con el mismo efecto que la serenata que se estaba interpretando al momento de causar la reacción de Destello Estelar. Este efecto se puede acumular con el efecto original de la serenata, y solo se puede activar una vez cada 12 s."
+    },
+    {
+      "refinement": 5,
+      "desc": "Cada 10 s, el portador de esta arma interpreta una “serenata armoniosa” que otorga el efecto correspondiente en el siguiente orden: ATQ +<span>36%</span>/Maestría Elemental +<span>240</span> pts./daño de reacciones de Destello Estelar +<span>56%</span>. Cada efecto de la serenata dura 10 s y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.<br/>Tras causar una reacción de Destello Estelar, también otorgará una “serenata armoniosa: polifonía” durante 12 s con el mismo efecto que la serenata que se estaba interpretando al momento de causar la reacción de Destello Estelar. Este efecto se puede acumular con el efecto original de la serenata, y solo se puede activar una vez cada 12 s."
+    }
+  ]
+}

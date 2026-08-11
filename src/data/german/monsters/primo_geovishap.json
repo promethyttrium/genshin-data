@@ -14,7 +14,6 @@
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Drake_Primo_Rock",
   "description": "Nach vielen Jahren gewöhnte sich die unglaublich mächtige alte Geodrachenechse an die Veränderungen in ihrer Elementarumgebung.\\nIn Volksmärchen ist von einer „Drachenkatastrophe“ die Rede, die das Tianqiu-Tal ins Verderben stürzte. Danach wurden die stärkste Geodrachenechse und alte Geodrachenechsen tief unter die Erde verbannt. Sie vergruben sich in der unbekannten Tiefe, wartend auf eine Gelegenheit, zurück an die Oberfläche zu gelangen ...",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

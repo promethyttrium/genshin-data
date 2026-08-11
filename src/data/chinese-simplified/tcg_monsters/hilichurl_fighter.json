@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "角色牌",
     "energy": 2,
+    "element": "无元素类型",
+    "weapon": "其他武器",
     "faction": [
-      null,
-      null
+      "魔物",
+      "丘丘人"
     ]
   },
   "skills": [
     {
       "id": "hit",
       "name": "打",
-      "desc": "造成?点?。",
-      "skillTag": [],
+      "desc": "造成1点?。",
+      "skillTag": [
+        "普通攻击"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "jump_and_hit",
       "name": "跳起打",
-      "desc": "造成?点?。",
-      "skillTag": [],
+      "desc": "造成2点?。",
+      "skillTag": [
+        "元素战技"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -45,8 +51,10 @@
     {
       "id": "swing_that_club",
       "name": "挥来挥去",
-      "desc": "造成?点?。",
-      "skillTag": [],
+      "desc": "造成4点?。",
+      "skillTag": [
+        "元素爆发"
+      ],
       "points": [
         {
           "_id": 1108,

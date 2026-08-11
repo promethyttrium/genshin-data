@@ -13,7 +13,6 @@
   "categoryText": "Bestias exóticas",
   "filename_icon": "UI_MonsterIcon_Golem_Centaur",
   "description": "Una estatua con apariencia de Gólem centauro hecha de mármol y latón. Bajo su férrea capa de piedra, fluye sangre de icor. Posicionado como uno de los líderes de la legión, está listo para aplastar a cualquier intruso que suponga una amenaza para su honor.\\nLa antigua civilización, hoy en día oculta en las profundidades del mar, creía que la guerra era como un arte musical, como una combinación de ritmos a seguir. Por lo tanto, el comandante usaba su escudo y espada al igual que un afinador usaría sus dedos para tocar la lira e interpretar la banda sonora de un férvido combate.\\n“La guerra es un monstruo cruel que hay que derrotar para poder alcanzar la paz mundial”. Esas fueron palabras del comandante que lideró las legiones de Gólems que acabaron conquistando los mares.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

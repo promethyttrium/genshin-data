@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Lança",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3852,
@@ -29,8 +31,10 @@
     {
       "id": "whirlwind_thrust",
       "name": "Impulso do Redemoinho",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "lemniscatic_wind_cycling",
       "name": "Vento Lemniscático",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#80FFD7FF\">Dano Anemo</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "bane_of_all_evil",
       "name": "Dança Nuo da Conquista do Mal",
-      "desc": "Causa ? pontos de ?, este personagem é afetado por <span style=\"color:#FFFFFFFF\">Máscara Yaksha</span>.",
-      "skillTag": [],
+      "desc": "Causa 4 pontos de <span style=\"color:#80FFD7FF\">Dano Anemo</span>, este personagem é afetado por <span style=\"color:#FFFFFFFF\">Máscara Yaksha</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1105,

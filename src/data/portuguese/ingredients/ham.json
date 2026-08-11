@@ -79,6 +79,11 @@
       "name": "Júbilo da Fogueira"
     },
     {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Okroshka do Reino da Neve"
+    },
+    {
       "_id": 4101,
       "id": "jade_parcels",
       "name": "Porção de Jade"
@@ -111,6 +116,5 @@
   ],
   "source": [
     "Processado"
-  ],
-  "rarity": 0
+  ]
 }

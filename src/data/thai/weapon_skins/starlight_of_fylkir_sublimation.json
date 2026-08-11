@@ -1,0 +1,21 @@
+{
+  "_id": 330004,
+  "id": "starlight_of_fylkir_sublimation",
+  "name": "ประกายดาวแห่ง Fylkir - ร่างบริสุทธิ์",
+  "description": "อาวุธลวงตาอันเปล่งประกายด้วยแสงแห่ง \"นิรันดร์\" ที่ปรากฏขึ้นจากส่วนลึกของกระแสพลัง สามารถเปลี่ยนรูปร่างตามประเภทธาตุของผู้ถือครอง กล่าวกันว่าในยุคสมัยอันเก่าแก่ที่ไม่อาจหวนนึกถึง ทูตเบื้องบนเคยประทานหอกประดับทองคำให้แก่ผู้นำพิธีแห่ง Sal Vindagnyr เพื่อชี้นำนครรัฐที่ยังไม่ถูกฝังอยู่ใต้ผืนดินสีเงินให้คงอยู่สืบไป",
+  "rarity": 5,
+  "type": {
+    "id": "Polearm",
+    "name": "หอก"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1004,
+    "name": "ร่างมายาเจิดจรัส - นิรันดร์ (ร่างบริสุทธิ์)",
+    "priority": 2
+  },
+  "item_id": 341304,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Pole_MorphFylkir_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Pole_MorphFylkir_Great"
+}

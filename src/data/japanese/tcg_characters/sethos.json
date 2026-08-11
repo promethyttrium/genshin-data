@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "キャラカード",
     "energy": 4,
+    "element": "雷元素",
+    "weapon": "弓",
     "faction": [
-      null
+      "スメール"
     ],
     "talent_card": {
       "_id": 7666,
@@ -29,8 +31,10 @@
     {
       "id": "royal_reed_archery",
       "name": "王家の弓術・葦ノ矢",
-      "desc": "?を?与える。",
-      "skillTag": [],
+      "desc": "?を2与える。",
+      "skillTag": [
+        "通常攻撃"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,7 +54,9 @@
       "id": "ancient_rite_the_thundering_sands",
       "name": "古儀・鳴砂牽雷",
       "desc": "相手の出撃キャラを<span style=\"color:#FFACFFFF\">雷元素付着</span>にし、味方は次のキャラへとチェンジする。自身に<span style=\"color:#FFFFFFFF\">凝縮轟雷</span>を付与する。",
-      "skillTag": [],
+      "skillTag": [
+        "元素スキル"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "secret_rite_twilight_shadowpiercer",
       "name": "秘儀・瞑光貫影",
-      "desc": "?を?与え、自身に<span style=\"color:#FFFFFFFF\">静思瞑影</span>を付与する。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#FFACFFFF\">雷元素ダメージ</span>を3与え、自身に<span style=\"color:#FFFFFFFF\">静思瞑影</span>を付与する。",
+      "skillTag": [
+        "元素爆発"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -84,7 +92,9 @@
       "id": "black_kites_enigma",
       "name": "黒鳶の謎掛",
       "desc": "自身の「通常攻撃」で<span style=\"color:#FFFFFFFF\">チャージ</span>を獲得することはできない。<br/>自身が「通常攻撃」をした後、可能であれば、<span style=\"color:#FFFFFFFF\">チャージ</span>をすべて消費し、相手のHPが最も低いキャラに消費した<span style=\"color:#FFFFFFFF\">チャージ</span>+1分の<span style=\"color:#FFFFFFFF\">貫通ダメージ</span>を与える。",
-      "skillTag": [],
+      "skillTag": [
+        "固有スキル"
+      ],
       "points": []
     }
   ]

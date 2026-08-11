@@ -64,19 +64,19 @@
       "_id": 112094,
       "id": "operatives_constancy",
       "name": "役人的時時刻刻",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112093,
       "id": "operatives_standard_pocket_watch",
       "name": "役人的制式懷錶",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112092,
       "id": "old_operatives_pocket_watch",
       "name": "老舊的役人懷錶",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -127,7 +127,6 @@
   "categoryText": "愚人眾",
   "filename_icon": "UI_MonsterIcon_Fatuus_Escadron_Ice",
   "description": "愚人眾當中的精銳特務。\\n自幼就被選中的人，經長久年月的教育與訓練，在無數次的汰換後才能成為所謂的「役人」。是愚人眾隊伍中最優秀的士兵，有著出色的身手與不渝的忠誠心。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

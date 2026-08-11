@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Pyro",
+    "weapon": "Polearm",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 5052,
@@ -29,8 +31,10 @@
     {
       "id": "swiftshatter_spear",
       "name": "Swiftshatter Spear",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,8 +53,10 @@
     {
       "id": "blazing_blessing",
       "name": "Blazing Blessing",
-      "desc": "Mengakibatkan ? poin ? dan menciptakan <span style=\"color:#FFFFFFFF\">Blazing Barrier</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#FF9999FF\">Pyro DMG</span> dan menciptakan <span style=\"color:#FFFFFFFF\">Blazing Barrier</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "crimson_ooyoroi",
       "name": "Crimson Ooyoroi",
-      "desc": "Mengakibatkan ? poin ?, menciptakan <span style=\"color:#FFFFFFFF\">Blazing Barrier</span> dan <span style=\"color:#FFFFFFFF\">Scorching Ooyoroi</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#FF9999FF\">Pyro DMG</span>, menciptakan <span style=\"color:#FFFFFFFF\">Blazing Barrier</span> dan <span style=\"color:#FFFFFFFF\">Scorching Ooyoroi</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1103,

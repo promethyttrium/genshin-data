@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "角色牌",
     "energy": 2,
+    "element": "风元素",
+    "weapon": "其他武器",
     "faction": [
-      null
+      "魔物"
     ],
     "source": "在猫尾酒馆中小王子处进行酒馆挑战，在友好对局难度黑蛇骑士·斩风之剑中获得胜利后获取"
   },
@@ -18,8 +20,10 @@
     {
       "id": "halfsword_technique",
       "name": "半剑技术",
-      "desc": "造成?点?。",
-      "skillTag": [],
+      "desc": "造成2点?。",
+      "skillTag": [
+        "普通攻击"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -38,8 +42,10 @@
     {
       "id": "rising_slash",
       "name": "低位撩斩",
-      "desc": "造成?点?，抓1张牌。",
-      "skillTag": [],
+      "desc": "造成3点<span style=\"color:#80FFD7FF\">风元素伤害</span>，抓1张牌。",
+      "skillTag": [
+        "元素战技"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -53,7 +59,9 @@
       "id": "guard_stance",
       "name": "近卫姿态",
       "desc": "<span style=\"color:#FFFFFFFF\">准备技能</span>：<span style=\"color:#FFFFFFFF\">舍身架势</span>，然后<span style=\"color:#FFFFFFFF\">准备技能</span>：<span style=\"color:#FFFFFFFF\">怒风循击</span>。",
-      "skillTag": [],
+      "skillTag": [
+        "元素爆发"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -73,7 +81,9 @@
       "id": "vanguard_momentum",
       "name": "前驱气势",
       "desc": "【被动】我方触发扩散反应，或敌方失去<span style=\"color:#FFFFFFFF\">护盾</span>、<span style=\"color:#FFFFFFFF\"> 伤害抵消</span>状态以及出战状态时，抓1张牌。（每回合2次）",
-      "skillTag": [],
+      "skillTag": [
+        "被动技能"
+      ],
       "points": []
     }
   ]

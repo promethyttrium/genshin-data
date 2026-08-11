@@ -1,0 +1,130 @@
+{
+  "_id": 70,
+  "id": "land_of_surging_shadows",
+  "name": "浮湧的陰影之地",
+  "order": 73,
+  "achievements": [
+    {
+      "id": 86059,
+      "name": "凍原的修復師",
+      "desc": "在至冬凍土清剿一個大型影域。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9056
+    },
+    {
+      "id": 86062,
+      "name": "我們影域裡見",
+      "desc": "完成一次「絕境攻煉」的挑戰。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9059
+    },
+    {
+      "id": 86063,
+      "name": "「影域老司機」",
+      "desc": "將「影域解析等級」提升至最高等級。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9060
+    },
+    {
+      "id": 86066,
+      "name": "絕境的擊墜王",
+      "desc": "獲得9枚攻煉武勳。",
+      "reward": 20,
+      "hidden": false,
+      "order": 9063
+    },
+    {
+      "id": 86067,
+      "name": "凍原的槍匠·其一",
+      "desc": "為1把槍械安裝1個配件。",
+      "reward": 5,
+      "hidden": false,
+      "order": 9064
+    },
+    {
+      "id": 86068,
+      "name": "凍原的槍匠·其二",
+      "desc": "為1把槍械安裝2個配件。",
+      "reward": 10,
+      "hidden": false,
+      "order": 9065,
+      "preStage": 86067
+    },
+    {
+      "id": 86069,
+      "name": "凍原的槍匠·其三",
+      "desc": "為1把槍械安裝4個配件。",
+      "reward": 20,
+      "hidden": false,
+      "order": 9066,
+      "preStage": 86068
+    },
+    {
+      "id": 86071,
+      "name": "搭槍卡",
+      "desc": "為「莎塔娜婭的蒼銀」、「瓦爾薩格的日輪」與「阿夏梅茲的千光」均安裝4個配件。",
+      "reward": 20,
+      "hidden": false,
+      "order": 9068
+    },
+    {
+      "id": 86072,
+      "name": "午時已…",
+      "desc": "在30秒內連續命中敵人弱點部位5次。",
+      "reward": 5,
+      "hidden": false,
+      "order": 9069
+    },
+    {
+      "id": 86073,
+      "name": "跟我的夥伴們打個招呼吧！",
+      "desc": "在30秒內使用榴彈發射器觸發5次元素反應。",
+      "reward": 5,
+      "hidden": false,
+      "order": 9070
+    },
+    {
+      "id": 86074,
+      "name": "滑鏟瞄準根本就是天方夜譚",
+      "desc": "在滑鏟狀態下累計擊敗20名敵人。",
+      "reward": 5,
+      "hidden": false,
+      "order": 9071
+    },
+    {
+      "id": 86075,
+      "name": "連結著所有人的神聖光矛",
+      "desc": "獲得突擊步槍：「莎塔娜婭的蒼銀」。",
+      "reward": 5,
+      "hidden": false,
+      "order": 9072
+    },
+    {
+      "id": 86076,
+      "name": "百般武藝，此乃榴彈發射器！",
+      "desc": "獲得榴彈發射器：「瓦爾薩格的日輪」。",
+      "reward": 5,
+      "hidden": false,
+      "order": 9073
+    },
+    {
+      "id": 86077,
+      "name": "警告，閃電災厄正在形成…",
+      "desc": "獲得突擊步槍：「阿夏梅茲的千光」",
+      "reward": 5,
+      "hidden": false,
+      "order": 9074
+    },
+    {
+      "id": 86078,
+      "name": "500克的愛",
+      "desc": "獲得榴晶。",
+      "reward": 5,
+      "hidden": false,
+      "order": 9075
+    }
+  ]
+}

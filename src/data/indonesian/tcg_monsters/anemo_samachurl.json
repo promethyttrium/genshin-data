@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Senjata Lain",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "staff_strike",
       "name": "Staff Strike",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 1 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "prayer_to_the_winds",
       "name": "Prayer to the Winds",
-      "desc": "Mengakibatkan ? poin ? dan memanggil <span style=\"color:#FFFFFFFF\">Whirlwind</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#80FFD7FF\">Anemo DMG</span> dan memanggil <span style=\"color:#FFFFFFFF\">Whirlwind</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -45,8 +51,10 @@
     {
       "id": "galeforce_shock",
       "name": "Galeforce Shock",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 5 poin <span style=\"color:#80FFD7FF\">Anemo DMG</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1105,

@@ -36,7 +36,7 @@
       "_id": 113039,
       "id": "light_guiding_tetrahedron",
       "name": "Tetraedro da Luz Guiadora",
-      "count": 2.5556
+      "count": 2.556
     },
     {
       "_id": 104114,
@@ -151,7 +151,6 @@
   "categoryText": "Autômatos",
   "filename_icon": "UI_MonsterIcon_Monolith_Starchild",
   "description": "Uma máquina de movimento perpétuo que comanda as muitas estruturas mecânicas espalhadas no deserto. Parece que a vontade do soberano solitário ainda reside nesse dispositivo.\\nTalvez seja por causa dos ensinamentos de seu amigo em um sonho, ou talvez porque ele cobiçou o poder dos sagrados no céu que o rei tenha criado dispositivos misteriosos que não pertenciam a esse mundo quando estabeleceu seu reino nessas terras.\\nEntre as ruínas da Cidade de Mil Pilares, os cristais antigos ainda refletem a glória do paraíso dourado, mas agora ninguém reside nele para lembrar do sonho desse rei.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

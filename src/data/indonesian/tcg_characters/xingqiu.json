@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Sword",
     "faction": [
-      null
+      "Liyue"
     ],
     "talent_card": {
       "_id": 3207,
@@ -29,8 +31,10 @@
     {
       "id": "guhua_style",
       "name": "Guhua Style",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -49,8 +53,10 @@
     {
       "id": "fatal_rainscreen",
       "name": "Fatal Rainscreen",
-      "desc": "Mengakibatkan ? poin ?, <span style=\"color:#80C0FFFF\">memberikan efek Hydro</span> kepada diri sendiri, dan menciptakan <span style=\"color:#FFFFFFFF\">Rain Sword</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#80C0FFFF\">Hydro DMG</span>, <span style=\"color:#80C0FFFF\">memberikan efek Hydro</span> kepada diri sendiri, dan menciptakan <span style=\"color:#FFFFFFFF\">Rain Sword</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -63,8 +69,10 @@
     {
       "id": "raincutter",
       "name": "Raincutter",
-      "desc": "Mengakibatkan ? poin ?, <span style=\"color:#80C0FFFF\">memberikan efek Hydro</span> kepada diri sendiri, dan menciptakan <span style=\"color:#FFFFFFFF\">Rainbow Bladework</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#80C0FFFF\">Hydro DMG</span>, <span style=\"color:#80C0FFFF\">memberikan efek Hydro</span> kepada diri sendiri, dan menciptakan <span style=\"color:#FFFFFFFF\">Rainbow Bladework</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1102,

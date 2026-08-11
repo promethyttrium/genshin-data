@@ -61,7 +61,6 @@
   "categoryText": "Element Yaşam Formları",
   "filename_icon": "UI_MonsterIcon_Elemental_Wind_01",
   "description": "Oldukça üstün nitelikli Rüzgar enerjilerinin vücut bulmuş halidir.\\nFırtınanın Gözünün oluşumu, elementlerin beslediği ley hatlarının tıkanıp su kirliliği oluşturduğunun göstergesidir. Fırtınanın Gözünün bağrından kopup insanları oradan oraya savuran amansız fırtınalar, dünyadaki huzursuzluğun bir sembolü olarak nitelendirilebilir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 2,
   "stats": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan",
   "description": "Yoldaşlarını korumak için en önde savaşan, ağır bir kalkana sahip bir Fatui Opriçnikleri askeri.\\nÇoğu kişiye göre Snezhnaya ve karanlık felaket arasında süregelen uzun savaşta ancak daha güçlü bir iradeyle, düşmanından daha uzun süre direnen taraf galip gelebilir. Opriçniklerin iradesinin en büyük timsali ise şüphesiz birliklerini koruyan kalkandır. Kalkan düşmediği sürece, zafer için umut var demektir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

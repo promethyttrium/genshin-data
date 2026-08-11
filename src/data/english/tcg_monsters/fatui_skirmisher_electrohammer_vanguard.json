@@ -8,16 +8,20 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 3,
+    "element": "Electro",
+    "weapon": "Other Weapons",
     "faction": [
-      null
+      "Fatui"
     ]
   },
   "skills": [
     {
       "id": "rapid_hammer_strike",
       "name": "Rapid Hammer Strike",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -36,8 +40,10 @@
     {
       "id": "raging_charge",
       "name": "Raging Charge",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 3 <span style=\"color:#FFACFFFF\">Electro DMG</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,8 +56,10 @@
     {
       "id": "thunderblast_hammer",
       "name": "Thunderblast Hammer",
-      "desc": "Deals ? ?. This character gains <span style=\"color:#FFFFFFFF\">Electro Elemental Equipment</span>.",
-      "skillTag": [],
+      "desc": "Deals 3 <span style=\"color:#FFACFFFF\">Electro DMG</span>. This character gains <span style=\"color:#FFFFFFFF\">Electro Elemental Equipment</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -71,7 +79,9 @@
       "id": "combat_resupply",
       "name": "Combat Resupply",
       "desc": "(Passive) When the battle begins, this character gains 2 Energy.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

@@ -25,19 +25,19 @@
       "_id": 112079,
       "id": "wanderers_blooming_flower",
       "name": "Hoa Nở Rộ Của Kẻ Lang Thang",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112078,
       "id": "treasured_flower",
       "name": "Đóa Hoa Trân Quý Của Ai Đó",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112077,
       "id": "a_flower_yet_to_bloom",
       "name": "Hoa Chưa Nở Từ Nơi Nào Đó",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Bộ Tộc Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hilistray_Wind",
   "description": "Hilichurl lang thang không thuộc bất cứ bộ tộc nào, dường như đang tìm kiếm cội nguồn của vận mệnh cả tộc, tìm kiếm sự huy hoàng đã mất từ lâu.\\nGiả sử trong số các ma vật chỉ có ngôn ngữ đơn giản, cũng chẳng có sử sách lưu truyền, mà có sử thi, truyền kỳ, thì chúng có lẽ chính là nhân vật chính trong đó nhỉ.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 4,
   "stats": {

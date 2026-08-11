@@ -1,0 +1,63 @@
+{
+  "_id": 4694,
+  "id": "domain_of_mastery_contemplation_iv",
+  "name": "Domínio da Proficiência: Contemplação IV",
+  "entranceId": 2074,
+  "entranceName": "Relíquias do Tormento",
+  "description": "Um santuário erguido no passado pelos feéricos antigos, agora maculado por bandidos patéticos.\nSe você conseguir derrotar os inimigos que vagam dentro deste local, você pode acabar obtendo conhecimento e esclarecimento sobre as maneiras pelas quais seus talentos podem ser aprimorados.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 88,
+  "unlockRank": 45,
+  "disorder": [
+    "· When a character triggers Superconduct or Stellar-Conduct reactions, or deals Stellar-Conduct DMG, a shockwave will be unleashed at the target enemy's location, dealing Electro DMG."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_03",
+  "recommendedElements": [
+    "Cryo",
+    "Electro"
+  ],
+  "daysOfWeek": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ],
+  "domainType": "UI_ABYSSUS_AVATAR_PROUD",
+  "domainText": "Talent Level-Up Material",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP de Aventura",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "2375"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP de Amizade",
+      "count": "20"
+    },
+    {
+      "_id": 104367,
+      "id": "philosophies_of_charity",
+      "name": "Filosofia da Caridade"
+    },
+    {
+      "_id": 104366,
+      "id": "guide_to_charity",
+      "name": "Guia da Caridade"
+    },
+    {
+      "_id": 104365,
+      "id": "teachings_of_charity",
+      "name": "Ensinamentos da Caridade"
+    }
+  ],
+  "monsterList": []
+}

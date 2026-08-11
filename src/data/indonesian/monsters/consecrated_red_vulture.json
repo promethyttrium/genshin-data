@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Vulture_Sacred_Fire",
   "description": "Monster pemangsa yang sudah bermutasi karena telah melahap bentuk kehidupan yang sangat kuat.\\nBentuk kehidupan yang lebih kuat yang dilahap oleh Consecrated Beast sering memiliki kesadaran yang hampir abadi yang tidak bisa tenggelam untuk selama-lamanya. Kekuatan dan kesadaran yang diperoleh Consecrated Beast dari melahap makhluk hidup ini, akan mendorong mereka untuk mencari lebih banyak kekerasan dan bangkai saat gilirannya telah tiba.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

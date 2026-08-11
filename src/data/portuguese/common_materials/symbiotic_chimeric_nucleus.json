@@ -1,0 +1,24 @@
+{
+  "_id": 112150,
+  "id": "symbiotic_chimeric_nucleus",
+  "name": "Núcleo Quimérico Simbiótico",
+  "description": "Um núcleo relativamente complexo extraído de um monstro sintético. Esse núcleo simbiótico é projetado para sustentar ciclos biológicos de duas formas de vida distintas, unindo-as perfeitamente num único organismo.",
+  "source": [
+    "Dropado por Monstros Quiméricos Anômalos Nv.40+",
+    "Resgate de Poeira Estrelar",
+    "Quantidade a ser fabricada: {0}"
+  ],
+  "rarity": 2,
+  "craft": {
+    "cost": 25,
+    "items": [
+      {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "Núcleo Quimérico",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

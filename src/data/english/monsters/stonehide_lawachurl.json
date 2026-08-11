@@ -13,7 +13,6 @@
   "categoryText": "Hilichurls",
   "filename_icon": "UI_MonsterIcon_Brute_Rock_None",
   "description": "A mysterious \"lord\" of hilichurls that walks between a thousand peaks.\\nThis huge hilichurl is referred to as a \"lawa\" by its brethren. The abundant Geo energies in the environment have become part of their flesh, blood, and skin, which look as if they were chiseled out of mountain rock.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 8,
   "stats": {

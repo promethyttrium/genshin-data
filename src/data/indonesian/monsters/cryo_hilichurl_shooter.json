@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Suku Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hili_Ice_Range",
   "description": "Penduduk primitif yang mengembara di alam liar Teyvat.\\nPara pemanah ini menggunakan busur panah yang sederhana, dan kepala panahnya diselimuti oleh es yang tidak mencair. Dengar-dengar luka yang diakibatkan oleh tembakan panah ini akan lama sembuhnya, ini terjadi karena suhu dingin yang dibawanya akan memperlambat peredaran darah.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

@@ -10,7 +10,7 @@
   },
   "domain": "Atalaya Arcaica",
   "passive": "Aro lunar",
-  "bonus": "Tras causar una reacción de Torbellino, el ATQ aumenta en un <span>24%/30%/36%/42%/48%</span> durante 12 s. Además, por cada 1/2 personajes del equipo de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un <span>20/48%/25/60%/30/72%/35/84%/40/96%</span>, y el daño de su Habilidad Definitiva aumenta en un <span>10/24%/12.5/30%/15/36%/17.5/42%/20/48%</span>.",
+  "bonus": "Tras causar una reacción de Torbellino o Torbellino Estelar, el ATQ aumenta en un <span>24%/30%/36%/42%/48%</span> durante 12 s. Además, si en el equipo hay al menos 1/2 personajes de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un <span>20/48%/25/60%/30/72%/35/84%/40/96%</span>, y el daño de su Habilidad Definitiva aumenta en un <span>10/24%/12.5/30%/15/36%/17.5/42%/20/48%</span>.",
   "specialProp": "Daño CRIT",
   "stats": {
     "primary": "ATQ Base",
@@ -106,7 +106,6 @@
     {
       "ascension": 0,
       "level": 20,
-      "cost": 0,
       "materials": []
     },
     {
@@ -280,7 +279,7 @@
   ],
   "refinement_raw": {
     "name": "Aro lunar",
-    "template": "Tras causar una reacción de Torbellino, el ATQ aumenta en un <span style=\"color:#99FFFFFF\">{0}</span> durante 12 s. Además, por cada 1/2 personajes del equipo de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un <span style=\"color:#99FFFFFF\">{1}</span>, y el daño de su Habilidad Definitiva aumenta en un <span style=\"color:#99FFFFFF\">{2}</span>.",
+    "template": "Tras causar una reacción de Torbellino o Torbellino Estelar, el ATQ aumenta en un <span style=\"color:#99FFFFFF\">{0}</span> durante 12 s. Además, si en el equipo hay al menos 1/2 personajes de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un <span style=\"color:#99FFFFFF\">{1}</span>, y el daño de su Habilidad Definitiva aumenta en un <span style=\"color:#99FFFFFF\">{2}</span>.",
     "params": [
       [
         "24%",
@@ -312,23 +311,23 @@
   "refinements": [
     {
       "refinement": 1,
-      "desc": "Tras causar una reacción de Torbellino, el ATQ aumenta en un <span>24%</span> durante 12 s. Además, por cada 1/2 personajes del equipo de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un <span>20/48%</span>, y el daño de su Habilidad Definitiva aumenta en un <span>10/24%</span>."
+      "desc": "Tras causar una reacción de Torbellino o Torbellino Estelar, el ATQ aumenta en un <span>24%</span> durante 12 s. Además, si en el equipo hay al menos 1/2 personajes de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un <span>20/48%</span>, y el daño de su Habilidad Definitiva aumenta en un <span>10/24%</span>."
     },
     {
       "refinement": 2,
-      "desc": "Tras causar una reacción de Torbellino, el ATQ aumenta en un <span>30%</span> durante 12 s. Además, por cada 1/2 personajes del equipo de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un <span>25/60%</span>, y el daño de su Habilidad Definitiva aumenta en un <span>12.5/30%</span>."
+      "desc": "Tras causar una reacción de Torbellino o Torbellino Estelar, el ATQ aumenta en un <span>30%</span> durante 12 s. Además, si en el equipo hay al menos 1/2 personajes de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un <span>25/60%</span>, y el daño de su Habilidad Definitiva aumenta en un <span>12.5/30%</span>."
     },
     {
       "refinement": 3,
-      "desc": "Tras causar una reacción de Torbellino, el ATQ aumenta en un <span>36%</span> durante 12 s. Además, por cada 1/2 personajes del equipo de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un <span>30/72%</span>, y el daño de su Habilidad Definitiva aumenta en un <span>15/36%</span>."
+      "desc": "Tras causar una reacción de Torbellino o Torbellino Estelar, el ATQ aumenta en un <span>36%</span> durante 12 s. Además, si en el equipo hay al menos 1/2 personajes de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un <span>30/72%</span>, y el daño de su Habilidad Definitiva aumenta en un <span>15/36%</span>."
     },
     {
       "refinement": 4,
-      "desc": "Tras causar una reacción de Torbellino, el ATQ aumenta en un <span>42%</span> durante 12 s. Además, por cada 1/2 personajes del equipo de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un <span>35/84%</span>, y el daño de su Habilidad Definitiva aumenta en un <span>17.5/42%</span>."
+      "desc": "Tras causar una reacción de Torbellino o Torbellino Estelar, el ATQ aumenta en un <span>42%</span> durante 12 s. Además, si en el equipo hay al menos 1/2 personajes de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un <span>35/84%</span>, y el daño de su Habilidad Definitiva aumenta en un <span>17.5/42%</span>."
     },
     {
       "refinement": 5,
-      "desc": "Tras causar una reacción de Torbellino, el ATQ aumenta en un <span>48%</span> durante 12 s. Además, por cada 1/2 personajes del equipo de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un <span>40/96%</span>, y el daño de su Habilidad Definitiva aumenta en un <span>20/48%</span>."
+      "desc": "Tras causar una reacción de Torbellino o Torbellino Estelar, el ATQ aumenta en un <span>48%</span> durante 12 s. Además, si en el equipo hay al menos 1/2 personajes de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un <span>40/96%</span>, y el daño de su Habilidad Definitiva aumenta en un <span>20/48%</span>."
     }
   ]
 }

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "Cryo",
+    "weapon": "Polearm",
     "faction": [
-      null
+      "Fontaine"
     ],
     "talent_card": {
       "_id": 9075,
@@ -29,8 +31,10 @@
     {
       "id": "kitchen_skills",
       "name": "Kitchen Skills",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "lowtemperature_cooking",
       "name": "Low-Temperature Cooking",
-      "desc": "Deals ? ?, summons <span style=\"color:#FFFFFFFF\">Cooking Mek: Cold Storage Mode</span>.",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#99FFFFFF\">Cryo DMG</span>, summons <span style=\"color:#FFFFFFFF\">Cooking Mek: Cold Storage Mode</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "scoring_cuts",
       "name": "Scoring Cuts",
-      "desc": "Deals ? ?, heals all your characters for 2 HP.",
-      "skillTag": [],
+      "desc": "Deals 1 <span style=\"color:#99FFFFFF\">Cryo DMG</span>, heals all your characters for 2 HP.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -84,7 +92,9 @@
       "id": "constant_offthecuff_cookery",
       "name": "Constant Off-the-Cuff Cookery",
       "desc": "(Passive) When battle begins, create 1 <span style=\"color:#FFFFFFFF\">All-Spectrum Multi-Use Cooking Mek</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

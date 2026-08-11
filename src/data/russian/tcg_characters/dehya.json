@@ -9,9 +9,11 @@
     "hp": 10,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Пиро",
+    "weapon": "Двуручное",
     "faction": [
-      null,
-      null
+      "Сумеру",
+      "Пустынники"
     ],
     "talent_card": {
       "_id": 4367,
@@ -30,8 +32,10 @@
     {
       "id": "sandstorm_assault",
       "name": "Нападение песчаной бури",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -50,8 +54,10 @@
     {
       "id": "molten_inferno",
       "name": "Расплавленное пекло",
-      "desc": "Призывает <span style=\"color:#FFFFFFFF\">Область Огненного узилища</span>. Если Область Огненного узилища уже существует, сначала наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Призывает <span style=\"color:#FFFFFFFF\">Область Огненного узилища</span>. Если Область Огненного узилища уже существует, сначала наносит <span style=\"color:#FF9999FF\">Пиро урон</span>, 1 ед.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -64,8 +70,10 @@
     {
       "id": "leonine_bite",
       "name": "Клыки львицы",
-      "desc": "Наносит ?, ? ед., после чего начинается <span style=\"color:#FFFFFFFF\">Подготовка навыка</span>: <span style=\"color:#FFFFFFFF\">Сжигающий удар</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FF9999FF\">Пиро урон</span>, 3 ед., после чего начинается <span style=\"color:#FFFFFFFF\">Подготовка навыка</span>: <span style=\"color:#FFFFFFFF\">Сжигающий удар</span>.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1103,

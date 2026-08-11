@@ -13,7 +13,6 @@
   "categoryText": "アビス",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_02",
   "description": "主にエリナスに現れる不思議な生命体。\\nウーシアの魂、またはプネウマの魂に出会うと強い刺激を受けるらしい。強い攻撃性や侵略性を持っていなくとも、こうした手段で効果的にブリーチャープリムスを追い払えるようだ。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

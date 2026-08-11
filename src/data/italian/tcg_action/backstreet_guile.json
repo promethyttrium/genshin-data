@@ -1,0 +1,33 @@
+{
+  "_id": 215161,
+  "id": "backstreet_guile",
+  "shareId": 612,
+  "name": "Astuzia dei vicoli",
+  "title": "Jahoda: Astuzia dei vicoli",
+  "desc": "\"Chi lo trova se lo tiene!\"",
+  "in_play_description": "Quando <span style=\"color:#FFFFFFFF\">Jahoda</span> diventa il personaggio attivo, se il numero di carte nella mano del tuo avversario è maggiore o uguale a quello delle carte nella tua mano, copia 2 carte casuali dalla mano dell'avversario (una volta per turno).",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "Anemo",
+    "card_type": "Carta equipaggiamento",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "Anemo",
+        "count": 3
+      }
+    ],
+    "source": "Ricompensa ottenuta sfidando Jahoda a duello alla Coda di Gatto e completando tutti gli obiettivi della sfida corrispondente",
+    "tags": [
+      "Talento",
+      "Azione di combattimento"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Azione di combattimento</span>: quando il tuo personaggio attivo è <span style=\"color:#FFFFFFFF\">Jahoda</span>, equipaggia questa carta.<br/>Dopo che Jahoda ha equipaggiato questa carta, utilizza immediatamente <span style=\"color:#FFD780FF\">Strategia ingegnosa: Condivisione del bottino</span> una volta.<br/>Quando <span style=\"color:#FFFFFFFF\">Jahoda</span> diventa il personaggio attivo, se il numero di carte nella mano del tuo avversario è maggiore o uguale a quello delle carte nella tua mano, copia 2 carte casuali dalla mano dell'avversario (una volta per turno).<br/>(Per aggiungere questa carta, il tuo mazzo deve contenere Jahoda.)"
+    }
+  ]
+}

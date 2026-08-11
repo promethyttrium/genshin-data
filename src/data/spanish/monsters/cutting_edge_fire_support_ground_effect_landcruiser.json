@@ -1,7 +1,7 @@
 {
   "_id": 23085301,
   "id": "cutting_edge_fire_support_ground_effect_landcruiser",
-  "monsterId": 23085304,
+  "monsterId": 23085306,
   "name": "Patrullero Terrestre - Modelo puntero de fuego terrestre",
   "specialNames": [
     "Modelo puntero de fuego terrestre"
@@ -13,7 +13,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuimecha_CoreC_MoveF_AttackB_Fire",
   "description": "Un Patrullero Terrestre de élite que cuenta con un equilibrio entre tecnología puntera, costes de producción e índice de despliegue, lo que confiere un inmenso poder destructivo a cualquier secuencia de combate. Es el eje clave de la primera línea de batalla.\\nTras equiparle un motor a reacción de alta eficiencia, este Patrullero Terrestre ha adquirido la capacidad de utilizar múltiples armas, lo que le permite enviar esta considerable potencia de fuego a cualquier lugar del campo de batalla de manera oportuna. Por ello, según las directrices de combate redactadas conjuntamente entre los Fatui y la Real Academia Militar, estos Patrulleros deben organizarse como una “fuerza de reacción rápida” en batallas a gran escala, con el fin de protegerse contra las incursiones o contraataques enemigos y aprovechar la ventaja si la batalla se desarrolla de manera favorable. Naturalmente, todos los Patrulleros Terrestres punteros tienen la capacidad de operar de forma independiente y, en misiones largas, pueden ser el núcleo de un pequeño escuadrón, lo que maximizará la potencia de fuego de toda clase de unidades Fatui.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

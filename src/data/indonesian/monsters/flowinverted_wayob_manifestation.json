@@ -13,8 +13,6 @@
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Wayob_Mosasaurus",
   "description": "Suku Warga Mata Air memercayai dan memuja Wayob yang mengambil wujudnya dengan bantuan totem dan juga Nightsoul.\\nYang disebut \"Wayob\" ini adalah kepercayaan yang pelan-pelan terbentuk dari para penduduk suku dan totem obsidian setelah para penduduk Natlan mulai berkomunikasi dengan Kerajaan Malam. Wayob adalah kesadaran yang tercipta dari kumpulan pikiran, dan juga merupakan rumah dari jiwa para leluhur.\\nPara Warga Mata Air percaya bahwa Wayob dapat mengendalikan pasang dan ombak, serta mengendalikan perubahan air yang mengalir dan juga yang diam.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 4,
   "stats": {
     "resistance": {

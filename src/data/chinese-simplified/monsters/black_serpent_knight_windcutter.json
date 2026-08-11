@@ -22,7 +22,6 @@
   "categoryText": "深渊",
   "filename_icon": "UI_MonsterIcon_Darkwraith_Strong_Wind",
   "description": "在宫廷当中颇具地位的近卫军人，以名唤「至真之术」的剑斗技巧，扫除王家的敌人。\\n「末光之剑」也曾是他们当中的一员。在王国的光荣尽数失落、一切都无可挽回之前。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

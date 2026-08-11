@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta personaggio",
     "energy": 2,
+    "element": "Electro",
+    "weapon": "Arco",
     "faction": [
-      null
+      "Natlan"
     ],
     "talent_card": {
       "_id": 9241,
@@ -29,8 +31,10 @@
     {
       "id": "spiritvessel_snapshot",
       "name": "Freccia albergaspiriti",
-      "desc": "Infligge ? ?.",
-      "skillTag": [],
+      "desc": "Infligge 2 ?.",
+      "skillTag": [
+        "Attacco normale"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -49,8 +53,10 @@
     {
       "id": "nights_sling",
       "name": "Lancio della Notte",
-      "desc": "Infligge ? ? e crea 1 <span style=\"color:#FFFFFFFF\">Sfera spiritica</span>.",
-      "skillTag": [],
+      "desc": "Infligge 2 <span style=\"color:#FFACFFFF\">DAN da Electro</span> e crea 1 <span style=\"color:#FFFFFFFF\">Sfera spiritica</span>.",
+      "skillTag": [
+        "Abilità elementale"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "dark_voices_echo",
       "name": "Eco di voci oscure",
-      "desc": "Infligge ? ? e invoca 1 <span style=\"color:#FFFFFFFF\">Occhio supersonico</span>.",
-      "skillTag": [],
+      "desc": "Infligge 2 <span style=\"color:#FFACFFFF\">DAN da Electro</span> e invoca 1 <span style=\"color:#FFFFFFFF\">Occhio supersonico</span>.",
+      "skillTag": [
+        "Tripudio elementale"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -84,7 +92,9 @@
       "id": "nightshade_synesthesia",
       "name": "Sinestesia notturna",
       "desc": "(Passiva) <span style=\"color:#FFFFFFFF\">Dopo che hai innescato Electrocarica o Carica lunare:</span> se possibile, consuma 2 <span style=\"color:#FFFFFFFF\">punti Anima della Notte</span> per infliggere 1 <span style=\"color:#FFACFFFF\">DAN da Electro</span>.<br/>Dopo che infliggi <span style=\"color:#80C0FFFF\">DAN da Hydro</span> o <span style=\"color:#FFACFFFF\">DAN da Electro</span> da una fonte diversa da questa abilità, questo personaggio entra nello stato di <span style=\"color:#FFFFFFFF\">Grazia dell'Anima della Notte</span> e ottiene 1 <span style=\"color:#FFFFFFFF\">punto Anima della Notte</span> (una volta per turno).",
-      "skillTag": [],
+      "skillTag": [
+        "Abilità passiva"
+      ],
       "points": []
     }
   ]

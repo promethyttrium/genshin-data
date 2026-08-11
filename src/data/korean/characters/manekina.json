@@ -8,8 +8,8 @@
     "name": "한손검"
   },
   "element": {
-    "id": "none",
-    "name": "없음"
+    "id": "",
+    "name": ""
   },
   "gender": {
     "id": "female",
@@ -24,8 +24,8 @@
   },
   "rarity": 5,
   "birthday": [
-    0,
-    0
+    null,
+    null
   ],
   "constellation": "——",
   "domain": "불을 품은 폐허",

@@ -1,0 +1,28 @@
+{
+  "_id": 332065,
+  "id": "witchs_homework",
+  "shareId": 618,
+  "name": "Cadının Ödevi",
+  "title": "Cadının Ödevi",
+  "desc": "\"Bir anda ortaya çıkıp günü kurtardığımız bir senaryo yerine zamanla hazırlık yapmak daha mantıklı...\"",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Aynı Element",
+    "card_type": "Etki Kartı",
+    "energy": [
+      {
+        "_id": 1108,
+        "id": "matching_element",
+        "type": "Aynı Element",
+        "count": 1
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "1  Yetenek Kartı çekersin. Başlangıç destende en az 3  Yetenek Kartı varsa elindeki en yüksek <span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">Mevcut Element Zarı Maliyeti</span>ne</span> sahip rastgele bir  Yetenek Kartına <span style=\"color:#FFFFFFFF\">Maliyet Azaltma</span> uygulanır."
+    }
+  ]
+}

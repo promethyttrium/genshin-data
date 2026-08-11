@@ -13,7 +13,6 @@
   "categoryText": "Sinh Mệnh Nguyên Tố",
   "filename_icon": "UI_MonsterIcon_Effigy_Fire",
   "description": "Sinh mệnh Nguyên Tố Hỏa cao cấp có biệt danh là \"Ayin\".\\nTheo nghiên cứu của học giả, Nguyên Tố Nguyên Bản có liên quan mật thiết đến sự bất thường của mạch nguyên tố địa phương. Nhưng rốt cuộc là sự tồn tại của Nguyên Tố Nguyên Bản ảnh hưởng đến mạch nguyên tố, hay là năng lượng nguyên tố dị biến tạo ra Nguyên Tố Nguyên Bản, điều đấy không ai biết cả.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

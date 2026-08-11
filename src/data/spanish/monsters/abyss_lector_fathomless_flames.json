@@ -1,7 +1,7 @@
 {
   "_id": 22030201,
   "id": "abyss_lector_fathomless_flames",
-  "monsterId": 22030202,
+  "monsterId": 84203022,
   "name": "Bardo del Abismo - Llamas abismales",
   "specialNames": [
     "Bardo del Abismo - Alberthonar",
@@ -22,9 +22,8 @@
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_Invoker_Deacon_Fire",
   "description": "Una criatura de la Orden del Abismo que manipula el fuego abisal y se dedica a estudiar el significado de los textos y las escrituras.\\nLos habitantes de la superficie los llaman “bardos”, aunque más bien deberían ser exégetas. Al recitar las palabras de la gracia, se vuelve más poderoso.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

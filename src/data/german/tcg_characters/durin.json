@@ -1,0 +1,90 @@
+{
+  "_id": 1317,
+  "id": "durin",
+  "shareId": 608,
+  "name": "Durin",
+  "title": "Unauslöschliches Feuer – Durin",
+  "desc": "Entstanden aus der Feder schwebt er nun zwischen den Sternen.",
+  "attributes": {
+    "hp": 10,
+    "card_type": "Figurenkarte",
+    "energy": 2,
+    "element": "Pyro",
+    "weapon": "Einhänder",
+    "faction": [
+      "Mondstadt"
+    ],
+    "source": "Nach einem gewonnenen „Duell – Nett“ mit Durin in der Taverne Zum Katzenschwanz zu erhalten."
+  },
+  "skills": [
+    {
+      "id": "radiant_wingslash",
+      "name": "Flammenflügel-Hieb",
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Pyro",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "Würfel (beliebig)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "binary_form_convergence_and_division",
+      "name": "Zweifach – Spannung und Schmelzung",
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#FF9999FF\">Pyro-SCH</span>, erhält selbst <span style=\"color:#FFFFFFFF\">Essenzumwandlung</span>.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Pyro",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "principle_of_purity_as_the_light_shifts",
+      "name": "Prinzip der Helligkeit – Fluss des Lichts",
+      "desc": "Verursacht 1 Pkt. <span style=\"color:#FF9999FF\">Pyro-SCH</span>, erschafft 1 <span style=\"color:#FFFFFFFF\">Bestätigung der Helligkeit</span>.",
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
+      "points": [
+        {
+          "_id": 1103,
+          "id": "pyro",
+          "type": "Pyro",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "Aufladung",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "light_manifest_of_the_divine_calculus",
+      "name": "Erscheinen des Lichtgeistes",
+      "desc": "Passiv – <span style=\"color:#FFFFFFFF\">Nachdem diese Figur „Standardangriff“ eingesetzt hat:</span> Wechselt die eigene „Spezialfähigkeit“ zu <span style=\"color:#FFFFFFFF\">Prinzip der Dunkelheit – Sternen-Schwelbrand</span>.<br/><span style=\"color:#FFFFFFFF\">Nachdem diese Figur „Elementarfähigkeit“ eingesetzt hat:</span> Wechselt die eigene „Spezialfähigkeit“ zu <span style=\"color:#FFFFFFFF\">Prinzip der Helligkeit – Fluss des Lichts</span>.",
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
+      "points": []
+    }
+  ]
+}

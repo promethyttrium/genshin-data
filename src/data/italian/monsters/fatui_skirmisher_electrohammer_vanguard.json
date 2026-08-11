@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01",
   "description": "Uno Schermagliatore di robusta costituzione armato di un martello da guerra di Electro.\\nQuesti soldati dei Fatui hanno accesso a molte risorse: denaro, armi e rifornimenti.\\nMa allo stesso tempo, ciò significa anche stare molto tempo lontani da casa e famiglia, e mettere la propria vita nelle mani di compagni mai incontrati prima.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 8,
   "stats": {

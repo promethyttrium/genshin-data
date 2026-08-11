@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Human_MuscleMan_Claymore_Flamingo",
   "description": "Ein Krieger von jenseits der Klippen, ein Stammeswächter, der über die steilen Berggipfel zieht.\\nEin Krieger, der sich durch die Bewegungen der Klauenangriffe von Flugsauriern die wahre Bedeutung von Kraft zu eigen gemacht hat. Seine Tritte von oben sollten keinesfalls unterschätzt werden.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

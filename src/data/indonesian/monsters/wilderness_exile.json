@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "Abyss",
   "filename_icon": "UI_MonsterIcon_WildHunt",
   "description": "Roh-roh yang berkeliaran di gurun beku ditemani kabut gelap. Kemunculan mereka seolah menjadi pertanda bencana yang lebih dahsyat.\\nPara manusia di bawah rembulan memulai perjalanan dengan keinginan masing-masing, tapi, tidak semua keinginan dapat terlihat. Jiwa-jiwa yang tak dapat beristirahat karena dendam, yang berpisah dengan orang dicintai, dan yang hasratnya tak dipenuhi, jika terkorosi oleh Abyss, dapat berubah menjadi roh dan hilang selamanya dalam kabut tebal Perburuan Liar.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

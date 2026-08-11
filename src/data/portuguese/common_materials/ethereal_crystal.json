@@ -1,0 +1,24 @@
+{
+  "_id": 112147,
+  "id": "ethereal_crystal",
+  "name": "Cristal Etéreo",
+  "description": "Um fragmento destruído das escamas cristalinas que outrora cresciam no corpo de um feérico. Embora agora seja meramente uma casca vazia, ainda é possível sentir o eco do poder único que habitava aqui no passado.",
+  "source": [
+    "Dropado por Feérico de Carne Cristalina Nv.40+",
+    "Resgate de Poeira Estrelar",
+    "Quantidade a ser fabricada: {0}"
+  ],
+  "rarity": 2,
+  "craft": {
+    "cost": 25,
+    "items": [
+      {
+        "_id": 112146,
+        "id": "ethereal_glimmershard",
+        "name": "Granizo Etéreo",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

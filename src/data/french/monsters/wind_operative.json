@@ -64,19 +64,19 @@
       "_id": 112094,
       "id": "operatives_constancy",
       "name": "Constance d'opérateur",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112093,
       "id": "operatives_standard_pocket_watch",
       "name": "Montre à gousset d'opérateur",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112092,
       "id": "old_operatives_pocket_watch",
       "name": "Vieille montre à gousset d'opérateur",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -127,7 +127,6 @@
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_Fatuus_Escadron_Wind",
   "description": "Un agent d'élite des Fatui.\\nCes opérateurs n'ont pas un rang militaire habituel parmi les Fatui. En fonction de leurs ordres et du contenu de leurs missions, ils peuvent travailler de concert avec d'autres soldats, seuls ou en tandem avec les « taupes » cachées et dispersées à travers le monde. Ils espionnent, mènent du contre-espionnage, protègent, assassinent et accomplissent d'autres tâches. Afin de mener à bien leurs missions de nature plus particulière, ces opérateurs doivent également maîtriser toutes sortes d'autres compétences, et même divers arts et talents.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 3,
   "stats": {

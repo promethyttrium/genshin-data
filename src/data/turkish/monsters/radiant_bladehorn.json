@@ -13,7 +13,6 @@
   "categoryText": "Efsanevi Canavarlar",
   "filename_icon": "UI_MonsterIcon_Magbeast_Rhino",
   "description": "Kadim ayın gücüne uzun süre maruz kaldığından eşsiz bir evrim geçirmiş bir canavar.\\nRivayete göre, çok eski zamanlarda bu uç diyarlar hâlâ zifiri karanlıkla kaplı haldeyken yalnızca devasa gergedanların saldırısı her şeyi harekete geçiren gücü sağlayabiliyordu... Ve ay ışığının bahşettiği lütuf karşılığında onlardan istenen tek şey buydu.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

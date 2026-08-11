@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "การ์ดตัวละคร",
     "energy": 2,
+    "element": "ธาตุน้ำ",
+    "weapon": "ดาบ",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "source": "ได้รับหลังจากเชิญ Dahlia ทำการดูเอลใน Cat's Tail และเอาชนะในระดับความยากฉันมิตร"
   },
@@ -18,8 +20,10 @@
     {
       "id": "favonius_bladework_ritual",
       "name": "Favonius Bladework - Ritual",
-      "desc": "จะสร้าง? ? หน่วย",
-      "skillTag": [],
+      "desc": "จะสร้าง? 2 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -38,8 +42,10 @@
     {
       "id": "immersive_ordinance",
       "name": "Immersive Ordinance",
-      "desc": "สร้าง? ? หน่วย และสร้าง <span style=\"color:#FFFFFFFF\">Sacramental Shower</span>",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#80C0FFFF\">ความเสียหายน้ำ</span> 2 หน่วย และสร้าง <span style=\"color:#FFFFFFFF\">Sacramental Shower</span>",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -52,8 +58,10 @@
     {
       "id": "radiant_psalter",
       "name": "Radiant Psalter",
-      "desc": "สร้าง? ? หน่วย สร้าง <span style=\"color:#FFFFFFFF\">โล่</span> 2 ชั้น และ <span style=\"color:#FFFFFFFF\">Favonian Favor</span> 2 ชั้น",
-      "skillTag": [],
+      "desc": "สร้าง<span style=\"color:#80C0FFFF\">ความเสียหายน้ำ</span> 2 หน่วย สร้าง <span style=\"color:#FFFFFFFF\">โล่</span> 2 ชั้น และ <span style=\"color:#FFFFFFFF\">Favonian Favor</span> 2 ชั้น",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
       "points": [
         {
           "_id": 1102,

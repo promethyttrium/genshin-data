@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Lôi",
+    "weapon": "Cung",
     "faction": [
-      null
+      "Natlan"
     ],
     "talent_card": {
       "_id": 9241,
@@ -29,8 +31,10 @@
     {
       "id": "spiritvessel_snapshot",
       "name": "Mũi Tên Linh Hồn",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm ?.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -49,8 +53,10 @@
     {
       "id": "nights_sling",
       "name": "Màn Đêm Trói Buộc",
-      "desc": "Gây ? điểm ?, sinh ra <span style=\"color:#FFFFFFFF\">Ngọc Linh Hồn</span>.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#FFACFFFF\">Sát Thương Nguyên Tố Lôi</span>, sinh ra <span style=\"color:#FFFFFFFF\">Ngọc Linh Hồn</span>.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -63,8 +69,10 @@
     {
       "id": "dark_voices_echo",
       "name": "Tiếng Vọng U Ám",
-      "desc": "Gây ? điểm ?, triệu hồi <span style=\"color:#FFFFFFFF\">Mắt Siêu Âm</span>.",
-      "skillTag": [],
+      "desc": "Gây 2 điểm <span style=\"color:#FFACFFFF\">Sát Thương Nguyên Tố Lôi</span>, triệu hồi <span style=\"color:#FFFFFFFF\">Mắt Siêu Âm</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -84,7 +92,9 @@
       "id": "nightshade_synesthesia",
       "name": "Cảm Nhận Trong Đêm Tối",
       "desc": "(Bị động) <span style=\"color:#FFFFFFFF\">Sau khi phe ta kích hoạt phản ứng Điện Cảm hoặc Nguyệt-Điện Cảm:</span> Nếu có thể, sẽ tiêu hao 2 <span style=\"color:#FFFFFFFF\">điểm Dạ Hồn</span> để gây 1 điểm <span style=\"color:#FFACFFFF\">Sát Thương Nguyên Tố Lôi</span>.<br/>Sau khi phe ta gây <span style=\"color:#80C0FFFF\">Sát Thương Nguyên Tố Thủy</span> hoặc <span style=\"color:#FFACFFFF\">Sát Thương Nguyên Tố Lôi</span> từ ngoài kỹ năng này, bản thân sẽ vào <span style=\"color:#FFFFFFFF\">Dạ Hồn Chúc Phúc</span> và nhận 1 <span style=\"color:#FFFFFFFF\">điểm Dạ Hồn</span>. (Mỗi hiệp 1 lần)",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Bị Động"
+      ],
       "points": []
     }
   ]

@@ -1,0 +1,39 @@
+{
+  "_id": 213171,
+  "id": "adamahs_redemption",
+  "shareId": 611,
+  "name": "红土之逆",
+  "title": "杜林·红土之逆",
+  "desc": "「命途的转折。」",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">所附属角色使用白化法·如光流变后：</span>我方下4次造成的伤害+1。<br/><span style=\"color:#FFFFFFFF\">所附属角色使用黑度法·如星阴燃后：</span>我方<span style=\"color:#FFFFFFFF\">杜林</span>与<span style=\"color:#FFFFFFFF\">黑度之否</span>造成的伤害+2。",
+  "attributes": {
+    "cost": 4,
+    "cost_type": "火元素",
+    "card_type": "装备牌",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "火元素",
+        "count": 4
+      },
+      {
+        "_id": 1110,
+        "id": "energy",
+        "type": "充能",
+        "count": 2
+      }
+    ],
+    "source": "在猫尾酒馆中邀请杜林进行对局，完成相应挑战目标后获取",
+    "tags": [
+      "天赋",
+      "战斗行动"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">战斗行动</span>：我方出战角色为<span style=\"color:#FFFFFFFF\">杜林</span>时，装备此牌。<br/>杜林装备此牌后，根据自身当前「元素爆发」立刻使用一次<span style=\"color:#FFD780FF\">白化法·如光流变</span>或<span style=\"color:#FFD780FF\">黑度法·如星阴燃</span>。<br/><span style=\"color:#FFFFFFFF\">所附属角色使用白化法·如光流变后：</span>我方下4次造成的伤害+1。<br/><span style=\"color:#FFFFFFFF\">所附属角色使用黑度法·如星阴燃后：</span>我方<span style=\"color:#FFFFFFFF\">杜林</span>与<span style=\"color:#FFFFFFFF\">黑度之否</span>造成的伤害+2。<br/>（牌组中包含杜林，才能加入牌组）"
+    }
+  ]
+}

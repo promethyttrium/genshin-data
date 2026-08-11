@@ -1,0 +1,32 @@
+{
+  "_id": 213062,
+  "id": "sparkborne_magic",
+  "shareId": 615,
+  "name": "火花魔法",
+  "title": "可莉·火花魔法",
+  "desc": "「就這樣，最最可愛的嘟嘟小魔法師在好朋友們的幫助下，通過了資格考試，成為了真正的嘟嘟大魔法師。可喜可賀，可喜可賀——」\\n「——不是要我們寫注釋嗎？！這已經和小魔女完全沒關係了啊！」",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">所附屬角色進行<span style=\"color:#FFFFFFFF\">重擊</span>後：</span>造成2點<span style=\"color:#FF9999FF\">火元素傷害</span>。（每回合2次）",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "火元素",
+    "card_type": "裝備牌",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "火元素",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "天賦",
+      "魔導"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">快速行動</span>：裝備給我方的<span style=\"color:#FFFFFFFF\">可莉</span>。<br/>可莉附屬<span style=\"color:#FFFFFFFF\">爆裂火花</span>。<br/><span style=\"color:#FFFFFFFF\">所附屬角色進行<span style=\"color:#FFFFFFFF\">重擊</span>後：</span>造成2點<span style=\"color:#FF9999FF\">火元素傷害</span>。（每回合2次）<br/>（牌組中包含可莉，才能加入牌組）"
+    }
+  ]
+}

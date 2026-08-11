@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Mechanical Spur Gear",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Meshing Gear",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automatons",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01",
   "description": "Alongside the Recon Log Mek, this was one of the first new-type clockwork meka to be made (though of course, after hundreds of years, no one refers to them as \"new-type\" anymore — this was simply to differentiate them from traditional clockwork mechanisms that were powered by potential energy.)\\nIt was named to commemorate a friend of its inventor, and was originally designed to help people. However, its ability to attack people — thereby avoiding the need to put friendly personnel at risk — subsequently came to be seen as its real strength.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 3,
   "stats": {

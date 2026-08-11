@@ -1,0 +1,33 @@
+{
+  "_id": 215161,
+  "id": "backstreet_guile",
+  "shareId": 612,
+  "name": "뒷골목의 지혜",
+  "title": "야호다·뒷골목의 지혜",
+  "desc": "「다 내 거야!」",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">야호다</span>가 출전 캐릭터로 교체될 때 상대의 핸드 카드 수가 아군의 핸드 카드 수 이상일 경우, 상대의 핸드 카드를 랜덤으로 2장 복제한다. (턴당 1회)",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "바람 원소",
+    "card_type": "장비 카드",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "바람 원소",
+        "count": 3
+      }
+    ],
+    "source": "캣테일 술집에서 야호다를 초대해 대전하고 상응하는 도전 목표 달성 후 획득",
+    "tags": [
+      "특성",
+      "전투 행동"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">전투 행동</span>: 아군 출전 캐릭터가 <span style=\"color:#FFFFFFFF\">야호다</span>일 때 해당 카드를 장착한다.<br/>야호다가 해당 카드를 장착하면 즉시 <span style=\"color:#FFD780FF\">기책·부의 재분배</span>를 1회 사용한다.<br/><span style=\"color:#FFFFFFFF\">야호다</span>가 출전 캐릭터로 교체될 때 상대의 핸드 카드 수가 아군의 핸드 카드 수 이상일 경우, 상대의 핸드 카드를 랜덤으로 2장 복제한다. (턴당 1회)<br/>(카드 덱에 야호다가 있어야만 카드 덱에 추가 가능)"
+    }
+  ]
+}

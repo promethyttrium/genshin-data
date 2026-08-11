@@ -1,0 +1,72 @@
+{
+  "_id": 26310201,
+  "id": "chimeric_burrowbeast",
+  "monsterId": 26310201,
+  "name": "Besta Quimérica Enterrada",
+  "specialNames": [
+    "Besta Quimérica Enterrada"
+  ],
+  "investigation": {
+    "investigationId": 100,
+    "name": "Monstros Quiméricos Anômalos",
+    "categoryType": "Common",
+    "categoryText": "Comum",
+    "description": "Uma das muitas criações geradas pela alquimia biológica, que outrora floresceu por toda Snezhnaya antes de ser proibida.\\nEnquanto a maioria desses monstros foi consumida na guerra contra o Ataque das Bestas Sombrias, os poucos que sobreviveram a esse dia são as exceções mais raras."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Chimera_BeetleLion",
+  "rewardPreviewId": 16029,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora"
+    },
+    {
+      "_id": 112151,
+      "id": "prime_chimeric_nexus",
+      "name": "Nexo Quimérico Primordial",
+      "count": 0.084
+    },
+    {
+      "_id": 112150,
+      "id": "symbiotic_chimeric_nucleus",
+      "name": "Núcleo Quimérico Simbiótico",
+      "count": 0.336
+    },
+    {
+      "_id": 112149,
+      "id": "chimeric_core",
+      "name": "Núcleo Quimérico",
+      "count": 1.26
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Monstros diversos",
+  "filename_icon": "UI_MonsterIcon_Chimera_OwlPangolin",
+  "description": "Um produto da Bioalquimia amplamente difundida pelas terras congeladas no passado, um monstro quimérico anômalo.\\nSe um monstro que cava tocas pela terra e neve recebesse uma visão que pudesse ver tudo nas sombras, será que poderia se tornar um predador ainda mais forte?\\nO experimento foi um tremendo sucesso. Essas Bestas Enterradas se movem debaixo da superfície à noite, cavando armadilhas no escuro e se escondendo nas sombras para caçar.\\nSegundo um relato em Pioneiros, um trabalhador vivendo em Svetloledovka viu uma vez uma Besta Quimérica Enterrada quase tão alta quanto duas pessoas... Embora isso provavelmente não seja nada além de um rumor.",
+  "budget": 4,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.2
+    },
+    "base": {
+      "hp": 27.168,
+      "attack": 30.144,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

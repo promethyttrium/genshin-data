@@ -8,16 +8,20 @@
     "hp": 8,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Elektrik",
+    "weapon": "Diğer Silahlar",
     "faction": [
-      null
+      "Münzeviler"
     ]
   },
   "skills": [
     {
       "id": "axe_swipe",
       "name": "Balta Vuruşu",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "2 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -36,8 +40,10 @@
     {
       "id": "whirling_cleave",
       "name": "Döner Vuruş",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "3 ? verir.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -50,8 +56,10 @@
     {
       "id": "greataxe_smash",
       "name": "Büyük Balta Darbesi",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "5 ? verir.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -71,7 +79,9 @@
       "id": "ominous_spirit_unleashed_electro",
       "name": "Serbest Kalan Uğursuz Ruh (Elektrik)",
       "desc": "(Pasif) <span style=\"color:#FFFFFFFF\">Bu karakter Hasar aldıktan sonra</span> 7 veya daha az Cana sahipse 1 <span style=\"color:#FFFFFFFF\">Enerji</span> kazanır ve karaktere <span style=\"color:#FFFFFFFF\">Alamet Ruhunun Uyanışı: Elektrik</span> eklenir. (Her Düelloda bir defa)",
-      "skillTag": [],
+      "skillTag": [
+        "Pasif Beceri"
+      ],
       "points": []
     }
   ]

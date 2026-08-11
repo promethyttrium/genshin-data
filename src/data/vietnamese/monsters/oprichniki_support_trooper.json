@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "Fatui",
   "filename_icon": "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan",
   "description": "Binh sĩ trực thuộc Oprichniki Fatui, trang bị khiên nặng, phụ trách che chắn cho đồng đội ở tiền tuyến.\\nRất nhiều người đều biết, trong cuộc chiến kéo dài giữa Snezhnaya và thảm họa đen, chỉ có chống đỡ kiên cố hơn, kiên trì lâu hơn mới giành chiến thắng. Mà \"chống đỡ\" của Oprichniki chính là tấm khiên của quân chi viện... Chỉ cần khiên không bị đổ, thì hy vọng chiến thắng vẫn còn.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

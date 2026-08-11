@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Karakter Kartı",
     "energy": 2,
+    "element": "Elektrik",
+    "weapon": "Diğer Silahlar",
     "faction": [
-      null,
-      null
+      "Canavar",
+      "Dağ Yabanisi"
     ]
   },
   "skills": [
     {
       "id": "striking_staff",
       "name": "Asa Darbesi",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "1 ? verir.",
+      "skillTag": [
+        "Normal Saldırı"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "thunderclap_totem",
       "name": "Yıldırım Darbesi Totemi",
-      "desc": "? ? verir ve rakibinin tarafında 1 <span style=\"color:#FFFFFFFF\">Yıldırım Asası</span> oluşturur.",
-      "skillTag": [],
+      "desc": "2 <span style=\"color:#FFACFFFF\">Elektrik Hasarı</span> verir ve rakibinin tarafında 1 <span style=\"color:#FFFFFFFF\">Yıldırım Asası</span> oluşturur.",
+      "skillTag": [
+        "Element Becerisi"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -45,8 +51,10 @@
     {
       "id": "thunderstrike_hex",
       "name": "Yıldırım Darbesi Laneti",
-      "desc": "? ? verir.",
-      "skillTag": [],
+      "desc": "5 <span style=\"color:#FFACFFFF\">Elektrik Hasarı</span> verir.",
+      "skillTag": [
+        "Element Patlaması"
+      ],
       "points": [
         {
           "_id": 1104,

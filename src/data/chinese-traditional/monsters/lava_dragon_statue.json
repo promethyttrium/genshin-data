@@ -13,7 +13,6 @@
   "categoryText": "異種魔獸",
   "filename_icon": "UI_MonsterIcon_LavaTitan",
   "description": "能夠自身持續產生熱量，以維持活動狀態的魔物。\\n據說，由熔岩作為核心的魔物，是有別於後來誕生的秘源機關的另一方向研究的副產物。其研究的主題即是，原初的火焰是否能夠模仿人類創造新的種族…但研究毫無疑問失敗了，在天上掠奪者的聖座到來之後，源火之中所能誕生的，最終也只有這樣徒具備形態和生命力，卻無知無覺的空殼魔物。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

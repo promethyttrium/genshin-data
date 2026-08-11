@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Thoarder_MuscleMan_Boxer_01",
   "description": "Seorang anggota dari organisasi kriminal yang telah melakukan perjalanan ke seluruh daratan bahkan sampai ke kedalaman domain yang tidak diketahui.\\nSangat tertarik dengan pertempuran dan hal-hal yang berhubungan dengan otot, agak pemilih soal makanan dan seringkali membicarakan tentang kegunaan otot, sehingga menyebabkan ketidakpuasan dari teman-teman Treasure Hoarder-nya sendiri.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

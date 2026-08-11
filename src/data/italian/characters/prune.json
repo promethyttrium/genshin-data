@@ -190,7 +190,7 @@
       "_id": 11322,
       "id": "ringadingding_hexhunter_chime",
       "name": "Din-din-dan! Scampanio Scacciastreghe",
-      "description": "Scatena la potenza del vento al fine di sconfiggere la strega malvagia e salvare Descartes! Prune colpisce la Campana Ammaliastreghe con il suo Martello Scacciamali, infliggendo <span style=\"color:#80FFD7FF\">DAN da Anemo</span>.<br/>Se Prune innesca un Turbinio su un avversario usando questo attacco, <span style=\"color:#FFD780FF\">Din-din-dan! Scampanio Scacciastreghe</span> viene sostituito da <span style=\"color:#FFD780FF\">Don don! Castigo della strega!</span> per i successivi 6 s.<br/><br/><span style=\"color:#FFD780FF\">Don don! Castigo della strega!</span><br/>Il martello di Prune viene avvolto dall'elemento coinvolto nella precedente reazione di Turbinio, sottoponendo il <b><span style=\"color:#FFD780FF\">Martello Scacciamali</span></b> a una Conversione elementale. Attivando l'abilità con una pressione, Prune compie un balzo in alto e dà un calcio in avanti al Martello Scacciamali, infliggendo DAN elementali del tipo corrispondente agli avversari di fronte a lei.",
+      "description": "Determinata a sconfiggere la strega \"malvagia\" e a salvare il suo amato Descartes, Prune sprigiona il potere del vento! Colpisce la Campana Ammaliastreghe usando il suo Martello Scacciamali, infliggendo <span style=\"color:#80FFD7FF\">DAN da Anemo</span>.<br/>Se Prune innesca una reazione di Turbinio o di Turbinio astrale su un avversario usando questo attacco, <span style=\"color:#FFD780FF\">Din-din-dan! Scampanio Scacciastreghe</span> viene sostituito da <span style=\"color:#FFD780FF\">Don don! Castigo della strega!</span> per i successivi 6 s.<br/><br/><span style=\"color:#FFD780FF\">Don don! Castigo della strega!</span><br/>Avvolge il <b><span style=\"color:#FFD780FF\">Martello Scacciamali</span></b> nell'elemento coinvolto nella precedente reazione di Turbinio o di Turbinio astrale. Dopo aver attivato l'abilità con una pressione, Prune sferra un calcio a mezz'aria contro il Martello Scacciamali, infliggendo agli avversari di fronte a lei DAN del tipo elementale corrispondente.",
       "info": "",
       "attributes": [
         {
@@ -369,7 +369,7 @@
     {
       "id": "verdict_and_punishment",
       "name": "Verdetto e punizione",
-      "description": "Durante il Tripudio elementale <color=#FFD780FF><b>La campana rintocca! La caccia è aperta!</b></color>, dopo aver inflitto DAN tramite la Campana Ammaliastreghe in modalità Caccia, se tali DAN innescano un Turbinio su un avversario, viene evocato anche un <b><span style=\"color:#FFD780FF\">Martello Scacciamali</span></b> che infligge DAN pari a un 150% dell'ATT di Prune del tipo corrispondente alla Conversione elementale del Turbinio. Tali DAN sono considerati DAN da Tripudio elementale.",
+      "description": "Durante il Tripudio elementale <color=#FFD780FF><b>La campana rintocca! La caccia è aperta!</b></color>, dopo aver inflitto DAN tramite la Campana Ammaliastreghe in modalità Caccia, se tali DAN innescano una reazione di Turbinio o di Turbinio astrale su un avversario, viene evocato anche un <b><span style=\"color:#FFD780FF\">Martello Scacciamali</span></b> che infligge DAN pari a un 150% dell'ATT di Prune del tipo corrispondente alla Conversione elementale del Turbinio o del Turbinio astrale. Tali DAN sono considerati DAN da Tripudio elementale.",
       "level": 1
     },
     {

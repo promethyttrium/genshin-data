@@ -1,0 +1,39 @@
+{
+  "_id": 212032,
+  "id": "genesis_of_starsigns",
+  "shareId": 614,
+  "name": "Fundamentos astrológicos",
+  "title": "Mona: Fundamentos astrológicos",
+  "desc": "“Si la adivina llegara a tomar un aprendiz en algún momento, dudo que lo pusiera a prueba de una forma tan desconcertante. Sí, no lo creo”.",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Mona</span> gasta 1 <span style=\"color:#FFFFFFFF\">dado indefinido</span> menos al ejecutar Ataques Normales y, tras ello, tu próxima reacción de Vaporización inflige daño +2.",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Hydro",
+    "card_type": "Carta de equipamiento",
+    "energy": [
+      {
+        "_id": 1102,
+        "id": "hydro",
+        "type": "Hydro",
+        "count": 1
+      },
+      {
+        "_id": 1109,
+        "id": "unaligned_element",
+        "type": "Dado indefinido",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Talento",
+      "Acción de combate",
+      "Taumaturgia"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Acción de combate</span>: esta carta se equipa cuando el personaje en combate es <span style=\"color:#FFFFFFFF\">Mona</span>.<br/>Tras ello, tu próxima reacción de Vaporización inflige daño +2 y Mona usa una vez <span style=\"color:#FFD780FF\">Destino revelado</span> de inmediato.<br/><span style=\"color:#FFFFFFFF\">Mona</span> gasta 1 <span style=\"color:#FFFFFFFF\">dado indefinido</span> menos al ejecutar Ataques Normales y, tras ello, tu próxima reacción de Vaporización inflige daño +2.<br/>Solo puedes añadir esta carta al mazo si tienes a Mona en él."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "_id": 1516,
+  "id": "jahoda",
+  "shareId": 609,
+  "name": "Jahoda",
+  "title": "ร้อยเงากับสายลม - Jahoda",
+  "desc": "ครุ่นคิดความลับนับพัน นำมาซึ่งความเข้าใจหนึ่งเดียว",
+  "attributes": {
+    "hp": 10,
+    "card_type": "การ์ดตัวละคร",
+    "energy": 2,
+    "element": "ธาตุลม",
+    "weapon": "ธนู",
+    "faction": [
+      "Nod-Krai"
+    ],
+    "source": "ได้รับหลังจากเชิญ Jahoda ทำการดูเอลใน Cat's Tail และเอาชนะในระดับความยากฉันมิตร"
+  },
+  "skills": [
+    {
+      "id": "strike_while_the_arrows_hot",
+      "name": "Strike While the Arrow's Hot",
+      "desc": "สร้าง? 2 หน่วย",
+      "skillTag": [
+        "โจมตีปกติ"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "ธาตุลม",
+          "count": 1
+        },
+        {
+          "_id": 1109,
+          "id": "unaligned_element",
+          "type": "ธาตุไร้สี",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "savvy_strategy_splitting_the_spoils",
+      "name": "Savvy Strategy: Splitting the Spoils",
+      "desc": "สร้าง <span style=\"color:#80FFD7FF\">ความเสียหายลม</span> 2 หน่วย สร้าง <span style=\"color:#FFFFFFFF\">Agile Switch</span> 1 ชั้น ฝ่ายเราสลับไปยังตัวละครถัดไป หากในการ์ดบนมือไม่มี <span style=\"color:#FFFFFFFF\">ขวดสมบัติลับคร่อกฟี้</span> ธาตุใด ๆ จะสร้างการ์ดบนมือ <span style=\"color:#FFFFFFFF\">ขวดสมบัติลับคร่อกฟี้</span>; มิฉะนั้นจะมอบ <span style=\"color:#FFFFFFFF\">ค่าร่ายลดลง</span> ให้กับ <span style=\"color:#FFFFFFFF\">ขวดสมบัติลับคร่อกฟี้</span> บนมือทั้งหมด",
+      "skillTag": [
+        "สกิลธาตุ"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "ธาตุลม",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "hidden_aces_seven_tools_of_the_hunter",
+      "name": "Hidden Aces: Seven Tools of the Hunter",
+      "desc": "สร้าง<span style=\"color:#80FFD7FF\">ความเสียหายลม</span> 3 หน่วย และสร้าง <span style=\"color:#FFFFFFFF\">อุปกรณ์ช่วยประสานงานในบ้านรูปแมว</span>",
+      "skillTag": [
+        "ท่าไม้ตาย"
+      ],
+      "points": [
+        {
+          "_id": 1105,
+          "id": "anemo",
+          "type": "ธาตุลม",
+          "count": 3
+        },
+        {
+          "_id": 1110,
+          "id": "energy",
+          "type": "พลังงาน",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "moonsign_benediction_rooftop_dash",
+      "name": "Moonsign Benediction: Rooftop Dash",
+      "desc": "[ติดตัว] เมื่อการต่อสู้เริ่มขึ้น สร้างการ์ด <span style=\"color:#FFFFFFFF\">ขวดสมบัติลับคร่อกฟี้</span> บนมือ<br/>หลังจากฝ่ายเราทำให้เกิดปฏิกิริยาประกายจันทร์ หรือปฏิกิริยากระจาย จะทำให้ <span style=\"color:#FFFFFFFF\">ขวดสมบัติลับคร่อกฟี้</span> ทั้งหมดบนมือฝ่ายเราติด <span style=\"color:#FFFFFFFF\">ค่าร่ายลดลง</span> (เทิร์นละ 2 ครั้ง)",
+      "skillTag": [
+        "สกิลติดตัว"
+      ],
+      "points": []
+    }
+  ]
+}

@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Электро",
+    "weapon": "Прочее",
     "faction": [
-      null,
-      null
+      "Монстр",
+      "Хиличурл"
     ]
   },
   "skills": [
     {
       "id": "striking_staff",
       "name": "Ударный посох",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 1 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "thunderclap_totem",
       "name": "Грозовой тотем",
-      "desc": "Наносит ?, ? ед. Вызывает <span style=\"color:#FFFFFFFF\">Грозовой посох</span> у противника.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FFACFFFF\">Электро урон</span>, 2 ед. Вызывает <span style=\"color:#FFFFFFFF\">Грозовой посох</span> у противника.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -45,8 +51,10 @@
     {
       "id": "thunderstrike_hex",
       "name": "Громовые чары",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FFACFFFF\">Электро урон</span>, 5 ед.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1104,

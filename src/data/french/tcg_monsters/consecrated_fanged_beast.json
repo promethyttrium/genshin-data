@@ -8,17 +8,21 @@
     "hp": 10,
     "card_type": "Carte de personnage",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Autre arme",
     "faction": [
-      null,
-      null
+      "Monstre",
+      "Bête sacralisée"
     ]
   },
   "skills": [
     {
       "id": "claw_slash",
       "name": "Coup de griffes tranchantes",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de ?.",
+      "skillTag": [
+        "Attaque normale"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -37,8 +41,10 @@
     {
       "id": "siphon_wave",
       "name": "Onde de siphon",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ? et pioche 1 carte [<span style=\"color:#FFFFFFFF\">Bloc d'énergie phagocytaire</span>] dans le deck.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts de <span style=\"color:#7EC236FF\">DGT Dendro</span> et pioche 1 carte [<span style=\"color:#FFFFFFFF\">Bloc d'énergie phagocytaire</span>] dans le deck.",
+      "skillTag": [
+        "Compétence élémentaire"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -51,8 +57,10 @@
     {
       "id": "sprawling_blighted_vines",
       "name": "Lianes tentaculaires",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt|pts} de ?. Si votre main contient une carte [<span style=\"color:#FFFFFFFF\">Bloc d'énergie phagocytaire</span>], <span style=\"color:#FFFFFFFF\">défausse</span> 1 carte et prépare la capacité : <span style=\"color:#FFFFFFFF\">Germe de pourriture flétrie</span>.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts de <span style=\"color:#7EC236FF\">DGT Dendro</span>. Si votre main contient une carte [<span style=\"color:#FFFFFFFF\">Bloc d'énergie phagocytaire</span>], <span style=\"color:#FFFFFFFF\">défausse</span> 1 carte et prépare la capacité : <span style=\"color:#FFFFFFFF\">Germe de pourriture flétrie</span>.",
+      "skillTag": [
+        "Déchaînement élémentaire"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -72,7 +80,9 @@
       "id": "hunger_from_the_remains",
       "name": "La faim des restes",
       "desc": "(Passif) Crée 2 cartes [<span style=\"color:#FFFFFFFF\">Bloc d'énergie phagocytaire</span>] dans le bas de votre deck au début du combat et vous permet de jouer 1 carte [<span style=\"color:#FFFFFFFF\">Bloc d'énergie phagocytaire</span>] supplémentaire à chaque manche.",
-      "skillTag": [],
+      "skillTag": [
+        "Capacité passive"
+      ],
       "points": []
     }
   ]

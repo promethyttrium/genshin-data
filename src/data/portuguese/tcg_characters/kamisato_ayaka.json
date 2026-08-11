@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de Personagem",
     "energy": 3,
+    "element": "Cryo",
+    "weapon": "Espada",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3208,
@@ -29,8 +31,10 @@
     {
       "id": "kamisato_art_kabuki",
       "name": "Arte Kamisato: Naname",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 2 pontos de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "kamisato_art_hyouka",
       "name": "Arte Kamisato: Hyouka",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?.",
-      "skillTag": [],
+      "desc": "Causa 3 pontos de <span style=\"color:#99FFFFFF\">Dano Cryo</span>.",
+      "skillTag": [
+        "Habilidade Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "kamisato_art_soumetsu",
       "name": "Arte Kamisato: Soumetsu",
-      "desc": "Causa ? {PLURAL#$[D__KEY__DAMAGE|nc]|ponto|pontos} de ?, invoca <span style=\"color:#FFFFFFFF\">Granizo Seki no To</span>.",
-      "skillTag": [],
+      "desc": "Causa 4 pontos de <span style=\"color:#99FFFFFF\">Dano Cryo</span>, invoca <span style=\"color:#FFFFFFFF\">Granizo Seki no To</span>.",
+      "skillTag": [
+        "Supremo"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -84,7 +92,9 @@
       "id": "kamisato_art_senho",
       "name": "Arte Kamisato: Senho",
       "desc": "(Passivo) Ao se tornar o Personagem em Combate, esse personagem ganha <span style=\"color:#FFFFFFFF\">Encantamento Cryo</span>. O próximo Ataque Normal causa +1 de Dano durante esse Turno. (Duas vezes por Turno)",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidade Passiva"
+      ],
       "points": []
     }
   ]

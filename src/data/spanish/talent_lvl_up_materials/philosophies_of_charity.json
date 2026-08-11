@@ -1,0 +1,30 @@
+{
+  "_id": 104367,
+  "id": "philosophies_of_charity",
+  "name": "Filosofía del amor",
+  "description": "Material de mejora de talento.\\nEl amor es la redención de la Nación del Hielo.\\nEs el cuidado hacia todos los seres, y lo que elimina las diferencias entre “alto” y “bajo”, “noble” y “humilde”, y trasciende los lazos de sangre y las fronteras nacionales. La mirada del amor se dirige a todos por igual: ofrece protección a los desafortunados y promete a todos una liberación eterna.",
+  "source": [
+    "Cantidad sintetizable: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104366,
+        "id": "guide_to_charity",
+        "name": "Guía del amor",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio de la maestría: Meditación IV",
+  "domainId": "domain_of_mastery_contemplation_iv",
+  "days": [
+    "Lunes",
+    "Jueves",
+    "Domingo"
+  ]
+}

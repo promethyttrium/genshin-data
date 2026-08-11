@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Eisenpfeife des Kriegers",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Holzpfeife des Wächters",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Human_Fat_NoWeapon_Drillhead",
   "description": "Ein Krieger aus dem Herzen der Schlucht, ein Stammeswächter, der in den kristallinen Bergen und Flüssen umherzieht.\\nIn einer Zeit, in der die Gebirgskämme zerstört waren und die Stämme neu gegründet werden mussten, markierten die Krieger mit Wurfspeeren die Lagen beider Schluchtseiten, um sich einen Weg bahnen zu können. Dies bedeutete, dass jeder Speer tief in den Felsen versenkt werden musste.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

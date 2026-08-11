@@ -13,7 +13,6 @@
   "categoryText": "Mystical Beasts",
   "filename_icon": "UI_MonsterIcon_Magbeast_Steppenwolf",
   "description": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\\nLegend has it that when a dark calamity wiped out countless lives, the frontier forests fell completely silent. In that stillness, the only sound to break the dead quiet was the howl of the Glacial Wolves calling to the moon. Night after night, their mournful cries echoed across the empty wilderness in the cold moonlight.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

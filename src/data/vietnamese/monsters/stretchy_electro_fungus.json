@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Fungus_Deux_Delta_Electric",
   "description": "Sinh vật bào tử có trí tuệ nhất định. Có khả năng thích ứng mạnh mẽ với môi trường xung quanh.\\nKhông giống như những Nấm Quỷ khác, ngoài phần mũ ra, nó còn có những chiếc râu phát sáng. Nếu gặp nguy hiểm, nó sẽ phóng ra một quả cầu điện nhỏ để tự bảo vệ mình.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

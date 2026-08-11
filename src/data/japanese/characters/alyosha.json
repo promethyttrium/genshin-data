@@ -1,0 +1,1253 @@
+{
+  "_id": 10000148,
+  "id": "alyosha",
+  "name": "アリョーシャ",
+  "title": "迅雷の猟犬",
+  "description": "スネージナヤの雪原を縦横無尽に駆ける熟練の狩人。その冷静な面差しの下には、人一倍熱い「理想」を秘めている。",
+  "weapon_type": {
+    "id": "polearm",
+    "name": "長柄武器"
+  },
+  "element": {
+    "id": "electro",
+    "name": "雷"
+  },
+  "gender": {
+    "id": "male",
+    "name": "男"
+  },
+  "release": 1786395600,
+  "substat": "元素チャージ効率",
+  "affiliation": "スネージナヤ",
+  "region": {
+    "id": "snezhnaya",
+    "name": "スネージナヤ"
+  },
+  "rarity": 4,
+  "birthday": [
+    9,
+    2
+  ],
+  "constellation": "カニス・バルゾーイ座",
+  "domain": "熟知秘境・隠修",
+  "cv": {
+    "english": "Kevin Andrew Rivera",
+    "chinese": "王辅平",
+    "japanese": "佐藤元",
+    "korean": "김혜성"
+  },
+  "skills": [
+    {
+      "_id": 11481,
+      "id": "skirmishing_spear",
+      "name": "迅雷の角槍",
+      "description": "<span style=\"color:#FFD780FF\">通常攻撃</span><br/>槍による最大4段の連続攻撃を行い、最後の一撃が命中した敵に<b><span style=\"color:#FFD780FF\">狩猟の印</span></b>効果を付与する。<br/><br/><span style=\"color:#FFD780FF\">重撃</span><br/>一定のスタミナを消費して前方に突進し、経路上の敵にダメージを与える。<br/><br/><span style=\"color:#FFD780FF\">落下攻撃</span><br/>空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "info": "",
+      "attributes": [
+        {
+          "label": "1段ダメージ",
+          "values": [
+            "47.8%",
+            "51.7%",
+            "55.6%",
+            "61.2%",
+            "65.1%",
+            "69.5%",
+            "75.6%",
+            "81.7%",
+            "87.8%",
+            "94.5%",
+            "101.2%",
+            "107.9%",
+            "114.5%",
+            "121.2%",
+            "127.9%"
+          ]
+        },
+        {
+          "label": "2段ダメージ",
+          "values": [
+            "48.2%",
+            "52.1%",
+            "56%",
+            "61.6%",
+            "65.5%",
+            "70%",
+            "76.2%",
+            "82.3%",
+            "88.5%",
+            "95.2%",
+            "101.9%",
+            "108.6%",
+            "115.4%",
+            "122.1%",
+            "128.8%"
+          ]
+        },
+        {
+          "label": "3段ダメージ",
+          "values": [
+            "34.2% + 31.8%",
+            "37% + 34.4%",
+            "39.8% + 37%",
+            "43.8% + 40.7%",
+            "46.6% + 43.3%",
+            "49.8% + 46.3%",
+            "54.1% + 50.3%",
+            "58.5% + 54.4%",
+            "62.9% + 58.5%",
+            "67.7% + 62.9%",
+            "72.4% + 67.3%",
+            "77.2% + 71.8%",
+            "82% + 76.2%",
+            "86.8% + 80.7%",
+            "91.5% + 85.1%"
+          ]
+        },
+        {
+          "label": "4段ダメージ",
+          "values": [
+            "75.9%",
+            "82%",
+            "88.2%",
+            "97%",
+            "103.2%",
+            "110.3%",
+            "120%",
+            "129.7%",
+            "139.4%",
+            "149.9%",
+            "160.5%",
+            "171.1%",
+            "181.7%",
+            "192.3%",
+            "202.9%"
+          ]
+        },
+        {
+          "label": "重撃ダメージ",
+          "values": [
+            "111%",
+            "120.1%",
+            "129.1%",
+            "142%",
+            "151%",
+            "161.4%",
+            "175.6%",
+            "189.8%",
+            "204%",
+            "219.5%",
+            "235%",
+            "250.5%",
+            "265.9%",
+            "281.4%",
+            "296.9%"
+          ]
+        },
+        {
+          "label": "重撃スタミナ消費",
+          "values": [
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25"
+          ]
+        },
+        {
+          "label": "落下期間のダメージ",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%",
+            "162.1%",
+            "171%"
+          ]
+        },
+        {
+          "label": "低空/高空落下攻撃ダメージ",
+          "values": [
+            "127.8% / 159.7%",
+            "138.2% / 172.7%",
+            "148.6% / 185.7%",
+            "163.5% / 204.2%",
+            "173.9% / 217.2%",
+            "185.8% / 232.1%",
+            "202.2% / 252.5%",
+            "218.5% / 272.9%",
+            "234.9% / 293.4%",
+            "252.7% / 315.6%",
+            "270.5% / 337.9%",
+            "288.4% / 360.2%",
+            "306.2% / 382.5%",
+            "324.1% / 404.8%",
+            "341.9% / 427%"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11482,
+      "id": "thunderbolt_strike",
+      "name": "伏撃の雷鳴",
+      "description": "ハンターの本能に従い、一回押しと長押しによって異なる効果を発動させ、命中した敵に<b><span style=\"color:#FFD780FF\">狩猟の印</span></b>効果を付与する。<br/><br/><span style=\"color:#FFD780FF\">一回押し</span><br/>前方へ射撃し、<span style=\"color:#FFACFFFF\">雷元素範囲ダメージ</span>を与える。<br/><br/><span style=\"color:#FFD780FF\">長押し</span><br/>照準状態に入り、前方の一定範囲内にいる敵を定める。この状態の時、アリョーシャの中断耐性がアップする。<br/>長押し終了時、定めた敵に<span style=\"color:#FFACFFFF\">雷元素ダメージ</span>を与える。",
+      "info": "ハンターはかつて、自ら槍の切っ先へと手を伸ばすような無謀さを持っていた——血の教訓を乗り越えて初めて、厳しい雪原で生き延びる術を悟ったのだ。",
+      "attributes": [
+        {
+          "label": "一回押しダメージ",
+          "values": [
+            "286.7%",
+            "308.2%",
+            "329.7%",
+            "358.4%",
+            "379.9%",
+            "401.4%",
+            "430.1%",
+            "458.8%",
+            "487.4%",
+            "516.1%",
+            "544.8%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%"
+          ]
+        },
+        {
+          "label": "長押しダメージ",
+          "values": [
+            "358.4%",
+            "385.3%",
+            "412.2%",
+            "448%",
+            "474.9%",
+            "501.8%",
+            "537.6%",
+            "573.4%",
+            "609.3%",
+            "645.1%",
+            "681%",
+            "716.8%",
+            "761.6%",
+            "806.4%",
+            "851.2%"
+          ]
+        },
+        {
+          "label": "クールタイム",
+          "values": [
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒"
+          ]
+        },
+        {
+          "label": "狩猟の印継続時間",
+          "values": [
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒"
+          ]
+        },
+        {
+          "label": "狩人の照準の攻撃力アップ",
+          "values": [
+            "11.7%",
+            "12.7%",
+            "13.8%",
+            "14.8%",
+            "15.9%",
+            "17%",
+            "18%",
+            "19.1%",
+            "20.1%",
+            "21.2%",
+            "22.5%",
+            "23.7%",
+            "25%",
+            "26.3%",
+            "27.6%"
+          ]
+        },
+        {
+          "label": "狩人の照準継続時間",
+          "values": [
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": 11485,
+      "id": "hunters_advance",
+      "name": "攻守の猟犬",
+      "description": "信頼する仲間<span style=\"color:#FFD780FF\">トゥガリン</span>を戦場に呼び寄せ、前方エリアを一時的に<span style=\"color:#FFD780FF\">雷の狩場</span>へと変化させる。<br/><br/><span style=\"color:#FFD780FF\">雷の狩場</span><br/>・周囲の敵を継続的に挑発し、敵の攻撃を引き付ける。<br/>・2秒ごとに、そこに足を踏み入れた敵に対して<span style=\"color:#FFACFFFF\">雷元素範囲ダメージ</span>を1回与える。<br/><br/><span style=\"color:#FFD780FF\">トゥガリン</span><br/>・周囲に敵がいるとき、2秒ごとにいずれかの敵の近くへ素早く移動して噛みつき、<span style=\"color:#FFD780FF\">雷元素ダメージ</span>を与える。<br/>・命中した敵が<span style=\"color:#FFD780FF\">狩猟の印</span>の効果を受けていた場合、<span style=\"color:#FFD780FF\">狩猟の印</span>を発動させる。<br/>・トゥガリンは<span style=\"color:#FFD780FF\">狩猟の印</span>効果を受けている敵を優先的に攻撃する。",
+      "info": "待つことだな。焦りが消えるまで待っていれば、アカハラチドリが白樺林を越えて、向こうから撃たれに来る。",
+      "attributes": [
+        {
+          "label": "雷の狩場ダメージ",
+          "values": [
+            "75%",
+            "80.6%",
+            "86.2%",
+            "93.7%",
+            "99.3%",
+            "104.9%",
+            "112.4%",
+            "119.9%",
+            "127.4%",
+            "134.9%",
+            "142.4%",
+            "149.9%",
+            "159.3%",
+            "168.7%",
+            "178%"
+          ]
+        },
+        {
+          "label": "トゥガリンのダメージ",
+          "values": [
+            "50.2%",
+            "54%",
+            "57.8%",
+            "62.8%",
+            "66.5%",
+            "70.3%",
+            "75.3%",
+            "80.4%",
+            "85.4%",
+            "90.4%",
+            "95.4%",
+            "100.4%",
+            "106.7%",
+            "113%",
+            "119.3%"
+          ]
+        },
+        {
+          "label": "継続時間",
+          "values": [
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒",
+            "14秒"
+          ]
+        },
+        {
+          "label": "クールタイム",
+          "values": [
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒",
+            "18秒"
+          ]
+        },
+        {
+          "label": "元素エネルギー",
+          "values": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    }
+  ],
+  "passives": [
+    {
+      "id": "awakened_by_the_baying_hounds",
+      "name": "微睡む林の目覚め",
+      "description": "<b><span style=\"color:#FFD780FF\">トゥガリン</span></b>が攻撃を行う時、付近にいるチーム内フィールド上キャラクターのHPが回復する。回復量はアリョーシャの攻撃力の120%に相当する。",
+      "level": 1
+    },
+    {
+      "id": "suffer_the_winter_wheat_will",
+      "name": "冬の麦と落ち葉に告げる別れ",
+      "description": "アリョーシャの元素チャージ効率を基に、アリョーシャの元素スキルと元素爆発によるダメージがアップする。元素チャージ効率1%につき、上記ダメージが0.35%アップし、最大70%までアップできる。",
+      "level": 4
+    },
+    {
+      "id": "into_the_fray",
+      "name": "危うきに赴く星",
+      "description": "<b><span style=\"color:#FFD780FF\">極星フィールド</span></b>内にいる時、アリョーシャは<span style=\"color:#FFD780FF\">輝映・星電導</span>状態に入る。<br/><span style=\"color:#FFD780FF\">輝映・星電導</span>：<b><span style=\"color:#FFD780FF\">狩猟の印</span></b>を発動した時に獲得する<span style=\"color:#FFD780FF\">狩人の照準</span>の効果により、キャラクターがフィールド上にいる時に与える星電導ダメージがさらに+20%。",
+      "level": 0
+    },
+    {
+      "id": "treetop_watch",
+      "name": "梢からの偵察",
+      "description": "ミニマップで周囲の<span style=\"color:#FFD780FF\">スネージナヤ地域の特産</span>の位置を表示する。",
+      "level": 0
+    }
+  ],
+  "constellations": [
+    {
+      "_id": 1481,
+      "id": "frostvale_thunderclap",
+      "name": "寒谷の轟雷",
+      "description": "付近にいるチーム内キャラクターが敵に<span style=\"color:#FFACFFFF\">雷元素関連反応</span>を起こした後、アリョーシャの元素エネルギーを15ポイント回復する。この効果は18秒毎に1回のみ発動可能。",
+      "level": 1
+    },
+    {
+      "_id": 1482,
+      "id": "howl_from_afar",
+      "name": "遠吠えの合図",
+      "description": "元素爆発<span style=\"color:#FFD780FF\">攻守の猟犬</span>の継続時間が6秒延長される。<br/>また、<b><span style=\"color:#FFD780FF\">トゥガリン</span></b>が敵を攻撃する前に毎回、さらに1体のターゲットに追加で<b><span style=\"color:#FFD780FF\">狩猟の印</span></b>を付与するようになる。この効果はすでに存在する<span style=\"color:#FFD780FF\">狩猟の印</span>を発動させることはない。",
+      "level": 2
+    },
+    {
+      "_id": 1483,
+      "id": "friendly_call",
+      "name": "仲間の呼び声",
+      "description": "元素スキル<span style=\"color:#FFD780FF\">伏撃の雷鳴</span>のスキルLv.+3。<br/>最大Lv.15まで。",
+      "level": 3
+    },
+    {
+      "_id": 1484,
+      "id": "harvest_the_spoils",
+      "name": "獲物の回収",
+      "description": "<b><span style=\"color:#FFD780FF\">トゥガリン</span></b>が攻撃を行う時、さらに付近にいるチーム内でHP割合が最も低いキャラクターのHPが回復する。回復量はアリョーシャの攻撃力の60%に相当する。",
+      "level": 4
+    },
+    {
+      "_id": 1485,
+      "id": "when_the_nightbird_falls_silent",
+      "name": "歌鳥の沈黙",
+      "description": "元素爆発<span style=\"color:#FFD780FF\">攻守の猟犬</span>のスキルLv.+3。<br/>最大Lv.15まで。",
+      "level": 5
+    },
+    {
+      "_id": 1486,
+      "id": "standard_reclaimed",
+      "name": "御旗の奪還",
+      "description": "<b><span style=\"color:#FFD780FF\">狩猟の印</span></b>をアクティブ化した時に獲得する<span style=\"color:#FFD780FF\">狩人の照準</span>効果の重ね掛けが可能になる。この効果は最大2層まで重ね掛けでき、2層まで重ね掛けした時、さらにこの効果の影響下にあるフィールド上キャラクターの元素熟知+100。",
+      "level": 6
+    }
+  ],
+  "ascension": [
+    {
+      "level": [
+        1
+      ],
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            "-",
+            1
+          ]
+        },
+        {
+          "label": "基礎HP",
+          "values": [
+            "-",
+            "1003"
+          ]
+        },
+        {
+          "label": "基礎攻撃力",
+          "values": [
+            "-",
+            "22"
+          ]
+        },
+        {
+          "label": "基礎防御力",
+          "values": [
+            "-",
+            "59"
+          ]
+        },
+        {
+          "label": "元素チャージ効率",
+          "values": [
+            "-",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        20
+      ],
+      "cost": 0,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            0,
+            1
+          ]
+        },
+        {
+          "label": "基礎HP",
+          "values": [
+            "2577",
+            "3326"
+          ]
+        },
+        {
+          "label": "基礎攻撃力",
+          "values": [
+            "57",
+            "74"
+          ]
+        },
+        {
+          "label": "基礎防御力",
+          "values": [
+            "151",
+            "195"
+          ]
+        },
+        {
+          "label": "元素チャージ効率",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "level": [
+        40
+      ],
+      "cost": 20000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            1,
+            2
+          ]
+        },
+        {
+          "label": "基礎HP",
+          "values": [
+            "4982",
+            "5514"
+          ]
+        },
+        {
+          "label": "基礎攻撃力",
+          "values": [
+            "111",
+            "122"
+          ]
+        },
+        {
+          "label": "基礎防御力",
+          "values": [
+            "293",
+            "324"
+          ]
+        },
+        {
+          "label": "元素チャージ効率",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104141,
+        "id": "vajrada_amethyst_sliver",
+        "name": "最勝のアメシスト·砕屑",
+        "amount": 1,
+        "rarity": 2
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "フロック草",
+        "amount": 3,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "合成獣のコア",
+        "amount": 3,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        50
+      ],
+      "cost": 40000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            2,
+            3
+          ]
+        },
+        {
+          "label": "基礎HP",
+          "values": [
+            "6343",
+            "7052"
+          ]
+        },
+        {
+          "label": "基礎攻撃力",
+          "values": [
+            "141",
+            "157"
+          ]
+        },
+        {
+          "label": "基礎防御力",
+          "values": [
+            "373",
+            "414"
+          ]
+        },
+        {
+          "label": "元素チャージ効率",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "最勝のアメシスト·欠片",
+        "amount": 3,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "空を泳ぐものの尾",
+        "amount": 2,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "フロック草",
+        "amount": 10,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112149,
+        "id": "chimeric_core",
+        "name": "合成獣のコア",
+        "amount": 15,
+        "rarity": 1
+      }
+    },
+    {
+      "level": [
+        60
+      ],
+      "cost": 60000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            3,
+            4
+          ]
+        },
+        {
+          "label": "基礎HP",
+          "values": [
+            "7881",
+            "8413"
+          ]
+        },
+        {
+          "label": "基礎攻撃力",
+          "values": [
+            "175",
+            "187"
+          ]
+        },
+        {
+          "label": "基礎防御力",
+          "values": [
+            "463",
+            "494"
+          ]
+        },
+        {
+          "label": "元素チャージ効率",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104142,
+        "id": "vajrada_amethyst_fragment",
+        "name": "最勝のアメシスト·欠片",
+        "amount": 6,
+        "rarity": 3
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "空を泳ぐものの尾",
+        "amount": 4,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "フロック草",
+        "amount": 20,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "並生嵌合胞",
+        "amount": 12,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        70
+      ],
+      "cost": 80000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            4,
+            5
+          ]
+        },
+        {
+          "label": "基礎HP",
+          "values": [
+            "9241",
+            "9773"
+          ]
+        },
+        {
+          "label": "基礎攻撃力",
+          "values": [
+            "205",
+            "217"
+          ]
+        },
+        {
+          "label": "基礎防御力",
+          "values": [
+            "543",
+            "574"
+          ]
+        },
+        {
+          "label": "元素チャージ効率",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "最勝のアメシスト·塊",
+        "amount": 3,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "空を泳ぐものの尾",
+        "amount": 8,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "フロック草",
+        "amount": 30,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "並生嵌合胞",
+        "amount": 18,
+        "rarity": 2
+      }
+    },
+    {
+      "level": [
+        80
+      ],
+      "cost": 100000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            5,
+            6
+          ]
+        },
+        {
+          "label": "基礎HP",
+          "values": [
+            "10602",
+            "11134"
+          ]
+        },
+        {
+          "label": "基礎攻撃力",
+          "values": [
+            "235",
+            "247"
+          ]
+        },
+        {
+          "label": "基礎防御力",
+          "values": [
+            "623",
+            "654"
+          ]
+        },
+        {
+          "label": "元素チャージ効率",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104143,
+        "id": "vajrada_amethyst_chunk",
+        "name": "最勝のアメシスト·塊",
+        "amount": 6,
+        "rarity": 4
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "空を泳ぐものの尾",
+        "amount": 12,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "フロック草",
+        "amount": 45,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "源生嵌合体",
+        "amount": 12,
+        "rarity": 3
+      }
+    },
+    {
+      "level": [
+        90
+      ],
+      "cost": 120000,
+      "stats": [
+        {
+          "label": "突破",
+          "values": [
+            6,
+            7
+          ]
+        },
+        {
+          "label": "基礎HP",
+          "values": [
+            "11962",
+            "11962"
+          ]
+        },
+        {
+          "label": "基礎攻撃力",
+          "values": [
+            "265",
+            "265"
+          ]
+        },
+        {
+          "label": "基礎防御力",
+          "values": [
+            "703",
+            "703"
+          ]
+        },
+        {
+          "label": "元素チャージ効率",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "mat1": {
+        "_id": 104144,
+        "id": "vajrada_amethyst_gemstone",
+        "name": "最勝のアメシスト",
+        "amount": 6,
+        "rarity": 5
+      },
+      "mat2": {
+        "_id": 113091,
+        "id": "severed_tail_of_the_skyroamer",
+        "name": "空を泳ぐものの尾",
+        "amount": 20,
+        "rarity": 4
+      },
+      "mat3": {
+        "_id": 101276,
+        "id": "flockingweed",
+        "name": "フロック草",
+        "amount": 60,
+        "rarity": 1
+      },
+      "mat4": {
+        "_id": 112151,
+        "id": "prime_chimeric_nexus",
+        "name": "源生嵌合体",
+        "amount": 24,
+        "rarity": 3
+      }
+    }
+  ],
+  "talent_materials": [
+    {
+      "level": 2,
+      "cost": 12500,
+      "items": [
+        {
+          "_id": 104368,
+          "id": "teachings_of_fortitude",
+          "name": "「不屈」の教え",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "合成獣のコア",
+          "amount": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "cost": 17500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "「不屈」の導き",
+          "amount": 2,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "並生嵌合胞",
+          "amount": 3,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "cost": 25000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "「不屈」の導き",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "並生嵌合胞",
+          "amount": 4,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "cost": 30000,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "「不屈」の導き",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "並生嵌合胞",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "cost": 37500,
+      "items": [
+        {
+          "_id": 104369,
+          "id": "guide_to_fortitude",
+          "name": "「不屈」の導き",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "並生嵌合胞",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "cost": 120000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "「不屈」の哲学",
+          "amount": 4,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合体",
+          "amount": 4,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "異端の薬瓶",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "cost": 260000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "「不屈」の哲学",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合体",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "異端の薬瓶",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "cost": 450000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "「不屈」の哲学",
+          "amount": 12,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合体",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "異端の薬瓶",
+          "amount": 2,
+          "rarity": 5
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "cost": 700000,
+      "items": [
+        {
+          "_id": 104370,
+          "id": "philosophies_of_fortitude",
+          "name": "「不屈」の哲学",
+          "amount": 16,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "源生嵌合体",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 113083,
+          "id": "elixir_of_the_heretic",
+          "name": "異端の薬瓶",
+          "amount": 2,
+          "rarity": 5
+        },
+        {
+          "_id": 104319,
+          "id": "crown_of_insight",
+          "name": "知恵の冠",
+          "amount": 1,
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "outfits": [
+    {
+      "id": 214800,
+      "name": "狩りの冬衣",
+      "description": "アリョーシャの衣装。耐久性に優れた狩猟服で、分厚い裏地とふわふわのフードの縁が付いており、これによりアリョーシャは目当ての獲物を仕留めるまで長時間雪の中に潜伏することができる。フードが子犬の頭のデザインを模しているのは、見た目がかわいくてトゥガリンも気に入っているからだ。",
+      "isDefault": true,
+      "characterName": "アリョーシャ",
+      "characterId": 10000148,
+      "filename_card": "UI_AvatarIcon_Costume_Card",
+      "filename_iconCircle": "UI_AvatarIcon_Alyosha_Circle"
+    }
+  ]
+}

@@ -15,14 +15,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl",
   "filename_icon": "UI_MonsterIcon_Shaman_Ice_01",
   "description": "Un Hilichurl avvizzito e farfugliante che invoca la morsa di Cryo.\\nNon è insolito che gli Hilichurl particolarmente dotati nel comandare gli elementi raggiungano l'apice della loro abilità in vecchiaia. Questi sciamani ricordano i canti gelidi e sono ancora più abili nell'usarli per intrappolare i loro nemici.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

@@ -1,7 +1,7 @@
 {
   "_id": 22030201,
   "id": "abyss_lector_fathomless_flames",
-  "monsterId": 22030202,
+  "monsterId": 84203022,
   "name": "Abyss Lector: Fathomless Flames",
   "specialNames": [
     "Alberthonar",
@@ -22,9 +22,8 @@
   "categoryText": "The Abyss",
   "filename_icon": "UI_MonsterIcon_Invoker_Deacon_Fire",
   "description": "Wielders of abyssal fire who pursue the meaning behind texts and scriptures. Is a member of the Abyss Order.\\nThe surface people have a slightly distorted understanding of what their name means, calling them \"Lectors,\" when their name can also mean \"exegete.\" Reading the word of grace grants them great power.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

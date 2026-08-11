@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ABYSS",
   "categoryText": "The Abyss",
   "filename_icon": "UI_MonsterIcon_WildHunt",
   "description": "A ghoul that stalks the frozen wilderness when the pitch-dark mist rolls in. Their emergence presages worse calamities to come.\\nAll who dwell beneath the moon set out on journeys with their own goals and wishes in mind, but not all such wishes receive favor. Spirits that cannot rest due to engendered resentment, partings with loved ones, or desires that go unfulfilled, if corrupted by the Abyss, may transform into ghouls, forever lost in the thick mists of the Wild Hunt.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

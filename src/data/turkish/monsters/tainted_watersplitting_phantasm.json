@@ -25,19 +25,19 @@
       "_id": 112088,
       "id": "newborn_tainted_hydro_phantasm",
       "name": "Yenidoğan Lekeli Su Tayfı",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112087,
       "id": "scoop_of_tainted_water",
       "name": "Kirli Su Birikintisi",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112086,
       "id": "drop_of_tainted_water",
       "name": "Kirli Su Damlası",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -83,12 +83,11 @@
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_ELEMENTAL",
   "categoryText": "Element Yaşam Formları",
   "filename_icon": "UI_MonsterIcon_Necalevia_Normal",
   "description": "Fontaine'deki Okeanidlerin kökünün kazınmasıyla birlikte sularda tuhaf element yaşam formları ortaya çıktı.\\nFelaketten sonra ortaya çıkan bu element ruhlarında Okeanidlerde olan o zarafet ve güzellik yoktu. Bu yüzden onlara \"lekeli\" denildi. Suda çözünen zehir artık seyreltilip arındırılmış da olsa bir yerlerden bir kap saf su çıkmadıkça Fontaine'in sularında Okeanidler artık kendiliğinden var olamayacaklar.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

@@ -595,7 +595,7 @@
     {
       "id": "winds_vanguard",
       "name": "Rüzgarın Öncüsü",
-      "description": "Yakındaki grup üyeleri Girdap tepkimesi tetiklediğinde Varka bir <span style=\"color:#FFD780FF\">Mavi Dişin Yemini</span> kademesi kazanır ve 8 saniyeliğine Normal Saldırıları, Yüklü Saldırıları, <span style=\"color:#FFD780FF\">Gök Yutan</span> özel Yüklü Saldırısı ve <b><span style=\"color:#FFD780FF\">Dört Rüzgarın Yükselişi</span></b> özel Element Becerisinin verdiği Hasar %7,5 artar. 4 kademeye kadar birikebilir. Her karakter Varka'ya bu şekilde her saniye 1 kademe <span style=\"color:#FFD780FF\">Mavi Dişin Yemini</span> kazandırabilir.",
+      "description": "Yakındaki grup üyeleri bir Girdap veya Yıldız Girdabı tepkimesi tetiklediğinde Varka 1 <span style=\"color:#FFD780FF\">Mavi Dişin Yemini</span> kademesi kazanır ve 8 saniyeliğine Normal Saldırıları, Yüklü Saldırıları, <span style=\"color:#FFD780FF\">Gök Yutan</span> özel Yüklü Saldırısı ve <b><span style=\"color:#FFD780FF\">Dört Rüzgarın Yükselişi</span></b> özel Element Becerisinin verdiği Hasar %7,5 artar. 4 kademeye kadar birikebilir. Her karakter Varka'ya bu şekilde her saniye 1 kademe <span style=\"color:#FFD780FF\">Mavi Dişin Yemini</span> kazandırabilir.",
       "level": 4
     },
     {
@@ -631,7 +631,7 @@
       "_id": 1284,
       "id": "for_none_may_take_from_us_our_freedom_of_song",
       "name": "\"Kimse Alamaz Şarkı Söyleme Özgürlüğümüzü Elimizden\"",
-      "description": "Varka bir Girdap tepkimesi tetiklediğinde tepkimeye dahil olan Element Türlerine bağlı olarak 10 saniyeliğine yakındaki tüm grup üyeleri %20 <span style=\"color:#80FFD7FF\">Rüzgar Hasarı Bonusu</span> ve ilgili Element Hasarı Bonusu kazanır.",
+      "description": "Varka bir Girdap veya Yıldız Girdabı tepkimesi tetiklediğinde tepkimeye dahil olan Element Türlerine bağlı olarak 10 saniyeliğine yakındaki tüm grup üyeleri %20 <span style=\"color:#80FFD7FF\">Rüzgar Hasarı Bonusu</span> ve ilgili Element Hasarı Bonusu kazanır.",
       "level": 4
     },
     {

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Figurenkarte",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Andere Waffen",
     "faction": [
-      null
+      "Monster"
     ],
     "source": "Nach einem gewonnenen „Duell – Nett“ mit „Schwarzer Schlangenreiter – Wind schneidendes Schwert“ in der Tavernen-Herausforderung bei „Prinz“ in der Taverne Zum Katzenschwanz zu erhalten."
   },
@@ -18,8 +20,10 @@
     {
       "id": "halfsword_technique",
       "name": "Halbschwerttechnik",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1].",
-      "skillTag": [],
+      "desc": "Verursacht 2 Pkt. ?.",
+      "skillTag": [
+        "Standardangriff"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -38,8 +42,10 @@
     {
       "id": "rising_slash",
       "name": "Aufsteigender Schnitt",
-      "desc": "Verursacht ? Pkt. $[D__KEY__ELEMENT|s1]. Zieht 1 Karte.",
-      "skillTag": [],
+      "desc": "Verursacht 3 Pkt. <span style=\"color:#80FFD7FF\">Anemo-SCH</span>. Zieht 1 Karte.",
+      "skillTag": [
+        "Elementarfähigkeit"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -53,7 +59,9 @@
       "id": "guard_stance",
       "name": "Abwehrhaltung",
       "desc": "<span style=\"color:#FFFFFFFF\">Vorbereiten der Fähigkeiten</span>: <span style=\"color:#FFFFFFFF\">Unbesonnene Haltung</span> und danach <span style=\"color:#FFFFFFFF\">bereitet folgende Fähigkeiten vor</span>: <span style=\"color:#FFFFFFFF\">Stürmische Verfolgung</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Spezialfähigkeit"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -73,7 +81,9 @@
       "id": "vanguard_momentum",
       "name": "Dynamik des Vorreiters",
       "desc": "Passiv – Beim Auslösen von Verwirbelung durch dich oder wenn der Gegner seinen <span style=\"color:#FFFFFFFF\">Schild</span>, seine <span style=\"color:#FFFFFFFF\">SCH-Neutralisierung</span> oder seinen Kampfstatus verliert: Zieht 1 Karte (2-mal pro Runde).",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Fähigkeit"
+      ],
       "points": []
     }
   ]

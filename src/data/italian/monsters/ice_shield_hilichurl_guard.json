@@ -8,14 +8,13 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hili_None_01",
   "description": "Gli abitanti primitivi che vagano per le terre selvagge di Teyvat.\\nGli Hilichurl mostrano un forte senso di adattamento all'ambiente circostante. Negli habitat glaciali, escogitano vari modi per modellare questo ghiaccio duro in scudi con cui difendersi.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 1,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.1,

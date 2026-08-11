@@ -36,12 +36,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humains",
   "filename_icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Ice_01",
   "description": "Un membre du groupe hétéroclite de bandits dont on peut trouver des traces un peu partout sur le continent, même dans ses recoins les plus perdus.\\nLes Cryochimistes ont toujours été appréciés au sein des Pilleurs de trésors en raison de leurs concoctions refroidissantes. Ils peuvent préparer des boissons glacées, même sans fleurs de brume dans les environs.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

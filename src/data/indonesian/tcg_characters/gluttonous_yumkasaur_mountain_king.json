@@ -9,8 +9,10 @@
     "hp": 8,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Dendro",
+    "weapon": "Senjata Lain",
     "faction": [
-      null
+      "Monster"
     ],
     "talent_card": {
       "_id": 8276,
@@ -27,8 +29,10 @@
     {
       "id": "crushing_tail_attack",
       "name": "Crushing Tail Attack",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -47,8 +51,10 @@
     {
       "id": "flying_fruit",
       "name": "Flying Fruit",
-      "desc": "Mengakibatkan ? poin ? dan mengambil 1 Kartu Makanan.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#7EC236FF\">Dendro DMG</span> dan mengambil 1 Kartu Makanan.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -61,8 +67,10 @@
     {
       "id": "flamegranate_conflagration",
       "name": "Flamegranate Conflagration",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 5 poin <span style=\"color:#FF9999FF\">Pyro DMG</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -82,7 +90,9 @@
       "id": "gluttonous_rex",
       "name": "Gluttonous Rex",
       "desc": "Diri sendiri tidak akan mengalami status <span style=\"color:#FFFFFFFF\">Satiated</span>.<br/><span style=\"color:#FFFFFFFF\">Setelah memainkan Kartu Makanan: </span>Secara acak memberikan 1 lapis <span style=\"color:#FFFFFFFF\">Well Fed and Strong</span> atau <span style=\"color:#FFFFFFFF\">Well Fed and Sturdy</span> atau mendapatkan 1 poin Max HP tambahan. (2 kali setiap Ronde)",
-      "skillTag": [],
+      "skillTag": [
+        "Passive Skill"
+      ],
       "points": []
     }
   ]

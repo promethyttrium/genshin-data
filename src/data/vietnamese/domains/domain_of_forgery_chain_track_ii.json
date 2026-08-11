@@ -1,0 +1,58 @@
+{
+  "_id": 4712,
+  "id": "domain_of_forgery_chain_track_ii",
+  "name": "Bí Cảnh Luyện Võ: Ray Xích II",
+  "entranceId": 2106,
+  "entranceName": "Vết Sẹo Vọng Tưởng",
+  "description": "Những kẻ phản nghịch mang lòng oán hận từng ẩn náu tại đây, ôm mộng khôi phục quá khứ. Những giấc mộng ấy đã lụi tàn cùng ánh lửa màu máu, chỉ để lại một màu trắng xóa vô tận.\nNếu có thể đánh bại kẻ địch chiếm đóng bên trong, chắc có thể nhận được vật phẩm cường hóa trang bị.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 36,
+  "unlockRank": 21,
+  "disorder": [
+    "Swirl DMG triggered by characters is increased by 200%, and Stellar Swirl DMG is increased by 60%."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_02",
+  "recommendedElements": [
+    "Phong",
+    "Băng"
+  ],
+  "daysOfWeek": [
+    "Thứ 3",
+    "Thứ 6",
+    "Chủ Nhật"
+  ],
+  "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+  "domainText": "Weapon Ascension Materials",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP Mạo Hiểm",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "1550"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP Yêu Thích",
+      "count": "15"
+    },
+    {
+      "_id": 114090,
+      "id": "intoxication_of_the_cellared_spiritual_nectar",
+      "name": "Men Say Của Tinh Chất Ủ Hầm"
+    },
+    {
+      "_id": 114089,
+      "id": "measured_pour_of_the_cellared_spiritual_nectar",
+      "name": "Cân Nhắc Của Tinh Chất Ủ Hầm"
+    }
+  ],
+  "monsterList": []
+}

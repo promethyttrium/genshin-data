@@ -9,8 +9,10 @@
     "hp": 12,
     "card_type": "Карты персонажей",
     "energy": 2,
+    "element": "Пиро",
+    "weapon": "Древковое",
     "faction": [
-      null
+      "Инадзума"
     ],
     "talent_card": {
       "_id": 5052,
@@ -29,8 +31,10 @@
     {
       "id": "swiftshatter_spear",
       "name": "Быстробойное копьё",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит ?, 2 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -49,8 +53,10 @@
     {
       "id": "blazing_blessing",
       "name": "Пылающий покров",
-      "desc": "Наносит ?, ? ед. и создаёт <span style=\"color:#FFFFFFFF\">Пылающий щит</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FF9999FF\">Пиро урон</span>, 2 ед. и создаёт <span style=\"color:#FFFFFFFF\">Пылающий щит</span>.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1103,
@@ -63,8 +69,10 @@
     {
       "id": "crimson_ooyoroi",
       "name": "Багровый оёрой",
-      "desc": "Наносит ?, ? ед., создаются <span style=\"color:#FFFFFFFF\">Пылающий щит</span> и <span style=\"color:#FFFFFFFF\">Оёрой огня</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#FF9999FF\">Пиро урон</span>, 2 ед., создаются <span style=\"color:#FFFFFFFF\">Пылающий щит</span> и <span style=\"color:#FFFFFFFF\">Оёрой огня</span>.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1103,

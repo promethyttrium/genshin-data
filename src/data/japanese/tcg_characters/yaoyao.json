@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "キャラカード",
     "energy": 2,
+    "element": "草元素",
+    "weapon": "長柄武器",
     "faction": [
-      null
+      "璃月"
     ],
     "talent_card": {
       "_id": 4369,
@@ -29,8 +31,10 @@
     {
       "id": "toss_n_turn_spear",
       "name": "顛撲連撃槍",
-      "desc": "?を?与える。",
-      "skillTag": [],
+      "desc": "?を2与える。",
+      "skillTag": [
+        "通常攻撃"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -50,7 +54,9 @@
       "id": "raphanus_sky_cluster",
       "name": "祥雲団々落清白",
       "desc": "<span style=\"color:#FFFFFFFF\">月桂·投擲型</span>を召喚する。",
-      "skillTag": [],
+      "skillTag": [
+        "元素スキル"
+      ],
       "points": [
         {
           "_id": 1107,
@@ -63,8 +69,10 @@
     {
       "id": "moonjade_descent",
       "name": "玉顆珊々月中落",
-      "desc": "?を?与え、<span style=\"color:#FFFFFFFF\">桂子仙機</span>を生成する。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#7EC236FF\">草元素ダメージ</span>を1与え、<span style=\"color:#FFFFFFFF\">桂子仙機</span>を生成する。",
+      "skillTag": [
+        "元素爆発"
+      ],
       "points": [
         {
           "_id": 1107,

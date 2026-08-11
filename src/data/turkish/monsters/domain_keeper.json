@@ -25,19 +25,19 @@
       "_id": 112142,
       "id": "jeweled_flaming_hilt",
       "name": "Cevherli Alevli Kabza",
-      "count": 0.2626
+      "count": 0.262
     },
     {
       "_id": 112141,
       "id": "fractured_flaming_hilt",
       "name": "Kırık Alevli Kabza",
-      "count": 1.0505
+      "count": 1.05
     },
     {
       "_id": 112140,
       "id": "faded_flaming_hilt",
       "name": "Sönük Alevli Kabza",
-      "count": 3.9394
+      "count": 3.939
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Canavar Makinaları",
   "filename_icon": "UI_MonsterIcon_Watcher_Normal_01",
   "description": "Kudretli ezeli varlığın taşkınından doğan bir gölge yapısı, göklerin Sütunlu Salonunu bekleyen bir muhafız.\\nSütunlu Uzay Salonu'nun muhafızı olarak ona \"gözler\" bahşedilmiş olsa da bu varlıklar ruhani dünyanın \"İdeal Formlarını\" yüceltmekten öteye gidemez. Dış dünyaya ait detayları görmesine izin verilmediği için meleklerden sayılmaz. Bu doğuştan gelen çelişkinin, yaratıcısının akılcı tasarımının bir ürünü mü olduğu yoksa hizmet ettiği efendinin ezeli varlığın niyetini kavrayamamış olmasından mı kaynaklandığı, ulaşılamaz bir hakikattir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 2,
   "stats": {

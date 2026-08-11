@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Altre fazioni umane",
   "filename_icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Drillhead",
   "description": "Un potente guerriero dei Figli degli Echi, il cui coraggio è stato riconosciuto e che pertanto può indossare la corona saurica.\\nUn guerriero che può colpire con la potenza di una valanga. Persino per i Figli degli Echi, che vivono e respirano le montagne, i guerrieri con la corona saurica sono maestri in fatto di pietre e minerali. Si dice che siano in grado di riconoscerne la purezza e la venatura interne soltanto osservandone l'aspetto esterno.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 3,
   "stats": {

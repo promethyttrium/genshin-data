@@ -1,0 +1,29 @@
+{
+  "_id": 114096,
+  "id": "the_frost_emperors_farewell",
+  "name": "Despedida do Imperador da Neve",
+  "description": "Um objeto que apareceu na mesa na véspera da guerra, embora ninguém soubesse como ou por que estava lá.<br/>Ele reconheceu o trabalho de uma amiga que não vira há muitos anos.<br/>Somente então ele percebeu que esse era o início de toda calamidade, o fruto amargo de todo desejo e o presságio de toda destruição.",
+  "source": [
+    "Quantidade a ser fabricada: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 5,
+  "craft": {
+    "cost": 1075,
+    "items": [
+      {
+        "_id": 114095,
+        "id": "the_frost_emperors_lament",
+        "name": "Lamento do Imperador da Neve",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Domínio da Forja: Cicatrizes da Obsessão Maldita",
+  "days": [
+    "Quarta-feira",
+    "Sábado",
+    "Domingo"
+  ]
+}

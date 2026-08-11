@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "异种魔兽",
   "filename_icon": "UI_MonsterIcon_Cicin_Water_01",
   "description": "能够稍微导引水元素的小型生物。\\n与其他的萤族生物通称「飞萤」。飞萤对「雾虚草」这种罕见而奇妙的植物情有独钟，而愚人众的术士据此开发了利用飞萤进行战斗的方法。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

@@ -8,17 +8,21 @@
     "hp": 4,
     "card_type": "Character Card",
     "energy": 2,
+    "element": "No Elemental Type",
+    "weapon": "Other Weapons",
     "faction": [
-      null,
-      null
+      "Monster",
+      "Hilichurl"
     ]
   },
   "skills": [
     {
       "id": "hit",
       "name": "Hit",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 1 ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -31,8 +35,10 @@
     {
       "id": "jump_and_hit",
       "name": "Jump and Hit",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 2 ?.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1109,
@@ -45,8 +51,10 @@
     {
       "id": "swing_that_club",
       "name": "Swing That Club",
-      "desc": "Deals ? ?.",
-      "skillTag": [],
+      "desc": "Deals 4 ?.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1108,

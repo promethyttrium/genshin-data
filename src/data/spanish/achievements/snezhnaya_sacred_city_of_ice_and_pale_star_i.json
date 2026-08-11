@@ -1,0 +1,182 @@
+{
+  "_id": 69,
+  "id": "snezhnaya_sacred_city_of_ice_and_pale_star_i",
+  "name": "Snezhnaya: El santuario del hielo y la Estrella Albina (I)",
+  "order": 72,
+  "achievements": [
+    {
+      "id": 80504,
+      "name": "Explorador continental: La nación cubierta de nieve (I)",
+      "desc": "Revela las regiones del mapa de Snezhnaya (Tierras Hieloeternas, Tundra de los Volkodlak, Valle Plumaígnea, Cementerio de Abedules Nevados y Cumbre Muertescarcha).",
+      "reward": 5,
+      "hidden": false,
+      "order": 463
+    },
+    {
+      "id": 80505,
+      "name": "Atravesando las nieves heladas (I)",
+      "desc": "Desbloquea todos los Puntos de teletransporte de Snezhnaya (Tierras Hieloeternas, Tundra de los Volkodlak, Valle Plumaígnea, Cementerio de Abedules Nevados y Cumbre Muertescarcha).",
+      "reward": 5,
+      "hidden": false,
+      "order": 464
+    },
+    {
+      "id": 80506,
+      "name": "Peregrinaje al santuario: La nación cubierta de nieve (I)",
+      "desc": "Desbloquea todos los Santuarios de las Profundidades de Snezhnaya (Tierras Hieloeternas, Tundra de los Volkodlak, Valle Plumaígnea, Cementerio de Abedules Nevados y Cumbre Muertescarcha).",
+      "reward": 10,
+      "hidden": false,
+      "order": 465
+    },
+    {
+      "id": 80507,
+      "name": "Azul claro como el hielo",
+      "desc": "Mejora las Estatuas de Los Siete en Snezhnaya al nivel máximo.",
+      "reward": 20,
+      "hidden": false,
+      "order": 466
+    },
+    {
+      "id": 80508,
+      "name": "Obsequios del Dominio de las Sombras: La nación cubierta de nieve (I)",
+      "desc": "Desbloquea todas las cámaras de reliquias de Snezhnaya (Tierras Hieloeternas, Tundra de los Volkodlak, Valle Plumaígnea, Cementerio de Abedules Nevados y Cumbre Muertescarcha).",
+      "reward": 10,
+      "hidden": false,
+      "order": 467
+    },
+    {
+      "id": 80509,
+      "name": "Guía de las llanuras escarchadas (I)",
+      "desc": "Persigue a 3 Seelies en las Tierras Hieloeternas, la Tundra de los Volkodlak, el Valle Plumaígnea, el Cementerio de Abedules Nevados y la Cumbre Muertescarcha e ilumina los Pedestales de los Seelies.",
+      "reward": 5,
+      "hidden": false,
+      "order": 468
+    },
+    {
+      "id": 80510,
+      "name": "Guía de las llanuras escarchadas (I)",
+      "desc": "Persigue a 5 Seelies en las Tierras Hieloeternas, la Tundra de los Volkodlak, el Valle Plumaígnea, el Cementerio de Abedules Nevados y la Cumbre Muertescarcha e ilumina los Pedestales de los Seelies.",
+      "reward": 10,
+      "hidden": false,
+      "order": 469,
+      "preStage": 80509
+    },
+    {
+      "id": 80511,
+      "name": "Guía de las llanuras escarchadas (I)",
+      "desc": "Persigue a 10 Seelies en las Tierras Hieloeternas, la Tundra de los Volkodlak, el Valle Plumaígnea, el Cementerio de Abedules Nevados y la Cumbre Muertescarcha e ilumina los Pedestales de los Seelies.",
+      "reward": 20,
+      "hidden": false,
+      "order": 470,
+      "preStage": 80510
+    },
+    {
+      "id": 80512,
+      "name": "Cazatesoros del crudo invierno (I)",
+      "desc": "Abre 65 cofres en las Tierras Hieloeternas, la Tundra de los Volkodlak, el Valle Plumaígnea, el Cementerio de Abedules Nevados y la Cumbre Muertescarcha.",
+      "reward": 5,
+      "hidden": false,
+      "order": 471
+    },
+    {
+      "id": 80513,
+      "name": "Cazatesoros del crudo invierno (I)",
+      "desc": "Abre 130 cofres en las Tierras Hieloeternas, la Tundra de los Volkodlak, el Valle Plumaígnea, el Cementerio de Abedules Nevados y la Cumbre Muertescarcha.",
+      "reward": 10,
+      "hidden": false,
+      "order": 472,
+      "preStage": 80512
+    },
+    {
+      "id": 80514,
+      "name": "Cazatesoros del crudo invierno (I)",
+      "desc": "Abre 260 cofres en las Tierras Hieloeternas, la Tundra de los Volkodlak, el Valle Plumaígnea, el Cementerio de Abedules Nevados y la Cumbre Muertescarcha.",
+      "reward": 20,
+      "hidden": false,
+      "order": 473,
+      "preStage": 80513
+    },
+    {
+      "id": 80515,
+      "name": "Aventurero del crudo invierno (I)",
+      "desc": "Completa 6 pruebas contrarreloj del mundo abierto en las Tierras Hieloeternas, la Tundra de los Volkodlak, el Valle Plumaígnea, el Cementerio de Abedules Nevados y la Cumbre Muertescarcha.",
+      "reward": 5,
+      "hidden": false,
+      "order": 474
+    },
+    {
+      "id": 80516,
+      "name": "Aventurero del crudo invierno (I)",
+      "desc": "Completa 12 pruebas contrarreloj del mundo abierto en las Tierras Hieloeternas, la Tundra de los Volkodlak, el Valle Plumaígnea, el Cementerio de Abedules Nevados y la Cumbre Muertescarcha.",
+      "reward": 10,
+      "hidden": false,
+      "order": 475,
+      "preStage": 80515
+    },
+    {
+      "id": 80517,
+      "name": "Aventurero del crudo invierno (I)",
+      "desc": "Completa 24 pruebas contrarreloj del mundo abierto en las Tierras Hieloeternas, la Tundra de los Volkodlak, el Valle Plumaígnea, el Cementerio de Abedules Nevados y la Cumbre Muertescarcha.",
+      "reward": 20,
+      "hidden": false,
+      "order": 476,
+      "preStage": 80516
+    },
+    {
+      "id": 80518,
+      "name": "La escalera del amor",
+      "desc": "Completa la misión «El amor y el odio de las Hespérides».",
+      "reward": 10,
+      "hidden": false,
+      "order": 477
+    },
+    {
+      "id": 80519,
+      "name": "Reunidos por la felicidad eterna",
+      "desc": "Completa la misión «En la morada de la vida».",
+      "reward": 10,
+      "hidden": false,
+      "order": 478
+    },
+    {
+      "id": 80520,
+      "name": "Mil formas de amor, o un solo suspiro",
+      "desc": "Evita que el humano primordial convierta el mundo en un jardín sin amor ni preocupaciones.",
+      "reward": 10,
+      "hidden": false,
+      "order": 479
+    },
+    {
+      "id": 80521,
+      "name": "El nacimiento de la cantora en la concha marina",
+      "desc": "Sube al máximo el nivel de construcción del Punto de encuentro de la Gruta Cantomarea.",
+      "reward": 5,
+      "hidden": false,
+      "order": 480
+    },
+    {
+      "id": 80522,
+      "name": "Que caces tu valor en el mundo que despierta",
+      "desc": "Sube al máximo el nivel de construcción del Punto de encuentro de la Cabaña del Cazador.",
+      "reward": 5,
+      "hidden": false,
+      "order": 481
+    },
+    {
+      "id": 80523,
+      "name": "Glorificación de la elegida",
+      "desc": "Sube al máximo el nivel de construcción del Punto de encuentro del Teatro Korolevski.",
+      "reward": 5,
+      "hidden": false,
+      "order": 482
+    },
+    {
+      "id": 80529,
+      "name": "Abre los ojos adormecidos por la noche",
+      "desc": "Completa la revitalización de la Estación Rankova Zoria.",
+      "reward": 5,
+      "hidden": false,
+      "order": 488
+    }
+  ]
+}

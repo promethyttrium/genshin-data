@@ -13,7 +13,6 @@
   "categoryText": "Hiçlik",
   "filename_icon": "UI_MonsterIcon_Ovacua_Chaos_01",
   "description": "Genelde Elynas'ta ortaya çıkan tuhaf bir yaşam formu.\\nPatojenler, biyolojik açıdan bakıldığında bilinen türlerden çok farklıdır. Hayvan, bitki, mantar veya Element değillerdir. Sumerulu alimler arasında tartışma konusu olan bu durum asla bir sonuca varamadı ve en sonunda araştırma konusu olarak ele alınması da yasaklandı. Çünkü bu problem mevcut bilgi sistemine göre \"dil aracılığıyla belirlenen tanımlar ve varlıkların asıl doğası\" ile aynıdır ve anlamlı, nihai bir cevap bulmak mümkün değildir.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

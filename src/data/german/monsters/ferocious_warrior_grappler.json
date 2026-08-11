@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Weitere Menschen",
   "filename_icon": "UI_MonsterIcon_Human_Fat_Sword_Bisonsaurus",
   "description": "Ein Krieger aus den Ebenen, ein Stammeswächter, der über die goldenen Felder patrouilliert.\\nDer waffenlose Kampf gilt im Kollektiv der Fülle als ehrenvoll. Ein Krieger, der diesen Weg eingeschlagen hat, besitzt in seinen Armen die Kraft, einen Speer mit solcher Wucht zu werfen, dass er glatt hinter dem Horizont verschwindet.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

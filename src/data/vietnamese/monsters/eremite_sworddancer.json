@@ -481,9 +481,31 @@
     "Mảng Tấn Công Dilimbabbar",
     "Mảng Phòng Thủ Dilimbabbar",
     "Kẻ Mới Sinh Bị Nguyền Rủa",
+    "???",
+    "Chim Ưng Đi Bộ",
     "Kẻ Mới Sinh Bị Nguyền Rủa",
     "Kẻ Tiên Phong Ngước Nhìn Trời Sao",
-    "Chiều Tà Của Ánh Sáng Tạo Hóa"
+    "Chiều Tà Của Ánh Sáng Tạo Hóa",
+    "Tạo Vật Phái Sinh Bất Diệt",
+    "\"Zhara\"",
+    "Vasiliy \"Oedipus\" Izmaylov",
+    "Kẻ Chinh Phạt Tự Phong Ấn Dưới Băng",
+    "Gusarov",
+    "Người Nguyên Sơ",
+    "Aksinya",
+    "Pavlina",
+    "Kẻ Viễn Chinh Trở Về",
+    "Tàu Lục Chiến Rối Loạn",
+    "Nastya",
+    "Furiosa",
+    "Klenova Thăng Hoa",
+    "Kovaliskaya Hèn Hạ",
+    "Tsvetaev",
+    "Bragin",
+    "Churin",
+    "Kẻ Tận Tụy Từng Thề Với Vĩnh Hằng",
+    "Ma Thú Đào Đất Ẩn Náu",
+    "Gai Nhọn Chớp Nhoáng"
   ],
   "investigation": {
     "investigationId": 44,
@@ -510,22 +532,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Băng Đỏ Viền Vàng",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Băng Đỏ Phai Màu",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Các thế lực loài người khác",
   "filename_icon": "UI_MonsterIcon_Eremite_MuscleMan_Simitar",
   "description": "Đến từ sa mạc có màu của vàng, là một thành viên trong đoàn thể lính đánh thuê riêng lẻ. Vì thù lao, sẵn sàng ra sức cho bất kỳ ai.\\nVõ sĩ sa mạc có sở trường dùng đao. Đao pháp mà hắn nắm giữ được truyền lại từ nền văn minh thất lạc không chỉ dùng để chiến đấu, mà điệu múa đao cũng đã trở thành một dạng biểu diễn tạp kỹ khá phổ biến.\\nLoại đao này nghe nói được các kỵ binh sử dụng trong chiến đấu vào thời cổ đại.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

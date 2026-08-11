@@ -1,0 +1,32 @@
+{
+  "_id": 213062,
+  "id": "sparkborne_magic",
+  "shareId": 615,
+  "name": "Sparkborne Magic",
+  "title": "Klee: Sparkborne Magic",
+  "desc": "\"Demikianlah, dengan bantuan teman-teman, Dodo-Penyihir cilik berhasil melewati ujian dan menjadi Dodo-Penyihir yang sejati. Selamat!!!\"\\n\"Katanya mau kami tulisin catatan kaki? Ini sama sekali tidak ada hubungannya dengan penyihir cilik!\"",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">Setelah Karakter yang terpengaruh melakukan <span style=\"color:#FFFFFFFF\">Charged Attack</span>:</span> Mengakibatkan 2 poin <span style=\"color:#FF9999FF\">Pyro DMG</span>. (2 kali setiap ronde)",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "Pyro",
+    "card_type": "Kartu Equipment",
+    "energy": [
+      {
+        "_id": 1103,
+        "id": "pyro",
+        "type": "Pyro",
+        "count": 1
+      }
+    ],
+    "tags": [
+      "Talenta",
+      "Hexerei"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Aksi Cepat</span>: Hanya dapat dikenakan oleh <span style=\"color:#FFFFFFFF\">Klee</span> milikmu.<br/>Memberikan <span style=\"color:#FFFFFFFF\">Explosive Spark</span> kepada Klee.<br/><span style=\"color:#FFFFFFFF\">Setelah Karakter yang terpengaruh melakukan <span style=\"color:#FFFFFFFF\">Charged Attack</span>:</span> Mengakibatkan 2 poin <span style=\"color:#FF9999FF\">Pyro DMG</span>. (2 kali setiap Ronde)<br/>(Kamu harus punya Klee di dalam Dek-mu untuk menambahkan kartu ini ke dalam Dek)"
+    }
+  ]
+}

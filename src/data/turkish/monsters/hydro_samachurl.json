@@ -13,12 +13,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Dağ Yabanileri",
   "filename_icon": "UI_MonsterIcon_Shaman_Water_01",
   "description": "Suyun gücünü zikreden, mırıldanarak konuşan ihtiyar bir dağ yabanisi.\\nGenellikle ilerleyen yaşlarında becerilerinin doruk noktasına ulaşan dağ yabanilerine, elementlere hükmedebilme gücü bahşedilirmiş. Böylesine basit yaratıklara suyu ve yağmuru çağırabilme yeteneğini kim verebilir ki?",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

@@ -1,0 +1,16 @@
+{
+  "_id": 390001,
+  "id": "unbreakable_durandarte",
+  "name": "Indistruttibile: Durandarte",
+  "description": "Una gloriosa e illusoria spada emersa dalle profondità delle linee geomantiche. Si narra che in passato fosse brandita dal cavaliere bianco conosciuto come Durandarte.\\nIl suo nome, nelle lingue antiche, significa \"lama che non può essere distrutta\". Proprio come la spada che portava con sé, il cammino in cui credeva il cavaliere non ha mai vacillato, nonostante l'acciaio, un tempo puro, si sia col tempo oscurato.",
+  "rarity": 4,
+  "type": {
+    "id": "Claymore",
+    "name": "Claymore"
+  },
+  "is_sublimation": false,
+  "group": null,
+  "item_id": 341901,
+  "icon_path": "UI_EquipIcon_Claymore_VarkaTunkeldegen",
+  "image_path": "UI_Gacha_EquipIcon_Claymore_VarkaTunkeldegen"
+}

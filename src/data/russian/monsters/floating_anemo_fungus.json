@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Мистические звери",
   "filename_icon": "UI_MonsterIcon_Fungus_Un_Delta_Wind",
   "description": "Споровые образования, способные к мимикрии. Прекрасно умеют приспосабливаться к окружающей среде.\\nЭтот вид плесенников отличается крупной зонтикообразной шляпкой, абсолютно полой внутри, из-за чего в пищу их употреблять проблематично.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 8,
   "stats": {

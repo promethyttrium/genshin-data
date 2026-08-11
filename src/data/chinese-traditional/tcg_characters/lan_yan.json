@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "角色牌",
     "energy": 2,
+    "element": "風元素",
+    "weapon": "法器",
     "faction": [
-      null
+      "璃月"
     ],
     "talent_card": {
       "_id": 8274,
@@ -29,8 +31,10 @@
     {
       "id": "black_pheasant_strides_on_water",
       "name": "玄鸞畫水",
-      "desc": "造成?點?。",
-      "skillTag": [],
+      "desc": "造成1點<span style=\"color:#80FFD7FF\">風元素傷害</span>。",
+      "skillTag": [
+        "普通攻擊"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "swallowwisp_pinion_dance",
       "name": "鳳縷隨翦舞",
-      "desc": "生成2層<span style=\"color:#FFFFFFFF\">鳳縷護盾</span>，獲得1層<span style=\"color:#FFFFFFFF\">高效切換</span>，並造成?點?，如果此技能引發了擴散，則額外生成1層<span style=\"color:#FFFFFFFF\">鳳縷護盾</span>。",
-      "skillTag": [],
+      "desc": "生成2層<span style=\"color:#FFFFFFFF\">鳳縷護盾</span>，獲得1層<span style=\"color:#FFFFFFFF\">高效切換</span>，並造成1點<span style=\"color:#80FFD7FF\">風元素傷害</span>，如果此技能引發了擴散，則額外生成1層<span style=\"color:#FFFFFFFF\">鳳縷護盾</span>。",
+      "skillTag": [
+        "元素戰技"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "lustrous_moonrise",
       "name": "鶤弦踏月出",
-      "desc": "造成?點?，生成2層<span style=\"color:#FFFFFFFF\">鳳縷護盾</span>。",
-      "skillTag": [],
+      "desc": "造成3點<span style=\"color:#80FFD7FF\">風元素傷害</span>，生成2層<span style=\"color:#FFFFFFFF\">鳳縷護盾</span>。",
+      "skillTag": [
+        "元素爆發"
+      ],
       "points": [
         {
           "_id": 1105,

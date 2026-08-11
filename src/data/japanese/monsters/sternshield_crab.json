@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "異種の魔獣",
   "filename_icon": "UI_MonsterIcon_HermitCrab_Mature",
   "description": "巻貝や貝殻の中に住んでいるカニ。\\n重甲ヤドカニは成長の過程で自分の体格に合った殻を絶えず探し続ける。重甲ヤドカニが自分の住まいを探し求める数奇な運命を描いた童話がベストセラーになったことがある。子ども向けのストーリーだったが、その後の反響を見れば、他の多くの童話と同じく、大人により深い感銘を与えたことは明らかだ。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

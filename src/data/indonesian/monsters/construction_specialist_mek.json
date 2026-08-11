@@ -23,22 +23,21 @@
       "_id": 112084,
       "id": "mechanical_spur_gear",
       "name": "Mechanical Spur Gear",
-      "count": 0.8964
+      "count": 0.896
     },
     {
       "_id": 112083,
       "id": "meshing_gear",
       "name": "Meshing Gear",
-      "count": 3.3616
+      "count": 3.36
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_AUTOMATRON",
   "categoryText": "Automaton",
   "filename_icon": "UI_MonsterIcon_MachinaIustitia_Excavator",
   "description": "Mekanisme roda gigi besar yang memiliki nilai tak terukur di bidang konstruksi dan penjelajahan arkeologi. Namanya berasal dari insinyur yang dipekerjakan oleh Callas saat membangun jalur Clementine.\\nDengan bantuan Callas, insinyur ini akhirnya bisa menciptakan mesin \"Golden Vessel\" — robot raksasa ajaib untuk menggali Terowongan Poisson, lalu bisa mendesain mekanisme roda gigi yang mirip dengan ukuran yang lebih kecil yang sesuai dengan struktur desain mesin ini setelah proyeknya rampung.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 2,
   "stats": {

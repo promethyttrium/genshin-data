@@ -1,0 +1,63 @@
+{
+  "_id": 4702,
+  "id": "domain_of_mastery_shared_vision_iv",
+  "name": "Dominio de la maestría: Contemplación conjunta IV",
+  "entranceId": 2074,
+  "entranceName": "Ruinas sagradas del desamparo",
+  "description": "Un santuario erigido por las hadas en el pasado, ahora ocupado por maleantes.\nSi derrotas a los enemigos que merodean aquí, tal vez obtengas enseñanzas para mejorar tus talentos.",
+  "regionId": 8,
+  "regionName": "Snezhnaya",
+  "recommendedLevel": 88,
+  "unlockRank": 45,
+  "disorder": [
+    "· When a character triggers Superconduct or Stellar-Conduct reactions, or deals Stellar-Conduct DMG, a shockwave will be unleashed at the target enemy's location, dealing Electro DMG."
+  ],
+  "filename_image": "UI_DungeonPic_ZDCircle_03",
+  "recommendedElements": [
+    "Cryo",
+    "Electro"
+  ],
+  "daysOfWeek": [
+    "Miércoles",
+    "Sábado",
+    "Domingo"
+  ],
+  "domainType": "UI_ABYSSUS_AVATAR_PROUD",
+  "domainText": "Talent Level-Up Material",
+  "rewardPreview": [
+    {
+      "_id": 102,
+      "id": "adventure_exp",
+      "name": "EXP de Aventura",
+      "count": "100"
+    },
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Mora",
+      "count": "2375"
+    },
+    {
+      "_id": 105,
+      "id": "companionship_exp",
+      "name": "EXP de Amistad",
+      "count": "20"
+    },
+    {
+      "_id": 104373,
+      "id": "philosophies_of_glory",
+      "name": "Filosofía de la gloria"
+    },
+    {
+      "_id": 104372,
+      "id": "guide_to_glory",
+      "name": "Guía de la gloria"
+    },
+    {
+      "_id": 104371,
+      "id": "teachings_of_glory",
+      "name": "Enseñanzas de la gloria"
+    }
+  ],
+  "monsterList": []
+}

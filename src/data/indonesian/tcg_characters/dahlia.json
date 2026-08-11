@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Kartu Karakter",
     "energy": 2,
+    "element": "Hydro",
+    "weapon": "Sword",
     "faction": [
-      null
+      "Mondstadt"
     ],
     "source": "Didapatkan setelah mengundang Dahlia ke Cat's Tail dan menang dalam Pertandingan Persahabatan melawannya"
   },
@@ -18,8 +20,10 @@
     {
       "id": "favonius_bladework_ritual",
       "name": "Favonius Bladework - Ritual",
-      "desc": "Mengakibatkan ? poin ?.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin ?.",
+      "skillTag": [
+        "Normal Attack"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -38,8 +42,10 @@
     {
       "id": "immersive_ordinance",
       "name": "Immersive Ordinance",
-      "desc": "Mengakibatkan ? poin ? dan menciptakan <span style=\"color:#FFFFFFFF\">Sacramental Shower</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#80C0FFFF\">Hydro DMG</span> dan menciptakan <span style=\"color:#FFFFFFFF\">Sacramental Shower</span>.",
+      "skillTag": [
+        "Elemental Skill"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -52,8 +58,10 @@
     {
       "id": "radiant_psalter",
       "name": "Radiant Psalter",
-      "desc": "Mengakibatkan ? poin ?, menciptakan 2 lapis <span style=\"color:#FFFFFFFF\">Perisai</span> dan 2 lapis <span style=\"color:#FFFFFFFF\">Favonian Favor</span>.",
-      "skillTag": [],
+      "desc": "Mengakibatkan 2 poin <span style=\"color:#80C0FFFF\">Hydro DMG</span>, menciptakan 2 lapis <span style=\"color:#FFFFFFFF\">Perisai</span> dan 2 lapis <span style=\"color:#FFFFFFFF\">Favonian Favor</span>.",
+      "skillTag": [
+        "Elemental Burst"
+      ],
       "points": [
         {
           "_id": 1102,

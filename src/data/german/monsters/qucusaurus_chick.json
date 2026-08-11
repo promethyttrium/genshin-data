@@ -25,29 +25,27 @@
       "_id": 112103,
       "id": "tyrants_fang",
       "name": "Schneidezahn des Eroberers",
-      "count": 0.0616
+      "count": 0.062
     },
     {
       "_id": 112102,
       "id": "seasoned_fang",
       "name": "Ausgereifter kräftiger Zahn",
-      "count": 0.2465
+      "count": 0.246
     },
     {
       "_id": 112101,
       "id": "juvenile_fang",
       "name": "Unreifer spitzer Zahn",
-      "count": 0.9244
+      "count": 0.924
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Flamingo_Small",
   "description": "Ein junger Qucusaurier mit einem zierlichen und agilen Körperbau.\\nHals und Federn sind noch nicht voll entwickelt, und auch sein Umgang mit gasförmigen Phlogiston hat noch einiges an Übung nötig. Es soll angeblich ausgewachsene Qucusaurier geben, die ihre Jungen von Klippen schmeißen, um ihnen zu helfen, ihre Flugfähigkeiten zu meistern. Keine Ahnung, wie viel an diesen Gerüchten dran ist, aber Übung macht ja bekanntlich den Meister, und mit genügend Zeit wird auch jede noch so weiche Feder einmal erhärten.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Mimik_Ice",
   "description": "Monster tanaman yang dapat tiba-tiba muncul dan menggunakan kamuflase, dapat menggunakan elemen Cryo saat melawan musuhnya.\\nTanaman ini bisa bersembunyi di permukaan tanah dan menyerang mangsa yang tidak menyadari keberadaannya. Bila tanaman ini dapat hidup cukup lama, mendapatkan nutrisi yang cukup serta lingkungan yang tepat, mungkin tanaman ini bisa tumbuh menjadi sebuah Cryo Regisvine raksasa.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {

@@ -8,16 +8,20 @@
     "hp": 4,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Thủy",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null
+      "Ma Vật"
     ]
   },
   "skills": [
     {
       "id": "bounce",
       "name": "Nảy Bật",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm <span style=\"color:#80C0FFFF\">Sát Thương Nguyên Tố Thủy</span>.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -36,8 +40,10 @@
     {
       "id": "slam",
       "name": "Giáng Xuống",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 4 điểm <span style=\"color:#80C0FFFF\">Sát Thương Nguyên Tố Thủy</span>.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -57,7 +63,9 @@
       "id": "elemental_sedimentation_hydro",
       "name": "Tích Tụ Nguyên Tố - Thủy",
       "desc": "(Bị Động) Khi bắt đầu chiến đấu, nhân vật này nhận <span style=\"color:#FFFFFFFF\">Sinh Mệnh Nguyên Tố - Thủy</span>.",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Bị Động"
+      ],
       "points": []
     }
   ]

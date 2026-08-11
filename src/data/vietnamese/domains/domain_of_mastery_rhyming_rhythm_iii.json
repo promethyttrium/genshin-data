@@ -19,6 +19,11 @@
     "Hỏa",
     "Băng"
   ],
+  "daysOfWeek": [
+    "Thứ 2",
+    "Thứ 5",
+    "Chủ Nhật"
+  ],
   "domainType": "UI_ABYSSUS_AVATAR_PROUD",
   "domainText": "Talent Level-Up Material",
   "rewardPreview": [

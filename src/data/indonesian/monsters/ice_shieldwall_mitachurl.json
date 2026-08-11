@@ -45,7 +45,6 @@
   "description": "Hilichurl kekar yang menggunakan perisai es saat bertarung.\\nPada umumnya, makhluk yang bertubuh besar dan aktif membutuhkan banyak kalori untuk bertahan hidup. Maka El Musk mengajukan sebuah angka \"Indeks Mitachurl\". Indeks ini berguna untuk mencari korelasi antara persentase Mitachurl yang ada di dalam populasi Hilichurl, dengan jumlah dan kestabilan sumber pangan yang dikumpulkan oleh populasi Hilichurl tersebut.",
   "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
   "bgm": 2,
-  "budget": 0,
   "stats": {
     "resistance": {
       "physical": 0.3,

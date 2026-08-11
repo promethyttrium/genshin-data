@@ -1,0 +1,133 @@
+{
+  "_id": 25132701,
+  "id": "longeared_striker",
+  "monsterId": 25132701,
+  "name": "Длинноухий штурмовик",
+  "specialNames": [
+    "Длинноухий штурмовик"
+  ],
+  "investigation": {
+    "investigationId": 101,
+    "name": "Волкодлак-головорез",
+    "categoryType": "Elite",
+    "categoryText": "Элитные",
+    "description": "Среди альвов Снежной самым многочисленным народом являются существа самых разных обликов, которых объединяет общее название - «волкодлаки».\\nВозможно, их создали именно затем, чтобы с их помощью найти ответ на вопрос «что делает человека человеком?»."
+  },
+  "filename_investigationIcon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+  "rewardPreviewId": 15543,
+  "rewardPreview": [
+    {
+      "_id": 202,
+      "id": "mora",
+      "name": "Мора"
+    },
+    {
+      "_id": 112154,
+      "id": "accreted_growth",
+      "name": "Осадочный нарост",
+      "count": 0.131
+    },
+    {
+      "_id": 112153,
+      "id": "accreted_mass",
+      "name": "Осадочный сгусток",
+      "count": 0.525
+    },
+    {
+      "_id": 112152,
+      "id": "accreted_fragment",
+      "name": "Наросший осколок",
+      "count": 1.97
+    },
+    {
+      "_id": 112148,
+      "id": "ethereal_crystalscale_stone",
+      "name": "Эфирная кристальная чешуя",
+      "count": 0.035
+    },
+    {
+      "_id": 112147,
+      "id": "ethereal_crystal",
+      "name": "Эфирный кристалл",
+      "count": 0.14
+    },
+    {
+      "_id": 112146,
+      "id": "ethereal_glimmershard",
+      "name": "Осколок эфирного сияния",
+      "count": 0.525
+    },
+    {
+      "_id": 400023,
+      "id": "berserker",
+      "name": "Берсерк",
+      "rarity": 4
+    },
+    {
+      "_id": 400033,
+      "id": "instructor",
+      "name": "Инструктор",
+      "rarity": 4
+    },
+    {
+      "_id": 400043,
+      "id": "the_exile",
+      "name": "Изгнанник",
+      "rarity": 4
+    },
+    {
+      "_id": 400022,
+      "id": "berserker",
+      "name": "Берсерк",
+      "rarity": 3
+    },
+    {
+      "_id": 400032,
+      "id": "instructor",
+      "name": "Инструктор",
+      "rarity": 3
+    },
+    {
+      "_id": 400042,
+      "id": "the_exile",
+      "name": "Изгнанник",
+      "rarity": 3
+    },
+    {
+      "_id": 400062,
+      "id": "traveling_doctor",
+      "name": "Целитель",
+      "rarity": 3
+    }
+  ],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Мистические звери",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Arctichare",
+  "description": "Волкодлак, обычно скрывающий своё стройное тело под плащом и предпочитающий действовать незаметно.\\nГоворят, когда-то мастера Золотого города, владевшие силой творения, создавали тела альвов для самых разных целей, а этот вид волкодлаков был создан, чтобы испытать пределы способности к размножению.\\nОднако после катастрофы, превратившей Золотое царство в руины, длинноухий народ сумел сохраниться благодаря своей многочисленности.\\nТеперь они сами распоряжаются собственной судьбой. А их ловкость, позволяющая легко передвигаться даже по глубокому снегу, делает их опасными противниками для путников, пересекающих снежные равнины.",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 25.8096,
+      "attack": 27.632,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

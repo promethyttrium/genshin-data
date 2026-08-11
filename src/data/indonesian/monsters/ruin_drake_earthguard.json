@@ -32,7 +32,6 @@
   "categoryText": "Automaton",
   "filename_icon": "UI_MonsterIcon_Gargoyle",
   "description": "Mesin tempur berbentuk naga yang tangguh.\\nKonon mesin ini adalah peninggalan dari sebuah kerajaan yang telah hancur. Bentuknya meniru hewan Vishap, tetapi struktur mesinnya dioptimalkan untuk performanya. Mesin ini memiliki kekuatan penyerapan dan pemantulan elemen yang lebih kuat daripada Vishap asli.\\nMenilai dari kemampuan mesin ini, sepertinya peradaban yang membuat senjata mengerikan seperti ini memiliki ambisi yang cukup besar ....",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 3,
   "stats": {

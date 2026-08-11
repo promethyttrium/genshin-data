@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "キャラカード",
     "energy": 2,
+    "element": "風元素",
+    "weapon": "弓",
     "faction": [
-      null
+      "スメール"
     ],
     "talent_card": {
       "_id": 5589,
@@ -29,8 +31,10 @@
     {
       "id": "parthian_shot",
       "name": "転回弓術",
-      "desc": "?を?与える。",
-      "skillTag": [],
+      "desc": "?を2与える。",
+      "skillTag": [
+        "通常攻撃"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "wind_realm_of_nasamjnin",
       "name": "非想風天",
-      "desc": "?を?与え、本キャラに<span style=\"color:#FFFFFFFF\">疾風示現</span>を付与する。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#80FFD7FF\">風元素ダメージ</span>を3与え、本キャラに<span style=\"color:#FFFFFFFF\">疾風示現</span>を付与する。",
+      "skillTag": [
+        "元素スキル"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "the_winds_secret_ways",
       "name": "搏風秘道",
-      "desc": "?を?与え、<span style=\"color:#FFFFFFFF\">赫耀多面体</span>を召喚する。",
-      "skillTag": [],
+      "desc": "<span style=\"color:#80FFD7FF\">風元素ダメージ</span>を1与え、<span style=\"color:#FFFFFFFF\">赫耀多面体</span>を召喚する。",
+      "skillTag": [
+        "元素爆発"
+      ],
       "points": [
         {
           "_id": 1105,

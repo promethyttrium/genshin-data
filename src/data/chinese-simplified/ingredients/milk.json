@@ -90,6 +90,11 @@
       "name": "苦水"
     },
     {
+      "_id": 3703,
+      "id": "rimecurrant_ice_cream",
+      "name": "冰醋栗冰淇淋"
+    },
+    {
       "_id": 3905,
       "id": "bubblemilk_pie",
       "name": "鲜奶珠珠派"
@@ -119,6 +124,5 @@
   ],
   "source": [
     "杂货店购买"
-  ],
-  "rarity": 0
+  ]
 }

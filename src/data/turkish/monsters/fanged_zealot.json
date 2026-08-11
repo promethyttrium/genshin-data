@@ -1,0 +1,40 @@
+{
+  "_id": 25133601,
+  "id": "fanged_zealot",
+  "monsterId": 25133602,
+  "name": "Dişli Fanatik",
+  "specialNames": [
+    "Dişli Fanatik"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Efsanevi Canavarlar",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Mammoth",
+  "description": "Kanındaki kudretli güçten faydalanarak son derece güçlü hale gelmiş bir Volkodlak.\\nÇeşitli Volkodlak türleri arasında dev fillere veya mamutlara benzeyenler, en asil soydan gelenlerdir. Klanlarından bir zamanlar Canavarlar Kralına yakın hizmetkarlar olarak hizmet etmiş olan pek çok güçlü savaş lideri çıkmıştır.\\nAncak bir Feyin gücü ne kadar fazla ve ömrü ne kadar uzun olursa bir klan kurması da o kadar zorlaşır. Diğer Volkodlaklarla karşılaştırıldığında Snezhnaya'da bu türe artık çok daha az rastlanır.",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.3,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 231.00076,
+      "attack": 112.64574,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

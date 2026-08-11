@@ -1,0 +1,54 @@
+{
+  "_id": 3704,
+  "id": "medovik",
+  "name": "Medovik",
+  "description": "Un pastel elaborado con miel. Finas capas de masa con miel se hornean y se colocan una sobre otra con un glaseado de smetana entre cada una. El toque final lo dan las virutas y un chorro de sirope de miel. Cada uno de los pasos debe seguirse con cuidado para obtener el resultado adecuado.",
+  "rarity": 3,
+  "ingredients": [
+    {
+      "_id": 110017,
+      "id": "honey",
+      "name": "Miel",
+      "amount": 4
+    },
+    {
+      "_id": 110001,
+      "id": "flour",
+      "name": "Harina",
+      "amount": 4
+    },
+    {
+      "_id": 100062,
+      "id": "bird_egg",
+      "name": "Huevo de pájaro",
+      "amount": 3
+    },
+    {
+      "_id": 110015,
+      "id": "smetana",
+      "name": "Smetana",
+      "amount": 2
+    }
+  ],
+  "dish_type": "Platos que regeneran Vida",
+  "results": {
+    "suspicious": {
+      "_id": 132007,
+      "name": "Medovik extraño",
+      "description": "Un pastel elaborado con miel. Todo rastro de dulzura ha sido incinerado hasta convertirse en un amargo y carbonizado desastre por las llamas desbocadas del horno. Aunque el glaseado de smetana cumple a la perfección con su papel ácido, se encuentra completamente desprotegido sin ningún dulzor que lo respalde...",
+      "effect": "#Restaura un 26% de la Vida Máx. al personaje seleccionado y regenera 450 pts. de Vida cada 5 s durante 30 s."
+    },
+    "normal": {
+      "_id": 132008,
+      "name": "Medovik",
+      "description": "Un pastel elaborado con miel. Finas capas de masa con miel se hornean y se colocan una sobre otra con un glaseado de smetana entre cada una. El toque final lo dan las virutas y un chorro de sirope de miel. Cada uno de los pasos debe seguirse con cuidado para obtener el resultado adecuado.",
+      "effect": "#Restaura un 28% de la Vida Máx. al personaje seleccionado y regenera 620 pts. de Vida cada 5 s durante 30 s."
+    },
+    "delicious": {
+      "_id": 132009,
+      "name": "Medovik delicioso",
+      "description": "Un pastel elaborado con miel. Capas de hojaldre dorado y crema blanca como la nieve se abrazan en perfecta armonía. Contemplarlo es como hojear las páginas de una crónica, donde cada una revela una historia igualmente brillante y cautivadora.",
+      "effect": "#Restaura un 30% de la Vida Máx. al personaje seleccionado y regenera 790 pts. de Vida cada 5 s durante 30 s."
+    }
+  }
+}

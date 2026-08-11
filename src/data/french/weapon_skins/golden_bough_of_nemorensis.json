@@ -1,0 +1,21 @@
+{
+  "_id": 310003,
+  "id": "golden_bough_of_nemorensis",
+  "name": "Rameau doré de Nemorensis",
+  "description": "Une épée glorieuse et illusoire, surgie des profondeurs des lignes énergétiques. Son apparence peut changer selon le type élémentaire de son porteur. La légende raconte qu'en des temps immémoriaux, un envoyé des cieux confia cette longue épée au grand prêtre d'Arcadia, lui octroyant ainsi le droit de diriger la cité sainte bénie des mille vents.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Épée à une main"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1003,
+    "name": "Métamorphose radieuse : Éternité",
+    "priority": 2
+  },
+  "item_id": 341103,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphNemorensis_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphNemorensis"
+}

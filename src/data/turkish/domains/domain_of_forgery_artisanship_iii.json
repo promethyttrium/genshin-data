@@ -19,6 +19,11 @@
     "Buz",
     "Rüzgar"
   ],
+  "daysOfWeek": [
+    "Salı",
+    "Cuma",
+    "Pazar"
+  ],
   "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
   "domainText": "Weapon Ascension Materials",
   "rewardPreview": [

@@ -1,0 +1,32 @@
+{
+  "_id": 215032,
+  "id": "temporal_winds_eulogy",
+  "shareId": 617,
+  "name": "Alabanza del viento del tiempo",
+  "title": "Venti: Alabanza del viento del tiempo",
+  "desc": "“Por lo tanto, aquello ‘no revelado aún’ solo puede significar dos cosas: un futuro que no ha sido anclado por las estrellas, o uno deliberadamente borroso debido a las acciones de aquellos que albergan malas intenciones. Esto último es verdaderamente irritante, así que espero que la brujita de la historia nunca se convierta en alguien así”.",
+  "in_play_description": "Tras invocar un <span style=\"color:#FFFFFFFF\">Ojo del huracán</span>, el personaje afectado inflige <span style=\"color:#80FFD7FF\">Daño Anemo</span> en lugar de <span style=\"color:#FFFFFFFF\">Daño Físico</span> con sus próximos 2 <span style=\"color:#FFFFFFFF\">Ataques Normales</span> en esta ronda, y dichos ataques consumen 2 <span style=\"color:#FFFFFFFF\">dados indefinidos</span> menos.",
+  "attributes": {
+    "cost": 3,
+    "cost_type": "Anemo",
+    "card_type": "Carta de equipamiento",
+    "energy": [
+      {
+        "_id": 1105,
+        "id": "anemo",
+        "type": "Anemo",
+        "count": 3
+      }
+    ],
+    "tags": [
+      "Talento",
+      "Taumaturgia"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">Acción rápida</span>: equipa esta carta a tu <span style=\"color:#FFFFFFFF\">Venti</span>.<br/>Invoca un <span style=\"color:#FFFFFFFF\">Ojo del huracán</span>.<br/>Tras invocar un <span style=\"color:#FFFFFFFF\">Ojo del huracán</span>, el personaje afectado inflige <span style=\"color:#80FFD7FF\">Daño Anemo</span> en lugar de <span style=\"color:#FFFFFFFF\">Daño Físico</span> con sus próximos 2 <span style=\"color:#FFFFFFFF\">Ataques Normales</span> en esta ronda, y dichos ataques consumen 2 <span style=\"color:#FFFFFFFF\">dados indefinidos</span> menos.<br/>Solo puedes añadir esta carta al mazo si tienes a Venti en él."
+    }
+  ]
+}

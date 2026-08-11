@@ -1,0 +1,13 @@
+{
+  "_id": 70800044,
+  "id": "where_the_first_dawn_breaks",
+  "name": "曙光が再び昇る場所",
+  "areaName": "古獣の氷原",
+  "areaId": 80100,
+  "description": "最も寒さの厳しい夜でさえ、風雪を突いて歩みを進める者がいる。彼らがそうするのは、光り輝く明日を待ち望んでいるからに他ならない。",
+  "regionName": "スネージナヤ",
+  "regionId": 8,
+  "sortOrder": 644,
+  "filename_image": "UI_Codex_Scenery_ZDQiChengCheZhan",
+  "showOnlyUnlocked": true
+}

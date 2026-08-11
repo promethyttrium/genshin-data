@@ -17,6 +17,11 @@
     "Dendro",
     "Électro"
   ],
+  "daysOfWeek": [
+    "Lundi",
+    "Jeudi",
+    "Dimanche"
+  ],
   "domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
   "domainText": "Weapon Ascension Materials",
   "rewardPreview": [

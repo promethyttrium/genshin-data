@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Makhluk Mistis",
   "filename_icon": "UI_MonsterIcon_Natsaurus_Shamansaurus_Small",
   "description": "Iktomisaurus muda dengan indra persepsi yang peka. Bulunya belum tumbuh sempurna dan mungkin tampak kurang pandai. Dikatakan bahwa di antara Saurian yang hidup saat ini, Iktomisaurus adalah yang usianya terpanjang, sekaligus menjalani masa kanak-kanak yang lebih panjang juga. Mereka sanggup berkomunikasi dengan Kerajaan Malam atau Wayob, meskipun mungkin butuh waktu yang sangat lama bagi Iktomisaurus muda untuk memahami semua hal tersebut.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

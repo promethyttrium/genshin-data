@@ -13,7 +13,6 @@
   "categoryText": "Vực Sâu",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_01",
   "description": "Sinh mệnh kỳ lạ chủ yếu xuất hiện trong Elynas.\\nTrong nhận thức của Melusine, thì Nguyên Thể Khe Nứt cơ bản là sinh vật vô hại, thậm chí có Melusine còn cho rằng nó rất đáng yêu.\\nCảm nhận về thị giác của Melusine rất khác với con người.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 2,
+    "element": "Anemo",
+    "weapon": "Catalizador",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 8500,
@@ -29,8 +31,10 @@
     {
       "id": "pure_heart_pure_dreams",
       "name": "Corazón puro, sueños puros",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#80FFD7FF\">Daño Anemo</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -49,8 +53,10 @@
     {
       "id": "aisa_utamakura_pilgrimage",
       "name": "Peregrinaje de Aisa Utamakura",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y obtiene el efecto de <span style=\"color:#FFFFFFFF\">navegasueños</span>.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de <span style=\"color:#80FFD7FF\">Daño Anemo</span> y obtiene el efecto de <span style=\"color:#FFFFFFFF\">navegasueños</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -63,8 +69,10 @@
     {
       "id": "anraku_secret_spring_therapy",
       "name": "Terapia del manantial de Anraku",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?, crea 1 carta de <span style=\"color:#FFFFFFFF\">Dulce especial de Yumemizuki</span>, la coloca en la parte superior de tu mazo e invoca una <span style=\"color:#FFFFFFFF\">minibaku</span>.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#80FFD7FF\">Daño Anemo</span>, crea 1 carta de <span style=\"color:#FFFFFFFF\">Dulce especial de Yumemizuki</span>, la coloca en la parte superior de tu mazo e invoca una <span style=\"color:#FFFFFFFF\">minibaku</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1105,

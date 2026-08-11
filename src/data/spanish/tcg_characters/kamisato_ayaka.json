@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 3,
+    "element": "Cryo",
+    "weapon": "Espada ligera",
     "faction": [
-      null
+      "Inazuma"
     ],
     "talent_card": {
       "_id": 3208,
@@ -29,8 +31,10 @@
     {
       "id": "kamisato_art_kabuki",
       "name": "Estilo Kamisato: Elegancia",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 2 pts. de ?.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -49,8 +53,10 @@
     {
       "id": "kamisato_art_hyouka",
       "name": "Estilo Kamisato: Flor del hielo",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 3 pts. de <span style=\"color:#99FFFFFF\">Daño Cryo</span>.",
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -63,8 +69,10 @@
     {
       "id": "kamisato_art_soumetsu",
       "name": "Estilo Kamisato: Devastación glacial",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ? y crea una <span style=\"color:#FFFFFFFF\">ráfaga de ventisca</span>.",
-      "skillTag": [],
+      "desc": "Inflige 4 pts. de <span style=\"color:#99FFFFFF\">Daño Cryo</span> y crea una <span style=\"color:#FFFFFFFF\">ráfaga de ventisca</span>.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -84,7 +92,9 @@
       "id": "kamisato_art_senho",
       "name": "Estilo Kamisato: Senda de escarcha",
       "desc": "Pasiva: cuando este personaje pasa a ser el personaje en combate, obtiene un <span style=\"color:#FFFFFFFF\">imbuimiento Cryo</span>. Inflige la próxima vez daño +1 con su Ataque Normal durante esta ronda (2 veces por ronda).",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad pasiva"
+      ],
       "points": []
     }
   ]

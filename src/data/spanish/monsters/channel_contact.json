@@ -1,0 +1,41 @@
+{
+  "_id": 25132801,
+  "id": "channel_contact",
+  "monsterId": 25132803,
+  "name": "Enlazador de Canales",
+  "specialNames": [
+    "Enlazador de Canales"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "Bestias exóticas",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Beaver",
+  "description": "Un astuto volkodlak que camufla su cañón como un tronco de árbol.\\nComo es experto en camuflar las armas y la mercancía que lleva en las manos, a menudo recibe encargos de transporte de bienes o transmisión de información.\\nSeguramente fabricó en su tiempo libre el cañón que porta. De hecho, a veces también lo usa para disparar bengalas de señalización que camufla como fuegos artificiales.\\nNo te dejes engañar por las apariencias: en realidad, es un hada sumamente astuta y perspicaz.",
+  "aggroRange": "VISION_LEVEL_LITTLE_REMOTE",
+  "bgm": 1,
+  "budget": 3,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.1,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 12.801292,
+      "attack": 45.058296,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

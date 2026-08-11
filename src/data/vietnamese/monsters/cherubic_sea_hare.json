@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Ma Thú Đột Biến",
   "filename_icon": "UI_MonsterIcon_Aplysia_Mature",
   "description": "Hình thái sau khi trưởng thành của Thỏ Biển Thiên Sứ, \"đôi cánh\" trên lưng thật ra chính là khối mỡ để trữ năng lượng nguyên tố.\\nLoại động vật thủy sinh này cả đời đều cứ lo ăn và tích trữ lượng lớn năng lượng mà thực tế không cần dùng đến. Có lẽ vào ngày tận thế sau khi nước biển khô cạn, nó sẽ có thể tiếp tục sinh tồn trong một thời gian dài, hoặc sẽ trở thành nguồn dinh dưỡng quan trọng cho các sinh vật khác.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 6,
   "stats": {
     "resistance": {

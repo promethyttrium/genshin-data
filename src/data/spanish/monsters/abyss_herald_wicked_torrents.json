@@ -1,7 +1,7 @@
 {
   "_id": 22020101,
   "id": "abyss_herald_wicked_torrents",
-  "monsterId": 22020103,
+  "monsterId": 84202012,
   "name": "Emisario del Abismo - Rápidos malignos",
   "specialNames": [
     "Emisario del Abismo - Wynfled",
@@ -22,9 +22,8 @@
   "categoryText": "Abismo",
   "filename_icon": "UI_MonsterIcon_Invoker_Herald_Water_01",
   "description": "Un monstruo perteneciente a la Orden del Abismo que utiliza el elemento Hydro para luchar.\\nEstas silenciosas sombras son las predecesoras del Abismo. Lo asolan todo con sus filos de agua, rompen en pedazos cualquier armadura y defensa, aplastan a los herejes y castigan cruelmente a los ignorantes más despreocupados.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
-  "budget": 2,
+  "budget": 4,
   "stats": {
     "resistance": {
       "physical": 0.1,

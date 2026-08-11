@@ -1,0 +1,28 @@
+{
+  "_id": 332065,
+  "id": "witchs_homework",
+  "shareId": 618,
+  "name": "「魔女的课业」",
+  "title": "「魔女的课业」",
+  "desc": "「比起在故事的最后关头突然跳出来机械降神，还是早早就埋下伏笔更容易让人接受…」",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 1,
+    "cost_type": "相同元素",
+    "card_type": "事件牌",
+    "energy": [
+      {
+        "_id": 1108,
+        "id": "matching_element",
+        "type": "相同元素",
+        "count": 1
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "抓1张「天赋」牌。如果我方牌组中初始包含至少3张「天赋」牌，则赋予手牌中<span style=\"color:#FFFFFFFF\"><span style=\"color:#FFFFFFFF\">当前元素骰费用</span></span>最高的随机1张「天赋」牌<span style=\"color:#FFFFFFFF\">费用降低</span>。"
+    }
+  ]
+}

@@ -429,7 +429,7 @@
     {
       "id": "paradoxical_practice",
       "name": "Prática Paradoxal",
-      "description": "Quando Shikanoin Heizou está ativo no campo de batalha e desencadeia a reação de Redemoinho, ele obtém um acúmulo do efeito \"Declinação\" de <span style=\"color:#FFD780FF\">Soco Cardíaco</span>. Esse efeito pode ser desencadeado uma vez por 0.1 segundo.",
+      "description": "Quando Shikanoin Heizou está ativo no campo de batalha e desencadeia a reação de Redemoinho ou Redemoinho Estelar, ele obtém um acúmulo do efeito \"Declinação\" de <span style=\"color:#FFD780FF\">Soco Cardíaco</span>. Esse efeito pode ser desencadeado uma vez por 0.1 segundo.",
       "level": 1
     },
     {

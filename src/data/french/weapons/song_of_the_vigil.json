@@ -1,0 +1,328 @@
+{
+  "_id": 13436,
+  "id": "song_of_the_vigil",
+  "name": "Chant de la veillée",
+  "description": "Une longue lance qui jadis veillait sur tout. Aujourd'hui, elle a trouvé une nouvelle utilité auprès des enfants et dans leurs jeux d'imagination.",
+  "rarity": 4,
+  "type": {
+    "id": "Polearm",
+    "name": "Arme d'hast"
+  },
+  "domain": "Donjon de la maîtrise : Cicatrice d'une obsession maudite",
+  "passive": "Cadence des jours passés",
+  "bonus": "Déclencher une réaction élémentaire restaure <span>4/5/6/7/8</span> pts d'énergie élémentaire au personnage équipé de l'arme, cet effet pouvant être déclenché une fois toutes les 9 s. De plus, déclencher une réaction astrale augmente l'ATQ du personnage équipé de l'arme de <span>20 %/25 %/30 %/35 %/40 %</span> pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+  "specialProp": "Maîtrise élémentaire",
+  "stats": {
+    "primary": "ATQ de base",
+    "secondary": "Maîtrise élémentaire",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 44,
+        "secondary": 24
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 119,
+        "secondary": 42
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 144,
+        "secondary": 42
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 226,
+        "secondary": 62
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 252,
+        "secondary": 62
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 293,
+        "secondary": 71
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 319,
+        "secondary": 71
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 361,
+        "secondary": 81
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 387,
+        "secondary": 81
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 429,
+        "secondary": 91
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 455,
+        "secondary": 91
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 497,
+        "secondary": 101
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 523,
+        "secondary": 101
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 565,
+        "secondary": 110
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 5000,
+      "materials": [
+        {
+          "_id": 114093,
+          "id": "the_frost_emperors_revival",
+          "name": "Renaissance de l'empereur glacial",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "Racine creuse de vie",
+          "amount": 3,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "Paillette éthérée",
+          "amount": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 15000,
+      "materials": [
+        {
+          "_id": 114094,
+          "id": "the_frost_emperors_ceremony",
+          "name": "Cérémonie de l'empereur glacial",
+          "amount": 3,
+          "rarity": 3
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "Racine creuse de vie",
+          "amount": 12,
+          "rarity": 2
+        },
+        {
+          "_id": 112146,
+          "id": "ethereal_glimmershard",
+          "name": "Paillette éthérée",
+          "amount": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114094,
+          "id": "the_frost_emperors_ceremony",
+          "name": "Cérémonie de l'empereur glacial",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "Bourgeon de vie",
+          "amount": 6,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Cristal éthéré",
+          "amount": 6,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114095,
+          "id": "the_frost_emperors_lament",
+          "name": "Complainte de l'empereur glacial",
+          "amount": 3,
+          "rarity": 4
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "Bourgeon de vie",
+          "amount": 12,
+          "rarity": 3
+        },
+        {
+          "_id": 112147,
+          "id": "ethereal_crystal",
+          "name": "Cristal éthéré",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 35000,
+      "materials": [
+        {
+          "_id": 114095,
+          "id": "the_frost_emperors_lament",
+          "name": "Complainte de l'empereur glacial",
+          "amount": 6,
+          "rarity": 4
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "Noyau de vie",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Écaille éthérée",
+          "amount": 6,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114096,
+          "id": "the_frost_emperors_farewell",
+          "name": "Adieu de l'empereur glacial",
+          "amount": 4,
+          "rarity": 5
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "Noyau de vie",
+          "amount": 18,
+          "rarity": 4
+        },
+        {
+          "_id": 112148,
+          "id": "ethereal_crystalscale_stone",
+          "name": "Écaille éthérée",
+          "amount": 12,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "Cadence des jours passés",
+    "template": "Déclencher une réaction élémentaire restaure <span style=\"color:#99FFFFFF\">{0}</span> pts d'énergie élémentaire au personnage équipé de l'arme, cet effet pouvant être déclenché une fois toutes les 9 s. De plus, déclencher une réaction astrale augmente l'ATQ du personnage équipé de l'arme de <span style=\"color:#99FFFFFF\">{1}</span> pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+    "params": [
+      [
+        "4",
+        "20 %"
+      ],
+      [
+        "5",
+        "25 %"
+      ],
+      [
+        "6",
+        "30 %"
+      ],
+      [
+        "7",
+        "35 %"
+      ],
+      [
+        "8",
+        "40 %"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "Déclencher une réaction élémentaire restaure <span>4</span> pts d'énergie élémentaire au personnage équipé de l'arme, cet effet pouvant être déclenché une fois toutes les 9 s. De plus, déclencher une réaction astrale augmente l'ATQ du personnage équipé de l'arme de <span>20 %</span> pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
+    },
+    {
+      "refinement": 2,
+      "desc": "Déclencher une réaction élémentaire restaure <span>5</span> pts d'énergie élémentaire au personnage équipé de l'arme, cet effet pouvant être déclenché une fois toutes les 9 s. De plus, déclencher une réaction astrale augmente l'ATQ du personnage équipé de l'arme de <span>25 %</span> pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
+    },
+    {
+      "refinement": 3,
+      "desc": "Déclencher une réaction élémentaire restaure <span>6</span> pts d'énergie élémentaire au personnage équipé de l'arme, cet effet pouvant être déclenché une fois toutes les 9 s. De plus, déclencher une réaction astrale augmente l'ATQ du personnage équipé de l'arme de <span>30 %</span> pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
+    },
+    {
+      "refinement": 4,
+      "desc": "Déclencher une réaction élémentaire restaure <span>7</span> pts d'énergie élémentaire au personnage équipé de l'arme, cet effet pouvant être déclenché une fois toutes les 9 s. De plus, déclencher une réaction astrale augmente l'ATQ du personnage équipé de l'arme de <span>35 %</span> pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
+    },
+    {
+      "refinement": 5,
+      "desc": "Déclencher une réaction élémentaire restaure <span>8</span> pts d'énergie élémentaire au personnage équipé de l'arme, cet effet pouvant être déclenché une fois toutes les 9 s. De plus, déclencher une réaction astrale augmente l'ATQ du personnage équipé de l'arme de <span>40 %</span> pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
+    }
+  ]
+}

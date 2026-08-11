@@ -8,13 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_BEAST",
   "categoryText": "Bêtes mystiques",
   "filename_icon": "UI_MonsterIcon_Octopus_Larva_02",
   "description": "Une créature aquatique qui chasse en tirant des projectiles aqueux.\\nLa capacité d'envoyer des projectiles d'eau n'est bien sûr pas rare chez les Aberrants fontemarins. Mais pour le plongeur occasionnel quelque peu négligent, la plupart étant des touristes, un courant d'eau à haute pression de ce type peut constituer une menace réelle. Du matériel de plongée de bonne épaisseur est donc nécessaire pour deux raisons : d'une, pour résister à la pression de l'eau elle-même ; de deux, pour se protéger des attaques des Aberrants fontemarins.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
-  "bgm": 0,
   "budget": 8,
   "stats": {
     "resistance": {
@@ -29,8 +27,7 @@
     },
     "base": {
       "hp": 13.49,
-      "attack": 50,
-      "defense": 0
+      "attack": 50
     },
     "curve": {
       "hp": "GROW_CURVE_HP",

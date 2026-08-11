@@ -1,0 +1,20 @@
+{
+  "_id": 332066,
+  "id": "feasting_in_a_shared_toast",
+  "shareId": 619,
+  "name": "소모임",
+  "title": "소모임",
+  "desc": "「넌 맨날 제일 늦게 오더라. 얼른 앉아, 한참 기다렸잖아!」",
+  "in_play_description": "",
+  "attributes": {
+    "cost": 0,
+    "card_type": "이벤트 카드",
+    "energy": []
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">다음 턴 시작 시:</span> 양측이 각각 카드를 2장 드로우하고, 랜덤 원소 주사위 2개를 생성한다."
+    }
+  ]
+}

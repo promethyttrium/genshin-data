@@ -9,6 +9,8 @@
     "hp": 10,
     "card_type": "Карты персонажей",
     "energy": 3,
+    "element": "Анемо",
+    "weapon": "Катализатор",
     "faction": [],
     "source": "Награда за приглашение Странника в «Кошкин хвост» и победу в Дружеской дуэли"
   },
@@ -16,8 +18,10 @@
     {
       "id": "yuuban_meigen",
       "name": "Юбан мэйгэн",
-      "desc": "Наносит ?, ? ед.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80FFD7FF\">Анемо урон</span>, 1 ед.",
+      "skillTag": [
+        "Обычная атака"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -36,8 +40,10 @@
     {
       "id": "hanega_song_of_the_wind",
       "name": "Ханэга: Песнь ветра",
-      "desc": "Наносит ?, ? ед. У персонажа возникает <span style=\"color:#FFFFFFFF\">Избранник ветра</span>.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80FFD7FF\">Анемо урон</span>, 2 ед. У персонажа возникает <span style=\"color:#FFFFFFFF\">Избранник ветра</span>.",
+      "skillTag": [
+        "Элементальный навык"
+      ],
       "points": [
         {
           "_id": 1105,
@@ -50,8 +56,10 @@
     {
       "id": "kyougen_five_ceremonial_plays",
       "name": "Кёгэн: Пять церемониальных актов",
-      "desc": "Наносит ?, ? ед. Если у персонажа есть <span style=\"color:#FFFFFFFF\">Избранник ветра</span>, эта карта пропадает, а урон увеличивается на 1 ед.",
-      "skillTag": [],
+      "desc": "Наносит <span style=\"color:#80FFD7FF\">Анемо урон</span>, 7 ед. Если у персонажа есть <span style=\"color:#FFFFFFFF\">Избранник ветра</span>, эта карта пропадает, а урон увеличивается на 1 ед.",
+      "skillTag": [
+        "Взрыв стихии"
+      ],
       "points": [
         {
           "_id": 1105,

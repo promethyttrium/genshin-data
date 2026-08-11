@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Thẻ Nhân Vật",
     "energy": 2,
+    "element": "Nguyên Tố Băng",
+    "weapon": "Vũ Khí Khác",
     "faction": [
-      null
+      "Ma Vật"
     ],
     "source": "Nhận được sau khi Khiêu Chiến Quán Rượu ở chỗ Tiểu Hoàng Tử trong Quán Rượu Đuôi Mèo, và giành chiến thắng trong độ khó Đánh Giải Trí với Kẻ Ẩn Tu Ngoại Cảm Lạc Lối"
   },
@@ -18,8 +20,10 @@
     {
       "id": "spiritspeaking_frost_star",
       "name": "Ngoại Cảm - Hàn Tinh",
-      "desc": "Gây ? điểm ?.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm <span style=\"color:#99FFFFFF\">Sát Thương Nguyên Tố Băng</span>.",
+      "skillTag": [
+        "Tấn Công Thường"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -38,8 +42,10 @@
     {
       "id": "radiance_in_flux",
       "name": "Sắc Màu Biến Hóa",
-      "desc": "Gây ? điểm ?, đưa 1 lá <span style=\"color:#FFFFFFFF\">Rạng Rỡ</span> vào vị trí lá thứ 3 trong kho bài và <span style=\"color:#FFFFFFFF\">Lựa Chọn</span> 1 trong 3 hiệu quả cường hóa <span style=\"color:#FFFFFFFF\">Rạng Rỡ</span> ngẫu nhiên.",
-      "skillTag": [],
+      "desc": "Gây 1 điểm <span style=\"color:#99FFFFFF\">Sát Thương Nguyên Tố Băng</span>, đưa 1 lá <span style=\"color:#FFFFFFFF\">Rạng Rỡ</span> vào vị trí lá thứ 3 trong kho bài. Nếu là 4 lần đầu dùng kỹ năng này trong ván đấu, thì sẽ <span style=\"color:#FFFFFFFF\">Lựa Chọn</span> 1 trong 3 hiệu quả cường hóa <span style=\"color:#FFFFFFFF\">Rạng Rỡ</span> ngẫu nhiên.",
+      "skillTag": [
+        "Kỹ Năng Nguyên Tố"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -52,8 +58,10 @@
     {
       "id": "chilling_illustration",
       "name": "Hình Họa Lạnh Lẽo",
-      "desc": "Gây ? điểm ?, thêm 1 lá <span style=\"color:#FFFFFFFF\">Rạng Rỡ</span> vào bài trên tay.",
-      "skillTag": [],
+      "desc": "Gây 4 điểm <span style=\"color:#99FFFFFF\">Sát Thương Nguyên Tố Băng</span>, thêm 1 lá <span style=\"color:#FFFFFFFF\">Rạng Rỡ</span> vào bài trên tay.",
+      "skillTag": [
+        "Kỹ Năng Nộ"
+      ],
       "points": [
         {
           "_id": 1101,
@@ -73,7 +81,9 @@
       "id": "iridescent_silhouette",
       "name": "Bóng Hình Rực Rỡ",
       "desc": "(Bị động) Khi bắt đầu chiến đấu, sinh ra 3 thẻ <span style=\"color:#FFFFFFFF\">Rạng Rỡ</span>, đưa đều vào kho bài.",
-      "skillTag": [],
+      "skillTag": [
+        "Kỹ Năng Bị Động"
+      ],
       "points": []
     }
   ]

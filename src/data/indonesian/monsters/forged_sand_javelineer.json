@@ -31,22 +31,21 @@
       "_id": 112105,
       "id": "warriors_metal_whistle",
       "name": "Warrior's Metal Whistle",
-      "count": 0.3362
+      "count": 0.336
     },
     {
       "_id": 112104,
       "id": "sentrys_wooden_whistle",
       "name": "Sentry's Wooden Whistle",
-      "count": 1.2606
+      "count": 1.26
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Kelompok Manusia Lainnya",
   "filename_icon": "UI_MonsterIcon_Human_Fat_NoWeapon_Drillhead",
   "description": "Seorang petarung gagah dari lembah, dan merupakan penjaga suku yang melindungi gunung serta sungai kristal.\\nPada masa ketika bukit-bukit hancur berantakan dan para penduduk suku harus membangun kembali rumah mereka, para pejuang suku sering menggunakan tombak sebagai penanda di kedua sisi jurang agar mereka tahu bagian mana yang harus digali. Itu berarti mereka harus menancapkan tombaknya menembus permukaan berbatu.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 6,
   "stats": {

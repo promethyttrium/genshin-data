@@ -1,0 +1,21 @@
+{
+  "_id": 310001,
+  "id": "serpent_devourer",
+  "name": "Divoraserpenti",
+  "description": "Una gloriosa spada illusoria emersa dalle profondità delle linee geomantiche. Può cambiare aspetto in base al tipo elementale di chi l'impugna. Leggenda vuole che il nome di quest'arma fosse \"Logseims\" quando era brandita da un peccatore dorato in una terra antica.",
+  "rarity": 4,
+  "type": {
+    "id": "Sword",
+    "name": "Spada"
+  },
+  "is_sublimation": false,
+  "group": {
+    "_id": 1001,
+    "name": "Metamorfosi splendente: Trascendenza",
+    "priority": 1
+  },
+  "item_id": 341101,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Sword_MorphVinces_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Sword_MorphVinces"
+}

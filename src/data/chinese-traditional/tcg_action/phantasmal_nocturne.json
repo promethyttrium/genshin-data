@@ -1,0 +1,32 @@
+{
+  "_id": 214012,
+  "id": "phantasmal_nocturne",
+  "shareId": 616,
+  "name": "宵世幻奏",
+  "title": "菲謝爾·宵世幻奏",
+  "desc": "「不過，雖然所有題目都是意外的，但有些題目比其他題目更意外，比方說，有些小魔女抽到的課業只不過是想辦法用原初流溢的光明創造出屬於自己的物質世界，而有些小魔女抽到的題目卻是要將『靈魂』賦予原本只存在於想像中的生命…」",
+  "in_play_description": "<span style=\"color:#FFFFFFFF\">奧茲</span>在場時，我方<span style=\"color:#FFACFFFF\">雷元素相關反應</span>造成的傷害+1。（每回合3次）",
+  "attributes": {
+    "cost": 2,
+    "cost_type": "雷元素",
+    "card_type": "裝備牌",
+    "energy": [
+      {
+        "_id": 1104,
+        "id": "electro",
+        "type": "雷元素",
+        "count": 2
+      }
+    ],
+    "tags": [
+      "天賦",
+      "魔導"
+    ]
+  },
+  "skills": [
+    {
+      "name": "",
+      "desc": "<span style=\"color:#FFFFFFFF\">快速行動</span>：裝備給我方的<span style=\"color:#FFFFFFFF\">菲謝爾</span>。<br/>召喚<span style=\"color:#FFFFFFFF\">奧茲</span>。<br/><span style=\"color:#FFFFFFFF\">奧茲</span>在場時，我方<span style=\"color:#FFACFFFF\">雷元素相關反應</span>造成的傷害+1。（每回合3次）<br/>（牌組中包含菲謝爾，才能加入牌組）"
+    }
+  ]
+}

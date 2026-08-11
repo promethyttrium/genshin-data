@@ -1,0 +1,30 @@
+{
+  "_id": 104373,
+  "id": "philosophies_of_glory",
+  "name": "Filosofía de la gloria",
+  "description": "Material de mejora de talento.\\nLa gloria es la fe de la Nación del Hielo.\\nEs la llama inextinguible de la antorcha con la que la nación de las ventiscas comparte hoy su destino. La llama enciende las pasiones más nobles, y para mantener su fuego eterno, las personas están dispuestas a entregarlo todo.",
+  "source": [
+    "Cantidad sintetizable: {0}"
+  ],
+  "location": "Snezhnaya",
+  "rarity": 4,
+  "craft": {
+    "cost": 550,
+    "items": [
+      {
+        "_id": 104372,
+        "id": "guide_to_glory",
+        "name": "Guía de la gloria",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  },
+  "domain": "Dominio de la maestría: Contemplación conjunta IV",
+  "domainId": "domain_of_mastery_shared_vision_iv",
+  "days": [
+    "Miércoles",
+    "Sábado",
+    "Domingo"
+  ]
+}

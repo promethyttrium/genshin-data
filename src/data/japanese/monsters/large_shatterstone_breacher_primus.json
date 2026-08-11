@@ -13,7 +13,6 @@
   "categoryText": "アビス",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_01",
   "description": "主にエリナスに現れる不思議な生命体。\\nメリュジーヌの認識では、ブリーチャープリムスは基本的に無害な生物であり、可愛いとさえ思っているメリュジーヌもいる。\\nメリュジーヌの美的感覚は人とは大きく食い違っている。",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

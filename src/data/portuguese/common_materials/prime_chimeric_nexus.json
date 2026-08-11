@@ -1,0 +1,24 @@
+{
+  "_id": 112151,
+  "id": "prime_chimeric_nexus",
+  "name": "Nexo Quimérico Primordial",
+  "description": "O núcleo mais complexo que um monstro sintético consegue sustentar, servindo como uma semente de vida feita artificialmente, porém perfeitamente. Quem criou isso sem dúvidas desvendou os segredos de como a própria vida é moldada.",
+  "source": [
+    "Dropado por Monstros Quiméricos Anômalos Nv.60+",
+    "Resgate de Poeira Estrelar: Sintetize após o resgate",
+    "Quantidade a ser fabricada: {0}"
+  ],
+  "rarity": 3,
+  "craft": {
+    "cost": 50,
+    "items": [
+      {
+        "_id": 112150,
+        "id": "symbiotic_chimeric_nucleus",
+        "name": "Núcleo Quimérico Simbiótico",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

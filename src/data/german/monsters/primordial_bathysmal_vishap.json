@@ -25,19 +25,19 @@
       "_id": 112043,
       "id": "fossilized_bone_shard",
       "name": "Versteinertes Knochenstück",
-      "count": 0.3502
+      "count": 0.35
     },
     {
       "_id": 112042,
       "id": "sturdy_bone_shard",
       "name": "Stabiles Knochenstück",
-      "count": 1.4006
+      "count": 1.4
     },
     {
       "_id": 112041,
       "id": "fragile_bone_shard",
       "name": "Zerbrechliches Knochenstück",
-      "count": 5.2526
+      "count": 5.252
     },
     {
       "_id": 400023,
@@ -88,7 +88,6 @@
   "categoryText": "Mystische Bestien",
   "filename_icon": "UI_MonsterIcon_Drake_Deepsea_Water",
   "description": "Drachenechsen, die in der Meerestiefe leben.\\nSie waren einst die absolut herrschende Spezies der Meerestiefe. Und wenn man seinen Blick in eine noch fernere Vergangenheit wirft, dann weiß man, dass sich die ganze Welt einst in den uralten Zeiten vor den Drachen demütig niederknien musste. Jedoch wurden die einstigen Sieben Herrscher von einer Macht hoch aus dem himmel besiegt. Später sind sie einer nach dem anderen untergegangen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 2,
   "budget": 4,
   "stats": {

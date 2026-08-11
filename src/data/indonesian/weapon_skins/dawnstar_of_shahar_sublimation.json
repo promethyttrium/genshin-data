@@ -1,0 +1,21 @@
+{
+  "_id": 340004,
+  "id": "dawnstar_of_shahar_sublimation",
+  "name": "Dawnstar of Shahar - Sublimation",
+  "description": "Wujud senjata bercahaya yang muncul dari kedalaman Ley Line ini memancarkan cahaya \"Keabadian\" dan dapat berubah sesuai jenis elemen pemiliknya. Konon, pada zaman kuno yang kini sudah tak bisa lagi dikenang, utusan pertama pernah menganugerahkan segel suci berlapis emas kepada Penghulu Utama Hyperborea, mengizinkannya memimpin kota besar yang belum terselimuti kabut bayangan.",
+  "rarity": 5,
+  "type": {
+    "id": "Catalyst",
+    "name": "Catalyst"
+  },
+  "is_sublimation": true,
+  "group": {
+    "_id": 1004,
+    "name": "Radiant Metamorphosis: Eternity - Sublimation",
+    "priority": 2
+  },
+  "item_id": 341404,
+  "tag_type": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "icon_path": "UI_EquipIcon_Catalyst_MorphShahar_Great_{0}",
+  "image_path": "UI_Gacha_EquipIcon_Catalyst_MorphShahar_Great"
+}

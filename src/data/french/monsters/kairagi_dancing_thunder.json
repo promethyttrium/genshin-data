@@ -30,12 +30,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humains",
   "filename_icon": "UI_MonsterIcon_Samurai_Kairagi_01",
   "description": "Samouraï errant tombé en disgrâce.\\nBien que possédant une maîtrise avancée des arts martiaux, ces combattants n'ont hélas trouvé aucune application pour cette dernière, et ont fini en désespoir de cause par rejoindre les forces du mal. Ils utilisent des sceaux en papier, créés grâce à l'ancien art de l'École Kamuna perdu depuis des siècles, pour infuser leurs lames du pouvoir de la foudre.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 4,
   "budget": 6,
   "stats": {

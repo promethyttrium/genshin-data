@@ -14,7 +14,6 @@
   "filename_icon": "UI_MonsterIcon_WildHunt_Elite",
   "description": "Bóng ma quẩn quanh nơi vùng đất giá lạnh hoang vu trong màn sương đen tối. Sự xuất hiện của chúng dường như dự báo trước một tai họa khủng khiếp hơn.\\nDưới lớp băng giá nơi vùng đất mênh mông của phía bắc, chôn vùi các chiến binh vĩ đại của đất nước cổ xưa đã mất. Dù cho dấu vết tồn tại của họ đã bị xóa nhòa từ lâu, nhưng linh hồn anh dũng của dũng sĩ vẫn mãi bảo vệ vùng đất của vương quốc hoàng kim. Giờ đây, những linh hồn này đã thức tỉnh vì sự ô nhiễm của Vực Sâu, tất cả những kẻ dám xâm lược sẽ bị họ xem như con mồi.",
   "aggroRange": "VISION_LEVEL_REMOTE",
-  "bgm": 0,
   "budget": 2,
   "stats": {
     "resistance": {

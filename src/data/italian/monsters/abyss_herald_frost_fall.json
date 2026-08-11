@@ -22,7 +22,6 @@
   "categoryText": "Abisso",
   "filename_icon": "UI_MonsterIcon_Invoker_Herald_Ice",
   "description": "Un mostro dell'Ordine dell'Abisso che brandisce delle lame ghiacciate in battaglia.\\nProprio come esistono santi che diffondono e glorificano il verbo abissale, ci sono anche emissari che devono correggere qualsiasi distorsione e rimuovere ogni dissonanza.\\nLa gente dice spesso che l'acciaio è come il ghiaccio che trafigge il corpo, ma questo gelo oscuro sembra congelare persino l'anima.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 4,
   "stats": {

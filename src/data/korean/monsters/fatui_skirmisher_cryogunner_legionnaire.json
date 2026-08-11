@@ -39,12 +39,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_FATUI",
   "categoryText": "우인단",
   "filename_icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01",
   "description": "우인단 전쟁 병기 중의 병사.\\n어느 정도 원소를 제어할 수 있는 장비를 장착하고 있으며 총 형태의 무기로 순식간에 얼어붙는 서리를 발사할 수 있다.\\n비록 범상치 않은 수준의 원소의 힘을 가지고 있지만, 그만한 대가가 필요할 것이다…",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 3,
   "budget": 4,
   "stats": {

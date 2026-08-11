@@ -1,0 +1,80 @@
+{
+  "_id": 72,
+  "id": "meetings_in_outrealm_series_vii",
+  "name": "Begegnung in einer anderen Welt – Reihe 7",
+  "order": 37,
+  "achievements": [
+    {
+      "id": 86079,
+      "name": "Der Untergang des Seins",
+      "desc": "Besiege gemeinsam mit anderen Spielern den Himmelswächter der Frostnacht.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9076
+    },
+    {
+      "id": 86080,
+      "name": "Sechsundzwanzig, Durchschlag!",
+      "desc": "Besiege gemeinsam mit anderen Spielern den Superschweren Landkreuzer – Mobile Kampffestung.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9077
+    },
+    {
+      "id": 86081,
+      "name": "Dann sag es lieber nicht!",
+      "desc": "Besiege gemeinsam mit anderen Spielern den Herrn der verborgenen Tiefen – Flüsterer der Albträume.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9078
+    },
+    {
+      "id": 86082,
+      "name": "Die Wahrheit wird manifestiert",
+      "desc": "Besiege gemeinsam mit anderen Spielern „Il Dottore“.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9079
+    },
+    {
+      "id": 86083,
+      "name": "Was hast du überhaupt bewacht?",
+      "desc": "Besiege gemeinsam mit anderen Spielern den Glimmermondgecko.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9080
+    },
+    {
+      "id": 86084,
+      "name": "„Wenn ich meine glänzende Klinge schärfe ...“",
+      "desc": "Besiege gemeinsam mit anderen Spielern Wächter – Der Gestürzte.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9081
+    },
+    {
+      "id": 86085,
+      "name": "Unabhängige Ignoranz",
+      "desc": "Besiege gemeinsam mit anderen Spielern Il Dottore.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9082
+    },
+    {
+      "id": 86086,
+      "name": "Das Brechen der Unsterblichkeit",
+      "desc": "Besiege gemeinsam mit anderen Spielern ein Unzerstörbares Werk.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9083
+    },
+    {
+      "id": 86087,
+      "name": "Endliches Leben",
+      "desc": "Besiege gemeinsam mit anderen Spielern den Chimärischen Flügellöwen.",
+      "reward": 10,
+      "hidden": false,
+      "order": 9084
+    }
+  ]
+}

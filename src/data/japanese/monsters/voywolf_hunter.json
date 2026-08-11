@@ -1,0 +1,40 @@
+{
+  "_id": 25133701,
+  "id": "voywolf_hunter",
+  "monsterId": 25133702,
+  "name": "蒼狼の追跡者",
+  "specialNames": [
+    "蒼狼の追跡者"
+  ],
+  "rewardPreview": [],
+  "monsterType": "MONSTER_ORDINARY",
+  "enemyType": "COMMON",
+  "categoryType": "CODEX_SUBTYPE_BEAST",
+  "categoryText": "異種の魔獣",
+  "filename_icon": "UI_MonsterIcon_Volkodlak_Greyhound",
+  "description": "血に秘められた力をより多く受け継ぎ、極めて強くなった異怪の獣。\\nかつて彼らの氏族は、獣の王の麾下で単独の軍を編成できるほど繁栄していたが、ツァーリ・ベールイが蒼星の王廷の主として凍土全土を統一した後、戦争で大きな損害を受けなかった氏族はかえって信用されず、次第に衰退し、氷の女皇が玉座に就いた頃にはスネージナヤの権力の中枢から離れることとなった。現在、群狼の異怪の獣の多くは、雪原や山林の中に身を寄せている。",
+  "bgm": 1,
+  "budget": 2,
+  "stats": {
+    "resistance": {
+      "physical": 0.1,
+      "pyro": 0.1,
+      "dendro": 0.1,
+      "hydro": 0.1,
+      "geo": 0.1,
+      "anemo": 0.1,
+      "cryo": 0.3,
+      "electro": 0.1
+    },
+    "base": {
+      "hp": 18.287561,
+      "attack": 90.11659,
+      "defense": 500
+    },
+    "curve": {
+      "hp": "GROW_CURVE_HP_2",
+      "attack": "GROW_CURVE_ATTACK_2",
+      "defense": "GROW_CURVE_DEFENSE"
+    }
+  }
+}

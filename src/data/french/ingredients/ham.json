@@ -79,6 +79,11 @@
       "name": "Joie au coin du feu"
     },
     {
+      "_id": 3702,
+      "id": "snowrealm_okroshkas",
+      "name": "Okrochka des neiges"
+    },
+    {
       "_id": 4101,
       "id": "jade_parcels",
       "name": "Aumônières de jade"
@@ -111,6 +116,5 @@
   ],
   "source": [
     "Cuisine (préparation)"
-  ],
-  "rarity": 0
+  ]
 }

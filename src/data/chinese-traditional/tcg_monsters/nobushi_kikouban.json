@@ -8,14 +8,18 @@
     "hp": 6,
     "card_type": "角色牌",
     "energy": 2,
+    "element": "雷元素",
+    "weapon": "其他武器",
     "faction": []
   },
   "skills": [
     {
       "id": "combo_slash",
       "name": "連續斬",
-      "desc": "造成?點?。",
-      "skillTag": [],
+      "desc": "造成2點?。",
+      "skillTag": [
+        "普通攻擊"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -34,8 +38,10 @@
     {
       "id": "mechanical_thunderbow",
       "name": "機工雷弩",
-      "desc": "造成?點?。",
-      "skillTag": [],
+      "desc": "造成3點<span style=\"color:#FFACFFFF\">雷元素傷害</span>。",
+      "skillTag": [
+        "元素戰技"
+      ],
       "points": [
         {
           "_id": 1104,
@@ -49,7 +55,9 @@
       "id": "iai_sheathed",
       "name": "居合·納刀",
       "desc": "本角色<span style=\"color:#FFFFFFFF\">準備技能</span>：<span style=\"color:#FFFFFFFF\">居合·前</span>。",
-      "skillTag": [],
+      "skillTag": [
+        "元素爆發"
+      ],
       "points": [
         {
           "_id": 1108,
@@ -69,7 +77,9 @@
       "id": "zanshin",
       "name": "殘心",
       "desc": "【被動】結束階段：如果此角色是「出戰角色」，就獲得1點充能。",
-      "skillTag": [],
+      "skillTag": [
+        "被動技能"
+      ],
       "points": []
     }
   ]

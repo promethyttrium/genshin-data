@@ -9,8 +9,10 @@
     "hp": 10,
     "card_type": "Carta de personaje",
     "energy": 3,
+    "element": "Hydro",
+    "weapon": "Otras armas",
     "faction": [
-      null
+      "Monstruo"
     ],
     "talent_card": {
       "_id": 3235,
@@ -27,8 +29,10 @@
     {
       "id": "surge",
       "name": "Marejada",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?.",
-      "skillTag": [],
+      "desc": "Inflige 1 pt. de <span style=\"color:#80C0FFFF\">Daño Hydro</span>.",
+      "skillTag": [
+        "Ataque Normal"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -48,7 +52,9 @@
       "id": "oceanid_mimic_summoning",
       "name": "Invocación hidromimética",
       "desc": "Crea 1 <span style=\"color:#FFFFFFFF\">undefined</span> al azar. Priorizará la creación de un tipo diferente a los ya existentes.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -62,7 +68,9 @@
       "id": "the_myriad_wilds",
       "name": "Diversidad salvaje",
       "desc": "Crea 2 <span style=\"color:#FFFFFFFF\">Animales Hidromiméticos</span> al azar. Priorizará la creación de tipos diferentes a los ya existentes.",
-      "skillTag": [],
+      "skillTag": [
+        "Habilidad Elemental"
+      ],
       "points": [
         {
           "_id": 1102,
@@ -75,8 +83,10 @@
     {
       "id": "tide_and_torrent",
       "name": "Marejada torrencial",
-      "desc": "Inflige ? {PLURAL#$[D__KEY__DAMAGE|nc]|pt.|pts.} de ?. Por cada invocación que hayas creado, daño +1.",
-      "skillTag": [],
+      "desc": "Inflige 5 pts. de <span style=\"color:#80C0FFFF\">Daño Hydro</span>. Por cada invocación que hayas creado, daño +1.",
+      "skillTag": [
+        "Habilidad Definitiva"
+      ],
       "points": [
         {
           "_id": 1102,

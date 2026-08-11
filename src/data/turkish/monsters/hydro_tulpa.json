@@ -13,7 +13,6 @@
   "categoryText": "Element Yaşam Formları",
   "filename_icon": "UI_MonsterIcon_Narcissusborn_Normal_01",
   "description": "Su damlalarının birleşmesiyle oluşan insan biçimli bir canavar.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 1,
   "stats": {

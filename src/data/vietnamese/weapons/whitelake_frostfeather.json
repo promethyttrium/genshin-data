@@ -1,0 +1,333 @@
+{
+  "_id": 11520,
+  "id": "whitelake_frostfeather",
+  "name": "Bạch Hồ Đông Vũ",
+  "description": "Thanh kiếm thanh thoát tựa lông vũ mềm mại của thiên nga tuyết, luôn giữ được vẻ thuần khiết không tì vết.",
+  "rarity": 5,
+  "type": {
+    "id": "Sword",
+    "name": "Kiếm Đơn"
+  },
+  "domain": "Bí Cảnh Luyện Võ: Vết Sẹo Vọng Tưởng",
+  "passive": "Vũ Điệu Cuối Của Thiên Nga Tuyết",
+  "bonus": "Khi Kỹ Năng Nguyên Tố của người trang bị đánh trúng kẻ địch, sẽ nhận được \"Sắc Hồ Than Thở\": Tấn Công tăng <span>8%/10%/12%/14%/16%</span> trong 8s, tối đa cộng dồn 3 tầng, mỗi 0.1s tối đa kích hoạt một lần, thời gian duy trì mỗi tầng sẽ tính riêng. Khi có 3 tầng, sát thương phản ứng Tinh Tú Lấp Lánh của người trang bị sẽ tăng <span>50%/65%/80%/95%/110%</span> Sát Thương Bạo Kích, đồng thời khi kích hoạt phản ứng Tinh Tú Lấp Lánh hoặc gây sát thương phản ứng Tinh Tú Lấp Lánh, sẽ còn hồi phục <span>4/4.5/5/5.5/6</span> điểm Năng Lượng Nguyên Tố cho người trang bị. Hiệu quả hồi phục Năng Lượng Nguyên Tố kể trên mỗi 3.5s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên.",
+  "specialProp": "Tỷ Lệ Bạo Kích",
+  "stats": {
+    "primary": "Tấn Công Căn Bản",
+    "secondary": "Tỷ Lệ Bạo Kích",
+    "levels": [
+      {
+        "ascension": 0,
+        "level": 1,
+        "primary": 48,
+        "secondary": 4.8
+      },
+      {
+        "ascension": 0,
+        "level": 20,
+        "primary": 133,
+        "secondary": 8.5
+      },
+      {
+        "ascension": 1,
+        "level": 20,
+        "primary": 164,
+        "secondary": 8.5
+      },
+      {
+        "ascension": 1,
+        "level": 40,
+        "primary": 261,
+        "secondary": 12.4
+      },
+      {
+        "ascension": 2,
+        "level": 40,
+        "primary": 292,
+        "secondary": 12.4
+      },
+      {
+        "ascension": 2,
+        "level": 50,
+        "primary": 341,
+        "secondary": 14.3
+      },
+      {
+        "ascension": 3,
+        "level": 50,
+        "primary": 373,
+        "secondary": 14.3
+      },
+      {
+        "ascension": 3,
+        "level": 60,
+        "primary": 423,
+        "secondary": 16.2
+      },
+      {
+        "ascension": 4,
+        "level": 60,
+        "primary": 455,
+        "secondary": 16.2
+      },
+      {
+        "ascension": 4,
+        "level": 70,
+        "primary": 506,
+        "secondary": 18.2
+      },
+      {
+        "ascension": 5,
+        "level": 70,
+        "primary": 537,
+        "secondary": 18.2
+      },
+      {
+        "ascension": 5,
+        "level": 80,
+        "primary": 590,
+        "secondary": 20.1
+      },
+      {
+        "ascension": 6,
+        "level": 80,
+        "primary": 621,
+        "secondary": 20.1
+      },
+      {
+        "ascension": 6,
+        "level": 90,
+        "primary": 674,
+        "secondary": 22.1
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "ascension": 0,
+      "level": 20,
+      "materials": []
+    },
+    {
+      "ascension": 1,
+      "level": 40,
+      "cost": 10000,
+      "materials": [
+        {
+          "_id": 114089,
+          "id": "measured_pour_of_the_cellared_spiritual_nectar",
+          "name": "Cân Nhắc Của Tinh Chất Ủ Hầm",
+          "amount": 5,
+          "rarity": 2
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "Rễ Rỗng Sinh Linh",
+          "amount": 5,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Hạt Giống Lai Ghép",
+          "amount": 3,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 2,
+      "level": 50,
+      "cost": 20000,
+      "materials": [
+        {
+          "_id": 114090,
+          "id": "intoxication_of_the_cellared_spiritual_nectar",
+          "name": "Men Say Của Tinh Chất Ủ Hầm",
+          "amount": 5,
+          "rarity": 3
+        },
+        {
+          "_id": 112155,
+          "id": "hollow_root_of_life",
+          "name": "Rễ Rỗng Sinh Linh",
+          "amount": 18,
+          "rarity": 2
+        },
+        {
+          "_id": 112149,
+          "id": "chimeric_core",
+          "name": "Hạt Giống Lai Ghép",
+          "amount": 12,
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "ascension": 3,
+      "level": 60,
+      "cost": 30000,
+      "materials": [
+        {
+          "_id": 114090,
+          "id": "intoxication_of_the_cellared_spiritual_nectar",
+          "name": "Men Say Của Tinh Chất Ủ Hầm",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "Đốt Chồi Sinh Linh",
+          "amount": 9,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Tế Bào Lai Ghép",
+          "amount": 9,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 4,
+      "level": 70,
+      "cost": 45000,
+      "materials": [
+        {
+          "_id": 114091,
+          "id": "exhilaration_of_the_cellared_spiritual_nectar",
+          "name": "Sảng Khoái Của Tinh Chất Ủ Hầm",
+          "amount": 5,
+          "rarity": 4
+        },
+        {
+          "_id": 112156,
+          "id": "sprout_node_of_life",
+          "name": "Đốt Chồi Sinh Linh",
+          "amount": 18,
+          "rarity": 3
+        },
+        {
+          "_id": 112150,
+          "id": "symbiotic_chimeric_nucleus",
+          "name": "Tế Bào Lai Ghép",
+          "amount": 14,
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "ascension": 5,
+      "level": 80,
+      "cost": 55000,
+      "materials": [
+        {
+          "_id": 114091,
+          "id": "exhilaration_of_the_cellared_spiritual_nectar",
+          "name": "Sảng Khoái Của Tinh Chất Ủ Hầm",
+          "amount": 9,
+          "rarity": 4
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "Lõi Cành Xoắn Sinh Linh",
+          "amount": 14,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Thể Lai Ghép Nguyên Thủy",
+          "amount": 9,
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "ascension": 6,
+      "level": 90,
+      "cost": 65000,
+      "materials": [
+        {
+          "_id": 114092,
+          "id": "revelry_of_the_cellared_spiritual_nectar",
+          "name": "Phóng Khoáng Của Tinh Chất Ủ Hầm",
+          "amount": 6,
+          "rarity": 5
+        },
+        {
+          "_id": 112157,
+          "id": "coiled_core_of_life",
+          "name": "Lõi Cành Xoắn Sinh Linh",
+          "amount": 27,
+          "rarity": 4
+        },
+        {
+          "_id": 112151,
+          "id": "prime_chimeric_nexus",
+          "name": "Thể Lai Ghép Nguyên Thủy",
+          "amount": 18,
+          "rarity": 3
+        }
+      ]
+    }
+  ],
+  "refinement_raw": {
+    "name": "Vũ Điệu Cuối Của Thiên Nga Tuyết",
+    "template": "Khi Kỹ Năng Nguyên Tố của người trang bị đánh trúng kẻ địch, sẽ nhận được \"Sắc Hồ Than Thở\": Tấn Công tăng <span style=\"color:#99FFFFFF\">{0}</span> trong 8s, tối đa cộng dồn 3 tầng, mỗi 0.1s tối đa kích hoạt một lần, thời gian duy trì mỗi tầng sẽ tính riêng. Khi có 3 tầng, sát thương phản ứng Tinh Tú Lấp Lánh của người trang bị sẽ tăng <span style=\"color:#99FFFFFF\">{1}</span> Sát Thương Bạo Kích, đồng thời khi kích hoạt phản ứng Tinh Tú Lấp Lánh hoặc gây sát thương phản ứng Tinh Tú Lấp Lánh, sẽ còn hồi phục <span style=\"color:#99FFFFFF\">{2}</span> điểm Năng Lượng Nguyên Tố cho người trang bị. Hiệu quả hồi phục Năng Lượng Nguyên Tố kể trên mỗi 3.5s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên.",
+    "params": [
+      [
+        "8%",
+        "50%",
+        "4"
+      ],
+      [
+        "10%",
+        "65%",
+        "4.5"
+      ],
+      [
+        "12%",
+        "80%",
+        "5"
+      ],
+      [
+        "14%",
+        "95%",
+        "5.5"
+      ],
+      [
+        "16%",
+        "110%",
+        "6"
+      ]
+    ]
+  },
+  "refinements": [
+    {
+      "refinement": 1,
+      "desc": "Khi Kỹ Năng Nguyên Tố của người trang bị đánh trúng kẻ địch, sẽ nhận được \"Sắc Hồ Than Thở\": Tấn Công tăng <span>8%</span> trong 8s, tối đa cộng dồn 3 tầng, mỗi 0.1s tối đa kích hoạt một lần, thời gian duy trì mỗi tầng sẽ tính riêng. Khi có 3 tầng, sát thương phản ứng Tinh Tú Lấp Lánh của người trang bị sẽ tăng <span>50%</span> Sát Thương Bạo Kích, đồng thời khi kích hoạt phản ứng Tinh Tú Lấp Lánh hoặc gây sát thương phản ứng Tinh Tú Lấp Lánh, sẽ còn hồi phục <span>4</span> điểm Năng Lượng Nguyên Tố cho người trang bị. Hiệu quả hồi phục Năng Lượng Nguyên Tố kể trên mỗi 3.5s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+    },
+    {
+      "refinement": 2,
+      "desc": "Khi Kỹ Năng Nguyên Tố của người trang bị đánh trúng kẻ địch, sẽ nhận được \"Sắc Hồ Than Thở\": Tấn Công tăng <span>10%</span> trong 8s, tối đa cộng dồn 3 tầng, mỗi 0.1s tối đa kích hoạt một lần, thời gian duy trì mỗi tầng sẽ tính riêng. Khi có 3 tầng, sát thương phản ứng Tinh Tú Lấp Lánh của người trang bị sẽ tăng <span>65%</span> Sát Thương Bạo Kích, đồng thời khi kích hoạt phản ứng Tinh Tú Lấp Lánh hoặc gây sát thương phản ứng Tinh Tú Lấp Lánh, sẽ còn hồi phục <span>4.5</span> điểm Năng Lượng Nguyên Tố cho người trang bị. Hiệu quả hồi phục Năng Lượng Nguyên Tố kể trên mỗi 3.5s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+    },
+    {
+      "refinement": 3,
+      "desc": "Khi Kỹ Năng Nguyên Tố của người trang bị đánh trúng kẻ địch, sẽ nhận được \"Sắc Hồ Than Thở\": Tấn Công tăng <span>12%</span> trong 8s, tối đa cộng dồn 3 tầng, mỗi 0.1s tối đa kích hoạt một lần, thời gian duy trì mỗi tầng sẽ tính riêng. Khi có 3 tầng, sát thương phản ứng Tinh Tú Lấp Lánh của người trang bị sẽ tăng <span>80%</span> Sát Thương Bạo Kích, đồng thời khi kích hoạt phản ứng Tinh Tú Lấp Lánh hoặc gây sát thương phản ứng Tinh Tú Lấp Lánh, sẽ còn hồi phục <span>5</span> điểm Năng Lượng Nguyên Tố cho người trang bị. Hiệu quả hồi phục Năng Lượng Nguyên Tố kể trên mỗi 3.5s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+    },
+    {
+      "refinement": 4,
+      "desc": "Khi Kỹ Năng Nguyên Tố của người trang bị đánh trúng kẻ địch, sẽ nhận được \"Sắc Hồ Than Thở\": Tấn Công tăng <span>14%</span> trong 8s, tối đa cộng dồn 3 tầng, mỗi 0.1s tối đa kích hoạt một lần, thời gian duy trì mỗi tầng sẽ tính riêng. Khi có 3 tầng, sát thương phản ứng Tinh Tú Lấp Lánh của người trang bị sẽ tăng <span>95%</span> Sát Thương Bạo Kích, đồng thời khi kích hoạt phản ứng Tinh Tú Lấp Lánh hoặc gây sát thương phản ứng Tinh Tú Lấp Lánh, sẽ còn hồi phục <span>5.5</span> điểm Năng Lượng Nguyên Tố cho người trang bị. Hiệu quả hồi phục Năng Lượng Nguyên Tố kể trên mỗi 3.5s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+    },
+    {
+      "refinement": 5,
+      "desc": "Khi Kỹ Năng Nguyên Tố của người trang bị đánh trúng kẻ địch, sẽ nhận được \"Sắc Hồ Than Thở\": Tấn Công tăng <span>16%</span> trong 8s, tối đa cộng dồn 3 tầng, mỗi 0.1s tối đa kích hoạt một lần, thời gian duy trì mỗi tầng sẽ tính riêng. Khi có 3 tầng, sát thương phản ứng Tinh Tú Lấp Lánh của người trang bị sẽ tăng <span>110%</span> Sát Thương Bạo Kích, đồng thời khi kích hoạt phản ứng Tinh Tú Lấp Lánh hoặc gây sát thương phản ứng Tinh Tú Lấp Lánh, sẽ còn hồi phục <span>6</span> điểm Năng Lượng Nguyên Tố cho người trang bị. Hiệu quả hồi phục Năng Lượng Nguyên Tố kể trên mỗi 3.5s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+    }
+  ]
+}

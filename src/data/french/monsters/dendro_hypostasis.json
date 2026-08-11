@@ -13,7 +13,6 @@
   "categoryText": "Entités élémentaires",
   "filename_icon": "UI_MonsterIcon_Effigy_Grass",
   "description": "Nom de code « Zayin », une entité Dendro de niveau supérieur.\\nSelon les déductions de certains chercheurs, les Hypostases élémentaires sont suffisamment intelligentes pour « apprendre », comme en témoigne leur usage de « mimétisme » pour attaquer. Cependant, leur capacité d'assimiler des informations pour se transformer les expose à un risque de contamination extérieure. Au fur et à mesure que cette créature apprend et évolue, l'objectif de sa naissance, qui reste encore un mystère dans les sphères académiques, peut être déformé au point de devenir insignifiant.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 7,
   "budget": 1,
   "stats": {

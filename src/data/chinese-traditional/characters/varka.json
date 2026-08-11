@@ -595,7 +595,7 @@
     {
       "id": "winds_vanguard",
       "name": "風幟的先引",
-      "description": "隊伍中附近的角色觸發擴散反應時，法爾伽將獲得一層<span style=\"color:#FFD780FF\">「蒼牙之誓」</span>，使法爾伽的普通攻擊、重擊、特殊重擊<span style=\"color:#FFD780FF\">蒼噬</span>與施放的特殊元素戰技<b><span style=\"color:#FFD780FF\">四風將起</span></b>造成的傷害提升7.5%。該效果持續8秒，至多疊加4層，每名角色每1秒至多依此方式使法爾伽獲得一層<span style=\"color:#FFD780FF\">「蒼牙之誓」</span>。",
+      "description": "隊伍中附近的角色觸發擴散或星擴散反應時，法爾伽將獲得一層<span style=\"color:#FFD780FF\">「蒼牙之誓」</span>，使法爾伽的普通攻擊、重擊、特殊重擊<span style=\"color:#FFD780FF\">蒼噬</span>與施放的特殊元素戰技<b><span style=\"color:#FFD780FF\">四風將起</span></b>造成的傷害提升7.5%。該效果持續8秒，至多疊加4層，每名角色每1秒至多依此方式使法爾伽獲得一層<span style=\"color:#FFD780FF\">「蒼牙之誓」</span>。",
       "level": 4
     },
     {
@@ -631,7 +631,7 @@
       "_id": 1284,
       "id": "for_none_may_take_from_us_our_freedom_of_song",
       "name": "「因為無人能奪去我們歌唱的自由」",
-      "description": "法爾伽觸發擴散反應時，依據參與反應的元素類型，使隊伍中附近的所有角色分別獲得20%<span style=\"color:#80FFD7FF\">風元素傷害加成</span>與對應元素傷害加成，持續10秒。",
+      "description": "法爾伽觸發擴散或星擴散反應時，依據參與反應的元素類型，使隊伍中附近的所有角色分別獲得20%<span style=\"color:#80FFD7FF\">風元素傷害加成</span>與對應元素傷害加成，持續10秒。",
       "level": 4
     },
     {

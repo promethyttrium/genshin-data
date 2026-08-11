@@ -31,22 +31,21 @@
       "_id": 112066,
       "id": "trimmed_red_silk",
       "name": "Seda roja bordada",
-      "count": 0.2801
+      "count": 0.28
     },
     {
       "_id": 112065,
       "id": "faded_red_satin",
       "name": "Satén rojo descolorido",
-      "count": 1.0505
+      "count": 1.05
     }
   ],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HUMAN",
   "categoryText": "Humanos",
   "filename_icon": "UI_MonsterIcon_Eremite_Male_Strong_Katar",
   "description": "Miembro de los grupos dispersos de mercenarios procedentes del desierto dorado, dispuesto a trabajar para cualquiera con tal de obtener un buen pago a cambio de sus servicios.\\nAntiguamente, estos guerreros fuertemente armados fueron la devota guardia personal del Señor del Sol Abrasador. Quizá por ello su cuerpo refulge como el sol hasta el día de hoy.\\nInicuos y fragmentados espíritus moran en sus armas, acudiendo en su ayuda en sus momentos de mayor necesidad. Una vez aparecen, solo la agonía del vencido podrá aplacar su ira, sin importar si es la de su propietario o la del enemigo.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 2,
   "stats": {

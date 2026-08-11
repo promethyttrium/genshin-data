@@ -1,0 +1,24 @@
+{
+  "_id": 112154,
+  "id": "accreted_growth",
+  "name": "Thể Tăng Sinh Trầm Tích",
+  "description": "Tàn tích bám trọn vẹn vào các cơ quan hoặc xương. Thậm chí có thể nói, chúng đã sinh sôi thêm xương hoặc cơ quan mới ngay tại các điểm nút của vòng tuần hoàn sức mạnh. Chỉ những Volkodlak có tuổi thọ dài và không ngừng tu luyện mới có thể hình thành các khối tăng sinh như vậy bên trong cơ thể.",
+  "source": [
+    "Bạo Đồ Volkodlak cấp 60 trở lên rơi",
+    "Đổi Tinh Trần: Ghép sau khi đổi",
+    "Số lượng có thể ghép - chiếm chỗ: {0}"
+  ],
+  "rarity": 4,
+  "craft": {
+    "cost": 125,
+    "items": [
+      {
+        "_id": 112153,
+        "id": "accreted_mass",
+        "name": "Khối Trầm Tích",
+        "amount": 3
+      }
+    ],
+    "result": 1
+  }
+}

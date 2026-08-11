@@ -13,7 +13,6 @@
   "categoryText": "Der Abgrund",
   "filename_icon": "UI_MonsterIcon_Ovacua_Order_01",
   "description": "Eine seltsame Kreatur, die hauptsächlich in Elynas vorkommt.\\nFür die Melusinen ist der Rissprimus eine weitgehend harmlose Kreatur. Manche von ihnen finden ihn sogar recht putzig.\\nWas die visuelle Wahrnehmung der Melusinen betrifft, so unterscheidet sich diese doch recht stark von der der Menschen.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 5,
   "budget": 2,
   "stats": {

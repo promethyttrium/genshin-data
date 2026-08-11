@@ -8,12 +8,11 @@
   ],
   "rewardPreview": [],
   "monsterType": "MONSTER_ORDINARY",
-  "enemyType": "NORMAL",
+  "enemyType": "COMMON",
   "categoryType": "CODEX_SUBTYPE_HILICHURL",
   "categoryText": "Hilichurl",
   "filename_icon": "UI_MonsterIcon_Hili_Fire_Range",
   "description": "Gli abitanti primitivi che vagano per le terre selvagge di Teyvat.\\nQuesti tipi subdoli sono abili nell'usare i Melmosi di Pyro come armi per attaccare gli intrusi. I granatieri esperti possono distruggere quattro manichini di legno con un solo lancio.",
-  "aggroRange": "VISION_LEVEL_NORMAL",
   "bgm": 1,
   "budget": 4,
   "stats": {
